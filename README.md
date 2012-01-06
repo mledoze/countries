@@ -14,4 +14,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  
  - the country relevance
  
- The last two columns are inspired by https://github.com/JamieAppleseed/selectToAutocomplete. I removed a few spellings because of some unicode issues. If someone has a fix, please send a pull request.
+# 
+Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete. 
+
+NB: I removed a few spellings because of some unicode issues. If someone has a fix, please send a pull request.
