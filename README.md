@@ -4,7 +4,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
 
  - the country top-level domain
 
- - the country code ISO 3166-1 alpha-2 (cca2
+ - the country code ISO 3166-1 alpha-2 (cca2)
 
  - the country code ISO 3166-1 numeric (ccn3)
 
