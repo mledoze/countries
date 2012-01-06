@@ -17,4 +17,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
 # 
 Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete. 
 
+I used http://www.shancarter.com/data_converter/index.html to generate the JSON and XML; the CSV was done by hand.
+
+
 NB: I removed a few spellings because of some unicode issues. If someone has a fix, please send a pull request.
