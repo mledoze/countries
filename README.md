@@ -21,5 +21,4 @@ I used http://www.shancarter.com/data_converter/index.html to generate the JSON 
 
 NB: I removed a few spellings because of some unicode issues. If someone has a fix, please send a pull request.
 
-Sources
-Country name and codes: Wikipedia
+Source: Wikipedia
