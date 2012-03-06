@@ -10,7 +10,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
 
  - the country code ISO 3166-1 alpha-3 (cca3)
  
- - alternative spellings of the country name
+ - alternative spellings of the country name (separated by spaces)
  
  - the country relevance
  
