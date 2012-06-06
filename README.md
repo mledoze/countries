@@ -13,6 +13,8 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - alternative spellings of the country name (separated by spaces)
  
  - the country relevance
+
+ - the country currency code(s) (comma separated if necessary)
  
 # 
 Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete. 
@@ -21,4 +23,5 @@ I used http://www.shancarter.com/data_converter/index.html to generate the JSON 
 
 NB: I removed a few alternative spellings because of some unicode issues. If someone has a fix, please send a pull request.
 
-Source: Wikipedia
+# Sources
+Wikipedia and http://www.currency-iso.org/ for currency codes
