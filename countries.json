@@ -1,2234 +1,248 @@
-[
-    {
-        "name":"Afghanistan",
-        "tld":".af",
-        "cca2":"AF",
-        "ccn3":004,
-        "cca3":"AFG",
-        "alt-spellings":"AF",
-        "relevance":0
-    },
-    {
-        "name":"≈land Islands",
-        "tld":".ax",
-        "cca2":"AX",
-        "ccn3":248,
-        "cca3":"ALA",
-        "alt-spellings":"AX Aaland Aland",
-        "relevance":0.5
-    },
-    {
-        "name":"Albania",
-        "tld":".al",
-        "cca2":"AL",
-        "ccn3":008,
-        "cca3":"ALB",
-        "alt-spellings":"AL",
-        "relevance":0
-    },
-    {
-        "name":"Algeria",
-        "tld":".dz",
-        "cca2":"DZ",
-        "ccn3":012,
-        "cca3":"DZA",
-        "alt-spellings":"DZ",
-        "relevance":0
-    },
-    {
-        "name":"American Samoa",
-        "tld":".as",
-        "cca2":"AS",
-        "ccn3":016,
-        "cca3":"ASM",
-        "alt-spellings":"AS",
-        "relevance":0.5
-    },
-    {
-        "name":"Andorra",
-        "tld":".ad",
-        "cca2":"AD",
-        "ccn3":020,
-        "cca3":"AND",
-        "alt-spellings":"AD",
-        "relevance":0.5
-    },
-    {
-        "name":"Angola",
-        "tld":".ao",
-        "cca2":"AO",
-        "ccn3":024,
-        "cca3":"AGO",
-        "alt-spellings":"AO",
-        "relevance":0
-    },
-    {
-        "name":"Anguilla",
-        "tld":".ai",
-        "cca2":"AI",
-        "ccn3":660,
-        "cca3":"AIA",
-        "alt-spellings":"AI",
-        "relevance":0.5
-    },
-    {
-        "name":"Antarctica",
-        "tld":".aq",
-        "cca2":"AQ",
-        "ccn3":010,
-        "cca3":"ATA",
-        "alt-spellings":"AQ",
-        "relevance":0.5
-    },
-    {
-        "name":"Antigua and Barbuda",
-        "tld":".ag",
-        "cca2":"AG",
-        "ccn3":028,
-        "cca3":"ATG",
-        "alt-spellings":"AG",
-        "relevance":0.5
-    },
-    {
-        "name":"Argentina",
-        "tld":".ar",
-        "cca2":"AR",
-        "ccn3":032,
-        "cca3":"ARG",
-        "alt-spellings":"AR",
-        "relevance":0
-    },
-    {
-        "name":"Armenia",
-        "tld":".am",
-        "cca2":"AM",
-        "ccn3":051,
-        "cca3":"ARM",
-        "alt-spellings":"AM",
-        "relevance":0
-    },
-    {
-        "name":"Aruba",
-        "tld":".aw",
-        "cca2":"AW",
-        "ccn3":533,
-        "cca3":"ABW",
-        "alt-spellings":"AW",
-        "relevance":0.5
-    },
-    {
-        "name":"Australia",
-        "tld":".au",
-        "cca2":"AU",
-        "ccn3":036,
-        "cca3":"AUS",
-        "alt-spellings":"AU",
-        "relevance":1.5
-    },
-    {
-        "name":"Austria",
-        "tld":".at",
-        "cca2":"AT",
-        "ccn3":040,
-        "cca3":"AUT",
-        "alt-spellings":"AT ÷sterreich Osterreich Oesterreich",
-        "relevance":0
-    },
-    {
-        "name":"Azerbaijan",
-        "tld":".az",
-        "cca2":"AZ",
-        "ccn3":031,
-        "cca3":"AZE",
-        "alt-spellings":"AZ",
-        "relevance":0
-    },
-    {
-        "name":"Bahamas",
-        "tld":".bs",
-        "cca2":"BS",
-        "ccn3":044,
-        "cca3":"BHS",
-        "alt-spellings":"BS",
-        "relevance":0
-    },
-    {
-        "name":"Bahrain",
-        "tld":".bh",
-        "cca2":"BH",
-        "ccn3":048,
-        "cca3":"BHR",
-        "alt-spellings":"BH",
-        "relevance":0
-    },
-    {
-        "name":"Bangladesh",
-        "tld":".bd",
-        "cca2":"BD",
-        "ccn3":050,
-        "cca3":"BGD",
-        "alt-spellings":"BD",
-        "relevance":2
-    },
-    {
-        "name":"Barbados",
-        "tld":".bb",
-        "cca2":"BB",
-        "ccn3":052,
-        "cca3":"BRB",
-        "alt-spellings":"BB",
-        "relevance":0
-    },
-    {
-        "name":"Belarus",
-        "tld":".by",
-        "cca2":"BY",
-        "ccn3":112,
-        "cca3":"BLR",
-        "alt-spellings":"BY",
-        "relevance":0
-    },
-    {
-        "name":"Belgium",
-        "tld":".be",
-        "cca2":"BE",
-        "ccn3":056,
-        "cca3":"BEL",
-        "alt-spellings":"BE BelgiÎ Belgie Belgien Belgique",
-        "relevance":1.5
-    },
-    {
-        "name":"Belize",
-        "tld":".bz",
-        "cca2":"BZ",
-        "ccn3":084,
-        "cca3":"BLZ",
-        "alt-spellings":"BZ",
-        "relevance":0
-    },
-    {
-        "name":"Benin",
-        "tld":".bj",
-        "cca2":"BJ",
-        "ccn3":204,
-        "cca3":"BEN",
-        "alt-spellings":"BJ",
-        "relevance":0
-    },
-    {
-        "name":"Bermuda",
-        "tld":".bm",
-        "cca2":"BM",
-        "ccn3":060,
-        "cca3":"BMU",
-        "alt-spellings":"BM",
-        "relevance":0.5
-    },
-    {
-        "name":"Bhutan",
-        "tld":".bt",
-        "cca2":"BT",
-        "ccn3":064,
-        "cca3":"BTN",
-        "alt-spellings":"BT",
-        "relevance":0
-    },
-    {
-        "name":"Bolivia",
-        "tld":".bo",
-        "cca2":"BO",
-        "ccn3":068,
-        "cca3":"BOL",
-        "alt-spellings":"BO",
-        "relevance":0
-    },
-    {
-        "name":"Bonaire",
-        "tld":".bq",
-        "cca2":"BQ",
-        "ccn3":535,
-        "cca3":"BES",
-        "alt-spellings":"BQ",
-        "relevance":0
-    },
-    {
-        "name":"Bosnia and Herzegovina",
-        "tld":".ba",
-        "cca2":"BA",
-        "ccn3":070,
-        "cca3":"BIH",
-        "alt-spellings":"BA",
-        "relevance":0
-    },
-    {
-        "name":"Botswana",
-        "tld":".bw",
-        "cca2":"BW",
-        "ccn3":072,
-        "cca3":"BWA",
-        "alt-spellings":"BW",
-        "relevance":0
-    },
-    {
-        "name":"Bouvet Island",
-        "tld":".bv",
-        "cca2":"BV",
-        "ccn3":074,
-        "cca3":"BVT",
-        "alt-spellings":"BV",
-        "relevance":0
-    },
-    {
-        "name":"Brazil",
-        "tld":".br",
-        "cca2":"BR",
-        "ccn3":076,
-        "cca3":"BRA",
-        "alt-spellings":"BR Brasil",
-        "relevance":2
-    },
-    {
-        "name":"British Indian Ocean Territory",
-        "tld":".io",
-        "cca2":"IO",
-        "ccn3":086,
-        "cca3":"IOT",
-        "alt-spellings":"IO",
-        "relevance":0
-    },
-    {
-        "name":"Brunei Darussalam",
-        "tld":".bn",
-        "cca2":"BN",
-        "ccn3":096,
-        "cca3":"BRN",
-        "alt-spellings":"BN",
-        "relevance":0
-    },
-    {
-        "name":"Bulgaria",
-        "tld":".bg",
-        "cca2":"BG",
-        "ccn3":100,
-        "cca3":"BGR",
-        "alt-spellings":"BG",
-        "relevance":0
-    },
-    {
-        "name":"Burkina Faso",
-        "tld":".bf",
-        "cca2":"BF",
-        "ccn3":854,
-        "cca3":"BFA",
-        "alt-spellings":"BF",
-        "relevance":0
-    },
-    {
-        "name":"Burundi",
-        "tld":".bi",
-        "cca2":"BI",
-        "ccn3":108,
-        "cca3":"BDI",
-        "alt-spellings":"BI",
-        "relevance":0
-    },
-    {
-        "name":"Cambodia",
-        "tld":".kh",
-        "cca2":"KH",
-        "ccn3":116,
-        "cca3":"KHM",
-        "alt-spellings":"KH",
-        "relevance":0
-    },
-    {
-        "name":"Cameroon",
-        "tld":".cm",
-        "cca2":"CM",
-        "ccn3":120,
-        "cca3":"CMR",
-        "alt-spellings":"CM",
-        "relevance":0
-    },
-    {
-        "name":"Canada",
-        "tld":".ca",
-        "cca2":"CA",
-        "ccn3":124,
-        "cca3":"CAN",
-        "alt-spellings":"CA",
-        "relevance":2
-    },
-    {
-        "name":"Cape Verde",
-        "tld":".cv",
-        "cca2":"CV",
-        "ccn3":132,
-        "cca3":"CPV",
-        "alt-spellings":"CV Cabo",
-        "relevance":0
-    },
-    {
-        "name":"Cayman Islands",
-        "tld":".ky",
-        "cca2":"KY",
-        "ccn3":136,
-        "cca3":"CYM",
-        "alt-spellings":"KY",
-        "relevance":0.5
-    },
-    {
-        "name":"Central African Republic",
-        "tld":".cf",
-        "cca2":"CF",
-        "ccn3":140,
-        "cca3":"CAF",
-        "alt-spellings":"CF",
-        "relevance":0
-    },
-    {
-        "name":"Chad",
-        "tld":".td",
-        "cca2":"TD",
-        "ccn3":148,
-        "cca3":"TCD",
-        "alt-spellings":"TD Tchad",
-        "relevance":0
-    },
-    {
-        "name":"Chile",
-        "tld":".cl",
-        "cca2":"CL",
-        "ccn3":152,
-        "cca3":"CHL",
-        "alt-spellings":"CL",
-        "relevance":0
-    },
-    {
-        "name":"China",
-        "tld":".cn",
-        "cca2":"CN",
-        "ccn3":156,
-        "cca3":"CHN",
-        "alt-spellings":"CN Zhongguo Zhonghua Peoples Republic",
-        "relevance":0
-    },
-    {
-        "name":"Christmas Island",
-        "tld":".cx",
-        "cca2":"CX",
-        "ccn3":162,
-        "cca3":"CXR",
-        "alt-spellings":"CX",
-        "relevance":0.5
-    },
-    {
-        "name":"Colombia",
-        "tld":".co",
-        "cca2":"CO",
-        "ccn3":170,
-        "cca3":"COL",
-        "alt-spellings":"CO",
-        "relevance":0
-    },
-    {
-        "name":"Comoros",
-        "tld":".km",
-        "cca2":"KM",
-        "ccn3":174,
-        "cca3":"COM",
-        "alt-spellings":"KM",
-        "relevance":0
-    },
-    {
-        "name":"Republic of the Congo",
-        "tld":".cg",
-        "cca2":"CG",
-        "ccn3":178,
-        "cca3":"COG",
-        "alt-spellings":"CG",
-        "relevance":0
-    },
-    {
-        "name":"Democratic Republic of the Congo",
-        "tld":".cd",
-        "cca2":"CD",
-        "ccn3":180,
-        "cca3":"COD",
-        "alt-spellings":"CD Congo-Brazzaville Repubilika ya Kongo",
-        "relevance":0
-    },
-    {
-        "name":"Cook Islands",
-        "tld":".ck",
-        "cca2":"CK",
-        "ccn3":184,
-        "cca3":"COK",
-        "alt-spellings":"CK",
-        "relevance":0.5
-    },
-    {
-        "name":"Costa Rica",
-        "tld":".cr",
-        "cca2":"CR",
-        "ccn3":188,
-        "cca3":"CRI",
-        "alt-spellings":"CR",
-        "relevance":0
-    },
-    {
-        "name":"CÙte d'Ivoire",
-        "tld":".ci",
-        "cca2":"CI",
-        "ccn3":384,
-        "cca3":"CIV",
-        "alt-spellings":"CI Cote dIvoire",
-        "relevance":0
-    },
-    {
-        "name":"Croatia",
-        "tld":".hr",
-        "cca2":"HR",
-        "ccn3":191,
-        "cca3":"HRV",
-        "alt-spellings":"HR Hrvatska",
-        "relevance":0
-    },
-    {
-        "name":"Cuba",
-        "tld":".cu",
-        "cca2":"CU",
-        "ccn3":192,
-        "cca3":"CUB",
-        "alt-spellings":"CU",
-        "relevance":0
-    },
-    {
-        "name":"CuraÁao",
-        "tld":".cw",
-        "cca2":"CW",
-        "ccn3":531,
-        "cca3":"CUW",
-        "alt-spellings":"CW Curacao",
-        "relevance":0
-    },
-    {
-        "name":"Cyprus",
-        "tld":".cy",
-        "cca2":"CY",
-        "ccn3":196,
-        "cca3":"CYP",
-        "alt-spellings":"CY K˝pros",
-        "relevance":0
-    },
-    {
-        "name":"Czech Republic",
-        "tld":".cz",
-        "cca2":"CZ",
-        "ccn3":203,
-        "cca3":"CZE",
-        "alt-spellings":"CZ Ceska",
-        "relevance":0
-    },
-    {
-        "name":"Denmark",
-        "tld":".dk",
-        "cca2":"DK",
-        "ccn3":208,
-        "cca3":"DNK",
-        "alt-spellings":"DK Danmark",
-        "relevance":1.5
-    },
-    {
-        "name":"Djibouti",
-        "tld":".dj",
-        "cca2":"DJ",
-        "ccn3":262,
-        "cca3":"DJI",
-        "alt-spellings":"DJ Jabuuti Gabuuti",
-        "relevance":0
-    },
-    {
-        "name":"Dominica",
-        "tld":".dm",
-        "cca2":"DM",
-        "ccn3":212,
-        "cca3":"DMA",
-        "alt-spellings":"DM Dominique",
-        "relevance":0.5
-    },
-    {
-        "name":"Dominican Republic",
-        "tld":".do",
-        "cca2":"DO",
-        "ccn3":214,
-        "cca3":"DOM",
-        "alt-spellings":"DO",
-        "relevance":0
-    },
-    {
-        "name":"Ecuador",
-        "tld":".ec",
-        "cca2":"EC",
-        "ccn3":218,
-        "cca3":"ECU",
-        "alt-spellings":"EC",
-        "relevance":0
-    },
-    {
-        "name":"Egypt",
-        "tld":".eg",
-        "cca2":"EG",
-        "ccn3":818,
-        "cca3":"EGY",
-        "alt-spellings":"EG",
-        "relevance":1.5
-    },
-    {
-        "name":"El Salvador",
-        "tld":".sv",
-        "cca2":"SV",
-        "ccn3":222,
-        "cca3":"SLV",
-        "alt-spellings":"SV",
-        "relevance":0
-    },
-    {
-        "name":"Equatorial Guinea",
-        "tld":".gq",
-        "cca2":"GQ",
-        "ccn3":226,
-        "cca3":"GNQ",
-        "alt-spellings":"GQ",
-        "relevance":0
-    },
-    {
-        "name":"Eritrea",
-        "tld":".er",
-        "cca2":"ER",
-        "ccn3":232,
-        "cca3":"ERI",
-        "alt-spellings":"ER",
-        "relevance":0
-    },
-    {
-        "name":"Estonia",
-        "tld":".ee",
-        "cca2":"EE",
-        "ccn3":233,
-        "cca3":"EST",
-        "alt-spellings":"EE Eesti",
-        "relevance":0
-    },
-    {
-        "name":"Ethiopia",
-        "tld":".et",
-        "cca2":"ET",
-        "ccn3":231,
-        "cca3":"ETH",
-        "alt-spellings":"ET",
-        "relevance":0
-    },
-    {
-        "name":"Falkland Islands (Malvinas)",
-        "tld":".fk",
-        "cca2":"FK",
-        "ccn3":238,
-        "cca3":"FLK",
-        "alt-spellings":"FK",
-        "relevance":0.5
-    },
-    {
-        "name":"Faroe Islands",
-        "tld":".fo",
-        "cca2":"FO",
-        "ccn3":234,
-        "cca3":"FRO",
-        "alt-spellings":"FO F¯royar FÊr¯erne",
-        "relevance":0.5
-    },
-    {
-        "name":"Fiji",
-        "tld":".fj",
-        "cca2":"FJ",
-        "ccn3":242,
-        "cca3":"FJI",
-        "alt-spellings":"FJ Viti",
-        "relevance":0
-    },
-    {
-        "name":"Finland",
-        "tld":".fi",
-        "cca2":"FI",
-        "ccn3":246,
-        "cca3":"FIN",
-        "alt-spellings":"FI Suomi",
-        "relevance":0
-    },
-    {
-        "name":"France",
-        "tld":".fr",
-        "cca2":"FR",
-        "ccn3":250,
-        "cca3":"FRA",
-        "alt-spellings":"FR RÈpublique franÁaise",
-        "relevance":2.5
-    },
-    {
-        "name":"French Guiana",
-        "tld":".gf",
-        "cca2":"GF",
-        "ccn3":254,
-        "cca3":"GUF",
-        "alt-spellings":"GF",
-        "relevance":0
-    },
-    {
-        "name":"French Polynesia",
-        "tld":".pf",
-        "cca2":"PF",
-        "ccn3":258,
-        "cca3":"PYF",
-        "alt-spellings":"PF PolynÈsie franÁaise",
-        "relevance":0
-    },
-    {
-        "name":"French Southern Territories",
-        "tld":".tf",
-        "cca2":"TF",
-        "ccn3":260,
-        "cca3":"ATF",
-        "alt-spellings":"TF",
-        "relevance":0
-    },
-    {
-        "name":"Gabon",
-        "tld":".ga",
-        "cca2":"GA",
-        "ccn3":266,
-        "cca3":"GAB",
-        "alt-spellings":"GA RÈpublique Gabonaise",
-        "relevance":0
-    },
-    {
-        "name":"Gambia",
-        "tld":".gm",
-        "cca2":"GM",
-        "ccn3":270,
-        "cca3":"GMB",
-        "alt-spellings":"GM",
-        "relevance":0
-    },
-    {
-        "name":"Georgia",
-        "tld":".ge",
-        "cca2":"GE",
-        "ccn3":268,
-        "cca3":"GEO",
-        "alt-spellings":"GE",
-        "relevance":0
-    },
-    {
-        "name":"Germany",
-        "tld":".de",
-        "cca2":"DE",
-        "ccn3":276,
-        "cca3":"DEU",
-        "alt-spellings":"DE Bundesrepublik Deutschland",
-        "relevance":3
-    },
-    {
-        "name":"Ghana",
-        "tld":".gh",
-        "cca2":"GH",
-        "ccn3":288,
-        "cca3":"GHA",
-        "alt-spellings":"GH",
-        "relevance":0
-    },
-    {
-        "name":"Gibraltar",
-        "tld":".gi",
-        "cca2":"GI",
-        "ccn3":292,
-        "cca3":"GIB",
-        "alt-spellings":"GI",
-        "relevance":0.5
-    },
-    {
-        "name":"Greece",
-        "tld":".gr",
-        "cca2":"GR",
-        "ccn3":300,
-        "cca3":"GRC",
-        "alt-spellings":"GR",
-        "relevance":1.5
-    },
-    {
-        "name":"Greenland",
-        "tld":".gl",
-        "cca2":"GL",
-        "ccn3":304,
-        "cca3":"GRL",
-        "alt-spellings":"GL gr¯nland",
-        "relevance":0.5
-    },
-    {
-        "name":"Grenada",
-        "tld":".gd",
-        "cca2":"GD",
-        "ccn3":308,
-        "cca3":"GRD",
-        "alt-spellings":"GD",
-        "relevance":0
-    },
-    {
-        "name":"Guadeloupe",
-        "tld":".gp",
-        "cca2":"GP",
-        "ccn3":312,
-        "cca3":"GLP",
-        "alt-spellings":"GP",
-        "relevance":0
-    },
-    {
-        "name":"Guam",
-        "tld":".gu",
-        "cca2":"GU",
-        "ccn3":316,
-        "cca3":"GUM",
-        "alt-spellings":"GU",
-        "relevance":0
-    },
-    {
-        "name":"Guatemala",
-        "tld":".gt",
-        "cca2":"GT",
-        "ccn3":320,
-        "cca3":"GTM",
-        "alt-spellings":"GT",
-        "relevance":0
-    },
-    {
-        "name":"Guernsey",
-        "tld":".gg",
-        "cca2":"GG",
-        "ccn3":831,
-        "cca3":"GGY",
-        "alt-spellings":"GG",
-        "relevance":0.5
-    },
-    {
-        "name":"Guinea",
-        "tld":".gn",
-        "cca2":"GN",
-        "ccn3":324,
-        "cca3":"GIN",
-        "alt-spellings":"GN",
-        "relevance":0
-    },
-    {
-        "name":"Guinea-Bissau",
-        "tld":".gw",
-        "cca2":"GW",
-        "ccn3":624,
-        "cca3":"GNB",
-        "alt-spellings":"GW",
-        "relevance":0
-    },
-    {
-        "name":"Guyana",
-        "tld":".gy",
-        "cca2":"GY",
-        "ccn3":328,
-        "cca3":"GUY",
-        "alt-spellings":"GY",
-        "relevance":0
-    },
-    {
-        "name":"Haiti",
-        "tld":".ht",
-        "cca2":"HT",
-        "ccn3":332,
-        "cca3":"HTI",
-        "alt-spellings":"HT",
-        "relevance":0
-    },
-    {
-        "name":"Heard Island and McDonald Islands",
-        "tld":".hm",
-        "cca2":"HM",
-        "ccn3":334,
-        "cca3":"HMD",
-        "alt-spellings":"HM",
-        "relevance":0
-    },
-    {
-        "name":"Vatican City",
-        "tld":".va",
-        "cca2":"VA",
-        "ccn3":336,
-        "cca3":"VAT",
-        "alt-spellings":"VA",
-        "relevance":0.5
-    },
-    {
-        "name":"Honduras",
-        "tld":".hn",
-        "cca2":"HN",
-        "ccn3":340,
-        "cca3":"HND",
-        "alt-spellings":"HN",
-        "relevance":0
-    },
-    {
-        "name":"Hong Kong",
-        "tld":".hk",
-        "cca2":"HK",
-        "ccn3":344,
-        "cca3":"HKG",
-        "alt-spellings":"HK",
-        "relevance":0
-    },
-    {
-        "name":"Hungary",
-        "tld":".hu",
-        "cca2":"HU",
-        "ccn3":348,
-        "cca3":"HUN",
-        "alt-spellings":"HU Magyarorsz·g",
-        "relevance":0
-    },
-    {
-        "name":"Iceland",
-        "tld":".is",
-        "cca2":"IS",
-        "ccn3":352,
-        "cca3":"ISL",
-        "alt-spellings":"IS Island",
-        "relevance":0
-    },
-    {
-        "name":"India",
-        "tld":".in",
-        "cca2":"IN",
-        "ccn3":356,
-        "cca3":"IND",
-        "alt-spellings":"IN Hindustan",
-        "relevance":3
-    },
-    {
-        "name":"Indonesia",
-        "tld":".id",
-        "cca2":"ID",
-        "ccn3":360,
-        "cca3":"IDN",
-        "alt-spellings":"ID",
-        "relevance":2
-    },
-    {
-        "name":"Iran",
-        "tld":".ir",
-        "cca2":"IR",
-        "ccn3":364,
-        "cca3":"IRN",
-        "alt-spellings":"IR",
-        "relevance":0
-    },
-    {
-        "name":"Iraq",
-        "tld":".iq",
-        "cca2":"IQ",
-        "ccn3":368,
-        "cca3":"IRQ",
-        "alt-spellings":"IQ",
-        "relevance":0
-    },
-    {
-        "name":"Ireland",
-        "tld":".ie",
-        "cca2":"IE",
-        "ccn3":372,
-        "cca3":"IRL",
-        "alt-spellings":"IE …ire",
-        "relevance":1.2
-    },
-    {
-        "name":"Isle of Man",
-        "tld":".im",
-        "cca2":"IM",
-        "ccn3":833,
-        "cca3":"IMN",
-        "alt-spellings":"IM",
-        "relevance":0.5
-    },
-    {
-        "name":"Israel",
-        "tld":".il",
-        "cca2":"IL",
-        "ccn3":376,
-        "cca3":"ISR",
-        "alt-spellings":"IL",
-        "relevance":0
-    },
-    {
-        "name":"Italy",
-        "tld":".it",
-        "cca2":"IT",
-        "ccn3":380,
-        "cca3":"ITA",
-        "alt-spellings":"IT Italia",
-        "relevance":2
-    },
-    {
-        "name":"Jamaica",
-        "tld":".jm",
-        "cca2":"JM",
-        "ccn3":388,
-        "cca3":"JAM",
-        "alt-spellings":"JM",
-        "relevance":0
-    },
-    {
-        "name":"Japan",
-        "tld":".jp",
-        "cca2":"JP",
-        "ccn3":392,
-        "cca3":"JPN",
-        "alt-spellings":"JP Nippon Nihon",
-        "relevance":2.5
-    },
-    {
-        "name":"Jersey",
-        "tld":".je",
-        "cca2":"JE",
-        "ccn3":832,
-        "cca3":"JEY",
-        "alt-spellings":"JE",
-        "relevance":0.5
-    },
-    {
-        "name":"Jordan",
-        "tld":".jo",
-        "cca2":"JO",
-        "ccn3":400,
-        "cca3":"JOR",
-        "alt-spellings":"JO",
-        "relevance":0
-    },
-    {
-        "name":"Kazakhstan",
-        "tld":".kz",
-        "cca2":"KZ",
-        "ccn3":398,
-        "cca3":"KAZ",
-        "alt-spellings":"KZ",
-        "relevance":0
-    },
-    {
-        "name":"Kenya",
-        "tld":".ke",
-        "cca2":"KE",
-        "ccn3":404,
-        "cca3":"KEN",
-        "alt-spellings":"KE",
-        "relevance":0
-    },
-    {
-        "name":"Kiribati",
-        "tld":".ki",
-        "cca2":"KI",
-        "ccn3":296,
-        "cca3":"KIR",
-        "alt-spellings":"KI",
-        "relevance":0
-    },
-    {
-        "name":"North Korea",
-        "tld":".kp",
-        "cca2":"KP",
-        "ccn3":408,
-        "cca3":"PRK",
-        "alt-spellings":"KP",
-        "relevance":0
-    },
-    {
-        "name":"South Korea",
-        "tld":".kr",
-        "cca2":"KR",
-        "ccn3":410,
-        "cca3":"KOR",
-        "alt-spellings":"KR",
-        "relevance":1.5
-    },
-    {
-        "name":"Kuwait",
-        "tld":".kw",
-        "cca2":"KW",
-        "ccn3":414,
-        "cca3":"KWT",
-        "alt-spellings":"KW",
-        "relevance":0
-    },
-    {
-        "name":"Kyrgyzstan",
-        "tld":".kg",
-        "cca2":"KG",
-        "ccn3":417,
-        "cca3":"KGZ",
-        "alt-spellings":"KG",
-        "relevance":0
-    },
-    {
-        "name":"Laos",
-        "tld":".la",
-        "cca2":"LA",
-        "ccn3":418,
-        "cca3":"LAO",
-        "alt-spellings":"LA",
-        "relevance":0
-    },
-    {
-        "name":"Latvia",
-        "tld":".lv",
-        "cca2":"LV",
-        "ccn3":428,
-        "cca3":"LVA",
-        "alt-spellings":"LV Latvija",
-        "relevance":0
-    },
-    {
-        "name":"Lebanon",
-        "tld":".lb",
-        "cca2":"LB",
-        "ccn3":422,
-        "cca3":"LBN",
-        "alt-spellings":"LB",
-        "relevance":0
-    },
-    {
-        "name":"Lesotho",
-        "tld":".ls",
-        "cca2":"LS",
-        "ccn3":426,
-        "cca3":"LSO",
-        "alt-spellings":"LS",
-        "relevance":0
-    },
-    {
-        "name":"Liberia",
-        "tld":".lr",
-        "cca2":"LR",
-        "ccn3":430,
-        "cca3":"LBR",
-        "alt-spellings":"LR",
-        "relevance":0
-    },
-    {
-        "name":"Libya",
-        "tld":".ly",
-        "cca2":"LY",
-        "ccn3":434,
-        "cca3":"LBY",
-        "alt-spellings":"LY",
-        "relevance":0
-    },
-    {
-        "name":"Liechtenstein",
-        "tld":".li",
-        "cca2":"LI",
-        "ccn3":438,
-        "cca3":"LIE",
-        "alt-spellings":"LI",
-        "relevance":0
-    },
-    {
-        "name":"Lithuania",
-        "tld":".lt",
-        "cca2":"LT",
-        "ccn3":440,
-        "cca3":"LTU",
-        "alt-spellings":"LT Lietuva",
-        "relevance":0
-    },
-    {
-        "name":"Luxembourg",
-        "tld":".lu",
-        "cca2":"LU",
-        "ccn3":442,
-        "cca3":"LUX",
-        "alt-spellings":"LU",
-        "relevance":0
-    },
-    {
-        "name":"Macao",
-        "tld":".mo",
-        "cca2":"MO",
-        "ccn3":446,
-        "cca3":"MAC",
-        "alt-spellings":"MO",
-        "relevance":0
-    },
-    {
-        "name":"Macedonia",
-        "tld":".mk",
-        "cca2":"MK",
-        "ccn3":807,
-        "cca3":"MKD",
-        "alt-spellings":"MK",
-        "relevance":0
-    },
-    {
-        "name":"Madagascar",
-        "tld":".mg",
-        "cca2":"MG",
-        "ccn3":450,
-        "cca3":"MDG",
-        "alt-spellings":"MG Madagasikara",
-        "relevance":0
-    },
-    {
-        "name":"Malawi",
-        "tld":".mw",
-        "cca2":"MW",
-        "ccn3":454,
-        "cca3":"MWI",
-        "alt-spellings":"MW",
-        "relevance":0
-    },
-    {
-        "name":"Malaysia",
-        "tld":".my",
-        "cca2":"MY",
-        "ccn3":458,
-        "cca3":"MYS",
-        "alt-spellings":"MY",
-        "relevance":0
-    },
-    {
-        "name":"Maldives",
-        "tld":".mv",
-        "cca2":"MV",
-        "ccn3":462,
-        "cca3":"MDV",
-        "alt-spellings":"MV",
-        "relevance":0
-    },
-    {
-        "name":"Mali",
-        "tld":".ml",
-        "cca2":"ML",
-        "ccn3":466,
-        "cca3":"MLI",
-        "alt-spellings":"ML",
-        "relevance":0
-    },
-    {
-        "name":"Malta",
-        "tld":".mt",
-        "cca2":"MT",
-        "ccn3":470,
-        "cca3":"MLT",
-        "alt-spellings":"MT",
-        "relevance":0
-    },
-    {
-        "name":"Marshall Islands",
-        "tld":".mh",
-        "cca2":"MH",
-        "ccn3":584,
-        "cca3":"MHL",
-        "alt-spellings":"MH",
-        "relevance":0.5
-    },
-    {
-        "name":"Martinique",
-        "tld":".mq",
-        "cca2":"MQ",
-        "ccn3":474,
-        "cca3":"MTQ",
-        "alt-spellings":"MQ",
-        "relevance":0
-    },
-    {
-        "name":"Mauritania",
-        "tld":".mr",
-        "cca2":"MR",
-        "ccn3":478,
-        "cca3":"MRT",
-        "alt-spellings":"MR",
-        "relevance":0
-    },
-    {
-        "name":"Mauritius",
-        "tld":".mu",
-        "cca2":"MU",
-        "ccn3":480,
-        "cca3":"MUS",
-        "alt-spellings":"MU",
-        "relevance":0
-    },
-    {
-        "name":"Mayotte",
-        "tld":".yt",
-        "cca2":"YT",
-        "ccn3":175,
-        "cca3":"MYT",
-        "alt-spellings":"YT",
-        "relevance":0
-    },
-    {
-        "name":"Mexico",
-        "tld":".mx",
-        "cca2":"MX",
-        "ccn3":484,
-        "cca3":"MEX",
-        "alt-spellings":"MX Mexicanos",
-        "relevance":1.5
-    },
-    {
-        "name":"Micronesia",
-        "tld":".fm",
-        "cca2":"FM",
-        "ccn3":583,
-        "cca3":"FSM",
-        "alt-spellings":"FM",
-        "relevance":0
-    },
-    {
-        "name":"Moldova",
-        "tld":".md",
-        "cca2":"MD",
-        "ccn3":498,
-        "cca3":"MDA",
-        "alt-spellings":"MD",
-        "relevance":0
-    },
-    {
-        "name":"Monaco",
-        "tld":".mc",
-        "cca2":"MC",
-        "ccn3":492,
-        "cca3":"MCO",
-        "alt-spellings":"MC",
-        "relevance":0
-    },
-    {
-        "name":"Mongolia",
-        "tld":".mn",
-        "cca2":"MN",
-        "ccn3":496,
-        "cca3":"MNG",
-        "alt-spellings":"MN",
-        "relevance":0
-    },
-    {
-        "name":"Montenegro",
-        "tld":".me",
-        "cca2":"ME",
-        "ccn3":499,
-        "cca3":"MNE",
-        "alt-spellings":"ME",
-        "relevance":0
-    },
-    {
-        "name":"Montserrat",
-        "tld":".ms",
-        "cca2":"MS",
-        "ccn3":500,
-        "cca3":"MSR",
-        "alt-spellings":"MS",
-        "relevance":0.5
-    },
-    {
-        "name":"Morocco",
-        "tld":".ma",
-        "cca2":"MA",
-        "ccn3":504,
-        "cca3":"MAR",
-        "alt-spellings":"MA",
-        "relevance":0
-    },
-    {
-        "name":"Mozambique",
-        "tld":".mz",
-        "cca2":"MZ",
-        "ccn3":508,
-        "cca3":"MOZ",
-        "alt-spellings":"MZ MoÁambique",
-        "relevance":0
-    },
-    {
-        "name":"Myanmar",
-        "tld":".mm",
-        "cca2":"MM",
-        "ccn3":104,
-        "cca3":"MMR",
-        "alt-spellings":"MM",
-        "relevance":0
-    },
-    {
-        "name":"Namibia",
-        "tld":".na",
-        "cca2":"NA",
-        "ccn3":516,
-        "cca3":"NAM",
-        "alt-spellings":"NA NamibiÎ",
-        "relevance":0
-    },
-    {
-        "name":"Nauru",
-        "tld":".nr",
-        "cca2":"NR",
-        "ccn3":520,
-        "cca3":"NRU",
-        "alt-spellings":"NR Naoero",
-        "relevance":0.5
-    },
-    {
-        "name":"Nepal",
-        "tld":".np",
-        "cca2":"NP",
-        "ccn3":524,
-        "cca3":"NPL",
-        "alt-spellings":"NP",
-        "relevance":0
-    },
-    {
-        "name":"Netherlands",
-        "tld":".nl",
-        "cca2":"NL",
-        "ccn3":528,
-        "cca3":"NLD",
-        "alt-spellings":"NL Holland Nederland",
-        "relevance":1.5
-    },
-    {
-        "name":"New Caledonia",
-        "tld":".nc",
-        "cca2":"NC",
-        "ccn3":540,
-        "cca3":"NCL",
-        "alt-spellings":"NC",
-        "relevance":0.5
-    },
-    {
-        "name":"New Zealand",
-        "tld":".nz",
-        "cca2":"NZ",
-        "ccn3":554,
-        "cca3":"NZL",
-        "alt-spellings":"NZ Aotearoa",
-        "relevance":0
-    },
-    {
-        "name":"Nicaragua",
-        "tld":".ni",
-        "cca2":"NI",
-        "ccn3":558,
-        "cca3":"NIC",
-        "alt-spellings":"NI",
-        "relevance":0
-    },
-    {
-        "name":"Niger",
-        "tld":".ne",
-        "cca2":"NE",
-        "ccn3":562,
-        "cca3":"NER",
-        "alt-spellings":"NE Nijar",
-        "relevance":0
-    },
-    {
-        "name":"Nigeria",
-        "tld":".ng",
-        "cca2":"NG",
-        "ccn3":566,
-        "cca3":"NGA",
-        "alt-spellings":"NG Nijeriya NaÌjÌrÌ‡",
-        "relevance":1.5
-    },
-    {
-        "name":"Niue",
-        "tld":".nu",
-        "cca2":"NU",
-        "ccn3":570,
-        "cca3":"NIU",
-        "alt-spellings":"NU",
-        "relevance":0.5
-    },
-    {
-        "name":"Norfolk Island",
-        "tld":".nf",
-        "cca2":"NF",
-        "ccn3":574,
-        "cca3":"NFK",
-        "alt-spellings":"NF",
-        "relevance":0.5
-    },
-    {
-        "name":"Northern Mariana Islands",
-        "tld":".mp",
-        "cca2":"MP",
-        "ccn3":580,
-        "cca3":"MNP",
-        "alt-spellings":"MP",
-        "relevance":0.5
-    },
-    {
-        "name":"Norway",
-        "tld":".no",
-        "cca2":"NO",
-        "ccn3":578,
-        "cca3":"NOR",
-        "alt-spellings":"NO Norge Noreg",
-        "relevance":1.5
-    },
-    {
-        "name":"Oman",
-        "tld":".om",
-        "cca2":"OM",
-        "ccn3":512,
-        "cca3":"OMN",
-        "alt-spellings":"OM",
-        "relevance":0
-    },
-    {
-        "name":"Pakistan",
-        "tld":".pk",
-        "cca2":"PK",
-        "ccn3":586,
-        "cca3":"PAK",
-        "alt-spellings":"PK",
-        "relevance":2
-    },
-    {
-        "name":"Palau",
-        "tld":".pw",
-        "cca2":"PW",
-        "ccn3":585,
-        "cca3":"PLW",
-        "alt-spellings":"PW",
-        "relevance":0.5
-    },
-    {
-        "name":"Palestinian Territory",
-        "tld":".ps",
-        "cca2":"PS",
-        "ccn3":275,
-        "cca3":"PSE",
-        "alt-spellings":"PS",
-        "relevance":0
-    },
-    {
-        "name":"Panama",
-        "tld":".pa",
-        "cca2":"PA",
-        "ccn3":591,
-        "cca3":"PAN",
-        "alt-spellings":"PA",
-        "relevance":0
-    },
-    {
-        "name":"Papua New Guinea",
-        "tld":".pg",
-        "cca2":"PG",
-        "ccn3":598,
-        "cca3":"PNG",
-        "alt-spellings":"PG",
-        "relevance":0
-    },
-    {
-        "name":"Paraguay",
-        "tld":".py",
-        "cca2":"PY",
-        "ccn3":600,
-        "cca3":"PRY",
-        "alt-spellings":"PY",
-        "relevance":0
-    },
-    {
-        "name":"Peru",
-        "tld":".pe",
-        "cca2":"PE",
-        "ccn3":604,
-        "cca3":"PER",
-        "alt-spellings":"PE",
-        "relevance":0
-    },
-    {
-        "name":"Philippines",
-        "tld":".ph",
-        "cca2":"PH",
-        "ccn3":608,
-        "cca3":"PHL",
-        "alt-spellings":"PH Pilipinas",
-        "relevance":1.5
-    },
-    {
-        "name":"Pitcairn",
-        "tld":".pn",
-        "cca2":"PN",
-        "ccn3":612,
-        "cca3":"PCN",
-        "alt-spellings":"PN",
-        "relevance":0.5
-    },
-    {
-        "name":"Poland",
-        "tld":".pl",
-        "cca2":"PL",
-        "ccn3":616,
-        "cca3":"POL",
-        "alt-spellings":"PL Polska",
-        "relevance":1.25
-    },
-    {
-        "name":"Portugal",
-        "tld":".pt",
-        "cca2":"PT",
-        "ccn3":620,
-        "cca3":"PRT",
-        "alt-spellings":"PT Portuguesa",
-        "relevance":1.5
-    },
-    {
-        "name":"Puerto Rico",
-        "tld":".pr",
-        "cca2":"PR",
-        "ccn3":630,
-        "cca3":"PRI",
-        "alt-spellings":"PR",
-        "relevance":0
-    },
-    {
-        "name":"Qatar",
-        "tld":".qa",
-        "cca2":"QA",
-        "ccn3":634,
-        "cca3":"QAT",
-        "alt-spellings":"QA",
-        "relevance":0
-    },
-    {
-        "name":"RÈunion",
-        "tld":".re",
-        "cca2":"RE",
-        "ccn3":638,
-        "cca3":"REU",
-        "alt-spellings":"RE Reunion",
-        "relevance":0
-    },
-    {
-        "name":"Romania",
-        "tld":".ro",
-        "cca2":"RO",
-        "ccn3":642,
-        "cca3":"ROU",
-        "alt-spellings":"RO Rumania Roumania Rom‚nia",
-        "relevance":0
-    },
-    {
-        "name":"Russian Federation",
-        "tld":".ru",
-        "cca2":"RU",
-        "ccn3":643,
-        "cca3":"RUS",
-        "alt-spellings":"RU Rossiya",
-        "relevance":2.5
-    },
-    {
-        "name":"Rwanda",
-        "tld":".rw",
-        "cca2":"RW",
-        "ccn3":646,
-        "cca3":"RWA",
-        "alt-spellings":"RW",
-        "relevance":0
-    },
-    {
-        "name":"Saint BarthÈlemy",
-        "tld":".bl",
-        "cca2":"BL",
-        "ccn3":652,
-        "cca3":"BLM",
-        "alt-spellings":"BL St. Barthelemy",
-        "relevance":0
-    },
-    {
-        "name":"Saint Helena",
-        "tld":".sh",
-        "cca2":"SH",
-        "ccn3":654,
-        "cca3":"SHN",
-        "alt-spellings":"SH St.",
-        "relevance":0
-    },
-    {
-        "name":"Saint Kitts and Nevis",
-        "tld":".kn",
-        "cca2":"KN",
-        "ccn3":659,
-        "cca3":"KNA",
-        "alt-spellings":"KN St.",
-        "relevance":0
-    },
-    {
-        "name":"Saint Lucia",
-        "tld":".lc",
-        "cca2":"LC",
-        "ccn3":662,
-        "cca3":"LCA",
-        "alt-spellings":"LC St.",
-        "relevance":0
-    },
-    {
-        "name":"Saint Martin",
-        "tld":".mf",
-        "cca2":"MF",
-        "ccn3":663,
-        "cca3":"MAF",
-        "alt-spellings":"MF St.",
-        "relevance":0
-    },
-    {
-        "name":"Saint Pierre and Miquelon",
-        "tld":".pm",
-        "cca2":"PM",
-        "ccn3":666,
-        "cca3":"SPM",
-        "alt-spellings":"PM St.",
-        "relevance":0
-    },
-    {
-        "name":"Saint Vincent and the Grenadines",
-        "tld":".vc",
-        "cca2":"VC",
-        "ccn3":670,
-        "cca3":"VCT",
-        "alt-spellings":"VC St.",
-        "relevance":0
-    },
-    {
-        "name":"Samoa",
-        "tld":".ws",
-        "cca2":"WS",
-        "ccn3":882,
-        "cca3":"WSM",
-        "alt-spellings":"WS",
-        "relevance":0
-    },
-    {
-        "name":"San Marino",
-        "tld":".sm",
-        "cca2":"SM",
-        "ccn3":674,
-        "cca3":"SMR",
-        "alt-spellings":"SM",
-        "relevance":0
-    },
-    {
-        "name":"Sao Tome and Principe",
-        "tld":".st",
-        "cca2":"ST",
-        "ccn3":678,
-        "cca3":"STP",
-        "alt-spellings":"ST",
-        "relevance":0
-    },
-    {
-        "name":"Saudi Arabia",
-        "tld":".sa",
-        "cca2":"SA",
-        "ccn3":682,
-        "cca3":"SAU",
-        "alt-spellings":"SA",
-        "relevance":0
-    },
-    {
-        "name":"Senegal",
-        "tld":".sn",
-        "cca2":"SN",
-        "ccn3":686,
-        "cca3":"SEN",
-        "alt-spellings":"SN SÈnÈgal",
-        "relevance":0
-    },
-    {
-        "name":"Serbia",
-        "tld":".rs",
-        "cca2":"RS",
-        "ccn3":688,
-        "cca3":"SRB",
-        "alt-spellings":"RS Srbija",
-        "relevance":0
-    },
-    {
-        "name":"Seychelles",
-        "tld":".sc",
-        "cca2":"SC",
-        "ccn3":690,
-        "cca3":"SYC",
-        "alt-spellings":"SC",
-        "relevance":0.5
-    },
-    {
-        "name":"Sierra Leone",
-        "tld":".sl",
-        "cca2":"SL",
-        "ccn3":694,
-        "cca3":"SLE",
-        "alt-spellings":"SL",
-        "relevance":0
-    },
-    {
-        "name":"Singapore",
-        "tld":".sg",
-        "cca2":"SG",
-        "ccn3":702,
-        "cca3":"SGP",
-        "alt-spellings":"SG Singapura",
-        "relevance":0
-    },
-    {
-        "name":"Sint Maarten",
-        "tld":".sx",
-        "cca2":"SX",
-        "ccn3":534,
-        "cca3":"SXM",
-        "alt-spellings":"SX",
-        "relevance":0
-    },
-    {
-        "name":"Slovakia",
-        "tld":".sk",
-        "cca2":"SK",
-        "ccn3":703,
-        "cca3":"SVK",
-        "alt-spellings":"SK Slovensk· Slovensko",
-        "relevance":0
-    },
-    {
-        "name":"Slovenia",
-        "tld":".si",
-        "cca2":"SI",
-        "ccn3":705,
-        "cca3":"SVN",
-        "alt-spellings":"SI Slovenija",
-        "relevance":0
-    },
-    {
-        "name":"Solomon Islands",
-        "tld":".sb",
-        "cca2":"SB",
-        "ccn3":090,
-        "cca3":"SLB",
-        "alt-spellings":"SB",
-        "relevance":0
-    },
-    {
-        "name":"Somalia",
-        "tld":".so",
-        "cca2":"SO",
-        "ccn3":706,
-        "cca3":"SOM",
-        "alt-spellings":"SO",
-        "relevance":0
-    },
-    {
-        "name":"South Africa",
-        "tld":".za",
-        "cca2":"ZA",
-        "ccn3":710,
-        "cca3":"ZAF",
-        "alt-spellings":"ZA RSA Suid-Afrika",
-        "relevance":0
-    },
-    {
-        "name":"South Georgia",
-        "tld":".gs",
-        "cca2":"GS",
-        "ccn3":239,
-        "cca3":"SGS",
-        "alt-spellings":"GS",
-        "relevance":0
-    },
-    {
-        "name":"South Sudan",
-        "tld":".ss",
-        "cca2":"SS",
-        "ccn3":728,
-        "cca3":"SSD",
-        "alt-spellings":"SS",
-        "relevance":0
-    },
-    {
-        "name":"Spain",
-        "tld":".es",
-        "cca2":"ES",
-        "ccn3":724,
-        "cca3":"ESP",
-        "alt-spellings":"ES EspaÒa",
-        "relevance":2
-    },
-    {
-        "name":"Sri Lanka",
-        "tld":".lk",
-        "cca2":"LK",
-        "ccn3":144,
-        "cca3":"LKA",
-        "alt-spellings":"LK",
-        "relevance":0
-    },
-    {
-        "name":"Sudan",
-        "tld":".sd",
-        "cca2":"SD",
-        "ccn3":729,
-        "cca3":"SDN",
-        "alt-spellings":"SD",
-        "relevance":0
-    },
-    {
-        "name":"Suriname",
-        "tld":".sr",
-        "cca2":"SR",
-        "ccn3":740,
-        "cca3":"SUR",
-        "alt-spellings":"SR Sarnam Sranangron",
-        "relevance":0
-    },
-    {
-        "name":"Svalbard and Jan Mayen",
-        "tld":".sj",
-        "cca2":"SJ",
-        "ccn3":744,
-        "cca3":"SJM",
-        "alt-spellings":"SJ",
-        "relevance":0.5
-    },
-    {
-        "name":"Swaziland",
-        "tld":".sz",
-        "cca2":"SZ",
-        "ccn3":748,
-        "cca3":"SWZ",
-        "alt-spellings":"SZ weSwatini Swatini Ngwane",
-        "relevance":0
-    },
-    {
-        "name":"Sweden",
-        "tld":".se",
-        "cca2":"SE",
-        "ccn3":752,
-        "cca3":"SWE",
-        "alt-spellings":"SE Sverige",
-        "relevance":1.5
-    },
-    {
-        "name":"Switzerland",
-        "tld":".ch",
-        "cca2":"CH",
-        "ccn3":756,
-        "cca3":"CHE",
-        "alt-spellings":"CH Swiss Confederation Schweiz Suisse Svizzera Svizra",
-        "relevance":1.5
-    },
-    {
-        "name":"Syrian Arab Republic",
-        "tld":".sy",
-        "cca2":"SY",
-        "ccn3":760,
-        "cca3":"SYR",
-        "alt-spellings":"SY Syria",
-        "relevance":0
-    },
-    {
-        "name":"Taiwan",
-        "tld":".tw",
-        "cca2":"TW",
-        "ccn3":158,
-        "cca3":"TWN",
-        "alt-spellings":"TW",
-        "relevance":0
-    },
-    {
-        "name":"Tajikistan",
-        "tld":".tj",
-        "cca2":"TJ",
-        "ccn3":762,
-        "cca3":"TJK",
-        "alt-spellings":"TJ ToÁikiston",
-        "relevance":0
-    },
-    {
-        "name":"Tanzania",
-        "tld":".tz",
-        "cca2":"TZ",
-        "ccn3":834,
-        "cca3":"TZA",
-        "alt-spellings":"TZ",
-        "relevance":0
-    },
-    {
-        "name":"Thailand",
-        "tld":".th",
-        "cca2":"TH",
-        "ccn3":764,
-        "cca3":"THA",
-        "alt-spellings":"TH Prathet Thai",
-        "relevance":0
-    },
-    {
-        "name":"Timor-Leste",
-        "tld":".tl",
-        "cca2":"TL",
-        "ccn3":626,
-        "cca3":"TLS",
-        "alt-spellings":"TL",
-        "relevance":0
-    },
-    {
-        "name":"Togo",
-        "tld":".tg",
-        "cca2":"TG",
-        "ccn3":768,
-        "cca3":"TGO",
-        "alt-spellings":"TG Togolese",
-        "relevance":0
-    },
-    {
-        "name":"Tokelau",
-        "tld":".tk",
-        "cca2":"TK",
-        "ccn3":772,
-        "cca3":"TKL",
-        "alt-spellings":"TK",
-        "relevance":0.5
-    },
-    {
-        "name":"Tonga",
-        "tld":".to",
-        "cca2":"TO",
-        "ccn3":776,
-        "cca3":"TON",
-        "alt-spellings":"TO",
-        "relevance":0
-    },
-    {
-        "name":"Trinidad and Tobago",
-        "tld":".tt",
-        "cca2":"TT",
-        "ccn3":780,
-        "cca3":"TTO",
-        "alt-spellings":"TT",
-        "relevance":0
-    },
-    {
-        "name":"Tunisia",
-        "tld":".tn",
-        "cca2":"TN",
-        "ccn3":788,
-        "cca3":"TUN",
-        "alt-spellings":"TN",
-        "relevance":0
-    },
-    {
-        "name":"Turkey",
-        "tld":".tr",
-        "cca2":"TR",
-        "ccn3":792,
-        "cca3":"TUR",
-        "alt-spellings":"TR T¸rkiye Turkiye",
-        "relevance":0
-    },
-    {
-        "name":"Turkmenistan",
-        "tld":".tm",
-        "cca2":"TM",
-        "ccn3":795,
-        "cca3":"TKM",
-        "alt-spellings":"TM T¸rkmenistan",
-        "relevance":0
-    },
-    {
-        "name":"Turks and Caicos Islands",
-        "tld":".tc",
-        "cca2":"TC",
-        "ccn3":796,
-        "cca3":"TCA",
-        "alt-spellings":"TC",
-        "relevance":0.5
-    },
-    {
-        "name":"Tuvalu",
-        "tld":".tv",
-        "cca2":"TV",
-        "ccn3":798,
-        "cca3":"TUV",
-        "alt-spellings":"TV",
-        "relevance":0.5
-    },
-    {
-        "name":"Uganda",
-        "tld":".ug",
-        "cca2":"UG",
-        "ccn3":800,
-        "cca3":"UGA",
-        "alt-spellings":"UG",
-        "relevance":0
-    },
-    {
-        "name":"Ukraine",
-        "tld":".ua",
-        "cca2":"UA",
-        "ccn3":804,
-        "cca3":"UKR",
-        "alt-spellings":"UA Ukrayina",
-        "relevance":0
-    },
-    {
-        "name":"United Arab Emirates",
-        "tld":".ae",
-        "cca2":"AE",
-        "ccn3":784,
-        "cca3":"ARE",
-        "alt-spellings":"AE UAE",
-        "relevance":0
-    },
-    {
-        "name":"United Kingdom",
-        "tld":".gb",
-        "cca2":"GB",
-        "ccn3":826,
-        "cca3":"GBR",
-        "alt-spellings":"GB Great Britain England UK Wales Scotland Northern Ireland",
-        "relevance":2.5
-    },
-    {
-        "name":"United States",
-        "tld":".us",
-        "cca2":"US",
-        "ccn3":840,
-        "cca3":"USA",
-        "alt-spellings":"US USA United States of America",
-        "relevance":3.5
-    },
-    {
-        "name":"United States Minor Outlying Islands",
-        "tld":".um",
-        "cca2":"UM",
-        "ccn3":581,
-        "cca3":"UMI",
-        "alt-spellings":"UM",
-        "relevance":0
-    },
-    {
-        "name":"Uruguay",
-        "tld":".uy",
-        "cca2":"UY",
-        "ccn3":858,
-        "cca3":"URY",
-        "alt-spellings":"UY",
-        "relevance":0
-    },
-    {
-        "name":"Uzbekistan",
-        "tld":".uz",
-        "cca2":"UZ",
-        "ccn3":860,
-        "cca3":"UZB",
-        "alt-spellings":"UZ O'zbekstan Oëzbekiston",
-        "relevance":0
-    },
-    {
-        "name":"Vanuatu",
-        "tld":".vu",
-        "cca2":"VU",
-        "ccn3":548,
-        "cca3":"VUT",
-        "alt-spellings":"VU",
-        "relevance":0
-    },
-    {
-        "name":"Venezuela, Bolivarian Republic of",
-        "tld":".ve",
-        "cca2":"VE",
-        "ccn3":862,
-        "cca3":"VEN",
-        "alt-spellings":"VE",
-        "relevance":0
-    },
-    {
-        "name":"Viet Nam",
-        "tld":".vn",
-        "cca2":"VN",
-        "ccn3":704,
-        "cca3":"VNM",
-        "alt-spellings":"VN Viet Nam",
-        "relevance":1.5
-    },
-    {
-        "name":"Virgin Islands (British)",
-        "tld":".vg",
-        "cca2":"VG",
-        "ccn3":092,
-        "cca3":"VGB",
-        "alt-spellings":"VG",
-        "relevance":0.5
-    },
-    {
-        "name":"Virgin Islands (U.S.)",
-        "tld":".vi",
-        "cca2":"VI",
-        "ccn3":850,
-        "cca3":"VIR",
-        "alt-spellings":"VI",
-        "relevance":0.5
-    },
-    {
-        "name":"Wallis and Futuna",
-        "tld":".wf",
-        "cca2":"WF",
-        "ccn3":876,
-        "cca3":"WLF",
-        "alt-spellings":"WF",
-        "relevance":0.5
-    },
-    {
-        "name":"Western Sahara",
-        "tld":".eh",
-        "cca2":"EH",
-        "ccn3":732,
-        "cca3":"ESH",
-        "alt-spellings":"EH",
-        "relevance":0
-    },
-    {
-        "name":"Yemen",
-        "tld":".ye",
-        "cca2":"YE",
-        "ccn3":887,
-        "cca3":"YEM",
-        "alt-spellings":"YE",
-        "relevance":0
-    },
-    {
-        "name":"Zambia",
-        "tld":".zm",
-        "cca2":"ZM",
-        "ccn3":894,
-        "cca3":"ZMB",
-        "alt-spellings":"ZM",
-        "relevance":0
-    },
-    {
-        "name":"Zimbabwe",
-        "tld":".zw",
-        "cca2":"ZW",
-        "ccn3":716,
-        "cca3":"ZWE",
-        "alt-spellings":"ZW",
-        "relevance":0
-    }
-]
+[{"name":"Afghanistan","tld":".af","cca2":"AF","ccn3":4,"cca3":"AFG","currency":"AFN"},
+{"name":"Åland Islands","tld":".ax","cca2":"AX","ccn3":248,"cca3":"ALA","currency":"EUR"},
+{"name":"Albania","tld":".al","cca2":"AL","ccn3":8,"cca3":"ALB","currency":"ALL"},
+{"name":"Algeria","tld":".dz","cca2":"DZ","ccn3":12,"cca3":"DZA","currency":"DZD"},
+{"name":"American Samoa","tld":".as","cca2":"AS","ccn3":16,"cca3":"ASM","currency":"USD"},
+{"name":"Andorra","tld":".ad","cca2":"AD","ccn3":20,"cca3":"AND","currency":"EUR"},
+{"name":"Angola","tld":".ao","cca2":"AO","ccn3":24,"cca3":"AGO","currency":"AOA"},
+{"name":"Anguilla","tld":".ai","cca2":"AI","ccn3":660,"cca3":"AIA","currency":"XCD"},
+{"name":"Antarctica","tld":".aq","cca2":"AQ","ccn3":10,"cca3":"ATA","currency":""},
+{"name":"Antigua and Barbuda","tld":".ag","cca2":"AG","ccn3":28,"cca3":"ATG","currency":"XCD"},
+{"name":"Argentina","tld":".ar","cca2":"AR","ccn3":32,"cca3":"ARG","currency":"ARS"},
+{"name":"Armenia","tld":".am","cca2":"AM","ccn3":51,"cca3":"ARM","currency":"AMD"},
+{"name":"Aruba","tld":".aw","cca2":"AW","ccn3":533,"cca3":"ABW","currency":"AWG"},
+{"name":"Australia","tld":".au","cca2":"AU","ccn3":36,"cca3":"AUS","currency":"AUD"},
+{"name":"Austria","tld":".at","cca2":"AT","ccn3":40,"cca3":"AUT","currency":"EUR"},
+{"name":"Azerbaijan","tld":".az","cca2":"AZ","ccn3":31,"cca3":"AZE","currency":"AZN"},
+{"name":"Bahamas","tld":".bs","cca2":"BS","ccn3":44,"cca3":"BHS","currency":"BSD"},
+{"name":"Bahrain","tld":".bh","cca2":"BH","ccn3":48,"cca3":"BHR","currency":"BHD"},
+{"name":"Bangladesh","tld":".bd","cca2":"BD","ccn3":50,"cca3":"BGD","currency":"BDT"},
+{"name":"Barbados","tld":".bb","cca2":"BB","ccn3":52,"cca3":"BRB","currency":"BBD"},
+{"name":"Belarus","tld":".by","cca2":"BY","ccn3":112,"cca3":"BLR","currency":"BYR"},
+{"name":"Belgium","tld":".be","cca2":"BE","ccn3":56,"cca3":"BEL","currency":"EUR"},
+{"name":"Belize","tld":".bz","cca2":"BZ","ccn3":84,"cca3":"BLZ","currency":"BZD"},
+{"name":"Benin","tld":".bj","cca2":"BJ","ccn3":204,"cca3":"BEN","currency":"XOF"},
+{"name":"Bermuda","tld":".bm","cca2":"BM","ccn3":60,"cca3":"BMU","currency":"BMD"},
+{"name":"Bhutan","tld":".bt","cca2":"BT","ccn3":64,"cca3":"BTN","currency":"BTN,INR"},
+{"name":"Bolivia","tld":".bo","cca2":"BO","ccn3":68,"cca3":"BOL","currency":"BOB,BOV"},
+{"name":"Bonaire","tld":".bq","cca2":"BQ","ccn3":535,"cca3":"BES","currency":"USD"},
+{"name":"Bosnia and Herzegovina","tld":".ba","cca2":"BA","ccn3":70,"cca3":"BIH","currency":"BAM"},
+{"name":"Botswana","tld":".bw","cca2":"BW","ccn3":72,"cca3":"BWA","currency":"BWP"},
+{"name":"Bouvet Island","tld":".bv","cca2":"BV","ccn3":74,"cca3":"BVT","currency":"NOK"},
+{"name":"Brazil","tld":".br","cca2":"BR","ccn3":76,"cca3":"BRA","currency":"BRL"},
+{"name":"British Indian Ocean Territory","tld":".io","cca2":"IO","ccn3":86,"cca3":"IOT","currency":"USD"},
+{"name":"Brunei Darussalam","tld":".bn","cca2":"BN","ccn3":96,"cca3":"BRN","currency":"BND"},
+{"name":"Bulgaria","tld":".bg","cca2":"BG","ccn3":100,"cca3":"BGR","currency":"BGN"},
+{"name":"Burkina Faso","tld":".bf","cca2":"BF","ccn3":854,"cca3":"BFA","currency":"XOF"},
+{"name":"Burundi","tld":".bi","cca2":"BI","ccn3":108,"cca3":"BDI","currency":"BIF"},
+{"name":"Cambodia","tld":".kh","cca2":"KH","ccn3":116,"cca3":"KHM","currency":"KHR"},
+{"name":"Cameroon","tld":".cm","cca2":"CM","ccn3":120,"cca3":"CMR","currency":"XAF"},
+{"name":"Canada","tld":".ca","cca2":"CA","ccn3":124,"cca3":"CAN","currency":"CAD"},
+{"name":"Cape Verde","tld":".cv","cca2":"CV","ccn3":132,"cca3":"CPV","currency":"CVE"},
+{"name":"Cayman Islands","tld":".ky","cca2":"KY","ccn3":136,"cca3":"CYM","currency":"KYD"},
+{"name":"Central African Republic","tld":".cf","cca2":"CF","ccn3":140,"cca3":"CAF","currency":"XAF"},
+{"name":"Chad","tld":".td","cca2":"TD","ccn3":148,"cca3":"TCD","currency":"XAF"},
+{"name":"Chile","tld":".cl","cca2":"CL","ccn3":152,"cca3":"CHL","currency":"CLF,CLP"},
+{"name":"China","tld":".cn","cca2":"CN","ccn3":156,"cca3":"CHN","currency":"CNY"},
+{"name":"Christmas Island","tld":".cx","cca2":"CX","ccn3":162,"cca3":"CXR","currency":"AUD"},
+{"name":"Colombia","tld":".co","cca2":"CO","ccn3":170,"cca3":"COL","currency":"COP,COU"},
+{"name":"Comoros","tld":".km","cca2":"KM","ccn3":174,"cca3":"COM","currency":"KMF"},
+{"name":"Republic of the Congo","tld":".cg","cca2":"CG","ccn3":178,"cca3":"COG","currency":"XAF"},
+{"name":"Democratic Republic of the Congo","tld":".cd","cca2":"CD","ccn3":180,"cca3":"COD","currency":"CDF"},
+{"name":"Cook Islands","tld":".ck","cca2":"CK","ccn3":184,"cca3":"COK","currency":"NZD"},
+{"name":"Costa Rica","tld":".cr","cca2":"CR","ccn3":188,"cca3":"CRI","currency":"CRC"},
+{"name":"Côte d'Ivoire","tld":".ci","cca2":"CI","ccn3":384,"cca3":"CIV","currency":"XOF"},
+{"name":"Croatia","tld":".hr","cca2":"HR","ccn3":191,"cca3":"HRV","currency":"HRK"},
+{"name":"Cuba","tld":".cu","cca2":"CU","ccn3":192,"cca3":"CUB","currency":"CUC,CUP"},
+{"name":"Curaçao","tld":".cw","cca2":"CW","ccn3":531,"cca3":"CUW","currency":"ANG"},
+{"name":"Cyprus","tld":".cy","cca2":"CY","ccn3":196,"cca3":"CYP","currency":"EUR"},
+{"name":"Czech Republic","tld":".cz","cca2":"CZ","ccn3":203,"cca3":"CZE","currency":"CZK"},
+{"name":"Denmark","tld":".dk","cca2":"DK","ccn3":208,"cca3":"DNK","currency":"DKK"},
+{"name":"Djibouti","tld":".dj","cca2":"DJ","ccn3":262,"cca3":"DJI","currency":"DJF"},
+{"name":"Dominica","tld":".dm","cca2":"DM","ccn3":212,"cca3":"DMA","currency":"XCD"},
+{"name":"Dominican Republic","tld":".do","cca2":"DO","ccn3":214,"cca3":"DOM","currency":"DOP"},
+{"name":"Ecuador","tld":".ec","cca2":"EC","ccn3":218,"cca3":"ECU","currency":"USD"},
+{"name":"Egypt","tld":".eg","cca2":"EG","ccn3":818,"cca3":"EGY","currency":"EGP"},
+{"name":"El Salvador","tld":".sv","cca2":"SV","ccn3":222,"cca3":"SLV","currency":"SVC,USD"},
+{"name":"Equatorial Guinea","tld":".gq","cca2":"GQ","ccn3":226,"cca3":"GNQ","currency":"XAF"},
+{"name":"Eritrea","tld":".er","cca2":"ER","ccn3":232,"cca3":"ERI","currency":"ERN"},
+{"name":"Estonia","tld":".ee","cca2":"EE","ccn3":233,"cca3":"EST","currency":"EUR"},
+{"name":"Ethiopia","tld":".et","cca2":"ET","ccn3":231,"cca3":"ETH","currency":"ETB"},
+{"name":"Falkland Islands (Malvinas)","tld":".fk","cca2":"FK","ccn3":238,"cca3":"FLK","currency":"FKP"},
+{"name":"Faroe Islands","tld":".fo","cca2":"FO","ccn3":234,"cca3":"FRO","currency":"DKK"},
+{"name":"Fiji","tld":".fj","cca2":"FJ","ccn3":242,"cca3":"FJI","currency":"FJD"},
+{"name":"Finland","tld":".fi","cca2":"FI","ccn3":246,"cca3":"FIN","currency":"EUR"},
+{"name":"France","tld":".fr","cca2":"FR","ccn3":250,"cca3":"FRA","currency":"EUR"},
+{"name":"French Guiana","tld":".gf","cca2":"GF","ccn3":254,"cca3":"GUF","currency":"EUR"},
+{"name":"French Polynesia","tld":".pf","cca2":"PF","ccn3":258,"cca3":"PYF","currency":"XPF"},
+{"name":"French Southern Territories","tld":".tf","cca2":"TF","ccn3":260,"cca3":"ATF","currency":"EUR"},
+{"name":"Gabon","tld":".ga","cca2":"GA","ccn3":266,"cca3":"GAB","currency":"XAF"},
+{"name":"Gambia","tld":".gm","cca2":"GM","ccn3":270,"cca3":"GMB","currency":"GMD"},
+{"name":"Georgia","tld":".ge","cca2":"GE","ccn3":268,"cca3":"GEO","currency":"GEL"},
+{"name":"Germany","tld":".de","cca2":"DE","ccn3":276,"cca3":"DEU","currency":"EUR"},
+{"name":"Ghana","tld":".gh","cca2":"GH","ccn3":288,"cca3":"GHA","currency":"GHS"},
+{"name":"Gibraltar","tld":".gi","cca2":"GI","ccn3":292,"cca3":"GIB","currency":"GIP"},
+{"name":"Greece","tld":".gr","cca2":"GR","ccn3":300,"cca3":"GRC","currency":"EUR"},
+{"name":"Greenland","tld":".gl","cca2":"GL","ccn3":304,"cca3":"GRL","currency":"DKK"},
+{"name":"Grenada","tld":".gd","cca2":"GD","ccn3":308,"cca3":"GRD","currency":"XCD"},
+{"name":"Guadeloupe","tld":".gp","cca2":"GP","ccn3":312,"cca3":"GLP","currency":"EUR"},
+{"name":"Guam","tld":".gu","cca2":"GU","ccn3":316,"cca3":"GUM","currency":"USD"},
+{"name":"Guatemala","tld":".gt","cca2":"GT","ccn3":320,"cca3":"GTM","currency":"GTQ"},
+{"name":"Guernsey","tld":".gg","cca2":"GG","ccn3":831,"cca3":"GGY","currency":"GBP"},
+{"name":"Guinea","tld":".gn","cca2":"GN","ccn3":324,"cca3":"GIN","currency":"GNF"},
+{"name":"Guinea-Bissau","tld":".gw","cca2":"GW","ccn3":624,"cca3":"GNB","currency":"XOF"},
+{"name":"Guyana","tld":".gy","cca2":"GY","ccn3":328,"cca3":"GUY","currency":"GYD"},
+{"name":"Haiti","tld":".ht","cca2":"HT","ccn3":332,"cca3":"HTI","currency":"HTG,USD"},
+{"name":"Heard Island and McDonald Islands","tld":".hm","cca2":"HM","ccn3":334,"cca3":"HMD","currency":"AUD"},
+{"name":"Vatican City","tld":".va","cca2":"VA","ccn3":336,"cca3":"VAT","currency":"EUR"},
+{"name":"Honduras","tld":".hn","cca2":"HN","ccn3":340,"cca3":"HND","currency":"HNL"},
+{"name":"Hong Kong","tld":".hk","cca2":"HK","ccn3":344,"cca3":"HKG","currency":"HKD"},
+{"name":"Hungary","tld":".hu","cca2":"HU","ccn3":348,"cca3":"HUN","currency":"HUF"},
+{"name":"Iceland","tld":".is","cca2":"IS","ccn3":352,"cca3":"ISL","currency":"ISK"},
+{"name":"India","tld":".in","cca2":"IN","ccn3":356,"cca3":"IND","currency":"INR"},
+{"name":"Indonesia","tld":".id","cca2":"ID","ccn3":360,"cca3":"IDN","currency":"IDR"},
+{"name":"Iran","tld":".ir","cca2":"IR","ccn3":364,"cca3":"IRN","currency":"IRR"},
+{"name":"Iraq","tld":".iq","cca2":"IQ","ccn3":368,"cca3":"IRQ","currency":"IQD"},
+{"name":"Ireland","tld":".ie","cca2":"IE","ccn3":372,"cca3":"IRL","currency":"EUR"},
+{"name":"Isle of Man","tld":".im","cca2":"IM","ccn3":833,"cca3":"IMN","currency":"GBP"},
+{"name":"Israel","tld":".il","cca2":"IL","ccn3":376,"cca3":"ISR","currency":"ILS"},
+{"name":"Italy","tld":".it","cca2":"IT","ccn3":380,"cca3":"ITA","currency":"EUR"},
+{"name":"Jamaica","tld":".jm","cca2":"JM","ccn3":388,"cca3":"JAM","currency":"JMD"},
+{"name":"Japan","tld":".jp","cca2":"JP","ccn3":392,"cca3":"JPN","currency":"JPY"},
+{"name":"Jersey","tld":".je","cca2":"JE","ccn3":832,"cca3":"JEY","currency":"GBP"},
+{"name":"Jordan","tld":".jo","cca2":"JO","ccn3":400,"cca3":"JOR","currency":"JOD"},
+{"name":"Kazakhstan","tld":".kz","cca2":"KZ","ccn3":398,"cca3":"KAZ","currency":"KZT"},
+{"name":"Kenya","tld":".ke","cca2":"KE","ccn3":404,"cca3":"KEN","currency":"KES"},
+{"name":"Kiribati","tld":".ki","cca2":"KI","ccn3":296,"cca3":"KIR","currency":"AUD"},
+{"name":"North Korea","tld":".kp","cca2":"KP","ccn3":408,"cca3":"PRK","currency":"KPW"},
+{"name":"South Korea","tld":".kr","cca2":"KR","ccn3":410,"cca3":"KOR","currency":"KRW"},
+{"name":"Kuwait","tld":".kw","cca2":"KW","ccn3":414,"cca3":"KWT","currency":"KWD"},
+{"name":"Kyrgyzstan","tld":".kg","cca2":"KG","ccn3":417,"cca3":"KGZ","currency":"KGS"},
+{"name":"Laos","tld":".la","cca2":"LA","ccn3":418,"cca3":"LAO","currency":"LAK"},
+{"name":"Latvia","tld":".lv","cca2":"LV","ccn3":428,"cca3":"LVA","currency":"LVL"},
+{"name":"Lebanon","tld":".lb","cca2":"LB","ccn3":422,"cca3":"LBN","currency":"LBP"},
+{"name":"Lesotho","tld":".ls","cca2":"LS","ccn3":426,"cca3":"LSO","currency":"LSL,ZAR"},
+{"name":"Liberia","tld":".lr","cca2":"LR","ccn3":430,"cca3":"LBR","currency":"LRD"},
+{"name":"Libya","tld":".ly","cca2":"LY","ccn3":434,"cca3":"LBY","currency":"LYD"},
+{"name":"Liechtenstein","tld":".li","cca2":"LI","ccn3":438,"cca3":"LIE","currency":"CHF"},
+{"name":"Lithuania","tld":".lt","cca2":"LT","ccn3":440,"cca3":"LTU","currency":"LTL"},
+{"name":"Luxembourg","tld":".lu","cca2":"LU","ccn3":442,"cca3":"LUX","currency":"EUR"},
+{"name":"Macao","tld":".mo","cca2":"MO","ccn3":446,"cca3":"MAC","currency":"MOP"},
+{"name":"Macedonia","tld":".mk","cca2":"MK","ccn3":807,"cca3":"MKD","currency":"MKD"},
+{"name":"Madagascar","tld":".mg","cca2":"MG","ccn3":450,"cca3":"MDG","currency":"MGA"},
+{"name":"Malawi","tld":".mw","cca2":"MW","ccn3":454,"cca3":"MWI","currency":"MWK"},
+{"name":"Malaysia","tld":".my","cca2":"MY","ccn3":458,"cca3":"MYS","currency":"MYR"},
+{"name":"Maldives","tld":".mv","cca2":"MV","ccn3":462,"cca3":"MDV","currency":"MVR"},
+{"name":"Mali","tld":".ml","cca2":"ML","ccn3":466,"cca3":"MLI","currency":"XOF"},
+{"name":"Malta","tld":".mt","cca2":"MT","ccn3":470,"cca3":"MLT","currency":"EUR"},
+{"name":"Marshall Islands","tld":".mh","cca2":"MH","ccn3":584,"cca3":"MHL","currency":"USD"},
+{"name":"Martinique","tld":".mq","cca2":"MQ","ccn3":474,"cca3":"MTQ","currency":"EUR"},
+{"name":"Mauritania","tld":".mr","cca2":"MR","ccn3":478,"cca3":"MRT","currency":"MRO"},
+{"name":"Mauritius","tld":".mu","cca2":"MU","ccn3":480,"cca3":"MUS","currency":"MUR"},
+{"name":"Mayotte","tld":".yt","cca2":"YT","ccn3":175,"cca3":"MYT","currency":"EUR"},
+{"name":"Mexico","tld":".mx","cca2":"MX","ccn3":484,"cca3":"MEX","currency":"MXN,MXV"},
+{"name":"Micronesia","tld":".fm","cca2":"FM","ccn3":583,"cca3":"FSM","currency":"USD"},
+{"name":"Moldova","tld":".md","cca2":"MD","ccn3":498,"cca3":"MDA","currency":"MDL"},
+{"name":"Monaco","tld":".mc","cca2":"MC","ccn3":492,"cca3":"MCO","currency":"EUR"},
+{"name":"Mongolia","tld":".mn","cca2":"MN","ccn3":496,"cca3":"MNG","currency":"MNT"},
+{"name":"Montenegro","tld":".me","cca2":"ME","ccn3":499,"cca3":"MNE","currency":"EUR"},
+{"name":"Montserrat","tld":".ms","cca2":"MS","ccn3":500,"cca3":"MSR","currency":"XCD"},
+{"name":"Morocco","tld":".ma","cca2":"MA","ccn3":504,"cca3":"MAR","currency":"MAD"},
+{"name":"Mozambique","tld":".mz","cca2":"MZ","ccn3":508,"cca3":"MOZ","currency":"MZN"},
+{"name":"Myanmar","tld":".mm","cca2":"MM","ccn3":104,"cca3":"MMR","currency":"MMK"},
+{"name":"Namibia","tld":".na","cca2":"NA","ccn3":516,"cca3":"NAM","currency":"NAD,ZAR"},
+{"name":"Nauru","tld":".nr","cca2":"NR","ccn3":520,"cca3":"NRU","currency":"AUD"},
+{"name":"Nepal","tld":".np","cca2":"NP","ccn3":524,"cca3":"NPL","currency":"NPR"},
+{"name":"Netherlands","tld":".nl","cca2":"NL","ccn3":528,"cca3":"NLD","currency":"EUR"},
+{"name":"New Caledonia","tld":".nc","cca2":"NC","ccn3":540,"cca3":"NCL","currency":"XPF"},
+{"name":"New Zealand","tld":".nz","cca2":"NZ","ccn3":554,"cca3":"NZL","currency":"NZD"},
+{"name":"Nicaragua","tld":".ni","cca2":"NI","ccn3":558,"cca3":"NIC","currency":"NIO"},
+{"name":"Niger","tld":".ne","cca2":"NE","ccn3":562,"cca3":"NER","currency":"XOF"},
+{"name":"Nigeria","tld":".ng","cca2":"NG","ccn3":566,"cca3":"NGA","currency":"NGN"},
+{"name":"Niue","tld":".nu","cca2":"NU","ccn3":570,"cca3":"NIU","currency":"NZD"},
+{"name":"Norfolk Island","tld":".nf","cca2":"NF","ccn3":574,"cca3":"NFK","currency":"AUD"},
+{"name":"Northern Mariana Islands","tld":".mp","cca2":"MP","ccn3":580,"cca3":"MNP","currency":"USD"},
+{"name":"Norway","tld":".no","cca2":"NO","ccn3":578,"cca3":"NOR","currency":"NOK"},
+{"name":"Oman","tld":".om","cca2":"OM","ccn3":512,"cca3":"OMN","currency":"OMR"},
+{"name":"Pakistan","tld":".pk","cca2":"PK","ccn3":586,"cca3":"PAK","currency":"PKR"},
+{"name":"Palau","tld":".pw","cca2":"PW","ccn3":585,"cca3":"PLW","currency":"USD"},
+{"name":"Palestinian Territory","tld":".ps","cca2":"PS","ccn3":275,"cca3":"PSE","currency":""},
+{"name":"Panama","tld":".pa","cca2":"PA","ccn3":591,"cca3":"PAN","currency":"PAB,USD"},
+{"name":"Papua New Guinea","tld":".pg","cca2":"PG","ccn3":598,"cca3":"PNG","currency":"PGK"},
+{"name":"Paraguay","tld":".py","cca2":"PY","ccn3":600,"cca3":"PRY","currency":"PYG"},
+{"name":"Peru","tld":".pe","cca2":"PE","ccn3":604,"cca3":"PER","currency":"PEN"},
+{"name":"Philippines","tld":".ph","cca2":"PH","ccn3":608,"cca3":"PHL","currency":"PHP"},
+{"name":"Pitcairn","tld":".pn","cca2":"PN","ccn3":612,"cca3":"PCN","currency":"NZD"},
+{"name":"Poland","tld":".pl","cca2":"PL","ccn3":616,"cca3":"POL","currency":"PLN"},
+{"name":"Portugal","tld":".pt","cca2":"PT","ccn3":620,"cca3":"PRT","currency":"EUR"},
+{"name":"Puerto Rico","tld":".pr","cca2":"PR","ccn3":630,"cca3":"PRI","currency":"USD"},
+{"name":"Qatar","tld":".qa","cca2":"QA","ccn3":634,"cca3":"QAT","currency":"QAR"},
+{"name":"Réunion","tld":".re","cca2":"RE","ccn3":638,"cca3":"REU","currency":"EUR"},
+{"name":"Romania","tld":".ro","cca2":"RO","ccn3":642,"cca3":"ROU","currency":"RON"},
+{"name":"Russian Federation","tld":".ru","cca2":"RU","ccn3":643,"cca3":"RUS","currency":"RUB"},
+{"name":"Rwanda","tld":".rw","cca2":"RW","ccn3":646,"cca3":"RWA","currency":"RWF"},
+{"name":"Saint Barthélemy","tld":".bl","cca2":"BL","ccn3":652,"cca3":"BLM","currency":"EUR"},
+{"name":"Saint Helena","tld":".sh","cca2":"SH","ccn3":654,"cca3":"SHN","currency":"SHP"},
+{"name":"Saint Kitts and Nevis","tld":".kn","cca2":"KN","ccn3":659,"cca3":"KNA","currency":"XCD"},
+{"name":"Saint Lucia","tld":".lc","cca2":"LC","ccn3":662,"cca3":"LCA","currency":"XCD"},
+{"name":"Saint Martin","tld":".mf","cca2":"MF","ccn3":663,"cca3":"MAF","currency":"EUR"},
+{"name":"Saint Pierre and Miquelon","tld":".pm","cca2":"PM","ccn3":666,"cca3":"SPM","currency":"EUR"},
+{"name":"Saint Vincent and the Grenadines","tld":".vc","cca2":"VC","ccn3":670,"cca3":"VCT","currency":"XCD"},
+{"name":"Samoa","tld":".ws","cca2":"WS","ccn3":882,"cca3":"WSM","currency":"WST"},
+{"name":"San Marino","tld":".sm","cca2":"SM","ccn3":674,"cca3":"SMR","currency":"EUR"},
+{"name":"Sao Tome and Principe","tld":".st","cca2":"ST","ccn3":678,"cca3":"STP","currency":"STD"},
+{"name":"Saudi Arabia","tld":".sa","cca2":"SA","ccn3":682,"cca3":"SAU","currency":"SAR"},
+{"name":"Senegal","tld":".sn","cca2":"SN","ccn3":686,"cca3":"SEN","currency":"XOF"},
+{"name":"Serbia","tld":".rs","cca2":"RS","ccn3":688,"cca3":"SRB","currency":"RSD"},
+{"name":"Seychelles","tld":".sc","cca2":"SC","ccn3":690,"cca3":"SYC","currency":"SCR"},
+{"name":"Sierra Leone","tld":".sl","cca2":"SL","ccn3":694,"cca3":"SLE","currency":"SLL"},
+{"name":"Singapore","tld":".sg","cca2":"SG","ccn3":702,"cca3":"SGP","currency":"SGD"},
+{"name":"Sint Maarten","tld":".sx","cca2":"SX","ccn3":534,"cca3":"SXM","currency":"ANG"},
+{"name":"Slovakia","tld":".sk","cca2":"SK","ccn3":703,"cca3":"SVK","currency":"XSU"},
+{"name":"Slovenia","tld":".si","cca2":"SI","ccn3":705,"cca3":"SVN","currency":"EUR"},
+{"name":"Solomon Islands","tld":".sb","cca2":"SB","ccn3":90,"cca3":"SLB","currency":"EUR"},
+{"name":"Somalia","tld":".so","cca2":"SO","ccn3":706,"cca3":"SOM","currency":"SBD"},
+{"name":"South Africa","tld":".za","cca2":"ZA","ccn3":710,"cca3":"ZAF","currency":"SOS"},
+{"name":"South Georgia","tld":".gs","cca2":"GS","ccn3":239,"cca3":"SGS","currency":"ZAR"},
+{"name":"South Sudan","tld":".ss","cca2":"SS","ccn3":728,"cca3":"SSD","currency":"SSP"},
+{"name":"Spain","tld":".es","cca2":"ES","ccn3":724,"cca3":"ESP","currency":"EUR"},
+{"name":"Sri Lanka","tld":".lk","cca2":"LK","ccn3":144,"cca3":"LKA","currency":"LKR"},
+{"name":"Sudan","tld":".sd","cca2":"SD","ccn3":729,"cca3":"SDN","currency":"SDG"},
+{"name":"Suriname","tld":".sr","cca2":"SR","ccn3":740,"cca3":"SUR","currency":"SRD"},
+{"name":"Svalbard and Jan Mayen","tld":".sj","cca2":"SJ","ccn3":744,"cca3":"SJM","currency":"NOK"},
+{"name":"Swaziland","tld":".sz","cca2":"SZ","ccn3":748,"cca3":"SWZ","currency":"SZL"},
+{"name":"Sweden","tld":".se","cca2":"SE","ccn3":752,"cca3":"SWE","currency":"SEK"},
+{"name":"Switzerland","tld":".ch","cca2":"CH","ccn3":756,"cca3":"CHE","currency":"CHE,CHF,CHW"},
+{"name":"Syrian Arab Republic","tld":".sy","cca2":"SY","ccn3":760,"cca3":"SYR","currency":"SYP"},
+{"name":"Taiwan, Province of China","tld":".tw","cca2":"TW","ccn3":158,"cca3":"TWN","currency":"TWD"},
+{"name":"Tajikistan","tld":".tj","cca2":"TJ","ccn3":762,"cca3":"TJK","currency":"TJS"},
+{"name":"Tanzania","tld":".tz","cca2":"TZ","ccn3":834,"cca3":"TZA","currency":"TZS"},
+{"name":"Thailand","tld":".th","cca2":"TH","ccn3":764,"cca3":"THA","currency":"THB"},
+{"name":"Timor-Leste","tld":".tl","cca2":"TL","ccn3":626,"cca3":"TLS","currency":"USD"},
+{"name":"Togo","tld":".tg","cca2":"TG","ccn3":768,"cca3":"TGO","currency":"XOF"},
+{"name":"Tokelau","tld":".tk","cca2":"TK","ccn3":772,"cca3":"TKL","currency":"NZD"},
+{"name":"Tonga","tld":".to","cca2":"TO","ccn3":776,"cca3":"TON","currency":"TOP"},
+{"name":"Trinidad and Tobago","tld":".tt","cca2":"TT","ccn3":780,"cca3":"TTO","currency":"TTD"},
+{"name":"Tunisia","tld":".tn","cca2":"TN","ccn3":788,"cca3":"TUN","currency":"TND"},
+{"name":"Turkey","tld":".tr","cca2":"TR","ccn3":792,"cca3":"TUR","currency":"TRY"},
+{"name":"Turkmenistan","tld":".tm","cca2":"TM","ccn3":795,"cca3":"TKM","currency":"TMT"},
+{"name":"Turks and Caicos Islands","tld":".tc","cca2":"TC","ccn3":796,"cca3":"TCA","currency":"USD"},
+{"name":"Tuvalu","tld":".tv","cca2":"TV","ccn3":798,"cca3":"TUV","currency":"AUD"},
+{"name":"Uganda","tld":".ug","cca2":"UG","ccn3":800,"cca3":"UGA","currency":"UGX"},
+{"name":"Ukraine","tld":".ua","cca2":"UA","ccn3":804,"cca3":"UKR","currency":"UAH"},
+{"name":"United Arab Emirates","tld":".ae","cca2":"AE","ccn3":784,"cca3":"ARE","currency":"AED"},
+{"name":"United Kingdom","tld":".gb","cca2":"GB","ccn3":826,"cca3":"GBR","currency":"GBP"},
+{"name":"United States","tld":".us","cca2":"US","ccn3":840,"cca3":"USA","currency":"USD,USN,USS"},
+{"name":"United States Minor Outlying Islands","tld":".um","cca2":"UM","ccn3":581,"cca3":"UMI","currency":"USD"},
+{"name":"Uruguay","tld":".uy","cca2":"UY","ccn3":858,"cca3":"URY","currency":"UYI,UYU"},
+{"name":"Uzbekistan","tld":".uz","cca2":"UZ","ccn3":860,"cca3":"UZB","currency":"UZS"},
+{"name":"Vanuatu","tld":".vu","cca2":"VU","ccn3":548,"cca3":"VUT","currency":"VUV"},
+{"name":"Venezuela","tld":".ve","cca2":"VE","ccn3":862,"cca3":"VEN","currency":"VEF"},
+{"name":"Viet Nam","tld":".vn","cca2":"VN","ccn3":704,"cca3":"VNM","currency":"VND"},
+{"name":"Virgin Islands (British)","tld":".vg","cca2":"VG","ccn3":92,"cca3":"VGB","currency":"USD"},
+{"name":"Virgin Islands (U.S.)","tld":".vi","cca2":"VI","ccn3":850,"cca3":"VIR","currency":"USD"},
+{"name":"Wallis and Futuna","tld":".wf","cca2":"WF","ccn3":876,"cca3":"WLF","currency":"XPF"},
+{"name":"Western Sahara","tld":".eh","cca2":"EH","ccn3":732,"cca3":"ESH","currency":"MAD"},
+{"name":"Yemen","tld":".ye","cca2":"YE","ccn3":887,"cca3":"YEM","currency":"YER"},
+{"name":"Zambia","tld":".zm","cca2":"ZM","ccn3":894,"cca3":"ZMB","currency":"ZMK"},
+{"name":"Zimbabwe","tld":".zw","cca2":"ZW","ccn3":716,"cca3":"ZWE","currency":"ZWL"}]
