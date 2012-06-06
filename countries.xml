@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
   <country name="Afghanistan" tld=".af" cca2="AF" ccn3="4" cca3="AFG" currency="AFN"/>
-  <country name="land Islands" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR"/>
+  <country name="Ã…land Islands" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR"/>
   <country name="Albania" tld=".al" cca2="AL" ccn3="8" cca3="ALB" currency="ALL"/>
   <country name="Algeria" tld=".dz" cca2="DZ" ccn3="12" cca3="DZA" currency="DZD"/>
   <country name="American Samoa" tld=".as" cca2="AS" ccn3="16" cca3="ASM" currency="USD"/>
@@ -53,10 +53,10 @@
   <country name="Democratic Republic of the Congo" tld=".cd" cca2="CD" ccn3="180" cca3="COD" currency="CDF"/>
   <country name="Cook Islands" tld=".ck" cca2="CK" ccn3="184" cca3="COK" currency="NZD"/>
   <country name="Costa Rica" tld=".cr" cca2="CR" ccn3="188" cca3="CRI" currency="CRC"/>
-  <country name="C™te d'Ivoire" tld=".ci" cca2="CI" ccn3="384" cca3="CIV" currency="XOF"/>
+  <country name="CÃ´te d'Ivoire" tld=".ci" cca2="CI" ccn3="384" cca3="CIV" currency="XOF"/>
   <country name="Croatia" tld=".hr" cca2="HR" ccn3="191" cca3="HRV" currency="HRK"/>
   <country name="Cuba" tld=".cu" cca2="CU" ccn3="192" cca3="CUB" currency="CUC,CUP"/>
-  <country name="Curaao" tld=".cw" cca2="CW" ccn3="531" cca3="CUW" currency="ANG"/>
+  <country name="CuraÃ§ao" tld=".cw" cca2="CW" ccn3="531" cca3="CUW" currency="ANG"/>
   <country name="Cyprus" tld=".cy" cca2="CY" ccn3="196" cca3="CYP" currency="EUR"/>
   <country name="Czech Republic" tld=".cz" cca2="CZ" ccn3="203" cca3="CZE" currency="CZK"/>
   <country name="Denmark" tld=".dk" cca2="DK" ccn3="208" cca3="DNK" currency="DKK"/>
@@ -179,11 +179,11 @@
   <country name="Portugal" tld=".pt" cca2="PT" ccn3="620" cca3="PRT" currency="EUR"/>
   <country name="Puerto Rico" tld=".pr" cca2="PR" ccn3="630" cca3="PRI" currency="USD"/>
   <country name="Qatar" tld=".qa" cca2="QA" ccn3="634" cca3="QAT" currency="QAR"/>
-  <country name="RŽunion" tld=".re" cca2="RE" ccn3="638" cca3="REU" currency="EUR"/>
+  <country name="Rï¿½union" tld=".re" cca2="RE" ccn3="638" cca3="REU" currency="EUR"/>
   <country name="Romania" tld=".ro" cca2="RO" ccn3="642" cca3="ROU" currency="RON"/>
   <country name="Russian Federation" tld=".ru" cca2="RU" ccn3="643" cca3="RUS" currency="RUB"/>
   <country name="Rwanda" tld=".rw" cca2="RW" ccn3="646" cca3="RWA" currency="RWF"/>
-  <country name="Saint BarthŽlemy" tld=".bl" cca2="BL" ccn3="652" cca3="BLM" currency="EUR"/>
+  <country name="Saint Barthï¿½lemy" tld=".bl" cca2="BL" ccn3="652" cca3="BLM" currency="EUR"/>
   <country name="Saint Helena" tld=".sh" cca2="SH" ccn3="654" cca3="SHN" currency="SHP"/>
   <country name="Saint Kitts and Nevis" tld=".kn" cca2="KN" ccn3="659" cca3="KNA" currency="XCD"/>
   <country name="Saint Lucia" tld=".lc" cca2="LC" ccn3="662" cca3="LCA" currency="XCD"/>
