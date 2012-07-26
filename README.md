@@ -2,7 +2,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
 
  - the country name
 
- - the country top-level domain
+ - the country top-level domain (tld)
 
  - the country code ISO 3166-1 alpha-2 (cca2)
 
@@ -10,11 +10,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
 
  - the country code ISO 3166-1 alpha-3 (cca3)
  
- - alternative spellings of the country name (separated by spaces)
- 
- - the country relevance
-
- - the country currency code(s) (comma separated if necessary)
+ - the country currency code(s) (comma separated if several)
  
 # 
 Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete. 
