@@ -1,252 +1,252 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
-  <country name="Afghanistan" tld=".af" cca2="AF" ccn3="4" cca3="AFG" currency="AFN" calling-code="93"/>
-  <country name="Åland Islands" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" calling-code="358"/>
-  <country name="Albania" tld=".al" cca2="AL" ccn3="8" cca3="ALB" currency="ALL" calling-code="355"/>
-  <country name="Algeria" tld=".dz" cca2="DZ" ccn3="12" cca3="DZA" currency="DZD" calling-code="213"/>
-  <country name="American Samoa" tld=".as" cca2="AS" ccn3="16" cca3="ASM" currency="USD" calling-code="1684"/>
-  <country name="Andorra" tld=".ad" cca2="AD" ccn3="20" cca3="AND" currency="EUR" calling-code="376"/>
-  <country name="Angola" tld=".ao" cca2="AO" ccn3="24" cca3="AGO" currency="AOA" calling-code="244"/>
-  <country name="Anguilla" tld=".ai" cca2="AI" ccn3="660" cca3="AIA" currency="XCD" calling-code="1264"/>
-  <country name="Antarctica" tld=".aq" cca2="AQ" ccn3="10" cca3="ATA" currency="" calling-code=""/>
-  <country name="Antigua and Barbuda" tld=".ag" cca2="AG" ccn3="28" cca3="ATG" currency="XCD" calling-code="1268"/>
-  <country name="Argentina" tld=".ar" cca2="AR" ccn3="32" cca3="ARG" currency="ARS" calling-code="54"/>
-  <country name="Armenia" tld=".am" cca2="AM" ccn3="51" cca3="ARM" currency="AMD" calling-code="374"/>
-  <country name="Aruba" tld=".aw" cca2="AW" ccn3="533" cca3="ABW" currency="AWG" calling-code="297"/>
-  <country name="Australia" tld=".au" cca2="AU" ccn3="36" cca3="AUS" currency="AUD" calling-code="61"/>
-  <country name="Austria" tld=".at" cca2="AT" ccn3="40" cca3="AUT" currency="EUR" calling-code="43"/>
-  <country name="Azerbaijan" tld=".az" cca2="AZ" ccn3="31" cca3="AZE" currency="AZN" calling-code="994"/>
-  <country name="Bahamas" tld=".bs" cca2="BS" ccn3="44" cca3="BHS" currency="BSD" calling-code="1242"/>
-  <country name="Bahrain" tld=".bh" cca2="BH" ccn3="48" cca3="BHR" currency="BHD" calling-code="973"/>
-  <country name="Bangladesh" tld=".bd" cca2="BD" ccn3="50" cca3="BGD" currency="BDT" calling-code="880"/>
-  <country name="Barbados" tld=".bb" cca2="BB" ccn3="52" cca3="BRB" currency="BBD" calling-code="1246"/>
-  <country name="Belarus" tld=".by" cca2="BY" ccn3="112" cca3="BLR" currency="BYR" calling-code="375"/>
-  <country name="Belgium" tld=".be" cca2="BE" ccn3="56" cca3="BEL" currency="EUR" calling-code="32"/>
-  <country name="Belize" tld=".bz" cca2="BZ" ccn3="84" cca3="BLZ" currency="BZD" calling-code="501"/>
-  <country name="Benin" tld=".bj" cca2="BJ" ccn3="204" cca3="BEN" currency="XOF" calling-code="229"/>
-  <country name="Bermuda" tld=".bm" cca2="BM" ccn3="60" cca3="BMU" currency="BMD" calling-code="1441"/>
-  <country name="Bhutan" tld=".bt" cca2="BT" ccn3="64" cca3="BTN" currency="BTN,INR" calling-code="975"/>
-  <country name="Bolivia" tld=".bo" cca2="BO" ccn3="68" cca3="BOL" currency="BOB,BOV" calling-code="591"/>
-  <country name="Bonaire" tld=".bq" cca2="BQ" ccn3="535" cca3="BES" currency="USD" calling-code="5997"/>
-  <country name="Bosnia and Herzegovina" tld=".ba" cca2="BA" ccn3="70" cca3="BIH" currency="BAM" calling-code="387"/>
-  <country name="Botswana" tld=".bw" cca2="BW" ccn3="72" cca3="BWA" currency="BWP" calling-code="267"/>
-  <country name="Bouvet Island" tld=".bv" cca2="BV" ccn3="74" cca3="BVT" currency="NOK" calling-code=""/>
-  <country name="Brazil" tld=".br" cca2="BR" ccn3="76" cca3="BRA" currency="BRL" calling-code="55"/>
-  <country name="British Indian Ocean Territory" tld=".io" cca2="IO" ccn3="86" cca3="IOT" currency="USD" calling-code="246"/>
-  <country name="Brunei Darussalam" tld=".bn" cca2="BN" ccn3="96" cca3="BRN" currency="BND" calling-code="673"/>
-  <country name="Bulgaria" tld=".bg" cca2="BG" ccn3="100" cca3="BGR" currency="BGN" calling-code="359"/>
-  <country name="Burkina Faso" tld=".bf" cca2="BF" ccn3="854" cca3="BFA" currency="XOF" calling-code="226"/>
-  <country name="Burundi" tld=".bi" cca2="BI" ccn3="108" cca3="BDI" currency="BIF" calling-code="257"/>
-  <country name="Cambodia" tld=".kh" cca2="KH" ccn3="116" cca3="KHM" currency="KHR" calling-code="855"/>
-  <country name="Cameroon" tld=".cm" cca2="CM" ccn3="120" cca3="CMR" currency="XAF" calling-code="237"/>
-  <country name="Canada" tld=".ca" cca2="CA" ccn3="124" cca3="CAN" currency="CAD" calling-code="1"/>
-  <country name="Cape Verde" tld=".cv" cca2="CV" ccn3="132" cca3="CPV" currency="CVE" calling-code="238"/>
-  <country name="Cayman Islands" tld=".ky" cca2="KY" ccn3="136" cca3="CYM" currency="KYD" calling-code="1345"/>
-  <country name="Central African Republic" tld=".cf" cca2="CF" ccn3="140" cca3="CAF" currency="XAF" calling-code="236"/>
-  <country name="Chad" tld=".td" cca2="TD" ccn3="148" cca3="TCD" currency="XAF" calling-code="235"/>
-  <country name="Chile" tld=".cl" cca2="CL" ccn3="152" cca3="CHL" currency="CLF,CLP" calling-code="56"/>
-  <country name="China" tld=".cn" cca2="CN" ccn3="156" cca3="CHN" currency="CNY" calling-code="86"/>
-  <country name="Christmas Island" tld=".cx" cca2="CX" ccn3="162" cca3="CXR" currency="AUD" calling-code="61"/>
-  <country name="Cocos (Keeling) Islands" tld=".cc" cca2="CC" ccn3="166" cca3="CCK" currency="AUD" calling-code="61"/>
-  <country name="Colombia" tld=".co" cca2="CO" ccn3="170" cca3="COL" currency="COP,COU" calling-code="57"/>
-  <country name="Comoros" tld=".km" cca2="KM" ccn3="174" cca3="COM" currency="KMF" calling-code="269"/>
-  <country name="Republic of the Congo" tld=".cg" cca2="CG" ccn3="178" cca3="COG" currency="XAF" calling-code="242"/>
-  <country name="Democratic Republic of the Congo" tld=".cd" cca2="CD" ccn3="180" cca3="COD" currency="CDF" calling-code="243"/>
-  <country name="Cook Islands" tld=".ck" cca2="CK" ccn3="184" cca3="COK" currency="NZD" calling-code="682"/>
-  <country name="Costa Rica" tld=".cr" cca2="CR" ccn3="188" cca3="CRI" currency="CRC" calling-code="506"/>
-  <country name="Côte d'Ivoire" tld=".ci" cca2="CI" ccn3="384" cca3="CIV" currency="XOF" calling-code="225"/>
-  <country name="Croatia" tld=".hr" cca2="HR" ccn3="191" cca3="HRV" currency="HRK" calling-code="385"/>
-  <country name="Cuba" tld=".cu" cca2="CU" ccn3="192" cca3="CUB" currency="CUC,CUP" calling-code="53"/>
-  <country name="Curaçao" tld=".cw" cca2="CW" ccn3="531" cca3="CUW" currency="ANG" calling-code="5999"/>
-  <country name="Cyprus" tld=".cy" cca2="CY" ccn3="196" cca3="CYP" currency="EUR" calling-code="357"/>
-  <country name="Czech Republic" tld=".cz" cca2="CZ" ccn3="203" cca3="CZE" currency="CZK" calling-code="420"/>
-  <country name="Denmark" tld=".dk" cca2="DK" ccn3="208" cca3="DNK" currency="DKK" calling-code="45"/>
-  <country name="Djibouti" tld=".dj" cca2="DJ" ccn3="262" cca3="DJI" currency="DJF" calling-code="253"/>
-  <country name="Dominica" tld=".dm" cca2="DM" ccn3="212" cca3="DMA" currency="XCD" calling-code="1767"/>
-  <country name="Dominican Republic" tld=".do" cca2="DO" ccn3="214" cca3="DOM" currency="DOP" calling-code="1809,1829,1849"/>
-  <country name="Ecuador" tld=".ec" cca2="EC" ccn3="218" cca3="ECU" currency="USD" calling-code="593"/>
-  <country name="Egypt" tld=".eg" cca2="EG" ccn3="818" cca3="EGY" currency="EGP" calling-code="20"/>
-  <country name="El Salvador" tld=".sv" cca2="SV" ccn3="222" cca3="SLV" currency="SVC,USD" calling-code="503"/>
-  <country name="Equatorial Guinea" tld=".gq" cca2="GQ" ccn3="226" cca3="GNQ" currency="XAF" calling-code="240"/>
-  <country name="Eritrea" tld=".er" cca2="ER" ccn3="232" cca3="ERI" currency="ERN" calling-code="291"/>
-  <country name="Estonia" tld=".ee" cca2="EE" ccn3="233" cca3="EST" currency="EUR" calling-code="372"/>
-  <country name="Ethiopia" tld=".et" cca2="ET" ccn3="231" cca3="ETH" currency="ETB" calling-code="251"/>
-  <country name="Falkland Islands (Malvinas)" tld=".fk" cca2="FK" ccn3="238" cca3="FLK" currency="FKP" calling-code="500"/>
-  <country name="Faroe Islands" tld=".fo" cca2="FO" ccn3="234" cca3="FRO" currency="DKK" calling-code="298"/>
-  <country name="Fiji" tld=".fj" cca2="FJ" ccn3="242" cca3="FJI" currency="FJD" calling-code="679"/>
-  <country name="Finland" tld=".fi" cca2="FI" ccn3="246" cca3="FIN" currency="EUR" calling-code="358"/>
-  <country name="France" tld=".fr" cca2="FR" ccn3="250" cca3="FRA" currency="EUR" calling-code="33"/>
-  <country name="French Guiana" tld=".gf" cca2="GF" ccn3="254" cca3="GUF" currency="EUR" calling-code="594"/>
-  <country name="French Polynesia" tld=".pf" cca2="PF" ccn3="258" cca3="PYF" currency="XPF" calling-code="689"/>
-  <country name="French Southern Territories" tld=".tf" cca2="TF" ccn3="260" cca3="ATF" currency="EUR" calling-code=""/>
-  <country name="Gabon" tld=".ga" cca2="GA" ccn3="266" cca3="GAB" currency="XAF" calling-code="241"/>
-  <country name="Gambia" tld=".gm" cca2="GM" ccn3="270" cca3="GMB" currency="GMD" calling-code="220"/>
-  <country name="Georgia" tld=".ge" cca2="GE" ccn3="268" cca3="GEO" currency="GEL" calling-code="995"/>
-  <country name="Germany" tld=".de" cca2="DE" ccn3="276" cca3="DEU" currency="EUR" calling-code="49"/>
-  <country name="Ghana" tld=".gh" cca2="GH" ccn3="288" cca3="GHA" currency="GHS" calling-code="233"/>
-  <country name="Gibraltar" tld=".gi" cca2="GI" ccn3="292" cca3="GIB" currency="GIP" calling-code="350"/>
-  <country name="Greece" tld=".gr" cca2="GR" ccn3="300" cca3="GRC" currency="EUR" calling-code="30"/>
-  <country name="Greenland" tld=".gl" cca2="GL" ccn3="304" cca3="GRL" currency="DKK" calling-code="299"/>
-  <country name="Grenada" tld=".gd" cca2="GD" ccn3="308" cca3="GRD" currency="XCD" calling-code="1473"/>
-  <country name="Guadeloupe" tld=".gp" cca2="GP" ccn3="312" cca3="GLP" currency="EUR" calling-code="590"/>
-  <country name="Guam" tld=".gu" cca2="GU" ccn3="316" cca3="GUM" currency="USD" calling-code="1671"/>
-  <country name="Guatemala" tld=".gt" cca2="GT" ccn3="320" cca3="GTM" currency="GTQ" calling-code="502"/>
-  <country name="Guernsey" tld=".gg" cca2="GG" ccn3="831" cca3="GGY" currency="GBP" calling-code="44"/>
-  <country name="Guinea" tld=".gn" cca2="GN" ccn3="324" cca3="GIN" currency="GNF" calling-code="224"/>
-  <country name="Guinea-Bissau" tld=".gw" cca2="GW" ccn3="624" cca3="GNB" currency="XOF" calling-code="245"/>
-  <country name="Guyana" tld=".gy" cca2="GY" ccn3="328" cca3="GUY" currency="GYD" calling-code="592"/>
-  <country name="Haiti" tld=".ht" cca2="HT" ccn3="332" cca3="HTI" currency="HTG,USD" calling-code="509"/>
-  <country name="Heard Island and McDonald Islands" tld=".hm" cca2="HM" ccn3="334" cca3="HMD" currency="AUD" calling-code=""/>
-  <country name="Vatican City" tld=".va" cca2="VA" ccn3="336" cca3="VAT" currency="EUR" calling-code="39066,379"/>
-  <country name="Honduras" tld=".hn" cca2="HN" ccn3="340" cca3="HND" currency="HNL" calling-code="504"/>
-  <country name="Hong Kong" tld=".hk" cca2="HK" ccn3="344" cca3="HKG" currency="HKD" calling-code="852"/>
-  <country name="Hungary" tld=".hu" cca2="HU" ccn3="348" cca3="HUN" currency="HUF" calling-code="36"/>
-  <country name="Iceland" tld=".is" cca2="IS" ccn3="352" cca3="ISL" currency="ISK" calling-code="354"/>
-  <country name="India" tld=".in" cca2="IN" ccn3="356" cca3="IND" currency="INR" calling-code="91"/>
-  <country name="Indonesia" tld=".id" cca2="ID" ccn3="360" cca3="IDN" currency="IDR" calling-code="62"/>
-  <country name="Iran" tld=".ir" cca2="IR" ccn3="364" cca3="IRN" currency="IRR" calling-code="98"/>
-  <country name="Iraq" tld=".iq" cca2="IQ" ccn3="368" cca3="IRQ" currency="IQD" calling-code="964"/>
-  <country name="Ireland" tld=".ie" cca2="IE" ccn3="372" cca3="IRL" currency="EUR" calling-code="353"/>
-  <country name="Isle of Man" tld=".im" cca2="IM" ccn3="833" cca3="IMN" currency="GBP" calling-code="44"/>
-  <country name="Israel" tld=".il" cca2="IL" ccn3="376" cca3="ISR" currency="ILS" calling-code="972"/>
-  <country name="Italy" tld=".it" cca2="IT" ccn3="380" cca3="ITA" currency="EUR" calling-code="39"/>
-  <country name="Jamaica" tld=".jm" cca2="JM" ccn3="388" cca3="JAM" currency="JMD" calling-code="1876"/>
-  <country name="Japan" tld=".jp" cca2="JP" ccn3="392" cca3="JPN" currency="JPY" calling-code="81"/>
-  <country name="Jersey" tld=".je" cca2="JE" ccn3="832" cca3="JEY" currency="GBP" calling-code="44"/>
-  <country name="Jordan" tld=".jo" cca2="JO" ccn3="400" cca3="JOR" currency="JOD" calling-code="962"/>
-  <country name="Kazakhstan" tld=".kz" cca2="KZ" ccn3="398" cca3="KAZ" currency="KZT" calling-code="76,77"/>
-  <country name="Kenya" tld=".ke" cca2="KE" ccn3="404" cca3="KEN" currency="KES" calling-code="254"/>
-  <country name="Kiribati" tld=".ki" cca2="KI" ccn3="296" cca3="KIR" currency="AUD" calling-code="686"/>
-  <country name="North Korea" tld=".kp" cca2="KP" ccn3="408" cca3="PRK" currency="KPW" calling-code="850"/>
-  <country name="South Korea" tld=".kr" cca2="KR" ccn3="410" cca3="KOR" currency="KRW" calling-code="82"/>
-  <country name="Kuwait" tld=".kw" cca2="KW" ccn3="414" cca3="KWT" currency="KWD" calling-code="965"/>
-  <country name="Kyrgyzstan" tld=".kg" cca2="KG" ccn3="417" cca3="KGZ" currency="KGS" calling-code="996"/>
-  <country name="Laos" tld=".la" cca2="LA" ccn3="418" cca3="LAO" currency="LAK" calling-code="856"/>
-  <country name="Latvia" tld=".lv" cca2="LV" ccn3="428" cca3="LVA" currency="LVL" calling-code="371"/>
-  <country name="Lebanon" tld=".lb" cca2="LB" ccn3="422" cca3="LBN" currency="LBP" calling-code="961"/>
-  <country name="Lesotho" tld=".ls" cca2="LS" ccn3="426" cca3="LSO" currency="LSL,ZAR" calling-code="266"/>
-  <country name="Liberia" tld=".lr" cca2="LR" ccn3="430" cca3="LBR" currency="LRD" calling-code="231"/>
-  <country name="Libya" tld=".ly" cca2="LY" ccn3="434" cca3="LBY" currency="LYD" calling-code="218"/>
-  <country name="Liechtenstein" tld=".li" cca2="LI" ccn3="438" cca3="LIE" currency="CHF" calling-code="423"/>
-  <country name="Lithuania" tld=".lt" cca2="LT" ccn3="440" cca3="LTU" currency="LTL" calling-code="370"/>
-  <country name="Luxembourg" tld=".lu" cca2="LU" ccn3="442" cca3="LUX" currency="EUR" calling-code="352"/>
-  <country name="Macao" tld=".mo" cca2="MO" ccn3="446" cca3="MAC" currency="MOP" calling-code="853"/>
-  <country name="Macedonia" tld=".mk" cca2="MK" ccn3="807" cca3="MKD" currency="MKD" calling-code="389"/>
-  <country name="Madagascar" tld=".mg" cca2="MG" ccn3="450" cca3="MDG" currency="MGA" calling-code="261"/>
-  <country name="Malawi" tld=".mw" cca2="MW" ccn3="454" cca3="MWI" currency="MWK" calling-code="265"/>
-  <country name="Malaysia" tld=".my" cca2="MY" ccn3="458" cca3="MYS" currency="MYR" calling-code="60"/>
-  <country name="Maldives" tld=".mv" cca2="MV" ccn3="462" cca3="MDV" currency="MVR" calling-code="960"/>
-  <country name="Mali" tld=".ml" cca2="ML" ccn3="466" cca3="MLI" currency="XOF" calling-code="223"/>
-  <country name="Malta" tld=".mt" cca2="MT" ccn3="470" cca3="MLT" currency="EUR" calling-code="356"/>
-  <country name="Marshall Islands" tld=".mh" cca2="MH" ccn3="584" cca3="MHL" currency="USD" calling-code="692"/>
-  <country name="Martinique" tld=".mq" cca2="MQ" ccn3="474" cca3="MTQ" currency="EUR" calling-code="596"/>
-  <country name="Mauritania" tld=".mr" cca2="MR" ccn3="478" cca3="MRT" currency="MRO" calling-code="222"/>
-  <country name="Mauritius" tld=".mu" cca2="MU" ccn3="480" cca3="MUS" currency="MUR" calling-code="230"/>
-  <country name="Mayotte" tld=".yt" cca2="YT" ccn3="175" cca3="MYT" currency="EUR" calling-code="262"/>
-  <country name="Mexico" tld=".mx" cca2="MX" ccn3="484" cca3="MEX" currency="MXN,MXV" calling-code="52"/>
-  <country name="Micronesia" tld=".fm" cca2="FM" ccn3="583" cca3="FSM" currency="USD" calling-code="691"/>
-  <country name="Moldova" tld=".md" cca2="MD" ccn3="498" cca3="MDA" currency="MDL" calling-code="373"/>
-  <country name="Monaco" tld=".mc" cca2="MC" ccn3="492" cca3="MCO" currency="EUR" calling-code="377"/>
-  <country name="Mongolia" tld=".mn" cca2="MN" ccn3="496" cca3="MNG" currency="MNT" calling-code="976"/>
-  <country name="Montenegro" tld=".me" cca2="ME" ccn3="499" cca3="MNE" currency="EUR" calling-code="382"/>
-  <country name="Montserrat" tld=".ms" cca2="MS" ccn3="500" cca3="MSR" currency="XCD" calling-code="1664"/>
-  <country name="Morocco" tld=".ma" cca2="MA" ccn3="504" cca3="MAR" currency="MAD" calling-code="212"/>
-  <country name="Mozambique" tld=".mz" cca2="MZ" ccn3="508" cca3="MOZ" currency="MZN" calling-code="258"/>
-  <country name="Myanmar (Burma)" tld=".mm" cca2="MM" ccn3="104" cca3="MMR" currency="MMK" calling-code="95"/>
-  <country name="Namibia" tld=".na" cca2="NA" ccn3="516" cca3="NAM" currency="NAD,ZAR" calling-code="264"/>
-  <country name="Nauru" tld=".nr" cca2="NR" ccn3="520" cca3="NRU" currency="AUD" calling-code="674"/>
-  <country name="Nepal" tld=".np" cca2="NP" ccn3="524" cca3="NPL" currency="NPR" calling-code="977"/>
-  <country name="Netherlands" tld=".nl" cca2="NL" ccn3="528" cca3="NLD" currency="EUR" calling-code="31"/>
-  <country name="New Caledonia" tld=".nc" cca2="NC" ccn3="540" cca3="NCL" currency="XPF" calling-code="687"/>
-  <country name="New Zealand" tld=".nz" cca2="NZ" ccn3="554" cca3="NZL" currency="NZD" calling-code="64"/>
-  <country name="Nicaragua" tld=".ni" cca2="NI" ccn3="558" cca3="NIC" currency="NIO" calling-code="505"/>
-  <country name="Niger" tld=".ne" cca2="NE" ccn3="562" cca3="NER" currency="XOF" calling-code="227"/>
-  <country name="Nigeria" tld=".ng" cca2="NG" ccn3="566" cca3="NGA" currency="NGN" calling-code="234"/>
-  <country name="Niue" tld=".nu" cca2="NU" ccn3="570" cca3="NIU" currency="NZD" calling-code="683"/>
-  <country name="Norfolk Island" tld=".nf" cca2="NF" ccn3="574" cca3="NFK" currency="AUD" calling-code="672"/>
-  <country name="Northern Mariana Islands" tld=".mp" cca2="MP" ccn3="580" cca3="MNP" currency="USD" calling-code="1670"/>
-  <country name="Norway" tld=".no" cca2="NO" ccn3="578" cca3="NOR" currency="NOK" calling-code="47"/>
-  <country name="Oman" tld=".om" cca2="OM" ccn3="512" cca3="OMN" currency="OMR" calling-code="968"/>
-  <country name="Pakistan" tld=".pk" cca2="PK" ccn3="586" cca3="PAK" currency="PKR" calling-code="92"/>
-  <country name="Palau" tld=".pw" cca2="PW" ccn3="585" cca3="PLW" currency="USD" calling-code="680"/>
-  <country name="Palestinian Territory" tld=".ps" cca2="PS" ccn3="275" cca3="PSE" currency="" calling-code="970"/>
-  <country name="Panama" tld=".pa" cca2="PA" ccn3="591" cca3="PAN" currency="PAB,USD" calling-code="507"/>
-  <country name="Papua New Guinea" tld=".pg" cca2="PG" ccn3="598" cca3="PNG" currency="PGK" calling-code="675"/>
-  <country name="Paraguay" tld=".py" cca2="PY" ccn3="600" cca3="PRY" currency="PYG" calling-code="595"/>
-  <country name="Peru" tld=".pe" cca2="PE" ccn3="604" cca3="PER" currency="PEN" calling-code="51"/>
-  <country name="Philippines" tld=".ph" cca2="PH" ccn3="608" cca3="PHL" currency="PHP" calling-code="63"/>
-  <country name="Pitcairn" tld=".pn" cca2="PN" ccn3="612" cca3="PCN" currency="NZD" calling-code="64"/>
-  <country name="Poland" tld=".pl" cca2="PL" ccn3="616" cca3="POL" currency="PLN" calling-code="48"/>
-  <country name="Portugal" tld=".pt" cca2="PT" ccn3="620" cca3="PRT" currency="EUR" calling-code="351"/>
-  <country name="Puerto Rico" tld=".pr" cca2="PR" ccn3="630" cca3="PRI" currency="USD" calling-code="1787,1939"/>
-  <country name="Qatar" tld=".qa" cca2="QA" ccn3="634" cca3="QAT" currency="QAR" calling-code="974"/>
-  <country name="Réunion" tld=".re" cca2="RE" ccn3="638" cca3="REU" currency="EUR" calling-code="262"/>
-  <country name="Romania" tld=".ro" cca2="RO" ccn3="642" cca3="ROU" currency="RON" calling-code="40"/>
-  <country name="Russian Federation" tld=".ru" cca2="RU" ccn3="643" cca3="RUS" currency="RUB" calling-code="7"/>
-  <country name="Rwanda" tld=".rw" cca2="RW" ccn3="646" cca3="RWA" currency="RWF" calling-code="250"/>
-  <country name="Saint Barthélemy" tld=".bl" cca2="BL" ccn3="652" cca3="BLM" currency="EUR" calling-code="590"/>
-  <country name="Saint Helena" tld=".sh" cca2="SH" ccn3="654" cca3="SHN" currency="SHP" calling-code="290"/>
-  <country name="Saint Kitts and Nevis" tld=".kn" cca2="KN" ccn3="659" cca3="KNA" currency="XCD" calling-code="1869"/>
-  <country name="Saint Lucia" tld=".lc" cca2="LC" ccn3="662" cca3="LCA" currency="XCD" calling-code="1758"/>
-  <country name="Saint Martin" tld=".mf" cca2="MF" ccn3="663" cca3="MAF" currency="EUR" calling-code="590"/>
-  <country name="Saint Pierre and Miquelon" tld=".pm" cca2="PM" ccn3="666" cca3="SPM" currency="EUR" calling-code="508"/>
-  <country name="Saint Vincent and the Grenadines" tld=".vc" cca2="VC" ccn3="670" cca3="VCT" currency="XCD" calling-code="1784"/>
-  <country name="Samoa" tld=".ws" cca2="WS" ccn3="882" cca3="WSM" currency="WST" calling-code="685"/>
-  <country name="San Marino" tld=".sm" cca2="SM" ccn3="674" cca3="SMR" currency="EUR" calling-code="378"/>
-  <country name="São Tomé and Príncipe" tld=".st" cca2="ST" ccn3="678" cca3="STP" currency="STD" calling-code="239"/>
-  <country name="Saudi Arabia" tld=".sa" cca2="SA" ccn3="682" cca3="SAU" currency="SAR" calling-code="966"/>
-  <country name="Senegal" tld=".sn" cca2="SN" ccn3="686" cca3="SEN" currency="XOF" calling-code="221"/>
-  <country name="Serbia" tld=".rs" cca2="RS" ccn3="688" cca3="SRB" currency="RSD" calling-code="381"/>
-  <country name="Seychelles" tld=".sc" cca2="SC" ccn3="690" cca3="SYC" currency="SCR" calling-code="248"/>
-  <country name="Sierra Leone" tld=".sl" cca2="SL" ccn3="694" cca3="SLE" currency="SLL" calling-code="232"/>
-  <country name="Singapore" tld=".sg" cca2="SG" ccn3="702" cca3="SGP" currency="SGD" calling-code="65"/>
-  <country name="Sint Maarten" tld=".sx" cca2="SX" ccn3="534" cca3="SXM" currency="ANG" calling-code="1721"/>
-  <country name="Slovakia" tld=".sk" cca2="SK" ccn3="703" cca3="SVK" currency="XSU" calling-code="421"/>
-  <country name="Slovenia" tld=".si" cca2="SI" ccn3="705" cca3="SVN" currency="EUR" calling-code="386"/>
-  <country name="Solomon Islands" tld=".sb" cca2="SB" ccn3="90" cca3="SLB" currency="EUR" calling-code="677"/>
-  <country name="Somalia" tld=".so" cca2="SO" ccn3="706" cca3="SOM" currency="SBD" calling-code="252"/>
-  <country name="South Africa" tld=".za" cca2="ZA" ccn3="710" cca3="ZAF" currency="SOS" calling-code="27"/>
-  <country name="South Georgia" tld=".gs" cca2="GS" ccn3="239" cca3="SGS" currency="ZAR" calling-code="500"/>
-  <country name="South Sudan" tld=".ss" cca2="SS" ccn3="728" cca3="SSD" currency="SSP" calling-code="211"/>
-  <country name="Spain" tld=".es" cca2="ES" ccn3="724" cca3="ESP" currency="EUR" calling-code="34"/>
-  <country name="Sri Lanka" tld=".lk" cca2="LK" ccn3="144" cca3="LKA" currency="LKR" calling-code="94"/>
-  <country name="Sudan" tld=".sd" cca2="SD" ccn3="729" cca3="SDN" currency="SDG" calling-code="249"/>
-  <country name="Suriname" tld=".sr" cca2="SR" ccn3="740" cca3="SUR" currency="SRD" calling-code="597"/>
-  <country name="Svalbard and Jan Mayen" tld=".sj" cca2="SJ" ccn3="744" cca3="SJM" currency="NOK" calling-code="4779"/>
-  <country name="Swaziland" tld=".sz" cca2="SZ" ccn3="748" cca3="SWZ" currency="SZL" calling-code="268"/>
-  <country name="Sweden" tld=".se" cca2="SE" ccn3="752" cca3="SWE" currency="SEK" calling-code="46"/>
-  <country name="Switzerland" tld=".ch" cca2="CH" ccn3="756" cca3="CHE" currency="CHE,CHF,CHW" calling-code="41"/>
-  <country name="Syrian Arab Republic" tld=".sy" cca2="SY" ccn3="760" cca3="SYR" currency="SYP" calling-code="963"/>
-  <country name="Taiwan, Province of China" tld=".tw" cca2="TW" ccn3="158" cca3="TWN" currency="TWD" calling-code="886"/>
-  <country name="Tajikistan" tld=".tj" cca2="TJ" ccn3="762" cca3="TJK" currency="TJS" calling-code="992"/>
-  <country name="Tanzania" tld=".tz" cca2="TZ" ccn3="834" cca3="TZA" currency="TZS" calling-code="255"/>
-  <country name="Thailand" tld=".th" cca2="TH" ccn3="764" cca3="THA" currency="THB" calling-code="66"/>
-  <country name="Timor-Leste" tld=".tl" cca2="TL" ccn3="626" cca3="TLS" currency="USD" calling-code="670"/>
-  <country name="Togo" tld=".tg" cca2="TG" ccn3="768" cca3="TGO" currency="XOF" calling-code="228"/>
-  <country name="Tokelau" tld=".tk" cca2="TK" ccn3="772" cca3="TKL" currency="NZD" calling-code="690"/>
-  <country name="Tonga" tld=".to" cca2="TO" ccn3="776" cca3="TON" currency="TOP" calling-code="676"/>
-  <country name="Trinidad and Tobago" tld=".tt" cca2="TT" ccn3="780" cca3="TTO" currency="TTD" calling-code="1868"/>
-  <country name="Tunisia" tld=".tn" cca2="TN" ccn3="788" cca3="TUN" currency="TND" calling-code="216"/>
-  <country name="Turkey" tld=".tr" cca2="TR" ccn3="792" cca3="TUR" currency="TRY" calling-code="90"/>
-  <country name="Turkmenistan" tld=".tm" cca2="TM" ccn3="795" cca3="TKM" currency="TMT" calling-code="993"/>
-  <country name="Turks and Caicos Islands" tld=".tc" cca2="TC" ccn3="796" cca3="TCA" currency="USD" calling-code="1649"/>
-  <country name="Tuvalu" tld=".tv" cca2="TV" ccn3="798" cca3="TUV" currency="AUD" calling-code="688"/>
-  <country name="Uganda" tld=".ug" cca2="UG" ccn3="800" cca3="UGA" currency="UGX" calling-code="256"/>
-  <country name="Ukraine" tld=".ua" cca2="UA" ccn3="804" cca3="UKR" currency="UAH" calling-code="380"/>
-  <country name="United Arab Emirates" tld=".ae" cca2="AE" ccn3="784" cca3="ARE" currency="AED" calling-code="971"/>
-  <country name="United Kingdom" tld=".gb" cca2="GB" ccn3="826" cca3="GBR" currency="GBP" calling-code="44"/>
-  <country name="United States" tld=".us" cca2="US" ccn3="840" cca3="USA" currency="USD,USN,USS" calling-code="1"/>
-  <country name="United States Minor Outlying Islands" tld=".us" cca2="UM" ccn3="581" cca3="UMI" currency="USD" calling-code=""/>
-  <country name="Uruguay" tld=".uy" cca2="UY" ccn3="858" cca3="URY" currency="UYI,UYU" calling-code="598"/>
-  <country name="Uzbekistan" tld=".uz" cca2="UZ" ccn3="860" cca3="UZB" currency="UZS" calling-code="998"/>
-  <country name="Vanuatu" tld=".vu" cca2="VU" ccn3="548" cca3="VUT" currency="VUV" calling-code="678"/>
-  <country name="Venezuela" tld=".ve" cca2="VE" ccn3="862" cca3="VEN" currency="VEF" calling-code="58"/>
-  <country name="Viet Nam" tld=".vn" cca2="VN" ccn3="704" cca3="VNM" currency="VND" calling-code="84"/>
-  <country name="Virgin Islands (British)" tld=".vg" cca2="VG" ccn3="92" cca3="VGB" currency="USD" calling-code="1284"/>
-  <country name="Virgin Islands (U.S.)" tld=".vi" cca2="VI" ccn3="850" cca3="VIR" currency="USD" calling-code="1340"/>
-  <country name="Wallis and Futuna" tld=".wf" cca2="WF" ccn3="876" cca3="WLF" currency="XPF" calling-code="681"/>
-  <country name="Western Sahara" tld=".eh" cca2="EH" ccn3="732" cca3="ESH" currency="MAD,DZD,MRO" calling-code="212"/>
-  <country name="Yemen" tld=".ye" cca2="YE" ccn3="887" cca3="YEM" currency="YER" calling-code="967"/>
-  <country name="Zambia" tld=".zm" cca2="ZM" ccn3="894" cca3="ZMB" currency="ZMK" calling-code="260"/>
-  <country name="Zimbabwe" tld=".zw" cca2="ZW" ccn3="716" cca3="ZWE" currency="ZWL" calling-code="263"/>
+  <country name="Afghanistan" tld=".af" cca2="AF" ccn3="4" cca3="AFG" currency="AFN" calling-code="93" alt-spellings="AF" relevance="0"/>
+  <country name="Åland Islands" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" calling-code="358" alt-spellings="AX,Aaland,Aland" relevance="0.5"/>
+  <country name="Albania" tld=".al" cca2="AL" ccn3="8" cca3="ALB" currency="ALL" calling-code="355" alt-spellings="AL" relevance="0"/>
+  <country name="Algeria" tld=".dz" cca2="DZ" ccn3="12" cca3="DZA" currency="DZD" calling-code="213" alt-spellings="DZ" relevance="0"/>
+  <country name="American Samoa" tld=".as" cca2="AS" ccn3="16" cca3="ASM" currency="USD" calling-code="1684" alt-spellings="AS" relevance="0.5"/>
+  <country name="Andorra" tld=".ad" cca2="AD" ccn3="20" cca3="AND" currency="EUR" calling-code="376" alt-spellings="AD" relevance="0.5"/>
+  <country name="Angola" tld=".ao" cca2="AO" ccn3="24" cca3="AGO" currency="AOA" calling-code="244" alt-spellings="AO" relevance="0"/>
+  <country name="Anguilla" tld=".ai" cca2="AI" ccn3="660" cca3="AIA" currency="XCD" calling-code="1264" alt-spellings="AI" relevance="0.5"/>
+  <country name="Antarctica" tld=".aq" cca2="AQ" ccn3="10" cca3="ATA" currency="" calling-code="" alt-spellings="AQ" relevance="0.5"/>
+  <country name="Antigua and Barbuda" tld=".ag" cca2="AG" ccn3="28" cca3="ATG" currency="XCD" calling-code="1268" alt-spellings="AG" relevance="0.5"/>
+  <country name="Argentina" tld=".ar" cca2="AR" ccn3="32" cca3="ARG" currency="ARS" calling-code="54" alt-spellings="AR" relevance="0"/>
+  <country name="Armenia" tld=".am" cca2="AM" ccn3="51" cca3="ARM" currency="AMD" calling-code="374" alt-spellings="AM" relevance="0"/>
+  <country name="Aruba" tld=".aw" cca2="AW" ccn3="533" cca3="ABW" currency="AWG" calling-code="297" alt-spellings="AW" relevance="0.5"/>
+  <country name="Australia" tld=".au" cca2="AU" ccn3="36" cca3="AUS" currency="AUD" calling-code="61" alt-spellings="AU" relevance="1.5"/>
+  <country name="Austria" tld=".at" cca2="AT" ccn3="40" cca3="AUT" currency="EUR" calling-code="43" alt-spellings="AT,Österreich,Osterreich,Oesterreich" relevance="0"/>
+  <country name="Azerbaijan" tld=".az" cca2="AZ" ccn3="31" cca3="AZE" currency="AZN" calling-code="994" alt-spellings="AZ" relevance="0"/>
+  <country name="Bahamas" tld=".bs" cca2="BS" ccn3="44" cca3="BHS" currency="BSD" calling-code="1242" alt-spellings="BS" relevance="0"/>
+  <country name="Bahrain" tld=".bh" cca2="BH" ccn3="48" cca3="BHR" currency="BHD" calling-code="973" alt-spellings="BH" relevance="0"/>
+  <country name="Bangladesh" tld=".bd" cca2="BD" ccn3="50" cca3="BGD" currency="BDT" calling-code="880" alt-spellings="BD" relevance="2"/>
+  <country name="Barbados" tld=".bb" cca2="BB" ccn3="52" cca3="BRB" currency="BBD" calling-code="1246" alt-spellings="BB" relevance="0"/>
+  <country name="Belarus" tld=".by" cca2="BY" ccn3="112" cca3="BLR" currency="BYR" calling-code="375" alt-spellings="BY" relevance="0"/>
+  <country name="Belgium" tld=".be" cca2="BE" ccn3="56" cca3="BEL" currency="EUR" calling-code="32" alt-spellings="BE,België,Belgie,Belgien,Belgique" relevance="1.5"/>
+  <country name="Belize" tld=".bz" cca2="BZ" ccn3="84" cca3="BLZ" currency="BZD" calling-code="501" alt-spellings="BZ" relevance="0"/>
+  <country name="Benin" tld=".bj" cca2="BJ" ccn3="204" cca3="BEN" currency="XOF" calling-code="229" alt-spellings="BJ" relevance="0"/>
+  <country name="Bermuda" tld=".bm" cca2="BM" ccn3="60" cca3="BMU" currency="BMD" calling-code="1441" alt-spellings="BM" relevance="0.5"/>
+  <country name="Bhutan" tld=".bt" cca2="BT" ccn3="64" cca3="BTN" currency="BTN,INR" calling-code="975" alt-spellings="BT" relevance="0"/>
+  <country name="Bolivia" tld=".bo" cca2="BO" ccn3="68" cca3="BOL" currency="BOB,BOV" calling-code="591" alt-spellings="BO" relevance="0"/>
+  <country name="Bonaire" tld=".bq" cca2="BQ" ccn3="535" cca3="BES" currency="USD" calling-code="5997" alt-spellings="BQ" relevance="0"/>
+  <country name="Bosnia and Herzegovina" tld=".ba" cca2="BA" ccn3="70" cca3="BIH" currency="BAM" calling-code="387" alt-spellings="BA" relevance="0"/>
+  <country name="Botswana" tld=".bw" cca2="BW" ccn3="72" cca3="BWA" currency="BWP" calling-code="267" alt-spellings="BW" relevance="0"/>
+  <country name="Bouvet Island" tld=".bv" cca2="BV" ccn3="74" cca3="BVT" currency="NOK" calling-code="" alt-spellings="BV" relevance="0"/>
+  <country name="Brazil" tld=".br" cca2="BR" ccn3="76" cca3="BRA" currency="BRL" calling-code="55" alt-spellings="BR,Brasil" relevance="2"/>
+  <country name="British Indian Ocean Territory" tld=".io" cca2="IO" ccn3="86" cca3="IOT" currency="USD" calling-code="246" alt-spellings="IO" relevance="0"/>
+  <country name="Brunei Darussalam" tld=".bn" cca2="BN" ccn3="96" cca3="BRN" currency="BND" calling-code="673" alt-spellings="BN" relevance="0"/>
+  <country name="Bulgaria" tld=".bg" cca2="BG" ccn3="100" cca3="BGR" currency="BGN" calling-code="359" alt-spellings="BG" relevance="0"/>
+  <country name="Burkina Faso" tld=".bf" cca2="BF" ccn3="854" cca3="BFA" currency="XOF" calling-code="226" alt-spellings="BF" relevance="0"/>
+  <country name="Burundi" tld=".bi" cca2="BI" ccn3="108" cca3="BDI" currency="BIF" calling-code="257" alt-spellings="BI" relevance="0"/>
+  <country name="Cambodia" tld=".kh" cca2="KH" ccn3="116" cca3="KHM" currency="KHR" calling-code="855" alt-spellings="KH" relevance="0"/>
+  <country name="Cameroon" tld=".cm" cca2="CM" ccn3="120" cca3="CMR" currency="XAF" calling-code="237" alt-spellings="CM" relevance="0"/>
+  <country name="Canada" tld=".ca" cca2="CA" ccn3="124" cca3="CAN" currency="CAD" calling-code="1" alt-spellings="CA" relevance="2"/>
+  <country name="Cape Verde" tld=".cv" cca2="CV" ccn3="132" cca3="CPV" currency="CVE" calling-code="238" alt-spellings="CV,Cabo" relevance="0"/>
+  <country name="Cayman Islands" tld=".ky" cca2="KY" ccn3="136" cca3="CYM" currency="KYD" calling-code="1345" alt-spellings="KY" relevance="0.5"/>
+  <country name="Central African Republic" tld=".cf" cca2="CF" ccn3="140" cca3="CAF" currency="XAF" calling-code="236" alt-spellings="CF" relevance="0"/>
+  <country name="Chad" tld=".td" cca2="TD" ccn3="148" cca3="TCD" currency="XAF" calling-code="235" alt-spellings="TD,Tchad" relevance="0"/>
+  <country name="Chile" tld=".cl" cca2="CL" ccn3="152" cca3="CHL" currency="CLF,CLP" calling-code="56" alt-spellings="CL" relevance="0"/>
+  <country name="China" tld=".cn" cca2="CN" ccn3="156" cca3="CHN" currency="CNY" calling-code="86" alt-spellings="CN,Zhongguo,Zhonghua,Peoples Republic" relevance="0"/>
+  <country name="Christmas Island" tld=".cx" cca2="CX" ccn3="162" cca3="CXR" currency="AUD" calling-code="61" alt-spellings="CX" relevance="0.5"/>
+  <country name="Cocos (Keeling) Islands" tld=".cc" cca2="CC" ccn3="166" cca3="CCK" currency="AUD" calling-code="61" alt-spellings="CC" relevance="0"/>
+  <country name="Colombia" tld=".co" cca2="CO" ccn3="170" cca3="COL" currency="COP,COU" calling-code="57" alt-spellings="CO" relevance="0"/>
+  <country name="Comoros" tld=".km" cca2="KM" ccn3="174" cca3="COM" currency="KMF" calling-code="269" alt-spellings="KM" relevance="0"/>
+  <country name="Republic of the Congo" tld=".cg" cca2="CG" ccn3="178" cca3="COG" currency="XAF" calling-code="242" alt-spellings="CG" relevance="0"/>
+  <country name="Democratic Republic of the Congo" tld=".cd" cca2="CD" ccn3="180" cca3="COD" currency="CDF" calling-code="243" alt-spellings="CD,Congo-Brazzaville,Repubilika ya Kongo" relevance="0"/>
+  <country name="Cook Islands" tld=".ck" cca2="CK" ccn3="184" cca3="COK" currency="NZD" calling-code="682" alt-spellings="CK" relevance="0.5"/>
+  <country name="Costa Rica" tld=".cr" cca2="CR" ccn3="188" cca3="CRI" currency="CRC" calling-code="506" alt-spellings="CR" relevance="0"/>
+  <country name="Côte d'Ivoire" tld=".ci" cca2="CI" ccn3="384" cca3="CIV" currency="XOF" calling-code="225" alt-spellings="CI,Cote,dIvoire" relevance="0"/>
+  <country name="Croatia" tld=".hr" cca2="HR" ccn3="191" cca3="HRV" currency="HRK" calling-code="385" alt-spellings="HR,Hrvatska" relevance="0"/>
+  <country name="Cuba" tld=".cu" cca2="CU" ccn3="192" cca3="CUB" currency="CUC,CUP" calling-code="53" alt-spellings="CU" relevance="0"/>
+  <country name="Curaçao" tld=".cw" cca2="CW" ccn3="531" cca3="CUW" currency="ANG" calling-code="5999" alt-spellings="CW,Curacao" relevance="0"/>
+  <country name="Cyprus" tld=".cy" cca2="CY" ccn3="196" cca3="CYP" currency="EUR" calling-code="357" alt-spellings="CY,Kýpros" relevance="0"/>
+  <country name="Czech Republic" tld=".cz" cca2="CZ" ccn3="203" cca3="CZE" currency="CZK" calling-code="420" alt-spellings="CZ,Ceska" relevance="0"/>
+  <country name="Denmark" tld=".dk" cca2="DK" ccn3="208" cca3="DNK" currency="DKK" calling-code="45" alt-spellings="DK,Danmark" relevance="1.5"/>
+  <country name="Djibouti" tld=".dj" cca2="DJ" ccn3="262" cca3="DJI" currency="DJF" calling-code="253" alt-spellings="DJ,Jabuuti,Gabuuti" relevance="0"/>
+  <country name="Dominica" tld=".dm" cca2="DM" ccn3="212" cca3="DMA" currency="XCD" calling-code="1767" alt-spellings="DM,Dominique" relevance="0.5"/>
+  <country name="Dominican Republic" tld=".do" cca2="DO" ccn3="214" cca3="DOM" currency="DOP" calling-code="1809,1829,1849" alt-spellings="DO" relevance="0"/>
+  <country name="Ecuador" tld=".ec" cca2="EC" ccn3="218" cca3="ECU" currency="USD" calling-code="593" alt-spellings="EC" relevance="0"/>
+  <country name="Egypt" tld=".eg" cca2="EG" ccn3="818" cca3="EGY" currency="EGP" calling-code="20" alt-spellings="EG" relevance="1.5"/>
+  <country name="El Salvador" tld=".sv" cca2="SV" ccn3="222" cca3="SLV" currency="SVC,USD" calling-code="503" alt-spellings="SV" relevance="0"/>
+  <country name="Equatorial Guinea" tld=".gq" cca2="GQ" ccn3="226" cca3="GNQ" currency="XAF" calling-code="240" alt-spellings="GQ" relevance="0"/>
+  <country name="Eritrea" tld=".er" cca2="ER" ccn3="232" cca3="ERI" currency="ERN" calling-code="291" alt-spellings="ER" relevance="0"/>
+  <country name="Estonia" tld=".ee" cca2="EE" ccn3="233" cca3="EST" currency="EUR" calling-code="372" alt-spellings="EE,Eesti" relevance="0"/>
+  <country name="Ethiopia" tld=".et" cca2="ET" ccn3="231" cca3="ETH" currency="ETB" calling-code="251" alt-spellings="ET" relevance="0"/>
+  <country name="Falkland Islands (Malvinas)" tld=".fk" cca2="FK" ccn3="238" cca3="FLK" currency="FKP" calling-code="500" alt-spellings="FK" relevance="0.5"/>
+  <country name="Faroe Islands" tld=".fo" cca2="FO" ccn3="234" cca3="FRO" currency="DKK" calling-code="298" alt-spellings="FO,Føroyar,Færøerne" relevance="0.5"/>
+  <country name="Fiji" tld=".fj" cca2="FJ" ccn3="242" cca3="FJI" currency="FJD" calling-code="679" alt-spellings="FJ,Viti" relevance="0"/>
+  <country name="Finland" tld=".fi" cca2="FI" ccn3="246" cca3="FIN" currency="EUR" calling-code="358" alt-spellings="FI,Suomi" relevance="0"/>
+  <country name="France" tld=".fr" cca2="FR" ccn3="250" cca3="FRA" currency="EUR" calling-code="33" alt-spellings="FR,République française" relevance="2.5"/>
+  <country name="French Guiana" tld=".gf" cca2="GF" ccn3="254" cca3="GUF" currency="EUR" calling-code="594" alt-spellings="GF" relevance="0"/>
+  <country name="French Polynesia" tld=".pf" cca2="PF" ccn3="258" cca3="PYF" currency="XPF" calling-code="689" alt-spellings="PF,Polynésie française" relevance="0"/>
+  <country name="French Southern Territories" tld=".tf" cca2="TF" ccn3="260" cca3="ATF" currency="EUR" calling-code="" alt-spellings="TF" relevance="0"/>
+  <country name="Gabon" tld=".ga" cca2="GA" ccn3="266" cca3="GAB" currency="XAF" calling-code="241" alt-spellings="GA,République Gabonaise" relevance="0"/>
+  <country name="Gambia" tld=".gm" cca2="GM" ccn3="270" cca3="GMB" currency="GMD" calling-code="220" alt-spellings="GM" relevance="0"/>
+  <country name="Georgia" tld=".ge" cca2="GE" ccn3="268" cca3="GEO" currency="GEL" calling-code="995" alt-spellings="GE" relevance="0"/>
+  <country name="Germany" tld=".de" cca2="DE" ccn3="276" cca3="DEU" currency="EUR" calling-code="49" alt-spellings="DE,Bundesrepublik,Deutschland" relevance="3"/>
+  <country name="Ghana" tld=".gh" cca2="GH" ccn3="288" cca3="GHA" currency="GHS" calling-code="233" alt-spellings="GH" relevance="0"/>
+  <country name="Gibraltar" tld=".gi" cca2="GI" ccn3="292" cca3="GIB" currency="GIP" calling-code="350" alt-spellings="GI" relevance="0.5"/>
+  <country name="Greece" tld=".gr" cca2="GR" ccn3="300" cca3="GRC" currency="EUR" calling-code="30" alt-spellings="GR" relevance="1.5"/>
+  <country name="Greenland" tld=".gl" cca2="GL" ccn3="304" cca3="GRL" currency="DKK" calling-code="299" alt-spellings="GL,grønland" relevance="0.5"/>
+  <country name="Grenada" tld=".gd" cca2="GD" ccn3="308" cca3="GRD" currency="XCD" calling-code="1473" alt-spellings="GD" relevance="0"/>
+  <country name="Guadeloupe" tld=".gp" cca2="GP" ccn3="312" cca3="GLP" currency="EUR" calling-code="590" alt-spellings="GP" relevance="0"/>
+  <country name="Guam" tld=".gu" cca2="GU" ccn3="316" cca3="GUM" currency="USD" calling-code="1671" alt-spellings="GU" relevance="0"/>
+  <country name="Guatemala" tld=".gt" cca2="GT" ccn3="320" cca3="GTM" currency="GTQ" calling-code="502" alt-spellings="GT" relevance="0"/>
+  <country name="Guernsey" tld=".gg" cca2="GG" ccn3="831" cca3="GGY" currency="GBP" calling-code="44" alt-spellings="GG" relevance="0.5"/>
+  <country name="Guinea" tld=".gn" cca2="GN" ccn3="324" cca3="GIN" currency="GNF" calling-code="224" alt-spellings="GN" relevance="0"/>
+  <country name="Guinea-Bissau" tld=".gw" cca2="GW" ccn3="624" cca3="GNB" currency="XOF" calling-code="245" alt-spellings="GW" relevance="0"/>
+  <country name="Guyana" tld=".gy" cca2="GY" ccn3="328" cca3="GUY" currency="GYD" calling-code="592" alt-spellings="GY" relevance="0"/>
+  <country name="Haiti" tld=".ht" cca2="HT" ccn3="332" cca3="HTI" currency="HTG,USD" calling-code="509" alt-spellings="HT" relevance="0"/>
+  <country name="Heard Island and McDonald Islands" tld=".hm" cca2="HM" ccn3="334" cca3="HMD" currency="AUD" calling-code="" alt-spellings="HM" relevance="0"/>
+  <country name="Vatican City" tld=".va" cca2="VA" ccn3="336" cca3="VAT" currency="EUR" calling-code="39066,379" alt-spellings="VA" relevance="0.5"/>
+  <country name="Honduras" tld=".hn" cca2="HN" ccn3="340" cca3="HND" currency="HNL" calling-code="504" alt-spellings="HN" relevance="0"/>
+  <country name="Hong Kong" tld=".hk" cca2="HK" ccn3="344" cca3="HKG" currency="HKD" calling-code="852" alt-spellings="HK" relevance="0"/>
+  <country name="Hungary" tld=".hu" cca2="HU" ccn3="348" cca3="HUN" currency="HUF" calling-code="36" alt-spellings="HU,Magyarország" relevance="0"/>
+  <country name="Iceland" tld=".is" cca2="IS" ccn3="352" cca3="ISL" currency="ISK" calling-code="354" alt-spellings="IS,Island" relevance="0"/>
+  <country name="India" tld=".in" cca2="IN" ccn3="356" cca3="IND" currency="INR" calling-code="91" alt-spellings="IN,Hindustan" relevance="3"/>
+  <country name="Indonesia" tld=".id" cca2="ID" ccn3="360" cca3="IDN" currency="IDR" calling-code="62" alt-spellings="ID" relevance="2"/>
+  <country name="Iran" tld=".ir" cca2="IR" ccn3="364" cca3="IRN" currency="IRR" calling-code="98" alt-spellings="IR" relevance="0"/>
+  <country name="Iraq" tld=".iq" cca2="IQ" ccn3="368" cca3="IRQ" currency="IQD" calling-code="964" alt-spellings="IQ" relevance="0"/>
+  <country name="Ireland" tld=".ie" cca2="IE" ccn3="372" cca3="IRL" currency="EUR" calling-code="353" alt-spellings="IE,Éire" relevance="1.2"/>
+  <country name="Isle of Man" tld=".im" cca2="IM" ccn3="833" cca3="IMN" currency="GBP" calling-code="44" alt-spellings="IM" relevance="0.5"/>
+  <country name="Israel" tld=".il" cca2="IL" ccn3="376" cca3="ISR" currency="ILS" calling-code="972" alt-spellings="IL" relevance="0"/>
+  <country name="Italy" tld=".it" cca2="IT" ccn3="380" cca3="ITA" currency="EUR" calling-code="39" alt-spellings="IT,Italia" relevance="2"/>
+  <country name="Jamaica" tld=".jm" cca2="JM" ccn3="388" cca3="JAM" currency="JMD" calling-code="1876" alt-spellings="JM" relevance="0"/>
+  <country name="Japan" tld=".jp" cca2="JP" ccn3="392" cca3="JPN" currency="JPY" calling-code="81" alt-spellings="JP,Nippon,Nihon" relevance="2.5"/>
+  <country name="Jersey" tld=".je" cca2="JE" ccn3="832" cca3="JEY" currency="GBP" calling-code="44" alt-spellings="JE" relevance="0.5"/>
+  <country name="Jordan" tld=".jo" cca2="JO" ccn3="400" cca3="JOR" currency="JOD" calling-code="962" alt-spellings="JO" relevance="0"/>
+  <country name="Kazakhstan" tld=".kz" cca2="KZ" ccn3="398" cca3="KAZ" currency="KZT" calling-code="76,77" alt-spellings="KZ" relevance="0"/>
+  <country name="Kenya" tld=".ke" cca2="KE" ccn3="404" cca3="KEN" currency="KES" calling-code="254" alt-spellings="KE" relevance="0"/>
+  <country name="Kiribati" tld=".ki" cca2="KI" ccn3="296" cca3="KIR" currency="AUD" calling-code="686" alt-spellings="KI" relevance="0"/>
+  <country name="North Korea" tld=".kp" cca2="KP" ccn3="408" cca3="PRK" currency="KPW" calling-code="850" alt-spellings="KP" relevance="0"/>
+  <country name="South Korea" tld=".kr" cca2="KR" ccn3="410" cca3="KOR" currency="KRW" calling-code="82" alt-spellings="KR" relevance="1.5"/>
+  <country name="Kuwait" tld=".kw" cca2="KW" ccn3="414" cca3="KWT" currency="KWD" calling-code="965" alt-spellings="KW" relevance="0"/>
+  <country name="Kyrgyzstan" tld=".kg" cca2="KG" ccn3="417" cca3="KGZ" currency="KGS" calling-code="996" alt-spellings="KG" relevance="0"/>
+  <country name="Laos" tld=".la" cca2="LA" ccn3="418" cca3="LAO" currency="LAK" calling-code="856" alt-spellings="LA" relevance="0"/>
+  <country name="Latvia" tld=".lv" cca2="LV" ccn3="428" cca3="LVA" currency="LVL" calling-code="371" alt-spellings="LV,Latvija" relevance="0"/>
+  <country name="Lebanon" tld=".lb" cca2="LB" ccn3="422" cca3="LBN" currency="LBP" calling-code="961" alt-spellings="LB" relevance="0"/>
+  <country name="Lesotho" tld=".ls" cca2="LS" ccn3="426" cca3="LSO" currency="LSL,ZAR" calling-code="266" alt-spellings="LS" relevance="0"/>
+  <country name="Liberia" tld=".lr" cca2="LR" ccn3="430" cca3="LBR" currency="LRD" calling-code="231" alt-spellings="LR" relevance="0"/>
+  <country name="Libya" tld=".ly" cca2="LY" ccn3="434" cca3="LBY" currency="LYD" calling-code="218" alt-spellings="LY" relevance="0"/>
+  <country name="Liechtenstein" tld=".li" cca2="LI" ccn3="438" cca3="LIE" currency="CHF" calling-code="423" alt-spellings="LI" relevance="0"/>
+  <country name="Lithuania" tld=".lt" cca2="LT" ccn3="440" cca3="LTU" currency="LTL" calling-code="370" alt-spellings="LT,Lietuva" relevance="0"/>
+  <country name="Luxembourg" tld=".lu" cca2="LU" ccn3="442" cca3="LUX" currency="EUR" calling-code="352" alt-spellings="LU" relevance="0"/>
+  <country name="Macao" tld=".mo" cca2="MO" ccn3="446" cca3="MAC" currency="MOP" calling-code="853" alt-spellings="MO" relevance="0"/>
+  <country name="Macedonia" tld=".mk" cca2="MK" ccn3="807" cca3="MKD" currency="MKD" calling-code="389" alt-spellings="MK" relevance="0"/>
+  <country name="Madagascar" tld=".mg" cca2="MG" ccn3="450" cca3="MDG" currency="MGA" calling-code="261" alt-spellings="MG,Madagasikara" relevance="0"/>
+  <country name="Malawi" tld=".mw" cca2="MW" ccn3="454" cca3="MWI" currency="MWK" calling-code="265" alt-spellings="MW" relevance="0"/>
+  <country name="Malaysia" tld=".my" cca2="MY" ccn3="458" cca3="MYS" currency="MYR" calling-code="60" alt-spellings="MY" relevance="0"/>
+  <country name="Maldives" tld=".mv" cca2="MV" ccn3="462" cca3="MDV" currency="MVR" calling-code="960" alt-spellings="MV" relevance="0"/>
+  <country name="Mali" tld=".ml" cca2="ML" ccn3="466" cca3="MLI" currency="XOF" calling-code="223" alt-spellings="ML" relevance="0"/>
+  <country name="Malta" tld=".mt" cca2="MT" ccn3="470" cca3="MLT" currency="EUR" calling-code="356" alt-spellings="MT" relevance="0"/>
+  <country name="Marshall Islands" tld=".mh" cca2="MH" ccn3="584" cca3="MHL" currency="USD" calling-code="692" alt-spellings="MH" relevance="0.5"/>
+  <country name="Martinique" tld=".mq" cca2="MQ" ccn3="474" cca3="MTQ" currency="EUR" calling-code="596" alt-spellings="MQ" relevance="0"/>
+  <country name="Mauritania" tld=".mr" cca2="MR" ccn3="478" cca3="MRT" currency="MRO" calling-code="222" alt-spellings="MR" relevance="0"/>
+  <country name="Mauritius" tld=".mu" cca2="MU" ccn3="480" cca3="MUS" currency="MUR" calling-code="230" alt-spellings="MU" relevance="0"/>
+  <country name="Mayotte" tld=".yt" cca2="YT" ccn3="175" cca3="MYT" currency="EUR" calling-code="262" alt-spellings="YT" relevance="0"/>
+  <country name="Mexico" tld=".mx" cca2="MX" ccn3="484" cca3="MEX" currency="MXN,MXV" calling-code="52" alt-spellings="MX,Mexicanos" relevance="1.5"/>
+  <country name="Micronesia" tld=".fm" cca2="FM" ccn3="583" cca3="FSM" currency="USD" calling-code="691" alt-spellings="FM" relevance="0"/>
+  <country name="Moldova" tld=".md" cca2="MD" ccn3="498" cca3="MDA" currency="MDL" calling-code="373" alt-spellings="MD" relevance="0"/>
+  <country name="Monaco" tld=".mc" cca2="MC" ccn3="492" cca3="MCO" currency="EUR" calling-code="377" alt-spellings="MC" relevance="0"/>
+  <country name="Mongolia" tld=".mn" cca2="MN" ccn3="496" cca3="MNG" currency="MNT" calling-code="976" alt-spellings="MN" relevance="0"/>
+  <country name="Montenegro" tld=".me" cca2="ME" ccn3="499" cca3="MNE" currency="EUR" calling-code="382" alt-spellings="ME" relevance="0"/>
+  <country name="Montserrat" tld=".ms" cca2="MS" ccn3="500" cca3="MSR" currency="XCD" calling-code="1664" alt-spellings="MS" relevance="0.5"/>
+  <country name="Morocco" tld=".ma" cca2="MA" ccn3="504" cca3="MAR" currency="MAD" calling-code="212" alt-spellings="MA" relevance="0"/>
+  <country name="Mozambique" tld=".mz" cca2="MZ" ccn3="508" cca3="MOZ" currency="MZN" calling-code="258" alt-spellings="MZ,Moçambique" relevance="0"/>
+  <country name="Myanmar (Burma)" tld=".mm" cca2="MM" ccn3="104" cca3="MMR" currency="MMK" calling-code="95" alt-spellings="MM" relevance="0"/>
+  <country name="Namibia" tld=".na" cca2="NA" ccn3="516" cca3="NAM" currency="NAD,ZAR" calling-code="264" alt-spellings="NA,Namibië" relevance="0"/>
+  <country name="Nauru" tld=".nr" cca2="NR" ccn3="520" cca3="NRU" currency="AUD" calling-code="674" alt-spellings="NR,Naoero" relevance="0.5"/>
+  <country name="Nepal" tld=".np" cca2="NP" ccn3="524" cca3="NPL" currency="NPR" calling-code="977" alt-spellings="NP" relevance="0"/>
+  <country name="Netherlands" tld=".nl" cca2="NL" ccn3="528" cca3="NLD" currency="EUR" calling-code="31" alt-spellings="NL,Holland,Nederland" relevance="1.5"/>
+  <country name="New Caledonia" tld=".nc" cca2="NC" ccn3="540" cca3="NCL" currency="XPF" calling-code="687" alt-spellings="NC" relevance="0.5"/>
+  <country name="New Zealand" tld=".nz" cca2="NZ" ccn3="554" cca3="NZL" currency="NZD" calling-code="64" alt-spellings="NZ,Aotearoa" relevance="0"/>
+  <country name="Nicaragua" tld=".ni" cca2="NI" ccn3="558" cca3="NIC" currency="NIO" calling-code="505" alt-spellings="NI" relevance="0"/>
+  <country name="Niger" tld=".ne" cca2="NE" ccn3="562" cca3="NER" currency="XOF" calling-code="227" alt-spellings="NE,Nijar" relevance="0"/>
+  <country name="Nigeria" tld=".ng" cca2="NG" ccn3="566" cca3="NGA" currency="NGN" calling-code="234" alt-spellings="NG,Nijeriya,Naíjíríà" relevance="1.5"/>
+  <country name="Niue" tld=".nu" cca2="NU" ccn3="570" cca3="NIU" currency="NZD" calling-code="683" alt-spellings="NU" relevance="0.5"/>
+  <country name="Norfolk Island" tld=".nf" cca2="NF" ccn3="574" cca3="NFK" currency="AUD" calling-code="672" alt-spellings="NF" relevance="0.5"/>
+  <country name="Northern Mariana Islands" tld=".mp" cca2="MP" ccn3="580" cca3="MNP" currency="USD" calling-code="1670" alt-spellings="MP" relevance="0.5"/>
+  <country name="Norway" tld=".no" cca2="NO" ccn3="578" cca3="NOR" currency="NOK" calling-code="47" alt-spellings="NO,Norge,Noreg" relevance="1.5"/>
+  <country name="Oman" tld=".om" cca2="OM" ccn3="512" cca3="OMN" currency="OMR" calling-code="968" alt-spellings="OM" relevance="0"/>
+  <country name="Pakistan" tld=".pk" cca2="PK" ccn3="586" cca3="PAK" currency="PKR" calling-code="92" alt-spellings="PK" relevance="2"/>
+  <country name="Palau" tld=".pw" cca2="PW" ccn3="585" cca3="PLW" currency="USD" calling-code="680" alt-spellings="PW" relevance="0.5"/>
+  <country name="Palestinian Territory" tld=".ps" cca2="PS" ccn3="275" cca3="PSE" currency="" calling-code="970" alt-spellings="PS" relevance="0"/>
+  <country name="Panama" tld=".pa" cca2="PA" ccn3="591" cca3="PAN" currency="PAB,USD" calling-code="507" alt-spellings="PA" relevance="0"/>
+  <country name="Papua New Guinea" tld=".pg" cca2="PG" ccn3="598" cca3="PNG" currency="PGK" calling-code="675" alt-spellings="PG" relevance="0"/>
+  <country name="Paraguay" tld=".py" cca2="PY" ccn3="600" cca3="PRY" currency="PYG" calling-code="595" alt-spellings="PY" relevance="0"/>
+  <country name="Peru" tld=".pe" cca2="PE" ccn3="604" cca3="PER" currency="PEN" calling-code="51" alt-spellings="PE" relevance="0"/>
+  <country name="Philippines" tld=".ph" cca2="PH" ccn3="608" cca3="PHL" currency="PHP" calling-code="63" alt-spellings="PH,Pilipinas" relevance="1.5"/>
+  <country name="Pitcairn" tld=".pn" cca2="PN" ccn3="612" cca3="PCN" currency="NZD" calling-code="64" alt-spellings="PN" relevance="0.5"/>
+  <country name="Poland" tld=".pl" cca2="PL" ccn3="616" cca3="POL" currency="PLN" calling-code="48" alt-spellings="PL,Polska" relevance="1.25"/>
+  <country name="Portugal" tld=".pt" cca2="PT" ccn3="620" cca3="PRT" currency="EUR" calling-code="351" alt-spellings="PT,Portuguesa" relevance="1.5"/>
+  <country name="Puerto Rico" tld=".pr" cca2="PR" ccn3="630" cca3="PRI" currency="USD" calling-code="1787,1939" alt-spellings="PR" relevance="0"/>
+  <country name="Qatar" tld=".qa" cca2="QA" ccn3="634" cca3="QAT" currency="QAR" calling-code="974" alt-spellings="QA" relevance="0"/>
+  <country name="Réunion" tld=".re" cca2="RE" ccn3="638" cca3="REU" currency="EUR" calling-code="262" alt-spellings="RE,Reunion" relevance="0"/>
+  <country name="Romania" tld=".ro" cca2="RO" ccn3="642" cca3="ROU" currency="RON" calling-code="40" alt-spellings="RO,Rumania,Roumania,România" relevance="0"/>
+  <country name="Russian Federation" tld=".ru" cca2="RU" ccn3="643" cca3="RUS" currency="RUB" calling-code="7" alt-spellings="RU,Rossiya" relevance="2.5"/>
+  <country name="Rwanda" tld=".rw" cca2="RW" ccn3="646" cca3="RWA" currency="RWF" calling-code="250" alt-spellings="RW" relevance="0"/>
+  <country name="Saint Barthélemy" tld=".bl" cca2="BL" ccn3="652" cca3="BLM" currency="EUR" calling-code="590" alt-spellings="BL,St. Barthelemy" relevance="0"/>
+  <country name="Saint Helena" tld=".sh" cca2="SH" ccn3="654" cca3="SHN" currency="SHP" calling-code="290" alt-spellings="SH,St." relevance="0"/>
+  <country name="Saint Kitts and Nevis" tld=".kn" cca2="KN" ccn3="659" cca3="KNA" currency="XCD" calling-code="1869" alt-spellings="KN,St." relevance="0"/>
+  <country name="Saint Lucia" tld=".lc" cca2="LC" ccn3="662" cca3="LCA" currency="XCD" calling-code="1758" alt-spellings="LC,St." relevance="0"/>
+  <country name="Saint Martin" tld=".mf" cca2="MF" ccn3="663" cca3="MAF" currency="EUR" calling-code="590" alt-spellings="MF,St." relevance="0"/>
+  <country name="Saint Pierre and Miquelon" tld=".pm" cca2="PM" ccn3="666" cca3="SPM" currency="EUR" calling-code="508" alt-spellings="PM,St." relevance="0"/>
+  <country name="Saint Vincent and the Grenadines" tld=".vc" cca2="VC" ccn3="670" cca3="VCT" currency="XCD" calling-code="1784" alt-spellings="VC,St." relevance="0"/>
+  <country name="Samoa" tld=".ws" cca2="WS" ccn3="882" cca3="WSM" currency="WST" calling-code="685" alt-spellings="WS" relevance="0"/>
+  <country name="San Marino" tld=".sm" cca2="SM" ccn3="674" cca3="SMR" currency="EUR" calling-code="378" alt-spellings="SM" relevance="0"/>
+  <country name="São Tomé and Príncipe" tld=".st" cca2="ST" ccn3="678" cca3="STP" currency="STD" calling-code="239" alt-spellings="ST" relevance="0"/>
+  <country name="Saudi Arabia" tld=".sa" cca2="SA" ccn3="682" cca3="SAU" currency="SAR" calling-code="966" alt-spellings="SA" relevance="0"/>
+  <country name="Senegal" tld=".sn" cca2="SN" ccn3="686" cca3="SEN" currency="XOF" calling-code="221" alt-spellings="SN,Sénégal" relevance="0"/>
+  <country name="Serbia" tld=".rs" cca2="RS" ccn3="688" cca3="SRB" currency="RSD" calling-code="381" alt-spellings="RS,Srbija" relevance="0"/>
+  <country name="Seychelles" tld=".sc" cca2="SC" ccn3="690" cca3="SYC" currency="SCR" calling-code="248" alt-spellings="SC" relevance="0.5"/>
+  <country name="Sierra Leone" tld=".sl" cca2="SL" ccn3="694" cca3="SLE" currency="SLL" calling-code="232" alt-spellings="SL" relevance="0"/>
+  <country name="Singapore" tld=".sg" cca2="SG" ccn3="702" cca3="SGP" currency="SGD" calling-code="65" alt-spellings="SG,Singapura" relevance="0"/>
+  <country name="Sint Maarten" tld=".sx" cca2="SX" ccn3="534" cca3="SXM" currency="ANG" calling-code="1721" alt-spellings="SX" relevance="0"/>
+  <country name="Slovakia" tld=".sk" cca2="SK" ccn3="703" cca3="SVK" currency="XSU" calling-code="421" alt-spellings="SK,Slovenská,Slovensko" relevance="0"/>
+  <country name="Slovenia" tld=".si" cca2="SI" ccn3="705" cca3="SVN" currency="EUR" calling-code="386" alt-spellings="SI,Slovenija" relevance="0"/>
+  <country name="Solomon Islands" tld=".sb" cca2="SB" ccn3="90" cca3="SLB" currency="EUR" calling-code="677" alt-spellings="SB" relevance="0"/>
+  <country name="Somalia" tld=".so" cca2="SO" ccn3="706" cca3="SOM" currency="SBD" calling-code="252" alt-spellings="SO" relevance="0"/>
+  <country name="South Africa" tld=".za" cca2="ZA" ccn3="710" cca3="ZAF" currency="SOS" calling-code="27" alt-spellings="ZA,RSA,Suid-Afrika" relevance="0"/>
+  <country name="South Georgia" tld=".gs" cca2="GS" ccn3="239" cca3="SGS" currency="ZAR" calling-code="500" alt-spellings="GS" relevance="0"/>
+  <country name="South Sudan" tld=".ss" cca2="SS" ccn3="728" cca3="SSD" currency="SSP" calling-code="211" alt-spellings="SS" relevance="0"/>
+  <country name="Spain" tld=".es" cca2="ES" ccn3="724" cca3="ESP" currency="EUR" calling-code="34" alt-spellings="ES,España" relevance="2"/>
+  <country name="Sri Lanka" tld=".lk" cca2="LK" ccn3="144" cca3="LKA" currency="LKR" calling-code="94" alt-spellings="LK" relevance="0"/>
+  <country name="Sudan" tld=".sd" cca2="SD" ccn3="729" cca3="SDN" currency="SDG" calling-code="249" alt-spellings="SD" relevance="0"/>
+  <country name="Suriname" tld=".sr" cca2="SR" ccn3="740" cca3="SUR" currency="SRD" calling-code="597" alt-spellings="SR,Sarnam,Sranangron" relevance="0"/>
+  <country name="Svalbard and Jan Mayen" tld=".sj" cca2="SJ" ccn3="744" cca3="SJM" currency="NOK" calling-code="4779" alt-spellings="SJ" relevance="0.5"/>
+  <country name="Swaziland" tld=".sz" cca2="SZ" ccn3="748" cca3="SWZ" currency="SZL" calling-code="268" alt-spellings="SZ,weSwatini,Swatini,Ngwane" relevance="0"/>
+  <country name="Sweden" tld=".se" cca2="SE" ccn3="752" cca3="SWE" currency="SEK" calling-code="46" alt-spellings="SE,Sverige" relevance="1.5"/>
+  <country name="Switzerland" tld=".ch" cca2="CH" ccn3="756" cca3="CHE" currency="CHE,CHF,CHW" calling-code="41" alt-spellings="CH,Swiss Confederation,Schweiz,Suisse,Svizzera,Svizra" relevance="1.5"/>
+  <country name="Syrian Arab Republic" tld=".sy" cca2="SY" ccn3="760" cca3="SYR" currency="SYP" calling-code="963" alt-spellings="SY,Syria" relevance="0"/>
+  <country name="Taiwan, Province of China" tld=".tw" cca2="TW" ccn3="158" cca3="TWN" currency="TWD" calling-code="886" alt-spellings="TW" relevance="0"/>
+  <country name="Tajikistan" tld=".tj" cca2="TJ" ccn3="762" cca3="TJK" currency="TJS" calling-code="992" alt-spellings="TJ,Toçikiston" relevance="0"/>
+  <country name="Tanzania" tld=".tz" cca2="TZ" ccn3="834" cca3="TZA" currency="TZS" calling-code="255" alt-spellings="TZ" relevance="0"/>
+  <country name="Thailand" tld=".th" cca2="TH" ccn3="764" cca3="THA" currency="THB" calling-code="66" alt-spellings="TH,Prathet,Thai" relevance="0"/>
+  <country name="Timor-Leste" tld=".tl" cca2="TL" ccn3="626" cca3="TLS" currency="USD" calling-code="670" alt-spellings="TL" relevance="0"/>
+  <country name="Togo" tld=".tg" cca2="TG" ccn3="768" cca3="TGO" currency="XOF" calling-code="228" alt-spellings="TG,Togolese" relevance="0"/>
+  <country name="Tokelau" tld=".tk" cca2="TK" ccn3="772" cca3="TKL" currency="NZD" calling-code="690" alt-spellings="TK" relevance="0.5"/>
+  <country name="Tonga" tld=".to" cca2="TO" ccn3="776" cca3="TON" currency="TOP" calling-code="676" alt-spellings="TO" relevance="0"/>
+  <country name="Trinidad and Tobago" tld=".tt" cca2="TT" ccn3="780" cca3="TTO" currency="TTD" calling-code="1868" alt-spellings="TT" relevance="0"/>
+  <country name="Tunisia" tld=".tn" cca2="TN" ccn3="788" cca3="TUN" currency="TND" calling-code="216" alt-spellings="TN" relevance="0"/>
+  <country name="Turkey" tld=".tr" cca2="TR" ccn3="792" cca3="TUR" currency="TRY" calling-code="90" alt-spellings="TR,Türkiye,Turkiye" relevance="0"/>
+  <country name="Turkmenistan" tld=".tm" cca2="TM" ccn3="795" cca3="TKM" currency="TMT" calling-code="993" alt-spellings="TM,Türkmenistan" relevance="0"/>
+  <country name="Turks and Caicos Islands" tld=".tc" cca2="TC" ccn3="796" cca3="TCA" currency="USD" calling-code="1649" alt-spellings="TC" relevance="0.5"/>
+  <country name="Tuvalu" tld=".tv" cca2="TV" ccn3="798" cca3="TUV" currency="AUD" calling-code="688" alt-spellings="TV" relevance="0.5"/>
+  <country name="Uganda" tld=".ug" cca2="UG" ccn3="800" cca3="UGA" currency="UGX" calling-code="256" alt-spellings="UG" relevance="0"/>
+  <country name="Ukraine" tld=".ua" cca2="UA" ccn3="804" cca3="UKR" currency="UAH" calling-code="380" alt-spellings="UA,Ukrayina" relevance="0"/>
+  <country name="United Arab Emirates" tld=".ae" cca2="AE" ccn3="784" cca3="ARE" currency="AED" calling-code="971" alt-spellings="AE,UAE" relevance="0"/>
+  <country name="United Kingdom" tld=".gb" cca2="GB" ccn3="826" cca3="GBR" currency="GBP" calling-code="44" alt-spellings="GB,Great Britain,England,UK,Wales,Scotland,Northern Ireland" relevance="2.5"/>
+  <country name="United States" tld=".us" cca2="US" ccn3="840" cca3="USA" currency="USD,USN,USS" calling-code="1" alt-spellings="US,USA,United States of America" relevance="3.5"/>
+  <country name="United States Minor Outlying Islands" tld=".us" cca2="UM" ccn3="581" cca3="UMI" currency="USD" calling-code="" alt-spellings="UM" relevance="0"/>
+  <country name="Uruguay" tld=".uy" cca2="UY" ccn3="858" cca3="URY" currency="UYI,UYU" calling-code="598" alt-spellings="UY" relevance="0"/>
+  <country name="Uzbekistan" tld=".uz" cca2="UZ" ccn3="860" cca3="UZB" currency="UZS" calling-code="998" alt-spellings="UZ,O'zbekstan,O‘zbekiston" relevance="0"/>
+  <country name="Vanuatu" tld=".vu" cca2="VU" ccn3="548" cca3="VUT" currency="VUV" calling-code="678" alt-spellings="VU" relevance="0"/>
+  <country name="Venezuela" tld=".ve" cca2="VE" ccn3="862" cca3="VEN" currency="VEF" calling-code="58" alt-spellings="VE" relevance="0"/>
+  <country name="Viet Nam" tld=".vn" cca2="VN" ccn3="704" cca3="VNM" currency="VND" calling-code="84" alt-spellings="VN,Viet,Nam" relevance="1.5"/>
+  <country name="Virgin Islands (British)" tld=".vg" cca2="VG" ccn3="92" cca3="VGB" currency="USD" calling-code="1284" alt-spellings="VG" relevance="0.5"/>
+  <country name="Virgin Islands (U.S.)" tld=".vi" cca2="VI" ccn3="850" cca3="VIR" currency="USD" calling-code="1340" alt-spellings="VI" relevance="0.5"/>
+  <country name="Wallis and Futuna" tld=".wf" cca2="WF" ccn3="876" cca3="WLF" currency="XPF" calling-code="681" alt-spellings="WF" relevance="0.5"/>
+  <country name="Western Sahara" tld=".eh" cca2="EH" ccn3="732" cca3="ESH" currency="MAD,DZD,MRO" calling-code="212" alt-spellings="EH" relevance="0"/>
+  <country name="Yemen" tld=".ye" cca2="YE" ccn3="887" cca3="YEM" currency="YER" calling-code="967" alt-spellings="YE" relevance="0"/>
+  <country name="Zambia" tld=".zm" cca2="ZM" ccn3="894" cca3="ZMB" currency="ZMK" calling-code="260" alt-spellings="ZM" relevance="0"/>
+  <country name="Zimbabwe" tld=".zw" cca2="ZW" ccn3="716" cca3="ZWE" currency="ZWL" calling-code="263" alt-spellings="ZW" relevance="0"/>
 </countries>

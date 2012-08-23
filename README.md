@@ -11,6 +11,12 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - the country code ISO 3166-1 alpha-3 (cca3)
  
  - the country currency code(s) (comma separated if several)
+
+ - the country calling code(s) (comma separated if several)
+
+ - the country alternative spellings (comma separated if several)
+
+ - the country relevance
  
 # 
 Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete. 
