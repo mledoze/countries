@@ -32,6 +32,7 @@ I used http://www.shancarter.com/data_converter/index.html to generate the JSON 
 # Sources
 Wikipedia and http://www.currency-iso.org/ for currency codes
 
+# Credits
 Thanks to @Glazz for his help with country calling codes.
 
 Thanks to @hexorx for his work.
