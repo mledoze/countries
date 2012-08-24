@@ -1,250 +1,250 @@
-name;tld;cca2;ccn3;cca3;currency;calling-code;alt-spellings;relevance
-Afghanistan;.af;AF;4;AFG;AFN;93;AF;0
-Åland Islands;.ax;AX;248;ALA;EUR;358;AX,Aaland,Aland;0.5
-Albania;.al;AL;8;ALB;ALL;355;AL;0
-Algeria;.dz;DZ;12;DZA;DZD;213;DZ;0
-American Samoa;.as;AS;16;ASM;USD;1684;AS;0.5
-Andorra;.ad;AD;20;AND;EUR;376;AD;0.5
-Angola;.ao;AO;24;AGO;AOA;244;AO;0
-Anguilla;.ai;AI;660;AIA;XCD;1264;AI;0.5
-Antarctica;.aq;AQ;10;ATA;;;AQ;0.5
-Antigua and Barbuda;.ag;AG;28;ATG;XCD;1268;AG;0.5
-Argentina;.ar;AR;32;ARG;ARS;54;AR;0
-Armenia;.am;AM;51;ARM;AMD;374;AM;0
-Aruba;.aw;AW;533;ABW;AWG;297;AW;0.5
-Australia;.au;AU;36;AUS;AUD;61;AU;1.5
-Austria;.at;AT;40;AUT;EUR;43;AT,Österreich,Osterreich,Oesterreich;0
-Azerbaijan;.az;AZ;31;AZE;AZN;994;AZ;0
-Bahamas;.bs;BS;44;BHS;BSD;1242;BS;0
-Bahrain;.bh;BH;48;BHR;BHD;973;BH;0
-Bangladesh;.bd;BD;50;BGD;BDT;880;BD;2
-Barbados;.bb;BB;52;BRB;BBD;1246;BB;0
-Belarus;.by;BY;112;BLR;BYR;375;BY;0
-Belgium;.be;BE;56;BEL;EUR;32;BE,België,Belgie,Belgien,Belgique;1.5
-Belize;.bz;BZ;84;BLZ;BZD;501;BZ;0
-Benin;.bj;BJ;204;BEN;XOF;229;BJ;0
-Bermuda;.bm;BM;60;BMU;BMD;1441;BM;0.5
-Bhutan;.bt;BT;64;BTN;BTN,INR;975;BT;0
-Bolivia;.bo;BO;68;BOL;BOB,BOV;591;BO;0
-Bonaire;.bq;BQ;535;BES;USD;5997;BQ;0
-Bosnia and Herzegovina;.ba;BA;70;BIH;BAM;387;BA;0
-Botswana;.bw;BW;72;BWA;BWP;267;BW;0
-Bouvet Island;.bv;BV;74;BVT;NOK;;BV;0
-Brazil;.br;BR;76;BRA;BRL;55;BR,Brasil;2
-British Indian Ocean Territory;.io;IO;86;IOT;USD;246;IO;0
-Brunei Darussalam;.bn;BN;96;BRN;BND;673;BN;0
-Bulgaria;.bg;BG;100;BGR;BGN;359;BG;0
-Burkina Faso;.bf;BF;854;BFA;XOF;226;BF;0
-Burundi;.bi;BI;108;BDI;BIF;257;BI;0
-Cambodia;.kh;KH;116;KHM;KHR;855;KH;0
-Cameroon;.cm;CM;120;CMR;XAF;237;CM;0
-Canada;.ca;CA;124;CAN;CAD;1;CA;2
-Cape Verde;.cv;CV;132;CPV;CVE;238;CV,Cabo;0
-Cayman Islands;.ky;KY;136;CYM;KYD;1345;KY;0.5
-Central African Republic;.cf;CF;140;CAF;XAF;236;CF;0
-Chad;.td;TD;148;TCD;XAF;235;TD,Tchad;0
-Chile;.cl;CL;152;CHL;CLF,CLP;56;CL;0
-China;.cn;CN;156;CHN;CNY;86;CN,Zhongguo,Zhonghua,Peoples Republic;0
-Christmas Island;.cx;CX;162;CXR;AUD;61;CX;0.5
-Cocos (Keeling) Islands;.cc;CC;166;CCK;AUD;61;CC;0
-Colombia;.co;CO;170;COL;COP,COU;57;CO;0
-Comoros;.km;KM;174;COM;KMF;269;KM;0
-Republic of the Congo;.cg;CG;178;COG;XAF;242;CG;0
-Democratic Republic of the Congo;.cd;CD;180;COD;CDF;243;CD,Congo-Brazzaville,Repubilika ya Kongo;0
-Cook Islands;.ck;CK;184;COK;NZD;682;CK;0.5
-Costa Rica;.cr;CR;188;CRI;CRC;506;CR;0
-Côte d'Ivoire;.ci;CI;384;CIV;XOF;225;CI,Cote,dIvoire;0
-Croatia;.hr;HR;191;HRV;HRK;385;HR,Hrvatska;0
-Cuba;.cu;CU;192;CUB;CUC,CUP;53;CU;0
-Curaçao;.cw;CW;531;CUW;ANG;5999;CW,Curacao;0
-Cyprus;.cy;CY;196;CYP;EUR;357;CY,Kýpros;0
-Czech Republic;.cz;CZ;203;CZE;CZK;420;CZ,Ceska;0
-Denmark;.dk;DK;208;DNK;DKK;45;DK,Danmark;1.5
-Djibouti;.dj;DJ;262;DJI;DJF;253;DJ,Jabuuti,Gabuuti;0
-Dominica;.dm;DM;212;DMA;XCD;1767;DM,Dominique;0.5
-Dominican Republic;.do;DO;214;DOM;DOP;1809,1829,1849;DO;0
-Ecuador;.ec;EC;218;ECU;USD;593;EC;0
-Egypt;.eg;EG;818;EGY;EGP;20;EG;1.5
-El Salvador;.sv;SV;222;SLV;SVC,USD;503;SV;0
-Equatorial Guinea;.gq;GQ;226;GNQ;XAF;240;GQ;0
-Eritrea;.er;ER;232;ERI;ERN;291;ER;0
-Estonia;.ee;EE;233;EST;EUR;372;EE,Eesti;0
-Ethiopia;.et;ET;231;ETH;ETB;251;ET;0
-Falkland Islands (Malvinas);.fk;FK;238;FLK;FKP;500;FK;0.5
-Faroe Islands;.fo;FO;234;FRO;DKK;298;FO,Føroyar,Færøerne;0.5
-Fiji;.fj;FJ;242;FJI;FJD;679;FJ,Viti;0
-Finland;.fi;FI;246;FIN;EUR;358;FI,Suomi;0
-France;.fr;FR;250;FRA;EUR;33;FR,République française;2.5
-French Guiana;.gf;GF;254;GUF;EUR;594;GF;0
-French Polynesia;.pf;PF;258;PYF;XPF;689;PF,Polynésie française;0
-French Southern Territories;.tf;TF;260;ATF;EUR;;TF;0
-Gabon;.ga;GA;266;GAB;XAF;241;GA,République Gabonaise;0
-Gambia;.gm;GM;270;GMB;GMD;220;GM;0
-Georgia;.ge;GE;268;GEO;GEL;995;GE;0
-Germany;.de;DE;276;DEU;EUR;49;DE,Bundesrepublik,Deutschland;3
-Ghana;.gh;GH;288;GHA;GHS;233;GH;0
-Gibraltar;.gi;GI;292;GIB;GIP;350;GI;0.5
-Greece;.gr;GR;300;GRC;EUR;30;GR;1.5
-Greenland;.gl;GL;304;GRL;DKK;299;GL,grønland;0.5
-Grenada;.gd;GD;308;GRD;XCD;1473;GD;0
-Guadeloupe;.gp;GP;312;GLP;EUR;590;GP;0
-Guam;.gu;GU;316;GUM;USD;1671;GU;0
-Guatemala;.gt;GT;320;GTM;GTQ;502;GT;0
-Guernsey;.gg;GG;831;GGY;GBP;44;GG;0.5
-Guinea;.gn;GN;324;GIN;GNF;224;GN;0
-Guinea-Bissau;.gw;GW;624;GNB;XOF;245;GW;0
-Guyana;.gy;GY;328;GUY;GYD;592;GY;0
-Haiti;.ht;HT;332;HTI;HTG,USD;509;HT;0
-Heard Island and McDonald Islands;.hm;HM;334;HMD;AUD;;HM;0
-Vatican City;.va;VA;336;VAT;EUR;39066,379;VA;0.5
-Honduras;.hn;HN;340;HND;HNL;504;HN;0
-Hong Kong;.hk;HK;344;HKG;HKD;852;HK;0
-Hungary;.hu;HU;348;HUN;HUF;36;HU,Magyarország;0
-Iceland;.is;IS;352;ISL;ISK;354;IS,Island;0
-India;.in;IN;356;IND;INR;91;IN,Hindustan;3
-Indonesia;.id;ID;360;IDN;IDR;62;ID;2
-Iran;.ir;IR;364;IRN;IRR;98;IR;0
-Iraq;.iq;IQ;368;IRQ;IQD;964;IQ;0
-Ireland;.ie;IE;372;IRL;EUR;353;IE,Éire;1.2
-Isle of Man;.im;IM;833;IMN;GBP;44;IM;0.5
-Israel;.il;IL;376;ISR;ILS;972;IL;0
-Italy;.it;IT;380;ITA;EUR;39;IT,Italia;2
-Jamaica;.jm;JM;388;JAM;JMD;1876;JM;0
-Japan;.jp;JP;392;JPN;JPY;81;JP,Nippon,Nihon;2.5
-Jersey;.je;JE;832;JEY;GBP;44;JE;0.5
-Jordan;.jo;JO;400;JOR;JOD;962;JO;0
-Kazakhstan;.kz;KZ;398;KAZ;KZT;76,77;KZ;0
-Kenya;.ke;KE;404;KEN;KES;254;KE;0
-Kiribati;.ki;KI;296;KIR;AUD;686;KI;0
-North Korea;.kp;KP;408;PRK;KPW;850;KP;0
-South Korea;.kr;KR;410;KOR;KRW;82;KR;1.5
-Kuwait;.kw;KW;414;KWT;KWD;965;KW;0
-Kyrgyzstan;.kg;KG;417;KGZ;KGS;996;KG;0
-Laos;.la;LA;418;LAO;LAK;856;LA;0
-Latvia;.lv;LV;428;LVA;LVL;371;LV,Latvija;0
-Lebanon;.lb;LB;422;LBN;LBP;961;LB;0
-Lesotho;.ls;LS;426;LSO;LSL,ZAR;266;LS;0
-Liberia;.lr;LR;430;LBR;LRD;231;LR;0
-Libya;.ly;LY;434;LBY;LYD;218;LY;0
-Liechtenstein;.li;LI;438;LIE;CHF;423;LI;0
-Lithuania;.lt;LT;440;LTU;LTL;370;LT,Lietuva;0
-Luxembourg;.lu;LU;442;LUX;EUR;352;LU;0
-Macao;.mo;MO;446;MAC;MOP;853;MO;0
-Macedonia;.mk;MK;807;MKD;MKD;389;MK;0
-Madagascar;.mg;MG;450;MDG;MGA;261;MG,Madagasikara;0
-Malawi;.mw;MW;454;MWI;MWK;265;MW;0
-Malaysia;.my;MY;458;MYS;MYR;60;MY;0
-Maldives;.mv;MV;462;MDV;MVR;960;MV;0
-Mali;.ml;ML;466;MLI;XOF;223;ML;0
-Malta;.mt;MT;470;MLT;EUR;356;MT;0
-Marshall Islands;.mh;MH;584;MHL;USD;692;MH;0.5
-Martinique;.mq;MQ;474;MTQ;EUR;596;MQ;0
-Mauritania;.mr;MR;478;MRT;MRO;222;MR;0
-Mauritius;.mu;MU;480;MUS;MUR;230;MU;0
-Mayotte;.yt;YT;175;MYT;EUR;262;YT;0
-Mexico;.mx;MX;484;MEX;MXN,MXV;52;MX,Mexicanos;1.5
-Micronesia;.fm;FM;583;FSM;USD;691;FM;0
-Moldova;.md;MD;498;MDA;MDL;373;MD;0
-Monaco;.mc;MC;492;MCO;EUR;377;MC;0
-Mongolia;.mn;MN;496;MNG;MNT;976;MN;0
-Montenegro;.me;ME;499;MNE;EUR;382;ME;0
-Montserrat;.ms;MS;500;MSR;XCD;1664;MS;0.5
-Morocco;.ma;MA;504;MAR;MAD;212;MA;0
-Mozambique;.mz;MZ;508;MOZ;MZN;258;MZ,Moçambique;0
-Myanmar (Burma);.mm;MM;104;MMR;MMK;95;MM;0
-Namibia;.na;NA;516;NAM;NAD,ZAR;264;NA,Namibië;0
-Nauru;.nr;NR;520;NRU;AUD;674;NR,Naoero;0.5
-Nepal;.np;NP;524;NPL;NPR;977;NP;0
-Netherlands;.nl;NL;528;NLD;EUR;31;NL,Holland,Nederland;1.5
-New Caledonia;.nc;NC;540;NCL;XPF;687;NC;0.5
-New Zealand;.nz;NZ;554;NZL;NZD;64;NZ,Aotearoa;0
-Nicaragua;.ni;NI;558;NIC;NIO;505;NI;0
-Niger;.ne;NE;562;NER;XOF;227;NE,Nijar;0
-Nigeria;.ng;NG;566;NGA;NGN;234;NG,Nijeriya,Naíjíríà;1.5
-Niue;.nu;NU;570;NIU;NZD;683;NU;0.5
-Norfolk Island;.nf;NF;574;NFK;AUD;672;NF;0.5
-Northern Mariana Islands;.mp;MP;580;MNP;USD;1670;MP;0.5
-Norway;.no;NO;578;NOR;NOK;47;NO,Norge,Noreg;1.5
-Oman;.om;OM;512;OMN;OMR;968;OM;0
-Pakistan;.pk;PK;586;PAK;PKR;92;PK;2
-Palau;.pw;PW;585;PLW;USD;680;PW;0.5
-Palestinian Territory;.ps;PS;275;PSE;;970;PS;0
-Panama;.pa;PA;591;PAN;PAB,USD;507;PA;0
-Papua New Guinea;.pg;PG;598;PNG;PGK;675;PG;0
-Paraguay;.py;PY;600;PRY;PYG;595;PY;0
-Peru;.pe;PE;604;PER;PEN;51;PE;0
-Philippines;.ph;PH;608;PHL;PHP;63;PH,Pilipinas;1.5
-Pitcairn;.pn;PN;612;PCN;NZD;64;PN;0.5
-Poland;.pl;PL;616;POL;PLN;48;PL,Polska;1.25
-Portugal;.pt;PT;620;PRT;EUR;351;PT,Portuguesa;1.5
-Puerto Rico;.pr;PR;630;PRI;USD;1787,1939;PR;0
-Qatar;.qa;QA;634;QAT;QAR;974;QA;0
-Réunion;.re;RE;638;REU;EUR;262;RE,Reunion;0
-Romania;.ro;RO;642;ROU;RON;40;RO,Rumania,Roumania,România;0
-Russian Federation;.ru;RU;643;RUS;RUB;7;RU,Rossiya;2.5
-Rwanda;.rw;RW;646;RWA;RWF;250;RW;0
-Saint Barthélemy;.bl;BL;652;BLM;EUR;590;BL,St. Barthelemy;0
-Saint Helena;.sh;SH;654;SHN;SHP;290;SH,St.;0
-Saint Kitts and Nevis;.kn;KN;659;KNA;XCD;1869;KN,St.;0
-Saint Lucia;.lc;LC;662;LCA;XCD;1758;LC,St.;0
-Saint Martin;.mf;MF;663;MAF;EUR;590;MF,St.;0
-Saint Pierre and Miquelon;.pm;PM;666;SPM;EUR;508;PM,St.;0
-Saint Vincent and the Grenadines;.vc;VC;670;VCT;XCD;1784;VC,St.;0
-Samoa;.ws;WS;882;WSM;WST;685;WS;0
-San Marino;.sm;SM;674;SMR;EUR;378;SM;0
-São Tomé and Príncipe;.st;ST;678;STP;STD;239;ST;0
-Saudi Arabia;.sa;SA;682;SAU;SAR;966;SA;0
-Senegal;.sn;SN;686;SEN;XOF;221;SN,Sénégal;0
-Serbia;.rs;RS;688;SRB;RSD;381;RS,Srbija;0
-Seychelles;.sc;SC;690;SYC;SCR;248;SC;0.5
-Sierra Leone;.sl;SL;694;SLE;SLL;232;SL;0
-Singapore;.sg;SG;702;SGP;SGD;65;SG,Singapura;0
-Sint Maarten;.sx;SX;534;SXM;ANG;1721;SX;0
-Slovakia;.sk;SK;703;SVK;XSU;421;SK,Slovenská,Slovensko;0
-Slovenia;.si;SI;705;SVN;EUR;386;SI,Slovenija;0
-Solomon Islands;.sb;SB;90;SLB;EUR;677;SB;0
-Somalia;.so;SO;706;SOM;SBD;252;SO;0
-South Africa;.za;ZA;710;ZAF;SOS;27;ZA,RSA,Suid-Afrika;0
-South Georgia;.gs;GS;239;SGS;ZAR;500;GS;0
-South Sudan;.ss;SS;728;SSD;SSP;211;SS;0
-Spain;.es;ES;724;ESP;EUR;34;ES,España;2
-Sri Lanka;.lk;LK;144;LKA;LKR;94;LK;0
-Sudan;.sd;SD;729;SDN;SDG;249;SD;0
-Suriname;.sr;SR;740;SUR;SRD;597;SR,Sarnam,Sranangron;0
-Svalbard and Jan Mayen;.sj;SJ;744;SJM;NOK;4779;SJ;0.5
-Swaziland;.sz;SZ;748;SWZ;SZL;268;SZ,weSwatini,Swatini,Ngwane;0
-Sweden;.se;SE;752;SWE;SEK;46;SE,Sverige;1.5
-Switzerland;.ch;CH;756;CHE;CHE,CHF,CHW;41;CH,Swiss Confederation,Schweiz,Suisse,Svizzera,Svizra;1.5
-Syrian Arab Republic;.sy;SY;760;SYR;SYP;963;SY,Syria;0
-Taiwan, Province of China;.tw;TW;158;TWN;TWD;886;TW;0
-Tajikistan;.tj;TJ;762;TJK;TJS;992;TJ,Toçikiston;0
-Tanzania;.tz;TZ;834;TZA;TZS;255;TZ;0
-Thailand;.th;TH;764;THA;THB;66;TH,Prathet,Thai;0
-Timor-Leste;.tl;TL;626;TLS;USD;670;TL;0
-Togo;.tg;TG;768;TGO;XOF;228;TG,Togolese;0
-Tokelau;.tk;TK;772;TKL;NZD;690;TK;0.5
-Tonga;.to;TO;776;TON;TOP;676;TO;0
-Trinidad and Tobago;.tt;TT;780;TTO;TTD;1868;TT;0
-Tunisia;.tn;TN;788;TUN;TND;216;TN;0
-Turkey;.tr;TR;792;TUR;TRY;90;TR,Türkiye,Turkiye;0
-Turkmenistan;.tm;TM;795;TKM;TMT;993;TM,Türkmenistan;0
-Turks and Caicos Islands;.tc;TC;796;TCA;USD;1649;TC;0.5
-Tuvalu;.tv;TV;798;TUV;AUD;688;TV;0.5
-Uganda;.ug;UG;800;UGA;UGX;256;UG;0
-Ukraine;.ua;UA;804;UKR;UAH;380;UA,Ukrayina;0
-United Arab Emirates;.ae;AE;784;ARE;AED;971;AE,UAE;0
-United Kingdom;.gb;GB;826;GBR;GBP;44;GB,Great Britain,England,UK,Wales,Scotland,Northern Ireland;2.5
-United States;.us;US;840;USA;USD,USN,USS;1;US,USA,United States of America;3.5
-United States Minor Outlying Islands;.us;UM;581;UMI;USD;;UM;0
-Uruguay;.uy;UY;858;URY;UYI,UYU;598;UY;0
-Uzbekistan;.uz;UZ;860;UZB;UZS;998;UZ,O'zbekstan,O‘zbekiston;0
-Vanuatu;.vu;VU;548;VUT;VUV;678;VU;0
-Venezuela;.ve;VE;862;VEN;VEF;58;VE;0
-Viet Nam;.vn;VN;704;VNM;VND;84;VN,Viet,Nam;1.5
-Virgin Islands (British);.vg;VG;92;VGB;USD;1284;VG;0.5
-Virgin Islands (U.S.);.vi;VI;850;VIR;USD;1340;VI;0.5
-Wallis and Futuna;.wf;WF;876;WLF;XPF;681;WF;0.5
-Western Sahara;.eh;EH;732;ESH;MAD,DZD,MRO;212;EH;0
-Yemen;.ye;YE;887;YEM;YER;967;YE;0
-Zambia;.zm;ZM;894;ZMB;ZMK;260;ZM;0
-Zimbabwe;.zw;ZW;716;ZWE;ZWL;263;ZW;0
+name;tld;cca2;ccn3;cca3;currency;calling-code;alt-spellings;relevance;region;subregion
+Afghanistan;.af;AF;4;AFG;AFN;93;AF,Afġānistān;0;Asia;Southern Asia
+Åland Islands;.ax;AX;248;ALA;EUR;358;AX,Aaland,Aland;0.5;Europe;Northern Europe
+Albania;.al;AL;8;ALB;ALL;355;AL,Shqipëri,Shqipëria,Shqipnia;0;Europe;Southern Europe
+Algeria;.dz;DZ;12;DZA;DZD;213;DZ,al-Jazā'ir;0;Africa;Northern Africa
+American Samoa;.as;AS;16;ASM;USD;1684;AS,Amerika Sāmoa;0.5;Oceania;Polynesia
+Andorra;.ad;AD;20;AND;EUR;376;AD;0.5;Europe;Southern Europe
+Angola;.ao;AO;24;AGO;AOA;244;AO;0;Africa;Middle Africa
+Anguilla;.ai;AI;660;AIA;XCD;1264;AI;0.5;Americas;Caribbean
+Antarctica;.aq;AQ;10;ATA;;;AQ;0.5;;
+Antigua and Barbuda;.ag;AG;28;ATG;XCD;1268;AG;0.5;Americas;Caribbean
+Argentina;.ar;AR;32;ARG;ARS;54;AR;0;Americas;South America
+Armenia;.am;AM;51;ARM;AMD;374;AM,Hayastan;0;Asia;Western Asia
+Aruba;.aw;AW;533;ABW;AWG;297;AW;0.5;Americas;Caribbean
+Australia;.au;AU;36;AUS;AUD;61;AU;1.5;Oceania;Australia,New Zealand
+Austria;.at;AT;40;AUT;EUR;43;AT,Österreich,Osterreich,Oesterreich;0;Europe;Western Europe
+Azerbaijan;.az;AZ;31;AZE;AZN;994;AZ;0;Asia;Western Asia
+Bahamas;.bs;BS;44;BHS;BSD;1242;BS;0;Americas;Caribbean
+Bahrain;.bh;BH;48;BHR;BHD;973;BH;0;Asia;Western Asia
+Bangladesh;.bd;BD;50;BGD;BDT;880;BD;2;Asia;Southern Asia
+Barbados;.bb;BB;52;BRB;BBD;1246;BB;0;Americas;Caribbean
+Belarus;.by;BY;112;BLR;BYR;375;BY;0;Europe;Eastern Europe
+Belgium;.be;BE;56;BEL;EUR;32;BE,België,Belgie,Belgien,Belgique;1.5;Europe;Western Europe
+Belize;.bz;BZ;84;BLZ;BZD;501;BZ;0;Americas;Central America
+Benin;.bj;BJ;204;BEN;XOF;229;BJ;0;Africa;Western Africa
+Bermuda;.bm;BM;60;BMU;BMD;1441;BM;0.5;Americas;Northern America
+Bhutan;.bt;BT;64;BTN;BTN,INR;975;BT;0;Asia;Southern Asia
+Bolivia;.bo;BO;68;BOL;BOB,BOV;591;BO;0;Americas;South America
+Bonaire;.bq;BQ;535;BES;USD;5997;BQ;0;;
+Bosnia and Herzegovina;.ba;BA;70;BIH;BAM;387;BA;0;Europe;Southern Europe
+Botswana;.bw;BW;72;BWA;BWP;267;BW;0;Africa;Southern Africa
+Bouvet Island;.bv;BV;74;BVT;NOK;;BV,Bouvetøya;0;;
+Brazil;.br;BR;76;BRA;BRL;55;BR,Brasil;2;Americas;South America
+British Indian Ocean Territory;.io;IO;86;IOT;USD;246;IO;0;Africa;Eastern Africa
+Brunei Darussalam;.bn;BN;96;BRN;BND;673;BN;0;Asia;South-Eastern,Asia
+Bulgaria;.bg;BG;100;BGR;BGN;359;BG;0;Europe;Eastern Europe
+Burkina Faso;.bf;BF;854;BFA;XOF;226;BF;0;Africa;Western Africa
+Burundi;.bi;BI;108;BDI;BIF;257;BI;0;Africa;Eastern Africa
+Cambodia;.kh;KH;116;KHM;KHR;855;KH;0;Asia;South-Eastern,Asia
+Cameroon;.cm;CM;120;CMR;XAF;237;CM;0;Africa;Middle Africa
+Canada;.ca;CA;124;CAN;CAD;1;CA;2;Americas;Northern America
+Cape Verde;.cv;CV;132;CPV;CVE;238;CV,Cabo;0;Africa;Western Africa
+Cayman Islands;.ky;KY;136;CYM;KYD;1345;KY;0.5;Americas;Caribbean
+Central African Republic;.cf;CF;140;CAF;XAF;236;CF;0;Africa;Middle Africa
+Chad;.td;TD;148;TCD;XAF;235;TD,Tchad;0;Africa;Middle Africa
+Chile;.cl;CL;152;CHL;CLF,CLP;56;CL;0;Americas;South America
+China;.cn;CN;156;CHN;CNY;86;CN,Zhongguo,Zhonghua,Peoples Republic;0;Asia;Eastern Asia
+Christmas Island;.cx;CX;162;CXR;AUD;61;CX;0.5;Oceania;Australia,New Zealand
+Cocos (Keeling) Islands;.cc;CC;166;CCK;AUD;61;CC;0;Oceania;Australia,New Zealand
+Colombia;.co;CO;170;COL;COP,COU;57;CO;0;Americas;South America
+Comoros;.km;KM;174;COM;KMF;269;KM;0;Africa;Eastern Africa
+Republic of the Congo;.cg;CG;178;COG;XAF;242;CG;0;Africa;Middle Africa
+Democratic Republic of the Congo;.cd;CD;180;COD;CDF;243;CD,Congo-Brazzaville,Repubilika ya Kongo;0;Africa;Middle Africa
+Cook Islands;.ck;CK;184;COK;NZD;682;CK;0.5;Oceania;Polynesia
+Costa Rica;.cr;CR;188;CRI;CRC;506;CR;0;Americas;Central America
+Côte d'Ivoire;.ci;CI;384;CIV;XOF;225;CI,Cote,dIvoire;0;Africa;Western Africa
+Croatia;.hr;HR;191;HRV;HRK;385;HR,Hrvatska;0;Europe;Southern Europe
+Cuba;.cu;CU;192;CUB;CUC,CUP;53;CU;0;Americas;Caribbean
+Curaçao;.cw;CW;531;CUW;ANG;5999;CW,Curacao;0;;
+Cyprus;.cy;CY;196;CYP;EUR;357;CY,Kýpros;0;Asia;Western Asia
+Czech Republic;.cz;CZ;203;CZE;CZK;420;CZ,Ceska;0;Europe;Eastern Europe
+Denmark;.dk;DK;208;DNK;DKK;45;DK,Danmark;1.5;Europe;Northern Europe
+Djibouti;.dj;DJ;262;DJI;DJF;253;DJ,Jabuuti,Gabuuti;0;Africa;Eastern Africa
+Dominica;.dm;DM;212;DMA;XCD;1767;DM,Dominique;0.5;Americas;Caribbean
+Dominican Republic;.do;DO;214;DOM;DOP;1809,1829,1849;DO;0;Americas;Caribbean
+Ecuador;.ec;EC;218;ECU;USD;593;EC;0;Americas;South America
+Egypt;.eg;EG;818;EGY;EGP;20;EG;1.5;Africa;Northern Africa
+El Salvador;.sv;SV;222;SLV;SVC,USD;503;SV;0;Americas;Central America
+Equatorial Guinea;.gq;GQ;226;GNQ;XAF;240;GQ;0;Africa;Middle Africa
+Eritrea;.er;ER;232;ERI;ERN;291;ER;0;Africa;Eastern Africa
+Estonia;.ee;EE;233;EST;EUR;372;EE,Eesti;0;Europe;Northern Europe
+Ethiopia;.et;ET;231;ETH;ETB;251;ET;0;Africa;Eastern Africa
+Falkland Islands (Malvinas);.fk;FK;238;FLK;FKP;500;FK;0.5;Americas;South America
+Faroe Islands;.fo;FO;234;FRO;DKK;298;FO,Føroyar,Færøerne;0.5;Europe;Northern Europe
+Fiji;.fj;FJ;242;FJI;FJD;679;FJ,Viti;0;Oceania;Melanesia
+Finland;.fi;FI;246;FIN;EUR;358;FI,Suomi;0;Europe;Northern Europe
+France;.fr;FR;250;FRA;EUR;33;FR,République française;2.5;Europe;Western Europe
+French Guiana;.gf;GF;254;GUF;EUR;594;GF;0;Americas;South America
+French Polynesia;.pf;PF;258;PYF;XPF;689;PF,Polynésie française;0;Oceania;Polynesia
+French Southern Territories;.tf;TF;260;ATF;EUR;;TF;0;;
+Gabon;.ga;GA;266;GAB;XAF;241;GA,République Gabonaise;0;Africa;Middle Africa
+Gambia;.gm;GM;270;GMB;GMD;220;GM;0;Africa;Western Africa
+Georgia;.ge;GE;268;GEO;GEL;995;GE;0;Asia;Western Asia
+Germany;.de;DE;276;DEU;EUR;49;DE,Bundesrepublik,Deutschland;3;Europe;Western Europe
+Ghana;.gh;GH;288;GHA;GHS;233;GH;0;Africa;Western Africa
+Gibraltar;.gi;GI;292;GIB;GIP;350;GI;0.5;Europe;Southern Europe
+Greece;.gr;GR;300;GRC;EUR;30;GR;1.5;Europe;Southern Europe
+Greenland;.gl;GL;304;GRL;DKK;299;GL,grønland;0.5;Americas;Northern America
+Grenada;.gd;GD;308;GRD;XCD;1473;GD;0;Americas;Caribbean
+Guadeloupe;.gp;GP;312;GLP;EUR;590;GP;0;Americas;Caribbean
+Guam;.gu;GU;316;GUM;USD;1671;GU;0;Oceania;Micronesia
+Guatemala;.gt;GT;320;GTM;GTQ;502;GT;0;Americas;Central America
+Guernsey;.gg;GG;831;GGY;GBP;44;GG;0.5;Europe;Northern Europe
+Guinea;.gn;GN;324;GIN;GNF;224;GN;0;Africa;Western Africa
+Guinea-Bissau;.gw;GW;624;GNB;XOF;245;GW;0;Africa;Western Africa
+Guyana;.gy;GY;328;GUY;GYD;592;GY;0;Americas;South America
+Haiti;.ht;HT;332;HTI;HTG,USD;509;HT;0;Americas;Caribbean
+Heard Island and McDonald Islands;.hm;HM;334;HMD;AUD;;HM;0;;
+Vatican City;.va;VA;336;VAT;EUR;39066,379;VA;0.5;Europe;Southern Europe
+Honduras;.hn;HN;340;HND;HNL;504;HN;0;Americas;Central America
+Hong Kong;.hk;HK;344;HKG;HKD;852;HK;0;Asia;Eastern Asia
+Hungary;.hu;HU;348;HUN;HUF;36;HU,Magyarország;0;Europe;Eastern Europe
+Iceland;.is;IS;352;ISL;ISK;354;IS,Island;0;Europe;Northern Europe
+India;.in;IN;356;IND;INR;91;IN,Hindustan;3;Asia;Southern Asia
+Indonesia;.id;ID;360;IDN;IDR;62;ID;2;Asia;South-Eastern,Asia
+Iran;.ir;IR;364;IRN;IRR;98;IR;0;Asia;Southern Asia
+Iraq;.iq;IQ;368;IRQ;IQD;964;IQ;0;Asia;Western Asia
+Ireland;.ie;IE;372;IRL;EUR;353;IE,Éire;1.2;Europe;Northern Europe
+Isle of Man;.im;IM;833;IMN;GBP;44;IM;0.5;Europe;Northern Europe
+Israel;.il;IL;376;ISR;ILS;972;IL;0;Asia;Western Asia
+Italy;.it;IT;380;ITA;EUR;39;IT,Italia;2;Europe;Southern Europe
+Jamaica;.jm;JM;388;JAM;JMD;1876;JM;0;Americas;Caribbean
+Japan;.jp;JP;392;JPN;JPY;81;JP,Nippon,Nihon;2.5;Asia;Eastern Asia
+Jersey;.je;JE;832;JEY;GBP;44;JE;0.5;Europe;Northern Europe
+Jordan;.jo;JO;400;JOR;JOD;962;JO;0;Asia;Western Asia
+Kazakhstan;.kz;KZ;398;KAZ;KZT;76,77;KZ;0;Asia;Central Asia
+Kenya;.ke;KE;404;KEN;KES;254;KE;0;Africa;Eastern Africa
+Kiribati;.ki;KI;296;KIR;AUD;686;KI;0;Oceania;Micronesia
+North Korea;.kp;KP;408;PRK;KPW;850;KP;0;Asia;Eastern Asia
+South Korea;.kr;KR;410;KOR;KRW;82;KR;1.5;Asia;Eastern Asia
+Kuwait;.kw;KW;414;KWT;KWD;965;KW;0;Asia;Western Asia
+Kyrgyzstan;.kg;KG;417;KGZ;KGS;996;KG;0;Asia;Central Asia
+Laos;.la;LA;418;LAO;LAK;856;LA;0;Asia;South-Eastern,Asia
+Latvia;.lv;LV;428;LVA;LVL;371;LV,Latvija;0;Europe;Northern Europe
+Lebanon;.lb;LB;422;LBN;LBP;961;LB;0;Asia;Western Asia
+Lesotho;.ls;LS;426;LSO;LSL,ZAR;266;LS;0;Africa;Southern Africa
+Liberia;.lr;LR;430;LBR;LRD;231;LR;0;Africa;Western Africa
+Libya;.ly;LY;434;LBY;LYD;218;LY;0;Africa;Northern Africa
+Liechtenstein;.li;LI;438;LIE;CHF;423;LI;0;Europe;Western Europe
+Lithuania;.lt;LT;440;LTU;LTL;370;LT,Lietuva;0;Europe;Northern Europe
+Luxembourg;.lu;LU;442;LUX;EUR;352;LU;0;Europe;Western Europe
+Macao;.mo;MO;446;MAC;MOP;853;MO;0;Asia;Eastern Asia
+Macedonia;.mk;MK;807;MKD;MKD;389;MK;0;Europe;Southern Europe
+Madagascar;.mg;MG;450;MDG;MGA;261;MG,Madagasikara;0;Africa;Eastern Africa
+Malawi;.mw;MW;454;MWI;MWK;265;MW;0;Africa;Eastern Africa
+Malaysia;.my;MY;458;MYS;MYR;60;MY;0;Asia;South-Eastern,Asia
+Maldives;.mv;MV;462;MDV;MVR;960;MV;0;Asia;Southern Asia
+Mali;.ml;ML;466;MLI;XOF;223;ML;0;Africa;Western Africa
+Malta;.mt;MT;470;MLT;EUR;356;MT;0;Europe;Southern Europe
+Marshall Islands;.mh;MH;584;MHL;USD;692;MH;0.5;Oceania;Micronesia
+Martinique;.mq;MQ;474;MTQ;EUR;596;MQ;0;Americas;Caribbean
+Mauritania;.mr;MR;478;MRT;MRO;222;MR;0;Africa;Western Africa
+Mauritius;.mu;MU;480;MUS;MUR;230;MU;0;Africa;Eastern Africa
+Mayotte;.yt;YT;175;MYT;EUR;262;YT;0;Africa;Eastern Africa
+Mexico;.mx;MX;484;MEX;MXN,MXV;52;MX,Mexicanos;1.5;Americas;Central America
+Micronesia;.fm;FM;583;FSM;USD;691;FM;0;Oceania;Micronesia
+Moldova;.md;MD;498;MDA;MDL;373;MD;0;Europe;Eastern Europe
+Monaco;.mc;MC;492;MCO;EUR;377;MC;0;Europe;Western Europe
+Mongolia;.mn;MN;496;MNG;MNT;976;MN;0;Asia;Eastern Asia
+Montenegro;.me;ME;499;MNE;EUR;382;ME;0;Europe;Southern Europe
+Montserrat;.ms;MS;500;MSR;XCD;1664;MS;0.5;Americas;Caribbean
+Morocco;.ma;MA;504;MAR;MAD;212;MA;0;Africa;Northern Africa
+Mozambique;.mz;MZ;508;MOZ;MZN;258;MZ,Moçambique;0;Africa;Eastern Africa
+Myanmar (Burma);.mm;MM;104;MMR;MMK;95;MM;0;Asia;South-Eastern,Asia
+Namibia;.na;NA;516;NAM;NAD,ZAR;264;NA,Namibië;0;Africa;Southern Africa
+Nauru;.nr;NR;520;NRU;AUD;674;NR,Naoero;0.5;Oceania;Micronesia
+Nepal;.np;NP;524;NPL;NPR;977;NP;0;Asia;Southern Asia
+Netherlands;.nl;NL;528;NLD;EUR;31;NL,Holland,Nederland;1.5;Europe;Western Europe
+New Caledonia;.nc;NC;540;NCL;XPF;687;NC;0.5;Oceania;Melanesia
+New Zealand;.nz;NZ;554;NZL;NZD;64;NZ,Aotearoa;0;Oceania;Australia,New Zealand
+Nicaragua;.ni;NI;558;NIC;NIO;505;NI;0;Americas;Central America
+Niger;.ne;NE;562;NER;XOF;227;NE,Nijar;0;Africa;Western Africa
+Nigeria;.ng;NG;566;NGA;NGN;234;NG,Nijeriya,Naíjíríà;1.5;Africa;Western Africa
+Niue;.nu;NU;570;NIU;NZD;683;NU;0.5;Oceania;Polynesia
+Norfolk Island;.nf;NF;574;NFK;AUD;672;NF;0.5;Oceania;Australia,New Zealand
+Northern Mariana Islands;.mp;MP;580;MNP;USD;1670;MP;0.5;Oceania;Micronesia
+Norway;.no;NO;578;NOR;NOK;47;NO,Norge,Noreg;1.5;Europe;Northern Europe
+Oman;.om;OM;512;OMN;OMR;968;OM;0;Asia;Western Asia
+Pakistan;.pk;PK;586;PAK;PKR;92;PK;2;Asia;Southern Asia
+Palau;.pw;PW;585;PLW;USD;680;PW;0.5;Oceania;Micronesia
+Palestinian Territory;.ps;PS;275;PSE;;970;PS;0;Asia;Western Asia
+Panama;.pa;PA;591;PAN;PAB,USD;507;PA;0;Americas;Central America
+Papua New Guinea;.pg;PG;598;PNG;PGK;675;PG;0;Oceania;Melanesia
+Paraguay;.py;PY;600;PRY;PYG;595;PY;0;Americas;South America
+Peru;.pe;PE;604;PER;PEN;51;PE;0;Americas;South America
+Philippines;.ph;PH;608;PHL;PHP;63;PH,Pilipinas;1.5;Asia;South-Eastern,Asia
+Pitcairn;.pn;PN;612;PCN;NZD;64;PN;0.5;Oceania;Polynesia
+Poland;.pl;PL;616;POL;PLN;48;PL,Polska;1.25;Europe;Eastern Europe
+Portugal;.pt;PT;620;PRT;EUR;351;PT,Portuguesa;1.5;Europe;Southern Europe
+Puerto Rico;.pr;PR;630;PRI;USD;1787,1939;PR;0;Americas;Caribbean
+Qatar;.qa;QA;634;QAT;QAR;974;QA;0;Asia;Western Asia
+Réunion;.re;RE;638;REU;EUR;262;RE,Reunion;0;Africa;Eastern Africa
+Romania;.ro;RO;642;ROU;RON;40;RO,Rumania,Roumania,România;0;Europe;Eastern Europe
+Russian Federation;.ru;RU;643;RUS;RUB;7;RU,Rossiya;2.5;Europe;Eastern Europe
+Rwanda;.rw;RW;646;RWA;RWF;250;RW;0;Africa;Eastern Africa
+Saint Barthélemy;.bl;BL;652;BLM;EUR;590;BL,St. Barthelemy;0;Americas;Caribbean
+Saint Helena;.sh;SH;654;SHN;SHP;290;SH,St.;0;Africa;Western Africa
+Saint Kitts and Nevis;.kn;KN;659;KNA;XCD;1869;KN,St.;0;Americas;Caribbean
+Saint Lucia;.lc;LC;662;LCA;XCD;1758;LC,St.;0;Americas;Caribbean
+Saint Martin;.mf;MF;663;MAF;EUR;590;MF,St.;0;Americas;Caribbean
+Saint Pierre and Miquelon;.pm;PM;666;SPM;EUR;508;PM,St.;0;Americas;Northern America
+Saint Vincent and the Grenadines;.vc;VC;670;VCT;XCD;1784;VC,St.;0;Americas;Caribbean
+Samoa;.ws;WS;882;WSM;WST;685;WS;0;Oceania;Polynesia
+San Marino;.sm;SM;674;SMR;EUR;378;SM;0;Europe;Southern Europe
+São Tomé and Príncipe;.st;ST;678;STP;STD;239;ST;0;Africa;Middle Africa
+Saudi Arabia;.sa;SA;682;SAU;SAR;966;SA;0;Asia;Western Asia
+Senegal;.sn;SN;686;SEN;XOF;221;SN,Sénégal;0;Africa;Western Africa
+Serbia;.rs;RS;688;SRB;RSD;381;RS,Srbija;0;Europe;Southern Europe
+Seychelles;.sc;SC;690;SYC;SCR;248;SC;0.5;Africa;Eastern Africa
+Sierra Leone;.sl;SL;694;SLE;SLL;232;SL;0;Africa;Western Africa
+Singapore;.sg;SG;702;SGP;SGD;65;SG,Singapura;0;Asia;South-Eastern,Asia
+Sint Maarten;.sx;SX;534;SXM;ANG;1721;SX;0;;
+Slovakia;.sk;SK;703;SVK;XSU;421;SK,Slovenská,Slovensko;0;Europe;Eastern Europe
+Slovenia;.si;SI;705;SVN;EUR;386;SI,Slovenija;0;Europe;Southern Europe
+Solomon Islands;.sb;SB;90;SLB;EUR;677;SB;0;Oceania;Melanesia
+Somalia;.so;SO;706;SOM;SBD;252;SO;0;Africa;Eastern Africa
+South Africa;.za;ZA;710;ZAF;SOS;27;ZA,RSA,Suid-Afrika;0;Africa;Southern Africa
+South Georgia;.gs;GS;239;SGS;ZAR;500;GS;0;Americas;South America
+South Sudan;.ss;SS;728;SSD;SSP;211;SS;0;;
+Spain;.es;ES;724;ESP;EUR;34;ES,España;2;Europe;Southern Europe
+Sri Lanka;.lk;LK;144;LKA;LKR;94;LK;0;Asia;Southern Asia
+Sudan;.sd;SD;729;SDN;SDG;249;SD;0;Africa;Northern Africa
+Suriname;.sr;SR;740;SUR;SRD;597;SR,Sarnam,Sranangron;0;Americas;South America
+Svalbard and Jan Mayen;.sj;SJ;744;SJM;NOK;4779;SJ;0.5;Europe;Northern Europe
+Swaziland;.sz;SZ;748;SWZ;SZL;268;SZ,weSwatini,Swatini,Ngwane;0;Africa;Southern Africa
+Sweden;.se;SE;752;SWE;SEK;46;SE,Sverige;1.5;Europe;Northern Europe
+Switzerland;.ch;CH;756;CHE;CHE,CHF,CHW;41;CH,Swiss Confederation,Schweiz,Suisse,Svizzera,Svizra;1.5;Europe;Western Europe
+Syrian Arab Republic;.sy;SY;760;SYR;SYP;963;SY,Syria;0;Asia;Western Asia
+Taiwan, Province of China;.tw;TW;158;TWN;TWD;886;TW;0;Asia;Eastern Asia
+Tajikistan;.tj;TJ;762;TJK;TJS;992;TJ,Toçikiston;0;Asia;Central Asia
+Tanzania;.tz;TZ;834;TZA;TZS;255;TZ;0;Africa;Eastern Africa
+Thailand;.th;TH;764;THA;THB;66;TH,Prathet,Thai;0;Asia;South-Eastern,Asia
+Timor-Leste;.tl;TL;626;TLS;USD;670;TL;0;Asia;South-Eastern,Asia
+Togo;.tg;TG;768;TGO;XOF;228;TG,Togolese;0;Africa;Western Africa
+Tokelau;.tk;TK;772;TKL;NZD;690;TK;0.5;Oceania;Polynesia
+Tonga;.to;TO;776;TON;TOP;676;TO;0;Oceania;Polynesia
+Trinidad and Tobago;.tt;TT;780;TTO;TTD;1868;TT;0;Americas;Caribbean
+Tunisia;.tn;TN;788;TUN;TND;216;TN;0;Africa;Northern Africa
+Turkey;.tr;TR;792;TUR;TRY;90;TR,Türkiye,Turkiye;0;Asia;Western Asia
+Turkmenistan;.tm;TM;795;TKM;TMT;993;TM,Türkmenistan;0;Asia;Central Asia
+Turks and Caicos Islands;.tc;TC;796;TCA;USD;1649;TC;0.5;Americas;Caribbean
+Tuvalu;.tv;TV;798;TUV;AUD;688;TV;0.5;Oceania;Polynesia
+Uganda;.ug;UG;800;UGA;UGX;256;UG;0;Africa;Eastern Africa
+Ukraine;.ua;UA;804;UKR;UAH;380;UA,Ukrayina;0;Europe;Eastern Europe
+United Arab Emirates;.ae;AE;784;ARE;AED;971;AE,UAE;0;Asia;Western Asia
+United Kingdom;.gb;GB;826;GBR;GBP;44;GB,Great Britain,England,UK,Wales,Scotland,Northern Ireland;2.5;Europe;Northern Europe
+United States;.us;US;840;USA;USD,USN,USS;1;US,USA,United States of America;3.5;Americas;Northern America
+United States Minor Outlying Islands;.us;UM;581;UMI;USD;;UM;0;Americas;Northern America
+Uruguay;.uy;UY;858;URY;UYI,UYU;598;UY;0;Americas;South America
+Uzbekistan;.uz;UZ;860;UZB;UZS;998;UZ,O'zbekstan,O‘zbekiston;0;Asia;Central Asia
+Vanuatu;.vu;VU;548;VUT;VUV;678;VU;0;Oceania;Melanesia
+Venezuela;.ve;VE;862;VEN;VEF;58;VE;0;Americas;South America
+Viet Nam;.vn;VN;704;VNM;VND;84;VN,Viet,Nam;1.5;Asia;South-Eastern,Asia
+Virgin Islands (British);.vg;VG;92;VGB;USD;1284;VG;0.5;Americas;Caribbean
+Virgin Islands (U.S.);.vi;VI;850;VIR;USD;1340;VI;0.5;Americas;Caribbean
+Wallis and Futuna;.wf;WF;876;WLF;XPF;681;WF;0.5;Oceania;Polynesia
+Western Sahara;.eh;EH;732;ESH;MAD,DZD,MRO;212;EH;0;Africa;Northern Africa
+Yemen;.ye;YE;887;YEM;YER;967;YE;0;Asia;Western Asia
+Zambia;.zm;ZM;894;ZMB;ZMK;260;ZM;0;Africa;Eastern Africa
+Zimbabwe;.zw;ZW;716;ZWE;ZWL;263;ZW;0;Africa;Eastern Africa

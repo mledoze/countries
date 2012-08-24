@@ -17,13 +17,21 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - the country alternative spellings (comma separated if several)
 
  - the country relevance
+
+ - the country region
+
+ - the country subregion (comma separated if several)
  
 # 
 Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete. 
 
-I used http://www.shancarter.com/data_converter/index.html to generate the JSON and XML; the CSV was done by hand.
+Region and subregion are taken from https://github.com/hexorx/countries.
 
-NB: I removed a few alternative spellings because of some unicode issues. If someone has a fix, please send a pull request.
+I used http://www.shancarter.com/data_converter/index.html to generate the JSON and XML; the CSV was done by hand.
 
 # Sources
 Wikipedia and http://www.currency-iso.org/ for currency codes
+
+Thanks to @Glazz for his help with country calling codes.
+
+Thanks to @hexorx for his work.
