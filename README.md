@@ -1,36 +1,29 @@
-This repository contains lists of world countries in JSON, CSV and XML. Each line contains:
+# Countries data
+This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:
 
- - the country name
+ - name
+ - top-level domain (tld)
+ - code ISO 3166-1 alpha-2 (cca2)
+ - code ISO 3166-1 numeric (ccn3)
+ - code ISO 3166-1 alpha-3 (cca3)
+ - currency code(s) (comma separated if several)
+ - calling code(s) (comma separated if several)
+ - alternative spellings (comma separated if several)
+ - relevance
+ - region
+ - subregion (comma separated if several)
 
- - the country top-level domain (tld)
+I use http://www.shancarter.com/data_converter/index.html to generate the JSON and XML; the CSV was done by hand.
 
- - the country code ISO 3166-1 alpha-2 (cca2)
-
- - the country code ISO 3166-1 numeric (ccn3)
-
- - the country code ISO 3166-1 alpha-3 (cca3)
- 
- - the country currency code(s) (comma separated if several)
-
- - the country calling code(s) (comma separated if several)
-
- - the country alternative spellings (comma separated if several)
-
- - the country relevance
-
- - the country region
-
- - the country subregion (comma separated if several)
- 
-# 
-Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete. 
-
-Region and subregion are taken from https://github.com/hexorx/countries.
-
-I used http://www.shancarter.com/data_converter/index.html to generate the JSON and XML; the CSV was done by hand.
+I will add the following data:
+ - the country capital city
+ - the country official language(s)
 
 # Sources
-Wikipedia and http://www.currency-iso.org/ for currency codes
+ - Wikipedia for country name, TLD, ISO codes and alternative spellings
+ - http://www.currency-iso.org/ for currency codes
+ - Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete
+ - Region and subregion are taken from https://github.com/hexorx/countries.
 
 # Credits
 Thanks to @Glazz for his help with country calling codes.
