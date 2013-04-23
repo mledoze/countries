@@ -116,8 +116,6 @@ Jordan;.jo;JO;400;JOR;JOD;962;JO;0;Asia;Western Asia
 Kazakhstan;.kz;KZ;398;KAZ;KZT;76,77;KZ;0;Asia;Central Asia
 Kenya;.ke;KE;404;KEN;KES;254;KE;0;Africa;Eastern Africa
 Kiribati;.ki;KI;296;KIR;AUD;686;KI;0;Oceania;Micronesia
-North Korea;.kp;KP;408;PRK;KPW;850;KP;0;Asia;Eastern Asia
-South Korea;.kr;KR;410;KOR;KRW;82;KR;1.5;Asia;Eastern Asia
 Kuwait;.kw;KW;414;KWT;KWD;965;KW;0;Asia;Western Asia
 Kyrgyzstan;.kg;KG;417;KGZ;KGS;996;KG;0;Asia;Central Asia
 Laos;.la;LA;418;LAO;LAK;856;LA;0;Asia;South-Eastern,Asia
@@ -163,6 +161,7 @@ Niger;.ne;NE;562;NER;XOF;227;NE,Nijar;0;Africa;Western Africa
 Nigeria;.ng;NG;566;NGA;NGN;234;NG,Nijeriya,Naíjíríà;1.5;Africa;Western Africa
 Niue;.nu;NU;570;NIU;NZD;683;NU;0.5;Oceania;Polynesia
 Norfolk Island;.nf;NF;574;NFK;AUD;672;NF;0.5;Oceania;Australia,New Zealand
+North Korea;.kp;KP;408;PRK;KPW;850;KP;0;Asia;Eastern Asia
 Northern Mariana Islands;.mp;MP;580;MNP;USD;1670;MP;0.5;Oceania;Micronesia
 Norway;.no;NO;578;NOR;NOK;47;NO,Norge,Noreg;1.5;Europe;Northern Europe
 Oman;.om;OM;512;OMN;OMR;968;OM;0;Asia;Western Asia
@@ -206,6 +205,7 @@ Solomon Islands;.sb;SB;90;SLB;EUR;677;SB;0;Oceania;Melanesia
 Somalia;.so;SO;706;SOM;SBD;252;SO;0;Africa;Eastern Africa
 South Africa;.za;ZA;710;ZAF;SOS;27;ZA,RSA,Suid-Afrika;0;Africa;Southern Africa
 South Georgia;.gs;GS;239;SGS;ZAR;500;GS;0;Americas;South America
+South Korea;.kr;KR;410;KOR;KRW;82;KR;1.5;Asia;Eastern Asia
 South Sudan;.ss;SS;728;SSD;SSP;211;SS;0;;
 Spain;.es;ES;724;ESP;EUR;34;ES,España;2;Europe;Southern Europe
 Sri Lanka;.lk;LK;144;LKA;LKR;94;LK;0;Asia;Southern Asia

@@ -117,8 +117,6 @@
   <country name="Kazakhstan" tld=".kz" cca2="KZ" ccn3="398" cca3="KAZ" currency="KZT" calling-code="76,77" alt-spellings="KZ" relevance="0" region="Asia" subregion="Central Asia"/>
   <country name="Kenya" tld=".ke" cca2="KE" ccn3="404" cca3="KEN" currency="KES" calling-code="254" alt-spellings="KE" relevance="0" region="Africa" subregion="Eastern Africa"/>
   <country name="Kiribati" tld=".ki" cca2="KI" ccn3="296" cca3="KIR" currency="AUD" calling-code="686" alt-spellings="KI" relevance="0" region="Oceania" subregion="Micronesia"/>
-  <country name="North Korea" tld=".kp" cca2="KP" ccn3="408" cca3="PRK" currency="KPW" calling-code="850" alt-spellings="KP" relevance="0" region="Asia" subregion="Eastern Asia"/>
-  <country name="South Korea" tld=".kr" cca2="KR" ccn3="410" cca3="KOR" currency="KRW" calling-code="82" alt-spellings="KR" relevance="1.5" region="Asia" subregion="Eastern Asia"/>
   <country name="Kuwait" tld=".kw" cca2="KW" ccn3="414" cca3="KWT" currency="KWD" calling-code="965" alt-spellings="KW" relevance="0" region="Asia" subregion="Western Asia"/>
   <country name="Kyrgyzstan" tld=".kg" cca2="KG" ccn3="417" cca3="KGZ" currency="KGS" calling-code="996" alt-spellings="KG" relevance="0" region="Asia" subregion="Central Asia"/>
   <country name="Laos" tld=".la" cca2="LA" ccn3="418" cca3="LAO" currency="LAK" calling-code="856" alt-spellings="LA" relevance="0" region="Asia" subregion="South-Eastern,Asia"/>
@@ -164,6 +162,7 @@
   <country name="Nigeria" tld=".ng" cca2="NG" ccn3="566" cca3="NGA" currency="NGN" calling-code="234" alt-spellings="NG,Nijeriya,Naíjíríà" relevance="1.5" region="Africa" subregion="Western Africa"/>
   <country name="Niue" tld=".nu" cca2="NU" ccn3="570" cca3="NIU" currency="NZD" calling-code="683" alt-spellings="NU" relevance="0.5" region="Oceania" subregion="Polynesia"/>
   <country name="Norfolk Island" tld=".nf" cca2="NF" ccn3="574" cca3="NFK" currency="AUD" calling-code="672" alt-spellings="NF" relevance="0.5" region="Oceania" subregion="Australia,New Zealand"/>
+  <country name="North Korea" tld=".kp" cca2="KP" ccn3="408" cca3="PRK" currency="KPW" calling-code="850" alt-spellings="KP" relevance="0" region="Asia" subregion="Eastern Asia"/>
   <country name="Northern Mariana Islands" tld=".mp" cca2="MP" ccn3="580" cca3="MNP" currency="USD" calling-code="1670" alt-spellings="MP" relevance="0.5" region="Oceania" subregion="Micronesia"/>
   <country name="Norway" tld=".no" cca2="NO" ccn3="578" cca3="NOR" currency="NOK" calling-code="47" alt-spellings="NO,Norge,Noreg" relevance="1.5" region="Europe" subregion="Northern Europe"/>
   <country name="Oman" tld=".om" cca2="OM" ccn3="512" cca3="OMN" currency="OMR" calling-code="968" alt-spellings="OM" relevance="0" region="Asia" subregion="Western Asia"/>
@@ -207,6 +206,7 @@
   <country name="Somalia" tld=".so" cca2="SO" ccn3="706" cca3="SOM" currency="SBD" calling-code="252" alt-spellings="SO" relevance="0" region="Africa" subregion="Eastern Africa"/>
   <country name="South Africa" tld=".za" cca2="ZA" ccn3="710" cca3="ZAF" currency="SOS" calling-code="27" alt-spellings="ZA,RSA,Suid-Afrika" relevance="0" region="Africa" subregion="Southern Africa"/>
   <country name="South Georgia" tld=".gs" cca2="GS" ccn3="239" cca3="SGS" currency="ZAR" calling-code="500" alt-spellings="GS" relevance="0" region="Americas" subregion="South America"/>
+  <country name="South Korea" tld=".kr" cca2="KR" ccn3="410" cca3="KOR" currency="KRW" calling-code="82" alt-spellings="KR" relevance="1.5" region="Asia" subregion="Eastern Asia"/>
   <country name="South Sudan" tld=".ss" cca2="SS" ccn3="728" cca3="SSD" currency="SSP" calling-code="211" alt-spellings="SS" relevance="0" region="" subregion=""/>
   <country name="Spain" tld=".es" cca2="ES" ccn3="724" cca3="ESP" currency="EUR" calling-code="34" alt-spellings="ES,España" relevance="2" region="Europe" subregion="Southern Europe"/>
   <country name="Sri Lanka" tld=".lk" cca2="LK" ccn3="144" cca3="LKA" currency="LKR" calling-code="94" alt-spellings="LK" relevance="0" region="Asia" subregion="Southern Asia"/>
