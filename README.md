@@ -30,4 +30,4 @@ Thanks to @Glazz for his help with country calling codes.
 
 Thanks to @hexorx for his work.
 
-[1]: http://www.shancarter.com/data_converter/index.html "Mr. Data Converter"
+[1]: https://github.com/shancarter/Mr-Data-Converter "Mr. Data Converter"

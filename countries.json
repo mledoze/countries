@@ -215,7 +215,7 @@
 {"name":"Sweden","tld":".se","cca2":"SE","ccn3":752,"cca3":"SWE","currency":"SEK","calling-code":"46","alt-spellings":"SE,Sverige","relevance":1.5,"region":"Europe","subregion":"Northern Europe"},
 {"name":"Switzerland","tld":".ch","cca2":"CH","ccn3":756,"cca3":"CHE","currency":"CHE,CHF,CHW","calling-code":"41","alt-spellings":"CH,Swiss Confederation,Schweiz,Suisse,Svizzera,Svizra","relevance":1.5,"region":"Europe","subregion":"Western Europe"},
 {"name":"Syrian Arab Republic","tld":".sy","cca2":"SY","ccn3":760,"cca3":"SYR","currency":"SYP","calling-code":"963","alt-spellings":"SY,Syria","relevance":0,"region":"Asia","subregion":"Western Asia"},
-{"name":"Taiwan, Province of China","tld":".tw","cca2":"TW","ccn3":158,"cca3":"TWN","currency":"TWD","calling-code":"886","alt-spellings":"TW","relevance":0,"region":"Asia","subregion":"Eastern Asia"},
+{"name":"Taiwan","tld":".tw","cca2":"TW","ccn3":158,"cca3":"TWN","currency":"TWD","calling-code":"886","alt-spellings":"TW","relevance":0,"region":"Asia","subregion":"Eastern Asia"},
 {"name":"Tajikistan","tld":".tj","cca2":"TJ","ccn3":762,"cca3":"TJK","currency":"TJS","calling-code":"992","alt-spellings":"TJ,Toçikiston","relevance":0,"region":"Asia","subregion":"Central Asia"},
 {"name":"Tanzania","tld":".tz","cca2":"TZ","ccn3":834,"cca3":"TZA","currency":"TZS","calling-code":"255","alt-spellings":"TZ","relevance":0,"region":"Africa","subregion":"Eastern Africa"},
 {"name":"Thailand","tld":".th","cca2":"TH","ccn3":764,"cca3":"THA","currency":"THB","calling-code":"66","alt-spellings":"TH,Prathet,Thai","relevance":0,"region":"Asia","subregion":"South-Eastern,Asia"},
