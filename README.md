@@ -1,4 +1,5 @@
-# Countries data
+#World countries in JSON, CSV and XML.
+## Countries data
 This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:
 
  - name
@@ -19,13 +20,13 @@ I will add the following data:
  - the country capital city
  - the country official language(s)
 
-# Sources
+## Sources
  - Wikipedia for country name, TLD, ISO codes and alternative spellings
  - http://www.currency-iso.org/ for currency codes
  - Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete
  - Region and subregion are taken from https://github.com/hexorx/countries
 
-# Credits
+## Credits
 Thanks to @Glazz for his help with country calling codes.
 
 Thanks to @hexorx for his work.
