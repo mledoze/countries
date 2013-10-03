@@ -27,6 +27,6 @@ I will add the following data:
 
 ## Credits
 Thanks to:
- -@Glazz for his help with country calling codes.
- -@hexorx for his work (https://github.com/hexorx/countries)
- -@frederik-jacques for the capital cities
+ - @Glazz for his help with country calling codes.
+ - @hexorx for his work (https://github.com/hexorx/countries)
+ - @frederik-jacques for the capital cities
