@@ -14,10 +14,9 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - region
  - subregion
 
-Multiple values are separated by a comma. I use [Mr. Data Converter] [1] to generate the JSON and XML; the CSV is done by hand.
+Multiple values are separated by a comma.
 
 I will add the following data:
- - the country capital city
  - the country official language(s)
 
 ## Sources
@@ -27,8 +26,7 @@ I will add the following data:
  - Region and subregion are taken from https://github.com/hexorx/countries
 
 ## Credits
-Thanks to @Glazz for his help with country calling codes.
-
-Thanks to @hexorx for his work.
-
-[1]: https://github.com/shancarter/Mr-Data-Converter "Mr. Data Converter"
+Thanks to:
+ -@Glazz for his help with country calling codes.
+ -@hexorx for his work (https://github.com/hexorx/countries)
+ -@frederik-jacques for the capital cities
