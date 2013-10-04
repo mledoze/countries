@@ -9,6 +9,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - code ISO 3166-1 alpha-3 (cca3)
  - currency code(s)
  - calling code(s)
+ - capital city
  - alternative spellings
  - relevance
  - region
