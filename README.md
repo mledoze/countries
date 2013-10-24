@@ -3,28 +3,39 @@
 This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:
 
  - name
- - top-level domain (tld)
- - code ISO 3166-1 alpha-2 (cca2)
- - code ISO 3166-1 numeric (ccn3)
- - code ISO 3166-1 alpha-3 (cca3)
- - currency code(s)
- - calling code(s)
- - capital city
- - alternative spellings
+ - top-level domain (`tld`)
+ - code ISO 3166-1 alpha-2 (`cca2`)
+ - code ISO 3166-1 numeric (`ccn3`)
+ - code ISO 3166-1 alpha-3 (`cca3`)
+ - currency code(s) (`currency`)
+ - calling code(s) (`calling-code`)
+ - capital city (`capital`)
+ - alternative spellings (`alt-spellings`)
  - relevance
  - region
  - subregion
 
 Multiple values are separated by a comma.
 
-I will add the following data:
- - the country official language(s)
+#### About the relevance factor
+To understand the usefulness of the relevance parameter, please read this: 
+- http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/
+- http://baymard.com/labs/country-selector
+
+## To do
+ - add the country native/official language(s)
+ - add the country native name (written in its native language)
+ - add more alternative spellings/names
+ - rename `alt-spellings` to `alt-names`
 
 ## Sources
- - Wikipedia for country name, TLD, ISO codes and alternative spellings
- - http://www.currency-iso.org/ for currency codes
- - Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete
- - Region and subregion are taken from https://github.com/hexorx/countries
+Wikipedia for country name, TLD, ISO codes and alternative spellings
+
+http://www.currency-iso.org/ for currency codes
+
+Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete
+
+Region and subregion are taken from https://github.com/hexorx/countries
 
 ## Credits
 Thanks to:
@@ -33,8 +44,8 @@ Thanks to:
  - @frederik-jacques for the capital cities
 
 ## License
-This dataset is made available under the Open Database License: 
+This dataset is made available under the Open Database License:
 http://opendatacommons.org/licenses/odbl/1.0/
 
-Any rights in individual contents of the database are licensed under the Database Contents License: 
+Any rights in individual contents of the database are licensed under the Database Contents License:
 http://opendatacommons.org/licenses/dbcl/1.0/
