@@ -37,7 +37,7 @@
 {"name":"Burundi","tld":".bi","cca2":"BI","ccn3":108,"cca3":"BDI","currency":"BIF","calling-code":"257","capital":"Bujumbura","alt-spellings":"BI","relevance":0,"region":"Africa","subregion":"Eastern Africa"},
 {"name":"Cambodia","tld":".kh","cca2":"KH","ccn3":116,"cca3":"KHM","currency":"KHR","calling-code":"855","capital":"Phnom Penh","alt-spellings":"KH","relevance":0,"region":"Asia","subregion":"South-Eastern,Asia"},
 {"name":"Cameroon","tld":".cm","cca2":"CM","ccn3":120,"cca3":"CMR","currency":"XAF","calling-code":"237","capital":"Yaound\u00e9","alt-spellings":"CM","relevance":0,"region":"Africa","subregion":"Middle Africa"},
-{"name":"Canada","tld":".ca","cca2":"CA","ccn3":124,"cca3":"CAN","currency":"CAD","calling-code":"1","capital":"Ottowa","alt-spellings":"CA","relevance":2,"region":"Americas","subregion":"Northern America"},
+{"name":"Canada","tld":".ca","cca2":"CA","ccn3":124,"cca3":"CAN","currency":"CAD","calling-code":"1","capital":"Ottawa","alt-spellings":"CA","relevance":2,"region":"Americas","subregion":"Northern America"},
 {"name":"Cape Verde","tld":".cv","cca2":"CV","ccn3":132,"cca3":"CPV","currency":"CVE","calling-code":"238","capital":"Praia","alt-spellings":"CV,Cabo","relevance":0,"region":"Africa","subregion":"Western Africa"},
 {"name":"Cayman Islands","tld":".ky","cca2":"KY","ccn3":136,"cca3":"CYM","currency":"KYD","calling-code":"1345","capital":"George Town","alt-spellings":"KY","relevance":0.5,"region":"Americas","subregion":"Caribbean"},
 {"name":"Central African Republic","tld":".cf","cca2":"CF","ccn3":140,"cca3":"CAF","currency":"XAF","calling-code":"236","capital":"Bangui","alt-spellings":"CF","relevance":0,"region":"Africa","subregion":"Middle Africa"},
