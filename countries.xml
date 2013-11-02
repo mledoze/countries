@@ -59,7 +59,7 @@
   <country name="Cuba" tld=".cu" cca2="CU" ccn3="192" cca3="CUB" currency="CUC,CUP" calling-code="53" capital="Havana" alt-spellings="CU" relevance="0" region="Americas" subregion="Caribbean"/>
   <country name="Curaçao" tld=".cw" cca2="CW" ccn3="531" cca3="CUW" currency="ANG" calling-code="5999" capital="Willemstad" alt-spellings="CW,Curacao" relevance="0" region="" subregion=""/>
   <country name="Cyprus" tld=".cy" cca2="CY" ccn3="196" cca3="CYP" currency="EUR" calling-code="357" capital="Nicosia" alt-spellings="CY,Kýpros" relevance="0" region="Asia" subregion="Western Asia"/>
-  <country name="Czech Republic" tld=".cz" cca2="CZ" ccn3="203" cca3="CZE" currency="CZK" calling-code="420" capital="Prague" alt-spellings="CZ,Ceska" relevance="0" region="Europe" subregion="Eastern Europe"/>
+  <country name="Czech Republic" tld=".cz" cca2="CZ" ccn3="203" cca3="CZE" currency="CZK" calling-code="420" capital="Prague" alt-spellings="CZ,Česká republika,Česko" relevance="0" region="Europe" subregion="Eastern Europe"/>
   <country name="Denmark" tld=".dk" cca2="DK" ccn3="208" cca3="DNK" currency="DKK" calling-code="45" capital="Copenhagen" alt-spellings="DK,Danmark" relevance="1.5" region="Europe" subregion="Northern Europe"/>
   <country name="Djibouti" tld=".dj" cca2="DJ" ccn3="262" cca3="DJI" currency="DJF" calling-code="253" capital="Djibouti" alt-spellings="DJ,Jabuuti,Gabuuti" relevance="0" region="Africa" subregion="Eastern Africa"/>
   <country name="Dominica" tld=".dm" cca2="DM" ccn3="212" cca3="DMA" currency="XCD" calling-code="1767" capital="Roseau" alt-spellings="DM,Dominique" relevance="0.5" region="Americas" subregion="Caribbean"/>
