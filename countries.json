@@ -203,7 +203,7 @@
 {"name":"Solomon Islands","tld":".sb","cca2":"SB","ccn3":90,"cca3":"SLB","currency":"SDB","calling-code":"677","capital":"Honiara","alt-spellings":"SB","relevance":0,"region":"Oceania","subregion":"Melanesia"},
 {"name":"Somalia","tld":".so","cca2":"SO","ccn3":706,"cca3":"SOM","currency":"SOS","calling-code":"252","capital":"Mogadishu","alt-spellings":"SO","relevance":0,"region":"Africa","subregion":"Eastern Africa"},
 {"name":"South Africa","tld":".za","cca2":"ZA","ccn3":710,"cca3":"ZAF","currency":"ZAR","calling-code":"27","capital":"Cape Town","alt-spellings":"ZA,RSA,Suid-Afrika","relevance":0,"region":"Africa","subregion":"Southern Africa"},
-{"name":"South Georgia","tld":".gs","cca2":"GS","ccn3":239,"cca3":"SGS","currency":"ZAR","calling-code":"500","capital":"","alt-spellings":"GS","relevance":0,"region":"Americas","subregion":"South America"},
+{"name":"South Georgia","tld":".gs","cca2":"GS","ccn3":239,"cca3":"SGS","currency":"GBP","calling-code":"500","capital":"","alt-spellings":"GS","relevance":0,"region":"Americas","subregion":"South America"},
 {"name":"South Korea","tld":".kr","cca2":"KR","ccn3":410,"cca3":"KOR","currency":"KRW","calling-code":"82","capital":"Seoul","alt-spellings":"KR","relevance":1.5,"region":"Asia","subregion":"Eastern Asia"},
 {"name":"South Sudan","tld":".ss","cca2":"SS","ccn3":728,"cca3":"SSD","currency":"SSP","calling-code":"211","capital":"Juba","alt-spellings":"SS","relevance":0,"region":"","subregion":""},
 {"name":"Spain","tld":".es","cca2":"ES","ccn3":724,"cca3":"ESP","currency":"EUR","calling-code":"34","capital":"Madrid","alt-spellings":"ES,Espa\u00f1a","relevance":2,"region":"Europe","subregion":"Southern Europe"},
