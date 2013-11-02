@@ -200,7 +200,7 @@
   <country name="Sierra Leone" tld=".sl" cca2="SL" ccn3="694" cca3="SLE" currency="SLL" calling-code="232" capital="Freetown" alt-spellings="SL" relevance="0" region="Africa" subregion="Western Africa"/>
   <country name="Singapore" tld=".sg" cca2="SG" ccn3="702" cca3="SGP" currency="SGD" calling-code="65" capital="Singapore" alt-spellings="SG,Singapura" relevance="0" region="Asia" subregion="South-Eastern,Asia"/>
   <country name="Sint Maarten" tld=".sx" cca2="SX" ccn3="534" cca3="SXM" currency="ANG" calling-code="1721" capital="Philipsburg" alt-spellings="SX" relevance="0" region="" subregion=""/>
-  <country name="Slovakia" tld=".sk" cca2="SK" ccn3="703" cca3="SVK" currency="XSU" calling-code="421" capital="Bratislava" alt-spellings="SK,Slovenská,Slovensko" relevance="0" region="Europe" subregion="Eastern Europe"/>
+  <country name="Slovakia" tld=".sk" cca2="SK" ccn3="703" cca3="SVK" currency="EUR" calling-code="421" capital="Bratislava" alt-spellings="SK,Slovenská republika,Slovensko" relevance="0" region="Europe" subregion="Eastern Europe"/>
   <country name="Slovenia" tld=".si" cca2="SI" ccn3="705" cca3="SVN" currency="EUR" calling-code="386" capital="Ljubljana" alt-spellings="SI,Slovenija" relevance="0" region="Europe" subregion="Southern Europe"/>
   <country name="Solomon Islands" tld=".sb" cca2="SB" ccn3="90" cca3="SLB" currency="EUR" calling-code="677" capital="Honiara" alt-spellings="SB" relevance="0" region="Oceania" subregion="Melanesia"/>
   <country name="Somalia" tld=".so" cca2="SO" ccn3="706" cca3="SOM" currency="SBD" calling-code="252" capital="Mogadishu" alt-spellings="SO" relevance="0" region="Africa" subregion="Eastern Africa"/>
