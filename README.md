@@ -23,10 +23,12 @@ To understand the usefulness of the relevance parameter, please read this:
 - http://baymard.com/labs/country-selector
 
 ## To do
- - add the country native/official language(s)
+ - add the country official language(s)
  - add the country native name (written in its native language)
+ - add the official name of the country in english and in its native language
  - add more alternative spellings/names
  - rename `alt-spellings` to `alt-names`
+ - have only one data source (master file) from which we can generate other formats (see #12)
 
 ## Sources
 Wikipedia for country name, TLD, ISO codes and alternative spellings
