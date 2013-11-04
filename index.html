@@ -1,98 +1,124 @@
-<!doctype html>
-<!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
-<!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on http://github.com/jonrohan -->
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <link rel="stylesheet" href="stylesheets/stylesheet.css" media="screen"/>
-  <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="javascripts/script.js"></script>
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="Countries : World countries in JSON, CSV and XML. Any help is welcome!" />
 
-  <title>Countries</title>
-  <meta name="description" content="World countries in JSON, CSV and XML. Any help is welcome!">
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Countries</title>
+  </head>
 
-</head>
+  <body>
 
-<body>
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/mledoze/countries">View on GitHub</a>
 
-  <div class="wrapper">
-    <header>
-      <h1 class="title">Countries</h1>
-    </header>
-    <div id="container">
-      <p class="tagline">World countries in JSON, CSV and XML. Any help is welcome!</p>
-      <div id="main" role="main">
-        <div class="download-bar">
-        <div class="inner">
-          <a href="https://github.com/mledoze/countries/tarball/master" class="download-button tar"><span>Download</span></a>
-          <a href="https://github.com/mledoze/countries/zipball/master" class="download-button zip"><span>Download</span></a>
-          <a href="https://github.com/mledoze/countries" class="code">View Countries on GitHub</a>
-        </div>
-        <span class="blc"></span><span class="trc"></span>
-        </div>
-        <article class="markdown-body">
-          <h1>Countries data</h1>
+          <h1 id="project_title">Countries</h1>
+          <h2 id="project_tagline">World countries in JSON, CSV and XML. Any help is welcome!</h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/mledoze/countries/zipball/master">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/mledoze/countries/tarball/master">Download this project as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1>
+<a name="world-countries-in-json-csv-and-xml" class="anchor" href="#world-countries-in-json-csv-and-xml"><span class="octicon octicon-link"></span></a>World countries in JSON, CSV and XML.</h1>
+
+<h2>
+<a name="countries-data" class="anchor" href="#countries-data"><span class="octicon octicon-link"></span></a>Countries data</h2>
 
 <p>This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:</p>
 
 <ul>
 <li>name</li>
-<li>top-level domain (tld)</li>
-<li>code ISO 3166-1 alpha-2 (cca2)</li>
-<li>code ISO 3166-1 numeric (ccn3)</li>
-<li>code ISO 3166-1 alpha-3 (cca3)</li>
-<li>currency code(s) (comma separated if several)</li>
-<li>calling code(s) (comma separated if several)</li>
-<li>alternative spellings (comma separated if several)</li>
+<li>top-level domain (<code>tld</code>)</li>
+<li>code ISO 3166-1 alpha-2 (<code>cca2</code>)</li>
+<li>code ISO 3166-1 numeric (<code>ccn3</code>)</li>
+<li>code ISO 3166-1 alpha-3 (<code>cca3</code>)</li>
+<li>currency code(s) (<code>currency</code>)</li>
+<li>calling code(s) (<code>calling-code</code>)</li>
+<li>capital city (<code>capital</code>)</li>
+<li>alternative spellings (<code>alt-spellings</code>)</li>
 <li>relevance</li>
 <li>region</li>
-<li>subregion (comma separated if several)</li>
-</ul><p>I use <a href="http://www.shancarter.com/data_converter/index.html">http://www.shancarter.com/data_converter/index.html</a> to generate the JSON and XML; the CSV was done by hand.</p>
+<li>subregion</li>
+</ul><p>Multiple values are separated by a comma.</p>
 
-<p>I will add the following data:</p>
+<h4>
+<a name="about-the-relevance-factor" class="anchor" href="#about-the-relevance-factor"><span class="octicon octicon-link"></span></a>About the relevance factor</h4>
 
-<ul>
-<li>the country capital city</li>
-<li>the country official language(s)</li>
-</ul><h1>Sources</h1>
+<p>To understand the usefulness of the relevance parameter, please read this: </p>
 
 <ul>
-<li>Wikipedia for country name, TLD, ISO codes and alternative spellings</li>
-<li>
-<a href="http://www.currency-iso.org/">http://www.currency-iso.org/</a> for currency codes</li>
-<li>Alternative spellings and relevance are inspired by <a href="https://github.com/JamieAppleseed/selectToAutocomplete">https://github.com/JamieAppleseed/selectToAutocomplete</a>
+<li><a href="http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/">http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/</a></li>
+<li><a href="http://baymard.com/labs/country-selector">http://baymard.com/labs/country-selector</a></li>
+</ul><h2>
+<a name="to-do" class="anchor" href="#to-do"><span class="octicon octicon-link"></span></a>To do</h2>
+
+<ul>
+<li>add the country official language(s)</li>
+<li>add the country native name (written in its native language)</li>
+<li>add the official name of the country in english and in its native language</li>
+<li>add more alternative spellings/names</li>
+<li>rename <code>alt-spellings</code> to <code>alt-names</code>
 </li>
-<li>Region and subregion are taken from <a href="https://github.com/hexorx/countries">https://github.com/hexorx/countries</a>.</li>
-</ul><h1>Credits</h1>
+<li>have only one data source (master file) from which we can generate other formats (see #12)</li>
+<li>add the type of the country (country, sovereign state, public body, territory, etc.)</li>
+<li>add the land borders</li>
+<li>add regions, provinces and cities</li>
+</ul><h2>
+<a name="sources" class="anchor" href="#sources"><span class="octicon octicon-link"></span></a>Sources</h2>
 
-<p>Thanks to <a href="https://github.com/Glazz" class="user-mention">@Glazz</a> for his help with country calling codes.</p>
+<p>Wikipedia for country name, TLD, ISO codes and alternative spellings</p>
 
-<p>Thanks to <a href="https://github.com/hexorx" class="user-mention">@hexorx</a> for his work.</p>
-        </article>
-      </div>
+<p><a href="http://www.currency-iso.org/">http://www.currency-iso.org/</a> for currency codes</p>
+
+<p>Alternative spellings and relevance are inspired by <a href="https://github.com/JamieAppleseed/selectToAutocomplete">https://github.com/JamieAppleseed/selectToAutocomplete</a></p>
+
+<p>Region and subregion are taken from <a href="https://github.com/hexorx/countries">https://github.com/hexorx/countries</a></p>
+
+<h2>
+<a name="credits" class="anchor" href="#credits"><span class="octicon octicon-link"></span></a>Credits</h2>
+
+<p>Thanks to:</p>
+
+<ul>
+<li>
+<a href="https://github.com/Glazz" class="user-mention">@Glazz</a> for his help with country calling codes.</li>
+<li>
+<a href="https://github.com/hexorx" class="user-mention">@hexorx</a> for his work (<a href="https://github.com/hexorx/countries">https://github.com/hexorx/countries</a>)</li>
+<li>
+<a href="https://github.com/frederik-jacques" class="user-mention">@frederik-jacques</a> for the capital cities</li>
+</ul><h2>
+<a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
+
+<p>This dataset is made available under the Open Database License:
+<a href="http://opendatacommons.org/licenses/odbl/1.0/">http://opendatacommons.org/licenses/odbl/1.0/</a></p>
+
+<p>Any rights in individual contents of the database are licensed under the Database Contents License:
+<a href="http://opendatacommons.org/licenses/dbcl/1.0/">http://opendatacommons.org/licenses/dbcl/1.0/</a></p>
+      </section>
     </div>
-    <footer>
-      <div class="owner">
-      <p><a href="https://github.com/mledoze" class="avatar"><img src="https://secure.gravatar.com/avatar/fba2c42b58d29b13975de17e2d176362?s=30&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="48" height="48"/></a> <a href="https://github.com/mledoze">mledoze</a> maintains <a href="https://github.com/mledoze/countries">Countries</a></p>
 
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Countries maintained by <a href="https://github.com/mledoze">mledoze</a></p>
+        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
 
-      </div>
-      <div class="creds">
-        <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br/>theme by <a href="http://twitter.com/jonrohan/">Jon Rohan</a></small>
-      </div>
-    </footer>
-  </div>
-  <div class="current-section">
-    <a href="#top">Scroll to top</a>
-    <a href="https://github.com/mledoze/countries/tarball/master" class="tar">tar</a><a href="https://github.com/mledoze/countries/zipball/master" class="zip">zip</a><a href="" class="code">source code</a>
-    <p class="name"></p>
-  </div>
+    
 
-  
-</body>
+  </body>
 </html>
