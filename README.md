@@ -48,6 +48,7 @@ Thanks to:
  - @Glazz for his help with country calling codes.
  - @hexorx for his work (https://github.com/hexorx/countries)
  - @frederik-jacques for the capital cities
+ - all the contributors: https://github.com/mledoze/countries/graphs/contributors
 
 ## License
 This dataset is made available under the Open Database License:
