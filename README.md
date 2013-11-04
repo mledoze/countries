@@ -29,6 +29,10 @@ To understand the usefulness of the relevance parameter, please read this:
  - add more alternative spellings/names
  - rename `alt-spellings` to `alt-names`
  - have only one data source (master file) from which we can generate other formats (see #12)
+ - add the type of the country (country, sovereign state, public body, territory, etc.)
+ - add the land borders
+ - add regions, provinces and cities
+
 
 ## Sources
 Wikipedia for country name, TLD, ISO codes and alternative spellings
