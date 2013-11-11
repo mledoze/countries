@@ -1,6 +1,6 @@
 name;tld;cca2;ccn3;cca3;currency;calling-code;capital;alt-spellings;relevance;region;subregion
 Afghanistan;.af;AF;4;AFG;AFN;93;Kabul;AF,Afġānistān;0;Asia;Southern Asia
-Åland Islands;.ax;AX;248;ALA;EUR;358;Mariehamn;AX,Aaland,Aland;0.5;Europe;Northern Europe
+Åland Islands;.ax;AX;248;ALA;EUR;358;Mariehamn;AX,Aaland,Aland;0;Europe;Northern Europe
 Albania;.al;AL;8;ALB;ALL;355;Tirana;AL,Shqipëri,Shqipëria,Shqipnia;0;Europe;Southern Europe
 Algeria;.dz;DZ;12;DZA;DZD;213;Algiers;DZ,al-Jazā'ir;0;Africa;Northern Africa
 American Samoa;.as;AS;16;ASM;USD;1684;Pago Pago;AS,Amerika Sāmoa;0.5;Oceania;Polynesia
@@ -73,7 +73,7 @@ Ethiopia;.et;ET;231;ETH;ETB;251;Addis Ababa;ET;0;Africa;Eastern Africa
 Falkland Islands (Malvinas);.fk;FK;238;FLK;FKP;500;Stanley;FK;0.5;Americas;South America
 Faroe Islands;.fo;FO;234;FRO;DKK;298;Tórshavn;FO,Føroyar,Færøerne;0.5;Europe;Northern Europe
 Fiji;.fj;FJ;242;FJI;FJD;679;Suva;FJ,Viti;0;Oceania;Melanesia
-Finland;.fi;FI;246;FIN;EUR;358;Helsinki;FI,Suomi;0;Europe;Northern Europe
+Finland;.fi;FI;246;FIN;EUR;358;Helsinki;FI,Suomi;0.5;Europe;Northern Europe
 France;.fr;FR;250;FRA;EUR;33;Paris;FR,République française;2.5;Europe;Western Europe
 French Guiana;.gf;GF;254;GUF;EUR;594;Cayenne;GF;0;Americas;South America
 French Polynesia;.pf;PF;258;PYF;XPF;689;Papeete;PF,Polynésie française;0;Oceania;Polynesia
