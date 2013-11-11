@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
   <country name="Afghanistan" tld=".af" cca2="AF" ccn3="4" cca3="AFG" currency="AFN" calling-code="93" capital="Kabul" alt-spellings="AF,Afġānistān" relevance="0" region="Asia" subregion="Southern Asia"/>
-  <country name="Åland Islands" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" calling-code="358" capital="Mariehamn" alt-spellings="AX,Aaland,Aland" relevance="0.5" region="Europe" subregion="Northern Europe"/>
+  <country name="Åland Islands" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" calling-code="358" capital="Mariehamn" alt-spellings="AX,Aaland,Aland" relevance="0" region="Europe" subregion="Northern Europe"/>
   <country name="Albania" tld=".al" cca2="AL" ccn3="8" cca3="ALB" currency="ALL" calling-code="355" capital="Tirana" alt-spellings="AL,Shqipëri,Shqipëria,Shqipnia" relevance="0" region="Europe" subregion="Southern Europe"/>
   <country name="Algeria" tld=".dz" cca2="DZ" ccn3="12" cca3="DZA" currency="DZD" calling-code="213" capital="Algiers" alt-spellings="DZ,al-Jazā'ir" relevance="0" region="Africa" subregion="Northern Africa"/>
   <country name="American Samoa" tld=".as" cca2="AS" ccn3="16" cca3="ASM" currency="USD" calling-code="1684" capital="Pago Pago" alt-spellings="AS,Amerika Sāmoa" relevance="0.5" region="Oceania" subregion="Polynesia"/>
@@ -74,7 +74,7 @@
   <country name="Falkland Islands (Malvinas)" tld=".fk" cca2="FK" ccn3="238" cca3="FLK" currency="FKP" calling-code="500" capital="Stanley" alt-spellings="FK" relevance="0.5" region="Americas" subregion="South America"/>
   <country name="Faroe Islands" tld=".fo" cca2="FO" ccn3="234" cca3="FRO" currency="DKK" calling-code="298" capital="Tórshavn" alt-spellings="FO,Føroyar,Færøerne" relevance="0.5" region="Europe" subregion="Northern Europe"/>
   <country name="Fiji" tld=".fj" cca2="FJ" ccn3="242" cca3="FJI" currency="FJD" calling-code="679" capital="Suva" alt-spellings="FJ,Viti" relevance="0" region="Oceania" subregion="Melanesia"/>
-  <country name="Finland" tld=".fi" cca2="FI" ccn3="246" cca3="FIN" currency="EUR" calling-code="358" capital="Helsinki" alt-spellings="FI,Suomi" relevance="0" region="Europe" subregion="Northern Europe"/>
+  <country name="Finland" tld=".fi" cca2="FI" ccn3="246" cca3="FIN" currency="EUR" calling-code="358" capital="Helsinki" alt-spellings="FI,Suomi" relevance="0.5" region="Europe" subregion="Northern Europe"/>
   <country name="France" tld=".fr" cca2="FR" ccn3="250" cca3="FRA" currency="EUR" calling-code="33" capital="Paris" alt-spellings="FR,République française" relevance="2.5" region="Europe" subregion="Western Europe"/>
   <country name="French Guiana" tld=".gf" cca2="GF" ccn3="254" cca3="GUF" currency="EUR" calling-code="594" capital="Cayenne" alt-spellings="GF" relevance="0" region="Americas" subregion="South America"/>
   <country name="French Polynesia" tld=".pf" cca2="PF" ccn3="258" cca3="PYF" currency="XPF" calling-code="689" capital="Papeete" alt-spellings="PF,Polynésie française" relevance="0" region="Oceania" subregion="Polynesia"/>
