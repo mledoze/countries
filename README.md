@@ -7,7 +7,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - code ISO 3166-1 alpha-2 (`cca2`)
  - code ISO 3166-1 numeric (`ccn3`)
  - code ISO 3166-1 alpha-3 (`cca3`)
- - currency code(s) (`currency`)
+ - ISO 4217 currency code(s) (`currency`)
  - calling code(s) (`calling-code`)
  - capital city (`capital`)
  - alternative spellings (`alt-spellings`)
