@@ -41,23 +41,92 @@
 
 <ul>
 <li>name</li>
+<li>native name in its native language (<code>native-name</code>)</li>
 <li>top-level domain (<code>tld</code>)</li>
 <li>code ISO 3166-1 alpha-2 (<code>cca2</code>)</li>
 <li>code ISO 3166-1 numeric (<code>ccn3</code>)</li>
 <li>code ISO 3166-1 alpha-3 (<code>cca3</code>)</li>
-<li>currency code(s) (<code>currency</code>)</li>
+<li>ISO 4217 currency code(s) (<code>currency</code>)</li>
 <li>calling code(s) (<code>calling-code</code>)</li>
 <li>capital city (<code>capital</code>)</li>
 <li>alternative spellings (<code>alt-spellings</code>)</li>
 <li>relevance</li>
 <li>region</li>
 <li>subregion</li>
+<li>language in English</li>
 </ul><p>Multiple values are separated by a comma.</p>
+
+<h2>
+<a name="examples" class="anchor" href="#examples"><span class="octicon octicon-link"></span></a>Examples</h2>
+
+<h5>
+<a name="json" class="anchor" href="#json"><span class="octicon octicon-link"></span></a>JSON</h5>
+
+<div class="highlight highlight-json"><pre><span class="p">{</span>
+    <span class="nt">"name"</span><span class="p">:</span><span class="s2">"Austria"</span><span class="p">,</span>
+    <span class="nt">"nativeName"</span><span class="p">:</span><span class="s2">"Österreich"</span><span class="p">,</span>
+    <span class="nt">"tld"</span><span class="p">:</span><span class="s2">".at"</span><span class="p">,</span>
+    <span class="nt">"cca2"</span><span class="p">:</span><span class="s2">"AT"</span><span class="p">,</span>
+    <span class="nt">"ccn3"</span><span class="p">:</span><span class="s2">"040"</span><span class="p">,</span>
+    <span class="nt">"cca3"</span><span class="p">:</span><span class="s2">"AUT"</span><span class="p">,</span>
+    <span class="nt">"currency"</span><span class="p">:</span><span class="s2">"EUR"</span><span class="p">,</span>
+    <span class="nt">"callingCode"</span><span class="p">:</span><span class="s2">"43"</span><span class="p">,</span>
+    <span class="nt">"capital"</span><span class="p">:</span><span class="s2">"Vienna"</span><span class="p">,</span>
+    <span class="nt">"altSpellings"</span><span class="p">:</span><span class="s2">"AT,Österreich,Osterreich,Oesterreich"</span><span class="p">,</span>
+    <span class="nt">"relevance"</span><span class="p">:</span><span class="s2">"0"</span><span class="p">,</span>
+    <span class="nt">"region"</span><span class="p">:</span><span class="s2">"Europe"</span><span class="p">,</span>
+    <span class="nt">"subregion"</span><span class="p">:</span><span class="s2">"Western Europe"</span><span class="p">,</span>
+    <span class="nt">"language"</span><span class="p">:</span><span class="s2">"German"</span>
+<span class="p">}</span>
+
+<span class="p">{</span>
+    <span class="nt">"name"</span><span class="p">:</span><span class="s2">"Nigeria"</span><span class="p">,</span>
+    <span class="nt">"nativeName"</span><span class="p">:</span><span class="s2">"Nigeria"</span><span class="p">,</span>
+    <span class="nt">"tld"</span><span class="p">:</span><span class="s2">".ng"</span><span class="p">,</span>
+    <span class="nt">"cca2"</span><span class="p">:</span><span class="s2">"NG"</span><span class="p">,</span>
+    <span class="nt">"ccn3"</span><span class="p">:</span><span class="s2">"566"</span><span class="p">,</span>
+    <span class="nt">"cca3"</span><span class="p">:</span><span class="s2">"NGA"</span><span class="p">,</span>
+    <span class="nt">"currency"</span><span class="p">:</span><span class="s2">"NGN"</span><span class="p">,</span>
+    <span class="nt">"callingCode"</span><span class="p">:</span><span class="s2">"234"</span><span class="p">,</span>
+    <span class="nt">"capital"</span><span class="p">:</span><span class="s2">"Abuja"</span><span class="p">,</span>
+    <span class="nt">"altSpellings"</span><span class="p">:</span><span class="s2">"NG,Nijeriya,Naíjíríà,Federal Republic of Nigeria"</span><span class="p">,</span>
+    <span class="nt">"relevance"</span><span class="p">:</span><span class="s2">"1.5"</span><span class="p">,</span>
+    <span class="nt">"region"</span><span class="p">:</span><span class="s2">"Africa"</span><span class="p">,</span>
+    <span class="nt">"subregion"</span><span class="p">:</span><span class="s2">"Western Africa"</span><span class="p">,</span>
+    <span class="nt">"language"</span><span class="p">:</span><span class="s2">"English"</span>
+<span class="p">}</span>
+</pre></div>
+
+<h5>
+<a name="csv" class="anchor" href="#csv"><span class="octicon octicon-link"></span></a>CSV</h5>
+
+<pre lang="csv"><code>name;native-name;tld;cca2;ccn3;cca3;currency;calling-code;capital;alt-spellings;relevance;region;subregion
+⋮
+United Arab Emirates;Dawlat al-ʾImārāt al-ʿArabiyyah al-Muttaḥidah;.ae;AE;784;ARE;AED;971;Abu Dhabi;AE,UAE;0;Asia;Western Asia;Arabic
+United Kingdom;United Kingdom;.uk;GB;826;GBR;GBP;44;London;GB,UK,Great Britain;2.5;Europe;Northern Europe;English
+United States;United States;.us;US;840;USA;USD,USN,USS;1;Washington D.C.;US,USA,United States of America;3.5;Americas;Northern America;English
+United States Minor Outlying Islands;United States Minor Outlying Islands;.us;UM;581;UMI;USD;;;UM;0;Americas;Northern America;English
+United States Virgin Islands;United States Virgin Islands;.vi;VI;850;VIR;USD;1340;Charlotte Amalie;VI;0.5;Americas;Caribbean;English
+⋮
+</code></pre>
+
+<h5>
+<a name="xml" class="anchor" href="#xml"><span class="octicon octicon-link"></span></a>XML</h5>
+
+<div class="highlight highlight-xml"><pre><span class="cp">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span>
+<span class="nt">&lt;countries&gt;</span>
+  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Afghanistan"</span> <span class="na">native-name=</span><span class="s">"Afġānistān"</span> <span class="na">tld=</span><span class="s">".af"</span> <span class="na">cca2=</span><span class="s">"AF"</span> <span class="na">ccn3=</span><span class="s">"004"</span> <span class="na">cca3=</span><span class="s">"AFG"</span> <span class="na">currency=</span><span class="s">"AFN"</span> <span class="na">calling-code=</span><span class="s">"93"</span> <span class="na">capital=</span><span class="s">"Kabul"</span> <span class="na">alt-spellings=</span><span class="s">"AF,Afġānistān"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Asia"</span> <span class="na">subregion=</span><span class="s">"Southern Asia"</span> <span class="na">language=</span><span class="s">"Pashto,Dari"</span><span class="nt">/&gt;</span>
+  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Åland Islands"</span> <span class="na">native-name=</span><span class="s">"Åland"</span> <span class="na">tld=</span><span class="s">".ax"</span> <span class="na">cca2=</span><span class="s">"AX"</span> <span class="na">ccn3=</span><span class="s">"248"</span> <span class="na">cca3=</span><span class="s">"ALA"</span> <span class="na">currency=</span><span class="s">"EUR"</span> <span class="na">calling-code=</span><span class="s">"358"</span> <span class="na">capital=</span><span class="s">"Mariehamn"</span> <span class="na">alt-spellings=</span><span class="s">"AX,Aaland,Aland,Ahvenanmaa"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Europe"</span> <span class="na">subregion=</span><span class="s">"Northern Europe"</span> <span class="na">language=</span><span class="s">"Swedish"</span><span class="nt">/&gt;</span>
+  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Albania"</span> <span class="na">native-name=</span><span class="s">"Shqipëria"</span> <span class="na">tld=</span><span class="s">".al"</span> <span class="na">cca2=</span><span class="s">"AL"</span> <span class="na">ccn3=</span><span class="s">"008"</span> <span class="na">cca3=</span><span class="s">"ALB"</span> <span class="na">currency=</span><span class="s">"ALL"</span> <span class="na">calling-code=</span><span class="s">"355"</span> <span class="na">capital=</span><span class="s">"Tirana"</span> <span class="na">alt-spellings=</span><span class="s">"AL,Shqipëri,Shqipëria,Shqipnia"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Europe"</span> <span class="na">subregion=</span><span class="s">"Southern Europe"</span> <span class="na">language=</span><span class="s">"Albanian"</span><span class="nt">/&gt;</span>
+  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Algeria"</span> <span class="na">native-name=</span><span class="s">"al-Jazāʼir"</span> <span class="na">tld=</span><span class="s">".dz"</span> <span class="na">cca2=</span><span class="s">"DZ"</span> <span class="na">ccn3=</span><span class="s">"012"</span> <span class="na">cca3=</span><span class="s">"DZA"</span> <span class="na">currency=</span><span class="s">"DZD"</span> <span class="na">calling-code=</span><span class="s">"213"</span> <span class="na">capital=</span><span class="s">"Algiers"</span> <span class="na">alt-spellings=</span><span class="s">"DZ,Dzayer,Algérie"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Africa"</span> <span class="na">subregion=</span><span class="s">"Northern Africa"</span> <span class="na">language=</span><span class="s">"Arabic"</span><span class="nt">/&gt;</span>
+⋮
+<span class="nt">&lt;countries&gt;</span>
+</pre></div>
 
 <h4>
 <a name="about-the-relevance-factor" class="anchor" href="#about-the-relevance-factor"><span class="octicon octicon-link"></span></a>About the relevance factor</h4>
 
-<p>To understand the usefulness of the relevance parameter, please read this: </p>
+<p>To understand the usefulness of the relevance parameter, please read this:</p>
 
 <ul>
 <li><a href="http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/">http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/</a></li>
@@ -66,10 +135,7 @@
 <a name="to-do" class="anchor" href="#to-do"><span class="octicon octicon-link"></span></a>To do</h2>
 
 <ul>
-<li>add the country official language(s)</li>
-<li>add the country native name (written in its native language)</li>
 <li>add the official name of the country in english and in its native language</li>
-<li>add more alternative spellings/names</li>
 <li>rename <code>alt-spellings</code> to <code>alt-names</code>
 </li>
 <li>have only one data source (master file) from which we can generate other formats (see #12)</li>
@@ -99,6 +165,8 @@
 <a href="https://github.com/hexorx" class="user-mention">@hexorx</a> for his work (<a href="https://github.com/hexorx/countries">https://github.com/hexorx/countries</a>)</li>
 <li>
 <a href="https://github.com/frederik-jacques" class="user-mention">@frederik-jacques</a> for the capital cities</li>
+<li>all the contributors: <a href="https://github.com/mledoze/countries/graphs/contributors">https://github.com/mledoze/countries/graphs/contributors</a>
+</li>
 </ul><h2>
 <a name="license" class="anchor" href="#license"><span class="octicon octicon-link"></span></a>License</h2>
 
