@@ -3,6 +3,7 @@
 This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:
 
  - name
+ - native name in its native language (`native-name`)
  - top-level domain (`tld`)
  - code ISO 3166-1 alpha-2 (`cca2`)
  - code ISO 3166-1 numeric (`ccn3`)
@@ -14,80 +15,82 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - relevance
  - region
  - subregion
+ - language in English
 
 Multiple values are separated by a comma.
-
-#### About the relevance factor
-To understand the usefulness of the relevance parameter, please read this: 
-- http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/
-- http://baymard.com/labs/country-selector
 
 ##Examples
 #####JSON
 ```json
 {
     "name":"Austria",
+    "nativeName":"Österreich",
     "tld":".at",
     "cca2":"AT",
-    "ccn3":40,
+    "ccn3":"040",
     "cca3":"AUT",
     "currency":"EUR",
-    "calling-code":"43",
+    "callingCode":"43",
     "capital":"Vienna",
-    "alt-spellings":"AT,Österreich,Osterreich,Oesterreich",
-    "relevance":0,
+    "altSpellings":"AT,Österreich,Osterreich,Oesterreich",
+    "relevance":"0",
     "region":"Europe",
-    "subregion":"Western Europe"
+    "subregion":"Western Europe",
+    "language":"German"
 }
 
 {
     "name":"Nigeria",
+    "nativeName":"Nigeria",
     "tld":".ng",
     "cca2":"NG",
-    "ccn3":566,
+    "ccn3":"566",
     "cca3":"NGA",
     "currency":"NGN",
-    "calling-code":"234",
+    "callingCode":"234",
     "capital":"Abuja",
-    "alt-spellings":"NG,Nijeriya,Naíjíríà",
-    "relevance":1.5,
+    "altSpellings":"NG,Nijeriya,Naíjíríà,Federal Republic of Nigeria",
+    "relevance":"1.5",
     "region":"Africa",
-    "subregion":"Western Africa"
+    "subregion":"Western Africa",
+    "language":"English"
 }
 ```
 #####CSV
 ```csv
-name;tld;cca2;ccn3;cca3;currency;calling-code;capital;alt-spellings;relevance;region;subregion
+name;native-name;tld;cca2;ccn3;cca3;currency;calling-code;capital;alt-spellings;relevance;region;subregion
 ⋮
-United Arab Emirates;.ae;AE;784;ARE;AED;971;Abu Dhabi;AE,UAE;0;Asia;Western Asia
-United Kingdom;.uk;GB;826;GBR;GBP;44;London;GB,Great Britain,England,UK,Wales,Scotland,Northern Ireland;2.5;Europe;Northern Europe
-United States;.us;US;840;USA;USD,USN,USS;1;Washington D.C.;US,USA,United States of America;3.5;Americas;Northern America
-United States Minor Outlying Islands;.us;UM;581;UMI;USD;;;UM;0;Americas;Northern America
+United Arab Emirates;Dawlat al-ʾImārāt al-ʿArabiyyah al-Muttaḥidah;.ae;AE;784;ARE;AED;971;Abu Dhabi;AE,UAE;0;Asia;Western Asia;Arabic
+United Kingdom;United Kingdom;.uk;GB;826;GBR;GBP;44;London;GB,UK,Great Britain;2.5;Europe;Northern Europe;English
+United States;United States;.us;US;840;USA;USD,USN,USS;1;Washington D.C.;US,USA,United States of America;3.5;Americas;Northern America;English
+United States Minor Outlying Islands;United States Minor Outlying Islands;.us;UM;581;UMI;USD;;;UM;0;Americas;Northern America;English
+United States Virgin Islands;United States Virgin Islands;.vi;VI;850;VIR;USD;1340;Charlotte Amalie;VI;0.5;Americas;Caribbean;English
 ⋮
 ```
 #####XML
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
-  <country name="Afghanistan" tld=".af" cca2="AF" ccn3="4" cca3="AFG" currency="AFN" calling-code="93" capital="Kabul" alt-spellings="AF,Afġānistān" relevance="0" region="Asia" subregion="Southern Asia"/>
-  <country name="Åland Islands" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" calling-code="358" capital="Mariehamn" alt-spellings="AX,Aaland,Aland" relevance="0.5" region="Europe" subregion="Northern Europe"/>
-  <country name="Albania" tld=".al" cca2="AL" ccn3="8" cca3="ALB" currency="ALL" calling-code="355" capital="Tirana" alt-spellings="AL,Shqipëri,Shqipëria,Shqipnia" relevance="0" region="Europe" subregion="Southern Europe"/>
-  <country name="Algeria" tld=".dz" cca2="DZ" ccn3="12" cca3="DZA" currency="DZD" calling-code="213" capital="Algiers" alt-spellings="DZ,al-Jazā'ir" relevance="0" region="Africa" subregion="Northern Africa"/>
+  <country name="Afghanistan" native-name="Afġānistān" tld=".af" cca2="AF" ccn3="004" cca3="AFG" currency="AFN" calling-code="93" capital="Kabul" alt-spellings="AF,Afġānistān" relevance="0" region="Asia" subregion="Southern Asia" language="Pashto,Dari"/>
+  <country name="Åland Islands" native-name="Åland" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" calling-code="358" capital="Mariehamn" alt-spellings="AX,Aaland,Aland,Ahvenanmaa" relevance="0" region="Europe" subregion="Northern Europe" language="Swedish"/>
+  <country name="Albania" native-name="Shqipëria" tld=".al" cca2="AL" ccn3="008" cca3="ALB" currency="ALL" calling-code="355" capital="Tirana" alt-spellings="AL,Shqipëri,Shqipëria,Shqipnia" relevance="0" region="Europe" subregion="Southern Europe" language="Albanian"/>
+  <country name="Algeria" native-name="al-Jazāʼir" tld=".dz" cca2="DZ" ccn3="012" cca3="DZA" currency="DZD" calling-code="213" capital="Algiers" alt-spellings="DZ,Dzayer,Algérie" relevance="0" region="Africa" subregion="Northern Africa" language="Arabic"/>
 ⋮
 <countries>
 ```
 
+#### About the relevance factor
+To understand the usefulness of the relevance parameter, please read this:
+- http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/
+- http://baymard.com/labs/country-selector
+
 ## To do
- - add the country official language(s)
- - add the country native name (written in its native language)
  - add the official name of the country in english and in its native language
- - add more alternative spellings/names
  - rename `alt-spellings` to `alt-names`
  - have only one data source (master file) from which we can generate other formats (see #12)
  - add the type of the country (country, sovereign state, public body, territory, etc.)
  - add the land borders
  - add regions, provinces and cities
-
 
 ## Sources
 Wikipedia for country name, TLD, ISO codes and alternative spellings
