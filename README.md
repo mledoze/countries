@@ -17,8 +17,8 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - subregion
  - language in English
  - population
-
-Multiple values are separated by a comma.
+ - latitude and longitude (`latlng`)
+ - name of residents (`demonym`)
 
 ##Examples
 #####JSON
@@ -43,7 +43,12 @@ Multiple values are separated by a comma.
 	"region": "Europe",
 	"subregion": "Western Europe",
 	"language": "German",
-	"population": 8501502
+	"population": 8501502,
+	"latlng": [
+		47.33333333,
+		13.33333333
+	],
+	"demonym": "Austrian"
 }
 
 {
@@ -66,7 +71,12 @@ Multiple values are separated by a comma.
 	"region": "Africa",
 	"subregion": "Western Africa",
 	"language": "English",
-	"population": 173615000
+	"population": 173615000,
+	"latlng": [
+		10,
+		8
+	],
+	"demonym": "Nigerian"
 }
 ```
 #####CSV
@@ -106,20 +116,20 @@ To understand the usefulness of the relevance parameter, please read this:
  - add regions, provinces and cities
 
 ## Sources
-Wikipedia for country name, native name, TLD, ISO codes, alternative spellings and official language(s)
+http://www.currency-iso.org/ for currency codes.
 
-http://www.currency-iso.org/ for currency codes
+Relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete.
 
-Alternative spellings and relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete
+Region and subregion are taken from https://github.com/hexorx/countries.
 
-Region and subregion are taken from https://github.com/hexorx/countries
+The rest comes from Wikipedia.
 
 ## Credits
 Thanks to:
  - @Glazz for his help with country calling codes.
  - @hexorx for his work (https://github.com/hexorx/countries)
  - @frederik-jacques for the capital cities
- - @fayer for the population data
+ - @fayer for the population, geolocation and demonym data
  - all the contributors: https://github.com/mledoze/countries/graphs/contributors
 
 ## License
