@@ -16,6 +16,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - region
  - subregion
  - language in English
+ - population
 
 Multiple values are separated by a comma.
 
@@ -23,42 +24,54 @@ Multiple values are separated by a comma.
 #####JSON
 ```json
 {
-    "name":"Austria",
-    "nativeName":"Österreich",
-    "tld":".at",
-    "cca2":"AT",
-    "ccn3":"040",
-    "cca3":"AUT",
-    "currency":"EUR",
-    "callingCode":"43",
-    "capital":"Vienna",
-    "altSpellings":"AT,Österreich,Osterreich,Oesterreich",
-    "relevance":"0",
-    "region":"Europe",
-    "subregion":"Western Europe",
-    "language":"German"
+	"name": "Austria",
+	"nativeName": "Österreich",
+	"tld": ".at",
+	"cca2": "AT",
+	"ccn3": "040",
+	"cca3": "AUT",
+	"currency": "EUR",
+	"callingCode": "43",
+	"capital": "Vienna",
+	"altSpellings": [
+		"AT",
+		"Österreich",
+		"Osterreich",
+		"Oesterreich"
+	],
+	"relevance": "0",
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"language": "German",
+	"population": 8501502
 }
 
 {
-    "name":"Nigeria",
-    "nativeName":"Nigeria",
-    "tld":".ng",
-    "cca2":"NG",
-    "ccn3":"566",
-    "cca3":"NGA",
-    "currency":"NGN",
-    "callingCode":"234",
-    "capital":"Abuja",
-    "altSpellings":"NG,Nijeriya,Naíjíríà,Federal Republic of Nigeria",
-    "relevance":"1.5",
-    "region":"Africa",
-    "subregion":"Western Africa",
-    "language":"English"
+	"name": "Nigeria",
+	"nativeName": "Nigeria",
+	"tld": ".ng",
+	"cca2": "NG",
+	"ccn3": "566",
+	"cca3": "NGA",
+	"currency": "NGN",
+	"callingCode": "234",
+	"capital": "Abuja",
+	"altSpellings": [
+		"NG",
+		"Nijeriya",
+		"Naíjíríà",
+		"Federal Republic of Nigeria"
+	],
+	"relevance": "1.5",
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"language": "English",
+	"population": 173615000
 }
 ```
 #####CSV
 ```csv
-name;native-name;tld;cca2;ccn3;cca3;currency;calling-code;capital;alt-spellings;relevance;region;subregion
+name;native-name;tld;cca2;ccn3;cca3;currency;calling-code;capital;alt-spellings;relevance;region;subregion;language
 ⋮
 United Arab Emirates;Dawlat al-ʾImārāt al-ʿArabiyyah al-Muttaḥidah;.ae;AE;784;ARE;AED;971;Abu Dhabi;AE,UAE;0;Asia;Western Asia;Arabic
 United Kingdom;United Kingdom;.uk;GB;826;GBR;GBP;44;London;GB,UK,Great Britain;2.5;Europe;Northern Europe;English
@@ -93,7 +106,7 @@ To understand the usefulness of the relevance parameter, please read this:
  - add regions, provinces and cities
 
 ## Sources
-Wikipedia for country name, TLD, ISO codes and alternative spellings
+Wikipedia for country name, native name, TLD, ISO codes, alternative spellings and official language(s)
 
 http://www.currency-iso.org/ for currency codes
 
@@ -106,6 +119,7 @@ Thanks to:
  - @Glazz for his help with country calling codes.
  - @hexorx for his work (https://github.com/hexorx/countries)
  - @frederik-jacques for the capital cities
+ - @fayer for the population data
  - all the contributors: https://github.com/mledoze/countries/graphs/contributors
 
 ## License
