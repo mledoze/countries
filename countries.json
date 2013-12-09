@@ -1284,7 +1284,8 @@
         },
         "population": 4616000,
         "latlng": [7, 21],
-        "demonym": "Central African"
+        "demonym": "Central African",
+	"borders":["CMR","TCD","COD","GNQ","GAB","NGA"]
     },
     {
         "name": "Chad",
