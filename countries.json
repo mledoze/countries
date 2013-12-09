@@ -1393,7 +1393,8 @@
         "translations": [],
         "population": 2072,
         "latlng": [-10.5, 105.66666666],
-        "demonym": "Christmas Island"
+        "demonym": "Christmas Island",
+	"borders":[]
     },
     {
         "name": "Cocos (Keeling) Islands",
