@@ -619,7 +619,7 @@
         "population": 9465500,
         "latlng": [53, 28],
         "demonym": "Belarusian",
-	"borders": ["LVA","LTU","POL","RUS",UKR"]
+	"borders": ["LVA","LTU","POL","RUS","UKR"]
     },
     {
         "name": "Belgium",
@@ -799,7 +799,7 @@
         "population": 10027254,
         "latlng": [-17, -65],
         "demonym": "Bolivian",
-	"borders": ["ARG","BRA","CHL","PRY",PRU"]
+	"borders": ["ARG","BRA","CHL","PRY","PRU"]
     },
     {
         "name": "Bonaire",
