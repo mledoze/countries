@@ -984,7 +984,7 @@
         "region": "Asia",
         "subregion": "South-Eastern Asia",
         "language": ["Malay"],
-        "languagesCodes": [],
+        "languagesCodes": ["ms"],
         "translations": [],
         "population": 393162,
         "latlng": [4.5, 114.66666666],
