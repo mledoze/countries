@@ -6929,7 +6929,7 @@
         "region": "Asia",
         "subregion": "South-Eastern Asia",
         "language": ["Vietnamese"],
-        "languagesCodes": [],
+        "languagesCodes": ["vi"],
         "translations": [],
         "population": 90388000,
         "latlng": [16.16666666, 107.83333333],
