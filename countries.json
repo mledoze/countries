@@ -5693,7 +5693,7 @@
         "region": "Asia",
         "subregion": "South-Eastern Asia",
         "language": ["English", "Malay", "Mandarin", "Tamil"],
-        "languagesCodes": [],
+        "languagesCodes": ["en","ms","ta","zh"],
         "translations": [],
         "population": 5399200,
         "latlng": [1.36666666, 103.8],
