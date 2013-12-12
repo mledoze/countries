@@ -26,7 +26,8 @@
         },
         "population": 25500100,
         "latlng": [33, 65],
-        "demonym": "Afghan"
+        "demonym": "Afghan",
+	"borders":["IRN","PAK","TKM","UZB","TJK","CHN"]
     },
     {
         "name": "\u00c5land Islands",
@@ -55,7 +56,8 @@
         },
         "population": 28502,
         "latlng": [60.116667, 19.9],
-        "demonym": "\u00c5landish"
+        "demonym": "\u00c5landish",
+	"borders":[]
     },
     {
         "name": "Albania",
@@ -84,7 +86,8 @@
         },
         "population": 2821977,
         "latlng": [41, 20],
-        "demonym": "Albanian"
+        "demonym": "Albanian",
+        "borders":["MNE","GRC","MKD","KOS"]
     },
     {
         "name": "Algeria",
@@ -113,7 +116,8 @@
         },
         "population": 37900000,
         "latlng": [28, 3],
-        "demonym": "Algerian"
+        "demonym": "Algerian",
+        "borders":["TUN","LDY","NER","ESH","MRT","MLI","MAR"]
     },
     {
         "name": "American Samoa",
@@ -142,7 +146,8 @@
         },
         "population": 55519,
         "latlng": [-14.33333333, -170],
-        "demonym": "American Samoan"
+        "demonym": "American Samoan",
+	"borders": []
     },
     {
         "name": "Andorra",
@@ -171,7 +176,8 @@
         },
         "population": 76246,
         "latlng": [42.5, 1.5],
-        "demonym": "Andorran"
+        "demonym": "Andorran",
+	"borders":["FRA","ESP"]
     },
     {
         "name": "Angola",
@@ -200,7 +206,8 @@
         },
         "population": 20609294,
         "latlng": [-12.5, 18.5],
-        "demonym": "Angolan"
+        "demonym": "Angolan",
+	"borders":["COG","COD","ZMB","NAM"]
     },
     {
         "name": "Anguilla",
@@ -229,7 +236,8 @@
         },
         "population": 13452,
         "latlng": [18.25, -63.16666666],
-        "demonym": "Anguillian"
+        "demonym": "Anguillian",
+ 	"borders":[]
     },
     {
         "name": "Antarctica",
@@ -258,7 +266,8 @@
         },
         "population": -1,
         "latlng": [-90, 0],
-        "demonym": ""
+        "demonym": "",
+	"borders":[]
     },
     {
         "name": "Antigua and Barbuda",
@@ -287,7 +296,8 @@
         },
         "population": 86295,
         "latlng": [17.05, -61.8],
-        "demonym": "Antiguan, Barbudan"
+        "demonym": "Antiguan, Barbudan",
+	"borders":[]
     },
     {
         "name": "Argentina",
@@ -316,7 +326,8 @@
         },
         "population": 40117096,
         "latlng": [-34, -64],
-        "demonym": "Argentinean"
+        "demonym": "Argentinean",
+	"borders":["BOL","BRA","CHL","PRY","URY"]
     },
     {
         "name": "Armenia",
@@ -345,7 +356,8 @@
         },
         "population": 3024100,
         "latlng": [40, 45],
-        "demonym": "Armenian"
+        "demonym": "Armenian",
+	"borders":["AZE","GEO","IRN","TUR"]
     },
     {
         "name": "Aruba",
@@ -374,7 +386,8 @@
         },
         "population": 101484,
         "latlng": [12.5, -69.96666666],
-        "demonym": "Aruban"
+        "demonym": "Aruban",
+	"borders":[]
     },
     {
         "name": "Australia",
@@ -395,7 +408,8 @@
         "translations": [],
         "population": 23254142,
         "latlng": [-27, 133],
-        "demonym": "Australian"
+        "demonym": "Australian",
+	"borders": []
     },
     {
         "name": "Austria",
@@ -424,7 +438,8 @@
         },
         "population": 8501502,
         "latlng": [47.33333333, 13.33333333],
-        "demonym": "Austrian"
+        "demonym": "Austrian",
+	"borders":["CZE","DEU","HUN","ITA","LIE","SVK","SVN","CHE"]
     },
     {
         "name": "Azerbaijan",
@@ -453,7 +468,8 @@
         },
         "population": 9235100,
         "latlng": [40.5, 47.5],
-        "demonym": "Azerbaijani"
+        "demonym": "Azerbaijani",
+	"borders": ["ARM","GEO","IRN","RUS","TUR"]
     },
     {
         "name": "Bahamas",
@@ -482,7 +498,8 @@
         },
         "population": -1,
         "latlng": [24.25, -76],
-        "demonym": "Bahamian"
+        "demonym": "Bahamian",
+	"borders": [] 
     },
     {
         "name": "Bahrain",
@@ -511,7 +528,8 @@
         },
         "population": 1234571,
         "latlng": [26, 50.55],
-        "demonym": "Bahraini"
+        "demonym": "Bahraini",
+	"borders": []
     },
     {
         "name": "Bangladesh",
@@ -540,7 +558,8 @@
         },
         "population": 152518015,
         "latlng": [24, 90],
-        "demonym": "Bangladeshi"
+        "demonym": "Bangladeshi",
+	"borders": ["MMR","IND"]
     },
     {
         "name": "Barbados",
@@ -569,7 +588,8 @@
         },
         "population": 274200,
         "latlng": [13.16666666, -59.53333333],
-        "demonym": "Barbadian"
+        "demonym": "Barbadian",
+	"borders":[]
     },
     {
         "name": "Belarus",
@@ -598,7 +618,8 @@
         },
         "population": 9465500,
         "latlng": [53, 28],
-        "demonym": "Belarusian"
+        "demonym": "Belarusian",
+	"borders": ["LVA","LTU","POL","RUS","UKR"]
     },
     {
         "name": "Belgium",
@@ -627,7 +648,8 @@
         },
         "population": 11175653,
         "latlng": [50.83333333, 4],
-        "demonym": "Belgian"
+        "demonym": "Belgian",
+	"borders": ["FRA","DEU","LUX","NLD"]
     },
     {
         "name": "Belize",
@@ -656,7 +678,8 @@
         },
         "population": 312971,
         "latlng": [17.25, -88.75],
-        "demonym": "Belizean"
+        "demonym": "Belizean",
+	"borders": ["GTM","MEX"]
     },
     {
         "name": "Benin",
@@ -685,7 +708,8 @@
         },
         "population": 10323000,
         "latlng": [9.5, 2.25],
-        "demonym": "Beninese"
+        "demonym": "Beninese",
+	"borders": ["BFA","NER","NGA","TGO"]
     },
     {
         "name": "Bermuda",
@@ -714,7 +738,8 @@
         },
         "population": 64237,
         "latlng": [32.33333333, -64.75],
-        "demonym": "Bermudian"
+        "demonym": "Bermudian",
+	"borders": []
     },
     {
         "name": "Bhutan",
@@ -743,7 +768,8 @@
         },
         "population": 740990,
         "latlng": [27.5, 90.5],
-        "demonym": "Bhutanese"
+        "demonym": "Bhutanese",
+	"borders": ["CHN","IND"]
     },
     {
         "name": "Bolivia",
@@ -772,7 +798,8 @@
         },
         "population": 10027254,
         "latlng": [-17, -65],
-        "demonym": "Bolivian"
+        "demonym": "Bolivian",
+	"borders": ["ARG","BRA","CHL","PRY","PRU"]
     },
     {
         "name": "Bonaire",
@@ -793,7 +820,8 @@
         "translations": [],
         "population": -1,
         "latlng": [12.15, -68.266667],
-        "demonym": "Dutch"
+        "demonym": "Dutch",
+	"borders": []
     },
     {
         "name": "Bosnia and Herzegovina",
@@ -822,7 +850,8 @@
         },
         "population": 3791622,
         "latlng": [44, 18],
-        "demonym": "Bosnian, Herzegovinian"
+        "demonym": "Bosnian, Herzegovinian",
+	"borders": ["HRV","MNE","SRB"]
     },
     {
         "name": "Botswana",
@@ -851,7 +880,8 @@
         },
         "population": 2024904,
         "latlng": [-22, 24],
-        "demonym": "Motswana"
+        "demonym": "Motswana",
+	"borders": ["NAM","ZAF","ZMB","ZWE"]
     },
     {
         "name": "Bouvet Island",
@@ -880,7 +910,8 @@
         },
         "population": -1,
         "latlng": [-54.43333333, 3.4],
-        "demonym": ""
+        "demonym": "",
+	"borders": []
     },
     {
         "name": "Brazil",
@@ -909,7 +940,8 @@
         },
         "population": 201032714,
         "latlng": [-10, -55],
-        "demonym": "Brazilian"
+        "demonym": "Brazilian",
+	"borders": ["ARG","BOL","COL","GUF","GUY","PRY","PER","SUR","URY","VEN"]
     },
     {
         "name": "British Indian Ocean Territory",
@@ -938,7 +970,8 @@
         },
         "population": -1,
         "latlng": [-6, 71.5],
-        "demonym": "Indian"
+        "demonym": "Indian",
+	"borders": []
     },
     {
         "name": "British Virgin Islands",
@@ -967,7 +1000,8 @@
         },
         "population": 29537,
         "latlng": [18.431383, -64.62305],
-        "demonym": "Virgin Islander"
+        "demonym": "Virgin Islander",
+	"borders":[]
     },
     {
         "name": "Brunei",
@@ -988,7 +1022,8 @@
         "translations": [],
         "population": 393162,
         "latlng": [4.5, 114.66666666],
-        "demonym": "Bruneian"
+        "demonym": "Bruneian",
+	"borders":["MYS"]
     },
     {
         "name": "Bulgaria",
@@ -1017,7 +1052,8 @@
         },
         "population": 7282041,
         "latlng": [43, 25],
-        "demonym": "Bulgarian"
+        "demonym": "Bulgarian",
+	"borders": ["GRC","MKD","ROU","SRB","TUR"]
     },
     {
         "name": "Burkina Faso",
@@ -1046,7 +1082,8 @@
         },
         "population": 17322796,
         "latlng": [13, -2],
-        "demonym": "Burkinabe"
+        "demonym": "Burkinabe",
+	"borders": ["BEN","CIV","GHA","MLI","NER","TGO"]
     },
     {
         "name": "Burundi",
@@ -1075,7 +1112,8 @@
         },
         "population": 10163000,
         "latlng": [-3.5, 30],
-        "demonym": "Burundian"
+        "demonym": "Burundian",
+	"borders": ["COD","RWA","TZA"]
     },
     {
         "name": "Cambodia",
@@ -1096,7 +1134,8 @@
         "translations": [],
         "population": 15135000,
         "latlng": [13, 105],
-        "demonym": "Cambodian"
+        "demonym": "Cambodian",
+	"borders": ["LAO","THA","VNM"]
     },
     {
         "name": "Cameroon",
@@ -1125,7 +1164,8 @@
         },
         "population": 20386799,
         "latlng": [6, 12],
-        "demonym": "Cameroonian"
+        "demonym": "Cameroonian",
+	"borders": ["CAF","TCD","COG","GNQ","GAB","NGA"]
     },
     {
         "name": "Canada",
@@ -1154,7 +1194,8 @@
         },
         "population": 35158304,
         "latlng": [60, -95],
-        "demonym": "Canadian"
+        "demonym": "Canadian",
+	"borders":["USA"]
     },
     {
         "name": "Cape Verde",
@@ -1183,7 +1224,8 @@
         },
         "population": 491875,
         "latlng": [16, -24],
-        "demonym": "Cape Verdian"
+        "demonym": "Cape Verdian",
+	"borders": []
     },
     {
         "name": "Cayman Islands",
@@ -1212,7 +1254,8 @@
         },
         "population": 55456,
         "latlng": [19.5, -80.5],
-        "demonym": "Caymanian"
+        "demonym": "Caymanian",
+	"borders": []
     },
     {
         "name": "Central African Republic",
@@ -1241,7 +1284,8 @@
         },
         "population": 4616000,
         "latlng": [7, 21],
-        "demonym": "Central African"
+        "demonym": "Central African",
+	"borders":["CMR","TCD","COD","COG","SSD","SDN"]
     },
     {
         "name": "Chad",
@@ -1270,7 +1314,8 @@
         },
         "population": 12825000,
         "latlng": [15, 19],
-        "demonym": "Chadian"
+        "demonym": "Chadian",
+	"borders": ["CMR","CAF","LBY","NER","NGA","SSD"]
     },
     {
         "name": "Chile",
@@ -1299,7 +1344,8 @@
         },
         "population": 16634603,
         "latlng": [-30, -71],
-        "demonym": "Chilean"
+        "demonym": "Chilean",
+	"borders": ["ARG","BOL","PER"]
     },
     {
         "name": "China",
@@ -1328,7 +1374,8 @@
         },
         "population": 1361170000,
         "latlng": [35, 105],
-        "demonym": "Chinese"
+        "demonym": "Chinese",
+	"borders": ["AFG","BTN","MMR","HKG","IND","KAZ","PRK","KGZ","LAO","MAC","MNG","PAK","RUS","TJK","VNM"]
     },
     {
         "name": "Christmas Island",
@@ -1349,7 +1396,8 @@
         "translations": [],
         "population": 2072,
         "latlng": [-10.5, 105.66666666],
-        "demonym": "Christmas Island"
+        "demonym": "Christmas Island",
+	"borders":[]
     },
     {
         "name": "Cocos (Keeling) Islands",
@@ -1370,7 +1418,8 @@
         "translations": [],
         "population": 550,
         "latlng": [-12.5, 96.83333333],
-        "demonym": "Cocos Islander"
+        "demonym": "Cocos Islander",
+	"borders": []
     },
     {
         "name": "Colombia",
@@ -1399,7 +1448,8 @@
         },
         "population": 47330000,
         "latlng": [4, -72],
-        "demonym": "Colombian"
+        "demonym": "Colombian",
+	"borders": ["BRA","ECU","PAN","PER","VEN"]
     },
     {
         "name": "Comoros",
@@ -1428,7 +1478,8 @@
         },
         "population": 724300,
         "latlng": [-12.16666666, 44.25],
-        "demonym": "Comoran"
+        "demonym": "Comoran",
+	"borders": []
     },
     {
         "name": "Republic of the Congo",
@@ -1457,7 +1508,8 @@
         },
         "population": 4448000,
         "latlng": [-1, 15],
-        "demonym": "Congolese"
+        "demonym": "Congolese",
+	"borders": ["AGO","CMR","CAF","COD","GAB"]
     },
     {
         "name": "Democratic Republic of the Congo",
@@ -1486,7 +1538,8 @@
         },
         "population": 67514000,
         "latlng": [0, 25],
-        "demonym": "Congolese"
+        "demonym": "Congolese",
+	"borders": ["AGO","BDI","CAF","COG","RWA","SSD","TZA","UGA","ZMB"]
     },
     {
         "name": "Cook Islands",
@@ -1515,7 +1568,8 @@
         },
         "population": 14974,
         "latlng": [-21.23333333, -159.76666666],
-        "demonym": "Cook Islander"
+        "demonym": "Cook Islander",
+	"borders": []
     },
     {
         "name": "Costa Rica",
@@ -1544,7 +1598,8 @@
         },
         "population": 4667096,
         "latlng": [10, -84],
-        "demonym": "Costa Rican"
+        "demonym": "Costa Rican",
+	"borders": ["NIC","PAN"]
     },
     {
         "name": "C\u00f4te d'Ivoire",
@@ -1573,7 +1628,8 @@
         },
         "population": -1,
         "latlng": [8, -5],
-        "demonym": "Ivorian"
+        "demonym": "Ivorian",
+	"borders": ["BFA","GHA","GIN","LBR","MLI"]
     },
     {
         "name": "Croatia",
@@ -1602,7 +1658,8 @@
         },
         "population": 4290612,
         "latlng": [45.16666666, 15.5],
-        "demonym": "Croatian"
+        "demonym": "Croatian",
+	"borders": ["BIH","HUN","MNE","SRB","SVN"]
     },
     {
         "name": "Cuba",
@@ -1631,7 +1688,8 @@
         },
         "population": 11167325,
         "latlng": [21.5, -80],
-        "demonym": "Cuban"
+        "demonym": "Cuban",
+	"borders": []
     },
     {
         "name": "Cura\u00e7ao",
@@ -1652,7 +1710,8 @@
         "translations": [],
         "population": 150563,
         "latlng": [12.116667, -68.933333],
-        "demonym": "Dutch"
+        "demonym": "Dutch",
+	"borders":[]
     },
     {
         "name": "Cyprus",
@@ -1681,7 +1740,8 @@
         },
         "population": 865878,
         "latlng": [35, 33],
-        "demonym": "Cypriot"
+        "demonym": "Cypriot",
+	"borders": []
     },
     {
         "name": "Czech Republic",
@@ -1710,7 +1770,8 @@
         },
         "population": 10512900,
         "latlng": [49.75, 15.5],
-        "demonym": "Czech"
+        "demonym": "Czech",
+	"borders": ["AUT","DEU","POL","SVK"]
     },
     {
         "name": "Denmark",
@@ -1739,7 +1800,8 @@
         },
         "population": 5623501,
         "latlng": [56, 10],
-        "demonym": "Danish"
+        "demonym": "Danish",
+	"borders": ["DEU"]
     },
     {
         "name": "Djibouti",
@@ -1768,7 +1830,8 @@
         },
         "population": 864618,
         "latlng": [11.5, 43],
-        "demonym": "Djibouti"
+        "demonym": "Djibouti",
+	"borders": ["ERI","ETH","SOM"]
     },
     {
         "name": "Dominica",
@@ -1797,7 +1860,8 @@
         },
         "population": 71293,
         "latlng": [15.41666666, -61.33333333],
-        "demonym": "Dominican"
+        "demonym": "Dominican",
+	"borders": [] 
     },
     {
         "name": "Dominican Republic",
@@ -1826,7 +1890,8 @@
         },
         "population": 9445281,
         "latlng": [19, -70.66666666],
-        "demonym": "Dominican"
+        "demonym": "Dominican",
+	"borders": ["HTI"]
     },
     {
         "name": "Ecuador",
@@ -1855,7 +1920,8 @@
         },
         "population": 15617900,
         "latlng": [-2, -77.5],
-        "demonym": "Ecuadorean"
+        "demonym": "Ecuadorean",
+	"borders": ["COL","PER"]
     },
     {
         "name": "Egypt",
@@ -1884,7 +1950,8 @@
         },
         "population": 83661000,
         "latlng": [27, 30],
-        "demonym": "Egyptian"
+        "demonym": "Egyptian",
+	"borders": ["ISR","LBY","SDN"]
     },
     {
         "name": "El Salvador",
@@ -1913,7 +1980,8 @@
         },
         "population": 6340000,
         "latlng": [13.83333333, -88.91666666],
-        "demonym": "Salvadoran"
+        "demonym": "Salvadoran",
+	"borders": ["GTM","HND"]
     },
     {
         "name": "Equatorial Guinea",
@@ -1942,7 +2010,8 @@
         },
         "population": 1622000,
         "latlng": [2, 10],
-        "demonym": "Equatorial Guinean"
+        "demonym": "Equatorial Guinean",
+	"borders": ["CMR","GAB"]
     },
     {
         "name": "Eritrea",
@@ -1971,7 +2040,8 @@
         },
         "population": 6333000,
         "latlng": [15, 39],
-        "demonym": "Eritrean"
+        "demonym": "Eritrean",
+	"borders": ["DJI","ETH","SDN"]
     },
     {
         "name": "Estonia",
@@ -2000,7 +2070,8 @@
         },
         "population": 1286540,
         "latlng": [59, 26],
-        "demonym": "Estonian"
+        "demonym": "Estonian",
+	"borders": ["LVA","RUS"]
     },
     {
         "name": "Ethiopia",
@@ -2029,7 +2100,8 @@
         },
         "population": 86613986,
         "latlng": [8, 38],
-        "demonym": "Ethiopian"
+        "demonym": "Ethiopian",
+	"borders": ["DJI","ERI","KEN","SOM","SSD","SDN"]
     },
     {
         "name": "Falkland Islands",
@@ -2058,7 +2130,8 @@
         },
         "population": 2563,
         "latlng": [-51.75, -59],
-        "demonym": "Falkland Islander"
+        "demonym": "Falkland Islander",
+	"borders": []
     },
     {
         "name": "Faroe Islands",
@@ -2087,7 +2160,8 @@
         },
         "population": 48509,
         "latlng": [62, -7],
-        "demonym": "Faroese"
+        "demonym": "Faroese",
+	"borders": []
     },
     {
         "name": "Fiji",
@@ -2116,7 +2190,8 @@
         },
         "population": 858038,
         "latlng": [-18, 175],
-        "demonym": "Fijian"
+        "demonym": "Fijian",
+	"borders": []
     },
     {
         "name": "Finland",
@@ -2145,7 +2220,8 @@
         },
         "population": 5445883,
         "latlng": [64, 26],
-        "demonym": "Finnish"
+        "demonym": "Finnish",
+	"borders": ["NOR","SWE","RUS"]
     },
     {
         "name": "France",
@@ -2174,7 +2250,8 @@
         },
         "population": 65806000,
         "latlng": [46, 2],
-        "demonym": "French"
+        "demonym": "French",
+	"borders": ["AND","BEL","DEU","ITA","LUX","MCO","ESP","CHE"]
     },
     {
         "name": "French Guiana",
@@ -2203,7 +2280,8 @@
         },
         "population": 229040,
         "latlng": [4, -53],
-        "demonym": ""
+        "demonym": "",
+	"borders": ["BRA","SUR"]
     },
     {
         "name": "French Polynesia",
@@ -2232,7 +2310,8 @@
         },
         "population": 268270,
         "latlng": [-15, -140],
-        "demonym": "French Polynesian"
+        "demonym": "French Polynesian",
+	"borders": []
     },
     {
         "name": "French Southern and Antarctic Lands",
@@ -2261,7 +2340,8 @@
         },
         "population": -1,
         "latlng": [],
-        "demonym": "French"
+        "demonym": "French",
+	"borders": []
     },
     {
         "name": "Gabon",
@@ -2290,7 +2370,8 @@
         },
         "population": 1672000,
         "latlng": [-1, 11.75],
-        "demonym": "Gabonese"
+        "demonym": "Gabonese",
+	"borders": ["CMR","COG","GNQ"]
     },
     {
         "name": "Gambia",
@@ -2319,7 +2400,8 @@
         },
         "population": -1,
         "latlng": [13.46666666, -16.56666666],
-        "demonym": "Gambian"
+        "demonym": "Gambian",
+	"borders": ["SEN"]
     },
     {
         "name": "Georgia",
@@ -2348,7 +2430,8 @@
         },
         "population": -1,
         "latlng": [42, 43.5],
-        "demonym": "Georgian"
+        "demonym": "Georgian",
+	"borders": ["ARM","AZE","RUS","TUR"]
     },
     {
         "name": "Germany",
@@ -2377,7 +2460,8 @@
         },
         "population": 80523700,
         "latlng": [51, 9],
-        "demonym": "German"
+        "demonym": "German",
+	"borders": ["AUT","BEL","CZE","DNK","FRA","LUX","NLD","POL","CHE"]
     },
     {
         "name": "Ghana",
@@ -2406,7 +2490,8 @@
         },
         "population": 24658823,
         "latlng": [8, -2],
-        "demonym": "Ghanaian"
+        "demonym": "Ghanaian",
+	"borders": ["BFA","CIV","TGO"]
     },
     {
         "name": "Gibraltar",
@@ -2435,7 +2520,8 @@
         },
         "population": 29752,
         "latlng": [36.13333333, -5.35],
-        "demonym": "Gibraltar"
+        "demonym": "Gibraltar",
+	"borders": ["ESP"]
     },
     {
         "name": "Greece",
@@ -2464,7 +2550,8 @@
         },
         "population": 10815197,
         "latlng": [39, 22],
-        "demonym": "Greek"
+        "demonym": "Greek",
+	"borders": ["ALB","BGR","TUR","MKD"]
     },
     {
         "name": "Greenland",
@@ -2493,7 +2580,8 @@
         },
         "population": 56370,
         "latlng": [72, -40],
-        "demonym": "Greenlandic"
+        "demonym": "Greenlandic",
+	"borders": []
     },
     {
         "name": "Grenada",
@@ -2522,7 +2610,8 @@
         },
         "population": 103328,
         "latlng": [12.11666666, -61.66666666],
-        "demonym": "Grenadian"
+        "demonym": "Grenadian",
+	"borders": []
     },
     {
         "name": "Guadeloupe",
@@ -2551,7 +2640,8 @@
         },
         "population": 403355,
         "latlng": [16.25, -61.583333],
-        "demonym": "Guadeloupian"
+        "demonym": "Guadeloupian",
+	"borders": []
     },
     {
         "name": "Guam",
@@ -2580,7 +2670,8 @@
         },
         "population": 159358,
         "latlng": [13.46666666, 144.78333333],
-        "demonym": "Guamanian"
+        "demonym": "Guamanian",
+	"borders": []
     },
     {
         "name": "Guatemala",
@@ -2609,7 +2700,8 @@
         },
         "population": 15438384,
         "latlng": [15.5, -90.25],
-        "demonym": "Guatemalan"
+        "demonym": "Guatemalan",
+	"borders": ["BLZ","SLV","HND","MEX"]
     },
     {
         "name": "Guernsey",
@@ -2638,7 +2730,8 @@
         },
         "population": 62431,
         "latlng": [49.46666666, -2.58333333],
-        "demonym": "Channel Islander"
+        "demonym": "Channel Islander",
+	"borders": []
     },
     {
         "name": "Guinea",
@@ -2667,7 +2760,8 @@
         },
         "population": 10824200,
         "latlng": [11, -10],
-        "demonym": "Guinean"
+        "demonym": "Guinean",
+	"borders": ["CIV","GNB","LBR","MLI","SEN","SLE"]
     },
     {
         "name": "Guinea-Bissau",
@@ -2696,7 +2790,8 @@
         },
         "population": 1704000,
         "latlng": [12, -15],
-        "demonym": "Guinea-Bissauan"
+        "demonym": "Guinea-Bissauan",
+	"borders": ["GIN","SEN"]
     },
     {
         "name": "Guyana",
@@ -2725,7 +2820,8 @@
         },
         "population": 784894,
         "latlng": [5, -59],
-        "demonym": "Guyanese"
+        "demonym": "Guyanese",
+	"borders": ["BRA","SUR","VEN"]
     },
     {
         "name": "Haiti",
@@ -2754,7 +2850,8 @@
         },
         "population": 10413211,
         "latlng": [19, -72.41666666],
-        "demonym": "Haitian"
+        "demonym": "Haitian",
+	"borders": ["DOM"]
     },
     {
         "name": "Heard Island and McDonald Islands",
@@ -2783,7 +2880,8 @@
         },
         "population": -1,
         "latlng": [-53.1, 72.51666666],
-        "demonym": "Heard and McDonald Islander"
+        "demonym": "Heard and McDonald Islander",
+	"borders": []
     },
     {
         "name": "Vatican City",
@@ -2812,7 +2910,8 @@
         },
         "population": 800,
         "latlng": [41.9, 12.45],
-        "demonym": "Italian"
+        "demonym": "Italian",
+	"borders": ["ITA"]
     },
     {
         "name": "Honduras",
@@ -2841,7 +2940,8 @@
         },
         "population": 8555072,
         "latlng": [15, -86.5],
-        "demonym": "Honduran"
+        "demonym": "Honduran",
+	"borders": ["GTM","SLV","NIC"]
     },
     {
         "name": "Hong Kong",
@@ -2870,7 +2970,8 @@
         },
         "population": 7184000,
         "latlng": [22.25, 114.16666666],
-        "demonym": "Chinese"
+        "demonym": "Chinese",
+	"borders": ["CHN"]
     },
     {
         "name": "Hungary",
@@ -2899,7 +3000,8 @@
         },
         "population": 9906000,
         "latlng": [47, 20],
-        "demonym": "Hungarian"
+        "demonym": "Hungarian",
+	"borders": ["AUT","HRV","ROU","SRB","SVK","SVN","UKR"]
     },
     {
         "name": "Iceland",
@@ -2928,7 +3030,8 @@
         },
         "population": 325010,
         "latlng": [65, -18],
-        "demonym": "Icelander"
+        "demonym": "Icelander",
+	"borders": []
     },
     {
         "name": "India",
@@ -2957,7 +3060,8 @@
         },
         "population": 1236670000,
         "latlng": [20, 77],
-        "demonym": "Indian"
+        "demonym": "Indian",
+	"borders": ["AFG","BGD","BTN","MMR","CHN","NPL","PAK","LKA"]
     },
     {
         "name": "Indonesia",
@@ -2978,7 +3082,8 @@
         "translations": [],
         "population": 237641326,
         "latlng": [-5, 120],
-        "demonym": "Indonesian"
+        "demonym": "Indonesian",
+	"borders": ["TLS","MYS","PNG"]
     },
     {
         "name": "Iran",
@@ -3006,7 +3111,8 @@
         },
         "population": 77068000,
         "latlng": [32, 53],
-        "demonym": "Iranian"
+        "demonym": "Iranian",
+	"borders": ["AFG","ARM","AZE","IRQ","PAK","TUR","TKM"]
     },
     {
         "name": "Iraq",
@@ -3035,7 +3141,8 @@
         },
         "population": 34035000,
         "latlng": [33, 44],
-        "demonym": "Iraqi"
+        "demonym": "Iraqi",
+	"borders": ["IRN","JOR","KWT","SAU","SYR","TUR"]
     },
     {
         "name": "Ireland",
@@ -3064,7 +3171,8 @@
         },
         "population": -1,
         "latlng": [53, -8],
-        "demonym": "Irish"
+        "demonym": "Irish",
+	"borders": ["GBR"]
     },
     {
         "name": "Isle of Man",
@@ -3093,7 +3201,8 @@
         },
         "population": 84497,
         "latlng": [54.25, -4.5],
-        "demonym": "Manx"
+        "demonym": "Manx",
+	"borders": []
     },
     {
         "name": "Israel",
@@ -3122,7 +3231,8 @@
         },
         "population": 8092700,
         "latlng": [31.5, 34.75],
-        "demonym": "Israeli"
+        "demonym": "Israeli",
+	"borders": ["EGY","JOR","LBN","SYR"]
     },
     {
         "name": "Italy",
@@ -3151,7 +3261,8 @@
         },
         "population": 59829079,
         "latlng": [42.83333333, 12.83333333],
-        "demonym": "Italian"
+        "demonym": "Italian",
+	"borders": ["AUT","FRA","SMR","SVN","CHE","VAT"]
     },
     {
         "name": "Jamaica",
@@ -3180,7 +3291,8 @@
         },
         "population": 2711476,
         "latlng": [18.25, -77.5],
-        "demonym": "Jamaican"
+        "demonym": "Jamaican",
+	"borders": []
     },
     {
         "name": "Japan",
@@ -3209,7 +3321,8 @@
         },
         "population": 127290000,
         "latlng": [36, 138],
-        "demonym": "Japanese"
+        "demonym": "Japanese",
+	"borders":[]
     },
     {
         "name": "Jersey",
@@ -3238,7 +3351,8 @@
         },
         "population": 97857,
         "latlng": [49.25, -2.16666666],
-        "demonym": "Channel Islander"
+        "demonym": "Channel Islander",
+	"borders": []
     },
     {
         "name": "Jordan",
@@ -3267,7 +3381,8 @@
         },
         "population": 6512600,
         "latlng": [31, 36],
-        "demonym": "Jordanian"
+        "demonym": "Jordanian",
+	"borders": ["IRQ","ISR","SAU","SYR"]
     },
     {
         "name": "Kazakhstan",
@@ -3296,7 +3411,8 @@
         },
         "population": 17099000,
         "latlng": [48, 68],
-        "demonym": "Kazakhstani"
+        "demonym": "Kazakhstani",
+	"borders": ["CHN","KGZ","RUS","TKM","UZB"]
     },
     {
         "name": "Kenya",
@@ -3325,7 +3441,8 @@
         },
         "population": 44354000,
         "latlng": [1, 38],
-        "demonym": "Kenyan"
+        "demonym": "Kenyan",
+	"borders": ["ETH","SOM","SSD","TZA","UGA"]
     },
     {
         "name": "Kiribati",
@@ -3354,7 +3471,8 @@
         },
         "population": 106461,
         "latlng": [1.41666666, 173],
-        "demonym": "I-Kiribati"
+        "demonym": "I-Kiribati",
+	"borders": []
     },
     {
         "name": "Kuwait",
@@ -3383,7 +3501,8 @@
         },
         "population": 3582054,
         "latlng": [29.5, 45.75],
-        "demonym": "Kuwaiti"
+        "demonym": "Kuwaiti",
+	"borders": ["IRN","SAU"]
     },
     {
         "name": "Kyrgyzstan",
@@ -3412,7 +3531,8 @@
         },
         "population": 5551900,
         "latlng": [41, 75],
-        "demonym": "Kirghiz"
+        "demonym": "Kirghiz",
+	"borders": ["CHN","KAZ","TJK","UZB"]
     },
     {
         "name": "Laos",
@@ -3433,7 +3553,8 @@
         "translations": [],
         "population": 6580800,
         "latlng": [18, 105],
-        "demonym": "Laotian"
+        "demonym": "Laotian",
+	"borders": ["MMR","KHM","CHN","THA","VNM"]
     },
     {
         "name": "Latvia",
