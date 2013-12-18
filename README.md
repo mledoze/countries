@@ -15,10 +15,13 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - relevance
  - region
  - subregion
- - language in English
+ - language(s) in English
+ - ISO 639-1 language code(s) (`languagesCodes`)
+ - name translations
  - population
  - latitude and longitude (`latlng`)
  - name of residents (`demonym`)
+ - land borders (`borders`)
 
 ##Examples
 #####JSON
@@ -26,78 +29,84 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
 {
 	"name": "Austria",
 	"nativeName": "Österreich",
-	"tld": ".at",
+	"tld": [".at"],
 	"cca2": "AT",
 	"ccn3": "040",
 	"cca3": "AUT",
-	"currency": "EUR",
-	"callingCode": "43",
+	"currency": ["EUR"],
+	"callingCode": ["43"],
 	"capital": "Vienna",
-	"altSpellings": [
-		"AT",
-		"Österreich",
-		"Osterreich",
-		"Oesterreich"
-	],
+	"altSpellings": ["AT", "Österreich", "Osterreich", "Oesterreich"],
 	"relevance": "0",
 	"region": "Europe",
 	"subregion": "Western Europe",
-	"language": "German",
+	"language": ["German"],
+	"languagesCodes": ["de"],
+	"translations": {
+		"de": "Österreich",
+		"en": "Austria",
+		"es": "Austria",
+		"fr": "Autriche",
+		"it": "Austria",
+		"ja": "オーストリア",
+		"nl": "Oostenrijk"
+	},
 	"population": 8501502,
-	"latlng": [
-		47.33333333,
-		13.33333333
-	],
-	"demonym": "Austrian"
+	"latlng": [47.33333333,13.33333333],
+	"demonym": "Austrian",
+	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"]
 }
 
 {
 	"name": "Nigeria",
 	"nativeName": "Nigeria",
-	"tld": ".ng",
+	"tld": [".ng"],
 	"cca2": "NG",
 	"ccn3": "566",
 	"cca3": "NGA",
-	"currency": "NGN",
-	"callingCode": "234",
+	"currency": ["NGN"],
+	"callingCode": ["234"],
 	"capital": "Abuja",
-	"altSpellings": [
-		"NG",
-		"Nijeriya",
-		"Naíjíríà",
-		"Federal Republic of Nigeria"
-	],
+	"altSpellings": ["NG", "Nijeriya", "Naíjíríà", "Federal Republic of Nigeria"],
 	"relevance": "1.5",
 	"region": "Africa",
 	"subregion": "Western Africa",
-	"language": "English",
+	"language": ["English"],
+	"languagesCodes": ["en"],
+	"translations": {
+		"de": "Nigeria",
+		"en": "Nigeria",
+		"es": "Nigeria",
+		"fr": "Nigéria",
+		"it": "Nigeria",
+		"ja": "ナイジェリア",
+		"nl": "Nigeria"
+	},
 	"population": 173615000,
-	"latlng": [
-		10,
-		8
-	],
-	"demonym": "Nigerian"
+	"latlng": [10, 8],
+	"demonym": "Nigerian",
+	"borders": ["BEN", "CMR", "TCD", "NER"]
 }
 ```
 #####CSV
 ```csv
-name;native-name;tld;cca2;ccn3;cca3;currency;calling-code;capital;alt-spellings;relevance;region;subregion;language
+"name";"nativeName";"tld";"cca2";"ccn3";"cca3";"currency";"callingCode";"capital";"altSpellings";"relevance";"region";"subregion";"language";"languagesCodes";"translations";"population";"latlng";"demonym";"borders"
 ⋮
-United Arab Emirates;Dawlat al-ʾImārāt al-ʿArabiyyah al-Muttaḥidah;.ae;AE;784;ARE;AED;971;Abu Dhabi;AE,UAE;0;Asia;Western Asia;Arabic
-United Kingdom;United Kingdom;.uk;GB;826;GBR;GBP;44;London;GB,UK,Great Britain;2.5;Europe;Northern Europe;English
-United States;United States;.us;US;840;USA;USD,USN,USS;1;Washington D.C.;US,USA,United States of America;3.5;Americas;Northern America;English
-United States Minor Outlying Islands;United States Minor Outlying Islands;.us;UM;581;UMI;USD;;;UM;0;Americas;Northern America;English
-United States Virgin Islands;United States Virgin Islands;.vi;VI;850;VIR;USD;1340;Charlotte Amalie;VI;0.5;Americas;Caribbean;English
+"United Arab Emirates";"Dawlat al-ʾImārāt al-ʿArabiyyah al-Muttaḥidah";".ae";"AE";"784";"ARE";"AED";"971";"Abu Dhabi";"AE,UAE";"0";"Asia";"Western Asia";"Arabic";"ar";"Vereinigte Arabische Emirate,United Arab Emirates,Emiratos Árabes Unidos,Émirats Arabes Unis,Emirati Arabi Uniti,アラブ首長国連邦,Verenigde Arabische Emiraten";"8264070";"24,54";"Emirian";"OMN,SAU"
+"United Kingdom";"United Kingdom";".uk";"GB";"826";"GBR";"GBP";"44";"London";"GB,UK,Great Britain";"2.5";"Europe";"Northern Europe";"English";"en";"Vereinigtes Königreich,United Kingdom,Reino Unido,Royaume-Uni,Regno Unito,イギリス,Verenigd Koninkrijk";"63705000";"54,-2";"British";"IRL"
+"United States";"United States";".us";"US";"840";"USA";"USD,USN,USS";"1";"Washington D.C.";"US,USA,United States of America";"3.5";"Americas";"Northern America";"English";"en";"Vereinigte Staaten von Amerika,United States of America,Estados Unidos,États-Unis,Stati Uniti D'America,アメリカ合衆国,Verenigde Staten";"317101000";"38,-97";"American";"CAN,MEX"
+"United States Minor Outlying Islands";"United States Minor Outlying Islands";".us";"UM";"581";"UMI";"USD";"";"";"UM";"0";"Americas";"Northern America";"English";"en";"US-Amerikanische Hoheitsgebiete,United States Minor Outlying Islands,Islas menores de Estados Unidos,Dépendances américaines,Isole minori esterne degli Stati Uniti d'America,合衆国領有小離島,Kleine afgelegen eilanden van de Verenigde Staten";"-1";"";"American";""
+"United States Virgin Islands";"United States Virgin Islands";".vi";"VI";"850";"VIR";"USD";"1340";"Charlotte Amalie";"VI";"0.5";"Americas";"Caribbean";"English";"en";"Amerikanische Jungferninseln,Virgin Islands of the United States,Islas Vírgenes de los Estados Unidos,Îles Vierges américaines,Isole Vergini americane,アメリカ領ヴァージン諸島,Amerikaanse Maagdeneilanden";"106405";"18.35,-64.933333";"Virgin Islander";""
 ⋮
 ```
 #####XML
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
-  <country name="Afghanistan" native-name="Afġānistān" tld=".af" cca2="AF" ccn3="004" cca3="AFG" currency="AFN" calling-code="93" capital="Kabul" alt-spellings="AF,Afġānistān" relevance="0" region="Asia" subregion="Southern Asia" language="Pashto,Dari"/>
-  <country name="Åland Islands" native-name="Åland" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" calling-code="358" capital="Mariehamn" alt-spellings="AX,Aaland,Aland,Ahvenanmaa" relevance="0" region="Europe" subregion="Northern Europe" language="Swedish"/>
-  <country name="Albania" native-name="Shqipëria" tld=".al" cca2="AL" ccn3="008" cca3="ALB" currency="ALL" calling-code="355" capital="Tirana" alt-spellings="AL,Shqipëri,Shqipëria,Shqipnia" relevance="0" region="Europe" subregion="Southern Europe" language="Albanian"/>
-  <country name="Algeria" native-name="al-Jazāʼir" tld=".dz" cca2="DZ" ccn3="012" cca3="DZA" currency="DZD" calling-code="213" capital="Algiers" alt-spellings="DZ,Dzayer,Algérie" relevance="0" region="Africa" subregion="Northern Africa" language="Arabic"/>
+  <country name="Afghanistan" nativeName="Afġānistān" tld=".af" cca2="AF" ccn3="004" cca3="AFG" currency="AFN" callingCode="93" capital="Kabul" altSpellings="AF,Afġānistān" relevance="0" region="Asia" subregion="Southern Asia" language="Pashto,Dari" languagesCodes="ps,uz,tk" translations="Afghanistan,Afghanistan,Afganistán,Afganistán,Afghanistan,アフガニスタン,Afghanistan" population="25500100" latlng="33,65" demonym="Afghan" borders="IRN,PAK,TKM,UZB,TJK,CHN"/>
+  <country name="Åland Islands" nativeName="Åland" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" callingCode="358" capital="Mariehamn" altSpellings="AX,Aaland,Aland,Ahvenanmaa" relevance="0" region="Europe" subregion="Northern Europe" language="Swedish" languagesCodes="sv" translations="Åland,Åland Islands,Alandia,Aland,Isole Aland,オーランド諸島,Ålandeilanden" population="28502" latlng="60.116667,19.9" demonym="Ålandish" borders=""/>
+  <country name="Albania" nativeName="Shqipëria" tld=".al" cca2="AL" ccn3="008" cca3="ALB" currency="ALL" callingCode="355" capital="Tirana" altSpellings="AL,Shqipëri,Shqipëria,Shqipnia" relevance="0" region="Europe" subregion="Southern Europe" language="Albanian" languagesCodes="sq" translations="Albanien,Albania,Albania,Albanie,Albania,アルバニア,Albanië" population="2821977" latlng="41,20" demonym="Albanian" borders="MNE,GRC,MKD,KOS"/>
+  <country name="Algeria" nativeName="al-Jazāʼir" tld=".dz" cca2="DZ" ccn3="012" cca3="DZA" currency="DZD" callingCode="213" capital="Algiers" altSpellings="DZ,Dzayer,Algérie" relevance="0" region="Africa" subregion="Northern Africa" language="Arabic" languagesCodes="ar" translations="Algerien,Algeria,Argelia,Algérie,Algeria,アルジェリア,Algerije" population="37900000" latlng="28,3" demonym="Algerian" borders="TUN,LDY,NER,ESH,MRT,MLI,MAR"/>
 ⋮
 <countries>
 ```
@@ -109,10 +118,7 @@ To understand the usefulness of the relevance parameter, please read this:
 
 ## To do
  - add the official name of the country in english and in its native language
- - rename `alt-spellings` to `alt-names`
- - have only one data source (master file) from which we can generate other formats (see #12)
  - add the type of the country (country, sovereign state, public body, territory, etc.)
- - add the land borders
  - add regions, provinces and cities
 
 ## Sources
@@ -126,10 +132,11 @@ The rest comes from Wikipedia.
 
 ## Credits
 Thanks to:
- - @Glazz for his help with country calling codes.
+ - @Glazz for his help with country calling codes
  - @hexorx for his work (https://github.com/hexorx/countries)
  - @frederik-jacques for the capital cities
  - @fayer for the population, geolocation and demonym data
+ - @ancosen for his help with the borders data
  - all the contributors: https://github.com/mledoze/countries/graphs/contributors
 
 ## License
