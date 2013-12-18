@@ -53,10 +53,13 @@
 <li>relevance</li>
 <li>region</li>
 <li>subregion</li>
-<li>language in English</li>
+<li>language(s) in English</li>
+<li>ISO 639-1 language code(s) (<code>languagesCodes</code>)</li>
+<li>name translations</li>
 <li>population</li>
 <li>latitude and longitude (<code>latlng</code>)</li>
 <li>name of residents (<code>demonym</code>)</li>
+<li>land borders (<code>borders</code>)</li>
 </ul><h2>
 <a name="examples" class="anchor" href="#examples"><span class="octicon octicon-link"></span></a>Examples</h2>
 
@@ -66,70 +69,76 @@
 <div class="highlight highlight-json"><pre><span class="p">{</span>
     <span class="nt">"name"</span><span class="p">:</span> <span class="s2">"Austria"</span><span class="p">,</span>
     <span class="nt">"nativeName"</span><span class="p">:</span> <span class="s2">"Österreich"</span><span class="p">,</span>
-    <span class="nt">"tld"</span><span class="p">:</span> <span class="s2">".at"</span><span class="p">,</span>
+    <span class="nt">"tld"</span><span class="p">:</span> <span class="p">[</span><span class="s2">".at"</span><span class="p">],</span>
     <span class="nt">"cca2"</span><span class="p">:</span> <span class="s2">"AT"</span><span class="p">,</span>
     <span class="nt">"ccn3"</span><span class="p">:</span> <span class="s2">"040"</span><span class="p">,</span>
     <span class="nt">"cca3"</span><span class="p">:</span> <span class="s2">"AUT"</span><span class="p">,</span>
-    <span class="nt">"currency"</span><span class="p">:</span> <span class="s2">"EUR"</span><span class="p">,</span>
-    <span class="nt">"callingCode"</span><span class="p">:</span> <span class="s2">"43"</span><span class="p">,</span>
+    <span class="nt">"currency"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"EUR"</span><span class="p">],</span>
+    <span class="nt">"callingCode"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"43"</span><span class="p">],</span>
     <span class="nt">"capital"</span><span class="p">:</span> <span class="s2">"Vienna"</span><span class="p">,</span>
-    <span class="nt">"altSpellings"</span><span class="p">:</span> <span class="p">[</span>
-        <span class="s2">"AT"</span><span class="p">,</span>
-        <span class="s2">"Österreich"</span><span class="p">,</span>
-        <span class="s2">"Osterreich"</span><span class="p">,</span>
-        <span class="s2">"Oesterreich"</span>
-    <span class="p">],</span>
+    <span class="nt">"altSpellings"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"AT"</span><span class="p">,</span> <span class="s2">"Österreich"</span><span class="p">,</span> <span class="s2">"Osterreich"</span><span class="p">,</span> <span class="s2">"Oesterreich"</span><span class="p">],</span>
     <span class="nt">"relevance"</span><span class="p">:</span> <span class="s2">"0"</span><span class="p">,</span>
     <span class="nt">"region"</span><span class="p">:</span> <span class="s2">"Europe"</span><span class="p">,</span>
     <span class="nt">"subregion"</span><span class="p">:</span> <span class="s2">"Western Europe"</span><span class="p">,</span>
-    <span class="nt">"language"</span><span class="p">:</span> <span class="s2">"German"</span><span class="p">,</span>
+    <span class="nt">"language"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"German"</span><span class="p">],</span>
+    <span class="nt">"languagesCodes"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"de"</span><span class="p">],</span>
+    <span class="nt">"translations"</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nt">"de"</span><span class="p">:</span> <span class="s2">"Österreich"</span><span class="p">,</span>
+        <span class="nt">"en"</span><span class="p">:</span> <span class="s2">"Austria"</span><span class="p">,</span>
+        <span class="nt">"es"</span><span class="p">:</span> <span class="s2">"Austria"</span><span class="p">,</span>
+        <span class="nt">"fr"</span><span class="p">:</span> <span class="s2">"Autriche"</span><span class="p">,</span>
+        <span class="nt">"it"</span><span class="p">:</span> <span class="s2">"Austria"</span><span class="p">,</span>
+        <span class="nt">"ja"</span><span class="p">:</span> <span class="s2">"オーストリア"</span><span class="p">,</span>
+        <span class="nt">"nl"</span><span class="p">:</span> <span class="s2">"Oostenrijk"</span>
+    <span class="p">},</span>
     <span class="nt">"population"</span><span class="p">:</span> <span class="mi">8501502</span><span class="p">,</span>
-    <span class="nt">"latlng"</span><span class="p">:</span> <span class="p">[</span>
-        <span class="mf">47.33333333</span><span class="p">,</span>
-        <span class="mf">13.33333333</span>
-    <span class="p">],</span>
-    <span class="nt">"demonym"</span><span class="p">:</span> <span class="s2">"Austrian"</span>
+    <span class="nt">"latlng"</span><span class="p">:</span> <span class="p">[</span><span class="mf">47.33333333</span><span class="p">,</span><span class="mf">13.33333333</span><span class="p">],</span>
+    <span class="nt">"demonym"</span><span class="p">:</span> <span class="s2">"Austrian"</span><span class="p">,</span>
+    <span class="nt">"borders"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"CZE"</span><span class="p">,</span> <span class="s2">"DEU"</span><span class="p">,</span> <span class="s2">"HUN"</span><span class="p">,</span> <span class="s2">"ITA"</span><span class="p">,</span> <span class="s2">"LIE"</span><span class="p">,</span> <span class="s2">"SVK"</span><span class="p">,</span> <span class="s2">"SVN"</span><span class="p">,</span> <span class="s2">"CHE"</span><span class="p">]</span>
 <span class="p">}</span>
 
 <span class="p">{</span>
     <span class="nt">"name"</span><span class="p">:</span> <span class="s2">"Nigeria"</span><span class="p">,</span>
     <span class="nt">"nativeName"</span><span class="p">:</span> <span class="s2">"Nigeria"</span><span class="p">,</span>
-    <span class="nt">"tld"</span><span class="p">:</span> <span class="s2">".ng"</span><span class="p">,</span>
+    <span class="nt">"tld"</span><span class="p">:</span> <span class="p">[</span><span class="s2">".ng"</span><span class="p">],</span>
     <span class="nt">"cca2"</span><span class="p">:</span> <span class="s2">"NG"</span><span class="p">,</span>
     <span class="nt">"ccn3"</span><span class="p">:</span> <span class="s2">"566"</span><span class="p">,</span>
     <span class="nt">"cca3"</span><span class="p">:</span> <span class="s2">"NGA"</span><span class="p">,</span>
-    <span class="nt">"currency"</span><span class="p">:</span> <span class="s2">"NGN"</span><span class="p">,</span>
-    <span class="nt">"callingCode"</span><span class="p">:</span> <span class="s2">"234"</span><span class="p">,</span>
+    <span class="nt">"currency"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"NGN"</span><span class="p">],</span>
+    <span class="nt">"callingCode"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"234"</span><span class="p">],</span>
     <span class="nt">"capital"</span><span class="p">:</span> <span class="s2">"Abuja"</span><span class="p">,</span>
-    <span class="nt">"altSpellings"</span><span class="p">:</span> <span class="p">[</span>
-        <span class="s2">"NG"</span><span class="p">,</span>
-        <span class="s2">"Nijeriya"</span><span class="p">,</span>
-        <span class="s2">"Naíjíríà"</span><span class="p">,</span>
-        <span class="s2">"Federal Republic of Nigeria"</span>
-    <span class="p">],</span>
+    <span class="nt">"altSpellings"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"NG"</span><span class="p">,</span> <span class="s2">"Nijeriya"</span><span class="p">,</span> <span class="s2">"Naíjíríà"</span><span class="p">,</span> <span class="s2">"Federal Republic of Nigeria"</span><span class="p">],</span>
     <span class="nt">"relevance"</span><span class="p">:</span> <span class="s2">"1.5"</span><span class="p">,</span>
     <span class="nt">"region"</span><span class="p">:</span> <span class="s2">"Africa"</span><span class="p">,</span>
     <span class="nt">"subregion"</span><span class="p">:</span> <span class="s2">"Western Africa"</span><span class="p">,</span>
-    <span class="nt">"language"</span><span class="p">:</span> <span class="s2">"English"</span><span class="p">,</span>
+    <span class="nt">"language"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"English"</span><span class="p">],</span>
+    <span class="nt">"languagesCodes"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"en"</span><span class="p">],</span>
+    <span class="nt">"translations"</span><span class="p">:</span> <span class="p">{</span>
+        <span class="nt">"de"</span><span class="p">:</span> <span class="s2">"Nigeria"</span><span class="p">,</span>
+        <span class="nt">"en"</span><span class="p">:</span> <span class="s2">"Nigeria"</span><span class="p">,</span>
+        <span class="nt">"es"</span><span class="p">:</span> <span class="s2">"Nigeria"</span><span class="p">,</span>
+        <span class="nt">"fr"</span><span class="p">:</span> <span class="s2">"Nigéria"</span><span class="p">,</span>
+        <span class="nt">"it"</span><span class="p">:</span> <span class="s2">"Nigeria"</span><span class="p">,</span>
+        <span class="nt">"ja"</span><span class="p">:</span> <span class="s2">"ナイジェリア"</span><span class="p">,</span>
+        <span class="nt">"nl"</span><span class="p">:</span> <span class="s2">"Nigeria"</span>
+    <span class="p">},</span>
     <span class="nt">"population"</span><span class="p">:</span> <span class="mi">173615000</span><span class="p">,</span>
-    <span class="nt">"latlng"</span><span class="p">:</span> <span class="p">[</span>
-        <span class="mi">10</span><span class="p">,</span>
-        <span class="mi">8</span>
-    <span class="p">],</span>
-    <span class="nt">"demonym"</span><span class="p">:</span> <span class="s2">"Nigerian"</span>
+    <span class="nt">"latlng"</span><span class="p">:</span> <span class="p">[</span><span class="mi">10</span><span class="p">,</span> <span class="mi">8</span><span class="p">],</span>
+    <span class="nt">"demonym"</span><span class="p">:</span> <span class="s2">"Nigerian"</span><span class="p">,</span>
+    <span class="nt">"borders"</span><span class="p">:</span> <span class="p">[</span><span class="s2">"BEN"</span><span class="p">,</span> <span class="s2">"CMR"</span><span class="p">,</span> <span class="s2">"TCD"</span><span class="p">,</span> <span class="s2">"NER"</span><span class="p">]</span>
 <span class="p">}</span>
 </pre></div>
 
 <h5>
 <a name="csv" class="anchor" href="#csv"><span class="octicon octicon-link"></span></a>CSV</h5>
 
-<pre lang="csv"><code>name;native-name;tld;cca2;ccn3;cca3;currency;calling-code;capital;alt-spellings;relevance;region;subregion;language
+<pre lang="csv"><code>"name";"nativeName";"tld";"cca2";"ccn3";"cca3";"currency";"callingCode";"capital";"altSpellings";"relevance";"region";"subregion";"language";"languagesCodes";"translations";"population";"latlng";"demonym";"borders"
 ⋮
-United Arab Emirates;Dawlat al-ʾImārāt al-ʿArabiyyah al-Muttaḥidah;.ae;AE;784;ARE;AED;971;Abu Dhabi;AE,UAE;0;Asia;Western Asia;Arabic
-United Kingdom;United Kingdom;.uk;GB;826;GBR;GBP;44;London;GB,UK,Great Britain;2.5;Europe;Northern Europe;English
-United States;United States;.us;US;840;USA;USD,USN,USS;1;Washington D.C.;US,USA,United States of America;3.5;Americas;Northern America;English
-United States Minor Outlying Islands;United States Minor Outlying Islands;.us;UM;581;UMI;USD;;;UM;0;Americas;Northern America;English
-United States Virgin Islands;United States Virgin Islands;.vi;VI;850;VIR;USD;1340;Charlotte Amalie;VI;0.5;Americas;Caribbean;English
+"United Arab Emirates";"Dawlat al-ʾImārāt al-ʿArabiyyah al-Muttaḥidah";".ae";"AE";"784";"ARE";"AED";"971";"Abu Dhabi";"AE,UAE";"0";"Asia";"Western Asia";"Arabic";"ar";"Vereinigte Arabische Emirate,United Arab Emirates,Emiratos Árabes Unidos,Émirats Arabes Unis,Emirati Arabi Uniti,アラブ首長国連邦,Verenigde Arabische Emiraten";"8264070";"24,54";"Emirian";"OMN,SAU"
+"United Kingdom";"United Kingdom";".uk";"GB";"826";"GBR";"GBP";"44";"London";"GB,UK,Great Britain";"2.5";"Europe";"Northern Europe";"English";"en";"Vereinigtes Königreich,United Kingdom,Reino Unido,Royaume-Uni,Regno Unito,イギリス,Verenigd Koninkrijk";"63705000";"54,-2";"British";"IRL"
+"United States";"United States";".us";"US";"840";"USA";"USD,USN,USS";"1";"Washington D.C.";"US,USA,United States of America";"3.5";"Americas";"Northern America";"English";"en";"Vereinigte Staaten von Amerika,United States of America,Estados Unidos,États-Unis,Stati Uniti D'America,アメリカ合衆国,Verenigde Staten";"317101000";"38,-97";"American";"CAN,MEX"
+"United States Minor Outlying Islands";"United States Minor Outlying Islands";".us";"UM";"581";"UMI";"USD";"";"";"UM";"0";"Americas";"Northern America";"English";"en";"US-Amerikanische Hoheitsgebiete,United States Minor Outlying Islands,Islas menores de Estados Unidos,Dépendances américaines,Isole minori esterne degli Stati Uniti d'America,合衆国領有小離島,Kleine afgelegen eilanden van de Verenigde Staten";"-1";"";"American";""
+"United States Virgin Islands";"United States Virgin Islands";".vi";"VI";"850";"VIR";"USD";"1340";"Charlotte Amalie";"VI";"0.5";"Americas";"Caribbean";"English";"en";"Amerikanische Jungferninseln,Virgin Islands of the United States,Islas Vírgenes de los Estados Unidos,Îles Vierges américaines,Isole Vergini americane,アメリカ領ヴァージン諸島,Amerikaanse Maagdeneilanden";"106405";"18.35,-64.933333";"Virgin Islander";""
 ⋮
 </code></pre>
 
@@ -138,10 +147,10 @@ United States Virgin Islands;United States Virgin Islands;.vi;VI;850;VIR;USD;134
 
 <div class="highlight highlight-xml"><pre><span class="cp">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span>
 <span class="nt">&lt;countries&gt;</span>
-  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Afghanistan"</span> <span class="na">native-name=</span><span class="s">"Afġānistān"</span> <span class="na">tld=</span><span class="s">".af"</span> <span class="na">cca2=</span><span class="s">"AF"</span> <span class="na">ccn3=</span><span class="s">"004"</span> <span class="na">cca3=</span><span class="s">"AFG"</span> <span class="na">currency=</span><span class="s">"AFN"</span> <span class="na">calling-code=</span><span class="s">"93"</span> <span class="na">capital=</span><span class="s">"Kabul"</span> <span class="na">alt-spellings=</span><span class="s">"AF,Afġānistān"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Asia"</span> <span class="na">subregion=</span><span class="s">"Southern Asia"</span> <span class="na">language=</span><span class="s">"Pashto,Dari"</span><span class="nt">/&gt;</span>
-  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Åland Islands"</span> <span class="na">native-name=</span><span class="s">"Åland"</span> <span class="na">tld=</span><span class="s">".ax"</span> <span class="na">cca2=</span><span class="s">"AX"</span> <span class="na">ccn3=</span><span class="s">"248"</span> <span class="na">cca3=</span><span class="s">"ALA"</span> <span class="na">currency=</span><span class="s">"EUR"</span> <span class="na">calling-code=</span><span class="s">"358"</span> <span class="na">capital=</span><span class="s">"Mariehamn"</span> <span class="na">alt-spellings=</span><span class="s">"AX,Aaland,Aland,Ahvenanmaa"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Europe"</span> <span class="na">subregion=</span><span class="s">"Northern Europe"</span> <span class="na">language=</span><span class="s">"Swedish"</span><span class="nt">/&gt;</span>
-  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Albania"</span> <span class="na">native-name=</span><span class="s">"Shqipëria"</span> <span class="na">tld=</span><span class="s">".al"</span> <span class="na">cca2=</span><span class="s">"AL"</span> <span class="na">ccn3=</span><span class="s">"008"</span> <span class="na">cca3=</span><span class="s">"ALB"</span> <span class="na">currency=</span><span class="s">"ALL"</span> <span class="na">calling-code=</span><span class="s">"355"</span> <span class="na">capital=</span><span class="s">"Tirana"</span> <span class="na">alt-spellings=</span><span class="s">"AL,Shqipëri,Shqipëria,Shqipnia"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Europe"</span> <span class="na">subregion=</span><span class="s">"Southern Europe"</span> <span class="na">language=</span><span class="s">"Albanian"</span><span class="nt">/&gt;</span>
-  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Algeria"</span> <span class="na">native-name=</span><span class="s">"al-Jazāʼir"</span> <span class="na">tld=</span><span class="s">".dz"</span> <span class="na">cca2=</span><span class="s">"DZ"</span> <span class="na">ccn3=</span><span class="s">"012"</span> <span class="na">cca3=</span><span class="s">"DZA"</span> <span class="na">currency=</span><span class="s">"DZD"</span> <span class="na">calling-code=</span><span class="s">"213"</span> <span class="na">capital=</span><span class="s">"Algiers"</span> <span class="na">alt-spellings=</span><span class="s">"DZ,Dzayer,Algérie"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Africa"</span> <span class="na">subregion=</span><span class="s">"Northern Africa"</span> <span class="na">language=</span><span class="s">"Arabic"</span><span class="nt">/&gt;</span>
+  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Afghanistan"</span> <span class="na">nativeName=</span><span class="s">"Afġānistān"</span> <span class="na">tld=</span><span class="s">".af"</span> <span class="na">cca2=</span><span class="s">"AF"</span> <span class="na">ccn3=</span><span class="s">"004"</span> <span class="na">cca3=</span><span class="s">"AFG"</span> <span class="na">currency=</span><span class="s">"AFN"</span> <span class="na">callingCode=</span><span class="s">"93"</span> <span class="na">capital=</span><span class="s">"Kabul"</span> <span class="na">altSpellings=</span><span class="s">"AF,Afġānistān"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Asia"</span> <span class="na">subregion=</span><span class="s">"Southern Asia"</span> <span class="na">language=</span><span class="s">"Pashto,Dari"</span> <span class="na">languagesCodes=</span><span class="s">"ps,uz,tk"</span> <span class="na">translations=</span><span class="s">"Afghanistan,Afghanistan,Afganistán,Afganistán,Afghanistan,アフガニスタン,Afghanistan"</span> <span class="na">population=</span><span class="s">"25500100"</span> <span class="na">latlng=</span><span class="s">"33,65"</span> <span class="na">demonym=</span><span class="s">"Afghan"</span> <span class="na">borders=</span><span class="s">"IRN,PAK,TKM,UZB,TJK,CHN"</span><span class="nt">/&gt;</span>
+  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Åland Islands"</span> <span class="na">nativeName=</span><span class="s">"Åland"</span> <span class="na">tld=</span><span class="s">".ax"</span> <span class="na">cca2=</span><span class="s">"AX"</span> <span class="na">ccn3=</span><span class="s">"248"</span> <span class="na">cca3=</span><span class="s">"ALA"</span> <span class="na">currency=</span><span class="s">"EUR"</span> <span class="na">callingCode=</span><span class="s">"358"</span> <span class="na">capital=</span><span class="s">"Mariehamn"</span> <span class="na">altSpellings=</span><span class="s">"AX,Aaland,Aland,Ahvenanmaa"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Europe"</span> <span class="na">subregion=</span><span class="s">"Northern Europe"</span> <span class="na">language=</span><span class="s">"Swedish"</span> <span class="na">languagesCodes=</span><span class="s">"sv"</span> <span class="na">translations=</span><span class="s">"Åland,Åland Islands,Alandia,Aland,Isole Aland,オーランド諸島,Ålandeilanden"</span> <span class="na">population=</span><span class="s">"28502"</span> <span class="na">latlng=</span><span class="s">"60.116667,19.9"</span> <span class="na">demonym=</span><span class="s">"Ålandish"</span> <span class="na">borders=</span><span class="s">""</span><span class="nt">/&gt;</span>
+  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Albania"</span> <span class="na">nativeName=</span><span class="s">"Shqipëria"</span> <span class="na">tld=</span><span class="s">".al"</span> <span class="na">cca2=</span><span class="s">"AL"</span> <span class="na">ccn3=</span><span class="s">"008"</span> <span class="na">cca3=</span><span class="s">"ALB"</span> <span class="na">currency=</span><span class="s">"ALL"</span> <span class="na">callingCode=</span><span class="s">"355"</span> <span class="na">capital=</span><span class="s">"Tirana"</span> <span class="na">altSpellings=</span><span class="s">"AL,Shqipëri,Shqipëria,Shqipnia"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Europe"</span> <span class="na">subregion=</span><span class="s">"Southern Europe"</span> <span class="na">language=</span><span class="s">"Albanian"</span> <span class="na">languagesCodes=</span><span class="s">"sq"</span> <span class="na">translations=</span><span class="s">"Albanien,Albania,Albania,Albanie,Albania,アルバニア,Albanië"</span> <span class="na">population=</span><span class="s">"2821977"</span> <span class="na">latlng=</span><span class="s">"41,20"</span> <span class="na">demonym=</span><span class="s">"Albanian"</span> <span class="na">borders=</span><span class="s">"MNE,GRC,MKD,KOS"</span><span class="nt">/&gt;</span>
+  <span class="nt">&lt;country</span> <span class="na">name=</span><span class="s">"Algeria"</span> <span class="na">nativeName=</span><span class="s">"al-Jazāʼir"</span> <span class="na">tld=</span><span class="s">".dz"</span> <span class="na">cca2=</span><span class="s">"DZ"</span> <span class="na">ccn3=</span><span class="s">"012"</span> <span class="na">cca3=</span><span class="s">"DZA"</span> <span class="na">currency=</span><span class="s">"DZD"</span> <span class="na">callingCode=</span><span class="s">"213"</span> <span class="na">capital=</span><span class="s">"Algiers"</span> <span class="na">altSpellings=</span><span class="s">"DZ,Dzayer,Algérie"</span> <span class="na">relevance=</span><span class="s">"0"</span> <span class="na">region=</span><span class="s">"Africa"</span> <span class="na">subregion=</span><span class="s">"Northern Africa"</span> <span class="na">language=</span><span class="s">"Arabic"</span> <span class="na">languagesCodes=</span><span class="s">"ar"</span> <span class="na">translations=</span><span class="s">"Algerien,Algeria,Argelia,Algérie,Algeria,アルジェリア,Algerije"</span> <span class="na">population=</span><span class="s">"37900000"</span> <span class="na">latlng=</span><span class="s">"28,3"</span> <span class="na">demonym=</span><span class="s">"Algerian"</span> <span class="na">borders=</span><span class="s">"TUN,LDY,NER,ESH,MRT,MLI,MAR"</span><span class="nt">/&gt;</span>
 ⋮
 <span class="nt">&lt;countries&gt;</span>
 </pre></div>
@@ -159,11 +168,7 @@ United States Virgin Islands;United States Virgin Islands;.vi;VI;850;VIR;USD;134
 
 <ul>
 <li>add the official name of the country in english and in its native language</li>
-<li>rename <code>alt-spellings</code> to <code>alt-names</code>
-</li>
-<li>have only one data source (master file) from which we can generate other formats (see #12)</li>
 <li>add the type of the country (country, sovereign state, public body, territory, etc.)</li>
-<li>add the land borders</li>
 <li>add regions, provinces and cities</li>
 </ul><h2>
 <a name="sources" class="anchor" href="#sources"><span class="octicon octicon-link"></span></a>Sources</h2>
@@ -183,13 +188,15 @@ United States Virgin Islands;United States Virgin Islands;.vi;VI;850;VIR;USD;134
 
 <ul>
 <li>
-<a href="https://github.com/Glazz" class="user-mention">@Glazz</a> for his help with country calling codes.</li>
+<a href="https://github.com/Glazz" class="user-mention">@Glazz</a> for his help with country calling codes</li>
 <li>
 <a href="https://github.com/hexorx" class="user-mention">@hexorx</a> for his work (<a href="https://github.com/hexorx/countries">https://github.com/hexorx/countries</a>)</li>
 <li>
 <a href="https://github.com/frederik-jacques" class="user-mention">@frederik-jacques</a> for the capital cities</li>
 <li>
 <a href="https://github.com/fayer" class="user-mention">@fayer</a> for the population, geolocation and demonym data</li>
+<li>
+<a href="https://github.com/ancosen" class="user-mention">@ancosen</a> for his help with the borders data</li>
 <li>all the contributors: <a href="https://github.com/mledoze/countries/graphs/contributors">https://github.com/mledoze/countries/graphs/contributors</a>
 </li>
 </ul><h2>
