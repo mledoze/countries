@@ -1741,7 +1741,7 @@
 		"population": 865878,
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
-		"borders": []
+		"borders": [ "GBR" ]
 	},
 	{
 		"name": "Czech Republic",
