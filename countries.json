@@ -6556,7 +6556,7 @@
 		"population": -1,
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
-		"borders": []
+		"borders": [ "IDN" ]
 	},
 	{
 		"name": "Togo",
