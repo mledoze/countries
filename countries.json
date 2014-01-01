@@ -1741,7 +1741,7 @@
 		"population": 865878,
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
-		"borders": []
+		"borders": [ "GBR" ]
 	},
 	{
 		"name": "Czech Republic",
@@ -4812,7 +4812,7 @@
 		"population": 24895000,
 		"latlng": [40, 127],
 		"demonym": "North Korean",
-		"borders": []
+		"borders": [ "CHN", "KOR", "RUS"]
 	},
 	{
 		"name": "Northern Mariana Islands",
@@ -4992,7 +4992,7 @@
 		"population": -1,
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
-		"borders": []
+		"borders": [ "ISR", "EGY", "JOR" ]
 	},
 	{
 		"name": "Panama",
@@ -5306,7 +5306,7 @@
 		"population": 1733842,
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
-		"borders": []
+		"borders": [ "ALB", "MKD", "MNE", "SRB"]
 	},
 	{
 		"name": "R\u00e9union",
@@ -5920,7 +5920,7 @@
 		"population": 37429,
 		"latlng": [18.033333, -63.05],
 		"demonym": "Dutch",
-		"borders": []
+		"borders": [ "MAF" ]
 	},
 	{
 		"name": "Slovakia",
@@ -6130,7 +6130,7 @@
 		"population": 50219669,
 		"latlng": [37, 127.5],
 		"demonym": "South Korean",
-		"borders": []
+		"borders": ["PRK"]
 	},
 	{
 		"name": "South Sudan",
@@ -6556,7 +6556,7 @@
 		"population": -1,
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
-		"borders": []
+		"borders": [ "IDN" ]
 	},
 	{
 		"name": "Togo",
