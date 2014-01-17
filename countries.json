@@ -19,7 +19,7 @@
 			"de": "Afghanistan",
 			"en": "Afghanistan",
 			"es": "Afganist\u00e1n",
-			"fr": "Afganist\u00e1n",
+			"fr": "Afghanistan",
 			"it": "Afghanistan",
 			"ja": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3",
 			"nl": "Afghanistan"
@@ -49,7 +49,7 @@
 			"de": "\u00c5land",
 			"en": "\u00c5land Islands",
 			"es": "Alandia",
-			"fr": "Aland",
+			"fr": "\u00c5land",
 			"it": "Isole Aland",
 			"ja": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
 			"nl": "\u00c5landeilanden"
@@ -289,7 +289,7 @@
 			"de": "Antigua und Barbuda",
 			"en": "Antigua and Barbuda",
 			"es": "Antigua y Barbuda",
-			"fr": "Antigua et Barbuda",
+			"fr": "Antigua-et-Barbuda",
 			"it": "Antigua e Barbuda",
 			"ja": "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0",
 			"nl": "Antigua en Barbuda"
@@ -402,17 +402,18 @@
 		"altSpellings": ["AU"],
 		"relevance": "1.5",
 		"region": "Oceania",
-		"subregion": ["Australia", "New Zealand"],
+		"subregion": "Australia and New Zealand",
 		"language": ["English"],
 		"languagesCodes": [],
 		"translations": {
-			"fr": "Australie", 
-			"en": "Australia", 
-			"nl": "Australi\u00eb", 
-			"de": "Australien", 
-			"it": "Australia", 
-			"ja": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2", 
-			"es": "Australia"},
+			"de": "Australien",
+			"en": "Australia",
+			"es": "Australia",
+			"fr": "Australie",
+			"it": "Australia",
+			"ja": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2",
+			"nl": "Australi\u00eb"
+		},
 		"population": 23254142,
 		"latlng": [-27, 133],
 		"demonym": "Australian",
@@ -678,7 +679,7 @@
 			"de": "Belize",
 			"en": "Belize",
 			"es": "Belice",
-			"fr": "Belice",
+			"fr": "Belize",
 			"it": "Belize",
 			"ja": "\u30d9\u30ea\u30fc\u30ba",
 			"nl": "Belize"
@@ -852,7 +853,7 @@
 			"de": "Bosnien und Herzegowina",
 			"en": "Bosnia and Herzegovina",
 			"es": "Bosnia y Herzegovina",
-			"fr": "Bosnie et Herz\u00e9govine",
+			"fr": "Bosnie-Herz\u00e9govine",
 			"it": "Bosnia ed Erzegovina",
 			"ja": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
 			"nl": "Bosni\u00eb en Herzegovina"
@@ -1302,7 +1303,7 @@
 			"de": "Zentralafrikanische Republik",
 			"en": "Central African Republic",
 			"es": "Rep\u00fablica Centroafricana",
-			"fr": "R\u00e9publique Centrafricaine",
+			"fr": "R\u00e9publique centrafricaine",
 			"it": "Repubblica Centrafricana",
 			"ja": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
 			"nl": "Centraal-Afrikaanse Republiek"
@@ -1415,7 +1416,7 @@
 		"altSpellings": ["CX", "Territory of Christmas Island"],
 		"relevance": "0.5",
 		"region": "Oceania",
-		"subregion": ["Australia", "New Zealand"],
+		"subregion": "Australia and New Zealand",
 		"language": ["English"],
 		"languagesCodes": [],
 		"translations": {
@@ -1445,7 +1446,7 @@
 		"altSpellings": ["CC", "Territory of the Cocos (Keeling) Islands", "Keeling Islands"],
 		"relevance": "0",
 		"region": "Oceania",
-		"subregion": ["Australia", "New Zealand"],
+		"subregion": "Australia and New Zealand",
 		"language": ["English"],
 		"languagesCodes": [],
 		"translations": {
@@ -1572,7 +1573,7 @@
 			"de": "Kongo (Dem. Rep.)",
 			"en": "Congo (Dem. Rep.)",
 			"es": "Congo (Rep. Dem.)",
-			"fr": "Congo (Rep. Dem.)",
+			"fr": "Congo (R\u00e9p. d\u00e9m.)",
 			"it": "Congo (Rep. Dem.)",
 			"ja": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd",
 			"nl": "Congo [DRC]"
@@ -1662,7 +1663,7 @@
 			"de": "Elfenbeink\u00fcste",
 			"en": "C\u00f4te D'Ivoire",
 			"es": "Costa de Marfil",
-			"fr": "C\u00f4te D'Ivoire",
+			"fr": "C\u00f4te d'Ivoire",
 			"it": "Costa D'Avorio",
 			"ja": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
 			"nl": "Ivoorkust"
@@ -1785,7 +1786,7 @@
 		"population": 865878,
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
-		"borders": []
+		"borders": [ "GBR" ]
 	},
 	{
 		"name": "Czech Republic",
@@ -1807,7 +1808,7 @@
 			"de": "Tschechische Republik",
 			"en": "Czech Republic",
 			"es": "Rep\u00fablica Checa",
-			"fr": "R\u00e9publique Tch\u00e8que",
+			"fr": "R\u00e9publique tch\u00e8que",
 			"it": "Repubblica Ceca",
 			"ja": "\u30c1\u30a7\u30b3",
 			"nl": "Tsjechi\u00eb"
@@ -1927,7 +1928,7 @@
 			"de": "Dominikanische Republik",
 			"en": "Dominican Republic",
 			"es": "Rep\u00fablica Dominicana",
-			"fr": "R\u00e9publique Dominicaine",
+			"fr": "R\u00e9publique dominicaine",
 			"it": "Repubblica Dominicana",
 			"ja": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd",
 			"nl": "Dominicaanse Republiek"
@@ -2047,7 +2048,7 @@
 			"de": "\u00c4quatorial-Guinea",
 			"en": "Equatorial Guinea",
 			"es": "Guinea Ecuatorial",
-			"fr": "Guin\u00e9e \u00c9quatoriale",
+			"fr": "Guin\u00e9e-\u00c9quatoriale",
 			"it": "Guinea Equatoriale",
 			"ja": "\u8d64\u9053\u30ae\u30cb\u30a2",
 			"nl": "Equatoriaal-Guinea"
@@ -2347,7 +2348,7 @@
 			"de": "Franz\u00f6sisch-Polynesien",
 			"en": "French Polynesia",
 			"es": "Polinesia Francesa",
-			"fr": "Polyn\u00e9sie Fran\u00e7aise",
+			"fr": "Polyn\u00e9sie fran\u00e7aise",
 			"it": "Polinesia Francese",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u30dd\u30ea\u30cd\u30b7\u30a2",
 			"nl": "Frans-Polynesi\u00eb"
@@ -2376,8 +2377,8 @@
 		"translations": {
 			"de": "Franz\u00f6sische S\u00fcd- und Antarktisgebiete",
 			"en": "French Southern Territories",
-			"es": "Territorios Franceses del Sur",
-			"fr": "Terres Australes Fran\u00e7aises",
+			"es": "Tierras Australes y Antárticas Francesas",
+			"fr": "Terres australes et antarctiques fran\u00e7aises",
 			"it": "Territori Francesi del Sud",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u5357\u65b9\u30fb\u5357\u6975\u5730\u57df",
 			"nl": "Franse Gebieden in de zuidelijke Indische Oceaan"
@@ -2764,11 +2765,11 @@
 		"language": ["English", "French"],
 		"languagesCodes": ["en", "fr"],
 		"translations": {
-			"de": "Guernsey und Alderney",
-			"en": "Guernsey and Alderney",
-			"es": "Guernsey y Alderney",
-			"fr": "Guernesey et Aurigny",
-			"it": "Guernsey e Alderney",
+			"de": "Guernsey",
+			"en": "Guernsey",
+			"es": "Guernsey",
+			"fr": "Guernesey",
+			"it": "Guernsey",
 			"ja": "\u30ac\u30fc\u30f3\u30b8\u30fc",
 			"nl": "Guernsey"
 		},
@@ -2917,7 +2918,7 @@
 			"de": "Heard und die McDonaldinseln",
 			"en": "Heard and McDonald Islands",
 			"es": "Islas Heard y McDonald",
-			"fr": "\u00celes Heard-et-MacDonal",
+			"fr": "\u00celes Heard-et-MacDonald",
 			"it": "Isole Heard e McDonald",
 			"ja": "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6",
 			"nl": "Heard- en McDonaldeilanden"
@@ -2944,7 +2945,7 @@
 		"language": ["Italian"],
 		"languagesCodes": ["it", "la"],
 		"translations": {
-			"de": "Vatikan",
+			"de": "Vatikanstadt",
 			"en": "Vatican City",
 			"es": "Ciudad del Vaticano",
 			"fr": "Cit\u00e9 du Vatican",
@@ -4626,7 +4627,7 @@
 			"de": "N\u00e9pal",
 			"en": "Nepal",
 			"es": "Nepal",
-			"fr": "Nepal",
+			"fr": "N\u00e9pal",
 			"it": "Nepal",
 			"ja": "\u30cd\u30d1\u30fc\u30eb",
 			"nl": "Nepal"
@@ -4709,7 +4710,7 @@
 		"altSpellings": ["NZ", "Aotearoa"],
 		"relevance": "0",
 		"region": "Oceania",
-		"subregion": ["Australia", "New Zealand"],
+		"subregion": "Australia and New Zealand",
 		"language": ["English", "M\u0101ori", "New Zealand Sign Language"],
 		"languagesCodes": [],
 		"translations": {
@@ -4859,7 +4860,7 @@
 		"altSpellings": ["NF", "Territory of Norfolk Island", "Teratri of Norf'k Ailen"],
 		"relevance": "0.5",
 		"region": "Oceania",
-		"subregion": ["Australia", "New Zealand"],
+		"subregion": "Australia and New Zealand",
 		"language": ["English", "Norfuk"],
 		"languagesCodes": [],
 		"translations": {
@@ -4904,7 +4905,7 @@
 		"population": 24895000,
 		"latlng": [40, 127],
 		"demonym": "North Korean",
-		"borders": []
+		"borders": [ "CHN", "KOR", "RUS"]
 	},
 	{
 		"name": "Northern Mariana Islands",
@@ -5016,7 +5017,7 @@
 			"de": "Pakistan",
 			"en": "Pakistan",
 			"es": "Pakist\u00e1n",
-			"fr": "Paquistan",
+			"fr": "Pakistan",
 			"it": "Pakistan",
 			"ja": "\u30d1\u30ad\u30b9\u30bf\u30f3",
 			"nl": "Pakistan"
@@ -5076,7 +5077,7 @@
 			"de": "Pal\u00e4stina",
 			"en": "Palestine",
 			"es": "Palestina",
-			"fr": "Palestina",
+			"fr": "Palestine",
 			"it": "Palestina",
 			"ja": "\u30d1\u30ec\u30b9\u30c1\u30ca",
 			"nl": "Palestijnse gebieden"
@@ -5084,7 +5085,7 @@
 		"population": -1,
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
-		"borders": []
+		"borders": [ "ISR", "EGY", "JOR" ]
 	},
 	{
 		"name": "Panama",
@@ -5136,7 +5137,7 @@
 			"de": "Papua-Neuguinea",
 			"en": "Papua New Guinea",
 			"es": "Pap\u00faa Nueva Guinea",
-			"fr": "Papouasie Nouvelle-Guin\u00e9e",
+			"fr": "Papouasie-Nouvelle-Guin\u00e9e",
 			"it": "Papua Nuova Guinea",
 			"ja": "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2",
 			"nl": "Papoea-Nieuw-Guinea"
@@ -5409,7 +5410,7 @@
 		"population": 1733842,
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
-		"borders": []
+		"borders": [ "ALB", "MKD", "MNE", "SRB"]
 	},
 	{
 		"name": "R\u00e9union",
@@ -5608,10 +5609,10 @@
 		"language": ["English"],
 		"languagesCodes": ["en"],
 		"translations": {
-			"de": "F\u00f6deration St. Kitts und Nevis",
+			"de": "St. Kitts und Nevis",
 			"en": "Saint Kitts and Nevis",
-			"es": "Saint Kitts y Nevis",
-			"fr": "Saint Kitts et Nevis",
+			"es": "San Crist\u00f3bal y Nieves",
+			"fr": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
 			"it": "Saint Kitts e Nevis",
 			"ja": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
 			"nl": "Saint Kitts en Nevis"
@@ -6034,7 +6035,7 @@
 		"population": 37429,
 		"latlng": [18.033333, -63.05],
 		"demonym": "Dutch",
-		"borders": []
+		"borders": [ "MAF" ]
 	},
 	{
 		"name": "Slovakia",
@@ -6206,7 +6207,7 @@
 			"de": "S\u00fcdgeorgien und die S\u00fcdlichen Sandwichinseln",
 			"en": "South Georgia and the South Sandwich Islands",
 			"es": "Islas Georgias del Sur y Sandwich del Sur",
-			"fr": "G\u00e9orgie du Sud et les \u00celes Sandwich du Sud",
+			"fr": "G\u00e9orgie du Sud-et-les \u00celes Sandwich du Sud",
 			"it": "Georgia del Sud e Isole Sandwich Meridionali",
 			"ja": "\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u30fb\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u8af8\u5cf6",
 			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden"
@@ -6244,7 +6245,7 @@
 		"population": 50219669,
 		"latlng": [37, 127.5],
 		"demonym": "South Korean",
-		"borders": []
+		"borders": ["PRK"]
 	},
 	{
 		"name": "South Sudan",
@@ -6416,7 +6417,7 @@
 			"de": "Svalbard und Jan Mayen",
 			"en": "Svalbard and Jan Mayen",
 			"es": "Islas Svalbard y Jan Mayen",
-			"fr": "\u00celes Svalbard et Jan Mayen",
+			"fr": "Svalbard et Jan Mayen",
 			"it": "Svalbard e Jan Mayen",
 			"ja": "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u304a\u3088\u3073\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6",
 			"nl": "Svalbard en Jan Mayen"
@@ -6694,7 +6695,7 @@
 		"population": -1,
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
-		"borders": []
+		"borders": [ "IDN" ]
 	},
 	{
 		"name": "Togo",
@@ -6746,7 +6747,7 @@
 			"de": "Tokelau",
 			"en": "Tokelau",
 			"es": "Islas Tokelau",
-			"fr": "\u00celes Tokelau",
+			"fr": "Tokelau",
 			"it": "Isole Tokelau",
 			"ja": "\u30c8\u30b1\u30e9\u30a6",
 			"nl": "Tokelau"
@@ -7046,7 +7047,7 @@
 			"de": "Vereinigte Arabische Emirate",
 			"en": "United Arab Emirates",
 			"es": "Emiratos \u00c1rabes Unidos",
-			"fr": "\u00c9mirats Arabes Unis",
+			"fr": "\u00c9mirats arabes unis",
 			"it": "Emirati Arabi Uniti",
 			"ja": "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6",
 			"nl": "Verenigde Arabische Emiraten"
@@ -7133,10 +7134,10 @@
 		"language": ["English"],
 		"languagesCodes": ["en"],
 		"translations": {
-			"de": "US-Amerikanische Hoheitsgebiete",
+			"de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
 			"en": "United States Minor Outlying Islands",
-			"es": "Islas menores de Estados Unidos",
-			"fr": "D\u00e9pendances am\u00e9ricaines",
+			"es": "Islas Ultramarinas Menores de Estados Unidos",
+			"fr": "\u00celes mineures \u00e9loign\u00e9es des \u00c9tats-Unis",
 			"it": "Isole minori esterne degli Stati Uniti d'America",
 			"ja": "\u5408\u8846\u56fd\u9818\u6709\u5c0f\u96e2\u5cf6",
 			"nl": "Kleine afgelegen eilanden van de Verenigde Staten"
@@ -7166,7 +7167,7 @@
 			"de": "Amerikanische Jungferninseln",
 			"en": "Virgin Islands of the United States",
 			"es": "Islas V\u00edrgenes de los Estados Unidos",
-			"fr": "\u00celes Vierges am\u00e9ricaines",
+			"fr": "\u00celes Vierges des \u00c9tats-Unis",
 			"it": "Isole Vergini americane",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
 			"nl": "Amerikaanse Maagdeneilanden"
