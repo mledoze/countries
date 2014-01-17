@@ -1034,7 +1034,7 @@
             "nl": "Brunei",
             "de": "Brunei",
             "it": "Brunei",
-            "ja": "ブルネイ・ダルサラーム",
+            "ja": "\u30D6\u30EB\u30CD\u30A4\u30FB\u30C0\u30EB\u30B5\u30E9\u30FC\u30E0",
             "es": "Brunei"
         },
 		"population": 393162,
@@ -1154,7 +1154,7 @@
             "nl": "Cambodja",
             "de": "Kambodscha",
             "it": "Cambogia",
-            "ja": "カンボジア",
+            "ja": "\u30AB\u30F3\u30DC\u30B8\u30A2",
             "es": "Camboya"
         },
 		"population": 15135000,
@@ -1424,7 +1424,7 @@
             "nl": "Christmaseiland",
             "de": "Weihnachtsinsel",
             "it": "Isola di Natale",
-            "ja": "クリスマス島",
+            "ja": "\u30AF\u30EA\u30B9\u30DE\u30B9\u5CF6",
             "es": "Isla de Navidad"
         },
 		"population": 2072,
@@ -1454,7 +1454,7 @@
             "nl": "Cocoseilanden",
             "de": "Kokosinseln",
             "it": "Isole Cocos e Keeling",
-            "ja": "ココス（キーリング）諸島",
+            "ja": "\u30B3\u30B3\u30B9\uFF08\u30AD\u30FC\u30EA\u30F3\u30B0\uFF09\u8AF8\u5CF6",
             "es": "Islas Cocos o Islas Keeling"
         },
 		"population": 550,
@@ -3129,7 +3129,7 @@
             "nl": "Indonesië",
             "de": "Indonesien",
             "it": "Indonesia",
-            "ja": "インドネシア",
+            "ja": "\u30A4\u30F3\u30C9\u30CD\u30B7\u30A2",
             "es": "Indonesia"
         },
 		"population": 237641326,
@@ -3608,7 +3608,7 @@
             "nl": "Laos",
             "de": "Laos",
             "it": "Laos",
-            "ja": "ラオス人民民主共和国",
+            "ja": "\u30E9\u30AA\u30B9\u4EBA\u6C11\u6C11\u4E3B\u5171\u548C\u56FD",
             "es": "Laos"
         },
 		"population": 6580800,
@@ -3998,7 +3998,7 @@
             "nl": "Maleisië",
             "de": "Malaysia",
             "it": "Malesia",
-            "ja": "マレーシア",
+            "ja": "\u30DE\u30EC\u30FC\u30B7\u30A2",
             "es": "Malasia"
         },
 		"population": 29793600,
@@ -4718,7 +4718,7 @@
             "nl": "Nieuw-Zeeland",
             "de": "Neuseeland",
             "it": "Nuova Zelanda",
-            "ja": "ニュージーランド",
+            "ja": "\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9",
             "es": "Nueva Zelanda"
         },
 		"population": 4478810,
@@ -4868,7 +4868,7 @@
             "nl": "Norfolkeiland",
             "de": "Norfolkinsel",
             "it": "Isola Norfolk",
-            "ja": "ノーフォーク島",
+            "ja": "\u30CE\u30FC\u30D5\u30A9\u30FC\u30AF\u5CF6",
             "es": "Isla de Norfolk"
         },
 		"population": 2302,
@@ -5228,7 +5228,7 @@
             "nl": "Filipijnen",
             "de": "Philippinen",
             "it": "Filippine",
-            "ja": "フィリピン",
+            "ja": "\u30D5\u30A3\u30EA\u30D4\u30F3",
             "es": "Filipinas"
         },
 		"population": 98678000,
@@ -6003,7 +6003,7 @@
             "nl": "Singapore",
             "de": "Singapur",
             "it": "Singapore",
-            "ja": "シンガポール",
+            "ja": "\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB",
             "es": "Singapur"
         },
 		"population": 5399200,
@@ -6268,7 +6268,7 @@
             "nl": "Zuid-Soedan",
             "de": "Südsudan",
             "it": "Sudan del sud",
-            "ja": "南スーダン",
+            "ja": "\u5357\u30B9\u30FC\u30C0\u30F3",
             "es": "Sudán del Sur"
         },
 		"population": 11296000,
@@ -6658,7 +6658,7 @@
             "nl": "Thailand",
             "de": "Thailand",
             "it": "Tailandia",
-            "ja": "タイ",
+            "ja": "\u30BF\u30A4",
             "es": "Tailandia"
         },
 		"population": 65926261,
@@ -6688,7 +6688,7 @@
             "nl": "Oost-Timor",
             "de": "Timor-Leste",
             "it": "Timor Est",
-            "ja": "東ティモール",
+            "ja": "\u6771\u30C6\u30A3\u30E2\u30FC\u30EB",
             "es": "Timor Oriental"
         },
 		"population": -1,
@@ -7318,7 +7318,7 @@
             "nl": "Vietnam",
             "de": "Vietnam",
             "it": "Vietnam",
-            "ja": "ベトナム",
+            "ja": "\u30D9\u30C8\u30CA\u30E0",
             "es": "Vietnam"
         },
 		"population": 90388000,
