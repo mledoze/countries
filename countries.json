@@ -3086,7 +3086,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Indonesian"],
-		"languagesCodes": [],
+		"languagesCodes": ["id"],
 		"translations": {},
 		"population": 237641326,
 		"latlng": [-5, 120],
