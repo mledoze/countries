@@ -3192,7 +3192,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Indonesian"],
-		"languagesCodes": [],
+		"languagesCodes": ["id"],
 		"translations": {
 			"hr": "Indonezija"
 			},
