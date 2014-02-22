@@ -17,7 +17,6 @@
 		"languageCodes": ["ps", "uz", "tk"],
 		"translations": {
 			"de": "Afghanistan",
-			"en": "Afghanistan",
 			"es": "Afganist\u00e1n",
 			"fr": "Afghanistan",
 			"it": "Afghanistan",
@@ -48,7 +47,6 @@
 		"languageCodes": ["sv"],
 		"translations": {
 			"de": "\u00c5land",
-			"en": "\u00c5land Islands",
 			"es": "Alandia",
 			"fr": "\u00c5land",
 			"it": "Isole Aland",
@@ -79,7 +77,6 @@
 		"languageCodes": ["sq"],
 		"translations": {
 			"de": "Albanien",
-			"en": "Albania",
 			"es": "Albania",
 			"fr": "Albanie",
 			"it": "Albania",
@@ -110,7 +107,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Algerien",
-			"en": "Algeria",
 			"es": "Argelia",
 			"fr": "Alg\u00e9rie",
 			"it": "Algeria",
@@ -141,7 +137,6 @@
 		"languageCodes": ["en", "sm"],
 		"translations": {
 			"de": "Amerikanisch-Samoa",
-			"en": "American Samoa",
 			"es": "Samoa Americana",
 			"fr": "Samoa am\u00e9ricaines",
 			"it": "Samoa Americane",
@@ -172,7 +167,6 @@
 		"languageCodes": ["ca"],
 		"translations": {
 			"de": "Andorra",
-			"en": "Andorre",
 			"es": "Andorra",
 			"fr": "Andorre",
 			"it": "Andorra",
@@ -203,7 +197,6 @@
 		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Angola",
-			"en": "Angola",
 			"es": "Angola",
 			"fr": "Angola",
 			"it": "Angola",
@@ -234,7 +227,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Anguilla",
-			"en": "Anguilla",
 			"es": "Anguilla",
 			"fr": "Anguilla",
 			"it": "Anguilla",
@@ -265,7 +257,6 @@
 		"languageCodes": [],
 		"translations": {
 			"de": "Antarktis",
-			"en": "Antarctica",
 			"es": "Ant\u00e1rtida",
 			"fr": "Antarctique",
 			"it": "Antartide",
@@ -296,7 +287,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Antigua und Barbuda",
-			"en": "Antigua and Barbuda",
 			"es": "Antigua y Barbuda",
 			"fr": "Antigua-et-Barbuda",
 			"it": "Antigua e Barbuda",
@@ -327,7 +317,6 @@
 		"languageCodes": ["es", "gn"],
 		"translations": {
 			"de": "Argentinien",
-			"en": "Argentina",
 			"es": "Argentina",
 			"fr": "Argentine",
 			"it": "Argentina",
@@ -358,7 +347,6 @@
 		"languageCodes": ["hy", "ru"],
 		"translations": {
 			"de": "Armenien",
-			"en": "Armenia",
 			"es": "Armenia",
 			"fr": "Arm\u00e9nie",
 			"it": "Armenia",
@@ -389,7 +377,6 @@
 		"languageCodes": ["nl"],
 		"translations": {
 			"de": "Aruba",
-			"en": "Aruba",
 			"es": "Aruba",
 			"fr": "Aruba",
 			"it": "Aruba",
@@ -420,7 +407,6 @@
 		"languageCodes": [],
 		"translations": {
 			"de": "Australien",
-			"en": "Australia",
 			"es": "Australia",
 			"fr": "Australie",
 			"it": "Australia",
@@ -451,7 +437,6 @@
 		"languageCodes": ["de"],
 		"translations": {
 			"de": "\u00d6sterreich",
-			"en": "Austria",
 			"es": "Austria",
 			"fr": "Autriche",
 			"it": "Austria",
@@ -482,7 +467,6 @@
 		"languageCodes": ["az", "hy"],
 		"translations": {
 			"de": "Aserbaidschan",
-			"en": "Azerbaijan",
 			"es": "Azerbaiy\u00e1n",
 			"fr": "Azerba\u00efdjan",
 			"it": "Azerbaijan",
@@ -513,7 +497,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Bahamas",
-			"en": "Bahamas",
 			"es": "Bahamas",
 			"fr": "Bahamas",
 			"it": "Bahamas",
@@ -544,7 +527,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Bahrain",
-			"en": "Bahrain",
 			"es": "Bahrein",
 			"fr": "Bahre\u00efn",
 			"it": "Bahrein",
@@ -575,7 +557,6 @@
 		"languageCodes": ["bn"],
 		"translations": {
 			"de": "Bangladesch",
-			"en": "Bangladesh",
 			"es": "Bangladesh",
 			"fr": "Bangladesh",
 			"it": "Bangladesh",
@@ -606,7 +587,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Barbados",
-			"en": "Barbade",
 			"es": "Barbados",
 			"fr": "Barbade",
 			"it": "Barbados",
@@ -637,7 +617,6 @@
 		"languageCodes": ["be", "ru"],
 		"translations": {
 			"de": "Wei\u00dfrussland",
-			"en": "Belarus",
 			"es": "Bielorrusia",
 			"fr": "Bi\u00e9lorussie",
 			"it": "Bielorussia",
@@ -668,7 +647,6 @@
 		"languageCodes": ["nl", "fr", "de"],
 		"translations": {
 			"de": "Belgien",
-			"en": "Belgium",
 			"es": "B\u00e9lgica",
 			"fr": "Belgique",
 			"it": "Belgio",
@@ -699,7 +677,6 @@
 		"languageCodes": ["en", "es"],
 		"translations": {
 			"de": "Belize",
-			"en": "Belize",
 			"es": "Belice",
 			"fr": "Belize",
 			"it": "Belize",
@@ -730,7 +707,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Benin",
-			"en": "Benin",
 			"es": "Ben\u00edn",
 			"fr": "B\u00e9nin",
 			"it": "Benin",
@@ -761,7 +737,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Bermuda",
-			"en": "Bermuda",
 			"es": "Bermudas",
 			"fr": "Bermudes",
 			"it": "Bermuda",
@@ -792,7 +767,6 @@
 		"languageCodes": ["dz"],
 		"translations": {
 			"de": "Bhutan",
-			"en": "Bhutan",
 			"es": "But\u00e1n",
 			"fr": "Bhoutan",
 			"it": "Bhutan",
@@ -823,7 +797,6 @@
 		"languageCodes": ["es", "ay", "qu"],
 		"translations": {
 			"de": "Bolivien",
-			"en": "Bolivia",
 			"es": "Bolivia",
 			"fr": "Bolivie",
 			"it": "Bolivia",
@@ -876,7 +849,6 @@
 		"languageCodes": ["bs", "hr", "sr"],
 		"translations": {
 			"de": "Bosnien und Herzegowina",
-			"en": "Bosnia and Herzegovina",
 			"es": "Bosnia y Herzegovina",
 			"fr": "Bosnie-Herz\u00e9govine",
 			"it": "Bosnia ed Erzegovina",
@@ -907,7 +879,6 @@
 		"languageCodes": ["en", "tn"],
 		"translations": {
 			"de": "Botswana",
-			"en": "Botswana",
 			"es": "Botswana",
 			"fr": "Botswana",
 			"it": "Botswana",
@@ -938,7 +909,6 @@
 		"languageCodes": [],
 		"translations": {
 			"de": "Bouvetinsel",
-			"en": "Bouvet Island",
 			"es": "Isla Bouvet",
 			"fr": "\u00cele Bouvet",
 			"it": "Isola Bouvet",
@@ -969,7 +939,6 @@
 		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Brasilien",
-			"en": "Brazil",
 			"es": "Brasil",
 			"fr": "Br\u00e9sil",
 			"it": "Brasile",
@@ -1000,7 +969,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Britisches Territorium im Indischen Ozean",
-			"en": "British Indian Ocean Territory",
 			"es": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico",
 			"fr": "Territoire britannique de l'oc\u00e9an Indien",
 			"it": "Territorio britannico dell'oceano indiano",
@@ -1031,7 +999,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Britische Jungferninseln",
-			"en": "British Virgin Islands",
 			"es": "Islas V\u00edrgenes del Reino Unido",
 			"fr": "\u00celes Vierges britanniques",
 			"it": "Isole Vergini Britanniche",
@@ -1062,7 +1029,6 @@
 		"languageCodes": ["ms"],
 		"translations": {
 			"fr": "Brunei",
-			"en": "Brunei",
 			"nl": "Brunei",
 			"de": "Brunei",
 			"it": "Brunei",
@@ -1093,7 +1059,6 @@
 		"languageCodes": ["bg"],
 		"translations": {
 			"de": "Bulgarien",
-			"en": "Bulgaria",
 			"es": "Bulgaria",
 			"fr": "Bulgarie",
 			"it": "Bulgaria",
@@ -1124,7 +1089,6 @@
 		"languageCodes": ["fr", "ff"],
 		"translations": {
 			"de": "Burkina Faso",
-			"en": "Burkina Faso",
 			"es": "Burkina Faso",
 			"fr": "Burkina Faso",
 			"it": "Burkina Faso",
@@ -1155,7 +1119,6 @@
 		"languageCodes": ["fr", "rn"],
 		"translations": {
 			"de": "Burundi",
-			"en": "Burundi",
 			"es": "Burundi",
 			"fr": "Burundi",
 			"it": "Burundi",
@@ -1186,7 +1149,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "Cambodge",
-			"en": "Cambodia",
 			"nl": "Cambodja",
 			"de": "Kambodscha",
 			"it": "Cambogia",
@@ -1217,7 +1179,6 @@
 		"languageCodes": ["en", "fr"],
 		"translations": {
 			"de": "Kamerun",
-			"en": "Cameroon",
 			"es": "Camer\u00fan",
 			"fr": "Cameroun",
 			"it": "Camerun",
@@ -1248,7 +1209,6 @@
 		"languageCodes": ["en", "fr"],
 		"translations": {
 			"de": "Kanada",
-			"en": "Canada",
 			"es": "Canad\u00e1",
 			"fr": "Canada",
 			"it": "Canada",
@@ -1279,7 +1239,6 @@
 		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Kap Verde",
-			"en": "Cape Verde",
 			"es": "Cabo Verde",
 			"fr": "Cap Vert",
 			"it": "Capo Verde",
@@ -1310,7 +1269,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Kaimaninseln",
-			"en": "Cayman Islands",
 			"es": "Islas Caim\u00e1n",
 			"fr": "\u00celes Ca\u00efmans",
 			"it": "Isole Cayman",
@@ -1341,7 +1299,6 @@
 		"languageCodes": ["fr", "sg"],
 		"translations": {
 			"de": "Zentralafrikanische Republik",
-			"en": "Central African Republic",
 			"es": "Rep\u00fablica Centroafricana",
 			"fr": "R\u00e9publique centrafricaine",
 			"it": "Repubblica Centrafricana",
@@ -1372,7 +1329,6 @@
 		"languageCodes": ["ar", "fr"],
 		"translations": {
 			"de": "Tschad",
-			"en": "Chad",
 			"es": "chad",
 			"fr": "Tchad",
 			"it": "Ciad",
@@ -1403,7 +1359,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Chile",
-			"en": "Chile",
 			"es": "Chile",
 			"fr": "Chili",
 			"it": "Cile",
@@ -1434,7 +1389,6 @@
 		"languageCodes": ["zh"],
 		"translations": {
 			"de": "China",
-			"en": "China",
 			"es": "China",
 			"fr": "Chine",
 			"it": "Cina",
@@ -1465,7 +1419,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "\u00cele Christmas",
-			"en": "Christmas Island",
 			"nl": "Christmaseiland",
 			"de": "Weihnachtsinsel",
 			"it": "Isola di Natale",
@@ -1496,7 +1449,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "\u00celes Cocos",
-			"en": "Cocos (Keeling) Islands",
 			"nl": "Cocoseilanden",
 			"de": "Kokosinseln",
 			"it": "Isole Cocos e Keeling",
@@ -1527,7 +1479,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Kolumbien",
-			"en": "Colombia",
 			"es": "Colombia",
 			"fr": "Colombie",
 			"it": "Colombia",
@@ -1558,7 +1509,6 @@
 		"languageCodes": ["ar", "fr"],
 		"translations": {
 			"de": "Union der Komoren",
-			"en": "Comoros",
 			"es": "Comoras",
 			"fr": "Comores",
 			"it": "Comore",
@@ -1589,7 +1539,6 @@
 		"languageCodes": ["fr", "ln"],
 		"translations": {
 			"de": "Kongo",
-			"en": "Congo",
 			"es": "Congo",
 			"fr": "Congo",
 			"it": "Congo",
@@ -1620,7 +1569,6 @@
 		"languageCodes": ["fr", "ln", "kg", "sw", "lu"],
 		"translations": {
 			"de": "Kongo (Dem. Rep.)",
-			"en": "Congo (Dem. Rep.)",
 			"es": "Congo (Rep. Dem.)",
 			"fr": "Congo (R\u00e9p. d\u00e9m.)",
 			"it": "Congo (Rep. Dem.)",
@@ -1651,7 +1599,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Cookinseln",
-			"en": "Cook Islands",
 			"es": "Islas Cook",
 			"fr": "\u00celes Cook",
 			"it": "Isole Cook",
@@ -1682,7 +1629,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Costa Rica",
-			"en": "Costa Rica",
 			"es": "Costa Rica",
 			"fr": "Costa Rica",
 			"it": "Costa Rica",
@@ -1713,7 +1659,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Elfenbeink\u00fcste",
-			"en": "C\u00f4te D'Ivoire",
 			"es": "Costa de Marfil",
 			"fr": "C\u00f4te d'Ivoire",
 			"it": "Costa D'Avorio",
@@ -1744,7 +1689,6 @@
 		"languageCodes": ["hr"],
 		"translations": {
 			"de": "Kroatien",
-			"en": "Croatia",
 			"es": "Croacia",
 			"fr": "Croatie",
 			"it": "Croazia",
@@ -1775,7 +1719,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Kuba",
-			"en": "Cuba",
 			"es": "Cuba",
 			"fr": "Cuba",
 			"it": "Cuba",
@@ -1805,7 +1748,6 @@
 		"language": ["Dutch", "Papiamentu", "English"],
 		"languageCodes": [],
 		"translations": {
-			"en": "Cura\u00e7ao",
 			"nl": "Cura\u00e7ao"
 		},
 		"population": 150563,
@@ -1831,7 +1773,6 @@
 		"languageCodes": ["el", "tr", "hy"],
 		"translations": {
 			"de": "Zypern",
-			"en": "Cyprus",
 			"es": "Chipre",
 			"fr": "Chypre",
 			"it": "Cipro",
@@ -1862,7 +1803,6 @@
 		"languageCodes": ["cs", "sk"],
 		"translations": {
 			"de": "Tschechische Republik",
-			"en": "Czech Republic",
 			"es": "Rep\u00fablica Checa",
 			"fr": "R\u00e9publique tch\u00e8que",
 			"it": "Repubblica Ceca",
@@ -1893,7 +1833,6 @@
 		"languageCodes": ["da"],
 		"translations": {
 			"de": "D\u00e4nemark",
-			"en": "Denmark",
 			"es": "Dinamarca",
 			"fr": "Danemark",
 			"it": "Danimarca",
@@ -1924,7 +1863,6 @@
 		"languageCodes": ["ar", "fr"],
 		"translations": {
 			"de": "Dschibuti",
-			"en": "Djibouti",
 			"es": "Yibuti",
 			"fr": "Djibouti",
 			"it": "Gibuti",
@@ -1955,7 +1893,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Dominica",
-			"en": "Dominica",
 			"es": "Dominica",
 			"fr": "Dominique",
 			"it": "Dominica",
@@ -1986,7 +1923,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Dominikanische Republik",
-			"en": "Dominican Republic",
 			"es": "Rep\u00fablica Dominicana",
 			"fr": "R\u00e9publique dominicaine",
 			"it": "Repubblica Dominicana",
@@ -2017,7 +1953,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Ecuador",
-			"en": "Ecuador",
 			"es": "Ecuador",
 			"fr": "\u00c9quateur",
 			"it": "Ecuador",
@@ -2048,7 +1983,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "\u00c4gypten",
-			"en": "Egypt",
 			"es": "Egipto",
 			"fr": "\u00c9gypte",
 			"it": "Egitto",
@@ -2079,7 +2013,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "El Salvador",
-			"en": "El Salvador",
 			"es": "El Salvador",
 			"fr": "Salvador",
 			"it": "El Salvador",
@@ -2110,7 +2043,6 @@
 		"languageCodes": ["es", "fr"],
 		"translations": {
 			"de": "\u00c4quatorial-Guinea",
-			"en": "Equatorial Guinea",
 			"es": "Guinea Ecuatorial",
 			"fr": "Guin\u00e9e-\u00c9quatoriale",
 			"it": "Guinea Equatoriale",
@@ -2141,7 +2073,6 @@
 		"languageCodes": ["en", "ar", "ti"],
 		"translations": {
 			"de": "Eritrea",
-			"en": "Eritrea",
 			"es": "Eritrea",
 			"fr": "\u00c9rythr\u00e9e",
 			"it": "Eritrea",
@@ -2172,7 +2103,6 @@
 		"languageCodes": ["et"],
 		"translations": {
 			"de": "Estland",
-			"en": "Estonia",
 			"es": "Estonia",
 			"fr": "Estonie",
 			"it": "Estonia",
@@ -2203,7 +2133,6 @@
 		"languageCodes": ["am"],
 		"translations": {
 			"de": "\u00c4thiopien",
-			"en": "Ethiopia",
 			"es": "Etiop\u00eda",
 			"fr": "\u00c9thiopie",
 			"it": "Etiopia",
@@ -2234,7 +2163,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Falklandinseln",
-			"en": "Falkland Islands",
 			"es": "Islas Malvinas",
 			"fr": "\u00celes Malouines",
 			"it": "Isole Falkland o Isole Malvine",
@@ -2265,7 +2193,6 @@
 		"languageCodes": ["fo"],
 		"translations": {
 			"de": "F\u00e4r\u00f6er-Inseln",
-			"en": "Faroe Islands",
 			"es": "Islas Faroe",
 			"fr": "\u00celes F\u00e9ro\u00e9",
 			"it": "Isole Far Oer",
@@ -2296,7 +2223,6 @@
 		"languageCodes": ["en", "fj", "hi", "ur"],
 		"translations": {
 			"de": "Fidschi",
-			"en": "Fiji",
 			"es": "Fiyi",
 			"fr": "Fidji",
 			"it": "Figi",
@@ -2327,7 +2253,6 @@
 		"languageCodes": ["fi", "sv"],
 		"translations": {
 			"de": "Finnland",
-			"en": "Finland",
 			"es": "Finlandia",
 			"fr": "Finlande",
 			"it": "Finlandia",
@@ -2358,7 +2283,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Frankreich",
-			"en": "France",
 			"es": "Francia",
 			"fr": "France",
 			"it": "Francia",
@@ -2389,7 +2313,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Franz\u00f6sisch Guyana",
-			"en": "French Guiana",
 			"es": "Guayana Francesa",
 			"fr": "Guayane",
 			"it": "Guyana francese",
@@ -2420,7 +2343,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Franz\u00f6sisch-Polynesien",
-			"en": "French Polynesia",
 			"es": "Polinesia Francesa",
 			"fr": "Polyn\u00e9sie fran\u00e7aise",
 			"it": "Polinesia Francese",
@@ -2451,7 +2373,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Franz\u00f6sische S\u00fcd- und Antarktisgebiete",
-			"en": "French Southern Territories",
 			"es": "Tierras Australes y Antárticas Francesas",
 			"fr": "Terres australes et antarctiques fran\u00e7aises",
 			"it": "Territori Francesi del Sud",
@@ -2482,7 +2403,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Gabun",
-			"en": "Gabon",
 			"es": "Gab\u00f3n",
 			"fr": "Gabon",
 			"it": "Gabon",
@@ -2513,7 +2433,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Gambia",
-			"en": "Gambia",
 			"es": "Gambia",
 			"fr": "Gambie",
 			"it": "Gambia",
@@ -2544,7 +2463,6 @@
 		"languageCodes": ["ka"],
 		"translations": {
 			"de": "Georgien",
-			"en": "Georgia",
 			"es": "Georgia",
 			"fr": "G\u00e9orgie",
 			"it": "Georgia",
@@ -2575,7 +2493,6 @@
 		"languageCodes": ["de"],
 		"translations": {
 			"de": "Deutschland",
-			"en": "Germany",
 			"es": "Alemania",
 			"fr": "Allemagne",
 			"it": "Germania",
@@ -2606,7 +2523,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Ghana",
-			"en": "Ghana",
 			"es": "Ghana",
 			"fr": "Ghana",
 			"it": "Ghana",
@@ -2637,7 +2553,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Gibraltar",
-			"en": "Gibraltar",
 			"es": "Gibraltar",
 			"fr": "Gibraltar",
 			"it": "Gibilterra",
@@ -2668,7 +2583,6 @@
 		"languageCodes": ["el"],
 		"translations": {
 			"de": "Griechenland",
-			"en": "Greece",
 			"es": "Grecia",
 			"fr": "Gr\u00e8ce",
 			"it": "Grecia",
@@ -2699,7 +2613,6 @@
 		"languageCodes": ["kl"],
 		"translations": {
 			"de": "Gr\u00f6nland",
-			"en": "Greenland",
 			"es": "Groenlandia",
 			"fr": "Groenland",
 			"it": "Groenlandia",
@@ -2730,7 +2643,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Grenada",
-			"en": "Grenada",
 			"es": "Grenada",
 			"fr": "Grenade",
 			"it": "Grenada",
@@ -2761,7 +2673,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Guadeloupe",
-			"en": "Guadeloupe",
 			"es": "Guadalupe",
 			"fr": "Guadeloupe",
 			"it": "Guadeloupa",
@@ -2792,7 +2703,6 @@
 		"languageCodes": ["en", "ch", "es"],
 		"translations": {
 			"de": "Guam",
-			"en": "Guam",
 			"es": "Guam",
 			"fr": "Guam",
 			"it": "Guam",
@@ -2823,7 +2733,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Guatemala",
-			"en": "Guatemala",
 			"es": "Guatemala",
 			"fr": "Guatemala",
 			"it": "Guatemala",
@@ -2854,7 +2763,6 @@
 		"languageCodes": ["en", "fr"],
 		"translations": {
 			"de": "Guernsey",
-			"en": "Guernsey",
 			"es": "Guernsey",
 			"fr": "Guernesey",
 			"it": "Guernsey",
@@ -2885,7 +2793,6 @@
 		"languageCodes": ["fr", "ff"],
 		"translations": {
 			"de": "Guinea",
-			"en": "Guinea",
 			"es": "Guinea",
 			"fr": "Guin\u00e9e",
 			"it": "Guinea",
@@ -2916,7 +2823,6 @@
 		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Guinea-Bissau",
-			"en": "Guinea-Bissau",
 			"es": "Guinea-Bis\u00e1u",
 			"fr": "Guin\u00e9e-Bissau",
 			"it": "Guinea-Bissau",
@@ -2947,7 +2853,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Guyana",
-			"en": "Guyana",
 			"es": "Guyana",
 			"fr": "Guyane",
 			"it": "Guyana",
@@ -2978,7 +2883,6 @@
 		"languageCodes": ["fr", "ht"],
 		"translations": {
 			"de": "Haiti",
-			"en": "Haiti",
 			"es": "Haiti",
 			"fr": "Ha\u00efti",
 			"it": "Haiti",
@@ -3009,7 +2913,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Heard und die McDonaldinseln",
-			"en": "Heard and McDonald Islands",
 			"es": "Islas Heard y McDonald",
 			"fr": "\u00celes Heard-et-MacDonald",
 			"it": "Isole Heard e McDonald",
@@ -3040,7 +2943,6 @@
 		"languageCodes": ["it", "la"],
 		"translations": {
 			"de": "Vatikanstadt",
-			"en": "Vatican City",
 			"es": "Ciudad del Vaticano",
 			"fr": "Cit\u00e9 du Vatican",
 			"it": "Citt\u00e0 del Vaticano",
@@ -3071,7 +2973,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Honduras",
-			"en": "Honduras",
 			"es": "Honduras",
 			"fr": "Honduras",
 			"it": "Honduras",
@@ -3102,7 +3003,6 @@
 		"languageCodes": ["en", "zh"],
 		"translations": {
 			"de": "Hong Kong",
-			"en": "Hong Kong",
 			"es": "Hong Kong",
 			"fr": "Hong Kong",
 			"it": "Hong Kong",
@@ -3133,7 +3033,6 @@
 		"languageCodes": ["hu"],
 		"translations": {
 			"de": "Ungarn",
-			"en": "Hungary",
 			"es": "Hungr\u00eda",
 			"fr": "Hongrie",
 			"it": "Ungheria",
@@ -3164,7 +3063,6 @@
 		"languageCodes": ["is"],
 		"translations": {
 			"de": "Island",
-			"en": "Iceland",
 			"es": "Islandia",
 			"fr": "Islande",
 			"it": "Islanda",
@@ -3195,7 +3093,6 @@
 		"languageCodes": ["hi", "en"],
 		"translations": {
 			"de": "Indien",
-			"en": "India",
 			"es": "India",
 			"fr": "Inde",
 			"it": "India",
@@ -3226,7 +3123,6 @@
 		"languageCodes": ["id"],
 		"translations": {
 			"fr": "Indon\u00e9sie",
-			"en": "Indonesia",
 			"nl": "Indonesi\u00eb",
 			"de": "Indonesien",
 			"it": "Indonesia",
@@ -3257,7 +3153,6 @@
 		"languageCodes": ["fa"],
 		"translations": {
 			"de": "Iran",
-			"en": "Iran",
 			"es": "Iran",
 			"fr": "Iran",
 			"ja": "\u30a4\u30e9\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
@@ -3287,7 +3182,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Irak",
-			"en": "Iraq",
 			"es": "Irak",
 			"fr": "Irak",
 			"it": "Iraq",
@@ -3318,7 +3212,6 @@
 		"languageCodes": ["en", "ga"],
 		"translations": {
 			"de": "Irland",
-			"en": "Ireland",
 			"es": "Irlanda",
 			"fr": "Irlande",
 			"it": "Irlanda",
@@ -3349,7 +3242,6 @@
 		"languageCodes": ["en", "gv"],
 		"translations": {
 			"de": "Insel Man",
-			"en": "Isle of Man",
 			"es": "Isla de Man",
 			"fr": "\u00cele de Man",
 			"it": "Isola di Man",
@@ -3380,7 +3272,6 @@
 		"languageCodes": ["he", "ar"],
 		"translations": {
 			"de": "Israel",
-			"en": "Israel",
 			"es": "Israel",
 			"fr": "Isra\u00ebl",
 			"it": "Israele",
@@ -3411,7 +3302,6 @@
 		"languageCodes": ["it"],
 		"translations": {
 			"de": "Italien",
-			"en": "Italy",
 			"es": "Italia",
 			"fr": "Italie",
 			"it": "Italia",
@@ -3442,7 +3332,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Jamaika",
-			"en": "Jamaica",
 			"es": "Jamaica",
 			"fr": "Jama\u00efque",
 			"it": "Giamaica",
@@ -3473,7 +3362,6 @@
 		"languageCodes": ["ja"],
 		"translations": {
 			"de": "Japan",
-			"en": "Japan",
 			"es": "Jap\u00f3n",
 			"fr": "Japon",
 			"it": "Giappone",
@@ -3504,7 +3392,6 @@
 		"languageCodes": ["en", "fr"],
 		"translations": {
 			"de": "Jersey",
-			"en": "Jersey",
 			"es": "Jersey",
 			"fr": "Jersey",
 			"it": "Isola di Jersey",
@@ -3535,7 +3422,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Jordanien",
-			"en": "Jordan",
 			"es": "Jordania",
 			"fr": "Jordanie",
 			"it": "Giordania",
@@ -3566,7 +3452,6 @@
 		"languageCodes": ["kk", "ru"],
 		"translations": {
 			"de": "Kasachstan",
-			"en": "Kazakhstan",
 			"es": "Kazajist\u00e1n",
 			"fr": "Kazakhstan",
 			"it": "Kazakistan",
@@ -3597,7 +3482,6 @@
 		"languageCodes": ["en", "sw"],
 		"translations": {
 			"de": "Kenia",
-			"en": "Kenya",
 			"es": "Kenia",
 			"fr": "Kenya",
 			"it": "Kenya",
@@ -3628,7 +3512,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Kiribati",
-			"en": "Kiribati",
 			"es": "Kiribati",
 			"fr": "Kiribati",
 			"it": "Kiribati",
@@ -3659,7 +3542,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Kuwait",
-			"en": "Kuwait",
 			"es": "Kuwait",
 			"fr": "Kowe\u00eft",
 			"it": "Kuwait",
@@ -3690,7 +3572,6 @@
 		"languageCodes": ["ky", "ru"],
 		"translations": {
 			"de": "Kirgisistan",
-			"en": "Kyrgyzstan",
 			"es": "Kirguizist\u00e1n",
 			"fr": "Kirghizistan",
 			"it": "Kirghizistan",
@@ -3721,7 +3602,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "Laos",
-			"en": "Laos",
 			"nl": "Laos",
 			"de": "Laos",
 			"it": "Laos",
@@ -3752,7 +3632,6 @@
 		"languageCodes": ["lv"],
 		"translations": {
 			"de": "Lettland",
-			"en": "Latvia",
 			"es": "Letonia",
 			"fr": "Lettonie",
 			"it": "Lettonia",
@@ -3783,7 +3662,6 @@
 		"languageCodes": ["ar", "fr"],
 		"translations": {
 			"de": "Libanon",
-			"en": "Lebanon",
 			"es": "L\u00edbano",
 			"fr": "Liban",
 			"it": "Libano",
@@ -3814,7 +3692,6 @@
 		"languageCodes": ["en", "st"],
 		"translations": {
 			"de": "Lesotho",
-			"en": "Lesotho",
 			"es": "Lesotho",
 			"fr": "Lesotho",
 			"it": "Lesotho",
@@ -3845,7 +3722,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Liberia",
-			"en": "Liberia",
 			"es": "Liberia",
 			"fr": "Liberia",
 			"it": "Liberia",
@@ -3876,7 +3752,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Libyen",
-			"en": "Libya",
 			"es": "Libia",
 			"fr": "Libye",
 			"it": "Libia",
@@ -3907,7 +3782,6 @@
 		"languageCodes": ["de"],
 		"translations": {
 			"de": "Liechtenstein",
-			"en": "Liechtenstein",
 			"es": "Liechtenstein",
 			"fr": "Liechtenstein",
 			"it": "Liechtenstein",
@@ -3938,7 +3812,6 @@
 		"languageCodes": ["lt"],
 		"translations": {
 			"de": "Litauen",
-			"en": "Lithuania",
 			"es": "Lituania",
 			"fr": "Lituanie",
 			"it": "Lituania",
@@ -3969,7 +3842,6 @@
 		"languageCodes": ["fr", "de", "lb"],
 		"translations": {
 			"de": "Luxemburg",
-			"en": "Luxembourg",
 			"es": "Luxemburgo",
 			"fr": "Luxembourg",
 			"it": "Lussemburgo",
@@ -4000,7 +3872,6 @@
 		"languageCodes": ["zh", "pt"],
 		"translations": {
 			"de": "Macao",
-			"en": "Macao",
 			"es": "Macao",
 			"fr": "Macao",
 			"it": "Macao",
@@ -4031,7 +3902,6 @@
 		"languageCodes": ["mk"],
 		"translations": {
 			"de": "Mazedonien",
-			"en": "Macedonia",
 			"es": "Macedonia",
 			"fr": "Mac\u00e9doine",
 			"it": "Macedonia",
@@ -4062,7 +3932,6 @@
 		"languageCodes": ["fr", "mg"],
 		"translations": {
 			"de": "Madagaskar",
-			"en": "Madagascar",
 			"es": "Madagascar",
 			"fr": "Madagascar",
 			"it": "Madagascar",
@@ -4093,7 +3962,6 @@
 		"languageCodes": ["en", "ny"],
 		"translations": {
 			"de": "Malawi",
-			"en": "Malawi",
 			"es": "Malawi",
 			"fr": "Malawi",
 			"it": "Malawi",
@@ -4124,7 +3992,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "Malaisie",
-			"en": "Malaysia",
 			"nl": "Maleisi\u00eb",
 			"de": "Malaysia",
 			"it": "Malesia",
@@ -4155,7 +4022,6 @@
 		"languageCodes": ["dv"],
 		"translations": {
 			"de": "Malediven",
-			"en": "Maldives",
 			"es": "Maldivas",
 			"fr": "Maldives",
 			"it": "Maldive",
@@ -4186,7 +4052,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Mali",
-			"en": "Mali",
 			"es": "Mali",
 			"fr": "Mali",
 			"it": "Mali",
@@ -4217,7 +4082,6 @@
 		"languageCodes": ["mt", "en"],
 		"translations": {
 			"de": "Malta",
-			"en": "Malta",
 			"es": "Malta",
 			"fr": "Malte",
 			"it": "Malta",
@@ -4248,7 +4112,6 @@
 		"languageCodes": ["en", "mh"],
 		"translations": {
 			"de": "Marshallinseln",
-			"en": "Marshall Islands",
 			"es": "Islas Marshall",
 			"fr": "\u00celes Marshall",
 			"it": "Isole Marshall",
@@ -4279,7 +4142,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Martinique",
-			"en": "Martinique",
 			"es": "Martinica",
 			"fr": "Martinique",
 			"it": "Martinica",
@@ -4310,7 +4172,6 @@
 		"languageCodes": ["ar", "fr"],
 		"translations": {
 			"de": "Mauretanien",
-			"en": "Mauritania",
 			"es": "Mauritania",
 			"fr": "Mauritanie",
 			"it": "Mauritania",
@@ -4341,7 +4202,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Mauritius",
-			"en": "Mauritius",
 			"es": "Mauricio",
 			"fr": "\u00cele Maurice",
 			"it": "Mauritius",
@@ -4372,7 +4232,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Mayotte",
-			"en": "Mayotte",
 			"es": "Mayotte",
 			"fr": "Mayotte",
 			"it": "Mayotte",
@@ -4403,7 +4262,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Mexiko",
-			"en": "Mexico",
 			"es": "M\u00e9xico",
 			"fr": "Mexique",
 			"it": "Messico",
@@ -4434,7 +4292,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Mikronesien",
-			"en": "Micronesia",
 			"es": "Micronesia",
 			"fr": "Micron\u00e9sie",
 			"it": "Micronesia",
@@ -4465,7 +4322,6 @@
 		"languageCodes": ["ro"],
 		"translations": {
 			"de": "Moldawie",
-			"en": "Moldova",
 			"es": "Moldavia",
 			"fr": "Moldavie",
 			"it": "Moldavia",
@@ -4496,7 +4352,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Monaco",
-			"en": "Monaco",
 			"es": "M\u00f3naco",
 			"fr": "Monaco",
 			"it": "Principato di Monaco",
@@ -4527,7 +4382,6 @@
 		"languageCodes": ["mn"],
 		"translations": {
 			"de": "Mongolei",
-			"en": "Mongolia",
 			"es": "Mongolia",
 			"fr": "Mongolie",
 			"it": "Mongolia",
@@ -4558,7 +4412,6 @@
 		"languageCodes": ["sr", "bs", "sq", "hr"],
 		"translations": {
 			"de": "Montenegro",
-			"en": "Crna Gora",
 			"es": "Montenegro",
 			"fr": "Mont\u00e9n\u00e9gro",
 			"it": "Montenegro",
@@ -4589,7 +4442,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Montserrat",
-			"en": "Montserrat",
 			"es": "Montserrat",
 			"fr": "Montserrat",
 			"it": "Montserrat",
@@ -4620,7 +4472,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Marokko",
-			"en": "Morocco",
 			"es": "Marruecos",
 			"fr": "Maroc",
 			"it": "Marocco",
@@ -4651,7 +4502,6 @@
 		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Mosambik",
-			"en": "Mozambique",
 			"es": "Mozambique",
 			"fr": "Mozambique",
 			"it": "Mozambico",
@@ -4682,7 +4532,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "Myanmar",
-			"en": "Myanmar",
 			"nl": "Myanmar",
 			"de": "Myanmar",
 			"it": "Birmania",
@@ -4713,7 +4562,6 @@
 		"languageCodes": ["en", "af"],
 		"translations": {
 			"de": "Namibia",
-			"en": "Namibia",
 			"es": "Namibia",
 			"fr": "Namibie",
 			"it": "Namibia",
@@ -4744,7 +4592,6 @@
 		"languageCodes": ["en", "na"],
 		"translations": {
 			"de": "Nauru",
-			"en": "Nauru",
 			"es": "Nauru",
 			"fr": "Nauru",
 			"it": "Nauru",
@@ -4775,7 +4622,6 @@
 		"languageCodes": ["ne"],
 		"translations": {
 			"de": "N\u00e9pal",
-			"en": "Nepal",
 			"es": "Nepal",
 			"fr": "N\u00e9pal",
 			"it": "Nepal",
@@ -4806,7 +4652,6 @@
 		"languageCodes": ["nl"],
 		"translations": {
 			"de": "Niederlande",
-			"en": "Netherlands",
 			"es": "Pa\u00edses Bajos",
 			"fr": "Pays-Bas",
 			"it": "Paesi Bassi",
@@ -4837,7 +4682,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Neukaledonien",
-			"en": "New Caledonia",
 			"es": "Nueva Caledonia",
 			"fr": "Nouvelle-Cal\u00e9donie",
 			"it": "Nuova Caledonia",
@@ -4868,7 +4712,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "Nouvelle-Z\u00e9lande",
-			"en": "New Zealand",
 			"nl": "Nieuw-Zeeland",
 			"de": "Neuseeland",
 			"it": "Nuova Zelanda",
@@ -4899,7 +4742,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Nicaragua",
-			"en": "Nicaragua",
 			"es": "Nicaragua",
 			"fr": "Nicaragua",
 			"it": "Nicaragua",
@@ -4930,7 +4772,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Niger",
-			"en": "Niger",
 			"es": "N\u00edger",
 			"fr": "Niger",
 			"it": "Niger",
@@ -4961,7 +4802,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Nigeria",
-			"en": "Nigeria",
 			"es": "Nigeria",
 			"fr": "Nig\u00e9ria",
 			"it": "Nigeria",
@@ -4992,7 +4832,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Niue",
-			"en": "Niue",
 			"es": "Niue",
 			"fr": "Niue",
 			"it": "Niue",
@@ -5023,7 +4862,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "\u00cele de Norfolk",
-			"en": "Norfolk Island",
 			"nl": "Norfolkeiland",
 			"de": "Norfolkinsel",
 			"it": "Isola Norfolk",
@@ -5054,7 +4892,6 @@
 		"languageCodes": ["ko"],
 		"translations": {
 			"de": "Nordkorea",
-			"en": "Korea (North)",
 			"es": "Corea del Norte",
 			"fr": "Cor\u00e9e du Nord",
 			"it": "Corea del Nord",
@@ -5085,7 +4922,6 @@
 		"languageCodes": ["en", "ch"],
 		"translations": {
 			"de": "N\u00f6rdliche Marianen",
-			"en": "Northern Mariana Islands",
 			"es": "Islas Marianas del Norte",
 			"fr": "\u00celes Mariannes du Nord",
 			"it": "Isole Marianne Settentrionali",
@@ -5116,7 +4952,6 @@
 		"languageCodes": ["no"],
 		"translations": {
 			"de": "Norwegen",
-			"en": "Norway",
 			"es": "Noruega",
 			"fr": "Norv\u00e8ge",
 			"it": "Norvegia",
@@ -5147,7 +4982,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Oman",
-			"en": "Oman",
 			"es": "Om\u00e1n",
 			"fr": "Oman",
 			"it": "oman",
@@ -5178,7 +5012,6 @@
 		"languageCodes": ["en", "ur"],
 		"translations": {
 			"de": "Pakistan",
-			"en": "Pakistan",
 			"es": "Pakist\u00e1n",
 			"fr": "Pakistan",
 			"it": "Pakistan",
@@ -5209,7 +5042,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Palau",
-			"en": "Palau",
 			"es": "Palau",
 			"fr": "Palaos",
 			"it": "Palau",
@@ -5240,7 +5072,6 @@
 		"languageCodes": ["ar", "he", "en"],
 		"translations": {
 			"de": "Pal\u00e4stina",
-			"en": "Palestine",
 			"es": "Palestina",
 			"fr": "Palestine",
 			"it": "Palestina",
@@ -5271,7 +5102,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Panama",
-			"en": "Panama",
 			"es": "Panam\u00e1",
 			"fr": "Panama",
 			"it": "Panama",
@@ -5302,7 +5132,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Papua-Neuguinea",
-			"en": "Papua New Guinea",
 			"es": "Pap\u00faa Nueva Guinea",
 			"fr": "Papouasie-Nouvelle-Guin\u00e9e",
 			"it": "Papua Nuova Guinea",
@@ -5333,7 +5162,6 @@
 		"languageCodes": ["es", "gn"],
 		"translations": {
 			"de": "Paraguay",
-			"en": "Paraguay",
 			"es": "Paraguay",
 			"fr": "Paraguay",
 			"it": "Paraguay",
@@ -5364,7 +5192,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Peru",
-			"en": "Peru",
 			"es": "Per\u00fa",
 			"fr": "P\u00e9rou",
 			"it": "Per\u00f9",
@@ -5395,7 +5222,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "Philippines",
-			"en": "Philippines",
 			"nl": "Filipijnen",
 			"de": "Philippinen",
 			"it": "Filippine",
@@ -5426,7 +5252,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Pitcairn",
-			"en": "Pitcairn",
 			"es": "Islas Pitcairn",
 			"fr": "\u00celes Pitcairn",
 			"it": "Isole Pitcairn",
@@ -5457,7 +5282,6 @@
 		"languageCodes": ["pl"],
 		"translations": {
 			"de": "Polen",
-			"en": "Poland",
 			"es": "Polonia",
 			"fr": "Pologne",
 			"it": "Polonia",
@@ -5488,7 +5312,6 @@
 		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Portugal",
-			"en": "Portugal",
 			"es": "Portugal",
 			"fr": "Portugal",
 			"it": "Portogallo",
@@ -5519,7 +5342,6 @@
 		"languageCodes": ["es", "en"],
 		"translations": {
 			"de": "Puerto Rico",
-			"en": "Puerto Rico",
 			"es": "Puerto Rico",
 			"fr": "Porto Rico",
 			"it": "Porto Rico",
@@ -5550,7 +5372,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Katar",
-			"en": "Qatar",
 			"es": "Catar",
 			"fr": "Qatar",
 			"it": "Qatar",
@@ -5580,7 +5401,6 @@
 		"language": ["Albanian", "Serbian"],
 		"languageCodes": ["sq", "sr"],
 		"translations": {
-			"en": "Kosovo",
 			"es": "Kosovo",
 			"hr": "Kosovo"
 		},
@@ -5607,7 +5427,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "R\u00e9union",
-			"en": "R\u00e9union",
 			"es": "Reuni\u00f3n",
 			"fr": "R\u00e9union",
 			"it": "Riunione",
@@ -5638,7 +5457,6 @@
 		"languageCodes": ["ro"],
 		"translations": {
 			"de": "Rum\u00e4nien",
-			"en": "Romania",
 			"es": "Rumania",
 			"fr": "Roumanie",
 			"it": "Romania",
@@ -5669,7 +5487,6 @@
 		"languageCodes": ["ru"],
 		"translations": {
 			"de": "Russland",
-			"en": "Russia",
 			"es": "Rusia",
 			"fr": "Russie",
 			"it": "Russia",
@@ -5700,7 +5517,6 @@
 		"languageCodes": ["rw", "en", "fr"],
 		"translations": {
 			"de": "Ruanda",
-			"en": "Rwanda",
 			"es": "Ruanda",
 			"fr": "Rwanda",
 			"it": "Ruanda",
@@ -5731,7 +5547,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Saint-Barth\u00e9lemy",
-			"en": "Saint Barth\u00e9lemy",
 			"es": "San Bartolom\u00e9",
 			"fr": "Saint-Barth\u00e9lemy",
 			"it": "Antille Francesi",
@@ -5762,7 +5577,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Sankt Helena",
-			"en": "Saint Helena",
 			"es": "Santa Helena",
 			"fr": "Sainte-H\u00e9l\u00e8ne",
 			"it": "Sant'Elena",
@@ -5793,7 +5607,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "St. Kitts und Nevis",
-			"en": "Saint Kitts and Nevis",
 			"es": "San Crist\u00f3bal y Nieves",
 			"fr": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
 			"it": "Saint Kitts e Nevis",
@@ -5824,7 +5637,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Saint Lucia",
-			"en": "Saint Lucia",
 			"es": "Santa Luc\u00eda",
 			"fr": "Saint-Lucie",
 			"it": "Santa Lucia",
@@ -5855,7 +5667,6 @@
 		"languageCodes": ["en", "fr", "nl"],
 		"translations": {
 			"de": "Saint Martin",
-			"en": "Saint Martin",
 			"es": "Saint Martin",
 			"fr": "Saint-Martin",
 			"it": "Saint Martin",
@@ -5886,7 +5697,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Saint-Pierre und Miquelon",
-			"en": "Saint Pierre and Miquelon",
 			"es": "San Pedro y Miquel\u00f3n",
 			"fr": "Saint-Pierre-et-Miquelon",
 			"it": "Saint-Pierre e Miquelon",
@@ -5917,7 +5727,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Saint Vincent und die Grenadinen",
-			"en": "Saint Vincent and the Grenadines",
 			"es": "San Vicente y Granadinas",
 			"fr": "Saint-Vincent-et-les-Grenadines",
 			"it": "Saint Vincent e Grenadine",
@@ -5948,7 +5757,6 @@
 		"languageCodes": ["sm", "en"],
 		"translations": {
 			"de": "Samoa",
-			"en": "Samoa",
 			"es": "Samoa",
 			"fr": "Samoa",
 			"it": "Samoa",
@@ -5979,7 +5787,6 @@
 		"languageCodes": ["it"],
 		"translations": {
 			"de": "San Marino",
-			"en": "San Marino",
 			"es": "San Marino",
 			"fr": "Saint-Marin",
 			"it": "San Marino",
@@ -6010,7 +5817,6 @@
 		"languageCodes": ["pt"],
 		"translations": {
 			"de": "S\u00e3o Tom\u00e9 und Pr\u00edncipe",
-			"en": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
 			"es": "Santo Tom\u00e9 y Pr\u00edncipe",
 			"fr": "Sao Tom\u00e9-et-Principe",
 			"it": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
@@ -6041,7 +5847,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Saudi-Arabien",
-			"en": "Saudi Arabia",
 			"es": "Arabia Saud\u00ed",
 			"fr": "Arabie Saoudite",
 			"it": "Arabia Saudita",
@@ -6072,7 +5877,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Senegal",
-			"en": "Senegal",
 			"es": "Senegal",
 			"fr": "S\u00e9n\u00e9gal",
 			"it": "Senegal",
@@ -6103,7 +5907,6 @@
 		"languageCodes": ["sr"],
 		"translations": {
 			"de": "Serbien",
-			"en": "Serbia",
 			"es": "Serbia",
 			"fr": "Serbie",
 			"it": "Serbia",
@@ -6134,7 +5937,6 @@
 		"languageCodes": ["fr", "en"],
 		"translations": {
 			"de": "Seychellen",
-			"en": "Seychelles",
 			"es": "Seychelles",
 			"fr": "Seychelles",
 			"it": "Seychelles",
@@ -6165,7 +5967,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Sierra Leone",
-			"en": "Sierra Leone",
 			"es": "Sierra Leone",
 			"fr": "Sierra Leone",
 			"it": "Sierra Leone",
@@ -6196,7 +5997,6 @@
 		"languageCodes": ["en", "ms", "ta", "zh"],
 		"translations": {
 			"fr": "Singapour",
-			"en": "Singapore",
 			"nl": "Singapore",
 			"de": "Singapur",
 			"it": "Singapore",
@@ -6226,7 +6026,6 @@
 		"language": ["Dutch", "English"],
 		"languageCodes": [],
 		"translations": {
-			"en": "Sint Maarten",
 			"nl": "Sint Maarten"
 		},
 		"population": 37429,
@@ -6252,7 +6051,6 @@
 		"languageCodes": ["sk"],
 		"translations": {
 			"de": "Slowakei",
-			"en": "Slovakia",
 			"es": "Rep\u00fablica Eslovaca",
 			"fr": "Slovaquie",
 			"it": "Slovacchia",
@@ -6283,7 +6081,6 @@
 		"languageCodes": ["sl"],
 		"translations": {
 			"de": "Slowenien",
-			"en": "Slovenia",
 			"es": "Eslovenia",
 			"fr": "Slov\u00e9nie",
 			"it": "Slovenia",
@@ -6314,7 +6111,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Salomonen",
-			"en": "Solomon Islands",
 			"es": "Islas Salom\u00f3n",
 			"fr": "\u00celes Salomon",
 			"it": "Isole Salomone",
@@ -6345,7 +6141,6 @@
 		"languageCodes": ["so", "ar"],
 		"translations": {
 			"de": "Somalia",
-			"en": "Somalia",
 			"es": "Somalia",
 			"fr": "Somalie",
 			"it": "Somalia",
@@ -6376,7 +6171,6 @@
 		"languageCodes": ["af", "en", "nr", "st", "ss", "tn", "ts", "ve", "xh", "zu"],
 		"translations": {
 			"de": "Republik S\u00fcdafrika",
-			"en": "South Africa",
 			"es": "Rep\u00fablica de Sud\u00e1frica",
 			"fr": "Afrique du Sud",
 			"it": "Sud Africa",
@@ -6407,7 +6201,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "S\u00fcdgeorgien und die S\u00fcdlichen Sandwichinseln",
-			"en": "South Georgia and the South Sandwich Islands",
 			"es": "Islas Georgias del Sur y Sandwich del Sur",
 			"fr": "G\u00e9orgie du Sud-et-les \u00celes Sandwich du Sud",
 			"it": "Georgia del Sud e Isole Sandwich Meridionali",
@@ -6438,7 +6231,6 @@
 		"languageCodes": ["ko"],
 		"translations": {
 			"de": "S\u00fcdkorea",
-			"en": "Korea (South)",
 			"es": "Corea del Sur",
 			"fr": "Cor\u00e9e du Sud",
 			"it": "Corea del Sud",
@@ -6469,7 +6261,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "Soudan du Sud",
-			"en": "South Sudan",
 			"nl": "Zuid-Soedan",
 			"de": "S\u00fcdsudan",
 			"it": "Sudan del sud",
@@ -6500,7 +6291,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Spanien",
-			"en": "Spain",
 			"es": "Espa\u00f1a",
 			"fr": "Espagne",
 			"it": "Spagna",
@@ -6531,7 +6321,6 @@
 		"languageCodes": ["si", "ta"],
 		"translations": {
 			"de": "Sri Lanka",
-			"en": "Sri Lanka",
 			"es": "Sri Lanka",
 			"fr": "Sri Lanka",
 			"it": "Sri Lanka",
@@ -6562,7 +6351,6 @@
 		"languageCodes": ["ar", "en"],
 		"translations": {
 			"de": "Sudan",
-			"en": "Sudan",
 			"es": "Sud\u00e1n",
 			"fr": "Soudan",
 			"it": "Sudan",
@@ -6593,7 +6381,6 @@
 		"languageCodes": ["nl"],
 		"translations": {
 			"de": "Suriname",
-			"en": "Suriname",
 			"es": "Surinam",
 			"fr": "Surinam",
 			"it": "Suriname",
@@ -6624,7 +6411,6 @@
 		"languageCodes": ["no"],
 		"translations": {
 			"de": "Svalbard und Jan Mayen",
-			"en": "Svalbard and Jan Mayen",
 			"es": "Islas Svalbard y Jan Mayen",
 			"fr": "Svalbard et Jan Mayen",
 			"it": "Svalbard e Jan Mayen",
@@ -6655,7 +6441,6 @@
 		"languageCodes": ["en", "ss"],
 		"translations": {
 			"de": "Swasiland",
-			"en": "Swaziland",
 			"es": "Suazilandia",
 			"fr": "Swaziland",
 			"it": "Swaziland",
@@ -6686,7 +6471,6 @@
 		"languageCodes": ["sv"],
 		"translations": {
 			"de": "Schweden",
-			"en": "Sweden",
 			"es": "Suecia",
 			"fr": "Su\u00e8de",
 			"it": "Svezia",
@@ -6717,7 +6501,6 @@
 		"languageCodes": ["de", "fr", "it"],
 		"translations": {
 			"de": "Schweiz",
-			"en": "Switzerland",
 			"es": "Suiza",
 			"fr": "Suisse",
 			"it": "Svizzera",
@@ -6748,7 +6531,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Syrien",
-			"en": "Syria",
 			"es": "Siria",
 			"fr": "Syrie",
 			"it": "Siria",
@@ -6779,7 +6561,6 @@
 		"languageCodes": ["zh"],
 		"translations": {
 			"de": "Taiwan",
-			"en": "Taiwan",
 			"es": "Taiw\u00e1n",
 			"fr": "Ta\u00efwan",
 			"it": "Taiwan",
@@ -6810,7 +6591,6 @@
 		"languageCodes": ["tg", "ru"],
 		"translations": {
 			"de": "Tadschikistan",
-			"en": "Tajikistan",
 			"es": "Tayikist\u00e1n",
 			"fr": "Tadjikistan",
 			"it": "Tagikistan",
@@ -6841,7 +6621,6 @@
 		"languageCodes": ["sw", "en"],
 		"translations": {
 			"de": "Tansania",
-			"en": "Tanzania",
 			"es": "Tanzania",
 			"fr": "Tanzanie",
 			"it": "Tanzania",
@@ -6872,7 +6651,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "Tha\u00eflande",
-			"en": "Thailand",
 			"nl": "Thailand",
 			"de": "Thailand",
 			"it": "Tailandia",
@@ -6903,7 +6681,6 @@
 		"languageCodes": [],
 		"translations": {
 			"fr": "Timor oriental",
-			"en": "East Timor",
 			"nl": "Oost-Timor",
 			"de": "Timor-Leste",
 			"it": "Timor Est",
@@ -6934,7 +6711,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Togo",
-			"en": "Togo",
 			"es": "Togo",
 			"fr": "Togo",
 			"it": "Togo",
@@ -6965,7 +6741,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Tokelau",
-			"en": "Tokelau",
 			"es": "Islas Tokelau",
 			"fr": "Tokelau",
 			"it": "Isole Tokelau",
@@ -6996,7 +6771,6 @@
 		"languageCodes": ["en", "to"],
 		"translations": {
 			"de": "Tonga",
-			"en": "Tonga",
 			"es": "Tonga",
 			"fr": "Tonga",
 			"it": "Tonga",
@@ -7027,7 +6801,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Trinidad und Tobago",
-			"en": "Trinidad and Tobago",
 			"es": "Trinidad y Tobago",
 			"fr": "Trinit\u00e9 et Tobago",
 			"it": "Trinidad e Tobago",
@@ -7058,7 +6831,6 @@
 		"languageCodes": ["ar", "fr"],
 		"translations": {
 			"de": "Tunesien",
-			"en": "Tunisia",
 			"es": "T\u00fanez",
 			"fr": "Tunisie",
 			"it": "Tunisia",
@@ -7089,7 +6861,6 @@
 		"languageCodes": ["tr"],
 		"translations": {
 			"de": "T\u00fcrkei",
-			"en": "Turkey",
 			"es": "Turqu\u00eda",
 			"fr": "Turquie",
 			"it": "Turchia",
@@ -7120,7 +6891,6 @@
 		"languageCodes": ["tk", "ru"],
 		"translations": {
 			"de": "Turkmenistan",
-			"en": "Turkmenistan",
 			"es": "Turkmenist\u00e1n",
 			"fr": "Turkm\u00e9nistan",
 			"it": "Turkmenistan",
@@ -7151,7 +6921,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Turks- und Caicosinseln",
-			"en": "Turks and Caicos Islands",
 			"es": "Islas Turks y Caicos",
 			"fr": "\u00celes Turques-et-Ca\u00efques",
 			"it": "Isole Turks e Caicos",
@@ -7182,7 +6951,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Tuvalu",
-			"en": "Tuvalu",
 			"es": "Tuvalu",
 			"fr": "Tuvalu",
 			"it": "Tuvalu",
@@ -7213,7 +6981,6 @@
 		"languageCodes": ["en", "sw"],
 		"translations": {
 			"de": "Uganda",
-			"en": "Uganda",
 			"es": "Uganda",
 			"fr": "Uganda",
 			"it": "Uganda",
@@ -7244,7 +7011,6 @@
 		"languageCodes": ["uk"],
 		"translations": {
 			"de": "Ukraine",
-			"en": "Ukraine",
 			"es": "Ucrania",
 			"fr": "Ukraine",
 			"it": "Ucraina",
@@ -7275,7 +7041,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Vereinigte Arabische Emirate",
-			"en": "United Arab Emirates",
 			"es": "Emiratos \u00c1rabes Unidos",
 			"fr": "\u00c9mirats arabes unis",
 			"it": "Emirati Arabi Uniti",
@@ -7306,7 +7071,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Vereinigtes K\u00f6nigreich",
-			"en": "United Kingdom",
 			"es": "Reino Unido",
 			"fr": "Royaume-Uni",
 			"it": "Regno Unito",
@@ -7337,7 +7101,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Vereinigte Staaten von Amerika",
-			"en": "United States of America",
 			"es": "Estados Unidos",
 			"fr": "\u00c9tats-Unis",
 			"it": "Stati Uniti D'America",
@@ -7368,7 +7131,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
-			"en": "United States Minor Outlying Islands",
 			"es": "Islas Ultramarinas Menores de Estados Unidos",
 			"fr": "\u00celes mineures \u00e9loign\u00e9es des \u00c9tats-Unis",
 			"it": "Isole minori esterne degli Stati Uniti d'America",
@@ -7399,7 +7161,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Amerikanische Jungferninseln",
-			"en": "Virgin Islands of the United States",
 			"es": "Islas V\u00edrgenes de los Estados Unidos",
 			"fr": "\u00celes Vierges des \u00c9tats-Unis",
 			"it": "Isole Vergini americane",
@@ -7430,7 +7191,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Uruguay",
-			"en": "Uruguay",
 			"es": "Uruguay",
 			"fr": "Uruguay",
 			"it": "Uruguay",
@@ -7461,7 +7221,6 @@
 		"languageCodes": ["uz", "ru"],
 		"translations": {
 			"de": "Usbekistan",
-			"en": "Uzbekistan",
 			"es": "Uzbekist\u00e1n",
 			"fr": "Ouzb\u00e9kistan",
 			"it": "Uzbekistan",
@@ -7492,7 +7251,6 @@
 		"languageCodes": ["bi", "en", "fr"],
 		"translations": {
 			"de": "Vanuatu",
-			"en": "Vanuatu",
 			"es": "Vanuatu",
 			"fr": "Vanuatu",
 			"it": "Vanuatu",
@@ -7523,7 +7281,6 @@
 		"languageCodes": ["es"],
 		"translations": {
 			"de": "Venezuela",
-			"en": "Venezuela",
 			"es": "Venezuela",
 			"fr": "Venezuela",
 			"it": "Venezuela",
@@ -7554,7 +7311,6 @@
 		"languageCodes": ["vi"],
 		"translations": {
 			"fr": "Vi\u00eat Nam",
-			"en": "Vietnam",
 			"nl": "Vietnam",
 			"de": "Vietnam",
 			"it": "Vietnam",
@@ -7585,7 +7341,6 @@
 		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Wallis und Futuna",
-			"en": "Wallis and Futuna",
 			"es": "Wallis y Futuna",
 			"fr": "Wallis-et-Futuna",
 			"it": "Wallis e Futuna",
@@ -7616,7 +7371,6 @@
 		"languageCodes": ["es", "fr"],
 		"translations": {
 			"de": "Westsahara",
-			"en": "Western Sahara",
 			"es": "Sahara Occidental",
 			"fr": "Sahara Occidental",
 			"it": "Sahara Occidentale",
@@ -7647,7 +7401,6 @@
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Jemen",
-			"en": "Yemen",
 			"es": "Yemen",
 			"fr": "Y\u00e9men",
 			"it": "Yemen",
@@ -7678,7 +7431,6 @@
 		"languageCodes": ["en"],
 		"translations": {
 			"de": "Sambia",
-			"en": "Zambia",
 			"es": "Zambia",
 			"fr": "Zambie",
 			"it": "Zambia",
@@ -7709,7 +7461,6 @@
 		"languageCodes": ["en", "sn", "nd"],
 		"translations": {
 			"de": "Simbabwe",
-			"en": "Zimbabwe",
 			"es": "Zimbabue",
 			"fr": "Zimbabwe",
 			"it": "Zimbabwe",
