@@ -22,7 +22,8 @@
 			"fr": "Afghanistan",
 			"it": "Afghanistan",
 			"ja": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3",
-			"nl": "Afghanistan"
+			"nl": "Afghanistan",
+			"hr": "Afganistan"
 		},
 		"population": 25500100,
 		"latlng": [33, 65],
@@ -52,7 +53,8 @@
 			"fr": "\u00c5land",
 			"it": "Isole Aland",
 			"ja": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
-			"nl": "\u00c5landeilanden"
+			"nl": "\u00c5landeilanden",
+			"hr": "\u00c5landski otoci"
 		},
 		"population": 28502,
 		"latlng": [60.116667, 19.9],
@@ -82,7 +84,8 @@
 			"fr": "Albanie",
 			"it": "Albania",
 			"ja": "\u30a2\u30eb\u30d0\u30cb\u30a2",
-			"nl": "Albani\u00eb"
+			"nl": "Albani\u00eb",
+			"hr": "Albanija"
 		},
 		"population": 2821977,
 		"latlng": [41, 20],
@@ -112,7 +115,8 @@
 			"fr": "Alg\u00e9rie",
 			"it": "Algeria",
 			"ja": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2",
-			"nl": "Algerije"
+			"nl": "Algerije",
+			"hr": "Al\u017eir"
 		},
 		"population": 37900000,
 		"latlng": [28, 3],
@@ -142,7 +146,8 @@
 			"fr": "Samoa am\u00e9ricaines",
 			"it": "Samoa Americane",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2",
-			"nl": "Amerikaans Samoa"
+			"nl": "Amerikaans Samoa",
+			"hr": "Ameri\u010dka Samoa"
 		},
 		"population": 55519,
 		"latlng": [-14.33333333, -170],
@@ -172,7 +177,8 @@
 			"fr": "Andorre",
 			"it": "Andorra",
 			"ja": "\u30a2\u30f3\u30c9\u30e9",
-			"nl": "Andorra"
+			"nl": "Andorra",
+			"hr": "Andora"
 		},
 		"population": 76246,
 		"latlng": [42.5, 1.5],
@@ -202,7 +208,8 @@
 			"fr": "Angola",
 			"it": "Angola",
 			"ja": "\u30a2\u30f3\u30b4\u30e9",
-			"nl": "Angola"
+			"nl": "Angola",
+			"hr": "Angola"
 		},
 		"population": 20609294,
 		"latlng": [-12.5, 18.5],
@@ -232,7 +239,8 @@
 			"fr": "Anguilla",
 			"it": "Anguilla",
 			"ja": "\u30a2\u30f3\u30ae\u30e9",
-			"nl": "Anguilla"
+			"nl": "Anguilla",
+			"hr": "Angvila"
 		},
 		"population": 13452,
 		"latlng": [18.25, -63.16666666],
@@ -262,7 +270,8 @@
 			"fr": "Antarctique",
 			"it": "Antartide",
 			"ja": "\u5357\u6975",
-			"nl": "Antarctica"
+			"nl": "Antarctica",
+			"hr": "Antarktika"
 		},
 		"population": -1,
 		"latlng": [-90, 0],
@@ -292,7 +301,8 @@
 			"fr": "Antigua-et-Barbuda",
 			"it": "Antigua e Barbuda",
 			"ja": "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0",
-			"nl": "Antigua en Barbuda"
+			"nl": "Antigua en Barbuda",
+			"hr": "Antigva i Barbuda"
 		},
 		"population": 86295,
 		"latlng": [17.05, -61.8],
@@ -322,7 +332,8 @@
 			"fr": "Argentine",
 			"it": "Argentina",
 			"ja": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3",
-			"nl": "Argentini\u00eb"
+			"nl": "Argentini\u00eb",
+			"hr": "Argentina"
 		},
 		"population": 40117096,
 		"latlng": [-34, -64],
@@ -352,7 +363,8 @@
 			"fr": "Arm\u00e9nie",
 			"it": "Armenia",
 			"ja": "\u30a2\u30eb\u30e1\u30cb\u30a2",
-			"nl": "Armeni\u00eb"
+			"nl": "Armeni\u00eb",
+			"hr": "Armenija"
 		},
 		"population": 3024100,
 		"latlng": [40, 45],
@@ -382,7 +394,8 @@
 			"fr": "Aruba",
 			"it": "Aruba",
 			"ja": "\u30a2\u30eb\u30d0",
-			"nl": "Aruba"
+			"nl": "Aruba",
+			"hr": "Aruba"
 		},
 		"population": 101484,
 		"latlng": [12.5, -69.96666666],
@@ -412,7 +425,8 @@
 			"fr": "Australie",
 			"it": "Australia",
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2",
-			"nl": "Australi\u00eb"
+			"nl": "Australi\u00eb",
+			"hr": "Australija"
 		},
 		"population": 23254142,
 		"latlng": [-27, 133],
@@ -442,7 +456,8 @@
 			"fr": "Autriche",
 			"it": "Austria",
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2",
-			"nl": "Oostenrijk"
+			"nl": "Oostenrijk",
+			"hr": "Austrija"
 		},
 		"population": 8501502,
 		"latlng": [47.33333333, 13.33333333],
@@ -472,7 +487,8 @@
 			"fr": "Azerba\u00efdjan",
 			"it": "Azerbaijan",
 			"ja": "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3",
-			"nl": "Azerbeidzjan"
+			"nl": "Azerbeidzjan",
+			"hr": "Azerbajd\u017ean"
 		},
 		"population": 9235100,
 		"latlng": [40.5, 47.5],
@@ -502,7 +518,8 @@
 			"fr": "Bahamas",
 			"it": "Bahamas",
 			"ja": "\u30d0\u30cf\u30de",
-			"nl": "Bahama\u2019s"
+			"nl": "Bahama\u2019s",
+			"hr": "Bahami"
 		},
 		"population": -1,
 		"latlng": [24.25, -76],
@@ -532,7 +549,8 @@
 			"fr": "Bahre\u00efn",
 			"it": "Bahrein",
 			"ja": "\u30d0\u30fc\u30ec\u30fc\u30f3",
-			"nl": "Bahrein"
+			"nl": "Bahrein",
+			"hr": "Bahrein"
 		},
 		"population": 1234571,
 		"latlng": [26, 50.55],
@@ -562,7 +580,8 @@
 			"fr": "Bangladesh",
 			"it": "Bangladesh",
 			"ja": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5",
-			"nl": "Bangladesh"
+			"nl": "Bangladesh",
+			"hr": "Banglade\u0161"
 		},
 		"population": 152518015,
 		"latlng": [24, 90],
@@ -592,7 +611,8 @@
 			"fr": "Barbade",
 			"it": "Barbados",
 			"ja": "\u30d0\u30eb\u30d0\u30c9\u30b9",
-			"nl": "Barbados"
+			"nl": "Barbados",
+			"hr": "Barbados"
 		},
 		"population": 274200,
 		"latlng": [13.16666666, -59.53333333],
@@ -622,7 +642,8 @@
 			"fr": "Bi\u00e9lorussie",
 			"it": "Bielorussia",
 			"ja": "\u30d9\u30e9\u30eb\u30fc\u30b7",
-			"nl": "Wit-Rusland"
+			"nl": "Wit-Rusland",
+			"hr": "Bjelorusija"
 		},
 		"population": 9465500,
 		"latlng": [53, 28],
@@ -652,7 +673,8 @@
 			"fr": "Belgique",
 			"it": "Belgio",
 			"ja": "\u30d9\u30eb\u30ae\u30fc",
-			"nl": "Belgi\u00eb"
+			"nl": "Belgi\u00eb",
+			"hr": "Belgija"
 		},
 		"population": 11175653,
 		"latlng": [50.83333333, 4],
@@ -682,7 +704,8 @@
 			"fr": "Belize",
 			"it": "Belize",
 			"ja": "\u30d9\u30ea\u30fc\u30ba",
-			"nl": "Belize"
+			"nl": "Belize",
+			"hr": "Belize"
 		},
 		"population": 312971,
 		"latlng": [17.25, -88.75],
@@ -712,7 +735,8 @@
 			"fr": "B\u00e9nin",
 			"it": "Benin",
 			"ja": "\u30d9\u30ca\u30f3",
-			"nl": "Benin"
+			"nl": "Benin",
+			"hr": "Benin"
 		},
 		"population": 10323000,
 		"latlng": [9.5, 2.25],
@@ -742,7 +766,8 @@
 			"fr": "Bermudes",
 			"it": "Bermuda",
 			"ja": "\u30d0\u30df\u30e5\u30fc\u30c0",
-			"nl": "Bermuda"
+			"nl": "Bermuda",
+			"hr": "Bermudi"
 		},
 		"population": 64237,
 		"latlng": [32.33333333, -64.75],
@@ -772,7 +797,8 @@
 			"fr": "Bhoutan",
 			"it": "Bhutan",
 			"ja": "\u30d6\u30fc\u30bf\u30f3",
-			"nl": "Bhutan"
+			"nl": "Bhutan",
+			"hr": "Butan"
 		},
 		"population": 740990,
 		"latlng": [27.5, 90.5],
@@ -802,7 +828,8 @@
 			"fr": "Bolivie",
 			"it": "Bolivia",
 			"ja": "\u30dc\u30ea\u30d3\u30a2\u591a\u6c11\u65cf\u56fd",
-			"nl": "Bolivia"
+			"nl": "Bolivia",
+			"hr": "Bolivija"
 		},
 		"population": 10027254,
 		"latlng": [-17, -65],
@@ -854,7 +881,8 @@
 			"fr": "Bosnie-Herz\u00e9govine",
 			"it": "Bosnia ed Erzegovina",
 			"ja": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
-			"nl": "Bosni\u00eb en Herzegovina"
+			"nl": "Bosni\u00eb en Herzegovina",
+			"hr": "Bosna i Hercegovina"
 		},
 		"population": 3791622,
 		"latlng": [44, 18],
@@ -884,7 +912,8 @@
 			"fr": "Botswana",
 			"it": "Botswana",
 			"ja": "\u30dc\u30c4\u30ef\u30ca",
-			"nl": "Botswana"
+			"nl": "Botswana",
+			"hr": "Bocvana"
 		},
 		"population": 2024904,
 		"latlng": [-22, 24],
@@ -914,7 +943,8 @@
 			"fr": "\u00cele Bouvet",
 			"it": "Isola Bouvet",
 			"ja": "\u30d6\u30fc\u30d9\u5cf6",
-			"nl": "Bouveteiland"
+			"nl": "Bouveteiland",
+			"hr": "Otok Bouvet"
 		},
 		"population": -1,
 		"latlng": [-54.43333333, 3.4],
@@ -944,7 +974,8 @@
 			"fr": "Br\u00e9sil",
 			"it": "Brasile",
 			"ja": "\u30d6\u30e9\u30b8\u30eb",
-			"nl": "Brazili\u00eb"
+			"nl": "Brazili\u00eb",
+			"hr": "Brazil"
 		},
 		"population": 201032714,
 		"latlng": [-10, -55],
@@ -974,7 +1005,8 @@
 			"fr": "Territoire britannique de l'oc\u00e9an Indien",
 			"it": "Territorio britannico dell'oceano indiano",
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df",
-			"nl": "Britse Gebieden in de Indische Oceaan"
+			"nl": "Britse Gebieden in de Indische Oceaan",
+			"hr": "Britanski Indijskooceanski teritorij"
 		},
 		"population": -1,
 		"latlng": [-6, 71.5],
@@ -1004,7 +1036,8 @@
 			"fr": "\u00celes Vierges britanniques",
 			"it": "Isole Vergini Britanniche",
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
-			"nl": "Britse Maagdeneilanden"
+			"nl": "Britse Maagdeneilanden",
+			"hr": "Britanski Djevi\u010danski Otoci"
 		},
 		"population": 29537,
 		"latlng": [18.431383, -64.62305],
@@ -1034,7 +1067,8 @@
 			"de": "Brunei",
 			"it": "Brunei",
 			"ja": "\u30D6\u30EB\u30CD\u30A4\u30FB\u30C0\u30EB\u30B5\u30E9\u30FC\u30E0",
-			"es": "Brunei"
+			"es": "Brunei",
+			"hr": "Brunej"
 		},
 		"population": 393162,
 		"latlng": [4.5, 114.66666666],
@@ -1064,7 +1098,8 @@
 			"fr": "Bulgarie",
 			"it": "Bulgaria",
 			"ja": "\u30d6\u30eb\u30ac\u30ea\u30a2",
-			"nl": "Bulgarije"
+			"nl": "Bulgarije",
+			"hr": "Bugarska"
 		},
 		"population": 7282041,
 		"latlng": [43, 25],
@@ -1094,7 +1129,8 @@
 			"fr": "Burkina Faso",
 			"it": "Burkina Faso",
 			"ja": "\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd",
-			"nl": "Burkina Faso"
+			"nl": "Burkina Faso",
+			"hr": "Burkina Faso"
 		},
 		"population": 17322796,
 		"latlng": [13, -2],
@@ -1124,7 +1160,8 @@
 			"fr": "Burundi",
 			"it": "Burundi",
 			"ja": "\u30d6\u30eb\u30f3\u30b8",
-			"nl": "Burundi"
+			"nl": "Burundi",
+			"hr": "Burundi"
 		},
 		"population": 10163000,
 		"latlng": [-3.5, 30],
@@ -1154,7 +1191,8 @@
 			"de": "Kambodscha",
 			"it": "Cambogia",
 			"ja": "\u30AB\u30F3\u30DC\u30B8\u30A2",
-			"es": "Camboya"
+			"es": "Camboya",
+			"hr": "Kambod\u017ea"
 		},
 		"population": 15135000,
 		"latlng": [13, 105],
@@ -1184,7 +1222,8 @@
 			"fr": "Cameroun",
 			"it": "Camerun",
 			"ja": "\u30ab\u30e1\u30eb\u30fc\u30f3",
-			"nl": "Kameroen"
+			"nl": "Kameroen",
+			"hr": "Kamerun"
 		},
 		"population": 20386799,
 		"latlng": [6, 12],
@@ -1214,7 +1253,8 @@
 			"fr": "Canada",
 			"it": "Canada",
 			"ja": "\u30ab\u30ca\u30c0",
-			"nl": "Canada"
+			"nl": "Canada",
+			"hr": "Kanada"
 		},
 		"population": 35158304,
 		"latlng": [60, -95],
@@ -1244,7 +1284,8 @@
 			"fr": "Cap Vert",
 			"it": "Capo Verde",
 			"ja": "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7",
-			"nl": "Kaapverdi\u00eb"
+			"nl": "Kaapverdi\u00eb",
+			"hr": "Zelenortska Republika"
 		},
 		"population": 491875,
 		"latlng": [16, -24],
@@ -1274,7 +1315,8 @@
 			"fr": "\u00celes Ca\u00efmans",
 			"it": "Isole Cayman",
 			"ja": "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6",
-			"nl": "Caymaneilanden"
+			"nl": "Caymaneilanden",
+			"hr": "Kajmanski otoci"
 		},
 		"population": 55456,
 		"latlng": [19.5, -80.5],
@@ -1304,7 +1346,8 @@
 			"fr": "R\u00e9publique centrafricaine",
 			"it": "Repubblica Centrafricana",
 			"ja": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
-			"nl": "Centraal-Afrikaanse Republiek"
+			"nl": "Centraal-Afrikaanse Republiek",
+			"hr": "Srednjoafri\u010dka Republika"
 		},
 		"population": 4616000,
 		"latlng": [7, 21],
@@ -1334,7 +1377,8 @@
 			"fr": "Tchad",
 			"it": "Ciad",
 			"ja": "\u30c1\u30e3\u30c9",
-			"nl": "Tsjaad"
+			"nl": "Tsjaad",
+			"hr": "\u010cad"
 		},
 		"population": 12825000,
 		"latlng": [15, 19],
@@ -1364,7 +1408,8 @@
 			"fr": "Chili",
 			"it": "Cile",
 			"ja": "\u30c1\u30ea",
-			"nl": "Chili"
+			"nl": "Chili",
+			"hr": "\u010cile"
 		},
 		"population": 16634603,
 		"latlng": [-30, -71],
@@ -1394,7 +1439,8 @@
 			"fr": "Chine",
 			"it": "Cina",
 			"ja": "\u4e2d\u56fd",
-			"nl": "China"
+			"nl": "China",
+			"hr": "Kina"
 		},
 		"population": 1361170000,
 		"latlng": [35, 105],
@@ -1424,7 +1470,8 @@
 			"de": "Weihnachtsinsel",
 			"it": "Isola di Natale",
 			"ja": "\u30AF\u30EA\u30B9\u30DE\u30B9\u5CF6",
-			"es": "Isla de Navidad"
+			"es": "Isla de Navidad",
+			"hr": "Bo\u017ei\u0107ni otok"
 		},
 		"population": 2072,
 		"latlng": [-10.5, 105.66666666],
@@ -1454,7 +1501,8 @@
 			"de": "Kokosinseln",
 			"it": "Isole Cocos e Keeling",
 			"ja": "\u30B3\u30B3\u30B9\uFF08\u30AD\u30FC\u30EA\u30F3\u30B0\uFF09\u8AF8\u5CF6",
-			"es": "Islas Cocos o Islas Keeling"
+			"es": "Islas Cocos o Islas Keeling",
+			"hr": "Kokosovi Otoci"
 		},
 		"population": 550,
 		"latlng": [-12.5, 96.83333333],
@@ -1484,7 +1532,8 @@
 			"fr": "Colombie",
 			"it": "Colombia",
 			"ja": "\u30b3\u30ed\u30f3\u30d3\u30a2",
-			"nl": "Colombia"
+			"nl": "Colombia",
+			"hr": "Kolumbija"
 		},
 		"population": 47330000,
 		"latlng": [4, -72],
@@ -1514,7 +1563,8 @@
 			"fr": "Comores",
 			"it": "Comore",
 			"ja": "\u30b3\u30e2\u30ed",
-			"nl": "Comoren"
+			"nl": "Comoren",
+			"hr": "Komori"
 		},
 		"population": 724300,
 		"latlng": [-12.16666666, 44.25],
@@ -1544,7 +1594,8 @@
 			"fr": "Congo",
 			"it": "Congo",
 			"ja": "\u30b3\u30f3\u30b4\u5171\u548c\u56fd",
-			"nl": "Congo [Republiek]"
+			"nl": "Congo [Republiek]",
+			"hr": "Kongo"
 		},
 		"population": 4448000,
 		"latlng": [-1, 15],
@@ -1574,7 +1625,8 @@
 			"fr": "Congo (R\u00e9p. d\u00e9m.)",
 			"it": "Congo (Rep. Dem.)",
 			"ja": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd",
-			"nl": "Congo [DRC]"
+			"nl": "Congo [DRC]",
+			"hr": "Kongo, Demokratska Republika"
 		},
 		"population": 67514000,
 		"latlng": [0, 25],
@@ -1604,7 +1656,8 @@
 			"fr": "\u00celes Cook",
 			"it": "Isole Cook",
 			"ja": "\u30af\u30c3\u30af\u8af8\u5cf6",
-			"nl": "Cookeilanden"
+			"nl": "Cookeilanden",
+			"hr": "Cookovo Oto\u010dje"
 		},
 		"population": 14974,
 		"latlng": [-21.23333333, -159.76666666],
@@ -1634,7 +1687,8 @@
 			"fr": "Costa Rica",
 			"it": "Costa Rica",
 			"ja": "\u30b3\u30b9\u30bf\u30ea\u30ab",
-			"nl": "Costa Rica"
+			"nl": "Costa Rica",
+			"hr": "Kostarika"
 		},
 		"population": 4667096,
 		"latlng": [10, -84],
@@ -1664,7 +1718,8 @@
 			"fr": "C\u00f4te d'Ivoire",
 			"it": "Costa D'Avorio",
 			"ja": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
-			"nl": "Ivoorkust"
+			"nl": "Ivoorkust",
+			"hr": "Obala Bjelokosti"
 		},
 		"population": -1,
 		"latlng": [8, -5],
@@ -1694,7 +1749,8 @@
 			"fr": "Croatie",
 			"it": "Croazia",
 			"ja": "\u30af\u30ed\u30a2\u30c1\u30a2",
-			"nl": "Kroati\u00eb"
+			"nl": "Kroati\u00eb",
+			"hr": "Hrvatska"
 		},
 		"population": 4290612,
 		"latlng": [45.16666666, 15.5],
@@ -1724,7 +1780,8 @@
 			"fr": "Cuba",
 			"it": "Cuba",
 			"ja": "\u30ad\u30e5\u30fc\u30d0",
-			"nl": "Cuba"
+			"nl": "Cuba",
+			"hr": "Kuba"
 		},
 		"population": 11167325,
 		"latlng": [21.5, -80],
@@ -1779,7 +1836,8 @@
 			"fr": "Chypre",
 			"it": "Cipro",
 			"ja": "\u30ad\u30d7\u30ed\u30b9",
-			"nl": "Cyprus"
+			"nl": "Cyprus",
+			"hr": "Cipar"
 		},
 		"population": 865878,
 		"latlng": [35, 33],
@@ -1809,7 +1867,8 @@
 			"fr": "R\u00e9publique tch\u00e8que",
 			"it": "Repubblica Ceca",
 			"ja": "\u30c1\u30a7\u30b3",
-			"nl": "Tsjechi\u00eb"
+			"nl": "Tsjechi\u00eb",
+			"hr": "\u010ce\u0161ka"
 		},
 		"population": 10512900,
 		"latlng": [49.75, 15.5],
@@ -1839,7 +1898,8 @@
 			"fr": "Danemark",
 			"it": "Danimarca",
 			"ja": "\u30c7\u30f3\u30de\u30fc\u30af",
-			"nl": "Denemarken"
+			"nl": "Denemarken",
+			"hr": "Danska"
 		},
 		"population": 5623501,
 		"latlng": [56, 10],
@@ -1869,7 +1929,8 @@
 			"fr": "Djibouti",
 			"it": "Gibuti",
 			"ja": "\u30b8\u30d6\u30c1",
-			"nl": "Djibouti"
+			"nl": "Djibouti",
+			"hr": "D\u017eibuti"
 		},
 		"population": 864618,
 		"latlng": [11.5, 43],
@@ -1899,7 +1960,8 @@
 			"fr": "Dominique",
 			"it": "Dominica",
 			"ja": "\u30c9\u30df\u30cb\u30ab\u56fd",
-			"nl": "Dominica"
+			"nl": "Dominica",
+			"hr": "Dominika"
 		},
 		"population": 71293,
 		"latlng": [15.41666666, -61.33333333],
@@ -1929,7 +1991,8 @@
 			"fr": "R\u00e9publique dominicaine",
 			"it": "Repubblica Dominicana",
 			"ja": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd",
-			"nl": "Dominicaanse Republiek"
+			"nl": "Dominicaanse Republiek",
+			"hr": "Dominikanska Republika"
 		},
 		"population": 9445281,
 		"latlng": [19, -70.66666666],
@@ -1959,7 +2022,8 @@
 			"fr": "\u00c9quateur",
 			"it": "Ecuador",
 			"ja": "\u30a8\u30af\u30a2\u30c9\u30eb",
-			"nl": "Ecuador"
+			"nl": "Ecuador",
+			"hr": "Ekvador"
 		},
 		"population": 15617900,
 		"latlng": [-2, -77.5],
@@ -1989,7 +2053,8 @@
 			"fr": "\u00c9gypte",
 			"it": "Egitto",
 			"ja": "\u30a8\u30b8\u30d7\u30c8",
-			"nl": "Egypte"
+			"nl": "Egypte",
+			"hr": "Egipat"
 		},
 		"population": 83661000,
 		"latlng": [27, 30],
@@ -2019,7 +2084,8 @@
 			"fr": "Salvador",
 			"it": "El Salvador",
 			"ja": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb",
-			"nl": "El Salvador"
+			"nl": "El Salvador",
+			"hr": "Salvador"
 		},
 		"population": 6340000,
 		"latlng": [13.83333333, -88.91666666],
@@ -2049,7 +2115,8 @@
 			"fr": "Guin\u00e9e-\u00c9quatoriale",
 			"it": "Guinea Equatoriale",
 			"ja": "\u8d64\u9053\u30ae\u30cb\u30a2",
-			"nl": "Equatoriaal-Guinea"
+			"nl": "Equatoriaal-Guinea",
+			"hr": "Ekvatorijalna Gvineja"
 		},
 		"population": 1622000,
 		"latlng": [2, 10],
@@ -2079,7 +2146,8 @@
 			"fr": "\u00c9rythr\u00e9e",
 			"it": "Eritrea",
 			"ja": "\u30a8\u30ea\u30c8\u30ea\u30a2",
-			"nl": "Eritrea"
+			"nl": "Eritrea",
+			"hr": "Eritreja"
 		},
 		"population": 6333000,
 		"latlng": [15, 39],
@@ -2109,7 +2177,8 @@
 			"fr": "Estonie",
 			"it": "Estonia",
 			"ja": "\u30a8\u30b9\u30c8\u30cb\u30a2",
-			"nl": "Estland"
+			"nl": "Estland",
+			"hr": "Estonija"
 		},
 		"population": 1286540,
 		"latlng": [59, 26],
@@ -2139,7 +2208,8 @@
 			"fr": "\u00c9thiopie",
 			"it": "Etiopia",
 			"ja": "\u30a8\u30c1\u30aa\u30d4\u30a2",
-			"nl": "Ethiopi\u00eb"
+			"nl": "Ethiopi\u00eb",
+			"hr": "Etiopija"
 		},
 		"population": 86613986,
 		"latlng": [8, 38],
@@ -2169,7 +2239,8 @@
 			"fr": "\u00celes Malouines",
 			"it": "Isole Falkland o Isole Malvine",
 			"ja": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6",
-			"nl": "Falklandeilanden [Islas Malvinas]"
+			"nl": "Falklandeilanden [Islas Malvinas]",
+			"hr": "Falklandski Otoci"
 		},
 		"population": 2563,
 		"latlng": [-51.75, -59],
@@ -2199,7 +2270,8 @@
 			"fr": "\u00celes F\u00e9ro\u00e9",
 			"it": "Isole Far Oer",
 			"ja": "\u30d5\u30a7\u30ed\u30fc\u8af8\u5cf6",
-			"nl": "Faer\u00f6er"
+			"nl": "Faer\u00f6er",
+			"hr": "Farski Otoci"
 		},
 		"population": 48509,
 		"latlng": [62, -7],
@@ -2229,7 +2301,8 @@
 			"fr": "Fidji",
 			"it": "Figi",
 			"ja": "\u30d5\u30a3\u30b8\u30fc",
-			"nl": "Fiji"
+			"nl": "Fiji",
+			"hr": "Fi\u0111i"
 		},
 		"population": 858038,
 		"latlng": [-18, 175],
@@ -2259,7 +2332,8 @@
 			"fr": "Finlande",
 			"it": "Finlandia",
 			"ja": "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9",
-			"nl": "Finland"
+			"nl": "Finland",
+			"hr": "Finska"
 		},
 		"population": 5445883,
 		"latlng": [64, 26],
@@ -2289,7 +2363,8 @@
 			"fr": "France",
 			"it": "Francia",
 			"ja": "\u30d5\u30e9\u30f3\u30b9",
-			"nl": "Frankrijk"
+			"nl": "Frankrijk",
+			"hr": "Francuska"
 		},
 		"population": 65806000,
 		"latlng": [46, 2],
@@ -2319,7 +2394,8 @@
 			"fr": "Guayane",
 			"it": "Guyana francese",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca",
-			"nl": "Frans-Guyana"
+			"nl": "Frans-Guyana",
+			"hr": "Francuska Gvajana"
 		},
 		"population": 229040,
 		"latlng": [4, -53],
@@ -2349,7 +2425,8 @@
 			"fr": "Polyn\u00e9sie fran\u00e7aise",
 			"it": "Polinesia Francese",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u30dd\u30ea\u30cd\u30b7\u30a2",
-			"nl": "Frans-Polynesi\u00eb"
+			"nl": "Frans-Polynesi\u00eb",
+			"hr": "Francuska Polinezija"
 		},
 		"population": 268270,
 		"latlng": [-15, -140],
@@ -2379,7 +2456,8 @@
 			"fr": "Terres australes et antarctiques fran\u00e7aises",
 			"it": "Territori Francesi del Sud",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u5357\u65b9\u30fb\u5357\u6975\u5730\u57df",
-			"nl": "Franse Gebieden in de zuidelijke Indische Oceaan"
+			"nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
+			"hr": "Francuski ju\u017eni i antarkti\u010dki teritoriji"
 		},
 		"population": -1,
 		"latlng": [],
@@ -2409,7 +2487,8 @@
 			"fr": "Gabon",
 			"it": "Gabon",
 			"ja": "\u30ac\u30dc\u30f3",
-			"nl": "Gabon"
+			"nl": "Gabon",
+			"hr": "Gabon"
 		},
 		"population": 1672000,
 		"latlng": [-1, 11.75],
@@ -2439,7 +2518,8 @@
 			"fr": "Gambie",
 			"it": "Gambia",
 			"ja": "\u30ac\u30f3\u30d3\u30a2",
-			"nl": "Gambia"
+			"nl": "Gambia",
+			"hr": "Gambija"
 		},
 		"population": -1,
 		"latlng": [13.46666666, -16.56666666],
@@ -2469,7 +2549,8 @@
 			"fr": "G\u00e9orgie",
 			"it": "Georgia",
 			"ja": "\u30b0\u30eb\u30b8\u30a2",
-			"nl": "Georgi\u00eb"
+			"nl": "Georgi\u00eb",
+			"hr": "Gruzija"
 		},
 		"population": -1,
 		"latlng": [42, 43.5],
@@ -2499,7 +2580,8 @@
 			"fr": "Allemagne",
 			"it": "Germania",
 			"ja": "\u30c9\u30a4\u30c4",
-			"nl": "Duitsland"
+			"nl": "Duitsland",
+			"hr": "Njema\u010dka"
 		},
 		"population": 80523700,
 		"latlng": [51, 9],
@@ -2529,7 +2611,8 @@
 			"fr": "Ghana",
 			"it": "Ghana",
 			"ja": "\u30ac\u30fc\u30ca",
-			"nl": "Ghana"
+			"nl": "Ghana",
+			"hr": "Gana"
 		},
 		"population": 24658823,
 		"latlng": [8, -2],
@@ -2559,7 +2642,8 @@
 			"fr": "Gibraltar",
 			"it": "Gibilterra",
 			"ja": "\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb",
-			"nl": "Gibraltar"
+			"nl": "Gibraltar",
+			"hr": "Gibraltar"
 		},
 		"population": 29752,
 		"latlng": [36.13333333, -5.35],
@@ -2589,7 +2673,8 @@
 			"fr": "Gr\u00e8ce",
 			"it": "Grecia",
 			"ja": "\u30ae\u30ea\u30b7\u30e3",
-			"nl": "Griekenland"
+			"nl": "Griekenland",
+			"hr": "Gr\u010dka"
 		},
 		"population": 10815197,
 		"latlng": [39, 22],
@@ -2619,7 +2704,8 @@
 			"fr": "Groenland",
 			"it": "Groenlandia",
 			"ja": "\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9",
-			"nl": "Groenland"
+			"nl": "Groenland",
+			"hr": "Grenland"
 		},
 		"population": 56370,
 		"latlng": [72, -40],
@@ -2649,7 +2735,8 @@
 			"fr": "Grenade",
 			"it": "Grenada",
 			"ja": "\u30b0\u30ec\u30ca\u30c0",
-			"nl": "Grenada"
+			"nl": "Grenada",
+			"hr": "Grenada"
 		},
 		"population": 103328,
 		"latlng": [12.11666666, -61.66666666],
@@ -2679,7 +2766,8 @@
 			"fr": "Guadeloupe",
 			"it": "Guadeloupa",
 			"ja": "\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7",
-			"nl": "Guadeloupe"
+			"nl": "Guadeloupe",
+			"hr": "Gvadalupa"
 		},
 		"population": 403355,
 		"latlng": [16.25, -61.583333],
@@ -2709,7 +2797,8 @@
 			"fr": "Guam",
 			"it": "Guam",
 			"ja": "\u30b0\u30a2\u30e0",
-			"nl": "Guam"
+			"nl": "Guam",
+			"hr": "Guam"
 		},
 		"population": 159358,
 		"latlng": [13.46666666, 144.78333333],
@@ -2739,7 +2828,8 @@
 			"fr": "Guatemala",
 			"it": "Guatemala",
 			"ja": "\u30b0\u30a2\u30c6\u30de\u30e9",
-			"nl": "Guatemala"
+			"nl": "Guatemala",
+			"hr": "Gvatemala"
 		},
 		"population": 15438384,
 		"latlng": [15.5, -90.25],
@@ -2769,7 +2859,8 @@
 			"fr": "Guernesey",
 			"it": "Guernsey",
 			"ja": "\u30ac\u30fc\u30f3\u30b8\u30fc",
-			"nl": "Guernsey"
+			"nl": "Guernsey",
+			"hr": "Guernsey"
 		},
 		"population": 62431,
 		"latlng": [49.46666666, -2.58333333],
@@ -2799,7 +2890,8 @@
 			"fr": "Guin\u00e9e",
 			"it": "Guinea",
 			"ja": "\u30ae\u30cb\u30a2",
-			"nl": "Guinee"
+			"nl": "Guinee",
+			"hr": "Gvineja"
 		},
 		"population": 10824200,
 		"latlng": [11, -10],
@@ -2829,7 +2921,8 @@
 			"fr": "Guin\u00e9e-Bissau",
 			"it": "Guinea-Bissau",
 			"ja": "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6",
-			"nl": "Guinee-Bissau"
+			"nl": "Guinee-Bissau",
+			"hr": "Gvineja Bisau"
 		},
 		"population": 1704000,
 		"latlng": [12, -15],
@@ -2859,7 +2952,8 @@
 			"fr": "Guyane",
 			"it": "Guyana",
 			"ja": "\u30ac\u30a4\u30a2\u30ca",
-			"nl": "Guyana"
+			"nl": "Guyana",
+			"hr": "Gvajana"
 		},
 		"population": 784894,
 		"latlng": [5, -59],
@@ -2889,7 +2983,8 @@
 			"fr": "Ha\u00efti",
 			"it": "Haiti",
 			"ja": "\u30cf\u30a4\u30c1",
-			"nl": "Ha\u00efti"
+			"nl": "Ha\u00efti",
+			"hr": "Haiti"
 		},
 		"population": 10413211,
 		"latlng": [19, -72.41666666],
@@ -2919,7 +3014,8 @@
 			"fr": "\u00celes Heard-et-MacDonald",
 			"it": "Isole Heard e McDonald",
 			"ja": "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6",
-			"nl": "Heard- en McDonaldeilanden"
+			"nl": "Heard- en McDonaldeilanden",
+			"hr": "Otok Heard i oto\u010dje McDonald"
 		},
 		"population": -1,
 		"latlng": [-53.1, 72.51666666],
@@ -2949,7 +3045,8 @@
 			"fr": "Cit\u00e9 du Vatican",
 			"it": "Citt\u00e0 del Vaticano",
 			"ja": "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd",
-			"nl": "Vaticaanstad"
+			"nl": "Vaticaanstad",
+			"hr": "Vatikan"
 		},
 		"population": 800,
 		"latlng": [41.9, 12.45],
@@ -2979,7 +3076,8 @@
 			"fr": "Honduras",
 			"it": "Honduras",
 			"ja": "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9",
-			"nl": "Honduras"
+			"nl": "Honduras",
+			"hr": "Honduras"
 		},
 		"population": 8555072,
 		"latlng": [15, -86.5],
@@ -3009,7 +3107,8 @@
 			"fr": "Hong Kong",
 			"it": "Hong Kong",
 			"ja": "\u9999\u6e2f",
-			"nl": "Hongkong"
+			"nl": "Hongkong",
+			"hr": "Hong Kong"
 		},
 		"population": 7184000,
 		"latlng": [22.25, 114.16666666],
@@ -3039,7 +3138,8 @@
 			"fr": "Hongrie",
 			"it": "Ungheria",
 			"ja": "\u30cf\u30f3\u30ac\u30ea\u30fc",
-			"nl": "Hongarije"
+			"nl": "Hongarije",
+			"hr": "Ma\u0111arska"
 		},
 		"population": 9906000,
 		"latlng": [47, 20],
@@ -3069,7 +3169,8 @@
 			"fr": "Islande",
 			"it": "Islanda",
 			"ja": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9",
-			"nl": "IJsland"
+			"nl": "IJsland",
+			"hr": "Island"
 		},
 		"population": 325010,
 		"latlng": [65, -18],
@@ -3099,7 +3200,8 @@
 			"fr": "Inde",
 			"it": "India",
 			"ja": "\u30a4\u30f3\u30c9",
-			"nl": "India"
+			"nl": "India",
+			"hr": "Indija"
 		},
 		"population": 1236670000,
 		"latlng": [20, 77],
@@ -3129,7 +3231,8 @@
 			"de": "Indonesien",
 			"it": "Indonesia",
 			"ja": "\u30A4\u30F3\u30C9\u30CD\u30B7\u30A2",
-			"es": "Indonesia"
+			"es": "Indonesia",
+			"hr": "Indonezija"
 		},
 		"population": 237641326,
 		"latlng": [-5, 120],
@@ -3158,7 +3261,8 @@
 			"es": "Iran",
 			"fr": "Iran",
 			"ja": "\u30a4\u30e9\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
-			"nl": "Iran"
+			"nl": "Iran",
+			"hr": "Iran"
 		},
 		"population": 77068000,
 		"latlng": [32, 53],
@@ -3188,7 +3292,8 @@
 			"fr": "Irak",
 			"it": "Iraq",
 			"ja": "\u30a4\u30e9\u30af",
-			"nl": "Irak"
+			"nl": "Irak",
+			"hr": "Irak"
 		},
 		"population": 34035000,
 		"latlng": [33, 44],
@@ -3218,7 +3323,8 @@
 			"fr": "Irlande",
 			"it": "Irlanda",
 			"ja": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
-			"nl": "Ierland"
+			"nl": "Ierland",
+			"hr": "Irska"
 		},
 		"population": -1,
 		"latlng": [53, -8],
@@ -3248,7 +3354,8 @@
 			"fr": "\u00cele de Man",
 			"it": "Isola di Man",
 			"ja": "\u30de\u30f3\u5cf6",
-			"nl": "Isle of Man"
+			"nl": "Isle of Man",
+			"hr": "Otok Man"
 		},
 		"population": 84497,
 		"latlng": [54.25, -4.5],
@@ -3278,7 +3385,8 @@
 			"fr": "Isra\u00ebl",
 			"it": "Israele",
 			"ja": "\u30a4\u30b9\u30e9\u30a8\u30eb",
-			"nl": "Isra\u00ebl"
+			"nl": "Isra\u00ebl",
+			"hr": "Izrael"
 		},
 		"population": 8092700,
 		"latlng": [31.5, 34.75],
@@ -3308,7 +3416,8 @@
 			"fr": "Italie",
 			"it": "Italia",
 			"ja": "\u30a4\u30bf\u30ea\u30a2",
-			"nl": "Itali\u00eb"
+			"nl": "Itali\u00eb",
+			"hr": "Italija"
 		},
 		"population": 59829079,
 		"latlng": [42.83333333, 12.83333333],
@@ -3338,7 +3447,8 @@
 			"fr": "Jama\u00efque",
 			"it": "Giamaica",
 			"ja": "\u30b8\u30e3\u30de\u30a4\u30ab",
-			"nl": "Jamaica"
+			"nl": "Jamaica",
+			"hr": "Jamajka"
 		},
 		"population": 2711476,
 		"latlng": [18.25, -77.5],
@@ -3368,7 +3478,8 @@
 			"fr": "Japon",
 			"it": "Giappone",
 			"ja": "\u65e5\u672c",
-			"nl": "Japan"
+			"nl": "Japan",
+			"hr": "Japan"
 		},
 		"population": 127290000,
 		"latlng": [36, 138],
@@ -3398,7 +3509,8 @@
 			"fr": "Jersey",
 			"it": "Isola di Jersey",
 			"ja": "\u30b8\u30e3\u30fc\u30b8\u30fc",
-			"nl": "Jersey"
+			"nl": "Jersey",
+			"hr": "Jersey"
 		},
 		"population": 97857,
 		"latlng": [49.25, -2.16666666],
@@ -3428,7 +3540,8 @@
 			"fr": "Jordanie",
 			"it": "Giordania",
 			"ja": "\u30e8\u30eb\u30c0\u30f3",
-			"nl": "Jordani\u00eb"
+			"nl": "Jordani\u00eb",
+			"hr": "Jordan"
 		},
 		"population": 6512600,
 		"latlng": [31, 36],
@@ -3458,7 +3571,8 @@
 			"fr": "Kazakhstan",
 			"it": "Kazakistan",
 			"ja": "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3",
-			"nl": "Kazachstan"
+			"nl": "Kazachstan",
+			"hr": "Kazahstan"
 		},
 		"population": 17099000,
 		"latlng": [48, 68],
@@ -3488,7 +3602,8 @@
 			"fr": "Kenya",
 			"it": "Kenya",
 			"ja": "\u30b1\u30cb\u30a2",
-			"nl": "Kenia"
+			"nl": "Kenia",
+			"hr": "Kenija"
 		},
 		"population": 44354000,
 		"latlng": [1, 38],
@@ -3518,7 +3633,8 @@
 			"fr": "Kiribati",
 			"it": "Kiribati",
 			"ja": "\u30ad\u30ea\u30d0\u30b9",
-			"nl": "Kiribati"
+			"nl": "Kiribati",
+			"hr": "Kiribati"
 		},
 		"population": 106461,
 		"latlng": [1.41666666, 173],
@@ -3548,7 +3664,8 @@
 			"fr": "Kowe\u00eft",
 			"it": "Kuwait",
 			"ja": "\u30af\u30a6\u30a7\u30fc\u30c8",
-			"nl": "Koeweit"
+			"nl": "Koeweit",
+			"hr": "Kuvajt"
 		},
 		"population": 3582054,
 		"latlng": [29.5, 45.75],
@@ -3578,7 +3695,8 @@
 			"fr": "Kirghizistan",
 			"it": "Kirghizistan",
 			"ja": "\u30ad\u30eb\u30ae\u30b9",
-			"nl": "Kirgizi\u00eb"
+			"nl": "Kirgizi\u00eb",
+			"hr": "Kirgistan"
 		},
 		"population": 5551900,
 		"latlng": [41, 75],
@@ -3608,7 +3726,8 @@
 			"de": "Laos",
 			"it": "Laos",
 			"ja": "\u30E9\u30AA\u30B9\u4EBA\u6C11\u6C11\u4E3B\u5171\u548C\u56FD",
-			"es": "Laos"
+			"es": "Laos",
+			"hr": "Laos"
 		},
 		"population": 6580800,
 		"latlng": [18, 105],
@@ -3638,7 +3757,8 @@
 			"fr": "Lettonie",
 			"it": "Lettonia",
 			"ja": "\u30e9\u30c8\u30d3\u30a2",
-			"nl": "Letland"
+			"nl": "Letland",
+			"hr": "Latvija"
 		},
 		"population": 2014000,
 		"latlng": [57, 25],
@@ -3668,7 +3788,8 @@
 			"fr": "Liban",
 			"it": "Libano",
 			"ja": "\u30ec\u30d0\u30ce\u30f3",
-			"nl": "Libanon"
+			"nl": "Libanon",
+			"hr": "Libanon"
 		},
 		"population": 4822000,
 		"latlng": [33.83333333, 35.83333333],
@@ -3698,7 +3819,8 @@
 			"fr": "Lesotho",
 			"it": "Lesotho",
 			"ja": "\u30ec\u30bd\u30c8",
-			"nl": "Lesotho"
+			"nl": "Lesotho",
+			"hr": "Lesoto"
 		},
 		"population": 2074000,
 		"latlng": [-29.5, 28.5],
@@ -3728,7 +3850,8 @@
 			"fr": "Liberia",
 			"it": "Liberia",
 			"ja": "\u30ea\u30d9\u30ea\u30a2",
-			"nl": "Liberia"
+			"nl": "Liberia",
+			"hr": "Liberija"
 		},
 		"population": 4294000,
 		"latlng": [6.5, -9.5],
@@ -3758,7 +3881,8 @@
 			"fr": "Libye",
 			"it": "Libia",
 			"ja": "\u30ea\u30d3\u30a2",
-			"nl": "Libi\u00eb"
+			"nl": "Libi\u00eb",
+			"hr": "Libija"
 		},
 		"population": 6202000,
 		"latlng": [25, 17],
@@ -3788,7 +3912,8 @@
 			"fr": "Liechtenstein",
 			"it": "Liechtenstein",
 			"ja": "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3",
-			"nl": "Liechtenstein"
+			"nl": "Liechtenstein",
+			"hr": "Lihten\u0161tajn"
 		},
 		"population": 36842,
 		"latlng": [47.26666666, 9.53333333],
@@ -3818,7 +3943,8 @@
 			"fr": "Lituanie",
 			"it": "Lituania",
 			"ja": "\u30ea\u30c8\u30a2\u30cb\u30a2",
-			"nl": "Litouwen"
+			"nl": "Litouwen",
+			"hr": "Litva"
 		},
 		"population": 2950684,
 		"latlng": [56, 24],
@@ -3848,7 +3974,8 @@
 			"fr": "Luxembourg",
 			"it": "Lussemburgo",
 			"ja": "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af",
-			"nl": "Luxemburg"
+			"nl": "Luxemburg",
+			"hr": "Luksemburg"
 		},
 		"population": 537000,
 		"latlng": [49.75, 6.16666666],
@@ -3878,7 +4005,8 @@
 			"fr": "Macao",
 			"it": "Macao",
 			"ja": "\u30de\u30ab\u30aa",
-			"nl": "Macao"
+			"nl": "Macao",
+			"hr": "Makao"
 		},
 		"population": -1,
 		"latlng": [22.16666666, 113.55],
@@ -3908,7 +4036,8 @@
 			"fr": "Mac\u00e9doine",
 			"it": "Macedonia",
 			"ja": "\u30de\u30b1\u30c9\u30cb\u30a2\u65e7\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u5171\u548c\u56fd",
-			"nl": "Macedoni\u00eb [FYROM]"
+			"nl": "Macedoni\u00eb",
+			"hr": "Makedonija"
 		},
 		"population": -1,
 		"latlng": [41.83333333, 22],
@@ -3938,7 +4067,8 @@
 			"fr": "Madagascar",
 			"it": "Madagascar",
 			"ja": "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb",
-			"nl": "Madagaskar"
+			"nl": "Madagaskar",
+			"hr": "Madagaskar"
 		},
 		"population": 20696070,
 		"latlng": [-20, 47],
@@ -3968,7 +4098,8 @@
 			"fr": "Malawi",
 			"it": "Malawi",
 			"ja": "\u30de\u30e9\u30a6\u30a4",
-			"nl": "Malawi"
+			"nl": "Malawi",
+			"hr": "Malavi"
 		},
 		"population": 16363000,
 		"latlng": [-13.5, 34],
@@ -3998,7 +4129,8 @@
 			"de": "Malaysia",
 			"it": "Malesia",
 			"ja": "\u30DE\u30EC\u30FC\u30B7\u30A2",
-			"es": "Malasia"
+			"es": "Malasia",
+			"hr": "Malezija"
 		},
 		"population": 29793600,
 		"latlng": [2.5, 112.5],
@@ -4028,7 +4160,8 @@
 			"fr": "Maldives",
 			"it": "Maldive",
 			"ja": "\u30e2\u30eb\u30c7\u30a3\u30d6",
-			"nl": "Maldiven"
+			"nl": "Maldiven",
+			"hr": "Maldivi"
 		},
 		"population": 317280,
 		"latlng": [3.25, 73],
@@ -4058,7 +4191,8 @@
 			"fr": "Mali",
 			"it": "Mali",
 			"ja": "\u30de\u30ea",
-			"nl": "Mali"
+			"nl": "Mali",
+			"hr": "Mali"
 		},
 		"population": 15302000,
 		"latlng": [17, -4],
@@ -4088,7 +4222,8 @@
 			"fr": "Malte",
 			"it": "Malta",
 			"ja": "\u30de\u30eb\u30bf",
-			"nl": "Malta"
+			"nl": "Malta",
+			"hr": "Malta"
 		},
 		"population": 416055,
 		"latlng": [35.83333333, 14.58333333],
@@ -4118,7 +4253,8 @@
 			"fr": "\u00celes Marshall",
 			"it": "Isole Marshall",
 			"ja": "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6",
-			"nl": "Marshalleilanden"
+			"nl": "Marshalleilanden",
+			"hr": "Mar\u0161alovi Otoci"
 		},
 		"population": 56086,
 		"latlng": [9, 168],
@@ -4148,7 +4284,8 @@
 			"fr": "Martinique",
 			"it": "Martinica",
 			"ja": "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af",
-			"nl": "Martinique"
+			"nl": "Martinique",
+			"hr": "Martinique"
 		},
 		"population": 394173,
 		"latlng": [14.666667, -61],
@@ -4178,7 +4315,8 @@
 			"fr": "Mauritanie",
 			"it": "Mauritania",
 			"ja": "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2",
-			"nl": "Mauritani\u00eb"
+			"nl": "Mauritani\u00eb",
+			"hr": "Mauritanija"
 		},
 		"population": 3461041,
 		"latlng": [20, -12],
@@ -4208,7 +4346,8 @@
 			"fr": "\u00cele Maurice",
 			"it": "Mauritius",
 			"ja": "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9",
-			"nl": "Mauritius"
+			"nl": "Mauritius",
+			"hr": "Mauricijus"
 		},
 		"population": 1257900,
 		"latlng": [-20.28333333, 57.55],
@@ -4238,7 +4377,8 @@
 			"fr": "Mayotte",
 			"it": "Mayotte",
 			"ja": "\u30de\u30e8\u30c3\u30c8",
-			"nl": "Mayotte"
+			"nl": "Mayotte",
+			"hr": "Mayotte"
 		},
 		"population": 212600,
 		"latlng": [-12.83333333, 45.16666666],
@@ -4268,7 +4408,8 @@
 			"fr": "Mexique",
 			"it": "Messico",
 			"ja": "\u30e1\u30ad\u30b7\u30b3",
-			"nl": "Mexico"
+			"nl": "Mexico",
+			"hr": "Meksiko"
 		},
 		"population": 118395054,
 		"latlng": [23, -102],
@@ -4298,7 +4439,8 @@
 			"fr": "Micron\u00e9sie",
 			"it": "Micronesia",
 			"ja": "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6",
-			"nl": "Micronesi\u00eb"
+			"nl": "Micronesi\u00eb",
+			"hr": "Mikronezija"
 		},
 		"population": -1,
 		"latlng": [6.91666666, 158.25],
@@ -4328,7 +4470,8 @@
 			"fr": "Moldavie",
 			"it": "Moldavia",
 			"ja": "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd",
-			"nl": "Moldavi\u00eb"
+			"nl": "Moldavi\u00eb",
+			"hr": "Moldova"
 		},
 		"population": 3559500,
 		"latlng": [47, 29],
@@ -4358,7 +4501,8 @@
 			"fr": "Monaco",
 			"it": "Principato di Monaco",
 			"ja": "\u30e2\u30ca\u30b3",
-			"nl": "Monaco"
+			"nl": "Monaco",
+			"hr": "Monako"
 		},
 		"population": 36136,
 		"latlng": [43.73333333, 7.4],
@@ -4388,7 +4532,8 @@
 			"fr": "Mongolie",
 			"it": "Mongolia",
 			"ja": "\u30e2\u30f3\u30b4\u30eb",
-			"nl": "Mongoli\u00eb"
+			"nl": "Mongoli\u00eb",
+			"hr": "Mongolija"
 		},
 		"population": 2754685,
 		"latlng": [46, 105],
@@ -4418,7 +4563,8 @@
 			"fr": "Mont\u00e9n\u00e9gro",
 			"it": "Montenegro",
 			"ja": "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed",
-			"nl": "Montenegro"
+			"nl": "Montenegro",
+			"hr": "Crna Gora"
 		},
 		"population": 620029,
 		"latlng": [42.5, 19.3],
@@ -4448,7 +4594,8 @@
 			"fr": "Montserrat",
 			"it": "Montserrat",
 			"ja": "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8",
-			"nl": "Montserrat"
+			"nl": "Montserrat",
+			"hr": "Montserrat"
 		},
 		"population": 4922,
 		"latlng": [16.75, -62.2],
@@ -4478,7 +4625,8 @@
 			"fr": "Maroc",
 			"it": "Marocco",
 			"ja": "\u30e2\u30ed\u30c3\u30b3",
-			"nl": "Marokko"
+			"nl": "Marokko",
+			"hr": "Maroko"
 		},
 		"population": 33087700,
 		"latlng": [32, -5],
@@ -4508,7 +4656,8 @@
 			"fr": "Mozambique",
 			"it": "Mozambico",
 			"ja": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af",
-			"nl": "Mozambique"
+			"nl": "Mozambique",
+			"hr": "Mozambik"
 		},
 		"population": 23700715,
 		"latlng": [-18.25, 35],
@@ -4538,7 +4687,8 @@
 			"de": "Myanmar",
 			"it": "Birmania",
 			"ja": "\u30df\u30e3\u30f3\u30de\u30fc",
-			"es": "Myanmar"
+			"es": "Myanmar",
+			"hr": "Mijanmar"
 		},
 		"population": -1,
 		"latlng": [22, 98],
@@ -4568,7 +4718,8 @@
 			"fr": "Namibie",
 			"it": "Namibia",
 			"ja": "\u30ca\u30df\u30d3\u30a2",
-			"nl": "Namibi\u00eb"
+			"nl": "Namibi\u00eb",
+			"hr": "Namibija"
 		},
 		"population": 2113077,
 		"latlng": [-22, 17],
@@ -4598,7 +4749,8 @@
 			"fr": "Nauru",
 			"it": "Nauru",
 			"ja": "\u30ca\u30a6\u30eb",
-			"nl": "Nauru"
+			"nl": "Nauru",
+			"hr": "Nauru"
 		},
 		"population": 9945,
 		"latlng": [-0.53333333, 166.91666666],
@@ -4628,7 +4780,8 @@
 			"fr": "N\u00e9pal",
 			"it": "Nepal",
 			"ja": "\u30cd\u30d1\u30fc\u30eb",
-			"nl": "Nepal"
+			"nl": "Nepal",
+			"hr": "Nepal"
 		},
 		"population": 26494504,
 		"latlng": [28, 84],
@@ -4658,7 +4811,8 @@
 			"fr": "Pays-Bas",
 			"it": "Paesi Bassi",
 			"ja": "\u30aa\u30e9\u30f3\u30c0",
-			"nl": "Nederland"
+			"nl": "Nederland",
+			"hr": "Nizozemska"
 		},
 		"population": 16807300,
 		"latlng": [52.5, 5.75],
@@ -4688,7 +4842,8 @@
 			"fr": "Nouvelle-Cal\u00e9donie",
 			"it": "Nuova Caledonia",
 			"ja": "\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2",
-			"nl": "Nieuw-Caledoni\u00eb"
+			"nl": "Nieuw-Caledoni\u00eb",
+			"hr": "Nova Kaledonija"
 		},
 		"population": 258958,
 		"latlng": [-21.5, 165.5],
@@ -4718,7 +4873,8 @@
 			"de": "Neuseeland",
 			"it": "Nuova Zelanda",
 			"ja": "\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9",
-			"es": "Nueva Zelanda"
+			"es": "Nueva Zelanda",
+			"hr": "Novi Zeland"
 		},
 		"population": 4478810,
 		"latlng": [-41, 174],
@@ -4748,7 +4904,8 @@
 			"fr": "Nicaragua",
 			"it": "Nicaragua",
 			"ja": "\u30cb\u30ab\u30e9\u30b0\u30a2",
-			"nl": "Nicaragua"
+			"nl": "Nicaragua",
+			"hr": "Nikaragva"
 		},
 		"population": 6071045,
 		"latlng": [13, -85],
@@ -4778,7 +4935,8 @@
 			"fr": "Niger",
 			"it": "Niger",
 			"ja": "\u30cb\u30b8\u30a7\u30fc\u30eb",
-			"nl": "Niger"
+			"nl": "Niger",
+			"hr": "Niger"
 		},
 		"population": 17129076,
 		"latlng": [16, 8],
@@ -4808,7 +4966,8 @@
 			"fr": "Nig\u00e9ria",
 			"it": "Nigeria",
 			"ja": "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2",
-			"nl": "Nigeria"
+			"nl": "Nigeria",
+			"hr": "Nigerija"
 		},
 		"population": 173615000,
 		"latlng": [10, 8],
@@ -4838,7 +4997,8 @@
 			"fr": "Niue",
 			"it": "Niue",
 			"ja": "\u30cb\u30a6\u30a8",
-			"nl": "Niue"
+			"nl": "Niue",
+			"hr": "Niue"
 		},
 		"population": 1613,
 		"latlng": [-19.03333333, -169.86666666],
@@ -4868,7 +5028,8 @@
 			"de": "Norfolkinsel",
 			"it": "Isola Norfolk",
 			"ja": "\u30CE\u30FC\u30D5\u30A9\u30FC\u30AF\u5CF6",
-			"es": "Isla de Norfolk"
+			"es": "Isla de Norfolk",
+			"hr": "Otok Norfolk"
 		},
 		"population": 2302,
 		"latlng": [-29.03333333, 167.95],
@@ -4898,7 +5059,8 @@
 			"fr": "Cor\u00e9e du Nord",
 			"it": "Corea del Nord",
 			"ja": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
-			"nl": "Noord-Korea"
+			"nl": "Noord-Korea",
+			"hr": "Sjeverna Koreja"
 		},
 		"population": 24895000,
 		"latlng": [40, 127],
@@ -4928,7 +5090,8 @@
 			"fr": "\u00celes Mariannes du Nord",
 			"it": "Isole Marianne Settentrionali",
 			"ja": "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6",
-			"nl": "Noordelijke Marianeneilanden"
+			"nl": "Noordelijke Marianeneilanden",
+			"hr": "Sjevernomarijanski otoci"
 		},
 		"population": 53883,
 		"latlng": [15.2, 145.75],
@@ -4958,7 +5121,8 @@
 			"fr": "Norv\u00e8ge",
 			"it": "Norvegia",
 			"ja": "\u30ce\u30eb\u30a6\u30a7\u30fc",
-			"nl": "Noorwegen"
+			"nl": "Noorwegen",
+			"hr": "Norve\u0161ka"
 		},
 		"population": 5077798,
 		"latlng": [62, 10],
@@ -4988,7 +5152,8 @@
 			"fr": "Oman",
 			"it": "oman",
 			"ja": "\u30aa\u30de\u30fc\u30f3",
-			"nl": "Oman"
+			"nl": "Oman",
+			"hr": "Oman"
 		},
 		"population": 3929000,
 		"latlng": [21, 57],
@@ -5018,7 +5183,8 @@
 			"fr": "Pakistan",
 			"it": "Pakistan",
 			"ja": "\u30d1\u30ad\u30b9\u30bf\u30f3",
-			"nl": "Pakistan"
+			"nl": "Pakistan",
+			"hr": "Pakistan"
 		},
 		"population": 184845000,
 		"latlng": [30, 70],
@@ -5048,7 +5214,8 @@
 			"fr": "Palaos",
 			"it": "Palau",
 			"ja": "\u30d1\u30e9\u30aa",
-			"nl": "Palau"
+			"nl": "Palau",
+			"hr": "Palau"
 		},
 		"population": 20901,
 		"latlng": [7.5, 134.5],
@@ -5078,7 +5245,8 @@
 			"fr": "Palestine",
 			"it": "Palestina",
 			"ja": "\u30d1\u30ec\u30b9\u30c1\u30ca",
-			"nl": "Palestijnse gebieden"
+			"nl": "Palestijnse gebieden",
+			"hr": "Palestina"
 		},
 		"population": -1,
 		"latlng": [31.9, 35.2],
@@ -5108,7 +5276,8 @@
 			"fr": "Panama",
 			"it": "Panama",
 			"ja": "\u30d1\u30ca\u30de",
-			"nl": "Panama"
+			"nl": "Panama",
+			"hr": "Panama"
 		},
 		"population": 3405813,
 		"latlng": [9, -80],
@@ -5138,7 +5307,8 @@
 			"fr": "Papouasie-Nouvelle-Guin\u00e9e",
 			"it": "Papua Nuova Guinea",
 			"ja": "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2",
-			"nl": "Papoea-Nieuw-Guinea"
+			"nl": "Papoea-Nieuw-Guinea",
+			"hr": "Papua Nova Gvineja"
 		},
 		"population": 7059653,
 		"latlng": [-6, 147],
@@ -5168,7 +5338,8 @@
 			"fr": "Paraguay",
 			"it": "Paraguay",
 			"ja": "\u30d1\u30e9\u30b0\u30a2\u30a4",
-			"nl": "Paraguay"
+			"nl": "Paraguay",
+			"hr": "Paragvaj"
 		},
 		"population": 6783374,
 		"latlng": [-23, -58],
@@ -5198,7 +5369,8 @@
 			"fr": "P\u00e9rou",
 			"it": "Per\u00f9",
 			"ja": "\u30da\u30eb\u30fc",
-			"nl": "Peru"
+			"nl": "Peru",
+			"hr": "Peru"
 		},
 		"population": 30475144,
 		"latlng": [-10, -76],
@@ -5228,7 +5400,8 @@
 			"de": "Philippinen",
 			"it": "Filippine",
 			"ja": "\u30D5\u30A3\u30EA\u30D4\u30F3",
-			"es": "Filipinas"
+			"es": "Filipinas",
+			"hr": "Filipini"
 		},
 		"population": 98678000,
 		"latlng": [13, 122],
@@ -5258,7 +5431,8 @@
 			"fr": "\u00celes Pitcairn",
 			"it": "Isole Pitcairn",
 			"ja": "\u30d4\u30c8\u30b1\u30a2\u30f3",
-			"nl": "Pitcairneilanden"
+			"nl": "Pitcairneilanden",
+			"hr": "Pitcairnovo oto\u010dje"
 		},
 		"population": 56,
 		"latlng": [-25.06666666, -130.1],
@@ -5288,7 +5462,8 @@
 			"fr": "Pologne",
 			"it": "Polonia",
 			"ja": "\u30dd\u30fc\u30e9\u30f3\u30c9",
-			"nl": "Polen"
+			"nl": "Polen",
+			"hr": "Poljska"
 		},
 		"population": 38533299,
 		"latlng": [52, 20],
@@ -5318,7 +5493,8 @@
 			"fr": "Portugal",
 			"it": "Portogallo",
 			"ja": "\u30dd\u30eb\u30c8\u30ac\u30eb",
-			"nl": "Portugal"
+			"nl": "Portugal",
+			"hr": "Portugal"
 		},
 		"population": 10562178,
 		"latlng": [39.5, -8],
@@ -5348,7 +5524,8 @@
 			"fr": "Porto Rico",
 			"it": "Porto Rico",
 			"ja": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3",
-			"nl": "Puerto Rico"
+			"nl": "Puerto Rico",
+			"hr": "Portoriko"
 		},
 		"population": 3667084,
 		"latlng": [18.25, -66.5],
@@ -5378,7 +5555,8 @@
 			"fr": "Qatar",
 			"it": "Qatar",
 			"ja": "\u30ab\u30bf\u30fc\u30eb",
-			"nl": "Qatar"
+			"nl": "Qatar",
+			"hr": "Katar"
 		},
 		"population": 2024707,
 		"latlng": [25.5, 51.25],
@@ -5403,7 +5581,8 @@
 		"languagesCodes": ["sq", "sr"],
 		"translations": {
 			"en": "Kosovo",
-			"es": "Kosovo"
+			"es": "Kosovo",
+			"hr": "Kosovo"
 		},
 		"population": 1733842,
 		"latlng": [42.666667, 21.166667],
@@ -5433,7 +5612,8 @@
 			"fr": "R\u00e9union",
 			"it": "Riunione",
 			"ja": "\u30ec\u30e6\u30cb\u30aa\u30f3",
-			"nl": "R\u00e9union"
+			"nl": "R\u00e9union",
+			"hr": "R\u00e9union"
 		},
 		"population": 821136,
 		"latlng": [-21.15, 55.5],
@@ -5463,7 +5643,8 @@
 			"fr": "Roumanie",
 			"it": "Romania",
 			"ja": "\u30eb\u30fc\u30de\u30cb\u30a2",
-			"nl": "Roemeni\u00eb"
+			"nl": "Roemeni\u00eb",
+			"hr": "Rumunjska"
 		},
 		"population": 20121641,
 		"latlng": [46, 25],
@@ -5493,7 +5674,8 @@
 			"fr": "Russie",
 			"it": "Russia",
 			"ja": "\u30ed\u30b7\u30a2\u9023\u90a6",
-			"nl": "Rusland"
+			"nl": "Rusland",
+			"hr": "Rusija"
 		},
 		"population": 143500000,
 		"latlng": [60, 100],
@@ -5523,7 +5705,8 @@
 			"fr": "Rwanda",
 			"it": "Ruanda",
 			"ja": "\u30eb\u30ef\u30f3\u30c0",
-			"nl": "Rwanda"
+			"nl": "Rwanda",
+			"hr": "Ruanda"
 		},
 		"population": 10537222,
 		"latlng": [-2, 30],
@@ -5553,7 +5736,8 @@
 			"fr": "Saint-Barth\u00e9lemy",
 			"it": "Antille Francesi",
 			"ja": "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc",
-			"nl": "Saint Barth\u00e9lemy"
+			"nl": "Saint Barth\u00e9lemy",
+			"hr": "Saint Barth\u00e9lemy"
 		},
 		"population": 8938,
 		"latlng": [18.5, -63.41666666],
@@ -5583,7 +5767,8 @@
 			"fr": "Sainte-H\u00e9l\u00e8ne",
 			"it": "Sant'Elena",
 			"ja": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3",
-			"nl": "Sint-Helena"
+			"nl": "Sint-Helena",
+			"hr": "Sveta Helena"
 		},
 		"population": -1,
 		"latlng": [-15.95, -5.7],
@@ -5613,7 +5798,8 @@
 			"fr": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
 			"it": "Saint Kitts e Nevis",
 			"ja": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
-			"nl": "Saint Kitts en Nevis"
+			"nl": "Saint Kitts en Nevis",
+			"hr": "Sveti Kristof i Nevis"
 		},
 		"population": 54000,
 		"latlng": [17.33333333, -62.75],
@@ -5643,7 +5829,8 @@
 			"fr": "Saint-Lucie",
 			"it": "Santa Lucia",
 			"ja": "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2",
-			"nl": "Saint Lucia"
+			"nl": "Saint Lucia",
+			"hr": "Sveta Lucija"
 		},
 		"population": 166526,
 		"latlng": [13.88333333, -60.96666666],
@@ -5673,7 +5860,8 @@
 			"fr": "Saint-Martin",
 			"it": "Saint Martin",
 			"ja": "\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3\uff08\u30d5\u30e9\u30f3\u30b9\u9818\uff09",
-			"nl": "Saint-Martin"
+			"nl": "Saint-Martin",
+			"hr": "Sveti Martin"
 		},
 		"population": -1,
 		"latlng": [18.08333333, -63.95],
@@ -5703,7 +5891,8 @@
 			"fr": "Saint-Pierre-et-Miquelon",
 			"it": "Saint-Pierre e Miquelon",
 			"ja": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6",
-			"nl": "Saint Pierre en Miquelon"
+			"nl": "Saint Pierre en Miquelon",
+			"hr": "Sveti Petar i Mikelon"
 		},
 		"population": 6081,
 		"latlng": [46.83333333, -56.33333333],
@@ -5733,7 +5922,8 @@
 			"fr": "Saint-Vincent-et-les-Grenadines",
 			"it": "Saint Vincent e Grenadine",
 			"ja": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6",
-			"nl": "Saint Vincent en de Grenadines"
+			"nl": "Saint Vincent en de Grenadines",
+			"hr": "Sveti Vincent i Grenadini"
 		},
 		"population": 109000,
 		"latlng": [13.25, -61.2],
@@ -5763,7 +5953,8 @@
 			"fr": "Samoa",
 			"it": "Samoa",
 			"ja": "\u30b5\u30e2\u30a2",
-			"nl": "Samoa"
+			"nl": "Samoa",
+			"hr": "Samoa"
 		},
 		"population": 187820,
 		"latlng": [-13.58333333, -172.33333333],
@@ -5793,7 +5984,8 @@
 			"fr": "Saint-Marin",
 			"it": "San Marino",
 			"ja": "\u30b5\u30f3\u30de\u30ea\u30ce",
-			"nl": "San Marino"
+			"nl": "San Marino",
+			"hr": "San Marino"
 		},
 		"population": 32509,
 		"latlng": [43.76666666, 12.41666666],
@@ -5823,7 +6015,8 @@
 			"fr": "Sao Tom\u00e9-et-Principe",
 			"it": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
 			"ja": "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da",
-			"nl": "Sao Tom\u00e9 en Principe"
+			"nl": "Sao Tom\u00e9 en Principe",
+			"hr": "Sveti Toma i Princip"
 		},
 		"population": 187356,
 		"latlng": [1, 7],
@@ -5853,7 +6046,8 @@
 			"fr": "Arabie Saoudite",
 			"it": "Arabia Saudita",
 			"ja": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2",
-			"nl": "Saoedi-Arabi\u00eb"
+			"nl": "Saoedi-Arabi\u00eb",
+			"hr": "Saudijska Arabija"
 		},
 		"population": 29994272,
 		"latlng": [25, 45],
@@ -5883,7 +6077,8 @@
 			"fr": "S\u00e9n\u00e9gal",
 			"it": "Senegal",
 			"ja": "\u30bb\u30cd\u30ac\u30eb",
-			"nl": "Senegal"
+			"nl": "Senegal",
+			"hr": "Senegal"
 		},
 		"population": 13567338,
 		"latlng": [14, -14],
@@ -5913,7 +6108,8 @@
 			"fr": "Serbie",
 			"it": "Serbia",
 			"ja": "\u30bb\u30eb\u30d3\u30a2",
-			"nl": "Servi\u00eb"
+			"nl": "Servi\u00eb",
+			"hr": "Srbija"
 		},
 		"population": 7181505,
 		"latlng": [44, 21],
@@ -5943,7 +6139,8 @@
 			"fr": "Seychelles",
 			"it": "Seychelles",
 			"ja": "\u30bb\u30fc\u30b7\u30a7\u30eb",
-			"nl": "Seychellen"
+			"nl": "Seychellen",
+			"hr": "Sej\u0161eli"
 		},
 		"population": 90945,
 		"latlng": [-4.58333333, 55.66666666],
@@ -5973,7 +6170,8 @@
 			"fr": "Sierra Leone",
 			"it": "Sierra Leone",
 			"ja": "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd",
-			"nl": "Sierra Leone"
+			"nl": "Sierra Leone",
+			"hr": "Sijera Leone"
 		},
 		"population": 6190280,
 		"latlng": [8.5, -11.5],
@@ -6003,7 +6201,8 @@
 			"de": "Singapur",
 			"it": "Singapore",
 			"ja": "\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB",
-			"es": "Singapur"
+			"es": "Singapur",
+			"hr": "Singapur"
 		},
 		"population": 5399200,
 		"latlng": [1.36666666, 103.8],
@@ -6058,7 +6257,8 @@
 			"fr": "Slovaquie",
 			"it": "Slovacchia",
 			"ja": "\u30b9\u30ed\u30d0\u30ad\u30a2",
-			"nl": "Slowakije"
+			"nl": "Slowakije",
+			"hr": "Slova\u010dka"
 		},
 		"population": 5412008,
 		"latlng": [48.66666666, 19.5],
@@ -6088,7 +6288,8 @@
 			"fr": "Slov\u00e9nie",
 			"it": "Slovenia",
 			"ja": "\u30b9\u30ed\u30d9\u30cb\u30a2",
-			"nl": "Sloveni\u00eb"
+			"nl": "Sloveni\u00eb",
+			"hr": "Slovenija"
 		},
 		"population": 2061405,
 		"latlng": [46.11666666, 14.81666666],
@@ -6118,7 +6319,8 @@
 			"fr": "\u00celes Salomon",
 			"it": "Isole Salomone",
 			"ja": "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6",
-			"nl": "Salomonseilanden"
+			"nl": "Salomonseilanden",
+			"hr": "Solomonski Otoci"
 		},
 		"population": 561000,
 		"latlng": [-8, 159],
@@ -6148,7 +6350,8 @@
 			"fr": "Somalie",
 			"it": "Somalia",
 			"ja": "\u30bd\u30de\u30ea\u30a2",
-			"nl": "Somali\u00eb"
+			"nl": "Somali\u00eb",
+			"hr": "Somalija"
 		},
 		"population": 10496000,
 		"latlng": [10, 49],
@@ -6178,7 +6381,8 @@
 			"fr": "Afrique du Sud",
 			"it": "Sud Africa",
 			"ja": "\u5357\u30a2\u30d5\u30ea\u30ab",
-			"nl": "Zuid-Afrika"
+			"nl": "Zuid-Afrika",
+			"hr": "Ju\u017enoafri\u010dka Republika"
 		},
 		"population": 52981991,
 		"latlng": [-29, 24],
@@ -6208,7 +6412,8 @@
 			"fr": "G\u00e9orgie du Sud-et-les \u00celes Sandwich du Sud",
 			"it": "Georgia del Sud e Isole Sandwich Meridionali",
 			"ja": "\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u30fb\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u8af8\u5cf6",
-			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden"
+			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
+			"hr": "Ju\u017ena Georgija i oto\u010dje Ju\u017eni Sandwich"
 		},
 		"population": -1,
 		"latlng": [-54.5, -37],
@@ -6238,7 +6443,8 @@
 			"fr": "Cor\u00e9e du Sud",
 			"it": "Corea del Sud",
 			"ja": "\u5927\u97d3\u6c11\u56fd",
-			"nl": "Zuid-Korea"
+			"nl": "Zuid-Korea",
+			"hr": "Ju\u017ena Koreja"
 		},
 		"population": 50219669,
 		"latlng": [37, 127.5],
@@ -6268,7 +6474,8 @@
 			"de": "S\u00fcdsudan",
 			"it": "Sudan del sud",
 			"ja": "\u5357\u30B9\u30FC\u30C0\u30F3",
-			"es": "Sudán del Sur"
+			"es": "Sudán del Sur",
+			"hr": "Ju\u017eni Sudan"
 		},
 		"population": 11296000,
 		"latlng": [7, 30],
@@ -6298,7 +6505,8 @@
 			"fr": "Espagne",
 			"it": "Spagna",
 			"ja": "\u30b9\u30da\u30a4\u30f3",
-			"nl": "Spanje"
+			"nl": "Spanje",
+			"hr": "\u0160panjolska"
 		},
 		"population": 46704314,
 		"latlng": [40, -4],
@@ -6328,7 +6536,8 @@
 			"fr": "Sri Lanka",
 			"it": "Sri Lanka",
 			"ja": "\u30b9\u30ea\u30e9\u30f3\u30ab",
-			"nl": "Sri Lanka"
+			"nl": "Sri Lanka",
+			"hr": "\u0160ri Lanka"
 		},
 		"population": 20277597,
 		"latlng": [7, 81],
@@ -6358,7 +6567,8 @@
 			"fr": "Soudan",
 			"it": "Sudan",
 			"ja": "\u30b9\u30fc\u30c0\u30f3",
-			"nl": "Soedan"
+			"nl": "Soedan",
+			"hr": "Sudan"
 		},
 		"population": 37964000,
 		"latlng": [15, 30],
@@ -6388,7 +6598,8 @@
 			"fr": "Surinam",
 			"it": "Suriname",
 			"ja": "\u30b9\u30ea\u30ca\u30e0",
-			"nl": "Suriname"
+			"nl": "Suriname",
+			"hr": "Surinam"
 		},
 		"population": 534189,
 		"latlng": [4, -56],
@@ -6418,7 +6629,8 @@
 			"fr": "Svalbard et Jan Mayen",
 			"it": "Svalbard e Jan Mayen",
 			"ja": "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u304a\u3088\u3073\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6",
-			"nl": "Svalbard en Jan Mayen"
+			"nl": "Svalbard en Jan Mayen",
+			"hr": "Svalbard i Jan Mayen"
 		},
 		"population": 2655,
 		"latlng": [78, 20],
@@ -6448,7 +6660,8 @@
 			"fr": "Swaziland",
 			"it": "Swaziland",
 			"ja": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9",
-			"nl": "Swaziland"
+			"nl": "Swaziland",
+			"hr": "Svazi"
 		},
 		"population": 1250000,
 		"latlng": [-26.5, 31.5],
@@ -6478,7 +6691,8 @@
 			"fr": "Su\u00e8de",
 			"it": "Svezia",
 			"ja": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3",
-			"nl": "Zweden"
+			"nl": "Zweden",
+			"hr": "\u0160vedska"
 		},
 		"population": 9625444,
 		"latlng": [62, 15],
@@ -6508,7 +6722,8 @@
 			"fr": "Suisse",
 			"it": "Svizzera",
 			"ja": "\u30b9\u30a4\u30b9",
-			"nl": "Zwitserland"
+			"nl": "Zwitserland",
+			"hr": "\u0160vicarska"
 		},
 		"population": 8085300,
 		"latlng": [47, 8],
@@ -6538,7 +6753,8 @@
 			"fr": "Syrie",
 			"it": "Siria",
 			"ja": "\u30b7\u30ea\u30a2\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd",
-			"nl": "Syri\u00eb"
+			"nl": "Syri\u00eb",
+			"hr": "Sirija"
 		},
 		"population": 21898000,
 		"latlng": [35, 38],
@@ -6568,7 +6784,8 @@
 			"fr": "Ta\u00efwan",
 			"it": "Taiwan",
 			"ja": "\u53f0\u6e7e\uff08\u53f0\u6e7e\u7701\/\u4e2d\u83ef\u6c11\u56fd\uff09",
-			"nl": "Taiwan"
+			"nl": "Taiwan",
+			"hr": "Tajvan"
 		},
 		"population": 23361147,
 		"latlng": [23.5, 121],
@@ -6598,7 +6815,8 @@
 			"fr": "Tadjikistan",
 			"it": "Tagikistan",
 			"ja": "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3",
-			"nl": "Tadzjikistan"
+			"nl": "Tadzjikistan",
+			"hr": "Ta\u0111ikistan"
 		},
 		"population": 8000000,
 		"latlng": [39, 71],
@@ -6628,7 +6846,8 @@
 			"fr": "Tanzanie",
 			"it": "Tanzania",
 			"ja": "\u30bf\u30f3\u30b6\u30cb\u30a2",
-			"nl": "Tanzania"
+			"nl": "Tanzania",
+			"hr": "Tanzanija"
 		},
 		"population": 44928923,
 		"latlng": [-6, 35],
@@ -6658,7 +6877,8 @@
 			"de": "Thailand",
 			"it": "Tailandia",
 			"ja": "\u30BF\u30A4",
-			"es": "Tailandia"
+			"es": "Tailandia",
+			"hr": "Tajland"
 		},
 		"population": 65926261,
 		"latlng": [15, 100],
@@ -6688,7 +6908,8 @@
 			"de": "Timor-Leste",
 			"it": "Timor Est",
 			"ja": "\u6771\u30C6\u30A3\u30E2\u30FC\u30EB",
-			"es": "Timor Oriental"
+			"es": "Timor Oriental",
+			"hr": "Isto\u010dni Timor"
 		},
 		"population": -1,
 		"latlng": [-8.83333333, 125.91666666],
@@ -6718,7 +6939,8 @@
 			"fr": "Togo",
 			"it": "Togo",
 			"ja": "\u30c8\u30fc\u30b4",
-			"nl": "Togo"
+			"nl": "Togo",
+			"hr": "Togo"
 		},
 		"population": 6191155,
 		"latlng": [8, 1.16666666],
@@ -6748,7 +6970,8 @@
 			"fr": "Tokelau",
 			"it": "Isole Tokelau",
 			"ja": "\u30c8\u30b1\u30e9\u30a6",
-			"nl": "Tokelau"
+			"nl": "Tokelau",
+			"hr": "Tokelau"
 		},
 		"population": 1411,
 		"latlng": [-9, -172],
@@ -6778,7 +7001,8 @@
 			"fr": "Tonga",
 			"it": "Tonga",
 			"ja": "\u30c8\u30f3\u30ac",
-			"nl": "Tonga"
+			"nl": "Tonga",
+			"hr": "Tonga"
 		},
 		"population": 103036,
 		"latlng": [-20, -175],
@@ -6808,7 +7032,8 @@
 			"fr": "Trinit\u00e9 et Tobago",
 			"it": "Trinidad e Tobago",
 			"ja": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4",
-			"nl": "Trinidad en Tobago"
+			"nl": "Trinidad en Tobago",
+			"hr": "Trinidad i Tobago"
 		},
 		"population": 1328019,
 		"latlng": [11, -61],
@@ -6838,7 +7063,8 @@
 			"fr": "Tunisie",
 			"it": "Tunisia",
 			"ja": "\u30c1\u30e5\u30cb\u30b8\u30a2",
-			"nl": "Tunesi\u00eb"
+			"nl": "Tunesi\u00eb",
+			"hr": "Tunis"
 		},
 		"population": 10833431,
 		"latlng": [34, 9],
@@ -6868,7 +7094,8 @@
 			"fr": "Turquie",
 			"it": "Turchia",
 			"ja": "\u30c8\u30eb\u30b3",
-			"nl": "Turkije"
+			"nl": "Turkije",
+			"hr": "Turska"
 		},
 		"population": 75627384,
 		"latlng": [39, 35],
@@ -6898,7 +7125,8 @@
 			"fr": "Turkm\u00e9nistan",
 			"it": "Turkmenistan",
 			"ja": "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3",
-			"nl": "Turkmenistan"
+			"nl": "Turkmenistan",
+			"hr": "Turkmenistan"
 		},
 		"population": 5240000,
 		"latlng": [40, 60],
@@ -6928,7 +7156,8 @@
 			"fr": "\u00celes Turques-et-Ca\u00efques",
 			"it": "Isole Turks e Caicos",
 			"ja": "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6",
-			"nl": "Turks- en Caicoseilanden"
+			"nl": "Turks- en Caicoseilanden",
+			"hr": "Otoci Turks i Caicos"
 		},
 		"population": 31458,
 		"latlng": [21.75, -71.58333333],
@@ -6958,7 +7187,8 @@
 			"fr": "Tuvalu",
 			"it": "Tuvalu",
 			"ja": "\u30c4\u30d0\u30eb",
-			"nl": "Tuvalu"
+			"nl": "Tuvalu",
+			"hr": "Tuvalu"
 		},
 		"population": 11323,
 		"latlng": [-8, 178],
@@ -6988,7 +7218,8 @@
 			"fr": "Uganda",
 			"it": "Uganda",
 			"ja": "\u30a6\u30ac\u30f3\u30c0",
-			"nl": "Oeganda"
+			"nl": "Oeganda",
+			"hr": "Uganda"
 		},
 		"population": 35357000,
 		"latlng": [1, 32],
@@ -7018,7 +7249,8 @@
 			"fr": "Ukraine",
 			"it": "Ucraina",
 			"ja": "\u30a6\u30af\u30e9\u30a4\u30ca",
-			"nl": "Oekra\u00efne"
+			"nl": "Oekra\u00efne",
+			"hr": "Ukrajina"
 		},
 		"population": 45461627,
 		"latlng": [49, 32],
@@ -7048,7 +7280,8 @@
 			"fr": "\u00c9mirats arabes unis",
 			"it": "Emirati Arabi Uniti",
 			"ja": "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6",
-			"nl": "Verenigde Arabische Emiraten"
+			"nl": "Verenigde Arabische Emiraten",
+			"hr": "Ujedinjeni Arapski Emirati"
 		},
 		"population": 8264070,
 		"latlng": [24, 54],
@@ -7078,7 +7311,8 @@
 			"fr": "Royaume-Uni",
 			"it": "Regno Unito",
 			"ja": "\u30a4\u30ae\u30ea\u30b9",
-			"nl": "Verenigd Koninkrijk"
+			"nl": "Verenigd Koninkrijk",
+			"hr": "Ujedinjeno Kraljevstvo"
 		},
 		"population": 63705000,
 		"latlng": [54, -2],
@@ -7108,7 +7342,8 @@
 			"fr": "\u00c9tats-Unis",
 			"it": "Stati Uniti D'America",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
-			"nl": "Verenigde Staten"
+			"nl": "Verenigde Staten",
+			"hr": "Sjedinjene Ameri\u010dke Dr\u017eave"
 		},
 		"population": 317101000,
 		"latlng": [38, -97],
@@ -7138,7 +7373,8 @@
 			"fr": "\u00celes mineures \u00e9loign\u00e9es des \u00c9tats-Unis",
 			"it": "Isole minori esterne degli Stati Uniti d'America",
 			"ja": "\u5408\u8846\u56fd\u9818\u6709\u5c0f\u96e2\u5cf6",
-			"nl": "Kleine afgelegen eilanden van de Verenigde Staten"
+			"nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+			"hr": "Mali udaljeni otoci SAD-a"
 		},
 		"population": -1,
 		"latlng": [],
@@ -7168,7 +7404,8 @@
 			"fr": "\u00celes Vierges des \u00c9tats-Unis",
 			"it": "Isole Vergini americane",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
-			"nl": "Amerikaanse Maagdeneilanden"
+			"nl": "Amerikaanse Maagdeneilanden",
+			"hr": "Ameri\u010dki Djevi\u010danski Otoci"
 		},
 		"population": 106405,
 		"latlng": [18.35, -64.933333],
@@ -7198,7 +7435,8 @@
 			"fr": "Uruguay",
 			"it": "Uruguay",
 			"ja": "\u30a6\u30eb\u30b0\u30a2\u30a4",
-			"nl": "Uruguay"
+			"nl": "Uruguay",
+			"hr": "Urugvaj"
 		},
 		"population": 3286314,
 		"latlng": [-33, -56],
@@ -7228,7 +7466,8 @@
 			"fr": "Ouzb\u00e9kistan",
 			"it": "Uzbekistan",
 			"ja": "\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3",
-			"nl": "Oezbekistan"
+			"nl": "Oezbekistan",
+			"hr": "Uzbekistan"
 		},
 		"population": 30183400,
 		"latlng": [41, 64],
@@ -7258,7 +7497,8 @@
 			"fr": "Vanuatu",
 			"it": "Vanuatu",
 			"ja": "\u30d0\u30cc\u30a2\u30c4",
-			"nl": "Vanuatu"
+			"nl": "Vanuatu",
+			"hr": "Vanuatu"
 		},
 		"population": 264652,
 		"latlng": [-16, 167],
@@ -7288,7 +7528,8 @@
 			"fr": "Venezuela",
 			"it": "Venezuela",
 			"ja": "\u30d9\u30cd\u30ba\u30a8\u30e9\u30fb\u30dc\u30ea\u30d0\u30eb\u5171\u548c\u56fd",
-			"nl": "Venezuela"
+			"nl": "Venezuela",
+			"hr": "Venezuela"
 		},
 		"population": 28946101,
 		"latlng": [8, -66],
@@ -7318,7 +7559,8 @@
 			"de": "Vietnam",
 			"it": "Vietnam",
 			"ja": "\u30D9\u30C8\u30CA\u30E0",
-			"es": "Vietnam"
+			"es": "Vietnam",
+			"hr": "Vijetnam"
 		},
 		"population": 90388000,
 		"latlng": [16.16666666, 107.83333333],
@@ -7348,7 +7590,8 @@
 			"fr": "Wallis-et-Futuna",
 			"it": "Wallis e Futuna",
 			"ja": "\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca",
-			"nl": "Wallis en Futuna"
+			"nl": "Wallis en Futuna",
+			"hr": "Wallis i Fortuna"
 		},
 		"population": 13135,
 		"latlng": [-13.3, -176.2],
@@ -7378,7 +7621,8 @@
 			"fr": "Sahara Occidental",
 			"it": "Sahara Occidentale",
 			"ja": "\u897f\u30b5\u30cf\u30e9",
-			"nl": "Westelijke Sahara"
+			"nl": "Westelijke Sahara",
+			"hr": "Zapadna Sahara"
 		},
 		"population": 567000,
 		"latlng": [24.5, -13],
@@ -7408,7 +7652,8 @@
 			"fr": "Y\u00e9men",
 			"it": "Yemen",
 			"ja": "\u30a4\u30a8\u30e1\u30f3",
-			"nl": "Jemen"
+			"nl": "Jemen",
+			"hr": "Jemen"
 		},
 		"population": 24527000,
 		"latlng": [15, 48],
@@ -7438,7 +7683,8 @@
 			"fr": "Zambie",
 			"it": "Zambia",
 			"ja": "\u30b6\u30f3\u30d3\u30a2",
-			"nl": "Zambia"
+			"nl": "Zambia",
+			"hr": "Zambija"
 		},
 		"population": 13092666,
 		"latlng": [-15, 30],
@@ -7468,7 +7714,8 @@
 			"fr": "Zimbabwe",
 			"it": "Zimbabwe",
 			"ja": "\u30b8\u30f3\u30d0\u30d6\u30a8",
-			"nl": "Zimbabwe"
+			"nl": "Zimbabwe",
+			"hr": "Zimbabve"
 		},
 		"population": 12973808,
 		"latlng": [-20, 30],
