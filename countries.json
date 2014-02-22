@@ -1027,7 +1027,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Malay"],
 		"languagesCodes": ["ms"],
-		"translations": {},
+		"translations": {
+			"fr": "Brunei",
+			"en": "Brunei",
+			"nl": "Brunei",
+			"de": "Brunei",
+			"it": "Brunei",
+			"ja": "\u30D6\u30EB\u30CD\u30A4\u30FB\u30C0\u30EB\u30B5\u30E9\u30FC\u30E0",
+			"es": "Brunei"
+		},
 		"population": 393162,
 		"latlng": [4.5, 114.66666666],
 		"demonym": "Bruneian",
@@ -1139,7 +1147,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Khmer"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "Cambodge",
+			"en": "Cambodia",
+			"nl": "Cambodja",
+			"de": "Kambodscha",
+			"it": "Cambogia",
+			"ja": "\u30AB\u30F3\u30DC\u30B8\u30A2",
+			"es": "Camboya"
+		},
 		"population": 15135000,
 		"latlng": [13, 105],
 		"demonym": "Cambodian",
@@ -1401,7 +1417,15 @@
 		"subregion": "Australia and New Zealand",
 		"language": ["English"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "\u00cele Christmas",
+			"en": "Christmas Island",
+			"nl": "Christmaseiland",
+			"de": "Weihnachtsinsel",
+			"it": "Isola di Natale",
+			"ja": "\u30AF\u30EA\u30B9\u30DE\u30B9\u5CF6",
+			"es": "Isla de Navidad"
+		},
 		"population": 2072,
 		"latlng": [-10.5, 105.66666666],
 		"demonym": "Christmas Island",
@@ -1423,7 +1447,15 @@
 		"subregion": "Australia and New Zealand",
 		"language": ["English"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "\u00celes Cocos",
+			"en": "Cocos (Keeling) Islands",
+			"nl": "Cocoseilanden",
+			"de": "Kokosinseln",
+			"it": "Isole Cocos e Keeling",
+			"ja": "\u30B3\u30B3\u30B9\uFF08\u30AD\u30FC\u30EA\u30F3\u30B0\uFF09\u8AF8\u5CF6",
+			"es": "Islas Cocos o Islas Keeling"
+		},
 		"population": 550,
 		"latlng": [-12.5, 96.83333333],
 		"demonym": "Cocos Islander",
@@ -1715,7 +1747,10 @@
 		"subregion": "Caribbean",
 		"language": ["Dutch", "Papiamentu", "English"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"en": "Cura\u00e7ao",
+			"nl": "Cura\u00e7ao"
+		},
 		"population": 150563,
 		"latlng": [12.116667, -68.933333],
 		"demonym": "Dutch",
@@ -1749,7 +1784,7 @@
 		"population": 865878,
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
-		"borders": [ "GBR" ]
+		"borders": ["GBR"]
 	},
 	{
 		"name": "Czech Republic",
@@ -3087,7 +3122,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Indonesian"],
 		"languagesCodes": ["id"],
-		"translations": {},
+		"translations": {
+			"fr": "Indon\u00e9sie",
+			"en": "Indonesia",
+			"nl": "Indonesi\u00eb",
+			"de": "Indonesien",
+			"it": "Indonesia",
+			"ja": "\u30A4\u30F3\u30C9\u30CD\u30B7\u30A2",
+			"es": "Indonesia"
+		},
 		"population": 237641326,
 		"latlng": [-5, 120],
 		"demonym": "Indonesian",
@@ -3558,7 +3601,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Lao"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "Laos",
+			"en": "Laos",
+			"nl": "Laos",
+			"de": "Laos",
+			"it": "Laos",
+			"ja": "\u30E9\u30AA\u30B9\u4EBA\u6C11\u6C11\u4E3B\u5171\u548C\u56FD",
+			"es": "Laos"
+		},
 		"population": 6580800,
 		"latlng": [18, 105],
 		"demonym": "Laotian",
@@ -3940,7 +3991,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Malaysian"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "Malaisie",
+			"en": "Malaysia",
+			"nl": "Maleisi\u00eb",
+			"de": "Malaysia",
+			"it": "Malesia",
+			"ja": "\u30DE\u30EC\u30FC\u30B7\u30A2",
+			"es": "Malasia"
+		},
 		"population": 29793600,
 		"latlng": [2.5, 112.5],
 		"demonym": "Malaysian",
@@ -4472,7 +4531,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Burmese"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "Myanmar",
+			"en": "Myanmar",
+			"nl": "Myanmar",
+			"de": "Myanmar",
+			"it": "Birmania",
+			"ja": "\u30df\u30e3\u30f3\u30de\u30fc",
+			"es": "Myanmar"
+		},
 		"population": -1,
 		"latlng": [22, 98],
 		"demonym": "Myanmarian",
@@ -4644,7 +4711,15 @@
 		"subregion": "Australia and New Zealand",
 		"language": ["English", "M\u0101ori", "New Zealand Sign Language"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "Nouvelle-Z\u00e9lande",
+			"en": "New Zealand",
+			"nl": "Nieuw-Zeeland",
+			"de": "Neuseeland",
+			"it": "Nuova Zelanda",
+			"ja": "\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9",
+			"es": "Nueva Zelanda"
+		},
 		"population": 4478810,
 		"latlng": [-41, 174],
 		"demonym": "New Zealander",
@@ -4786,7 +4861,15 @@
 		"subregion": "Australia and New Zealand",
 		"language": ["English", "Norfuk"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "\u00cele de Norfolk",
+			"en": "Norfolk Island",
+			"nl": "Norfolkeiland",
+			"de": "Norfolkinsel",
+			"it": "Isola Norfolk",
+			"ja": "\u30CE\u30FC\u30D5\u30A9\u30FC\u30AF\u5CF6",
+			"es": "Isla de Norfolk"
+		},
 		"population": 2302,
 		"latlng": [-29.03333333, 167.95],
 		"demonym": "Norfolk Islander",
@@ -4820,7 +4903,7 @@
 		"population": 24895000,
 		"latlng": [40, 127],
 		"demonym": "North Korean",
-		"borders": [ "CHN", "KOR", "RUS"]
+		"borders": ["CHN", "KOR", "RUS"]
 	},
 	{
 		"name": "Northern Mariana Islands",
@@ -5000,7 +5083,7 @@
 		"population": -1,
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
-		"borders": [ "ISR", "EGY", "JOR" ]
+		"borders": ["ISR", "EGY", "JOR"]
 	},
 	{
 		"name": "Panama",
@@ -5138,7 +5221,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Filipino", "English"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "Philippines",
+			"en": "Philippines",
+			"nl": "Filipijnen",
+			"de": "Philippinen",
+			"it": "Filippine",
+			"ja": "\u30D5\u30A3\u30EA\u30D4\u30F3",
+			"es": "Filipinas"
+		},
 		"population": 98678000,
 		"latlng": [13, 122],
 		"demonym": "Filipino",
@@ -5310,11 +5401,14 @@
 		"subregion": "Eastern Europe",
 		"language": ["Albanian", "Serbian"],
 		"languagesCodes": ["sq", "sr"],
-		"translations": {},
+		"translations": {
+			"en": "Kosovo",
+			"es": "Kosovo"
+		},
 		"population": 1733842,
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
-		"borders": [ "ALB", "MKD", "MNE", "SRB"]
+		"borders": ["ALB", "MKD", "MNE", "SRB"]
 	},
 	{
 		"name": "R\u00e9union",
@@ -5902,7 +5996,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["English", "Malay", "Mandarin", "Tamil"],
 		"languagesCodes": ["en", "ms", "ta", "zh"],
-		"translations": {},
+		"translations": {
+			"fr": "Singapour",
+			"en": "Singapore",
+			"nl": "Singapore",
+			"de": "Singapur",
+			"it": "Singapore",
+			"ja": "\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB",
+			"es": "Singapur"
+		},
 		"population": 5399200,
 		"latlng": [1.36666666, 103.8],
 		"demonym": "Singaporean",
@@ -5924,11 +6026,14 @@
 		"subregion": "Caribbean",
 		"language": ["Dutch", "English"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"en": "Sint Maarten",
+			"nl": "Sint Maarten"
+		},
 		"population": 37429,
 		"latlng": [18.033333, -63.05],
 		"demonym": "Dutch",
-		"borders": [ "MAF" ]
+		"borders": ["MAF"]
 	},
 	{
 		"name": "Slovakia",
@@ -6156,7 +6261,15 @@
 		"subregion": "Middle Africa",
 		"language": ["English"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "Soudan du Sud",
+			"en": "South Sudan",
+			"nl": "Zuid-Soedan",
+			"de": "S\u00fcdsudan",
+			"it": "Sudan del sud",
+			"ja": "\u5357\u30B9\u30FC\u30C0\u30F3",
+			"es": "Sudán del Sur"
+		},
 		"population": 11296000,
 		"latlng": [7, 30],
 		"demonym": "South Sudanese",
@@ -6538,7 +6651,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Thai"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "Tha\u00eflande",
+			"en": "Thailand",
+			"nl": "Thailand",
+			"de": "Thailand",
+			"it": "Tailandia",
+			"ja": "\u30BF\u30A4",
+			"es": "Tailandia"
+		},
 		"population": 65926261,
 		"latlng": [15, 100],
 		"demonym": "Thai",
@@ -6560,11 +6681,19 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Portuguese", "Tetum"],
 		"languagesCodes": [],
-		"translations": {},
+		"translations": {
+			"fr": "Timor oriental",
+			"en": "East Timor",
+			"nl": "Oost-Timor",
+			"de": "Timor-Leste",
+			"it": "Timor Est",
+			"ja": "\u6771\u30C6\u30A3\u30E2\u30FC\u30EB",
+			"es": "Timor Oriental"
+		},
 		"population": -1,
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
-		"borders": [ "IDN" ]
+		"borders": ["IDN"]
 	},
 	{
 		"name": "Togo",
@@ -7182,7 +7311,15 @@
 		"subregion": "South-Eastern Asia",
 		"language": ["Vietnamese"],
 		"languagesCodes": ["vi"],
-		"translations": {},
+		"translations": {
+			"fr": "Vi\u00eat Nam",
+			"en": "Vietnam",
+			"nl": "Vietnam",
+			"de": "Vietnam",
+			"it": "Vietnam",
+			"ja": "\u30D9\u30C8\u30CA\u30E0",
+			"es": "Vietnam"
+		},
 		"population": 90388000,
 		"latlng": [16.16666666, 107.83333333],
 		"demonym": "Vietnamese",
