@@ -374,7 +374,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Dutch", "Papiamento"],
-		"languageCodes": ["nl"],
+		"languageCodes": ["nl", "pa"],
 		"translations": {
 			"de": "Aruba",
 			"es": "Aruba",
@@ -387,6 +387,36 @@
 		"population": 101484,
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
+		"borders": []
+	},
+	{
+		"name": "Ascension Island",
+		"nativeName": "Ascension Island",
+		"tld": [".ac"],
+		"cca2": "SH",
+		"ccn3": "654",
+		"cca3": "SHN",
+		"currency": ["SHP"],
+		"callingCode": ["247"],
+		"capital": "Georgetown",
+		"altSpellings": [""],
+		"relevance": "0",
+		"region": "Americas",
+		"subregion": "South America",
+		"language": ["English"],
+		"languageCodes": ["en"],
+		"translations": {
+			"de": "Ascension",
+			"es": "Isla Ascensi\u00f3n",
+			"fr": "\u00cele de l'Ascension",
+			"it": "Isola di Ascensione",
+			"ja": "\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u5cf6",
+			"nl": "Ascension",
+			"hr": "Otok Ascension"
+		},
+		"population": 880,
+		"latlng": [-7.933333, -14.366667],
+		"demonym": "Saints",
 		"borders": []
 	},
 	{
@@ -404,7 +434,7 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English"],
-		"languageCodes": [],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Australien",
 			"es": "Australia",
@@ -504,7 +534,7 @@
 			"nl": "Bahama\u2019s",
 			"hr": "Bahami"
 		},
-		"population": -1,
+		"population": 319031,
 		"latlng": [24.25, -76],
 		"demonym": "Bahamian",
 		"borders": []
@@ -824,9 +854,9 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Dutch"],
-		"languageCodes": [],
+		"languageCodes": ["nl"],
 		"translations": {},
-		"population": -1,
+		"population": 17408,
 		"latlng": [12.15, -68.266667],
 		"demonym": "Dutch",
 		"borders": []
@@ -916,7 +946,7 @@
 			"nl": "Bouveteiland",
 			"hr": "Otok Bouvet"
 		},
-		"population": -1,
+		"population": 0,
 		"latlng": [-54.43333333, 3.4],
 		"demonym": "",
 		"borders": []
@@ -976,7 +1006,7 @@
 			"nl": "Britse Gebieden in de Indische Oceaan",
 			"hr": "Britanski Indijskooceanski teritorij"
 		},
-		"population": -1,
+		"population": 3000,
 		"latlng": [-6, 71.5],
 		"demonym": "Indian",
 		"borders": []
@@ -1146,7 +1176,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Khmer"],
-		"languageCodes": [],
+		"languageCodes": ["km"],
 		"translations": {
 			"fr": "Cambodge",
 			"nl": "Cambodja",
@@ -1416,7 +1446,7 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English"],
-		"languageCodes": [],
+		"languageCodes": ["en"],
 		"translations": {
 			"fr": "\u00cele Christmas",
 			"nl": "Christmaseiland",
@@ -1446,7 +1476,7 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English"],
-		"languageCodes": [],
+		"languageCodes": ["en"],
 		"translations": {
 			"fr": "\u00celes Cocos",
 			"nl": "Cocoseilanden",
@@ -1642,36 +1672,6 @@
 		"borders": ["NIC", "PAN"]
 	},
 	{
-		"name": "C\u00f4te d'Ivoire",
-		"nativeName": "C\u00f4te d'Ivoire",
-		"tld": [".ci"],
-		"cca2": "CI",
-		"ccn3": "384",
-		"cca3": "CIV",
-		"currency": ["XOF"],
-		"callingCode": ["225"],
-		"capital": "Yamoussoukro",
-		"altSpellings": ["CI", "Ivory Coast", "Republic of C\u00f4te d'Ivoire", "R\u00e9publique de C\u00f4te d'Ivoire"],
-		"relevance": "0",
-		"region": "Africa",
-		"subregion": "Western Africa",
-		"language": ["French"],
-		"languageCodes": ["fr"],
-		"translations": {
-			"de": "Elfenbeink\u00fcste",
-			"es": "Costa de Marfil",
-			"fr": "C\u00f4te d'Ivoire",
-			"it": "Costa D'Avorio",
-			"ja": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
-			"nl": "Ivoorkust",
-			"hr": "Obala Bjelokosti"
-		},
-		"population": -1,
-		"latlng": [8, -5],
-		"demonym": "Ivorian",
-		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"]
-	},
-	{
 		"name": "Croatia",
 		"nativeName": "Hrvatska",
 		"tld": [".hr"],
@@ -1746,7 +1746,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Dutch", "Papiamentu", "English"],
-		"languageCodes": [],
+		"languageCodes": ["nl", "pa", "en"],
 		"translations": {
 			"nl": "Cura\u00e7ao"
 		},
@@ -2380,8 +2380,8 @@
 			"nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
 			"hr": "Francuski ju\u017eni i antarkti\u010dki teritoriji"
 		},
-		"population": -1,
-		"latlng": [],
+		"population": 140,
+		"latlng": [-49.25, 69.167],
 		"demonym": "French",
 		"borders": []
 	},
@@ -2440,7 +2440,7 @@
 			"nl": "Gambia",
 			"hr": "Gambija"
 		},
-		"population": -1,
+		"population": 1782893,
 		"latlng": [13.46666666, -16.56666666],
 		"demonym": "Gambian",
 		"borders": ["SEN"]
@@ -2470,7 +2470,7 @@
 			"nl": "Georgi\u00eb",
 			"hr": "Gruzija"
 		},
-		"population": -1,
+		"population": 4942157,
 		"latlng": [42, 43.5],
 		"demonym": "Georgian",
 		"borders": ["ARM", "AZE", "RUS", "TUR"]
@@ -2920,7 +2920,7 @@
 			"nl": "Heard- en McDonaldeilanden",
 			"hr": "Otok Heard i oto\u010dje McDonald"
 		},
-		"population": -1,
+		"population": 0,
 		"latlng": [-53.1, 72.51666666],
 		"demonym": "Heard and McDonald Islander",
 		"borders": []
@@ -3136,6 +3136,36 @@
 		"borders": ["TLS", "MYS", "PNG"]
 	},
 	{
+		"name": "Ivory Coast",
+		"nativeName": "C\u00f4te d'Ivoire",
+		"tld": [".ci"],
+		"cca2": "CI",
+		"ccn3": "384",
+		"cca3": "CIV",
+		"currency": ["XOF"],
+		"callingCode": ["225"],
+		"capital": "Yamoussoukro",
+		"altSpellings": ["CI", "Ivory Coast", "Republic of C\u00f4te d'Ivoire", "R\u00e9publique de C\u00f4te d'Ivoire"],
+		"relevance": "0",
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"language": ["French"],
+		"languageCodes": ["fr"],
+		"translations": {
+			"de": "Elfenbeink\u00fcste",
+			"es": "Costa de Marfil",
+			"fr": "C\u00f4te d'Ivoire",
+			"it": "Costa D'Avorio",
+			"ja": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
+			"nl": "Ivoorkust",
+			"hr": "Obala Bjelokosti"
+		},
+		"population": 22400835,
+		"latlng": [8, -5],
+		"demonym": "Ivorian",
+		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"]
+	},
+	{
 		"name": "Iran",
 		"nativeName": "Ir\u0101n",
 		"tld": [".ir"],
@@ -3209,7 +3239,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Irish", "English"],
-		"languageCodes": ["en", "ga"],
+		"languageCodes": ["ga", "en"],
 		"translations": {
 			"de": "Irland",
 			"es": "Irlanda",
@@ -3219,7 +3249,7 @@
 			"nl": "Ierland",
 			"hr": "Irska"
 		},
-		"population": -1,
+		"population": 6378000,
 		"latlng": [53, -8],
 		"demonym": "Irish",
 		"borders": ["GBR"]
@@ -3599,7 +3629,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Lao"],
-		"languageCodes": [],
+		"languageCodes": ["lo"],
 		"translations": {
 			"fr": "Laos",
 			"nl": "Laos",
@@ -3879,7 +3909,7 @@
 			"nl": "Macao",
 			"hr": "Makao"
 		},
-		"population": -1,
+		"population": 591900,
 		"latlng": [22.16666666, 113.55],
 		"demonym": "Chinese",
 		"borders": ["CHN"]
@@ -3909,7 +3939,7 @@
 			"nl": "Macedoni\u00eb",
 			"hr": "Makedonija"
 		},
-		"population": -1,
+		"population": 2058539,
 		"latlng": [41.83333333, 22],
 		"demonym": "Macedonian",
 		"borders": ["ALB", "BGR", "GRC", "KOS", "SRB"]
@@ -4299,7 +4329,7 @@
 			"nl": "Micronesi\u00eb",
 			"hr": "Mikronezija"
 		},
-		"population": -1,
+		"population": 106104,
 		"latlng": [6.91666666, 158.25],
 		"demonym": "Micronesian",
 		"borders": []
@@ -4529,7 +4559,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Burmese"],
-		"languageCodes": [],
+		"languageCodes": ["my"],
 		"translations": {
 			"fr": "Myanmar",
 			"nl": "Myanmar",
@@ -4539,10 +4569,10 @@
 			"es": "Myanmar",
 			"hr": "Mijanmar"
 		},
-		"population": -1,
+		"population": 61120000,
 		"latlng": [22, 98],
 		"demonym": "Myanmarian",
-		"borders": []
+		"borders": ["BGD", "CHN", "IND", "LAO", "THA"]
 	},
 	{
 		"name": "Namibia",
@@ -4709,7 +4739,7 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English", "M\u0101ori", "New Zealand Sign Language"],
-		"languageCodes": [],
+		"languageCodes": ["en", "mi"],
 		"translations": {
 			"fr": "Nouvelle-Z\u00e9lande",
 			"nl": "Nieuw-Zeeland",
@@ -4859,7 +4889,7 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English", "Norfuk"],
-		"languageCodes": [],
+		"languageCodes": ["en"],
 		"translations": {
 			"fr": "\u00cele de Norfolk",
 			"nl": "Norfolkeiland",
@@ -5069,7 +5099,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languageCodes": ["ar", "he", "en"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Pal\u00e4stina",
 			"es": "Palestina",
@@ -5079,7 +5109,7 @@
 			"nl": "Palestijnse gebieden",
 			"hr": "Palestina"
 		},
-		"population": -1,
+		"population": 4550368,
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
 		"borders": ["ISR", "EGY", "JOR"]
@@ -5219,7 +5249,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Filipino", "English"],
-		"languageCodes": [],
+		"languageCodes": ["en"],
 		"translations": {
 			"fr": "Philippines",
 			"nl": "Filipijnen",
@@ -5584,7 +5614,7 @@
 			"nl": "Sint-Helena",
 			"hr": "Sveta Helena"
 		},
-		"population": -1,
+		"population": 4255,
 		"latlng": [-15.95, -5.7],
 		"demonym": "Saint Helenian",
 		"borders": []
@@ -5674,7 +5704,7 @@
 			"nl": "Saint-Martin",
 			"hr": "Sveti Martin"
 		},
-		"population": -1,
+		"population": 77741,
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
 		"borders": ["SXM", "NLD"]
@@ -6024,7 +6054,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Dutch", "English"],
-		"languageCodes": [],
+		"languageCodes": ["nl", "en"],
 		"translations": {
 			"nl": "Sint Maarten"
 		},
@@ -6208,7 +6238,7 @@
 			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
 			"hr": "Ju\u017ena Georgija i oto\u010dje Ju\u017eni Sandwich"
 		},
-		"population": -1,
+		"population": 30,
 		"latlng": [-54.5, -37],
 		"demonym": "South Georgia and the South Sandwich Islander",
 		"borders": []
@@ -6258,7 +6288,7 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["English"],
-		"languageCodes": [],
+		"languageCodes": ["en"],
 		"translations": {
 			"fr": "Soudan du Sud",
 			"nl": "Zuid-Soedan",
@@ -6648,7 +6678,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Thai"],
-		"languageCodes": [],
+		"languageCodes": ["th"],
 		"translations": {
 			"fr": "Tha\u00eflande",
 			"nl": "Thailand",
@@ -6678,7 +6708,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Portuguese", "Tetum"],
-		"languageCodes": [],
+		"languageCodes": ["pt"],
 		"translations": {
 			"fr": "Timor oriental",
 			"nl": "Oost-Timor",
@@ -6688,7 +6718,7 @@
 			"es": "Timor Oriental",
 			"hr": "Isto\u010dni Timor"
 		},
-		"population": -1,
+		"population": 1172390,
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
 		"borders": ["IDN"]
@@ -7138,7 +7168,7 @@
 			"nl": "Kleine afgelegen eilanden van de Verenigde Staten",
 			"hr": "Mali udaljeni otoci SAD-a"
 		},
-		"population": -1,
+		"population": 300,
 		"latlng": [],
 		"demonym": "American",
 		"borders": []
