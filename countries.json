@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Afghanistan",
-		"nativeName": "Af\u0121\u0101nist\u0101n",
+		"nativeName": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
 		"tld": [".af"],
 		"cca2": "AF",
 		"ccn3": "004",
@@ -91,7 +91,7 @@
 	},
 	{
 		"name": "Algeria",
-		"nativeName": "al-Jaz\u0101\u02bcir",
+		"nativeName": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
 		"tld": [".dz"],
 		"cca2": "DZ",
 		"ccn3": "012",
@@ -541,7 +541,7 @@
 	},
 	{
 		"name": "Bahrain",
-		"nativeName": "al-Ba\u1e25rayn",
+		"nativeName": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
 		"tld": [".bh"],
 		"cca2": "BH",
 		"ccn3": "048",
@@ -1356,10 +1356,10 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["French", "Arabic"],
-		"languageCodes": ["ar", "fr"],
+		"languageCodes": ["fr", "ar"],
 		"translations": {
 			"de": "Tschad",
-			"es": "chad",
+			"es": "Chad",
 			"fr": "Tchad",
 			"it": "Ciad",
 			"ja": "\u30c1\u30e3\u30c9",
@@ -1860,7 +1860,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["French", "Arabic"],
-		"languageCodes": ["ar", "fr"],
+		"languageCodes": ["fr", "ar"],
 		"translations": {
 			"de": "Dschibuti",
 			"es": "Yibuti",
@@ -1967,7 +1967,7 @@
 	},
 	{
 		"name": "Egypt",
-		"nativeName": "Mi\u1e63r",
+		"nativeName": "\u0645\u0635\u0631\u200e",
 		"tld": [".eg"],
 		"cca2": "EG",
 		"ccn3": "818",
@@ -1979,7 +1979,7 @@
 		"relevance": "1.5",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"language": ["Egyptian Arabic"],
+		"language": ["Arabic"],
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "\u00c4gypten",
@@ -2070,7 +2070,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Tigrinya", "Arabic", "English"],
-		"languageCodes": ["en", "ar", "ti"],
+		"languageCodes": ["ti", "ar", "en"],
 		"translations": {
 			"de": "Eritrea",
 			"es": "Eritrea",
@@ -3196,7 +3196,7 @@
 	},
 	{
 		"name": "Iraq",
-		"nativeName": "Ir\u0101q",
+		"nativeName": "\u0627\u0644\u0639\u0631\u0627\u0642",
 		"tld": [".iq"],
 		"cca2": "IQ",
 		"ccn3": "368",
@@ -3208,8 +3208,8 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"language": ["Arabic", "Kurdish"],
-		"languageCodes": ["ar"],
+		"language": ["Arabic", "Kurdish", "Syriac"],
+		"languageCodes": ["ar", "ku"],
 		"translations": {
 			"de": "Irak",
 			"es": "Irak",
@@ -3219,7 +3219,7 @@
 			"nl": "Irak",
 			"hr": "Irak"
 		},
-		"population": 34035000,
+		"population": 36004552,
 		"latlng": [33, 44],
 		"demonym": "Iraqi",
 		"borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"]
@@ -3286,7 +3286,7 @@
 	},
 	{
 		"name": "Israel",
-		"nativeName": "Yisr\u0101'el",
+		"nativeName": "\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc",
 		"tld": [".il"],
 		"cca2": "IL",
 		"ccn3": "376",
@@ -3436,7 +3436,7 @@
 	},
 	{
 		"name": "Jordan",
-		"nativeName": "al-Urdun",
+		"nativeName": "\u0627\u0644\u0623\u0631\u062f\u0646",
 		"tld": [".jo"],
 		"cca2": "JO",
 		"ccn3": "400",
@@ -3556,7 +3556,7 @@
 	},
 	{
 		"name": "Kuwait",
-		"nativeName": "al-Kuwayt",
+		"nativeName": "\u0627\u0644\u0643\u0648\u064a\u062a",
 		"tld": [".kw"],
 		"cca2": "KW",
 		"ccn3": "414",
@@ -3676,7 +3676,7 @@
 	},
 	{
 		"name": "Lebanon",
-		"nativeName": "Libn\u0101n",
+		"nativeName": "\u0644\u0628\u0646\u0627\u0646",
 		"tld": [".lb"],
 		"cca2": "LB",
 		"ccn3": "422",
@@ -3766,7 +3766,7 @@
 	},
 	{
 		"name": "Libya",
-		"nativeName": "L\u012bby\u0101",
+		"nativeName": "\u200f\u0644\u064a\u0628\u064a\u0627",
 		"tld": [".ly"],
 		"cca2": "LY",
 		"ccn3": "434",
@@ -4186,7 +4186,7 @@
 	},
 	{
 		"name": "Mauritania",
-		"nativeName": "M\u016br\u012bt\u0101ny\u0101",
+		"nativeName": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
 		"tld": [".mr"],
 		"cca2": "MR",
 		"ccn3": "478",
@@ -4199,7 +4199,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["Arabic"],
-		"languageCodes": ["ar", "fr"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Mauretanien",
 			"es": "Mauritania",
@@ -4486,7 +4486,7 @@
 	},
 	{
 		"name": "Morocco",
-		"nativeName": "al-Ma\u0121rib",
+		"nativeName": "\u0627\u0644\u0645\u063a\u0631\u0628",
 		"tld": [".ma"],
 		"cca2": "MA",
 		"ccn3": "504",
@@ -4498,7 +4498,7 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"language": ["Arabic", "Tamazight"],
+		"language": ["Arabic", "Berber"],
 		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Marokko",
@@ -4996,7 +4996,7 @@
 	},
 	{
 		"name": "Oman",
-		"nativeName": "\u02bbUm\u0101n",
+		"nativeName": "\u0639\u0645\u0627\u0646",
 		"tld": [".om"],
 		"cca2": "OM",
 		"ccn3": "512",
@@ -5086,7 +5086,7 @@
 	},
 	{
 		"name": "Palestine",
-		"nativeName": "Filas\u1e6din",
+		"nativeName": "\u0641\u0644\u0633\u0637\u064a\u0646",
 		"tld": [".ps"],
 		"cca2": "PS",
 		"ccn3": "275",
@@ -5386,7 +5386,7 @@
 	},
 	{
 		"name": "Qatar",
-		"nativeName": "Qa\u1e6dar",
+		"nativeName": "\u0642\u0637\u0631",
 		"tld": [".qa"],
 		"cca2": "QA",
 		"ccn3": "634",
@@ -5861,7 +5861,7 @@
 	},
 	{
 		"name": "Saudi Arabia",
-		"nativeName": "as-Su\u2018\u016bdiyyah",
+		"nativeName": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
 		"tld": [".sa"],
 		"cca2": "SA",
 		"ccn3": "682",
@@ -6365,7 +6365,7 @@
 	},
 	{
 		"name": "Sudan",
-		"nativeName": "as-S\u016bd\u0101n",
+		"nativeName": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
 		"tld": [".sd"],
 		"cca2": "SD",
 		"ccn3": "729",
@@ -6545,7 +6545,7 @@
 	},
 	{
 		"name": "Syria",
-		"nativeName": "S\u016briy\u0101",
+		"nativeName": "\u0633\u0648\u0631\u064a\u0627",
 		"tld": [".sy"],
 		"cca2": "SY",
 		"ccn3": "760",
@@ -6845,7 +6845,7 @@
 	},
 	{
 		"name": "Tunisia",
-		"nativeName": "T\u016bnis",
+		"nativeName": "\u062a\u0648\u0646\u0633",
 		"tld": [".tn"],
 		"cca2": "TN",
 		"ccn3": "788",
@@ -6858,7 +6858,7 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"language": ["Arabic"],
-		"languageCodes": ["ar", "fr"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Tunesien",
 			"es": "T\u00fanez",
@@ -7055,7 +7055,7 @@
 	},
 	{
 		"name": "United Arab Emirates",
-		"nativeName": "Dawlat al-\u02beIm\u0101r\u0101t al-\u02bfArabiyyah al-Mutta\u1e25idah",
+		"nativeName": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
 		"tld": [".ae"],
 		"cca2": "AE",
 		"ccn3": "784",
@@ -7078,9 +7078,9 @@
 			"nl": "Verenigde Arabische Emiraten",
 			"hr": "Ujedinjeni Arapski Emirati"
 		},
-		"population": 8264070,
+		"population": 5473972,
 		"latlng": [24, 54],
-		"demonym": "Emirian",
+		"demonym": "Emirati",
 		"borders": ["OMN", "SAU"]
 	},
 	{
@@ -7385,7 +7385,7 @@
 	},
 	{
 		"name": "Western Sahara",
-		"nativeName": "A\u1e63-\u1e62a\u1e25r\u0101\u2019 al-\u0120arbiyya",
+		"nativeName": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
 		"tld": [".eh"],
 		"cca2": "EH",
 		"ccn3": "732",
@@ -7397,8 +7397,8 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"language": ["Berber", "Hassaniya"],
-		"languageCodes": ["es", "fr"],
+		"language": ["Berber", "Hassaniya", "Spanish"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Westsahara",
 			"es": "Sahara Occidental",
@@ -7415,7 +7415,7 @@
 	},
 	{
 		"name": "Yemen",
-		"nativeName": "al-Yaman",
+		"nativeName": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646",
 		"tld": [".ye"],
 		"cca2": "YE",
 		"ccn3": "887",
