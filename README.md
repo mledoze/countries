@@ -16,7 +16,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - region
  - subregion
  - language(s) in English
- - ISO 639-1 language code(s) (`languagesCodes`)
+ - ISO 639-1 language code(s) (`languageCodes`)
  - name translations
  - population
  - latitude and longitude (`latlng`)
