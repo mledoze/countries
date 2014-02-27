@@ -90,7 +90,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
 ```
 #####CSV
 ```csv
-"name";"nativeName";"tld";"cca2";"ccn3";"cca3";"currency";"callingCode";"capital";"altSpellings";"relevance";"region";"subregion";"language";"languagesCodes";"translations";"population";"latlng";"demonym";"borders"
+"name";"nativeName";"tld";"cca2";"ccn3";"cca3";"currency";"callingCode";"capital";"altSpellings";"relevance";"region";"subregion";"language";"languageCodes";"translations";"population";"latlng";"demonym";"borders"
 ⋮
 "United Arab Emirates";"Dawlat al-ʾImārāt al-ʿArabiyyah al-Muttaḥidah";".ae";"AE";"784";"ARE";"AED";"971";"Abu Dhabi";"AE,UAE";"0";"Asia";"Western Asia";"Arabic";"ar";"Vereinigte Arabische Emirate,Emiratos Árabes Unidos,Émirats arabes unis,Emirati Arabi Uniti,アラブ首長国連邦,Verenigde Arabische Emiraten,Ujedinjeni Arapski Emirati";"8264070";"24,54";"Emirian";"OMN,SAU"
 "United Kingdom";"United Kingdom";".uk";"GB";"826";"GBR";"GBP";"44";"London";"GB,UK,Great Britain";"2.5";"Europe";"Northern Europe";"English";"en";"Vereinigtes Königreich,Reino Unido,Royaume-Uni,Regno Unito,イギリス,Verenigd Koninkrijk,Ujedinjeno Kraljevstvo";"63705000";"54,-2";"British";"IRL"
