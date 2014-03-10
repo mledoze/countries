@@ -1209,6 +1209,7 @@
 		"language": ["Khmer"],
 		"languageCodes": ["km"],
 		"translations": {
+			"cy": "Cambodia",
 			"fr": "Cambodge",
 			"nl": "Cambodja",
 			"de": "Kambodscha",
@@ -1239,6 +1240,7 @@
 		"language": ["French", "English"],
 		"languageCodes": ["en", "fr"],
 		"translations": {
+			"cy": "Camer\u0175n",
 			"de": "Kamerun",
 			"es": "Camer\u00fan",
 			"fr": "Cameroun",
@@ -1269,6 +1271,7 @@
 		"language": ["English", "French"],
 		"languageCodes": ["en", "fr"],
 		"translations": {
+			"cy": "Canada",
 			"de": "Kanada",
 			"es": "Canad\u00e1",
 			"fr": "Canada",
@@ -1299,6 +1302,7 @@
 		"language": ["Portuguese"],
 		"languageCodes": ["pt"],
 		"translations": {
+			"cy": "Cape Verde",
 			"de": "Kap Verde",
 			"es": "Cabo Verde",
 			"fr": "Cap Vert",
@@ -1329,6 +1333,7 @@
 		"language": ["English"],
 		"languageCodes": ["en"],
 		"translations": {
+			"cy": "Ynysoedd_Cayman",
 			"de": "Kaimaninseln",
 			"es": "Islas Caim\u00e1n",
 			"fr": "\u00celes Ca\u00efmans",
@@ -1359,6 +1364,7 @@
 		"language": ["Sango", "French"],
 		"languageCodes": ["fr", "sg"],
 		"translations": {
+			"cy": "Gweriniaeth Canolbarth Affrica",
 			"de": "Zentralafrikanische Republik",
 			"es": "Rep\u00fablica Centroafricana",
 			"fr": "R\u00e9publique centrafricaine",
@@ -1389,6 +1395,7 @@
 		"language": ["French", "Arabic"],
 		"languageCodes": ["fr", "ar"],
 		"translations": {
+			"cy": "Tsiad",
 			"de": "Tschad",
 			"es": "Chad",
 			"fr": "Tchad",
@@ -1419,6 +1426,7 @@
 		"language": ["Spanish"],
 		"languageCodes": ["es"],
 		"translations": {
+			"cy": "Chile",
 			"de": "Chile",
 			"es": "Chile",
 			"fr": "Chili",
@@ -1449,6 +1457,7 @@
 		"language": ["Standard Chinese"],
 		"languageCodes": ["zh"],
 		"translations": {
+			"cy": "Tsieina",
 			"de": "China",
 			"es": "China",
 			"fr": "Chine",
@@ -1479,6 +1488,7 @@
 		"language": ["English"],
 		"languageCodes": ["en"],
 		"translations": {
+			"cy": "Ynys y Nadolig",
 			"fr": "\u00cele Christmas",
 			"nl": "Christmaseiland",
 			"de": "Weihnachtsinsel",
@@ -1509,6 +1519,7 @@
 		"language": ["English"],
 		"languageCodes": ["en"],
 		"translations": {
+			"cy": "Ynysoedd Cocos",
 			"fr": "\u00celes Cocos",
 			"nl": "Cocoseilanden",
 			"de": "Kokosinseln",
@@ -1539,6 +1550,7 @@
 		"language": ["Spanish"],
 		"languageCodes": ["es"],
 		"translations": {
+			"cy": "Colombia",
 			"de": "Kolumbien",
 			"es": "Colombia",
 			"fr": "Colombie",
@@ -1569,6 +1581,7 @@
 		"language": ["Comorian", "Arabic", "French"],
 		"languageCodes": ["ar", "fr"],
 		"translations": {
+			"cy": "Comoros",
 			"de": "Union der Komoren",
 			"es": "Comoras",
 			"fr": "Comores",
@@ -1599,6 +1612,7 @@
 		"language": ["French"],
 		"languageCodes": ["fr", "ln"],
 		"translations": {
+			"cy": "Gweriniaeth y Congo",
 			"de": "Kongo",
 			"es": "Congo",
 			"fr": "Congo",
@@ -1629,6 +1643,7 @@
 		"language": ["French"],
 		"languageCodes": ["fr", "ln", "kg", "sw", "lu"],
 		"translations": {
+			"cy": "Gweriniaeth Ddemocrataidd Congo",
 			"de": "Kongo (Dem. Rep.)",
 			"es": "Congo (Rep. Dem.)",
 			"fr": "Congo (R\u00e9p. d\u00e9m.)",
@@ -1659,6 +1674,7 @@
 		"language": ["English", "Cook Islands M\u0101ori"],
 		"languageCodes": ["en"],
 		"translations": {
+			"cy": "Ynysoedd Cook",
 			"de": "Cookinseln",
 			"es": "Islas Cook",
 			"fr": "\u00celes Cook",
@@ -1689,6 +1705,7 @@
 		"language": ["Spanish"],
 		"languageCodes": ["es"],
 		"translations": {
+			"cy": "Costa Rica",
 			"de": "Costa Rica",
 			"es": "Costa Rica",
 			"fr": "Costa Rica",
@@ -1719,6 +1736,7 @@
 		"language": ["Croatian"],
 		"languageCodes": ["hr"],
 		"translations": {
+			"cy": "Croatia",
 			"de": "Kroatien",
 			"es": "Croacia",
 			"fr": "Croatie",
@@ -1749,6 +1767,7 @@
 		"language": ["Spanish"],
 		"languageCodes": ["es"],
 		"translations": {
+			"cy": "Ciwba",
 			"de": "Kuba",
 			"es": "Cuba",
 			"fr": "Cuba",
