@@ -1822,6 +1822,7 @@
 		"language": ["Greek", "Turkish"],
 		"languageCodes": ["el", "tr", "hy"],
 		"translations": {
+			"cy": "Cyprus",
 			"de": "Zypern",
 			"es": "Chipre",
 			"fr": "Chypre",
@@ -1852,6 +1853,7 @@
 		"language": ["Czech"],
 		"languageCodes": ["cs", "sk"],
 		"translations": {
+			"cy": "Y Weriniaeth Tsiec",
 			"de": "Tschechische Republik",
 			"es": "Rep\u00fablica Checa",
 			"fr": "R\u00e9publique tch\u00e8que",
@@ -1882,6 +1884,7 @@
 		"language": ["Danish"],
 		"languageCodes": ["da"],
 		"translations": {
+			"cy": "Denmarc",
 			"de": "D\u00e4nemark",
 			"es": "Dinamarca",
 			"fr": "Danemark",
@@ -1912,6 +1915,7 @@
 		"language": ["French", "Arabic"],
 		"languageCodes": ["fr", "ar"],
 		"translations": {
+			"cy": "Djibouti",
 			"de": "Dschibuti",
 			"es": "Yibuti",
 			"fr": "Djibouti",
@@ -1942,6 +1946,7 @@
 		"language": ["English"],
 		"languageCodes": ["en"],
 		"translations": {
+			"cy": "Dominica",
 			"de": "Dominica",
 			"es": "Dominica",
 			"fr": "Dominique",
@@ -1972,6 +1977,7 @@
 		"language": ["Spanish"],
 		"languageCodes": ["es"],
 		"translations": {
+			"cy": "Gweriniaeth_Dominica",
 			"de": "Dominikanische Republik",
 			"es": "Rep\u00fablica Dominicana",
 			"fr": "R\u00e9publique dominicaine",
@@ -2002,6 +2008,7 @@
 		"language": ["Spanish"],
 		"languageCodes": ["es"],
 		"translations": {
+			"cy": "Ecwador",
 			"de": "Ecuador",
 			"es": "Ecuador",
 			"fr": "\u00c9quateur",
@@ -2032,6 +2039,7 @@
 		"language": ["Arabic"],
 		"languageCodes": ["ar"],
 		"translations": {
+			"cy": "Yr Aifft",
 			"de": "\u00c4gypten",
 			"es": "Egipto",
 			"fr": "\u00c9gypte",
@@ -2062,6 +2070,7 @@
 		"language": ["Castilian"],
 		"languageCodes": ["es"],
 		"translations": {
+			"cy": "El Salvador",
 			"de": "El Salvador",
 			"es": "El Salvador",
 			"fr": "Salvador",
@@ -2092,6 +2101,7 @@
 		"language": ["Spanish", "French", "Portuguese"],
 		"languageCodes": ["es", "fr"],
 		"translations": {
+			"cy": "Gini Gyhydeddol",
 			"de": "\u00c4quatorial-Guinea",
 			"es": "Guinea Ecuatorial",
 			"fr": "Guin\u00e9e-\u00c9quatoriale",
@@ -2122,6 +2132,7 @@
 		"language": ["Tigrinya", "Arabic", "English"],
 		"languageCodes": ["ti", "ar", "en"],
 		"translations": {
+			"cy": "Eritrea",
 			"de": "Eritrea",
 			"es": "Eritrea",
 			"fr": "\u00c9rythr\u00e9e",
@@ -2152,6 +2163,7 @@
 		"language": ["Estonian"],
 		"languageCodes": ["et"],
 		"translations": {
+			"cy": "Estonia",
 			"de": "Estland",
 			"es": "Estonia",
 			"fr": "Estonie",
@@ -2182,6 +2194,7 @@
 		"language": ["Amharic"],
 		"languageCodes": ["am"],
 		"translations": {
+			"cy": "Ethiopia",
 			"de": "\u00c4thiopien",
 			"es": "Etiop\u00eda",
 			"fr": "\u00c9thiopie",
