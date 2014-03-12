@@ -4735,7 +4735,7 @@
 		"callingCode": ["64"],
 		"capital": "Wellington",
 		"altSpellings": ["NZ", "Aotearoa"],
-		"relevance": "0",
+		"relevance": "1.0",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English", "M\u0101ori", "New Zealand Sign Language"],
