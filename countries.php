@@ -29,15 +29,16 @@ interface Converter {
  */
 abstract class AbstractConverter implements Converter {
 
-	/**
-	 * @var array
-	 */
+	/** @var array */
 	protected $aCountries;
 
 	/**
 	 * @var string path of the output directory
 	 */
-	protected $sOutputDirectory;
+	private $sOutputDirectory;
+
+	/** @var array defines the fields to keep */
+	private $aFields;
 
 	/**
 	 * @param array $aCountries
@@ -62,7 +63,24 @@ abstract class AbstractConverter implements Converter {
 			$sTempFile = date('Ymd-His', time()) . '-countries';
 			$sOutputFile = $sTempFile;
 		}
+		if (!empty($this->aFields)) {
+			foreach ($this->aCountries as &$aCountry) {
+				foreach ($aCountry as $iKey => $value) {
+					if (!in_array($iKey, $this->aFields)) {
+						unset($aCountry[$iKey]);
+					}
+				}
+			}
+		}
 		return file_put_contents($this->sOutputDirectory . $sOutputFile, $this->convert());
+	}
+
+	/**
+	 * Defines the fields to keep
+	 * @param array $aFields
+	 */
+	public function setFields(array $aFields) {
+		$this->aFields = $aFields;
 	}
 
 	/**

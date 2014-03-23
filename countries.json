@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Afghanistan",
-		"nativeName": "Af\u0121\u0101nist\u0101n",
+		"nativeName": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
 		"tld": [".af"],
 		"cca2": "AF",
 		"ccn3": "004",
@@ -14,15 +14,15 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"language": ["Pashto", "Dari"],
-		"languagesCodes": ["ps", "uz", "tk"],
+		"languageCodes": ["ps", "uz", "tk"],
 		"translations": {
 			"de": "Afghanistan",
-			"en": "Afghanistan",
 			"es": "Afganist\u00e1n",
 			"fr": "Afghanistan",
 			"it": "Afghanistan",
 			"ja": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3",
-			"nl": "Afghanistan"
+			"nl": "Afghanistan",
+			"hr": "Afganistan"
 		},
 		"population": 25500100,
 		"latlng": [33, 65],
@@ -44,15 +44,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Swedish"],
-		"languagesCodes": ["sv"],
+		"languageCodes": ["sv"],
 		"translations": {
 			"de": "\u00c5land",
-			"en": "\u00c5land Islands",
 			"es": "Alandia",
 			"fr": "\u00c5land",
 			"it": "Isole Aland",
 			"ja": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
-			"nl": "\u00c5landeilanden"
+			"nl": "\u00c5landeilanden",
+			"hr": "\u00c5landski otoci"
 		},
 		"population": 28502,
 		"latlng": [60.116667, 19.9],
@@ -74,15 +74,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Albanian"],
-		"languagesCodes": ["sq"],
+		"languageCodes": ["sq"],
 		"translations": {
 			"de": "Albanien",
-			"en": "Albania",
 			"es": "Albania",
 			"fr": "Albanie",
 			"it": "Albania",
 			"ja": "\u30a2\u30eb\u30d0\u30cb\u30a2",
-			"nl": "Albani\u00eb"
+			"nl": "Albani\u00eb",
+			"hr": "Albanija"
 		},
 		"population": 2821977,
 		"latlng": [41, 20],
@@ -91,7 +91,7 @@
 	},
 	{
 		"name": "Algeria",
-		"nativeName": "al-Jaz\u0101\u02bcir",
+		"nativeName": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
 		"tld": [".dz"],
 		"cca2": "DZ",
 		"ccn3": "012",
@@ -104,15 +104,15 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Algerien",
-			"en": "Algeria",
 			"es": "Argelia",
 			"fr": "Alg\u00e9rie",
 			"it": "Algeria",
 			"ja": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2",
-			"nl": "Algerije"
+			"nl": "Algerije",
+			"hr": "Al\u017eir"
 		},
 		"population": 37900000,
 		"latlng": [28, 3],
@@ -134,15 +134,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["English", "Samoan"],
-		"languagesCodes": ["en", "sm"],
+		"languageCodes": ["en", "sm"],
 		"translations": {
 			"de": "Amerikanisch-Samoa",
-			"en": "American Samoa",
 			"es": "Samoa Americana",
 			"fr": "Samoa am\u00e9ricaines",
 			"it": "Samoa Americane",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2",
-			"nl": "Amerikaans Samoa"
+			"nl": "Amerikaans Samoa",
+			"hr": "Ameri\u010dka Samoa"
 		},
 		"population": 55519,
 		"latlng": [-14.33333333, -170],
@@ -164,15 +164,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Catalan"],
-		"languagesCodes": ["ca"],
+		"languageCodes": ["ca"],
 		"translations": {
 			"de": "Andorra",
-			"en": "Andorre",
 			"es": "Andorra",
 			"fr": "Andorre",
 			"it": "Andorra",
 			"ja": "\u30a2\u30f3\u30c9\u30e9",
-			"nl": "Andorra"
+			"nl": "Andorra",
+			"hr": "Andora"
 		},
 		"population": 76246,
 		"latlng": [42.5, 1.5],
@@ -194,15 +194,15 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["Portuguese"],
-		"languagesCodes": ["pt"],
+		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Angola",
-			"en": "Angola",
 			"es": "Angola",
 			"fr": "Angola",
 			"it": "Angola",
 			"ja": "\u30a2\u30f3\u30b4\u30e9",
-			"nl": "Angola"
+			"nl": "Angola",
+			"hr": "Angola"
 		},
 		"population": 20609294,
 		"latlng": [-12.5, 18.5],
@@ -224,15 +224,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Anguilla",
-			"en": "Anguilla",
 			"es": "Anguilla",
 			"fr": "Anguilla",
 			"it": "Anguilla",
 			"ja": "\u30a2\u30f3\u30ae\u30e9",
-			"nl": "Anguilla"
+			"nl": "Anguilla",
+			"hr": "Angvila"
 		},
 		"population": 13452,
 		"latlng": [18.25, -63.16666666],
@@ -254,15 +254,15 @@
 		"region": "",
 		"subregion": "",
 		"language": [""],
-		"languagesCodes": [],
+		"languageCodes": [],
 		"translations": {
 			"de": "Antarktis",
-			"en": "Antarctica",
 			"es": "Ant\u00e1rtida",
 			"fr": "Antarctique",
 			"it": "Antartide",
 			"ja": "\u5357\u6975",
-			"nl": "Antarctica"
+			"nl": "Antarctica",
+			"hr": "Antarktika"
 		},
 		"population": -1,
 		"latlng": [-90, 0],
@@ -284,15 +284,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Antigua und Barbuda",
-			"en": "Antigua and Barbuda",
 			"es": "Antigua y Barbuda",
 			"fr": "Antigua-et-Barbuda",
 			"it": "Antigua e Barbuda",
 			"ja": "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0",
-			"nl": "Antigua en Barbuda"
+			"nl": "Antigua en Barbuda",
+			"hr": "Antigva i Barbuda"
 		},
 		"population": 86295,
 		"latlng": [17.05, -61.8],
@@ -314,15 +314,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es", "gn"],
+		"languageCodes": ["es", "gn"],
 		"translations": {
 			"de": "Argentinien",
-			"en": "Argentina",
 			"es": "Argentina",
 			"fr": "Argentine",
 			"it": "Argentina",
 			"ja": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3",
-			"nl": "Argentini\u00eb"
+			"nl": "Argentini\u00eb",
+			"hr": "Argentina"
 		},
 		"population": 40117096,
 		"latlng": [-34, -64],
@@ -344,15 +344,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Armenian"],
-		"languagesCodes": ["hy", "ru"],
+		"languageCodes": ["hy", "ru"],
 		"translations": {
 			"de": "Armenien",
-			"en": "Armenia",
 			"es": "Armenia",
 			"fr": "Arm\u00e9nie",
 			"it": "Armenia",
 			"ja": "\u30a2\u30eb\u30e1\u30cb\u30a2",
-			"nl": "Armeni\u00eb"
+			"nl": "Armeni\u00eb",
+			"hr": "Armenija"
 		},
 		"population": 3024100,
 		"latlng": [40, 45],
@@ -374,19 +374,49 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Dutch", "Papiamento"],
-		"languagesCodes": ["nl"],
+		"languageCodes": ["nl", "pa"],
 		"translations": {
 			"de": "Aruba",
-			"en": "Aruba",
 			"es": "Aruba",
 			"fr": "Aruba",
 			"it": "Aruba",
 			"ja": "\u30a2\u30eb\u30d0",
-			"nl": "Aruba"
+			"nl": "Aruba",
+			"hr": "Aruba"
 		},
 		"population": 101484,
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
+		"borders": []
+	},
+	{
+		"name": "Ascension Island",
+		"nativeName": "Ascension Island",
+		"tld": [".ac"],
+		"cca2": "SH",
+		"ccn3": "654",
+		"cca3": "SHN",
+		"currency": ["SHP"],
+		"callingCode": ["247"],
+		"capital": "Georgetown",
+		"altSpellings": [""],
+		"relevance": "0",
+		"region": "Americas",
+		"subregion": "South America",
+		"language": ["English"],
+		"languageCodes": ["en"],
+		"translations": {
+			"de": "Ascension",
+			"es": "Isla Ascensi\u00f3n",
+			"fr": "\u00cele de l'Ascension",
+			"it": "Isola di Ascensione",
+			"ja": "\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u5cf6",
+			"nl": "Ascension",
+			"hr": "Otok Ascension"
+		},
+		"population": 880,
+		"latlng": [-7.933333, -14.366667],
+		"demonym": "Saints",
 		"borders": []
 	},
 	{
@@ -404,15 +434,15 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English"],
-		"languagesCodes": [],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Australien",
-			"en": "Australia",
 			"es": "Australia",
 			"fr": "Australie",
 			"it": "Australia",
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2",
-			"nl": "Australi\u00eb"
+			"nl": "Australi\u00eb",
+			"hr": "Australija"
 		},
 		"population": 23254142,
 		"latlng": [-27, 133],
@@ -434,15 +464,15 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"language": ["German"],
-		"languagesCodes": ["de"],
+		"languageCodes": ["de"],
 		"translations": {
 			"de": "\u00d6sterreich",
-			"en": "Austria",
 			"es": "Austria",
 			"fr": "Autriche",
 			"it": "Austria",
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2",
-			"nl": "Oostenrijk"
+			"nl": "Oostenrijk",
+			"hr": "Austrija"
 		},
 		"population": 8501502,
 		"latlng": [47.33333333, 13.33333333],
@@ -464,15 +494,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Azerbaijani"],
-		"languagesCodes": ["az", "hy"],
+		"languageCodes": ["az", "hy"],
 		"translations": {
 			"de": "Aserbaidschan",
-			"en": "Azerbaijan",
 			"es": "Azerbaiy\u00e1n",
 			"fr": "Azerba\u00efdjan",
 			"it": "Azerbaijan",
 			"ja": "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3",
-			"nl": "Azerbeidzjan"
+			"nl": "Azerbeidzjan",
+			"hr": "Azerbajd\u017ean"
 		},
 		"population": 9235100,
 		"latlng": [40.5, 47.5],
@@ -494,24 +524,24 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Bahamas",
-			"en": "Bahamas",
 			"es": "Bahamas",
 			"fr": "Bahamas",
 			"it": "Bahamas",
 			"ja": "\u30d0\u30cf\u30de",
-			"nl": "Bahama\u2019s"
+			"nl": "Bahama\u2019s",
+			"hr": "Bahami"
 		},
-		"population": -1,
+		"population": 319031,
 		"latlng": [24.25, -76],
 		"demonym": "Bahamian",
 		"borders": []
 	},
 	{
 		"name": "Bahrain",
-		"nativeName": "al-Ba\u1e25rayn",
+		"nativeName": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
 		"tld": [".bh"],
 		"cca2": "BH",
 		"ccn3": "048",
@@ -524,15 +554,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Bahrain",
-			"en": "Bahrain",
 			"es": "Bahrein",
 			"fr": "Bahre\u00efn",
 			"it": "Bahrein",
 			"ja": "\u30d0\u30fc\u30ec\u30fc\u30f3",
-			"nl": "Bahrein"
+			"nl": "Bahrein",
+			"hr": "Bahrein"
 		},
 		"population": 1234571,
 		"latlng": [26, 50.55],
@@ -554,15 +584,15 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"language": ["Bangla"],
-		"languagesCodes": ["bn"],
+		"languageCodes": ["bn"],
 		"translations": {
 			"de": "Bangladesch",
-			"en": "Bangladesh",
 			"es": "Bangladesh",
 			"fr": "Bangladesh",
 			"it": "Bangladesh",
 			"ja": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5",
-			"nl": "Bangladesh"
+			"nl": "Bangladesh",
+			"hr": "Banglade\u0161"
 		},
 		"population": 152518015,
 		"latlng": [24, 90],
@@ -584,15 +614,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Barbados",
-			"en": "Barbade",
 			"es": "Barbados",
 			"fr": "Barbade",
 			"it": "Barbados",
 			"ja": "\u30d0\u30eb\u30d0\u30c9\u30b9",
-			"nl": "Barbados"
+			"nl": "Barbados",
+			"hr": "Barbados"
 		},
 		"population": 274200,
 		"latlng": [13.16666666, -59.53333333],
@@ -614,15 +644,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Belarusian", "Russian"],
-		"languagesCodes": ["be", "ru"],
+		"languageCodes": ["be", "ru"],
 		"translations": {
 			"de": "Wei\u00dfrussland",
-			"en": "Belarus",
 			"es": "Bielorrusia",
 			"fr": "Bi\u00e9lorussie",
 			"it": "Bielorussia",
 			"ja": "\u30d9\u30e9\u30eb\u30fc\u30b7",
-			"nl": "Wit-Rusland"
+			"nl": "Wit-Rusland",
+			"hr": "Bjelorusija"
 		},
 		"population": 9465500,
 		"latlng": [53, 28],
@@ -644,15 +674,15 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"language": ["Dutch", "French", "German"],
-		"languagesCodes": ["nl", "fr", "de"],
+		"languageCodes": ["nl", "fr", "de"],
 		"translations": {
 			"de": "Belgien",
-			"en": "Belgium",
 			"es": "B\u00e9lgica",
 			"fr": "Belgique",
 			"it": "Belgio",
 			"ja": "\u30d9\u30eb\u30ae\u30fc",
-			"nl": "Belgi\u00eb"
+			"nl": "Belgi\u00eb",
+			"hr": "Belgija"
 		},
 		"population": 11175653,
 		"latlng": [50.83333333, 4],
@@ -674,15 +704,15 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"language": ["English"],
-		"languagesCodes": ["en", "es"],
+		"languageCodes": ["en", "es"],
 		"translations": {
 			"de": "Belize",
-			"en": "Belize",
 			"es": "Belice",
 			"fr": "Belize",
 			"it": "Belize",
 			"ja": "\u30d9\u30ea\u30fc\u30ba",
-			"nl": "Belize"
+			"nl": "Belize",
+			"hr": "Belize"
 		},
 		"population": 312971,
 		"latlng": [17.25, -88.75],
@@ -704,15 +734,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Benin",
-			"en": "Benin",
 			"es": "Ben\u00edn",
 			"fr": "B\u00e9nin",
 			"it": "Benin",
 			"ja": "\u30d9\u30ca\u30f3",
-			"nl": "Benin"
+			"nl": "Benin",
+			"hr": "Benin"
 		},
 		"population": 10323000,
 		"latlng": [9.5, 2.25],
@@ -734,15 +764,15 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Bermuda",
-			"en": "Bermuda",
 			"es": "Bermudas",
 			"fr": "Bermudes",
 			"it": "Bermuda",
 			"ja": "\u30d0\u30df\u30e5\u30fc\u30c0",
-			"nl": "Bermuda"
+			"nl": "Bermuda",
+			"hr": "Bermudi"
 		},
 		"population": 64237,
 		"latlng": [32.33333333, -64.75],
@@ -764,15 +794,15 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"language": ["Dzongkha"],
-		"languagesCodes": ["dz"],
+		"languageCodes": ["dz"],
 		"translations": {
 			"de": "Bhutan",
-			"en": "Bhutan",
 			"es": "But\u00e1n",
 			"fr": "Bhoutan",
 			"it": "Bhutan",
 			"ja": "\u30d6\u30fc\u30bf\u30f3",
-			"nl": "Bhutan"
+			"nl": "Bhutan",
+			"hr": "Butan"
 		},
 		"population": 740990,
 		"latlng": [27.5, 90.5],
@@ -794,15 +824,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Spanish", "Quechua", "Aymara", "Guaran\u00ed"],
-		"languagesCodes": ["es", "ay", "qu"],
+		"languageCodes": ["es", "ay", "qu"],
 		"translations": {
 			"de": "Bolivien",
-			"en": "Bolivia",
 			"es": "Bolivia",
 			"fr": "Bolivie",
 			"it": "Bolivia",
 			"ja": "\u30dc\u30ea\u30d3\u30a2\u591a\u6c11\u65cf\u56fd",
-			"nl": "Bolivia"
+			"nl": "Bolivia",
+			"hr": "Bolivija"
 		},
 		"population": 10027254,
 		"latlng": [-17, -65],
@@ -824,9 +854,9 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Dutch"],
-		"languagesCodes": [],
+		"languageCodes": ["nl"],
 		"translations": {},
-		"population": -1,
+		"population": 17408,
 		"latlng": [12.15, -68.266667],
 		"demonym": "Dutch",
 		"borders": []
@@ -846,15 +876,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Bosnian", "Croatian", "Serbian"],
-		"languagesCodes": ["bs", "hr", "sr"],
+		"languageCodes": ["bs", "hr", "sr"],
 		"translations": {
 			"de": "Bosnien und Herzegowina",
-			"en": "Bosnia and Herzegovina",
 			"es": "Bosnia y Herzegovina",
 			"fr": "Bosnie-Herz\u00e9govine",
 			"it": "Bosnia ed Erzegovina",
 			"ja": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
-			"nl": "Bosni\u00eb en Herzegovina"
+			"nl": "Bosni\u00eb en Herzegovina",
+			"hr": "Bosna i Hercegovina"
 		},
 		"population": 3791622,
 		"latlng": [44, 18],
@@ -876,15 +906,15 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"language": ["English", "Setswana"],
-		"languagesCodes": ["en", "tn"],
+		"languageCodes": ["en", "tn"],
 		"translations": {
 			"de": "Botswana",
-			"en": "Botswana",
 			"es": "Botswana",
 			"fr": "Botswana",
 			"it": "Botswana",
 			"ja": "\u30dc\u30c4\u30ef\u30ca",
-			"nl": "Botswana"
+			"nl": "Botswana",
+			"hr": "Bocvana"
 		},
 		"population": 2024904,
 		"latlng": [-22, 24],
@@ -906,17 +936,17 @@
 		"region": "",
 		"subregion": "",
 		"language": [""],
-		"languagesCodes": [],
+		"languageCodes": [],
 		"translations": {
 			"de": "Bouvetinsel",
-			"en": "Bouvet Island",
 			"es": "Isla Bouvet",
 			"fr": "\u00cele Bouvet",
 			"it": "Isola Bouvet",
 			"ja": "\u30d6\u30fc\u30d9\u5cf6",
-			"nl": "Bouveteiland"
+			"nl": "Bouveteiland",
+			"hr": "Otok Bouvet"
 		},
-		"population": -1,
+		"population": 0,
 		"latlng": [-54.43333333, 3.4],
 		"demonym": "",
 		"borders": []
@@ -936,15 +966,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Portuguese"],
-		"languagesCodes": ["pt"],
+		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Brasilien",
-			"en": "Brazil",
 			"es": "Brasil",
 			"fr": "Br\u00e9sil",
 			"it": "Brasile",
 			"ja": "\u30d6\u30e9\u30b8\u30eb",
-			"nl": "Brazili\u00eb"
+			"nl": "Brazili\u00eb",
+			"hr": "Brazil"
 		},
 		"population": 201032714,
 		"latlng": [-10, -55],
@@ -966,17 +996,17 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Britisches Territorium im Indischen Ozean",
-			"en": "British Indian Ocean Territory",
 			"es": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico",
 			"fr": "Territoire britannique de l'oc\u00e9an Indien",
 			"it": "Territorio britannico dell'oceano indiano",
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df",
-			"nl": "Britse Gebieden in de Indische Oceaan"
+			"nl": "Britse Gebieden in de Indische Oceaan",
+			"hr": "Britanski Indijskooceanski teritorij"
 		},
-		"population": -1,
+		"population": 3000,
 		"latlng": [-6, 71.5],
 		"demonym": "Indian",
 		"borders": []
@@ -996,15 +1026,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Britische Jungferninseln",
-			"en": "British Virgin Islands",
 			"es": "Islas V\u00edrgenes del Reino Unido",
 			"fr": "\u00celes Vierges britanniques",
 			"it": "Isole Vergini Britanniche",
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
-			"nl": "Britse Maagdeneilanden"
+			"nl": "Britse Maagdeneilanden",
+			"hr": "Britanski Djevi\u010danski Otoci"
 		},
 		"population": 29537,
 		"latlng": [18.431383, -64.62305],
@@ -1026,8 +1056,16 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Malay"],
-		"languagesCodes": ["ms"],
-		"translations": {},
+		"languageCodes": ["ms"],
+		"translations": {
+			"fr": "Brunei",
+			"nl": "Brunei",
+			"de": "Brunei",
+			"it": "Brunei",
+			"ja": "\u30D6\u30EB\u30CD\u30A4\u30FB\u30C0\u30EB\u30B5\u30E9\u30FC\u30E0",
+			"es": "Brunei",
+			"hr": "Brunej"
+		},
 		"population": 393162,
 		"latlng": [4.5, 114.66666666],
 		"demonym": "Bruneian",
@@ -1048,15 +1086,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Bulgarian"],
-		"languagesCodes": ["bg"],
+		"languageCodes": ["bg"],
 		"translations": {
 			"de": "Bulgarien",
-			"en": "Bulgaria",
 			"es": "Bulgaria",
 			"fr": "Bulgarie",
 			"it": "Bulgaria",
 			"ja": "\u30d6\u30eb\u30ac\u30ea\u30a2",
-			"nl": "Bulgarije"
+			"nl": "Bulgarije",
+			"hr": "Bugarska"
 		},
 		"population": 7282041,
 		"latlng": [43, 25],
@@ -1078,15 +1116,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr", "ff"],
+		"languageCodes": ["fr", "ff"],
 		"translations": {
 			"de": "Burkina Faso",
-			"en": "Burkina Faso",
 			"es": "Burkina Faso",
 			"fr": "Burkina Faso",
 			"it": "Burkina Faso",
 			"ja": "\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd",
-			"nl": "Burkina Faso"
+			"nl": "Burkina Faso",
+			"hr": "Burkina Faso"
 		},
 		"population": 17322796,
 		"latlng": [13, -2],
@@ -1108,15 +1146,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Kirundi", "French"],
-		"languagesCodes": ["fr", "rn"],
+		"languageCodes": ["fr", "rn"],
 		"translations": {
 			"de": "Burundi",
-			"en": "Burundi",
 			"es": "Burundi",
 			"fr": "Burundi",
 			"it": "Burundi",
 			"ja": "\u30d6\u30eb\u30f3\u30b8",
-			"nl": "Burundi"
+			"nl": "Burundi",
+			"hr": "Burundi"
 		},
 		"population": 10163000,
 		"latlng": [-3.5, 30],
@@ -1138,8 +1176,16 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Khmer"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["km"],
+		"translations": {
+			"fr": "Cambodge",
+			"nl": "Cambodja",
+			"de": "Kambodscha",
+			"it": "Cambogia",
+			"ja": "\u30AB\u30F3\u30DC\u30B8\u30A2",
+			"es": "Camboya",
+			"hr": "Kambod\u017ea"
+		},
 		"population": 15135000,
 		"latlng": [13, 105],
 		"demonym": "Cambodian",
@@ -1160,15 +1206,15 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["French", "English"],
-		"languagesCodes": ["en", "fr"],
+		"languageCodes": ["en", "fr"],
 		"translations": {
 			"de": "Kamerun",
-			"en": "Cameroon",
 			"es": "Camer\u00fan",
 			"fr": "Cameroun",
 			"it": "Camerun",
 			"ja": "\u30ab\u30e1\u30eb\u30fc\u30f3",
-			"nl": "Kameroen"
+			"nl": "Kameroen",
+			"hr": "Kamerun"
 		},
 		"population": 20386799,
 		"latlng": [6, 12],
@@ -1190,15 +1236,15 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"language": ["English", "French"],
-		"languagesCodes": ["en", "fr"],
+		"languageCodes": ["en", "fr"],
 		"translations": {
 			"de": "Kanada",
-			"en": "Canada",
 			"es": "Canad\u00e1",
 			"fr": "Canada",
 			"it": "Canada",
 			"ja": "\u30ab\u30ca\u30c0",
-			"nl": "Canada"
+			"nl": "Canada",
+			"hr": "Kanada"
 		},
 		"population": 35158304,
 		"latlng": [60, -95],
@@ -1220,15 +1266,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["Portuguese"],
-		"languagesCodes": ["pt"],
+		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Kap Verde",
-			"en": "Cape Verde",
 			"es": "Cabo Verde",
 			"fr": "Cap Vert",
 			"it": "Capo Verde",
 			"ja": "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7",
-			"nl": "Kaapverdi\u00eb"
+			"nl": "Kaapverdi\u00eb",
+			"hr": "Zelenortska Republika"
 		},
 		"population": 491875,
 		"latlng": [16, -24],
@@ -1250,15 +1296,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Kaimaninseln",
-			"en": "Cayman Islands",
 			"es": "Islas Caim\u00e1n",
 			"fr": "\u00celes Ca\u00efmans",
 			"it": "Isole Cayman",
 			"ja": "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6",
-			"nl": "Caymaneilanden"
+			"nl": "Caymaneilanden",
+			"hr": "Kajmanski otoci"
 		},
 		"population": 55456,
 		"latlng": [19.5, -80.5],
@@ -1280,15 +1326,15 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["Sango", "French"],
-		"languagesCodes": ["fr", "sg"],
+		"languageCodes": ["fr", "sg"],
 		"translations": {
 			"de": "Zentralafrikanische Republik",
-			"en": "Central African Republic",
 			"es": "Rep\u00fablica Centroafricana",
 			"fr": "R\u00e9publique centrafricaine",
 			"it": "Repubblica Centrafricana",
 			"ja": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
-			"nl": "Centraal-Afrikaanse Republiek"
+			"nl": "Centraal-Afrikaanse Republiek",
+			"hr": "Srednjoafri\u010dka Republika"
 		},
 		"population": 4616000,
 		"latlng": [7, 21],
@@ -1310,15 +1356,15 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["French", "Arabic"],
-		"languagesCodes": ["ar", "fr"],
+		"languageCodes": ["fr", "ar"],
 		"translations": {
 			"de": "Tschad",
-			"en": "Chad",
-			"es": "chad",
+			"es": "Chad",
 			"fr": "Tchad",
 			"it": "Ciad",
 			"ja": "\u30c1\u30e3\u30c9",
-			"nl": "Tsjaad"
+			"nl": "Tsjaad",
+			"hr": "\u010cad"
 		},
 		"population": 12825000,
 		"latlng": [15, 19],
@@ -1340,15 +1386,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Chile",
-			"en": "Chile",
 			"es": "Chile",
 			"fr": "Chili",
 			"it": "Cile",
 			"ja": "\u30c1\u30ea",
-			"nl": "Chili"
+			"nl": "Chili",
+			"hr": "\u010cile"
 		},
 		"population": 16634603,
 		"latlng": [-30, -71],
@@ -1370,15 +1416,15 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"language": ["Standard Chinese"],
-		"languagesCodes": ["zh"],
+		"languageCodes": ["zh"],
 		"translations": {
 			"de": "China",
-			"en": "China",
 			"es": "China",
 			"fr": "Chine",
 			"it": "Cina",
 			"ja": "\u4e2d\u56fd",
-			"nl": "China"
+			"nl": "China",
+			"hr": "Kina"
 		},
 		"population": 1361170000,
 		"latlng": [35, 105],
@@ -1400,8 +1446,16 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["en"],
+		"translations": {
+			"fr": "\u00cele Christmas",
+			"nl": "Christmaseiland",
+			"de": "Weihnachtsinsel",
+			"it": "Isola di Natale",
+			"ja": "\u30AF\u30EA\u30B9\u30DE\u30B9\u5CF6",
+			"es": "Isla de Navidad",
+			"hr": "Bo\u017ei\u0107ni otok"
+		},
 		"population": 2072,
 		"latlng": [-10.5, 105.66666666],
 		"demonym": "Christmas Island",
@@ -1422,8 +1476,16 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["en"],
+		"translations": {
+			"fr": "\u00celes Cocos",
+			"nl": "Cocoseilanden",
+			"de": "Kokosinseln",
+			"it": "Isole Cocos e Keeling",
+			"ja": "\u30B3\u30B3\u30B9\uFF08\u30AD\u30FC\u30EA\u30F3\u30B0\uFF09\u8AF8\u5CF6",
+			"es": "Islas Cocos o Islas Keeling",
+			"hr": "Kokosovi Otoci"
+		},
 		"population": 550,
 		"latlng": [-12.5, 96.83333333],
 		"demonym": "Cocos Islander",
@@ -1444,15 +1506,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Kolumbien",
-			"en": "Colombia",
 			"es": "Colombia",
 			"fr": "Colombie",
 			"it": "Colombia",
 			"ja": "\u30b3\u30ed\u30f3\u30d3\u30a2",
-			"nl": "Colombia"
+			"nl": "Colombia",
+			"hr": "Kolumbija"
 		},
 		"population": 47330000,
 		"latlng": [4, -72],
@@ -1474,15 +1536,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Comorian", "Arabic", "French"],
-		"languagesCodes": ["ar", "fr"],
+		"languageCodes": ["ar", "fr"],
 		"translations": {
 			"de": "Union der Komoren",
-			"en": "Comoros",
 			"es": "Comoras",
 			"fr": "Comores",
 			"it": "Comore",
 			"ja": "\u30b3\u30e2\u30ed",
-			"nl": "Comoren"
+			"nl": "Comoren",
+			"hr": "Komori"
 		},
 		"population": 724300,
 		"latlng": [-12.16666666, 44.25],
@@ -1504,15 +1566,15 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr", "ln"],
+		"languageCodes": ["fr", "ln"],
 		"translations": {
 			"de": "Kongo",
-			"en": "Congo",
 			"es": "Congo",
 			"fr": "Congo",
 			"it": "Congo",
 			"ja": "\u30b3\u30f3\u30b4\u5171\u548c\u56fd",
-			"nl": "Congo [Republiek]"
+			"nl": "Congo [Republiek]",
+			"hr": "Kongo"
 		},
 		"population": 4448000,
 		"latlng": [-1, 15],
@@ -1534,15 +1596,15 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr", "ln", "kg", "sw", "lu"],
+		"languageCodes": ["fr", "ln", "kg", "sw", "lu"],
 		"translations": {
 			"de": "Kongo (Dem. Rep.)",
-			"en": "Congo (Dem. Rep.)",
 			"es": "Congo (Rep. Dem.)",
 			"fr": "Congo (R\u00e9p. d\u00e9m.)",
 			"it": "Congo (Rep. Dem.)",
 			"ja": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd",
-			"nl": "Congo [DRC]"
+			"nl": "Congo [DRC]",
+			"hr": "Kongo, Demokratska Republika"
 		},
 		"population": 67514000,
 		"latlng": [0, 25],
@@ -1564,15 +1626,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["English", "Cook Islands M\u0101ori"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Cookinseln",
-			"en": "Cook Islands",
 			"es": "Islas Cook",
 			"fr": "\u00celes Cook",
 			"it": "Isole Cook",
 			"ja": "\u30af\u30c3\u30af\u8af8\u5cf6",
-			"nl": "Cookeilanden"
+			"nl": "Cookeilanden",
+			"hr": "Cookovo Oto\u010dje"
 		},
 		"population": 14974,
 		"latlng": [-21.23333333, -159.76666666],
@@ -1594,50 +1656,20 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Costa Rica",
-			"en": "Costa Rica",
 			"es": "Costa Rica",
 			"fr": "Costa Rica",
 			"it": "Costa Rica",
 			"ja": "\u30b3\u30b9\u30bf\u30ea\u30ab",
-			"nl": "Costa Rica"
+			"nl": "Costa Rica",
+			"hr": "Kostarika"
 		},
 		"population": 4667096,
 		"latlng": [10, -84],
 		"demonym": "Costa Rican",
 		"borders": ["NIC", "PAN"]
-	},
-	{
-		"name": "C\u00f4te d'Ivoire",
-		"nativeName": "C\u00f4te d'Ivoire",
-		"tld": [".ci"],
-		"cca2": "CI",
-		"ccn3": "384",
-		"cca3": "CIV",
-		"currency": ["XOF"],
-		"callingCode": ["225"],
-		"capital": "Yamoussoukro",
-		"altSpellings": ["CI", "Ivory Coast", "Republic of C\u00f4te d'Ivoire", "R\u00e9publique de C\u00f4te d'Ivoire"],
-		"relevance": "0",
-		"region": "Africa",
-		"subregion": "Western Africa",
-		"language": ["French"],
-		"languagesCodes": ["fr"],
-		"translations": {
-			"de": "Elfenbeink\u00fcste",
-			"en": "C\u00f4te D'Ivoire",
-			"es": "Costa de Marfil",
-			"fr": "C\u00f4te d'Ivoire",
-			"it": "Costa D'Avorio",
-			"ja": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
-			"nl": "Ivoorkust"
-		},
-		"population": -1,
-		"latlng": [8, -5],
-		"demonym": "Ivorian",
-		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"]
 	},
 	{
 		"name": "Croatia",
@@ -1654,15 +1686,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Croatian"],
-		"languagesCodes": ["hr"],
+		"languageCodes": ["hr"],
 		"translations": {
 			"de": "Kroatien",
-			"en": "Croatia",
 			"es": "Croacia",
 			"fr": "Croatie",
 			"it": "Croazia",
 			"ja": "\u30af\u30ed\u30a2\u30c1\u30a2",
-			"nl": "Kroati\u00eb"
+			"nl": "Kroati\u00eb",
+			"hr": "Hrvatska"
 		},
 		"population": 4290612,
 		"latlng": [45.16666666, 15.5],
@@ -1684,15 +1716,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Kuba",
-			"en": "Cuba",
 			"es": "Cuba",
 			"fr": "Cuba",
 			"it": "Cuba",
 			"ja": "\u30ad\u30e5\u30fc\u30d0",
-			"nl": "Cuba"
+			"nl": "Cuba",
+			"hr": "Kuba"
 		},
 		"population": 11167325,
 		"latlng": [21.5, -80],
@@ -1714,8 +1746,10 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Dutch", "Papiamentu", "English"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["nl", "pa", "en"],
+		"translations": {
+			"nl": "Cura\u00e7ao"
+		},
 		"population": 150563,
 		"latlng": [12.116667, -68.933333],
 		"demonym": "Dutch",
@@ -1736,20 +1770,20 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Greek", "Turkish"],
-		"languagesCodes": ["el", "tr", "hy"],
+		"languageCodes": ["el", "tr", "hy"],
 		"translations": {
 			"de": "Zypern",
-			"en": "Cyprus",
 			"es": "Chipre",
 			"fr": "Chypre",
 			"it": "Cipro",
 			"ja": "\u30ad\u30d7\u30ed\u30b9",
-			"nl": "Cyprus"
+			"nl": "Cyprus",
+			"hr": "Cipar"
 		},
 		"population": 865878,
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
-		"borders": [ "GBR" ]
+		"borders": ["GBR"]
 	},
 	{
 		"name": "Czech Republic",
@@ -1766,15 +1800,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Czech"],
-		"languagesCodes": ["cs", "sk"],
+		"languageCodes": ["cs", "sk"],
 		"translations": {
 			"de": "Tschechische Republik",
-			"en": "Czech Republic",
 			"es": "Rep\u00fablica Checa",
 			"fr": "R\u00e9publique tch\u00e8que",
 			"it": "Repubblica Ceca",
 			"ja": "\u30c1\u30a7\u30b3",
-			"nl": "Tsjechi\u00eb"
+			"nl": "Tsjechi\u00eb",
+			"hr": "\u010ce\u0161ka"
 		},
 		"population": 10512900,
 		"latlng": [49.75, 15.5],
@@ -1796,15 +1830,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Danish"],
-		"languagesCodes": ["da"],
+		"languageCodes": ["da"],
 		"translations": {
 			"de": "D\u00e4nemark",
-			"en": "Denmark",
 			"es": "Dinamarca",
 			"fr": "Danemark",
 			"it": "Danimarca",
 			"ja": "\u30c7\u30f3\u30de\u30fc\u30af",
-			"nl": "Denemarken"
+			"nl": "Denemarken",
+			"hr": "Danska"
 		},
 		"population": 5623501,
 		"latlng": [56, 10],
@@ -1826,15 +1860,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["French", "Arabic"],
-		"languagesCodes": ["ar", "fr"],
+		"languageCodes": ["fr", "ar"],
 		"translations": {
 			"de": "Dschibuti",
-			"en": "Djibouti",
 			"es": "Yibuti",
 			"fr": "Djibouti",
 			"it": "Gibuti",
 			"ja": "\u30b8\u30d6\u30c1",
-			"nl": "Djibouti"
+			"nl": "Djibouti",
+			"hr": "D\u017eibuti"
 		},
 		"population": 864618,
 		"latlng": [11.5, 43],
@@ -1856,15 +1890,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Dominica",
-			"en": "Dominica",
 			"es": "Dominica",
 			"fr": "Dominique",
 			"it": "Dominica",
 			"ja": "\u30c9\u30df\u30cb\u30ab\u56fd",
-			"nl": "Dominica"
+			"nl": "Dominica",
+			"hr": "Dominika"
 		},
 		"population": 71293,
 		"latlng": [15.41666666, -61.33333333],
@@ -1886,15 +1920,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Dominikanische Republik",
-			"en": "Dominican Republic",
 			"es": "Rep\u00fablica Dominicana",
 			"fr": "R\u00e9publique dominicaine",
 			"it": "Repubblica Dominicana",
 			"ja": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd",
-			"nl": "Dominicaanse Republiek"
+			"nl": "Dominicaanse Republiek",
+			"hr": "Dominikanska Republika"
 		},
 		"population": 9445281,
 		"latlng": [19, -70.66666666],
@@ -1916,15 +1950,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Ecuador",
-			"en": "Ecuador",
 			"es": "Ecuador",
 			"fr": "\u00c9quateur",
 			"it": "Ecuador",
 			"ja": "\u30a8\u30af\u30a2\u30c9\u30eb",
-			"nl": "Ecuador"
+			"nl": "Ecuador",
+			"hr": "Ekvador"
 		},
 		"population": 15617900,
 		"latlng": [-2, -77.5],
@@ -1933,7 +1967,7 @@
 	},
 	{
 		"name": "Egypt",
-		"nativeName": "Mi\u1e63r",
+		"nativeName": "\u0645\u0635\u0631\u200e",
 		"tld": [".eg"],
 		"cca2": "EG",
 		"ccn3": "818",
@@ -1945,16 +1979,16 @@
 		"relevance": "1.5",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"language": ["Egyptian Arabic"],
-		"languagesCodes": ["ar"],
+		"language": ["Arabic"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "\u00c4gypten",
-			"en": "Egypt",
 			"es": "Egipto",
 			"fr": "\u00c9gypte",
 			"it": "Egitto",
 			"ja": "\u30a8\u30b8\u30d7\u30c8",
-			"nl": "Egypte"
+			"nl": "Egypte",
+			"hr": "Egipat"
 		},
 		"population": 83661000,
 		"latlng": [27, 30],
@@ -1976,15 +2010,15 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"language": ["Castilian"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "El Salvador",
-			"en": "El Salvador",
 			"es": "El Salvador",
 			"fr": "Salvador",
 			"it": "El Salvador",
 			"ja": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb",
-			"nl": "El Salvador"
+			"nl": "El Salvador",
+			"hr": "Salvador"
 		},
 		"population": 6340000,
 		"latlng": [13.83333333, -88.91666666],
@@ -2006,15 +2040,15 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["Spanish", "French", "Portuguese"],
-		"languagesCodes": ["es", "fr"],
+		"languageCodes": ["es", "fr"],
 		"translations": {
 			"de": "\u00c4quatorial-Guinea",
-			"en": "Equatorial Guinea",
 			"es": "Guinea Ecuatorial",
 			"fr": "Guin\u00e9e-\u00c9quatoriale",
 			"it": "Guinea Equatoriale",
 			"ja": "\u8d64\u9053\u30ae\u30cb\u30a2",
-			"nl": "Equatoriaal-Guinea"
+			"nl": "Equatoriaal-Guinea",
+			"hr": "Ekvatorijalna Gvineja"
 		},
 		"population": 1622000,
 		"latlng": [2, 10],
@@ -2036,15 +2070,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Tigrinya", "Arabic", "English"],
-		"languagesCodes": ["en", "ar", "ti"],
+		"languageCodes": ["ti", "ar", "en"],
 		"translations": {
 			"de": "Eritrea",
-			"en": "Eritrea",
 			"es": "Eritrea",
 			"fr": "\u00c9rythr\u00e9e",
 			"it": "Eritrea",
 			"ja": "\u30a8\u30ea\u30c8\u30ea\u30a2",
-			"nl": "Eritrea"
+			"nl": "Eritrea",
+			"hr": "Eritreja"
 		},
 		"population": 6333000,
 		"latlng": [15, 39],
@@ -2066,15 +2100,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Estonian"],
-		"languagesCodes": ["et"],
+		"languageCodes": ["et"],
 		"translations": {
 			"de": "Estland",
-			"en": "Estonia",
 			"es": "Estonia",
 			"fr": "Estonie",
 			"it": "Estonia",
 			"ja": "\u30a8\u30b9\u30c8\u30cb\u30a2",
-			"nl": "Estland"
+			"nl": "Estland",
+			"hr": "Estonija"
 		},
 		"population": 1286540,
 		"latlng": [59, 26],
@@ -2096,15 +2130,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Amharic"],
-		"languagesCodes": ["am"],
+		"languageCodes": ["am"],
 		"translations": {
 			"de": "\u00c4thiopien",
-			"en": "Ethiopia",
 			"es": "Etiop\u00eda",
 			"fr": "\u00c9thiopie",
 			"it": "Etiopia",
 			"ja": "\u30a8\u30c1\u30aa\u30d4\u30a2",
-			"nl": "Ethiopi\u00eb"
+			"nl": "Ethiopi\u00eb",
+			"hr": "Etiopija"
 		},
 		"population": 86613986,
 		"latlng": [8, 38],
@@ -2126,15 +2160,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Falklandinseln",
-			"en": "Falkland Islands",
 			"es": "Islas Malvinas",
 			"fr": "\u00celes Malouines",
 			"it": "Isole Falkland o Isole Malvine",
 			"ja": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6",
-			"nl": "Falklandeilanden [Islas Malvinas]"
+			"nl": "Falklandeilanden [Islas Malvinas]",
+			"hr": "Falklandski Otoci"
 		},
 		"population": 2563,
 		"latlng": [-51.75, -59],
@@ -2156,15 +2190,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Faroese", "Danish"],
-		"languagesCodes": ["fo"],
+		"languageCodes": ["fo"],
 		"translations": {
 			"de": "F\u00e4r\u00f6er-Inseln",
-			"en": "Faroe Islands",
 			"es": "Islas Faroe",
 			"fr": "\u00celes F\u00e9ro\u00e9",
 			"it": "Isole Far Oer",
 			"ja": "\u30d5\u30a7\u30ed\u30fc\u8af8\u5cf6",
-			"nl": "Faer\u00f6er"
+			"nl": "Faer\u00f6er",
+			"hr": "Farski Otoci"
 		},
 		"population": 48509,
 		"latlng": [62, -7],
@@ -2186,15 +2220,15 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"language": ["English", "Fijian", "Fiji Hindi"],
-		"languagesCodes": ["en", "fj", "hi", "ur"],
+		"languageCodes": ["en", "fj", "hi", "ur"],
 		"translations": {
 			"de": "Fidschi",
-			"en": "Fiji",
 			"es": "Fiyi",
 			"fr": "Fidji",
 			"it": "Figi",
 			"ja": "\u30d5\u30a3\u30b8\u30fc",
-			"nl": "Fiji"
+			"nl": "Fiji",
+			"hr": "Fi\u0111i"
 		},
 		"population": 858038,
 		"latlng": [-18, 175],
@@ -2216,15 +2250,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Finnish", "Swedish"],
-		"languagesCodes": ["fi", "sv"],
+		"languageCodes": ["fi", "sv"],
 		"translations": {
 			"de": "Finnland",
-			"en": "Finland",
 			"es": "Finlandia",
 			"fr": "Finlande",
 			"it": "Finlandia",
 			"ja": "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9",
-			"nl": "Finland"
+			"nl": "Finland",
+			"hr": "Finska"
 		},
 		"population": 5445883,
 		"latlng": [64, 26],
@@ -2246,15 +2280,15 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Frankreich",
-			"en": "France",
 			"es": "Francia",
 			"fr": "France",
 			"it": "Francia",
 			"ja": "\u30d5\u30e9\u30f3\u30b9",
-			"nl": "Frankrijk"
+			"nl": "Frankrijk",
+			"hr": "Francuska"
 		},
 		"population": 65806000,
 		"latlng": [46, 2],
@@ -2276,15 +2310,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Franz\u00f6sisch Guyana",
-			"en": "French Guiana",
 			"es": "Guayana Francesa",
 			"fr": "Guayane",
 			"it": "Guyana francese",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca",
-			"nl": "Frans-Guyana"
+			"nl": "Frans-Guyana",
+			"hr": "Francuska Gvajana"
 		},
 		"population": 229040,
 		"latlng": [4, -53],
@@ -2306,15 +2340,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Franz\u00f6sisch-Polynesien",
-			"en": "French Polynesia",
 			"es": "Polinesia Francesa",
 			"fr": "Polyn\u00e9sie fran\u00e7aise",
 			"it": "Polinesia Francese",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u30dd\u30ea\u30cd\u30b7\u30a2",
-			"nl": "Frans-Polynesi\u00eb"
+			"nl": "Frans-Polynesi\u00eb",
+			"hr": "Francuska Polinezija"
 		},
 		"population": 268270,
 		"latlng": [-15, -140],
@@ -2336,18 +2370,18 @@
 		"region": "",
 		"subregion": "",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Franz\u00f6sische S\u00fcd- und Antarktisgebiete",
-			"en": "French Southern Territories",
 			"es": "Tierras Australes y Antárticas Francesas",
 			"fr": "Terres australes et antarctiques fran\u00e7aises",
 			"it": "Territori Francesi del Sud",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u5357\u65b9\u30fb\u5357\u6975\u5730\u57df",
-			"nl": "Franse Gebieden in de zuidelijke Indische Oceaan"
+			"nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
+			"hr": "Francuski ju\u017eni i antarkti\u010dki teritoriji"
 		},
-		"population": -1,
-		"latlng": [],
+		"population": 140,
+		"latlng": [-49.25, 69.167],
 		"demonym": "French",
 		"borders": []
 	},
@@ -2366,15 +2400,15 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Gabun",
-			"en": "Gabon",
 			"es": "Gab\u00f3n",
 			"fr": "Gabon",
 			"it": "Gabon",
 			"ja": "\u30ac\u30dc\u30f3",
-			"nl": "Gabon"
+			"nl": "Gabon",
+			"hr": "Gabon"
 		},
 		"population": 1672000,
 		"latlng": [-1, 11.75],
@@ -2396,17 +2430,17 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Gambia",
-			"en": "Gambia",
 			"es": "Gambia",
 			"fr": "Gambie",
 			"it": "Gambia",
 			"ja": "\u30ac\u30f3\u30d3\u30a2",
-			"nl": "Gambia"
+			"nl": "Gambia",
+			"hr": "Gambija"
 		},
-		"population": -1,
+		"population": 1782893,
 		"latlng": [13.46666666, -16.56666666],
 		"demonym": "Gambian",
 		"borders": ["SEN"]
@@ -2426,17 +2460,17 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Georgian"],
-		"languagesCodes": ["ka"],
+		"languageCodes": ["ka"],
 		"translations": {
 			"de": "Georgien",
-			"en": "Georgia",
 			"es": "Georgia",
 			"fr": "G\u00e9orgie",
 			"it": "Georgia",
 			"ja": "\u30b0\u30eb\u30b8\u30a2",
-			"nl": "Georgi\u00eb"
+			"nl": "Georgi\u00eb",
+			"hr": "Gruzija"
 		},
-		"population": -1,
+		"population": 4942157,
 		"latlng": [42, 43.5],
 		"demonym": "Georgian",
 		"borders": ["ARM", "AZE", "RUS", "TUR"]
@@ -2456,15 +2490,15 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"language": ["German"],
-		"languagesCodes": ["de"],
+		"languageCodes": ["de"],
 		"translations": {
 			"de": "Deutschland",
-			"en": "Germany",
 			"es": "Alemania",
 			"fr": "Allemagne",
 			"it": "Germania",
 			"ja": "\u30c9\u30a4\u30c4",
-			"nl": "Duitsland"
+			"nl": "Duitsland",
+			"hr": "Njema\u010dka"
 		},
 		"population": 80523700,
 		"latlng": [51, 9],
@@ -2486,15 +2520,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Ghana",
-			"en": "Ghana",
 			"es": "Ghana",
 			"fr": "Ghana",
 			"it": "Ghana",
 			"ja": "\u30ac\u30fc\u30ca",
-			"nl": "Ghana"
+			"nl": "Ghana",
+			"hr": "Gana"
 		},
 		"population": 24658823,
 		"latlng": [8, -2],
@@ -2516,15 +2550,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Gibraltar",
-			"en": "Gibraltar",
 			"es": "Gibraltar",
 			"fr": "Gibraltar",
 			"it": "Gibilterra",
 			"ja": "\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb",
-			"nl": "Gibraltar"
+			"nl": "Gibraltar",
+			"hr": "Gibraltar"
 		},
 		"population": 29752,
 		"latlng": [36.13333333, -5.35],
@@ -2546,15 +2580,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Greek"],
-		"languagesCodes": ["el"],
+		"languageCodes": ["el"],
 		"translations": {
 			"de": "Griechenland",
-			"en": "Greece",
 			"es": "Grecia",
 			"fr": "Gr\u00e8ce",
 			"it": "Grecia",
 			"ja": "\u30ae\u30ea\u30b7\u30e3",
-			"nl": "Griekenland"
+			"nl": "Griekenland",
+			"hr": "Gr\u010dka"
 		},
 		"population": 10815197,
 		"latlng": [39, 22],
@@ -2576,15 +2610,15 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"language": ["Greenlandic"],
-		"languagesCodes": ["kl"],
+		"languageCodes": ["kl"],
 		"translations": {
 			"de": "Gr\u00f6nland",
-			"en": "Greenland",
 			"es": "Groenlandia",
 			"fr": "Groenland",
 			"it": "Groenlandia",
 			"ja": "\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9",
-			"nl": "Groenland"
+			"nl": "Groenland",
+			"hr": "Grenland"
 		},
 		"population": 56370,
 		"latlng": [72, -40],
@@ -2606,15 +2640,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Grenada",
-			"en": "Grenada",
 			"es": "Grenada",
 			"fr": "Grenade",
 			"it": "Grenada",
 			"ja": "\u30b0\u30ec\u30ca\u30c0",
-			"nl": "Grenada"
+			"nl": "Grenada",
+			"hr": "Grenada"
 		},
 		"population": 103328,
 		"latlng": [12.11666666, -61.66666666],
@@ -2636,15 +2670,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Guadeloupe",
-			"en": "Guadeloupe",
 			"es": "Guadalupe",
 			"fr": "Guadeloupe",
 			"it": "Guadeloupa",
 			"ja": "\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7",
-			"nl": "Guadeloupe"
+			"nl": "Guadeloupe",
+			"hr": "Gvadalupa"
 		},
 		"population": 403355,
 		"latlng": [16.25, -61.583333],
@@ -2666,15 +2700,15 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["English", "Chamorro"],
-		"languagesCodes": ["en", "ch", "es"],
+		"languageCodes": ["en", "ch", "es"],
 		"translations": {
 			"de": "Guam",
-			"en": "Guam",
 			"es": "Guam",
 			"fr": "Guam",
 			"it": "Guam",
 			"ja": "\u30b0\u30a2\u30e0",
-			"nl": "Guam"
+			"nl": "Guam",
+			"hr": "Guam"
 		},
 		"population": 159358,
 		"latlng": [13.46666666, 144.78333333],
@@ -2696,15 +2730,15 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Guatemala",
-			"en": "Guatemala",
 			"es": "Guatemala",
 			"fr": "Guatemala",
 			"it": "Guatemala",
 			"ja": "\u30b0\u30a2\u30c6\u30de\u30e9",
-			"nl": "Guatemala"
+			"nl": "Guatemala",
+			"hr": "Gvatemala"
 		},
 		"population": 15438384,
 		"latlng": [15.5, -90.25],
@@ -2726,15 +2760,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["English", "French"],
-		"languagesCodes": ["en", "fr"],
+		"languageCodes": ["en", "fr"],
 		"translations": {
 			"de": "Guernsey",
-			"en": "Guernsey",
 			"es": "Guernsey",
 			"fr": "Guernesey",
 			"it": "Guernsey",
 			"ja": "\u30ac\u30fc\u30f3\u30b8\u30fc",
-			"nl": "Guernsey"
+			"nl": "Guernsey",
+			"hr": "Guernsey"
 		},
 		"population": 62431,
 		"latlng": [49.46666666, -2.58333333],
@@ -2756,15 +2790,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr", "ff"],
+		"languageCodes": ["fr", "ff"],
 		"translations": {
 			"de": "Guinea",
-			"en": "Guinea",
 			"es": "Guinea",
 			"fr": "Guin\u00e9e",
 			"it": "Guinea",
 			"ja": "\u30ae\u30cb\u30a2",
-			"nl": "Guinee"
+			"nl": "Guinee",
+			"hr": "Gvineja"
 		},
 		"population": 10824200,
 		"latlng": [11, -10],
@@ -2786,15 +2820,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["Portuguese"],
-		"languagesCodes": ["pt"],
+		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Guinea-Bissau",
-			"en": "Guinea-Bissau",
 			"es": "Guinea-Bis\u00e1u",
 			"fr": "Guin\u00e9e-Bissau",
 			"it": "Guinea-Bissau",
 			"ja": "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6",
-			"nl": "Guinee-Bissau"
+			"nl": "Guinee-Bissau",
+			"hr": "Gvineja Bisau"
 		},
 		"population": 1704000,
 		"latlng": [12, -15],
@@ -2816,15 +2850,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Guyana",
-			"en": "Guyana",
 			"es": "Guyana",
 			"fr": "Guyane",
 			"it": "Guyana",
 			"ja": "\u30ac\u30a4\u30a2\u30ca",
-			"nl": "Guyana"
+			"nl": "Guyana",
+			"hr": "Gvajana"
 		},
 		"population": 784894,
 		"latlng": [5, -59],
@@ -2846,15 +2880,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["French", "Haitian Creole"],
-		"languagesCodes": ["fr", "ht"],
+		"languageCodes": ["fr", "ht"],
 		"translations": {
 			"de": "Haiti",
-			"en": "Haiti",
 			"es": "Haiti",
 			"fr": "Ha\u00efti",
 			"it": "Haiti",
 			"ja": "\u30cf\u30a4\u30c1",
-			"nl": "Ha\u00efti"
+			"nl": "Ha\u00efti",
+			"hr": "Haiti"
 		},
 		"population": 10413211,
 		"latlng": [19, -72.41666666],
@@ -2876,17 +2910,17 @@
 		"region": "",
 		"subregion": "",
 		"language": [""],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Heard und die McDonaldinseln",
-			"en": "Heard and McDonald Islands",
 			"es": "Islas Heard y McDonald",
 			"fr": "\u00celes Heard-et-MacDonald",
 			"it": "Isole Heard e McDonald",
 			"ja": "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6",
-			"nl": "Heard- en McDonaldeilanden"
+			"nl": "Heard- en McDonaldeilanden",
+			"hr": "Otok Heard i oto\u010dje McDonald"
 		},
-		"population": -1,
+		"population": 0,
 		"latlng": [-53.1, 72.51666666],
 		"demonym": "Heard and McDonald Islander",
 		"borders": []
@@ -2906,15 +2940,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Italian"],
-		"languagesCodes": ["it", "la"],
+		"languageCodes": ["it", "la"],
 		"translations": {
 			"de": "Vatikanstadt",
-			"en": "Vatican City",
 			"es": "Ciudad del Vaticano",
 			"fr": "Cit\u00e9 du Vatican",
 			"it": "Citt\u00e0 del Vaticano",
 			"ja": "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd",
-			"nl": "Vaticaanstad"
+			"nl": "Vaticaanstad",
+			"hr": "Vatikan"
 		},
 		"population": 800,
 		"latlng": [41.9, 12.45],
@@ -2936,15 +2970,15 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Honduras",
-			"en": "Honduras",
 			"es": "Honduras",
 			"fr": "Honduras",
 			"it": "Honduras",
 			"ja": "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9",
-			"nl": "Honduras"
+			"nl": "Honduras",
+			"hr": "Honduras"
 		},
 		"population": 8555072,
 		"latlng": [15, -86.5],
@@ -2966,15 +3000,15 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"language": ["English", "Chinese"],
-		"languagesCodes": ["en", "zh"],
+		"languageCodes": ["en", "zh"],
 		"translations": {
 			"de": "Hong Kong",
-			"en": "Hong Kong",
 			"es": "Hong Kong",
 			"fr": "Hong Kong",
 			"it": "Hong Kong",
 			"ja": "\u9999\u6e2f",
-			"nl": "Hongkong"
+			"nl": "Hongkong",
+			"hr": "Hong Kong"
 		},
 		"population": 7184000,
 		"latlng": [22.25, 114.16666666],
@@ -2996,15 +3030,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Hungarian"],
-		"languagesCodes": ["hu"],
+		"languageCodes": ["hu"],
 		"translations": {
 			"de": "Ungarn",
-			"en": "Hungary",
 			"es": "Hungr\u00eda",
 			"fr": "Hongrie",
 			"it": "Ungheria",
 			"ja": "\u30cf\u30f3\u30ac\u30ea\u30fc",
-			"nl": "Hongarije"
+			"nl": "Hongarije",
+			"hr": "Ma\u0111arska"
 		},
 		"population": 9906000,
 		"latlng": [47, 20],
@@ -3026,15 +3060,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Icelandic"],
-		"languagesCodes": ["is"],
+		"languageCodes": ["is"],
 		"translations": {
 			"de": "Island",
-			"en": "Iceland",
 			"es": "Islandia",
 			"fr": "Islande",
 			"it": "Islanda",
 			"ja": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9",
-			"nl": "IJsland"
+			"nl": "IJsland",
+			"hr": "Island"
 		},
 		"population": 325010,
 		"latlng": [65, -18],
@@ -3056,15 +3090,15 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"language": ["Hindi", "English"],
-		"languagesCodes": ["hi", "en"],
+		"languageCodes": ["hi", "en"],
 		"translations": {
 			"de": "Indien",
-			"en": "India",
 			"es": "India",
 			"fr": "Inde",
 			"it": "India",
 			"ja": "\u30a4\u30f3\u30c9",
-			"nl": "India"
+			"nl": "India",
+			"hr": "Indija"
 		},
 		"population": 1236670000,
 		"latlng": [20, 77],
@@ -3086,12 +3120,50 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Indonesian"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["id"],
+		"translations": {
+			"fr": "Indon\u00e9sie",
+			"nl": "Indonesi\u00eb",
+			"de": "Indonesien",
+			"it": "Indonesia",
+			"ja": "\u30A4\u30F3\u30C9\u30CD\u30B7\u30A2",
+			"es": "Indonesia",
+			"hr": "Indonezija"
+		},
 		"population": 237641326,
 		"latlng": [-5, 120],
 		"demonym": "Indonesian",
 		"borders": ["TLS", "MYS", "PNG"]
+	},
+	{
+		"name": "Ivory Coast",
+		"nativeName": "C\u00f4te d'Ivoire",
+		"tld": [".ci"],
+		"cca2": "CI",
+		"ccn3": "384",
+		"cca3": "CIV",
+		"currency": ["XOF"],
+		"callingCode": ["225"],
+		"capital": "Yamoussoukro",
+		"altSpellings": ["CI", "Ivory Coast", "Republic of C\u00f4te d'Ivoire", "R\u00e9publique de C\u00f4te d'Ivoire"],
+		"relevance": "0",
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"language": ["French"],
+		"languageCodes": ["fr"],
+		"translations": {
+			"de": "Elfenbeink\u00fcste",
+			"es": "Costa de Marfil",
+			"fr": "C\u00f4te d'Ivoire",
+			"it": "Costa D'Avorio",
+			"ja": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
+			"nl": "Ivoorkust",
+			"hr": "Obala Bjelokosti"
+		},
+		"population": 22400835,
+		"latlng": [8, -5],
+		"demonym": "Ivorian",
+		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"]
 	},
 	{
 		"name": "Iran",
@@ -3108,14 +3180,14 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"language": ["Persian"],
-		"languagesCodes": ["fa"],
+		"languageCodes": ["fa"],
 		"translations": {
 			"de": "Iran",
-			"en": "Iran",
 			"es": "Iran",
 			"fr": "Iran",
 			"ja": "\u30a4\u30e9\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
-			"nl": "Iran"
+			"nl": "Iran",
+			"hr": "Iran"
 		},
 		"population": 77068000,
 		"latlng": [32, 53],
@@ -3124,7 +3196,7 @@
 	},
 	{
 		"name": "Iraq",
-		"nativeName": "Ir\u0101q",
+		"nativeName": "\u0627\u0644\u0639\u0631\u0627\u0642",
 		"tld": [".iq"],
 		"cca2": "IQ",
 		"ccn3": "368",
@@ -3136,18 +3208,18 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"language": ["Arabic", "Kurdish"],
-		"languagesCodes": ["ar"],
+		"language": ["Arabic", "Kurdish", "Syriac"],
+		"languageCodes": ["ar", "ku"],
 		"translations": {
 			"de": "Irak",
-			"en": "Iraq",
 			"es": "Irak",
 			"fr": "Irak",
 			"it": "Iraq",
 			"ja": "\u30a4\u30e9\u30af",
-			"nl": "Irak"
+			"nl": "Irak",
+			"hr": "Irak"
 		},
-		"population": 34035000,
+		"population": 36004552,
 		"latlng": [33, 44],
 		"demonym": "Iraqi",
 		"borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"]
@@ -3167,17 +3239,17 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Irish", "English"],
-		"languagesCodes": ["en", "ga"],
+		"languageCodes": ["ga", "en"],
 		"translations": {
 			"de": "Irland",
-			"en": "Ireland",
 			"es": "Irlanda",
 			"fr": "Irlande",
 			"it": "Irlanda",
 			"ja": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
-			"nl": "Ierland"
+			"nl": "Ierland",
+			"hr": "Irska"
 		},
-		"population": -1,
+		"population": 6378000,
 		"latlng": [53, -8],
 		"demonym": "Irish",
 		"borders": ["GBR"]
@@ -3197,15 +3269,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["English", "Manx"],
-		"languagesCodes": ["en", "gv"],
+		"languageCodes": ["en", "gv"],
 		"translations": {
 			"de": "Insel Man",
-			"en": "Isle of Man",
 			"es": "Isla de Man",
 			"fr": "\u00cele de Man",
 			"it": "Isola di Man",
 			"ja": "\u30de\u30f3\u5cf6",
-			"nl": "Isle of Man"
+			"nl": "Isle of Man",
+			"hr": "Otok Man"
 		},
 		"population": 84497,
 		"latlng": [54.25, -4.5],
@@ -3214,7 +3286,7 @@
 	},
 	{
 		"name": "Israel",
-		"nativeName": "Yisr\u0101'el",
+		"nativeName": "\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc",
 		"tld": [".il"],
 		"cca2": "IL",
 		"ccn3": "376",
@@ -3227,15 +3299,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Hebrew", "Arabic"],
-		"languagesCodes": ["he", "ar"],
+		"languageCodes": ["he", "ar"],
 		"translations": {
 			"de": "Israel",
-			"en": "Israel",
 			"es": "Israel",
 			"fr": "Isra\u00ebl",
 			"it": "Israele",
 			"ja": "\u30a4\u30b9\u30e9\u30a8\u30eb",
-			"nl": "Isra\u00ebl"
+			"nl": "Isra\u00ebl",
+			"hr": "Izrael"
 		},
 		"population": 8092700,
 		"latlng": [31.5, 34.75],
@@ -3257,15 +3329,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Italian"],
-		"languagesCodes": ["it"],
+		"languageCodes": ["it"],
 		"translations": {
 			"de": "Italien",
-			"en": "Italy",
 			"es": "Italia",
 			"fr": "Italie",
 			"it": "Italia",
 			"ja": "\u30a4\u30bf\u30ea\u30a2",
-			"nl": "Itali\u00eb"
+			"nl": "Itali\u00eb",
+			"hr": "Italija"
 		},
 		"population": 59829079,
 		"latlng": [42.83333333, 12.83333333],
@@ -3287,15 +3359,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Jamaican English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Jamaika",
-			"en": "Jamaica",
 			"es": "Jamaica",
 			"fr": "Jama\u00efque",
 			"it": "Giamaica",
 			"ja": "\u30b8\u30e3\u30de\u30a4\u30ab",
-			"nl": "Jamaica"
+			"nl": "Jamaica",
+			"hr": "Jamajka"
 		},
 		"population": 2711476,
 		"latlng": [18.25, -77.5],
@@ -3317,15 +3389,15 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"language": ["Japanese"],
-		"languagesCodes": ["ja"],
+		"languageCodes": ["ja"],
 		"translations": {
 			"de": "Japan",
-			"en": "Japan",
 			"es": "Jap\u00f3n",
 			"fr": "Japon",
 			"it": "Giappone",
 			"ja": "\u65e5\u672c",
-			"nl": "Japan"
+			"nl": "Japan",
+			"hr": "Japan"
 		},
 		"population": 127290000,
 		"latlng": [36, 138],
@@ -3347,15 +3419,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["English", "French"],
-		"languagesCodes": ["en", "fr"],
+		"languageCodes": ["en", "fr"],
 		"translations": {
 			"de": "Jersey",
-			"en": "Jersey",
 			"es": "Jersey",
 			"fr": "Jersey",
 			"it": "Isola di Jersey",
 			"ja": "\u30b8\u30e3\u30fc\u30b8\u30fc",
-			"nl": "Jersey"
+			"nl": "Jersey",
+			"hr": "Jersey"
 		},
 		"population": 97857,
 		"latlng": [49.25, -2.16666666],
@@ -3364,7 +3436,7 @@
 	},
 	{
 		"name": "Jordan",
-		"nativeName": "al-Urdun",
+		"nativeName": "\u0627\u0644\u0623\u0631\u062f\u0646",
 		"tld": [".jo"],
 		"cca2": "JO",
 		"ccn3": "400",
@@ -3377,15 +3449,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Jordanien",
-			"en": "Jordan",
 			"es": "Jordania",
 			"fr": "Jordanie",
 			"it": "Giordania",
 			"ja": "\u30e8\u30eb\u30c0\u30f3",
-			"nl": "Jordani\u00eb"
+			"nl": "Jordani\u00eb",
+			"hr": "Jordan"
 		},
 		"population": 6512600,
 		"latlng": [31, 36],
@@ -3407,15 +3479,15 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"language": ["Kazakh", "Russian"],
-		"languagesCodes": ["kk", "ru"],
+		"languageCodes": ["kk", "ru"],
 		"translations": {
 			"de": "Kasachstan",
-			"en": "Kazakhstan",
 			"es": "Kazajist\u00e1n",
 			"fr": "Kazakhstan",
 			"it": "Kazakistan",
 			"ja": "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3",
-			"nl": "Kazachstan"
+			"nl": "Kazachstan",
+			"hr": "Kazahstan"
 		},
 		"population": 17099000,
 		"latlng": [48, 68],
@@ -3437,15 +3509,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Swahili", "English"],
-		"languagesCodes": ["en", "sw"],
+		"languageCodes": ["en", "sw"],
 		"translations": {
 			"de": "Kenia",
-			"en": "Kenya",
 			"es": "Kenia",
 			"fr": "Kenya",
 			"it": "Kenya",
 			"ja": "\u30b1\u30cb\u30a2",
-			"nl": "Kenia"
+			"nl": "Kenia",
+			"hr": "Kenija"
 		},
 		"population": 44354000,
 		"latlng": [1, 38],
@@ -3467,15 +3539,15 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["English", "Gilbertese"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Kiribati",
-			"en": "Kiribati",
 			"es": "Kiribati",
 			"fr": "Kiribati",
 			"it": "Kiribati",
 			"ja": "\u30ad\u30ea\u30d0\u30b9",
-			"nl": "Kiribati"
+			"nl": "Kiribati",
+			"hr": "Kiribati"
 		},
 		"population": 106461,
 		"latlng": [1.41666666, 173],
@@ -3484,7 +3556,7 @@
 	},
 	{
 		"name": "Kuwait",
-		"nativeName": "al-Kuwayt",
+		"nativeName": "\u0627\u0644\u0643\u0648\u064a\u062a",
 		"tld": [".kw"],
 		"cca2": "KW",
 		"ccn3": "414",
@@ -3497,15 +3569,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Kuwait",
-			"en": "Kuwait",
 			"es": "Kuwait",
 			"fr": "Kowe\u00eft",
 			"it": "Kuwait",
 			"ja": "\u30af\u30a6\u30a7\u30fc\u30c8",
-			"nl": "Koeweit"
+			"nl": "Koeweit",
+			"hr": "Kuvajt"
 		},
 		"population": 3582054,
 		"latlng": [29.5, 45.75],
@@ -3527,15 +3599,15 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"language": ["Kyrgyz", "Russian"],
-		"languagesCodes": ["ky", "ru"],
+		"languageCodes": ["ky", "ru"],
 		"translations": {
 			"de": "Kirgisistan",
-			"en": "Kyrgyzstan",
 			"es": "Kirguizist\u00e1n",
 			"fr": "Kirghizistan",
 			"it": "Kirghizistan",
 			"ja": "\u30ad\u30eb\u30ae\u30b9",
-			"nl": "Kirgizi\u00eb"
+			"nl": "Kirgizi\u00eb",
+			"hr": "Kirgistan"
 		},
 		"population": 5551900,
 		"latlng": [41, 75],
@@ -3557,8 +3629,16 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Lao"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["lo"],
+		"translations": {
+			"fr": "Laos",
+			"nl": "Laos",
+			"de": "Laos",
+			"it": "Laos",
+			"ja": "\u30E9\u30AA\u30B9\u4EBA\u6C11\u6C11\u4E3B\u5171\u548C\u56FD",
+			"es": "Laos",
+			"hr": "Laos"
+		},
 		"population": 6580800,
 		"latlng": [18, 105],
 		"demonym": "Laotian",
@@ -3571,7 +3651,7 @@
 		"cca2": "LV",
 		"ccn3": "428",
 		"cca3": "LVA",
-		"currency": ["LVL"],
+		"currency": ["EUR"],
 		"callingCode": ["371"],
 		"capital": "Riga",
 		"altSpellings": ["LV", "Republic of Latvia", "Latvijas Republika"],
@@ -3579,15 +3659,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Latvian"],
-		"languagesCodes": ["lv"],
+		"languageCodes": ["lv"],
 		"translations": {
 			"de": "Lettland",
-			"en": "Latvia",
 			"es": "Letonia",
 			"fr": "Lettonie",
 			"it": "Lettonia",
 			"ja": "\u30e9\u30c8\u30d3\u30a2",
-			"nl": "Letland"
+			"nl": "Letland",
+			"hr": "Latvija"
 		},
 		"population": 2014000,
 		"latlng": [57, 25],
@@ -3596,7 +3676,7 @@
 	},
 	{
 		"name": "Lebanon",
-		"nativeName": "Libn\u0101n",
+		"nativeName": "\u0644\u0628\u0646\u0627\u0646",
 		"tld": [".lb"],
 		"cca2": "LB",
 		"ccn3": "422",
@@ -3609,15 +3689,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic", "French"],
-		"languagesCodes": ["ar", "fr"],
+		"languageCodes": ["ar", "fr"],
 		"translations": {
 			"de": "Libanon",
-			"en": "Lebanon",
 			"es": "L\u00edbano",
 			"fr": "Liban",
 			"it": "Libano",
 			"ja": "\u30ec\u30d0\u30ce\u30f3",
-			"nl": "Libanon"
+			"nl": "Libanon",
+			"hr": "Libanon"
 		},
 		"population": 4822000,
 		"latlng": [33.83333333, 35.83333333],
@@ -3639,15 +3719,15 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"language": ["Sesotho", "English"],
-		"languagesCodes": ["en", "st"],
+		"languageCodes": ["en", "st"],
 		"translations": {
 			"de": "Lesotho",
-			"en": "Lesotho",
 			"es": "Lesotho",
 			"fr": "Lesotho",
 			"it": "Lesotho",
 			"ja": "\u30ec\u30bd\u30c8",
-			"nl": "Lesotho"
+			"nl": "Lesotho",
+			"hr": "Lesoto"
 		},
 		"population": 2074000,
 		"latlng": [-29.5, 28.5],
@@ -3669,15 +3749,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Liberia",
-			"en": "Liberia",
 			"es": "Liberia",
 			"fr": "Liberia",
 			"it": "Liberia",
 			"ja": "\u30ea\u30d9\u30ea\u30a2",
-			"nl": "Liberia"
+			"nl": "Liberia",
+			"hr": "Liberija"
 		},
 		"population": 4294000,
 		"latlng": [6.5, -9.5],
@@ -3686,7 +3766,7 @@
 	},
 	{
 		"name": "Libya",
-		"nativeName": "L\u012bby\u0101",
+		"nativeName": "\u200f\u0644\u064a\u0628\u064a\u0627",
 		"tld": [".ly"],
 		"cca2": "LY",
 		"ccn3": "434",
@@ -3699,15 +3779,15 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Libyen",
-			"en": "Libya",
 			"es": "Libia",
 			"fr": "Libye",
 			"it": "Libia",
 			"ja": "\u30ea\u30d3\u30a2",
-			"nl": "Libi\u00eb"
+			"nl": "Libi\u00eb",
+			"hr": "Libija"
 		},
 		"population": 6202000,
 		"latlng": [25, 17],
@@ -3729,15 +3809,15 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"language": ["German"],
-		"languagesCodes": ["de"],
+		"languageCodes": ["de"],
 		"translations": {
 			"de": "Liechtenstein",
-			"en": "Liechtenstein",
 			"es": "Liechtenstein",
 			"fr": "Liechtenstein",
 			"it": "Liechtenstein",
 			"ja": "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3",
-			"nl": "Liechtenstein"
+			"nl": "Liechtenstein",
+			"hr": "Lihten\u0161tajn"
 		},
 		"population": 36842,
 		"latlng": [47.26666666, 9.53333333],
@@ -3759,15 +3839,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Lithuanian"],
-		"languagesCodes": ["lt"],
+		"languageCodes": ["lt"],
 		"translations": {
 			"de": "Litauen",
-			"en": "Lithuania",
 			"es": "Lituania",
 			"fr": "Lituanie",
 			"it": "Lituania",
 			"ja": "\u30ea\u30c8\u30a2\u30cb\u30a2",
-			"nl": "Litouwen"
+			"nl": "Litouwen",
+			"hr": "Litva"
 		},
 		"population": 2950684,
 		"latlng": [56, 24],
@@ -3789,15 +3869,15 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"language": ["French", "German", "Luxembourgish"],
-		"languagesCodes": ["fr", "de", "lb"],
+		"languageCodes": ["fr", "de", "lb"],
 		"translations": {
 			"de": "Luxemburg",
-			"en": "Luxembourg",
 			"es": "Luxemburgo",
 			"fr": "Luxembourg",
 			"it": "Lussemburgo",
 			"ja": "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af",
-			"nl": "Luxemburg"
+			"nl": "Luxemburg",
+			"hr": "Luksemburg"
 		},
 		"population": 537000,
 		"latlng": [49.75, 6.16666666],
@@ -3819,17 +3899,17 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"language": ["Traditional Chinese", "Portuguese"],
-		"languagesCodes": ["zh", "pt"],
+		"languageCodes": ["zh", "pt"],
 		"translations": {
 			"de": "Macao",
-			"en": "Macao",
 			"es": "Macao",
 			"fr": "Macao",
 			"it": "Macao",
 			"ja": "\u30de\u30ab\u30aa",
-			"nl": "Macao"
+			"nl": "Macao",
+			"hr": "Makao"
 		},
-		"population": -1,
+		"population": 591900,
 		"latlng": [22.16666666, 113.55],
 		"demonym": "Chinese",
 		"borders": ["CHN"]
@@ -3849,17 +3929,17 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Macedonian"],
-		"languagesCodes": ["mk"],
+		"languageCodes": ["mk"],
 		"translations": {
 			"de": "Mazedonien",
-			"en": "Macedonia",
 			"es": "Macedonia",
 			"fr": "Mac\u00e9doine",
 			"it": "Macedonia",
 			"ja": "\u30de\u30b1\u30c9\u30cb\u30a2\u65e7\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u5171\u548c\u56fd",
-			"nl": "Macedoni\u00eb [FYROM]"
+			"nl": "Macedoni\u00eb",
+			"hr": "Makedonija"
 		},
-		"population": -1,
+		"population": 2058539,
 		"latlng": [41.83333333, 22],
 		"demonym": "Macedonian",
 		"borders": ["ALB", "BGR", "GRC", "KOS", "SRB"]
@@ -3879,15 +3959,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Malagasy", "French"],
-		"languagesCodes": ["fr", "mg"],
+		"languageCodes": ["fr", "mg"],
 		"translations": {
 			"de": "Madagaskar",
-			"en": "Madagascar",
 			"es": "Madagascar",
 			"fr": "Madagascar",
 			"it": "Madagascar",
 			"ja": "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb",
-			"nl": "Madagaskar"
+			"nl": "Madagaskar",
+			"hr": "Madagaskar"
 		},
 		"population": 20696070,
 		"latlng": [-20, 47],
@@ -3909,15 +3989,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Chichewa", "English"],
-		"languagesCodes": ["en", "ny"],
+		"languageCodes": ["en", "ny"],
 		"translations": {
 			"de": "Malawi",
-			"en": "Malawi",
 			"es": "Malawi",
 			"fr": "Malawi",
 			"it": "Malawi",
 			"ja": "\u30de\u30e9\u30a6\u30a4",
-			"nl": "Malawi"
+			"nl": "Malawi",
+			"hr": "Malavi"
 		},
 		"population": 16363000,
 		"latlng": [-13.5, 34],
@@ -3939,8 +4019,16 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Malaysian"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": [],
+		"translations": {
+			"fr": "Malaisie",
+			"nl": "Maleisi\u00eb",
+			"de": "Malaysia",
+			"it": "Malesia",
+			"ja": "\u30DE\u30EC\u30FC\u30B7\u30A2",
+			"es": "Malasia",
+			"hr": "Malezija"
+		},
 		"population": 29793600,
 		"latlng": [2.5, 112.5],
 		"demonym": "Malaysian",
@@ -3961,15 +4049,15 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"language": ["Maldivian"],
-		"languagesCodes": ["dv"],
+		"languageCodes": ["dv"],
 		"translations": {
 			"de": "Malediven",
-			"en": "Maldives",
 			"es": "Maldivas",
 			"fr": "Maldives",
 			"it": "Maldive",
 			"ja": "\u30e2\u30eb\u30c7\u30a3\u30d6",
-			"nl": "Maldiven"
+			"nl": "Maldiven",
+			"hr": "Maldivi"
 		},
 		"population": 317280,
 		"latlng": [3.25, 73],
@@ -3991,15 +4079,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Mali",
-			"en": "Mali",
 			"es": "Mali",
 			"fr": "Mali",
 			"it": "Mali",
 			"ja": "\u30de\u30ea",
-			"nl": "Mali"
+			"nl": "Mali",
+			"hr": "Mali"
 		},
 		"population": 15302000,
 		"latlng": [17, -4],
@@ -4021,15 +4109,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Maltese", "English"],
-		"languagesCodes": ["mt", "en"],
+		"languageCodes": ["mt", "en"],
 		"translations": {
 			"de": "Malta",
-			"en": "Malta",
 			"es": "Malta",
 			"fr": "Malte",
 			"it": "Malta",
 			"ja": "\u30de\u30eb\u30bf",
-			"nl": "Malta"
+			"nl": "Malta",
+			"hr": "Malta"
 		},
 		"population": 416055,
 		"latlng": [35.83333333, 14.58333333],
@@ -4051,15 +4139,15 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["Marshallese", "English"],
-		"languagesCodes": ["en", "mh"],
+		"languageCodes": ["en", "mh"],
 		"translations": {
 			"de": "Marshallinseln",
-			"en": "Marshall Islands",
 			"es": "Islas Marshall",
 			"fr": "\u00celes Marshall",
 			"it": "Isole Marshall",
 			"ja": "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6",
-			"nl": "Marshalleilanden"
+			"nl": "Marshalleilanden",
+			"hr": "Mar\u0161alovi Otoci"
 		},
 		"population": 56086,
 		"latlng": [9, 168],
@@ -4081,15 +4169,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Martinique",
-			"en": "Martinique",
 			"es": "Martinica",
 			"fr": "Martinique",
 			"it": "Martinica",
 			"ja": "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af",
-			"nl": "Martinique"
+			"nl": "Martinique",
+			"hr": "Martinique"
 		},
 		"population": 394173,
 		"latlng": [14.666667, -61],
@@ -4098,7 +4186,7 @@
 	},
 	{
 		"name": "Mauritania",
-		"nativeName": "M\u016br\u012bt\u0101ny\u0101",
+		"nativeName": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
 		"tld": [".mr"],
 		"cca2": "MR",
 		"ccn3": "478",
@@ -4111,15 +4199,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar", "fr"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Mauretanien",
-			"en": "Mauritania",
 			"es": "Mauritania",
 			"fr": "Mauritanie",
 			"it": "Mauritania",
 			"ja": "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2",
-			"nl": "Mauritani\u00eb"
+			"nl": "Mauritani\u00eb",
+			"hr": "Mauritanija"
 		},
 		"population": 3461041,
 		"latlng": [20, -12],
@@ -4141,15 +4229,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["French"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Mauritius",
-			"en": "Mauritius",
 			"es": "Mauricio",
 			"fr": "\u00cele Maurice",
 			"it": "Mauritius",
 			"ja": "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9",
-			"nl": "Mauritius"
+			"nl": "Mauritius",
+			"hr": "Mauricijus"
 		},
 		"population": 1257900,
 		"latlng": [-20.28333333, 57.55],
@@ -4171,15 +4259,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Mayotte",
-			"en": "Mayotte",
 			"es": "Mayotte",
 			"fr": "Mayotte",
 			"it": "Mayotte",
 			"ja": "\u30de\u30e8\u30c3\u30c8",
-			"nl": "Mayotte"
+			"nl": "Mayotte",
+			"hr": "Mayotte"
 		},
 		"population": 212600,
 		"latlng": [-12.83333333, 45.16666666],
@@ -4201,15 +4289,15 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Mexiko",
-			"en": "Mexico",
 			"es": "M\u00e9xico",
 			"fr": "Mexique",
 			"it": "Messico",
 			"ja": "\u30e1\u30ad\u30b7\u30b3",
-			"nl": "Mexico"
+			"nl": "Mexico",
+			"hr": "Meksiko"
 		},
 		"population": 118395054,
 		"latlng": [23, -102],
@@ -4231,17 +4319,17 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Mikronesien",
-			"en": "Micronesia",
 			"es": "Micronesia",
 			"fr": "Micron\u00e9sie",
 			"it": "Micronesia",
 			"ja": "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6",
-			"nl": "Micronesi\u00eb"
+			"nl": "Micronesi\u00eb",
+			"hr": "Mikronezija"
 		},
-		"population": -1,
+		"population": 106104,
 		"latlng": [6.91666666, 158.25],
 		"demonym": "Micronesian",
 		"borders": []
@@ -4261,15 +4349,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Moldovan"],
-		"languagesCodes": ["ro"],
+		"languageCodes": ["ro"],
 		"translations": {
 			"de": "Moldawie",
-			"en": "Moldova",
 			"es": "Moldavia",
 			"fr": "Moldavie",
 			"it": "Moldavia",
 			"ja": "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd",
-			"nl": "Moldavi\u00eb"
+			"nl": "Moldavi\u00eb",
+			"hr": "Moldova"
 		},
 		"population": 3559500,
 		"latlng": [47, 29],
@@ -4291,15 +4379,15 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Monaco",
-			"en": "Monaco",
 			"es": "M\u00f3naco",
 			"fr": "Monaco",
 			"it": "Principato di Monaco",
 			"ja": "\u30e2\u30ca\u30b3",
-			"nl": "Monaco"
+			"nl": "Monaco",
+			"hr": "Monako"
 		},
 		"population": 36136,
 		"latlng": [43.73333333, 7.4],
@@ -4321,15 +4409,15 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"language": ["Mongolian"],
-		"languagesCodes": ["mn"],
+		"languageCodes": ["mn"],
 		"translations": {
 			"de": "Mongolei",
-			"en": "Mongolia",
 			"es": "Mongolia",
 			"fr": "Mongolie",
 			"it": "Mongolia",
 			"ja": "\u30e2\u30f3\u30b4\u30eb",
-			"nl": "Mongoli\u00eb"
+			"nl": "Mongoli\u00eb",
+			"hr": "Mongolija"
 		},
 		"population": 2754685,
 		"latlng": [46, 105],
@@ -4351,15 +4439,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Montenegrin"],
-		"languagesCodes": ["sr", "bs", "sq", "hr"],
+		"languageCodes": ["sr", "bs", "sq", "hr"],
 		"translations": {
 			"de": "Montenegro",
-			"en": "Crna Gora",
 			"es": "Montenegro",
 			"fr": "Mont\u00e9n\u00e9gro",
 			"it": "Montenegro",
 			"ja": "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed",
-			"nl": "Montenegro"
+			"nl": "Montenegro",
+			"hr": "Crna Gora"
 		},
 		"population": 620029,
 		"latlng": [42.5, 19.3],
@@ -4381,15 +4469,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Montserrat",
-			"en": "Montserrat",
 			"es": "Montserrat",
 			"fr": "Montserrat",
 			"it": "Montserrat",
 			"ja": "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8",
-			"nl": "Montserrat"
+			"nl": "Montserrat",
+			"hr": "Montserrat"
 		},
 		"population": 4922,
 		"latlng": [16.75, -62.2],
@@ -4398,7 +4486,7 @@
 	},
 	{
 		"name": "Morocco",
-		"nativeName": "al-Ma\u0121rib",
+		"nativeName": "\u0627\u0644\u0645\u063a\u0631\u0628",
 		"tld": [".ma"],
 		"cca2": "MA",
 		"ccn3": "504",
@@ -4410,16 +4498,16 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"language": ["Arabic", "Tamazight"],
-		"languagesCodes": ["ar"],
+		"language": ["Arabic", "Berber"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Marokko",
-			"en": "Morocco",
 			"es": "Marruecos",
 			"fr": "Maroc",
 			"it": "Marocco",
 			"ja": "\u30e2\u30ed\u30c3\u30b3",
-			"nl": "Marokko"
+			"nl": "Marokko",
+			"hr": "Maroko"
 		},
 		"population": 33087700,
 		"latlng": [32, -5],
@@ -4441,15 +4529,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Portuguese"],
-		"languagesCodes": ["pt"],
+		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Mosambik",
-			"en": "Mozambique",
 			"es": "Mozambique",
 			"fr": "Mozambique",
 			"it": "Mozambico",
 			"ja": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af",
-			"nl": "Mozambique"
+			"nl": "Mozambique",
+			"hr": "Mozambik"
 		},
 		"population": 23700715,
 		"latlng": [-18.25, 35],
@@ -4471,12 +4559,20 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Burmese"],
-		"languagesCodes": [],
-		"translations": {},
-		"population": -1,
+		"languageCodes": ["my"],
+		"translations": {
+			"fr": "Myanmar",
+			"nl": "Myanmar",
+			"de": "Myanmar",
+			"it": "Birmania",
+			"ja": "\u30df\u30e3\u30f3\u30de\u30fc",
+			"es": "Myanmar",
+			"hr": "Mijanmar"
+		},
+		"population": 61120000,
 		"latlng": [22, 98],
 		"demonym": "Myanmarian",
-		"borders": []
+		"borders": ["BGD", "CHN", "IND", "LAO", "THA"]
 	},
 	{
 		"name": "Namibia",
@@ -4493,15 +4589,15 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"language": ["English"],
-		"languagesCodes": ["en", "af"],
+		"languageCodes": ["en", "af"],
 		"translations": {
 			"de": "Namibia",
-			"en": "Namibia",
 			"es": "Namibia",
 			"fr": "Namibie",
 			"it": "Namibia",
 			"ja": "\u30ca\u30df\u30d3\u30a2",
-			"nl": "Namibi\u00eb"
+			"nl": "Namibi\u00eb",
+			"hr": "Namibija"
 		},
 		"population": 2113077,
 		"latlng": [-22, 17],
@@ -4523,15 +4619,15 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["Nauruan", "English"],
-		"languagesCodes": ["en", "na"],
+		"languageCodes": ["en", "na"],
 		"translations": {
 			"de": "Nauru",
-			"en": "Nauru",
 			"es": "Nauru",
 			"fr": "Nauru",
 			"it": "Nauru",
 			"ja": "\u30ca\u30a6\u30eb",
-			"nl": "Nauru"
+			"nl": "Nauru",
+			"hr": "Nauru"
 		},
 		"population": 9945,
 		"latlng": [-0.53333333, 166.91666666],
@@ -4553,15 +4649,15 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"language": ["Nepali"],
-		"languagesCodes": ["ne"],
+		"languageCodes": ["ne"],
 		"translations": {
 			"de": "N\u00e9pal",
-			"en": "Nepal",
 			"es": "Nepal",
 			"fr": "N\u00e9pal",
 			"it": "Nepal",
 			"ja": "\u30cd\u30d1\u30fc\u30eb",
-			"nl": "Nepal"
+			"nl": "Nepal",
+			"hr": "Nepal"
 		},
 		"population": 26494504,
 		"latlng": [28, 84],
@@ -4583,15 +4679,15 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"language": ["Dutch"],
-		"languagesCodes": ["nl"],
+		"languageCodes": ["nl"],
 		"translations": {
 			"de": "Niederlande",
-			"en": "Netherlands",
 			"es": "Pa\u00edses Bajos",
 			"fr": "Pays-Bas",
 			"it": "Paesi Bassi",
 			"ja": "\u30aa\u30e9\u30f3\u30c0",
-			"nl": "Nederland"
+			"nl": "Nederland",
+			"hr": "Nizozemska"
 		},
 		"population": 16807300,
 		"latlng": [52.5, 5.75],
@@ -4613,15 +4709,15 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Neukaledonien",
-			"en": "New Caledonia",
 			"es": "Nueva Caledonia",
 			"fr": "Nouvelle-Cal\u00e9donie",
 			"it": "Nuova Caledonia",
 			"ja": "\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2",
-			"nl": "Nieuw-Caledoni\u00eb"
+			"nl": "Nieuw-Caledoni\u00eb",
+			"hr": "Nova Kaledonija"
 		},
 		"population": 258958,
 		"latlng": [-21.5, 165.5],
@@ -4639,12 +4735,20 @@
 		"callingCode": ["64"],
 		"capital": "Wellington",
 		"altSpellings": ["NZ", "Aotearoa"],
-		"relevance": "0",
+		"relevance": "1.0",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English", "M\u0101ori", "New Zealand Sign Language"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["en", "mi"],
+		"translations": {
+			"fr": "Nouvelle-Z\u00e9lande",
+			"nl": "Nieuw-Zeeland",
+			"de": "Neuseeland",
+			"it": "Nuova Zelanda",
+			"ja": "\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9",
+			"es": "Nueva Zelanda",
+			"hr": "Novi Zeland"
+		},
 		"population": 4478810,
 		"latlng": [-41, 174],
 		"demonym": "New Zealander",
@@ -4665,15 +4769,15 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Nicaragua",
-			"en": "Nicaragua",
 			"es": "Nicaragua",
 			"fr": "Nicaragua",
 			"it": "Nicaragua",
 			"ja": "\u30cb\u30ab\u30e9\u30b0\u30a2",
-			"nl": "Nicaragua"
+			"nl": "Nicaragua",
+			"hr": "Nikaragva"
 		},
 		"population": 6071045,
 		"latlng": [13, -85],
@@ -4695,15 +4799,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Niger",
-			"en": "Niger",
 			"es": "N\u00edger",
 			"fr": "Niger",
 			"it": "Niger",
 			"ja": "\u30cb\u30b8\u30a7\u30fc\u30eb",
-			"nl": "Niger"
+			"nl": "Niger",
+			"hr": "Niger"
 		},
 		"population": 17129076,
 		"latlng": [16, 8],
@@ -4725,15 +4829,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Nigeria",
-			"en": "Nigeria",
 			"es": "Nigeria",
 			"fr": "Nig\u00e9ria",
 			"it": "Nigeria",
 			"ja": "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2",
-			"nl": "Nigeria"
+			"nl": "Nigeria",
+			"hr": "Nigerija"
 		},
 		"population": 173615000,
 		"latlng": [10, 8],
@@ -4755,15 +4859,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["Niuean", "English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Niue",
-			"en": "Niue",
 			"es": "Niue",
 			"fr": "Niue",
 			"it": "Niue",
 			"ja": "\u30cb\u30a6\u30a8",
-			"nl": "Niue"
+			"nl": "Niue",
+			"hr": "Niue"
 		},
 		"population": 1613,
 		"latlng": [-19.03333333, -169.86666666],
@@ -4785,8 +4889,16 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"language": ["English", "Norfuk"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["en"],
+		"translations": {
+			"fr": "\u00cele de Norfolk",
+			"nl": "Norfolkeiland",
+			"de": "Norfolkinsel",
+			"it": "Isola Norfolk",
+			"ja": "\u30CE\u30FC\u30D5\u30A9\u30FC\u30AF\u5CF6",
+			"es": "Isla de Norfolk",
+			"hr": "Otok Norfolk"
+		},
 		"population": 2302,
 		"latlng": [-29.03333333, 167.95],
 		"demonym": "Norfolk Islander",
@@ -4807,20 +4919,20 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"language": ["Korean"],
-		"languagesCodes": ["ko"],
+		"languageCodes": ["ko"],
 		"translations": {
 			"de": "Nordkorea",
-			"en": "Korea (North)",
 			"es": "Corea del Norte",
 			"fr": "Cor\u00e9e du Nord",
 			"it": "Corea del Nord",
 			"ja": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
-			"nl": "Noord-Korea"
+			"nl": "Noord-Korea",
+			"hr": "Sjeverna Koreja"
 		},
 		"population": 24895000,
 		"latlng": [40, 127],
 		"demonym": "North Korean",
-		"borders": [ "CHN", "KOR", "RUS"]
+		"borders": ["CHN", "KOR", "RUS"]
 	},
 	{
 		"name": "Northern Mariana Islands",
@@ -4837,15 +4949,15 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["English", "Chamorro", "Carolinian"],
-		"languagesCodes": ["en", "ch"],
+		"languageCodes": ["en", "ch"],
 		"translations": {
 			"de": "N\u00f6rdliche Marianen",
-			"en": "Northern Mariana Islands",
 			"es": "Islas Marianas del Norte",
 			"fr": "\u00celes Mariannes du Nord",
 			"it": "Isole Marianne Settentrionali",
 			"ja": "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6",
-			"nl": "Noordelijke Marianeneilanden"
+			"nl": "Noordelijke Marianeneilanden",
+			"hr": "Sjevernomarijanski otoci"
 		},
 		"population": 53883,
 		"latlng": [15.2, 145.75],
@@ -4867,15 +4979,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Norwegian"],
-		"languagesCodes": ["no"],
+		"languageCodes": ["no"],
 		"translations": {
 			"de": "Norwegen",
-			"en": "Norway",
 			"es": "Noruega",
 			"fr": "Norv\u00e8ge",
 			"it": "Norvegia",
 			"ja": "\u30ce\u30eb\u30a6\u30a7\u30fc",
-			"nl": "Noorwegen"
+			"nl": "Noorwegen",
+			"hr": "Norve\u0161ka"
 		},
 		"population": 5077798,
 		"latlng": [62, 10],
@@ -4884,7 +4996,7 @@
 	},
 	{
 		"name": "Oman",
-		"nativeName": "\u02bbUm\u0101n",
+		"nativeName": "\u0639\u0645\u0627\u0646",
 		"tld": [".om"],
 		"cca2": "OM",
 		"ccn3": "512",
@@ -4897,15 +5009,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Oman",
-			"en": "Oman",
 			"es": "Om\u00e1n",
 			"fr": "Oman",
 			"it": "oman",
 			"ja": "\u30aa\u30de\u30fc\u30f3",
-			"nl": "Oman"
+			"nl": "Oman",
+			"hr": "Oman"
 		},
 		"population": 3929000,
 		"latlng": [21, 57],
@@ -4927,15 +5039,15 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"language": ["English", "Urdu"],
-		"languagesCodes": ["en", "ur"],
+		"languageCodes": ["en", "ur"],
 		"translations": {
 			"de": "Pakistan",
-			"en": "Pakistan",
 			"es": "Pakist\u00e1n",
 			"fr": "Pakistan",
 			"it": "Pakistan",
 			"ja": "\u30d1\u30ad\u30b9\u30bf\u30f3",
-			"nl": "Pakistan"
+			"nl": "Pakistan",
+			"hr": "Pakistan"
 		},
 		"population": 184845000,
 		"latlng": [30, 70],
@@ -4957,15 +5069,15 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["English", "Palauan"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Palau",
-			"en": "Palau",
 			"es": "Palau",
 			"fr": "Palaos",
 			"it": "Palau",
 			"ja": "\u30d1\u30e9\u30aa",
-			"nl": "Palau"
+			"nl": "Palau",
+			"hr": "Palau"
 		},
 		"population": 20901,
 		"latlng": [7.5, 134.5],
@@ -4974,7 +5086,7 @@
 	},
 	{
 		"name": "Palestine",
-		"nativeName": "Filas\u1e6din",
+		"nativeName": "\u0641\u0644\u0633\u0637\u064a\u0646",
 		"tld": [".ps"],
 		"cca2": "PS",
 		"ccn3": "275",
@@ -4987,20 +5099,20 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar", "he", "en"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Pal\u00e4stina",
-			"en": "Palestine",
 			"es": "Palestina",
 			"fr": "Palestine",
 			"it": "Palestina",
 			"ja": "\u30d1\u30ec\u30b9\u30c1\u30ca",
-			"nl": "Palestijnse gebieden"
+			"nl": "Palestijnse gebieden",
+			"hr": "Palestina"
 		},
-		"population": -1,
+		"population": 4550368,
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
-		"borders": [ "ISR", "EGY", "JOR" ]
+		"borders": ["ISR", "EGY", "JOR"]
 	},
 	{
 		"name": "Panama",
@@ -5017,15 +5129,15 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Panama",
-			"en": "Panama",
 			"es": "Panam\u00e1",
 			"fr": "Panama",
 			"it": "Panama",
 			"ja": "\u30d1\u30ca\u30de",
-			"nl": "Panama"
+			"nl": "Panama",
+			"hr": "Panama"
 		},
 		"population": 3405813,
 		"latlng": [9, -80],
@@ -5047,15 +5159,15 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"language": ["Hiri Motu", "Tok Pisin", "English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Papua-Neuguinea",
-			"en": "Papua New Guinea",
 			"es": "Pap\u00faa Nueva Guinea",
 			"fr": "Papouasie-Nouvelle-Guin\u00e9e",
 			"it": "Papua Nuova Guinea",
 			"ja": "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2",
-			"nl": "Papoea-Nieuw-Guinea"
+			"nl": "Papoea-Nieuw-Guinea",
+			"hr": "Papua Nova Gvineja"
 		},
 		"population": 7059653,
 		"latlng": [-6, 147],
@@ -5077,15 +5189,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Spanish", "Guaran\u00ed"],
-		"languagesCodes": ["es", "gn"],
+		"languageCodes": ["es", "gn"],
 		"translations": {
 			"de": "Paraguay",
-			"en": "Paraguay",
 			"es": "Paraguay",
 			"fr": "Paraguay",
 			"it": "Paraguay",
 			"ja": "\u30d1\u30e9\u30b0\u30a2\u30a4",
-			"nl": "Paraguay"
+			"nl": "Paraguay",
+			"hr": "Paragvaj"
 		},
 		"population": 6783374,
 		"latlng": [-23, -58],
@@ -5107,15 +5219,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Spanish", "Quechua", "Aymara"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Peru",
-			"en": "Peru",
 			"es": "Per\u00fa",
 			"fr": "P\u00e9rou",
 			"it": "Per\u00f9",
 			"ja": "\u30da\u30eb\u30fc",
-			"nl": "Peru"
+			"nl": "Peru",
+			"hr": "Peru"
 		},
 		"population": 30475144,
 		"latlng": [-10, -76],
@@ -5137,8 +5249,16 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Filipino", "English"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["en"],
+		"translations": {
+			"fr": "Philippines",
+			"nl": "Filipijnen",
+			"de": "Philippinen",
+			"it": "Filippine",
+			"ja": "\u30D5\u30A3\u30EA\u30D4\u30F3",
+			"es": "Filipinas",
+			"hr": "Filipini"
+		},
 		"population": 98678000,
 		"latlng": [13, 122],
 		"demonym": "Filipino",
@@ -5159,15 +5279,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Pitcairn",
-			"en": "Pitcairn",
 			"es": "Islas Pitcairn",
 			"fr": "\u00celes Pitcairn",
 			"it": "Isole Pitcairn",
 			"ja": "\u30d4\u30c8\u30b1\u30a2\u30f3",
-			"nl": "Pitcairneilanden"
+			"nl": "Pitcairneilanden",
+			"hr": "Pitcairnovo oto\u010dje"
 		},
 		"population": 56,
 		"latlng": [-25.06666666, -130.1],
@@ -5189,15 +5309,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Polish"],
-		"languagesCodes": ["pl"],
+		"languageCodes": ["pl"],
 		"translations": {
 			"de": "Polen",
-			"en": "Poland",
 			"es": "Polonia",
 			"fr": "Pologne",
 			"it": "Polonia",
 			"ja": "\u30dd\u30fc\u30e9\u30f3\u30c9",
-			"nl": "Polen"
+			"nl": "Polen",
+			"hr": "Poljska"
 		},
 		"population": 38533299,
 		"latlng": [52, 20],
@@ -5219,15 +5339,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Portuguese"],
-		"languagesCodes": ["pt"],
+		"languageCodes": ["pt"],
 		"translations": {
 			"de": "Portugal",
-			"en": "Portugal",
 			"es": "Portugal",
 			"fr": "Portugal",
 			"it": "Portogallo",
 			"ja": "\u30dd\u30eb\u30c8\u30ac\u30eb",
-			"nl": "Portugal"
+			"nl": "Portugal",
+			"hr": "Portugal"
 		},
 		"population": 10562178,
 		"latlng": [39.5, -8],
@@ -5249,15 +5369,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Spanish", "English"],
-		"languagesCodes": ["es", "en"],
+		"languageCodes": ["es", "en"],
 		"translations": {
 			"de": "Puerto Rico",
-			"en": "Puerto Rico",
 			"es": "Puerto Rico",
 			"fr": "Porto Rico",
 			"it": "Porto Rico",
 			"ja": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3",
-			"nl": "Puerto Rico"
+			"nl": "Puerto Rico",
+			"hr": "Portoriko"
 		},
 		"population": 3667084,
 		"latlng": [18.25, -66.5],
@@ -5266,7 +5386,7 @@
 	},
 	{
 		"name": "Qatar",
-		"nativeName": "Qa\u1e6dar",
+		"nativeName": "\u0642\u0637\u0631",
 		"tld": [".qa"],
 		"cca2": "QA",
 		"ccn3": "634",
@@ -5279,15 +5399,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Katar",
-			"en": "Qatar",
 			"es": "Catar",
 			"fr": "Qatar",
 			"it": "Qatar",
 			"ja": "\u30ab\u30bf\u30fc\u30eb",
-			"nl": "Qatar"
+			"nl": "Qatar",
+			"hr": "Katar"
 		},
 		"population": 2024707,
 		"latlng": [25.5, 51.25],
@@ -5309,12 +5429,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Albanian", "Serbian"],
-		"languagesCodes": ["sq", "sr"],
-		"translations": {},
+		"languageCodes": ["sq", "sr"],
+		"translations": {
+			"es": "Kosovo",
+			"hr": "Kosovo"
+		},
 		"population": 1733842,
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
-		"borders": [ "ALB", "MKD", "MNE", "SRB"]
+		"borders": ["ALB", "MKD", "MNE", "SRB"]
 	},
 	{
 		"name": "R\u00e9union",
@@ -5331,15 +5454,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "R\u00e9union",
-			"en": "R\u00e9union",
 			"es": "Reuni\u00f3n",
 			"fr": "R\u00e9union",
 			"it": "Riunione",
 			"ja": "\u30ec\u30e6\u30cb\u30aa\u30f3",
-			"nl": "R\u00e9union"
+			"nl": "R\u00e9union",
+			"hr": "R\u00e9union"
 		},
 		"population": 821136,
 		"latlng": [-21.15, 55.5],
@@ -5361,15 +5484,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Romanian"],
-		"languagesCodes": ["ro"],
+		"languageCodes": ["ro"],
 		"translations": {
 			"de": "Rum\u00e4nien",
-			"en": "Romania",
 			"es": "Rumania",
 			"fr": "Roumanie",
 			"it": "Romania",
 			"ja": "\u30eb\u30fc\u30de\u30cb\u30a2",
-			"nl": "Roemeni\u00eb"
+			"nl": "Roemeni\u00eb",
+			"hr": "Rumunjska"
 		},
 		"population": 20121641,
 		"latlng": [46, 25],
@@ -5391,15 +5514,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Russian"],
-		"languagesCodes": ["ru"],
+		"languageCodes": ["ru"],
 		"translations": {
 			"de": "Russland",
-			"en": "Russia",
 			"es": "Rusia",
 			"fr": "Russie",
 			"it": "Russia",
 			"ja": "\u30ed\u30b7\u30a2\u9023\u90a6",
-			"nl": "Rusland"
+			"nl": "Rusland",
+			"hr": "Rusija"
 		},
 		"population": 143500000,
 		"latlng": [60, 100],
@@ -5421,15 +5544,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Kinyarwanda", "French", "English"],
-		"languagesCodes": ["rw", "en", "fr"],
+		"languageCodes": ["rw", "en", "fr"],
 		"translations": {
 			"de": "Ruanda",
-			"en": "Rwanda",
 			"es": "Ruanda",
 			"fr": "Rwanda",
 			"it": "Ruanda",
 			"ja": "\u30eb\u30ef\u30f3\u30c0",
-			"nl": "Rwanda"
+			"nl": "Rwanda",
+			"hr": "Ruanda"
 		},
 		"population": 10537222,
 		"latlng": [-2, 30],
@@ -5451,15 +5574,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Saint-Barth\u00e9lemy",
-			"en": "Saint Barth\u00e9lemy",
 			"es": "San Bartolom\u00e9",
 			"fr": "Saint-Barth\u00e9lemy",
 			"it": "Antille Francesi",
 			"ja": "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc",
-			"nl": "Saint Barth\u00e9lemy"
+			"nl": "Saint Barth\u00e9lemy",
+			"hr": "Saint Barth\u00e9lemy"
 		},
 		"population": 8938,
 		"latlng": [18.5, -63.41666666],
@@ -5481,17 +5604,17 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Sankt Helena",
-			"en": "Saint Helena",
 			"es": "Santa Helena",
 			"fr": "Sainte-H\u00e9l\u00e8ne",
 			"it": "Sant'Elena",
 			"ja": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3",
-			"nl": "Sint-Helena"
+			"nl": "Sint-Helena",
+			"hr": "Sveta Helena"
 		},
-		"population": -1,
+		"population": 4255,
 		"latlng": [-15.95, -5.7],
 		"demonym": "Saint Helenian",
 		"borders": []
@@ -5511,15 +5634,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "St. Kitts und Nevis",
-			"en": "Saint Kitts and Nevis",
 			"es": "San Crist\u00f3bal y Nieves",
 			"fr": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
 			"it": "Saint Kitts e Nevis",
 			"ja": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
-			"nl": "Saint Kitts en Nevis"
+			"nl": "Saint Kitts en Nevis",
+			"hr": "Sveti Kristof i Nevis"
 		},
 		"population": 54000,
 		"latlng": [17.33333333, -62.75],
@@ -5541,15 +5664,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Saint Lucia",
-			"en": "Saint Lucia",
 			"es": "Santa Luc\u00eda",
 			"fr": "Saint-Lucie",
 			"it": "Santa Lucia",
 			"ja": "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2",
-			"nl": "Saint Lucia"
+			"nl": "Saint Lucia",
+			"hr": "Sveta Lucija"
 		},
 		"population": 166526,
 		"latlng": [13.88333333, -60.96666666],
@@ -5571,17 +5694,17 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["French"],
-		"languagesCodes": ["en", "fr", "nl"],
+		"languageCodes": ["en", "fr", "nl"],
 		"translations": {
 			"de": "Saint Martin",
-			"en": "Saint Martin",
 			"es": "Saint Martin",
 			"fr": "Saint-Martin",
 			"it": "Saint Martin",
 			"ja": "\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3\uff08\u30d5\u30e9\u30f3\u30b9\u9818\uff09",
-			"nl": "Saint-Martin"
+			"nl": "Saint-Martin",
+			"hr": "Sveti Martin"
 		},
-		"population": -1,
+		"population": 77741,
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
 		"borders": ["SXM", "NLD"]
@@ -5601,15 +5724,15 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Saint-Pierre und Miquelon",
-			"en": "Saint Pierre and Miquelon",
 			"es": "San Pedro y Miquel\u00f3n",
 			"fr": "Saint-Pierre-et-Miquelon",
 			"it": "Saint-Pierre e Miquelon",
 			"ja": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6",
-			"nl": "Saint Pierre en Miquelon"
+			"nl": "Saint Pierre en Miquelon",
+			"hr": "Sveti Petar i Mikelon"
 		},
 		"population": 6081,
 		"latlng": [46.83333333, -56.33333333],
@@ -5631,15 +5754,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Saint Vincent und die Grenadinen",
-			"en": "Saint Vincent and the Grenadines",
 			"es": "San Vicente y Granadinas",
 			"fr": "Saint-Vincent-et-les-Grenadines",
 			"it": "Saint Vincent e Grenadine",
 			"ja": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6",
-			"nl": "Saint Vincent en de Grenadines"
+			"nl": "Saint Vincent en de Grenadines",
+			"hr": "Sveti Vincent i Grenadini"
 		},
 		"population": 109000,
 		"latlng": [13.25, -61.2],
@@ -5661,15 +5784,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["Samoan", "English"],
-		"languagesCodes": ["sm", "en"],
+		"languageCodes": ["sm", "en"],
 		"translations": {
 			"de": "Samoa",
-			"en": "Samoa",
 			"es": "Samoa",
 			"fr": "Samoa",
 			"it": "Samoa",
 			"ja": "\u30b5\u30e2\u30a2",
-			"nl": "Samoa"
+			"nl": "Samoa",
+			"hr": "Samoa"
 		},
 		"population": 187820,
 		"latlng": [-13.58333333, -172.33333333],
@@ -5691,15 +5814,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Italian"],
-		"languagesCodes": ["it"],
+		"languageCodes": ["it"],
 		"translations": {
 			"de": "San Marino",
-			"en": "San Marino",
 			"es": "San Marino",
 			"fr": "Saint-Marin",
 			"it": "San Marino",
 			"ja": "\u30b5\u30f3\u30de\u30ea\u30ce",
-			"nl": "San Marino"
+			"nl": "San Marino",
+			"hr": "San Marino"
 		},
 		"population": 32509,
 		"latlng": [43.76666666, 12.41666666],
@@ -5721,15 +5844,15 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["Portuguese"],
-		"languagesCodes": ["pt"],
+		"languageCodes": ["pt"],
 		"translations": {
 			"de": "S\u00e3o Tom\u00e9 und Pr\u00edncipe",
-			"en": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
 			"es": "Santo Tom\u00e9 y Pr\u00edncipe",
 			"fr": "Sao Tom\u00e9-et-Principe",
 			"it": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
 			"ja": "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da",
-			"nl": "Sao Tom\u00e9 en Principe"
+			"nl": "Sao Tom\u00e9 en Principe",
+			"hr": "Sveti Toma i Princip"
 		},
 		"population": 187356,
 		"latlng": [1, 7],
@@ -5738,7 +5861,7 @@
 	},
 	{
 		"name": "Saudi Arabia",
-		"nativeName": "as-Su\u2018\u016bdiyyah",
+		"nativeName": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
 		"tld": [".sa"],
 		"cca2": "SA",
 		"ccn3": "682",
@@ -5751,15 +5874,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Saudi-Arabien",
-			"en": "Saudi Arabia",
 			"es": "Arabia Saud\u00ed",
 			"fr": "Arabie Saoudite",
 			"it": "Arabia Saudita",
 			"ja": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2",
-			"nl": "Saoedi-Arabi\u00eb"
+			"nl": "Saoedi-Arabi\u00eb",
+			"hr": "Saudijska Arabija"
 		},
 		"population": 29994272,
 		"latlng": [25, 45],
@@ -5781,15 +5904,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Senegal",
-			"en": "Senegal",
 			"es": "Senegal",
 			"fr": "S\u00e9n\u00e9gal",
 			"it": "Senegal",
 			"ja": "\u30bb\u30cd\u30ac\u30eb",
-			"nl": "Senegal"
+			"nl": "Senegal",
+			"hr": "Senegal"
 		},
 		"population": 13567338,
 		"latlng": [14, -14],
@@ -5811,15 +5934,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Serbian"],
-		"languagesCodes": ["sr"],
+		"languageCodes": ["sr"],
 		"translations": {
 			"de": "Serbien",
-			"en": "Serbia",
 			"es": "Serbia",
 			"fr": "Serbie",
 			"it": "Serbia",
 			"ja": "\u30bb\u30eb\u30d3\u30a2",
-			"nl": "Servi\u00eb"
+			"nl": "Servi\u00eb",
+			"hr": "Srbija"
 		},
 		"population": 7181505,
 		"latlng": [44, 21],
@@ -5841,15 +5964,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["French", "English", "Seychellois Creole"],
-		"languagesCodes": ["fr", "en"],
+		"languageCodes": ["fr", "en"],
 		"translations": {
 			"de": "Seychellen",
-			"en": "Seychelles",
 			"es": "Seychelles",
 			"fr": "Seychelles",
 			"it": "Seychelles",
 			"ja": "\u30bb\u30fc\u30b7\u30a7\u30eb",
-			"nl": "Seychellen"
+			"nl": "Seychellen",
+			"hr": "Sej\u0161eli"
 		},
 		"population": 90945,
 		"latlng": [-4.58333333, 55.66666666],
@@ -5871,15 +5994,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Sierra Leone",
-			"en": "Sierra Leone",
 			"es": "Sierra Leone",
 			"fr": "Sierra Leone",
 			"it": "Sierra Leone",
 			"ja": "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd",
-			"nl": "Sierra Leone"
+			"nl": "Sierra Leone",
+			"hr": "Sijera Leone"
 		},
 		"population": 6190280,
 		"latlng": [8.5, -11.5],
@@ -5901,8 +6024,16 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["English", "Malay", "Mandarin", "Tamil"],
-		"languagesCodes": ["en", "ms", "ta", "zh"],
-		"translations": {},
+		"languageCodes": ["en", "ms", "ta", "zh"],
+		"translations": {
+			"fr": "Singapour",
+			"nl": "Singapore",
+			"de": "Singapur",
+			"it": "Singapore",
+			"ja": "\u30B7\u30F3\u30AC\u30DD\u30FC\u30EB",
+			"es": "Singapur",
+			"hr": "Singapur"
+		},
 		"population": 5399200,
 		"latlng": [1.36666666, 103.8],
 		"demonym": "Singaporean",
@@ -5923,12 +6054,14 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["Dutch", "English"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["nl", "en"],
+		"translations": {
+			"nl": "Sint Maarten"
+		},
 		"population": 37429,
 		"latlng": [18.033333, -63.05],
 		"demonym": "Dutch",
-		"borders": [ "MAF" ]
+		"borders": ["MAF"]
 	},
 	{
 		"name": "Slovakia",
@@ -5945,15 +6078,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Slovak"],
-		"languagesCodes": ["sk"],
+		"languageCodes": ["sk"],
 		"translations": {
 			"de": "Slowakei",
-			"en": "Slovakia",
 			"es": "Rep\u00fablica Eslovaca",
 			"fr": "Slovaquie",
 			"it": "Slovacchia",
 			"ja": "\u30b9\u30ed\u30d0\u30ad\u30a2",
-			"nl": "Slowakije"
+			"nl": "Slowakije",
+			"hr": "Slova\u010dka"
 		},
 		"population": 5412008,
 		"latlng": [48.66666666, 19.5],
@@ -5975,15 +6108,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Slovene"],
-		"languagesCodes": ["sl"],
+		"languageCodes": ["sl"],
 		"translations": {
 			"de": "Slowenien",
-			"en": "Slovenia",
 			"es": "Eslovenia",
 			"fr": "Slov\u00e9nie",
 			"it": "Slovenia",
 			"ja": "\u30b9\u30ed\u30d9\u30cb\u30a2",
-			"nl": "Sloveni\u00eb"
+			"nl": "Sloveni\u00eb",
+			"hr": "Slovenija"
 		},
 		"population": 2061405,
 		"latlng": [46.11666666, 14.81666666],
@@ -6005,15 +6138,15 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Salomonen",
-			"en": "Solomon Islands",
 			"es": "Islas Salom\u00f3n",
 			"fr": "\u00celes Salomon",
 			"it": "Isole Salomone",
 			"ja": "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6",
-			"nl": "Salomonseilanden"
+			"nl": "Salomonseilanden",
+			"hr": "Solomonski Otoci"
 		},
 		"population": 561000,
 		"latlng": [-8, 159],
@@ -6035,15 +6168,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Somali", "Arabic"],
-		"languagesCodes": ["so", "ar"],
+		"languageCodes": ["so", "ar"],
 		"translations": {
 			"de": "Somalia",
-			"en": "Somalia",
 			"es": "Somalia",
 			"fr": "Somalie",
 			"it": "Somalia",
 			"ja": "\u30bd\u30de\u30ea\u30a2",
-			"nl": "Somali\u00eb"
+			"nl": "Somali\u00eb",
+			"hr": "Somalija"
 		},
 		"population": 10496000,
 		"latlng": [10, 49],
@@ -6059,21 +6192,21 @@
 		"cca3": "ZAF",
 		"currency": ["ZAR"],
 		"callingCode": ["27"],
-		"capital": "Cape Town",
+		"capital": "Pretoria",
 		"altSpellings": ["ZA", "RSA", "Suid-Afrika", "Republic of South Africa"],
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"language": ["Afrikaans", "English", "Southern Ndebele", "Northern Sotho", "Southern Sotho", "Swazi", "Tsonga", "Tswana", "Venda", "Xhosa", "Zulu"],
-		"languagesCodes": ["af", "en", "nr", "st", "ss", "tn", "ts", "ve", "xh", "zu"],
+		"languageCodes": ["af", "en", "nr", "st", "ss", "tn", "ts", "ve", "xh", "zu"],
 		"translations": {
 			"de": "Republik S\u00fcdafrika",
-			"en": "South Africa",
 			"es": "Rep\u00fablica de Sud\u00e1frica",
 			"fr": "Afrique du Sud",
 			"it": "Sud Africa",
 			"ja": "\u5357\u30a2\u30d5\u30ea\u30ab",
-			"nl": "Zuid-Afrika"
+			"nl": "Zuid-Afrika",
+			"hr": "Ju\u017enoafri\u010dka Republika"
 		},
 		"population": 52981991,
 		"latlng": [-29, 24],
@@ -6095,17 +6228,17 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "S\u00fcdgeorgien und die S\u00fcdlichen Sandwichinseln",
-			"en": "South Georgia and the South Sandwich Islands",
 			"es": "Islas Georgias del Sur y Sandwich del Sur",
 			"fr": "G\u00e9orgie du Sud-et-les \u00celes Sandwich du Sud",
 			"it": "Georgia del Sud e Isole Sandwich Meridionali",
 			"ja": "\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u30fb\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u8af8\u5cf6",
-			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden"
+			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
+			"hr": "Ju\u017ena Georgija i oto\u010dje Ju\u017eni Sandwich"
 		},
-		"population": -1,
+		"population": 30,
 		"latlng": [-54.5, -37],
 		"demonym": "South Georgia and the South Sandwich Islander",
 		"borders": []
@@ -6125,15 +6258,15 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"language": ["Korean"],
-		"languagesCodes": ["ko"],
+		"languageCodes": ["ko"],
 		"translations": {
 			"de": "S\u00fcdkorea",
-			"en": "Korea (South)",
 			"es": "Corea del Sur",
 			"fr": "Cor\u00e9e du Sud",
 			"it": "Corea del Sud",
 			"ja": "\u5927\u97d3\u6c11\u56fd",
-			"nl": "Zuid-Korea"
+			"nl": "Zuid-Korea",
+			"hr": "Ju\u017ena Koreja"
 		},
 		"population": 50219669,
 		"latlng": [37, 127.5],
@@ -6155,8 +6288,16 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["English"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["en"],
+		"translations": {
+			"fr": "Soudan du Sud",
+			"nl": "Zuid-Soedan",
+			"de": "S\u00fcdsudan",
+			"it": "Sudan del sud",
+			"ja": "\u5357\u30B9\u30FC\u30C0\u30F3",
+			"es": "Sudán del Sur",
+			"hr": "Ju\u017eni Sudan"
+		},
 		"population": 11296000,
 		"latlng": [7, 30],
 		"demonym": "South Sudanese",
@@ -6177,15 +6318,15 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Spanien",
-			"en": "Spain",
 			"es": "Espa\u00f1a",
 			"fr": "Espagne",
 			"it": "Spagna",
 			"ja": "\u30b9\u30da\u30a4\u30f3",
-			"nl": "Spanje"
+			"nl": "Spanje",
+			"hr": "\u0160panjolska"
 		},
 		"population": 46704314,
 		"latlng": [40, -4],
@@ -6207,15 +6348,15 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"language": ["Sinhala", "Tamil"],
-		"languagesCodes": ["si", "ta"],
+		"languageCodes": ["si", "ta"],
 		"translations": {
 			"de": "Sri Lanka",
-			"en": "Sri Lanka",
 			"es": "Sri Lanka",
 			"fr": "Sri Lanka",
 			"it": "Sri Lanka",
 			"ja": "\u30b9\u30ea\u30e9\u30f3\u30ab",
-			"nl": "Sri Lanka"
+			"nl": "Sri Lanka",
+			"hr": "\u0160ri Lanka"
 		},
 		"population": 20277597,
 		"latlng": [7, 81],
@@ -6224,7 +6365,7 @@
 	},
 	{
 		"name": "Sudan",
-		"nativeName": "as-S\u016bd\u0101n",
+		"nativeName": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
 		"tld": [".sd"],
 		"cca2": "SD",
 		"ccn3": "729",
@@ -6237,15 +6378,15 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"language": ["Arabic", "English"],
-		"languagesCodes": ["ar", "en"],
+		"languageCodes": ["ar", "en"],
 		"translations": {
 			"de": "Sudan",
-			"en": "Sudan",
 			"es": "Sud\u00e1n",
 			"fr": "Soudan",
 			"it": "Sudan",
 			"ja": "\u30b9\u30fc\u30c0\u30f3",
-			"nl": "Soedan"
+			"nl": "Soedan",
+			"hr": "Sudan"
 		},
 		"population": 37964000,
 		"latlng": [15, 30],
@@ -6267,15 +6408,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Dutch"],
-		"languagesCodes": ["nl"],
+		"languageCodes": ["nl"],
 		"translations": {
 			"de": "Suriname",
-			"en": "Suriname",
 			"es": "Surinam",
 			"fr": "Surinam",
 			"it": "Suriname",
 			"ja": "\u30b9\u30ea\u30ca\u30e0",
-			"nl": "Suriname"
+			"nl": "Suriname",
+			"hr": "Surinam"
 		},
 		"population": 534189,
 		"latlng": [4, -56],
@@ -6297,15 +6438,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Norwegian"],
-		"languagesCodes": ["no"],
+		"languageCodes": ["no"],
 		"translations": {
 			"de": "Svalbard und Jan Mayen",
-			"en": "Svalbard and Jan Mayen",
 			"es": "Islas Svalbard y Jan Mayen",
 			"fr": "Svalbard et Jan Mayen",
 			"it": "Svalbard e Jan Mayen",
 			"ja": "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u304a\u3088\u3073\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6",
-			"nl": "Svalbard en Jan Mayen"
+			"nl": "Svalbard en Jan Mayen",
+			"hr": "Svalbard i Jan Mayen"
 		},
 		"population": 2655,
 		"latlng": [78, 20],
@@ -6327,15 +6468,15 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"language": ["Swazi", "English"],
-		"languagesCodes": ["en", "ss"],
+		"languageCodes": ["en", "ss"],
 		"translations": {
 			"de": "Swasiland",
-			"en": "Swaziland",
 			"es": "Suazilandia",
 			"fr": "Swaziland",
 			"it": "Swaziland",
 			"ja": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9",
-			"nl": "Swaziland"
+			"nl": "Swaziland",
+			"hr": "Svazi"
 		},
 		"population": 1250000,
 		"latlng": [-26.5, 31.5],
@@ -6357,15 +6498,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["Swedish"],
-		"languagesCodes": ["sv"],
+		"languageCodes": ["sv"],
 		"translations": {
 			"de": "Schweden",
-			"en": "Sweden",
 			"es": "Suecia",
 			"fr": "Su\u00e8de",
 			"it": "Svezia",
 			"ja": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3",
-			"nl": "Zweden"
+			"nl": "Zweden",
+			"hr": "\u0160vedska"
 		},
 		"population": 9625444,
 		"latlng": [62, 15],
@@ -6387,15 +6528,15 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"language": ["German", "French", "Italian", "Romansh"],
-		"languagesCodes": ["de", "fr", "it"],
+		"languageCodes": ["de", "fr", "it"],
 		"translations": {
 			"de": "Schweiz",
-			"en": "Switzerland",
 			"es": "Suiza",
 			"fr": "Suisse",
 			"it": "Svizzera",
 			"ja": "\u30b9\u30a4\u30b9",
-			"nl": "Zwitserland"
+			"nl": "Zwitserland",
+			"hr": "\u0160vicarska"
 		},
 		"population": 8085300,
 		"latlng": [47, 8],
@@ -6404,7 +6545,7 @@
 	},
 	{
 		"name": "Syria",
-		"nativeName": "S\u016briy\u0101",
+		"nativeName": "\u0633\u0648\u0631\u064a\u0627",
 		"tld": [".sy"],
 		"cca2": "SY",
 		"ccn3": "760",
@@ -6417,15 +6558,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Syrien",
-			"en": "Syria",
 			"es": "Siria",
 			"fr": "Syrie",
 			"it": "Siria",
 			"ja": "\u30b7\u30ea\u30a2\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd",
-			"nl": "Syri\u00eb"
+			"nl": "Syri\u00eb",
+			"hr": "Sirija"
 		},
 		"population": 21898000,
 		"latlng": [35, 38],
@@ -6447,15 +6588,15 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"language": ["Standard Chinese"],
-		"languagesCodes": ["zh"],
+		"languageCodes": ["zh"],
 		"translations": {
 			"de": "Taiwan",
-			"en": "Taiwan",
 			"es": "Taiw\u00e1n",
 			"fr": "Ta\u00efwan",
 			"it": "Taiwan",
 			"ja": "\u53f0\u6e7e\uff08\u53f0\u6e7e\u7701\/\u4e2d\u83ef\u6c11\u56fd\uff09",
-			"nl": "Taiwan"
+			"nl": "Taiwan",
+			"hr": "Tajvan"
 		},
 		"population": 23361147,
 		"latlng": [23.5, 121],
@@ -6477,15 +6618,15 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"language": ["Tajik"],
-		"languagesCodes": ["tg", "ru"],
+		"languageCodes": ["tg", "ru"],
 		"translations": {
 			"de": "Tadschikistan",
-			"en": "Tajikistan",
 			"es": "Tayikist\u00e1n",
 			"fr": "Tadjikistan",
 			"it": "Tagikistan",
 			"ja": "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3",
-			"nl": "Tadzjikistan"
+			"nl": "Tadzjikistan",
+			"hr": "Ta\u0111ikistan"
 		},
 		"population": 8000000,
 		"latlng": [39, 71],
@@ -6507,15 +6648,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Swahili", "English"],
-		"languagesCodes": ["sw", "en"],
+		"languageCodes": ["sw", "en"],
 		"translations": {
 			"de": "Tansania",
-			"en": "Tanzania",
 			"es": "Tanzania",
 			"fr": "Tanzanie",
 			"it": "Tanzania",
 			"ja": "\u30bf\u30f3\u30b6\u30cb\u30a2",
-			"nl": "Tanzania"
+			"nl": "Tanzania",
+			"hr": "Tanzanija"
 		},
 		"population": 44928923,
 		"latlng": [-6, 35],
@@ -6537,8 +6678,16 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Thai"],
-		"languagesCodes": [],
-		"translations": {},
+		"languageCodes": ["th"],
+		"translations": {
+			"fr": "Tha\u00eflande",
+			"nl": "Thailand",
+			"de": "Thailand",
+			"it": "Tailandia",
+			"ja": "\u30BF\u30A4",
+			"es": "Tailandia",
+			"hr": "Tajland"
+		},
 		"population": 65926261,
 		"latlng": [15, 100],
 		"demonym": "Thai",
@@ -6559,12 +6708,20 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Portuguese", "Tetum"],
-		"languagesCodes": [],
-		"translations": {},
-		"population": -1,
+		"languageCodes": ["pt"],
+		"translations": {
+			"fr": "Timor oriental",
+			"nl": "Oost-Timor",
+			"de": "Timor-Leste",
+			"it": "Timor Est",
+			"ja": "\u6771\u30C6\u30A3\u30E2\u30FC\u30EB",
+			"es": "Timor Oriental",
+			"hr": "Isto\u010dni Timor"
+		},
+		"population": 1172390,
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
-		"borders": [ "IDN" ]
+		"borders": ["IDN"]
 	},
 	{
 		"name": "Togo",
@@ -6581,15 +6738,15 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Togo",
-			"en": "Togo",
 			"es": "Togo",
 			"fr": "Togo",
 			"it": "Togo",
 			"ja": "\u30c8\u30fc\u30b4",
-			"nl": "Togo"
+			"nl": "Togo",
+			"hr": "Togo"
 		},
 		"population": 6191155,
 		"latlng": [8, 1.16666666],
@@ -6611,15 +6768,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["Tokelauan", "English", "Samoan"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Tokelau",
-			"en": "Tokelau",
 			"es": "Islas Tokelau",
 			"fr": "Tokelau",
 			"it": "Isole Tokelau",
 			"ja": "\u30c8\u30b1\u30e9\u30a6",
-			"nl": "Tokelau"
+			"nl": "Tokelau",
+			"hr": "Tokelau"
 		},
 		"population": 1411,
 		"latlng": [-9, -172],
@@ -6641,15 +6798,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["Tongan", "English"],
-		"languagesCodes": ["en", "to"],
+		"languageCodes": ["en", "to"],
 		"translations": {
 			"de": "Tonga",
-			"en": "Tonga",
 			"es": "Tonga",
 			"fr": "Tonga",
 			"it": "Tonga",
 			"ja": "\u30c8\u30f3\u30ac",
-			"nl": "Tonga"
+			"nl": "Tonga",
+			"hr": "Tonga"
 		},
 		"population": 103036,
 		"latlng": [-20, -175],
@@ -6671,15 +6828,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Trinidad und Tobago",
-			"en": "Trinidad and Tobago",
 			"es": "Trinidad y Tobago",
 			"fr": "Trinit\u00e9 et Tobago",
 			"it": "Trinidad e Tobago",
 			"ja": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4",
-			"nl": "Trinidad en Tobago"
+			"nl": "Trinidad en Tobago",
+			"hr": "Trinidad i Tobago"
 		},
 		"population": 1328019,
 		"latlng": [11, -61],
@@ -6688,7 +6845,7 @@
 	},
 	{
 		"name": "Tunisia",
-		"nativeName": "T\u016bnis",
+		"nativeName": "\u062a\u0648\u0646\u0633",
 		"tld": [".tn"],
 		"cca2": "TN",
 		"ccn3": "788",
@@ -6701,15 +6858,15 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar", "fr"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Tunesien",
-			"en": "Tunisia",
 			"es": "T\u00fanez",
 			"fr": "Tunisie",
 			"it": "Tunisia",
 			"ja": "\u30c1\u30e5\u30cb\u30b8\u30a2",
-			"nl": "Tunesi\u00eb"
+			"nl": "Tunesi\u00eb",
+			"hr": "Tunis"
 		},
 		"population": 10833431,
 		"latlng": [34, 9],
@@ -6731,15 +6888,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Turkish"],
-		"languagesCodes": ["tr"],
+		"languageCodes": ["tr"],
 		"translations": {
 			"de": "T\u00fcrkei",
-			"en": "Turkey",
 			"es": "Turqu\u00eda",
 			"fr": "Turquie",
 			"it": "Turchia",
 			"ja": "\u30c8\u30eb\u30b3",
-			"nl": "Turkije"
+			"nl": "Turkije",
+			"hr": "Turska"
 		},
 		"population": 75627384,
 		"latlng": [39, 35],
@@ -6761,15 +6918,15 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"language": ["Turkmen"],
-		"languagesCodes": ["tk", "ru"],
+		"languageCodes": ["tk", "ru"],
 		"translations": {
 			"de": "Turkmenistan",
-			"en": "Turkmenistan",
 			"es": "Turkmenist\u00e1n",
 			"fr": "Turkm\u00e9nistan",
 			"it": "Turkmenistan",
 			"ja": "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3",
-			"nl": "Turkmenistan"
+			"nl": "Turkmenistan",
+			"hr": "Turkmenistan"
 		},
 		"population": 5240000,
 		"latlng": [40, 60],
@@ -6791,15 +6948,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Turks- und Caicosinseln",
-			"en": "Turks and Caicos Islands",
 			"es": "Islas Turks y Caicos",
 			"fr": "\u00celes Turques-et-Ca\u00efques",
 			"it": "Isole Turks e Caicos",
 			"ja": "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6",
-			"nl": "Turks- en Caicoseilanden"
+			"nl": "Turks- en Caicoseilanden",
+			"hr": "Otoci Turks i Caicos"
 		},
 		"population": 31458,
 		"latlng": [21.75, -71.58333333],
@@ -6821,15 +6978,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["Tuvaluan", "English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Tuvalu",
-			"en": "Tuvalu",
 			"es": "Tuvalu",
 			"fr": "Tuvalu",
 			"it": "Tuvalu",
 			"ja": "\u30c4\u30d0\u30eb",
-			"nl": "Tuvalu"
+			"nl": "Tuvalu",
+			"hr": "Tuvalu"
 		},
 		"population": 11323,
 		"latlng": [-8, 178],
@@ -6851,15 +7008,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["English", "Swahili"],
-		"languagesCodes": ["en", "sw"],
+		"languageCodes": ["en", "sw"],
 		"translations": {
 			"de": "Uganda",
-			"en": "Uganda",
 			"es": "Uganda",
 			"fr": "Uganda",
 			"it": "Uganda",
 			"ja": "\u30a6\u30ac\u30f3\u30c0",
-			"nl": "Oeganda"
+			"nl": "Oeganda",
+			"hr": "Uganda"
 		},
 		"population": 35357000,
 		"latlng": [1, 32],
@@ -6881,15 +7038,15 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"language": ["Ukrainian"],
-		"languagesCodes": ["uk"],
+		"languageCodes": ["uk"],
 		"translations": {
 			"de": "Ukraine",
-			"en": "Ukraine",
 			"es": "Ucrania",
 			"fr": "Ukraine",
 			"it": "Ucraina",
 			"ja": "\u30a6\u30af\u30e9\u30a4\u30ca",
-			"nl": "Oekra\u00efne"
+			"nl": "Oekra\u00efne",
+			"hr": "Ukrajina"
 		},
 		"population": 45461627,
 		"latlng": [49, 32],
@@ -6898,7 +7055,7 @@
 	},
 	{
 		"name": "United Arab Emirates",
-		"nativeName": "Dawlat al-\u02beIm\u0101r\u0101t al-\u02bfArabiyyah al-Mutta\u1e25idah",
+		"nativeName": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
 		"tld": [".ae"],
 		"cca2": "AE",
 		"ccn3": "784",
@@ -6911,19 +7068,19 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Vereinigte Arabische Emirate",
-			"en": "United Arab Emirates",
 			"es": "Emiratos \u00c1rabes Unidos",
 			"fr": "\u00c9mirats arabes unis",
 			"it": "Emirati Arabi Uniti",
 			"ja": "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6",
-			"nl": "Verenigde Arabische Emiraten"
+			"nl": "Verenigde Arabische Emiraten",
+			"hr": "Ujedinjeni Arapski Emirati"
 		},
-		"population": 8264070,
+		"population": 5473972,
 		"latlng": [24, 54],
-		"demonym": "Emirian",
+		"demonym": "Emirati",
 		"borders": ["OMN", "SAU"]
 	},
 	{
@@ -6941,15 +7098,15 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Vereinigtes K\u00f6nigreich",
-			"en": "United Kingdom",
 			"es": "Reino Unido",
 			"fr": "Royaume-Uni",
 			"it": "Regno Unito",
 			"ja": "\u30a4\u30ae\u30ea\u30b9",
-			"nl": "Verenigd Koninkrijk"
+			"nl": "Verenigd Koninkrijk",
+			"hr": "Ujedinjeno Kraljevstvo"
 		},
 		"population": 63705000,
 		"latlng": [54, -2],
@@ -6971,15 +7128,15 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Vereinigte Staaten von Amerika",
-			"en": "United States of America",
 			"es": "Estados Unidos",
 			"fr": "\u00c9tats-Unis",
 			"it": "Stati Uniti D'America",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
-			"nl": "Verenigde Staten"
+			"nl": "Verenigde Staten",
+			"hr": "Sjedinjene Ameri\u010dke Dr\u017eave"
 		},
 		"population": 317101000,
 		"latlng": [38, -97],
@@ -7001,17 +7158,17 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
-			"en": "United States Minor Outlying Islands",
 			"es": "Islas Ultramarinas Menores de Estados Unidos",
 			"fr": "\u00celes mineures \u00e9loign\u00e9es des \u00c9tats-Unis",
 			"it": "Isole minori esterne degli Stati Uniti d'America",
 			"ja": "\u5408\u8846\u56fd\u9818\u6709\u5c0f\u96e2\u5cf6",
-			"nl": "Kleine afgelegen eilanden van de Verenigde Staten"
+			"nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+			"hr": "Mali udaljeni otoci SAD-a"
 		},
-		"population": -1,
+		"population": 300,
 		"latlng": [],
 		"demonym": "American",
 		"borders": []
@@ -7031,15 +7188,15 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Amerikanische Jungferninseln",
-			"en": "Virgin Islands of the United States",
 			"es": "Islas V\u00edrgenes de los Estados Unidos",
 			"fr": "\u00celes Vierges des \u00c9tats-Unis",
 			"it": "Isole Vergini americane",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
-			"nl": "Amerikaanse Maagdeneilanden"
+			"nl": "Amerikaanse Maagdeneilanden",
+			"hr": "Ameri\u010dki Djevi\u010danski Otoci"
 		},
 		"population": 106405,
 		"latlng": [18.35, -64.933333],
@@ -7061,15 +7218,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Uruguay",
-			"en": "Uruguay",
 			"es": "Uruguay",
 			"fr": "Uruguay",
 			"it": "Uruguay",
 			"ja": "\u30a6\u30eb\u30b0\u30a2\u30a4",
-			"nl": "Uruguay"
+			"nl": "Uruguay",
+			"hr": "Urugvaj"
 		},
 		"population": 3286314,
 		"latlng": [-33, -56],
@@ -7091,15 +7248,15 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"language": ["Uzbek"],
-		"languagesCodes": ["uz", "ru"],
+		"languageCodes": ["uz", "ru"],
 		"translations": {
 			"de": "Usbekistan",
-			"en": "Uzbekistan",
 			"es": "Uzbekist\u00e1n",
 			"fr": "Ouzb\u00e9kistan",
 			"it": "Uzbekistan",
 			"ja": "\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3",
-			"nl": "Oezbekistan"
+			"nl": "Oezbekistan",
+			"hr": "Uzbekistan"
 		},
 		"population": 30183400,
 		"latlng": [41, 64],
@@ -7121,15 +7278,15 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"language": ["Bislama", "French", "English"],
-		"languagesCodes": ["bi", "en", "fr"],
+		"languageCodes": ["bi", "en", "fr"],
 		"translations": {
 			"de": "Vanuatu",
-			"en": "Vanuatu",
 			"es": "Vanuatu",
 			"fr": "Vanuatu",
 			"it": "Vanuatu",
 			"ja": "\u30d0\u30cc\u30a2\u30c4",
-			"nl": "Vanuatu"
+			"nl": "Vanuatu",
+			"hr": "Vanuatu"
 		},
 		"population": 264652,
 		"latlng": [-16, 167],
@@ -7151,15 +7308,15 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"language": ["Spanish"],
-		"languagesCodes": ["es"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Venezuela",
-			"en": "Venezuela",
 			"es": "Venezuela",
 			"fr": "Venezuela",
 			"it": "Venezuela",
 			"ja": "\u30d9\u30cd\u30ba\u30a8\u30e9\u30fb\u30dc\u30ea\u30d0\u30eb\u5171\u548c\u56fd",
-			"nl": "Venezuela"
+			"nl": "Venezuela",
+			"hr": "Venezuela"
 		},
 		"population": 28946101,
 		"latlng": [8, -66],
@@ -7181,8 +7338,16 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Vietnamese"],
-		"languagesCodes": ["vi"],
-		"translations": {},
+		"languageCodes": ["vi"],
+		"translations": {
+			"fr": "Vi\u00eat Nam",
+			"nl": "Vietnam",
+			"de": "Vietnam",
+			"it": "Vietnam",
+			"ja": "\u30D9\u30C8\u30CA\u30E0",
+			"es": "Vietnam",
+			"hr": "Vijetnam"
+		},
 		"population": 90388000,
 		"latlng": [16.16666666, 107.83333333],
 		"demonym": "Vietnamese",
@@ -7203,15 +7368,15 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["French"],
-		"languagesCodes": ["fr"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Wallis und Futuna",
-			"en": "Wallis and Futuna",
 			"es": "Wallis y Futuna",
 			"fr": "Wallis-et-Futuna",
 			"it": "Wallis e Futuna",
 			"ja": "\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca",
-			"nl": "Wallis en Futuna"
+			"nl": "Wallis en Futuna",
+			"hr": "Wallis i Fortuna"
 		},
 		"population": 13135,
 		"latlng": [-13.3, -176.2],
@@ -7220,7 +7385,7 @@
 	},
 	{
 		"name": "Western Sahara",
-		"nativeName": "A\u1e63-\u1e62a\u1e25r\u0101\u2019 al-\u0120arbiyya",
+		"nativeName": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
 		"tld": [".eh"],
 		"cca2": "EH",
 		"ccn3": "732",
@@ -7232,16 +7397,16 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"language": ["Berber", "Hassaniya"],
-		"languagesCodes": ["es", "fr"],
+		"language": ["Berber", "Hassaniya", "Spanish"],
+		"languageCodes": ["es"],
 		"translations": {
 			"de": "Westsahara",
-			"en": "Western Sahara",
 			"es": "Sahara Occidental",
 			"fr": "Sahara Occidental",
 			"it": "Sahara Occidentale",
 			"ja": "\u897f\u30b5\u30cf\u30e9",
-			"nl": "Westelijke Sahara"
+			"nl": "Westelijke Sahara",
+			"hr": "Zapadna Sahara"
 		},
 		"population": 567000,
 		"latlng": [24.5, -13],
@@ -7250,7 +7415,7 @@
 	},
 	{
 		"name": "Yemen",
-		"nativeName": "al-Yaman",
+		"nativeName": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646",
 		"tld": [".ye"],
 		"cca2": "YE",
 		"ccn3": "887",
@@ -7263,15 +7428,15 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"language": ["Arabic"],
-		"languagesCodes": ["ar"],
+		"languageCodes": ["ar"],
 		"translations": {
 			"de": "Jemen",
-			"en": "Yemen",
 			"es": "Yemen",
 			"fr": "Y\u00e9men",
 			"it": "Yemen",
 			"ja": "\u30a4\u30a8\u30e1\u30f3",
-			"nl": "Jemen"
+			"nl": "Jemen",
+			"hr": "Jemen"
 		},
 		"population": 24527000,
 		"latlng": [15, 48],
@@ -7293,15 +7458,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["English"],
-		"languagesCodes": ["en"],
+		"languageCodes": ["en"],
 		"translations": {
 			"de": "Sambia",
-			"en": "Zambia",
 			"es": "Zambia",
 			"fr": "Zambie",
 			"it": "Zambia",
 			"ja": "\u30b6\u30f3\u30d3\u30a2",
-			"nl": "Zambia"
+			"nl": "Zambia",
+			"hr": "Zambija"
 		},
 		"population": 13092666,
 		"latlng": [-15, 30],
@@ -7323,15 +7488,15 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Chewa", "Chibarwe", "English", "Kalanga", "Koisan", "Nambya", "Ndau", "Ndebele", "Shangani", "Shona", "Zimbabwean sign language", "Sotho", "Tonga", "Tswana", "Venda", "Xhosa"],
-		"languagesCodes": ["en", "sn", "nd"],
+		"languageCodes": ["en", "sn", "nd"],
 		"translations": {
 			"de": "Simbabwe",
-			"en": "Zimbabwe",
 			"es": "Zimbabue",
 			"fr": "Zimbabwe",
 			"it": "Zimbabwe",
 			"ja": "\u30b8\u30f3\u30d0\u30d6\u30a8",
-			"nl": "Zimbabwe"
+			"nl": "Zimbabwe",
+			"hr": "Zimbabve"
 		},
 		"population": 12973808,
 		"latlng": [-20, 30],
