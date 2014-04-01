@@ -6317,8 +6317,8 @@
 		"relevance": "2",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"language": ["Spanish"],
-		"languageCodes": ["es"],
+		"language": ["Spanish", "Basque", "Catalan", "Galician", "Occitan"],
+		"languageCodes": ["es", "eu", "ca", "gl", "oc"],
 		"translations": {
 			"de": "Spanien",
 			"es": "Espa\u00f1a",
