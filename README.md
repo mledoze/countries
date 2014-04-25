@@ -121,6 +121,7 @@ To understand the usefulness of the relevance parameter, please read this:
  - add the type of the country (country, sovereign state, public body, territory, etc.)
  - add regions, provinces and cities
  - add missing translations
+ - add geoJSON outlines of the countries (https://github.com/mledoze/countries/issues/6#issuecomment-38167077)
 
 ## Sources
 http://www.currency-iso.org/ for currency codes.
