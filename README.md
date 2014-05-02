@@ -122,6 +122,7 @@ To understand the usefulness of the relevance parameter, please read this:
  - add regions, provinces and cities
  - add missing translations
  - add geoJSON outlines of the countries (https://github.com/mledoze/countries/issues/6#issuecomment-38167077)
+ - add the postal prefixes (idea from @dalu)
 
 ## Sources
 http://www.currency-iso.org/ for currency codes.
