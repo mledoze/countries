@@ -121,6 +121,7 @@ To understand the usefulness of the relevance parameter, please read this:
 ## Showcase
 Projects using this dataset:
 
+- [REST Countries](http://restcountries.eu/)
 - [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
 - [Country Prefix Codes For Go](https://github.com/relops/prefixes)
 - [Ask the NSA](http://askthensa.com/)
