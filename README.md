@@ -23,6 +23,9 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - land borders (`borders`)
  - land area in km² (`area`)
 
+#### Additional data
+The [data](data) folder contains additional data such as the countries flags in SVG format.
+
 ##Examples
 #####JSON
 ```json
