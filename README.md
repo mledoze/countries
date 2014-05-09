@@ -129,6 +129,9 @@ Projects using this dataset:
 - [Country Prefix Codes For Go](https://github.com/relops/prefixes)
 - [Ask the NSA](http://askthensa.com/)
 
+## How to contribute?
+Please refer to [CONTRIBUTING](CONTRIBUTING.md).
+
 ## To do
  - add the official name of the country in english and in its native language
  - add the type of the country (country, sovereign state, public body, territory, etc.)
