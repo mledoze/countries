@@ -24,7 +24,8 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - land area in km² (`area`)
 
 #### Additional data
-The [data](data) folder contains additional data such as the countries flags in SVG format.
+The [data](https://github.com/mledoze/countries/tree/master/data) folder contains additional data such as the countries
+GeoJSON outlines and flags in SVG format.
 
 ##Examples
 #####JSON
@@ -92,6 +93,9 @@ The [data](data) folder contains additional data such as the countries flags in 
 }
 ```
 
+#####GeoJSON outline
+See an example for [Germany](https://github.com/mledoze/countries/blob/master/data/de.geo.json).
+
 #####CSV
 ```csv
 "name";"nativeName";"tld";"cca2";"ccn3";"cca3";"currency";"callingCode";"capital";"altSpellings";"relevance";"region";"subregion";"language";"languageCodes";"translations";"latlng";"demonym";"borders"
@@ -130,7 +134,7 @@ Projects using this dataset:
 - [Ask the NSA](http://askthensa.com/)
 
 ## How to contribute?
-Please refer to [CONTRIBUTING](CONTRIBUTING.md).
+Please refer to [CONTRIBUTING](https://github.com/mledoze/countries/blob/master/CONTRIBUTING.md).
 
 ## To do
  - add the official name of the country in english and in its native language
@@ -144,6 +148,8 @@ Relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete
 
 Region and subregion are taken from https://github.com/hexorx/countries.
 
+GeoJSON outlines come from http://thematicmapping.org/downloads/world_borders.php.
+
 The rest comes from Wikipedia.
 
 ## Credits
@@ -156,4 +162,4 @@ Thanks to:
  - all the contributors: https://github.com/mledoze/countries/graphs/contributors
 
 ## License
-See [LICENSE](LICENSE).
+See [LICENSE](https://github.com/mledoze/countries/blob/master/LICENSE).
