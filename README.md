@@ -132,7 +132,6 @@ Projects using this dataset:
 ## To do
  - add the official name of the country in english and in its native language
  - add the type of the country (country, sovereign state, public body, territory, etc.)
- - add geoJSON outlines of the countries (https://github.com/mledoze/countries/issues/6#issuecomment-38167077)
  - add missing translations
 
 ## Sources
