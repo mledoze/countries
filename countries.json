@@ -5041,8 +5041,8 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"language": ["Norwegian"],
-		"languageCodes": ["no"],
+		"language": ["Norwegian", "Bokm\u00e5l", "Nynorsk"],
+		"languageCodes": ["no", "nb", "nn"],
 		"translations": {
 			"de": "Norwegen",
 			"es": "Noruega",
