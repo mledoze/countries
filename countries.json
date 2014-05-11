@@ -3050,7 +3050,7 @@
 	},
 	{
 		"name": "Hong Kong",
-		"nativeName": "Hong Kong",
+		"nativeName": "\u9999\u6e2f",
 		"tld": [".hk"],
 		"cca2": "HK",
 		"ccn3": "344",
@@ -3058,14 +3058,14 @@
 		"currency": ["HKD"],
 		"callingCode": ["852"],
 		"capital": "City of Victoria",
-		"altSpellings": ["HK", "\u9999\u6e2f"],
+		"altSpellings": ["HK"],
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"language": ["English", "Chinese"],
-		"languageCodes": ["en", "zh"],
+		"language": ["Chinese", "English"],
+		"languageCodes": ["zh", "en"],
 		"translations": {
-			"de": "Hong Kong",
+			"de": "Hongkong",
 			"es": "Hong Kong",
 			"fr": "Hong Kong",
 			"it": "Hong Kong",
@@ -3073,8 +3073,8 @@
 			"nl": "Hongkong",
 			"hr": "Hong Kong"
 		},
-		"latlng": [22.25, 114.16666666],
-		"demonym": "Chinese",
+		"latlng": [22.267, 114.188],
+		"demonym": "Hong Konger",
 		"borders": ["CHN"],
 		"area": 1104
 	},
