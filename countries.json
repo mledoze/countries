@@ -399,37 +399,6 @@
 		"area": 180
 	},
 	{
-		"name": "Ascension Island",
-		"nativeName": "Ascension Island",
-		"tld": [".ac"],
-		"cca2": "SH",
-		"ccn3": "654",
-		"cca3": "SHN",
-		"currency": ["SHP"],
-		"callingCode": ["247"],
-		"capital": "Georgetown",
-		"altSpellings": [""],
-		"relevance": "0",
-		"region": "Americas",
-		"subregion": "South America",
-		"language": ["English"],
-		"languageCodes": ["en"],
-		"translations": {
-			"cy": "Ynys y Dyrchafael",
-			"de": "Ascension",
-			"es": "Isla Ascensi\u00f3n",
-			"fr": "\u00cele de l'Ascension",
-			"it": "Isola di Ascensione",
-			"ja": "\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u5cf6",
-			"nl": "Ascension",
-			"hr": "Otok Ascension"
-		},
-		"latlng": [-7.933333, -14.366667],
-		"demonym": "Saints",
-		"borders": [],
-		"area": -1
-	},
-	{
 		"name": "Australia",
 		"nativeName": "Australia",
 		"tld": [".au"],
@@ -5653,8 +5622,8 @@
 		"area": 21
 	},
 	{
-		"name": "Saint Helena",
-		"nativeName": "Saint Helena",
+		"name": "Saint Helena, Ascension and Tristan da Cunha",
+		"nativeName": "Sainte-Hélène, Ascension and Tristan da Cunha",
 		"tld": [".sh"],
 		"cca2": "SH",
 		"ccn3": "654",
