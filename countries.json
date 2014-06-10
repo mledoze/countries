@@ -1004,7 +1004,7 @@
 		},
 		"latlng": [-10, -55],
 		"demonym": "Brazilian",
-		"borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
+		"borders": ["ARG", "BOL", "COL", "FRA", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
 		"area": 8515767
 	},
 	{
@@ -2355,7 +2355,7 @@
 		},
 		"latlng": [46, 2],
 		"demonym": "French",
-		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
+		"borders": ["AND", "BEL", "BRA", "DEU", "ITA", "LUX", "MCO", "ESP", "SUR", "CHE"],
 		"area": -1
 	},
 	{
