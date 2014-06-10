@@ -1004,7 +1004,7 @@
 		},
 		"latlng": [-10, -55],
 		"demonym": "Brazilian",
-		"borders": ["ARG", "BOL", "COL", "FRA", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
+		"borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
 		"area": 8515767
 	},
 	{
@@ -2355,7 +2355,7 @@
 		},
 		"latlng": [46, 2],
 		"demonym": "French",
-		"borders": ["AND", "BEL", "BRA", "DEU", "ITA", "LUX", "MCO", "ESP", "SUR", "CHE"],
+		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
 		"area": -1
 	},
 	{
@@ -5769,7 +5769,7 @@
 		},
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
-		"borders": ["SXM", "NLD"],
+		"borders": ["SXM"],
 		"area": -1
 	},
 	{
@@ -6483,7 +6483,7 @@
 		},
 		"latlng": [4, -56],
 		"demonym": "Surinamer",
-		"borders": ["BRA", "GUF", "FRA", "GUY"],
+		"borders": ["BRA", "GUF", "GUY"],
 		"area": 163820
 	},
 	{
