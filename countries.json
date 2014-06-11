@@ -5769,7 +5769,7 @@
 		},
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
-		"borders": ["SXM", "NLD"],
+		"borders": ["SXM"],
 		"area": -1
 	},
 	{
@@ -6483,7 +6483,7 @@
 		},
 		"latlng": [4, -56],
 		"demonym": "Surinamer",
-		"borders": ["BRA", "GUF", "FRA", "GUY"],
+		"borders": ["BRA", "GUF", "GUY"],
 		"area": 163820
 	},
 	{
