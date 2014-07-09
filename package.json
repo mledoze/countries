@@ -1,0 +1,38 @@
+{
+  "name": "world-countries",
+  "description": "List of world countries in JSON, CSV and XML",
+  "version": "v1.4.0",
+  "main": "index.js",
+  "keywords": [
+    "countries",
+    "world",
+    "json",
+    "csv",
+    "xml"
+  ],
+  "maintainers": [
+    {
+      "name": "Mohammed Le Doze",
+      "email": "mohammed.ledoze@gmail.com"
+    }
+  ],
+  "demos": [
+    "https://mledoze.github.io/countries/#examples"
+  ],
+  "bugs": {
+    "web": "https://github.com/mledoze/countries/issues"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/mledoze"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "Open Database License",
+      "url": "http://opendatacommons.org/licenses/odbl/1.0/"
+    }
+  ],
+  "homepage": "http://mledoze.github.io/countries/"
+}
