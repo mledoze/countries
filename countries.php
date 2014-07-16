@@ -4,6 +4,7 @@
  * Tools to convert countries in different formats
  * @author mledoze
  * @see https://github.com/mledoze/countries
+ * @require PHP 5.4+
  */
 
 /**
@@ -121,6 +122,19 @@ class JsonConverter extends AbstractConverter {
 }
 
 /**
+ * Class JsonConverterUnicode
+ */
+class JsonConverterUnicode extends JsonConverter {
+
+	/**
+	 * @return string minified JSON with unescaped characters
+	 */
+	public function convert() {
+		return preg_replace("@},{@", "}," . PHP_EOL . "{", json_encode($this->aCountries, JSON_UNESCAPED_UNICODE) . PHP_EOL);
+	}
+}
+
+/**
  * Class CsvConverter
  */
 class CsvConverter extends AbstractConverter {
@@ -223,7 +237,8 @@ class XmlConverter extends AbstractConverter {
 	}
 }
 
-$aCountriesSrc = json_decode(file_get_contents(__DIR__ . DIRECTORY_SEPARATOR . 'countries.json'), true);
+$aCountriesSrc = json_decode(file_get_contents('countries.json'), true);
 (new JsonConverter($aCountriesSrc))->save('countries.json');
+(new JsonConverterUnicode($aCountriesSrc))->save('countries-unescaped.json');
 (new CsvConverter($aCountriesSrc))->save('countries.csv');
 (new XmlConverter($aCountriesSrc))->save('countries.xml');
