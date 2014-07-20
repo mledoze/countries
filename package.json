@@ -22,12 +22,10 @@
   "bugs": {
     "web": "https://github.com/mledoze/countries/issues"
   },
-  "repository": [
-    {
-      "type": "git",
-      "url": "https://github.com/mledoze/countries.git"
-    }
-  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mledoze/countries.git"
+  },
   "licenses": [
     {
       "name": "Open Database License",
