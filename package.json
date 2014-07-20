@@ -22,10 +22,10 @@
   "bugs": {
     "web": "https://github.com/mledoze/countries/issues"
   },
-  "repositories": [
+  "repository": [
     {
       "type": "git",
-      "url": "https://github.com/mledoze"
+      "url": "https://github.com/mledoze/countries.git"
     }
   ],
   "licenses": [
