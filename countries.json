@@ -23,7 +23,8 @@
 			"it": "Afghanistan",
 			"ja": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3",
 			"nl": "Afghanistan",
-			"hr": "Afganistan"
+			"hr": "Afganistan",
+			"ru": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
 		},
 		"latlng": [33, 65],
 		"demonym": "Afghan",
@@ -53,7 +54,8 @@
 			"it": "Isole Aland",
 			"ja": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
 			"nl": "\u00c5landeilanden",
-			"hr": "\u00c5landski otoci"
+			"hr": "\u00c5landski otoci",
+			"ru": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [60.116667, 19.9],
 		"demonym": "\u00c5landish",
@@ -84,7 +86,8 @@
 			"it": "Albania",
 			"ja": "\u30a2\u30eb\u30d0\u30cb\u30a2",
 			"nl": "Albani\u00eb",
-			"hr": "Albanija"
+			"hr": "Albanija",
+			"ru": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [41, 20],
 		"demonym": "Albanian",
@@ -115,7 +118,8 @@
 			"it": "Algeria",
 			"ja": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2",
 			"nl": "Algerije",
-			"hr": "Al\u017eir"
+			"hr": "Al\u017eir",
+			"ru": "\u0410\u043b\u0436\u0438\u0440"
 		},
 		"latlng": [28, 3],
 		"demonym": "Algerian",
@@ -145,7 +149,8 @@
 			"it": "Samoa Americane",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2",
 			"nl": "Amerikaans Samoa",
-			"hr": "Ameri\u010dka Samoa"
+			"hr": "Ameri\u010dka Samoa",
+			"ru": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435\x20\u0421\u0430\u043c\u043e\u0430"
 		},
 		"latlng": [-14.33333333, -170],
 		"demonym": "American Samoan",
@@ -176,7 +181,8 @@
 			"it": "Andorra",
 			"ja": "\u30a2\u30f3\u30c9\u30e9",
 			"nl": "Andorra",
-			"hr": "Andora"
+			"hr": "Andora",
+			"ru": "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"
 		},
 		"latlng": [42.5, 1.5],
 		"demonym": "Andorran",
@@ -207,7 +213,8 @@
 			"it": "Angola",
 			"ja": "\u30a2\u30f3\u30b4\u30e9",
 			"nl": "Angola",
-			"hr": "Angola"
+			"hr": "Angola",
+			"ru": "\u0410\u043d\u0433\u043e\u043b\u0430"
 		},
 		"latlng": [-12.5, 18.5],
 		"demonym": "Angolan",
@@ -237,7 +244,8 @@
 			"it": "Anguilla",
 			"ja": "\u30a2\u30f3\u30ae\u30e9",
 			"nl": "Anguilla",
-			"hr": "Angvila"
+			"hr": "Angvila",
+			"ru": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f"
 		},
 		"latlng": [18.25, -63.16666666],
 		"demonym": "Anguillian",
@@ -268,7 +276,8 @@
 			"it": "Antartide",
 			"ja": "\u5357\u6975",
 			"nl": "Antarctica",
-			"hr": "Antarktika"
+			"hr": "Antarktika",
+			"ru": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430"
 		},
 		"latlng": [-90, 0],
 		"demonym": "",
@@ -299,7 +308,8 @@
 			"it": "Antigua e Barbuda",
 			"ja": "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0",
 			"nl": "Antigua en Barbuda",
-			"hr": "Antigva i Barbuda"
+			"hr": "Antigva i Barbuda",
+			"ru": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430\x20\u0438\x20\u0411\u0430\u0440\u0431\u0443\u0434\u0430"
 		},
 		"latlng": [17.05, -61.8],
 		"demonym": "Antiguan, Barbudan",
@@ -330,7 +340,8 @@
 			"it": "Argentina",
 			"ja": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3",
 			"nl": "Argentini\u00eb",
-			"hr": "Argentina"
+			"hr": "Argentina",
+			"ru": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
 		},
 		"latlng": [-34, -64],
 		"demonym": "Argentinean",
@@ -361,7 +372,8 @@
 			"it": "Armenia",
 			"ja": "\u30a2\u30eb\u30e1\u30cb\u30a2",
 			"nl": "Armeni\u00eb",
-			"hr": "Armenija"
+			"hr": "Armenija",
+			"ru": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
 		},
 		"latlng": [40, 45],
 		"demonym": "Armenian",
@@ -391,7 +403,8 @@
 			"it": "Aruba",
 			"ja": "\u30a2\u30eb\u30d0",
 			"nl": "Aruba",
-			"hr": "Aruba"
+			"hr": "Aruba",
+			"ru": "\u0410\u0440\u0443\u0431\u0430"
 		},
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
@@ -422,7 +435,8 @@
 			"it": "Isola di Ascensione",
 			"ja": "\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u5cf6",
 			"nl": "Ascension",
-			"hr": "Otok Ascension"
+			"hr": "Otok Ascension",
+			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432\x20\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f"
 		},
 		"latlng": [-7.933333, -14.366667],
 		"demonym": "Saints",
@@ -453,7 +467,8 @@
 			"it": "Australia",
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2",
 			"nl": "Australi\u00eb",
-			"hr": "Australija"
+			"hr": "Australija",
+			"ru": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"
 		},
 		"latlng": [-27, 133],
 		"demonym": "Australian",
@@ -484,7 +499,8 @@
 			"it": "Austria",
 			"ja": "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2",
 			"nl": "Oostenrijk",
-			"hr": "Austrija"
+			"hr": "Austrija",
+			"ru": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"
 		},
 		"latlng": [47.33333333, 13.33333333],
 		"demonym": "Austrian",
@@ -515,7 +531,8 @@
 			"it": "Azerbaijan",
 			"ja": "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3",
 			"nl": "Azerbeidzjan",
-			"hr": "Azerbajd\u017ean"
+			"hr": "Azerbajd\u017ean",
+			"ru": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"
 		},
 		"latlng": [40.5, 47.5],
 		"demonym": "Azerbaijani",
@@ -546,7 +563,8 @@
 			"it": "Bahamas",
 			"ja": "\u30d0\u30cf\u30de",
 			"nl": "Bahama\u2019s",
-			"hr": "Bahami"
+			"hr": "Bahami",
+			"ru": "\u0411\u0430\u0433\u0430\u043c\u0441\u043a\u0438\u0435\x20\u041e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [24.25, -76],
 		"demonym": "Bahamian",
@@ -577,7 +595,8 @@
 			"it": "Bahrein",
 			"ja": "\u30d0\u30fc\u30ec\u30fc\u30f3",
 			"nl": "Bahrein",
-			"hr": "Bahrein"
+			"hr": "Bahrein",
+			"ru": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d"
 		},
 		"latlng": [26, 50.55],
 		"demonym": "Bahraini",
@@ -608,7 +627,8 @@
 			"it": "Bangladesh",
 			"ja": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5",
 			"nl": "Bangladesh",
-			"hr": "Banglade\u0161"
+			"hr": "Banglade\u0161",
+			"ru": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"
 		},
 		"latlng": [24, 90],
 		"demonym": "Bangladeshi",
@@ -639,7 +659,8 @@
 			"it": "Barbados",
 			"ja": "\u30d0\u30eb\u30d0\u30c9\u30b9",
 			"nl": "Barbados",
-			"hr": "Barbados"
+			"hr": "Barbados",
+			"ru": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
 		},
 		"latlng": [13.16666666, -59.53333333],
 		"demonym": "Barbadian",
@@ -670,7 +691,8 @@
 			"it": "Bielorussia",
 			"ja": "\u30d9\u30e9\u30eb\u30fc\u30b7",
 			"nl": "Wit-Rusland",
-			"hr": "Bjelorusija"
+			"hr": "Bjelorusija",
+			"ru": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f"
 		},
 		"latlng": [53, 28],
 		"demonym": "Belarusian",
@@ -701,7 +723,8 @@
 			"it": "Belgio",
 			"ja": "\u30d9\u30eb\u30ae\u30fc",
 			"nl": "Belgi\u00eb",
-			"hr": "Belgija"
+			"hr": "Belgija",
+			"ru": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"
 		},
 		"latlng": [50.83333333, 4],
 		"demonym": "Belgian",
@@ -732,7 +755,8 @@
 			"it": "Belize",
 			"ja": "\u30d9\u30ea\u30fc\u30ba",
 			"nl": "Belize",
-			"hr": "Belize"
+			"hr": "Belize",
+			"ru": "\u0411\u0435\u043b\u0438\u0437"
 		},
 		"latlng": [17.25, -88.75],
 		"demonym": "Belizean",
@@ -763,7 +787,8 @@
 			"it": "Benin",
 			"ja": "\u30d9\u30ca\u30f3",
 			"nl": "Benin",
-			"hr": "Benin"
+			"hr": "Benin",
+			"ru": "\u0411\u0435\u043d\u0438\u043d"
 		},
 		"latlng": [9.5, 2.25],
 		"demonym": "Beninese",
@@ -794,7 +819,8 @@
 			"it": "Bermuda",
 			"ja": "\u30d0\u30df\u30e5\u30fc\u30c0",
 			"nl": "Bermuda",
-			"hr": "Bermudi"
+			"hr": "Bermudi",
+			"ru": "\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u043a\u0438\u0435\x20\u041e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [32.33333333, -64.75],
 		"demonym": "Bermudian",
@@ -825,7 +851,8 @@
 			"it": "Bhutan",
 			"ja": "\u30d6\u30fc\u30bf\u30f3",
 			"nl": "Bhutan",
-			"hr": "Butan"
+			"hr": "Butan",
+			"ru": "\u0411\u0443\u0442\u0430\u043d"
 		},
 		"latlng": [27.5, 90.5],
 		"demonym": "Bhutanese",
@@ -856,7 +883,8 @@
 			"it": "Bolivia",
 			"ja": "\u30dc\u30ea\u30d3\u30a2\u591a\u6c11\u65cf\u56fd",
 			"nl": "Bolivia",
-			"hr": "Bolivija"
+			"hr": "Bolivija",
+			"ru": "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"
 		},
 		"latlng": [-17, -65],
 		"demonym": "Bolivian",
@@ -879,7 +907,9 @@
 		"subregion": "Caribbean",
 		"language": ["Dutch"],
 		"languageCodes": ["nl"],
-		"translations": {},
+		"translations": {
+			"ru": "\u0411\u043e\u043d\u044d\u0439\u0440"
+		},
 		"latlng": [12.15, -68.266667],
 		"demonym": "Dutch",
 		"borders": [],
@@ -909,7 +939,8 @@
 			"it": "Bosnia ed Erzegovina",
 			"ja": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
 			"nl": "Bosni\u00eb en Herzegovina",
-			"hr": "Bosna i Hercegovina"
+			"hr": "Bosna i Hercegovina",
+			"ru": "\u0411\u043e\u0441\u043d\u0438\u044f\x20\u0438\x20\u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
 		},
 		"latlng": [44, 18],
 		"demonym": "Bosnian, Herzegovinian",
@@ -939,7 +970,8 @@
 			"it": "Botswana",
 			"ja": "\u30dc\u30c4\u30ef\u30ca",
 			"nl": "Botswana",
-			"hr": "Bocvana"
+			"hr": "Bocvana",
+			"ru": "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
 		},
 		"latlng": [-22, 24],
 		"demonym": "Motswana",
@@ -969,7 +1001,8 @@
 			"it": "Isola Bouvet",
 			"ja": "\u30d6\u30fc\u30d9\u5cf6",
 			"nl": "Bouveteiland",
-			"hr": "Otok Bouvet"
+			"hr": "Otok Bouvet",
+			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432\x20\u0411\u0443\u0432\u0435"
 		},
 		"latlng": [-54.43333333, 3.4],
 		"demonym": "",
@@ -1000,7 +1033,8 @@
 			"it": "Brasile",
 			"ja": "\u30d6\u30e9\u30b8\u30eb",
 			"nl": "Brazili\u00eb",
-			"hr": "Brazil"
+			"hr": "Brazil",
+			"ru": "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"
 		},
 		"latlng": [-10, -55],
 		"demonym": "Brazilian",
@@ -1031,7 +1065,8 @@
 			"it": "Territorio britannico dell'oceano indiano",
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df",
 			"nl": "Britse Gebieden in de Indische Oceaan",
-			"hr": "Britanski Indijskooceanski teritorij"
+			"hr": "Britanski Indijskooceanski teritorij",
+			"ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f\x20\u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f\x20\u0432\x20\u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u043c\x20\u043e\u043a\u0435\u0430\u043d\u0435"
 		},
 		"latlng": [-6, 71.5],
 		"demonym": "Indian",
@@ -1061,7 +1096,8 @@
 			"it": "Isole Vergini Britanniche",
 			"ja": "\u30a4\u30ae\u30ea\u30b9\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
 			"nl": "Britse Maagdeneilanden",
-			"hr": "Britanski Djevi\u010danski Otoci"
+			"hr": "Britanski Djevi\u010danski Otoci",
+			"ru": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438\u0435\x20\u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [18.431383, -64.62305],
 		"demonym": "Virgin Islander",
@@ -1092,7 +1128,8 @@
 			"it": "Brunei",
 			"ja": "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30b5\u30e9\u30fc\u30e0",
 			"es": "Brunei",
-			"hr": "Brunej"
+			"hr": "Brunej",
+			"ru": "\u0411\u0440\u0443\u043d\u0435\u0439"
 		},
 		"latlng": [4.5, 114.66666666],
 		"demonym": "Bruneian",
@@ -1123,7 +1160,8 @@
 			"it": "Bulgaria",
 			"ja": "\u30d6\u30eb\u30ac\u30ea\u30a2",
 			"nl": "Bulgarije",
-			"hr": "Bugarska"
+			"hr": "Bugarska",
+			"ru": "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f"
 		},
 		"latlng": [43, 25],
 		"demonym": "Bulgarian",
@@ -1154,7 +1192,8 @@
 			"it": "Burkina Faso",
 			"ja": "\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd",
 			"nl": "Burkina Faso",
-			"hr": "Burkina Faso"
+			"hr": "Burkina Faso",
+			"ru": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430\x2d\u0424\u0430\u0441\u043e"
 		},
 		"latlng": [13, -2],
 		"demonym": "Burkinabe",
@@ -1185,7 +1224,8 @@
 			"it": "Burundi",
 			"ja": "\u30d6\u30eb\u30f3\u30b8",
 			"nl": "Burundi",
-			"hr": "Burundi"
+			"hr": "Burundi",
+			"ru": "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"
 		},
 		"latlng": [-3.5, 30],
 		"demonym": "Burundian",
@@ -1216,7 +1256,8 @@
 			"it": "Cambogia",
 			"ja": "\u30ab\u30f3\u30dc\u30b8\u30a2",
 			"es": "Camboya",
-			"hr": "Kambod\u017ea"
+			"hr": "Kambod\u017ea",
+			"ru": "\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430"
 		},
 		"latlng": [13, 105],
 		"demonym": "Cambodian",
@@ -1247,7 +1288,8 @@
 			"it": "Camerun",
 			"ja": "\u30ab\u30e1\u30eb\u30fc\u30f3",
 			"nl": "Kameroen",
-			"hr": "Kamerun"
+			"hr": "Kamerun",
+			"ru": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
 		},
 		"latlng": [6, 12],
 		"demonym": "Cameroonian",
@@ -1278,7 +1320,8 @@
 			"it": "Canada",
 			"ja": "\u30ab\u30ca\u30c0",
 			"nl": "Canada",
-			"hr": "Kanada"
+			"hr": "Kanada",
+			"ru": "\u041a\u0430\u043d\u0430\u0434\u0430"
 		},
 		"latlng": [60, -95],
 		"demonym": "Canadian",
@@ -1309,7 +1352,8 @@
 			"it": "Capo Verde",
 			"ja": "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7",
 			"nl": "Kaapverdi\u00eb",
-			"hr": "Zelenortska Republika"
+			"hr": "Zelenortska Republika",
+			"ru": "\u041a\u0430\u0431\u043e\x2d\u0412\u0435\u0440\u0434\u0435"
 		},
 		"latlng": [16, -24],
 		"demonym": "Cape Verdian",
@@ -1340,7 +1384,8 @@
 			"it": "Isole Cayman",
 			"ja": "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6",
 			"nl": "Caymaneilanden",
-			"hr": "Kajmanski otoci"
+			"hr": "Kajmanski otoci",
+			"ru": "\u041a\u0430\u0439\u043c\u0430\u043d\u043e\u0432\u044b\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [19.5, -80.5],
 		"demonym": "Caymanian",
@@ -1371,7 +1416,8 @@
 			"it": "Repubblica Centrafricana",
 			"ja": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
 			"nl": "Centraal-Afrikaanse Republiek",
-			"hr": "Srednjoafri\u010dka Republika"
+			"hr": "Srednjoafri\u010dka Republika",
+			"ru": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f\x20\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
 		},
 		"latlng": [7, 21],
 		"demonym": "Central African",
@@ -1402,7 +1448,8 @@
 			"it": "Ciad",
 			"ja": "\u30c1\u30e3\u30c9",
 			"nl": "Tsjaad",
-			"hr": "\u010cad"
+			"hr": "\u010cad",
+			"ru": "\u0427\u0430\u0434"
 		},
 		"latlng": [15, 19],
 		"demonym": "Chadian",
@@ -1433,7 +1480,8 @@
 			"it": "Cile",
 			"ja": "\u30c1\u30ea",
 			"nl": "Chili",
-			"hr": "\u010cile"
+			"hr": "\u010cile",
+			"ru": "\u0427\u0438\u043b\u0438"
 		},
 		"latlng": [-30, -71],
 		"demonym": "Chilean",
@@ -1464,7 +1512,8 @@
 			"it": "Cina",
 			"ja": "\u4e2d\u56fd",
 			"nl": "China",
-			"hr": "Kina"
+			"hr": "Kina",
+			"ru": "\u041a\u0438\u0442\u0430\u0439"
 		},
 		"latlng": [35, 105],
 		"demonym": "Chinese",
@@ -1495,7 +1544,8 @@
 			"it": "Isola di Natale",
 			"ja": "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6",
 			"es": "Isla de Navidad",
-			"hr": "Bo\u017ei\u0107ni otok"
+			"hr": "Bo\u017ei\u0107ni otok",
+			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432\x20\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430"
 		},
 		"latlng": [-10.5, 105.66666666],
 		"demonym": "Christmas Island",
@@ -1526,7 +1576,8 @@
 			"it": "Isole Cocos e Keeling",
 			"ja": "\u30b3\u30b3\u30b9\uff08\u30ad\u30fc\u30ea\u30f3\u30b0\uff09\u8af8\u5cf6",
 			"es": "Islas Cocos o Islas Keeling",
-			"hr": "Kokosovi Otoci"
+			"hr": "Kokosovi Otoci",
+			"ru": "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [-12.5, 96.83333333],
 		"demonym": "Cocos Islander",
@@ -1557,7 +1608,8 @@
 			"it": "Colombia",
 			"ja": "\u30b3\u30ed\u30f3\u30d3\u30a2",
 			"nl": "Colombia",
-			"hr": "Kolumbija"
+			"hr": "Kolumbija",
+			"ru": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"
 		},
 		"latlng": [4, -72],
 		"demonym": "Colombian",
@@ -1588,7 +1640,8 @@
 			"it": "Comore",
 			"ja": "\u30b3\u30e2\u30ed",
 			"nl": "Comoren",
-			"hr": "Komori"
+			"hr": "Komori",
+			"ru": "\u041a\u043e\u043c\u043e\u0440\u044b"
 		},
 		"latlng": [-12.16666666, 44.25],
 		"demonym": "Comoran",
@@ -1619,7 +1672,8 @@
 			"it": "Congo",
 			"ja": "\u30b3\u30f3\u30b4\u5171\u548c\u56fd",
 			"nl": "Congo [Republiek]",
-			"hr": "Kongo"
+			"hr": "Kongo",
+			"ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\x20\u041a\u043e\u043d\u0433\u043e"
 		},
 		"latlng": [-1, 15],
 		"demonym": "Congolese",
@@ -1650,7 +1704,8 @@
 			"it": "Congo (Rep. Dem.)",
 			"ja": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd",
 			"nl": "Congo [DRC]",
-			"hr": "Kongo, Demokratska Republika"
+			"hr": "Kongo, Demokratska Republika",
+			"ru": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f\x20\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\x20\u041a\u043e\u043d\u0433\u043e"
 		},
 		"latlng": [0, 25],
 		"demonym": "Congolese",
@@ -1681,7 +1736,8 @@
 			"it": "Isole Cook",
 			"ja": "\u30af\u30c3\u30af\u8af8\u5cf6",
 			"nl": "Cookeilanden",
-			"hr": "Cookovo Oto\u010dje"
+			"hr": "Cookovo Oto\u010dje",
+			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430\x20\u041a\u0443\u043a\u0430"
 		},
 		"latlng": [-21.23333333, -159.76666666],
 		"demonym": "Cook Islander",
@@ -1712,7 +1768,8 @@
 			"it": "Costa Rica",
 			"ja": "\u30b3\u30b9\u30bf\u30ea\u30ab",
 			"nl": "Costa Rica",
-			"hr": "Kostarika"
+			"hr": "Kostarika",
+			"ru": "\u041a\u043e\u0441\u0442\u0430\x2d\u0420\u0438\u043a\u0430"
 		},
 		"latlng": [10, -84],
 		"demonym": "Costa Rican",
@@ -1743,7 +1800,8 @@
 			"it": "Croazia",
 			"ja": "\u30af\u30ed\u30a2\u30c1\u30a2",
 			"nl": "Kroati\u00eb",
-			"hr": "Hrvatska"
+			"hr": "Hrvatska",
+			"ru": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f"
 		},
 		"latlng": [45.16666666, 15.5],
 		"demonym": "Croatian",
@@ -1774,7 +1832,8 @@
 			"it": "Cuba",
 			"ja": "\u30ad\u30e5\u30fc\u30d0",
 			"nl": "Cuba",
-			"hr": "Kuba"
+			"hr": "Kuba",
+			"ru": "\u041a\u0443\u0431\u0430"
 		},
 		"latlng": [21.5, -80],
 		"demonym": "Cuban",
@@ -1798,7 +1857,8 @@
 		"language": ["Dutch", "Papiamentu", "English"],
 		"languageCodes": ["nl", "pa", "en"],
 		"translations": {
-			"nl": "Cura\u00e7ao"
+			"nl": "Cura\u00e7ao",
+			"ru": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"
 		},
 		"latlng": [12.116667, -68.933333],
 		"demonym": "Dutch",
@@ -1829,7 +1889,8 @@
 			"it": "Cipro",
 			"ja": "\u30ad\u30d7\u30ed\u30b9",
 			"nl": "Cyprus",
-			"hr": "Cipar"
+			"hr": "Cipar",
+			"ru": "\u041a\u0438\u043f\u0440"
 		},
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
@@ -1860,7 +1921,8 @@
 			"it": "Repubblica Ceca",
 			"ja": "\u30c1\u30a7\u30b3",
 			"nl": "Tsjechi\u00eb",
-			"hr": "\u010ce\u0161ka"
+			"hr": "\u010ce\u0161ka",
+			"ru": "\u0427\u0435\u0445\u0438\u044f"
 		},
 		"latlng": [49.75, 15.5],
 		"demonym": "Czech",
@@ -1891,7 +1953,8 @@
 			"it": "Danimarca",
 			"ja": "\u30c7\u30f3\u30de\u30fc\u30af",
 			"nl": "Denemarken",
-			"hr": "Danska"
+			"hr": "Danska",
+			"ru": "\u0414\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [56, 10],
 		"demonym": "Danish",
@@ -1922,7 +1985,8 @@
 			"it": "Gibuti",
 			"ja": "\u30b8\u30d6\u30c1",
 			"nl": "Djibouti",
-			"hr": "D\u017eibuti"
+			"hr": "D\u017eibuti",
+			"ru": "\u0414\u0436\u0438\u0431\u0443\u0442\u0438"
 		},
 		"latlng": [11.5, 43],
 		"demonym": "Djibouti",
@@ -1953,7 +2017,8 @@
 			"it": "Dominica",
 			"ja": "\u30c9\u30df\u30cb\u30ab\u56fd",
 			"nl": "Dominica",
-			"hr": "Dominika"
+			"hr": "Dominika",
+			"ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"
 		},
 		"latlng": [15.41666666, -61.33333333],
 		"demonym": "Dominican",
@@ -1984,7 +2049,8 @@
 			"it": "Repubblica Dominicana",
 			"ja": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd",
 			"nl": "Dominicaanse Republiek",
-			"hr": "Dominikanska Republika"
+			"hr": "Dominikanska Republika",
+			"ru": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f\x20\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
 		},
 		"latlng": [19, -70.66666666],
 		"demonym": "Dominican",
@@ -2015,7 +2081,8 @@
 			"it": "Ecuador",
 			"ja": "\u30a8\u30af\u30a2\u30c9\u30eb",
 			"nl": "Ecuador",
-			"hr": "Ekvador"
+			"hr": "Ekvador",
+			"ru": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
 		},
 		"latlng": [-2, -77.5],
 		"demonym": "Ecuadorean",
@@ -2046,7 +2113,8 @@
 			"it": "Egitto",
 			"ja": "\u30a8\u30b8\u30d7\u30c8",
 			"nl": "Egypte",
-			"hr": "Egipat"
+			"hr": "Egipat",
+			"ru": "\u0415\u0433\u0438\u043f\u0435\u0442"
 		},
 		"latlng": [27, 30],
 		"demonym": "Egyptian",
@@ -2077,7 +2145,8 @@
 			"it": "El Salvador",
 			"ja": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb",
 			"nl": "El Salvador",
-			"hr": "Salvador"
+			"hr": "Salvador",
+			"ru": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
 		},
 		"latlng": [13.83333333, -88.91666666],
 		"demonym": "Salvadoran",
@@ -2108,7 +2177,8 @@
 			"it": "Guinea Equatoriale",
 			"ja": "\u8d64\u9053\u30ae\u30cb\u30a2",
 			"nl": "Equatoriaal-Guinea",
-			"hr": "Ekvatorijalna Gvineja"
+			"hr": "Ekvatorijalna Gvineja",
+			"ru": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f\x20\u0413\u0432\u0438\u043d\u0435\u044f"
 		},
 		"latlng": [2, 10],
 		"demonym": "Equatorial Guinean",
@@ -2139,7 +2209,8 @@
 			"it": "Eritrea",
 			"ja": "\u30a8\u30ea\u30c8\u30ea\u30a2",
 			"nl": "Eritrea",
-			"hr": "Eritreja"
+			"hr": "Eritreja",
+			"ru": "\u042d\u0440\u0438\u0442\u0440\u0435\u044f"
 		},
 		"latlng": [15, 39],
 		"demonym": "Eritrean",
@@ -2170,7 +2241,8 @@
 			"it": "Estonia",
 			"ja": "\u30a8\u30b9\u30c8\u30cb\u30a2",
 			"nl": "Estland",
-			"hr": "Estonija"
+			"hr": "Estonija",
+			"ru": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f"
 		},
 		"latlng": [59, 26],
 		"demonym": "Estonian",
@@ -2201,7 +2273,8 @@
 			"it": "Etiopia",
 			"ja": "\u30a8\u30c1\u30aa\u30d4\u30a2",
 			"nl": "Ethiopi\u00eb",
-			"hr": "Etiopija"
+			"hr": "Etiopija",
+			"ru": "\u042d\u0444\u0438\u043e\u043f\u0438\u044f"
 		},
 		"latlng": [8, 38],
 		"demonym": "Ethiopian",
@@ -2231,7 +2304,8 @@
 			"it": "Isole Falkland o Isole Malvine",
 			"ja": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6",
 			"nl": "Falklandeilanden [Islas Malvinas]",
-			"hr": "Falklandski Otoci"
+			"hr": "Falklandski Otoci",
+			"ru": "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u043a\u0438\u0435\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [-51.75, -59],
 		"demonym": "Falkland Islander",
@@ -2261,7 +2335,8 @@
 			"it": "Isole Far Oer",
 			"ja": "\u30d5\u30a7\u30ed\u30fc\u8af8\u5cf6",
 			"nl": "Faer\u00f6er",
-			"hr": "Farski Otoci"
+			"hr": "Farski Otoci",
+			"ru": "\u0424\u0430\u0440\u0435\u0440\u0441\u043a\u0438\u0435\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [62, -7],
 		"demonym": "Faroese",
@@ -2291,7 +2366,8 @@
 			"it": "Figi",
 			"ja": "\u30d5\u30a3\u30b8\u30fc",
 			"nl": "Fiji",
-			"hr": "Fi\u0111i"
+			"hr": "Fi\u0111i",
+			"ru": "\u0424\u0438\u0434\u0436\u0438"
 		},
 		"latlng": [-18, 175],
 		"demonym": "Fijian",
@@ -2321,7 +2397,8 @@
 			"it": "Finlandia",
 			"ja": "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9",
 			"nl": "Finland",
-			"hr": "Finska"
+			"hr": "Finska",
+			"ru": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f"
 		},
 		"latlng": [64, 26],
 		"demonym": "Finnish",
@@ -2351,7 +2428,8 @@
 			"it": "Francia",
 			"ja": "\u30d5\u30e9\u30f3\u30b9",
 			"nl": "Frankrijk",
-			"hr": "Francuska"
+			"hr": "Francuska",
+			"ru": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"
 		},
 		"latlng": [46, 2],
 		"demonym": "French",
@@ -2381,7 +2459,8 @@
 			"it": "Guyana francese",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca",
 			"nl": "Frans-Guyana",
-			"hr": "Francuska Gvajana"
+			"hr": "Francuska Gvajana",
+			"ru": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f\x20\u0413\u0432\u0438\u0430\u043d\u0430"
 		},
 		"latlng": [4, -53],
 		"demonym": "",
@@ -2411,7 +2490,8 @@
 			"it": "Polinesia Francese",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u30dd\u30ea\u30cd\u30b7\u30a2",
 			"nl": "Frans-Polynesi\u00eb",
-			"hr": "Francuska Polinezija"
+			"hr": "Francuska Polinezija",
+			"ru": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f\x20\u041f\u043e\u043b\u0438\u043d\u0435\u0437\u0438\u044f"
 		},
 		"latlng": [-15, -140],
 		"demonym": "French Polynesian",
@@ -2441,7 +2521,8 @@
 			"it": "Territori Francesi del Sud",
 			"ja": "\u30d5\u30e9\u30f3\u30b9\u9818\u5357\u65b9\u30fb\u5357\u6975\u5730\u57df",
 			"nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
-			"hr": "Francuski ju\u017eni i antarkti\u010dki teritoriji"
+			"hr": "Francuski ju\u017eni i antarkti\u010dki teritoriji",
+			"ru": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435\x20\u042e\u0436\u043d\u044b\u0435\x20\u0438\x20\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435\x20\u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438"
 		},
 		"latlng": [-49.25, 69.167],
 		"demonym": "French",
@@ -2471,7 +2552,8 @@
 			"it": "Gabon",
 			"ja": "\u30ac\u30dc\u30f3",
 			"nl": "Gabon",
-			"hr": "Gabon"
+			"hr": "Gabon",
+			"ru": "\u0413\u0430\u0431\u043e\u043d"
 		},
 		"latlng": [-1, 11.75],
 		"demonym": "Gabonese",
@@ -2501,7 +2583,8 @@
 			"it": "Gambia",
 			"ja": "\u30ac\u30f3\u30d3\u30a2",
 			"nl": "Gambia",
-			"hr": "Gambija"
+			"hr": "Gambija",
+			"ru": "\u0413\u0430\u043c\u0431\u0438\u044f"
 		},
 		"latlng": [13.46666666, -16.56666666],
 		"demonym": "Gambian",
@@ -2531,7 +2614,8 @@
 			"it": "Georgia",
 			"ja": "\u30b0\u30eb\u30b8\u30a2",
 			"nl": "Georgi\u00eb",
-			"hr": "Gruzija"
+			"hr": "Gruzija",
+			"ru": "\u0413\u0440\u0443\u0437\u0438\u044f"
 		},
 		"latlng": [42, 43.5],
 		"demonym": "Georgian",
@@ -2561,7 +2645,8 @@
 			"it": "Germania",
 			"ja": "\u30c9\u30a4\u30c4",
 			"nl": "Duitsland",
-			"hr": "Njema\u010dka"
+			"hr": "Njema\u010dka",
+			"ru": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [51, 9],
 		"demonym": "German",
@@ -2591,7 +2676,8 @@
 			"it": "Ghana",
 			"ja": "\u30ac\u30fc\u30ca",
 			"nl": "Ghana",
-			"hr": "Gana"
+			"hr": "Gana",
+			"ru": "\u0413\u0430\u043d\u0430"
 		},
 		"latlng": [8, -2],
 		"demonym": "Ghanaian",
@@ -2621,7 +2707,8 @@
 			"it": "Gibilterra",
 			"ja": "\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb",
 			"nl": "Gibraltar",
-			"hr": "Gibraltar"
+			"hr": "Gibraltar",
+			"ru": "\u0413\u0438\u0431\u0440\u0430\u043b\u0442\u0430\u0440"
 		},
 		"latlng": [36.13333333, -5.35],
 		"demonym": "Gibraltar",
@@ -2651,7 +2738,8 @@
 			"it": "Grecia",
 			"ja": "\u30ae\u30ea\u30b7\u30e3",
 			"nl": "Griekenland",
-			"hr": "Gr\u010dka"
+			"hr": "Gr\u010dka",
+			"ru": "\u0413\u0440\u0435\u0446\u0438\u044f"
 		},
 		"latlng": [39, 22],
 		"demonym": "Greek",
@@ -2681,7 +2769,8 @@
 			"it": "Groenlandia",
 			"ja": "\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9",
 			"nl": "Groenland",
-			"hr": "Grenland"
+			"hr": "Grenland",
+			"ru": "\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f"
 		},
 		"latlng": [72, -40],
 		"demonym": "Greenlandic",
@@ -2711,7 +2800,8 @@
 			"it": "Grenada",
 			"ja": "\u30b0\u30ec\u30ca\u30c0",
 			"nl": "Grenada",
-			"hr": "Grenada"
+			"hr": "Grenada",
+			"ru": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430"
 		},
 		"latlng": [12.11666666, -61.66666666],
 		"demonym": "Grenadian",
@@ -2741,7 +2831,8 @@
 			"it": "Guadeloupa",
 			"ja": "\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7",
 			"nl": "Guadeloupe",
-			"hr": "Gvadalupa"
+			"hr": "Gvadalupa",
+			"ru": "\u0413\u0432\u0430\u0434\u0435\u043b\u0443\u043f\u0430"
 		},
 		"latlng": [16.25, -61.583333],
 		"demonym": "Guadeloupian",
@@ -2771,7 +2862,8 @@
 			"it": "Guam",
 			"ja": "\u30b0\u30a2\u30e0",
 			"nl": "Guam",
-			"hr": "Guam"
+			"hr": "Guam",
+			"ru": "\u0413\u0443\u0430\u043c"
 		},
 		"latlng": [13.46666666, 144.78333333],
 		"demonym": "Guamanian",
@@ -2801,7 +2893,8 @@
 			"it": "Guatemala",
 			"ja": "\u30b0\u30a2\u30c6\u30de\u30e9",
 			"nl": "Guatemala",
-			"hr": "Gvatemala"
+			"hr": "Gvatemala",
+			"ru": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
 		},
 		"latlng": [15.5, -90.25],
 		"demonym": "Guatemalan",
@@ -2831,7 +2924,8 @@
 			"it": "Guernsey",
 			"ja": "\u30ac\u30fc\u30f3\u30b8\u30fc",
 			"nl": "Guernsey",
-			"hr": "Guernsey"
+			"hr": "Guernsey",
+			"ru": "\u0413\u0435\u0440\u043d\u0441\u0438"
 		},
 		"latlng": [49.46666666, -2.58333333],
 		"demonym": "Channel Islander",
@@ -2861,7 +2955,8 @@
 			"it": "Guinea",
 			"ja": "\u30ae\u30cb\u30a2",
 			"nl": "Guinee",
-			"hr": "Gvineja"
+			"hr": "Gvineja",
+			"ru": "\u0413\u0432\u0438\u043d\u0435\u044f"
 		},
 		"latlng": [11, -10],
 		"demonym": "Guinean",
@@ -2891,7 +2986,8 @@
 			"it": "Guinea-Bissau",
 			"ja": "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6",
 			"nl": "Guinee-Bissau",
-			"hr": "Gvineja Bisau"
+			"hr": "Gvineja Bisau",
+			"ru": "\u0413\u0432\u0438\u043d\u0435\u044f\x2d\u0411\u0438\u0441\u0430\u0443"
 		},
 		"latlng": [12, -15],
 		"demonym": "Guinea-Bissauan",
@@ -2921,7 +3017,8 @@
 			"it": "Guyana",
 			"ja": "\u30ac\u30a4\u30a2\u30ca",
 			"nl": "Guyana",
-			"hr": "Gvajana"
+			"hr": "Gvajana",
+			"ru": "\u0413\u0430\u0439\u0430\u043d\u0430"
 		},
 		"latlng": [5, -59],
 		"demonym": "Guyanese",
@@ -2951,7 +3048,8 @@
 			"it": "Haiti",
 			"ja": "\u30cf\u30a4\u30c1",
 			"nl": "Ha\u00efti",
-			"hr": "Haiti"
+			"hr": "Haiti",
+			"ru": "\u0413\u0430\u0438\u0442\u0438"
 		},
 		"latlng": [19, -72.41666666],
 		"demonym": "Haitian",
@@ -2981,7 +3079,8 @@
 			"it": "Isole Heard e McDonald",
 			"ja": "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6",
 			"nl": "Heard- en McDonaldeilanden",
-			"hr": "Otok Heard i oto\u010dje McDonald"
+			"hr": "Otok Heard i oto\u010dje McDonald",
+			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432\x20\u0425\u0435\u0440\u0434\x20\u0438\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430\x20\u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434"
 		},
 		"latlng": [-53.1, 72.51666666],
 		"demonym": "Heard and McDonald Islander",
@@ -3011,7 +3110,8 @@
 			"it": "Citt\u00e0 del Vaticano",
 			"ja": "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd",
 			"nl": "Vaticaanstad",
-			"hr": "Vatikan"
+			"hr": "Vatikan",
+			"ru": "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
 		},
 		"latlng": [41.9, 12.45],
 		"demonym": "Italian",
@@ -3041,7 +3141,8 @@
 			"it": "Honduras",
 			"ja": "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9",
 			"nl": "Honduras",
-			"hr": "Honduras"
+			"hr": "Honduras",
+			"ru": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
 		},
 		"latlng": [15, -86.5],
 		"demonym": "Honduran",
@@ -3071,7 +3172,8 @@
 			"it": "Hong Kong",
 			"ja": "\u9999\u6e2f",
 			"nl": "Hongkong",
-			"hr": "Hong Kong"
+			"hr": "Hong Kong",
+			"ru": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
 		},
 		"latlng": [22.267, 114.188],
 		"demonym": "Hong Konger",
@@ -3101,7 +3203,8 @@
 			"it": "Ungheria",
 			"ja": "\u30cf\u30f3\u30ac\u30ea\u30fc",
 			"nl": "Hongarije",
-			"hr": "Ma\u0111arska"
+			"hr": "Ma\u0111arska",
+			"ru": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f"
 		},
 		"latlng": [47, 20],
 		"demonym": "Hungarian",
@@ -3131,7 +3234,8 @@
 			"it": "Islanda",
 			"ja": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9",
 			"nl": "IJsland",
-			"hr": "Island"
+			"hr": "Island",
+			"ru": "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f"
 		},
 		"latlng": [65, -18],
 		"demonym": "Icelander",
@@ -3161,7 +3265,8 @@
 			"it": "India",
 			"ja": "\u30a4\u30f3\u30c9",
 			"nl": "India",
-			"hr": "Indija"
+			"hr": "Indija",
+			"ru": "\u0418\u043d\u0434\u0438\u044f"
 		},
 		"latlng": [20, 77],
 		"demonym": "Indian",
@@ -3191,7 +3296,8 @@
 			"it": "Indonesia",
 			"ja": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2",
 			"es": "Indonesia",
-			"hr": "Indonezija"
+			"hr": "Indonezija",
+			"ru": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f"
 		},
 		"latlng": [-5, 120],
 		"demonym": "Indonesian",
@@ -3221,7 +3327,8 @@
 			"it": "Costa D'Avorio",
 			"ja": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
 			"nl": "Ivoorkust",
-			"hr": "Obala Bjelokosti"
+			"hr": "Obala Bjelokosti",
+			"ru": "\u041a\u043e\u0442\x2d\u0434\u2019\u0418\u0432\u0443\u0430\u0440"
 		},
 		"latlng": [8, -5],
 		"demonym": "Ivorian",
@@ -3250,7 +3357,8 @@
 			"fr": "Iran",
 			"ja": "\u30a4\u30e9\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
 			"nl": "Iran",
-			"hr": "Iran"
+			"hr": "Iran",
+			"ru": "\u0418\u0440\u0430\u043d"
 		},
 		"latlng": [32, 53],
 		"demonym": "Iranian",
@@ -3280,7 +3388,8 @@
 			"it": "Iraq",
 			"ja": "\u30a4\u30e9\u30af",
 			"nl": "Irak",
-			"hr": "Irak"
+			"hr": "Irak",
+			"ru": "\u0418\u0440\u0430\u043a"
 		},
 		"latlng": [33, 44],
 		"demonym": "Iraqi",
@@ -3310,7 +3419,8 @@
 			"it": "Irlanda",
 			"ja": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
 			"nl": "Ierland",
-			"hr": "Irska"
+			"hr": "Irska",
+			"ru": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
 		},
 		"latlng": [53, -8],
 		"demonym": "Irish",
@@ -3340,7 +3450,8 @@
 			"it": "Isola di Man",
 			"ja": "\u30de\u30f3\u5cf6",
 			"nl": "Isle of Man",
-			"hr": "Otok Man"
+			"hr": "Otok Man",
+			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432\x20\u041c\u044d\u043d"
 		},
 		"latlng": [54.25, -4.5],
 		"demonym": "Manx",
@@ -3370,7 +3481,8 @@
 			"it": "Israele",
 			"ja": "\u30a4\u30b9\u30e9\u30a8\u30eb",
 			"nl": "Isra\u00ebl",
-			"hr": "Izrael"
+			"hr": "Izrael",
+			"ru": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
 		},
 		"latlng": [31.5, 34.75],
 		"demonym": "Israeli",
@@ -3400,7 +3512,8 @@
 			"it": "Italia",
 			"ja": "\u30a4\u30bf\u30ea\u30a2",
 			"nl": "Itali\u00eb",
-			"hr": "Italija"
+			"hr": "Italija",
+			"ru": "\u0418\u0442\u0430\u043b\u0438\u044f"
 		},
 		"latlng": [42.83333333, 12.83333333],
 		"demonym": "Italian",
@@ -3430,7 +3543,8 @@
 			"it": "Giamaica",
 			"ja": "\u30b8\u30e3\u30de\u30a4\u30ab",
 			"nl": "Jamaica",
-			"hr": "Jamajka"
+			"hr": "Jamajka",
+			"ru": "\u042f\u043c\u0430\u0439\u043a\u0430"
 		},
 		"latlng": [18.25, -77.5],
 		"demonym": "Jamaican",
@@ -3460,7 +3574,8 @@
 			"it": "Giappone",
 			"ja": "\u65e5\u672c",
 			"nl": "Japan",
-			"hr": "Japan"
+			"hr": "Japan",
+			"ru": "\u042f\u043f\u043e\u043d\u0438\u044f"
 		},
 		"latlng": [36, 138],
 		"demonym": "Japanese",
@@ -3490,7 +3605,8 @@
 			"it": "Isola di Jersey",
 			"ja": "\u30b8\u30e3\u30fc\u30b8\u30fc",
 			"nl": "Jersey",
-			"hr": "Jersey"
+			"hr": "Jersey",
+			"ru": "\u0414\u0436\u0435\u0440\u0441\u0438"
 		},
 		"latlng": [49.25, -2.16666666],
 		"demonym": "Channel Islander",
@@ -3520,7 +3636,8 @@
 			"it": "Giordania",
 			"ja": "\u30e8\u30eb\u30c0\u30f3",
 			"nl": "Jordani\u00eb",
-			"hr": "Jordan"
+			"hr": "Jordan",
+			"ru": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [31, 36],
 		"demonym": "Jordanian",
@@ -3550,7 +3667,8 @@
 			"it": "Kazakistan",
 			"ja": "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3",
 			"nl": "Kazachstan",
-			"hr": "Kazahstan"
+			"hr": "Kazahstan",
+			"ru": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
 		},
 		"latlng": [48, 68],
 		"demonym": "Kazakhstani",
@@ -3580,7 +3698,8 @@
 			"it": "Kenya",
 			"ja": "\u30b1\u30cb\u30a2",
 			"nl": "Kenia",
-			"hr": "Kenija"
+			"hr": "Kenija",
+			"ru": "\u041a\u0435\u043d\u0438\u044f"
 		},
 		"latlng": [1, 38],
 		"demonym": "Kenyan",
@@ -3610,7 +3729,8 @@
 			"it": "Kiribati",
 			"ja": "\u30ad\u30ea\u30d0\u30b9",
 			"nl": "Kiribati",
-			"hr": "Kiribati"
+			"hr": "Kiribati",
+			"ru": "\u041a\u0438\u0440\u0438\u0431\u0430\u0442\u0438"
 		},
 		"latlng": [1.41666666, 173],
 		"demonym": "I-Kiribati",
@@ -3640,7 +3760,8 @@
 			"it": "Kuwait",
 			"ja": "\u30af\u30a6\u30a7\u30fc\u30c8",
 			"nl": "Koeweit",
-			"hr": "Kuvajt"
+			"hr": "Kuvajt",
+			"ru": "\u041a\u0443\u0432\u0435\u0439\u0442"
 		},
 		"latlng": [29.5, 45.75],
 		"demonym": "Kuwaiti",
@@ -3670,7 +3791,8 @@
 			"it": "Kirghizistan",
 			"ja": "\u30ad\u30eb\u30ae\u30b9",
 			"nl": "Kirgizi\u00eb",
-			"hr": "Kirgistan"
+			"hr": "Kirgistan",
+			"ru": "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f"
 		},
 		"latlng": [41, 75],
 		"demonym": "Kirghiz",
@@ -3700,7 +3822,8 @@
 			"it": "Laos",
 			"ja": "\u30e9\u30aa\u30b9\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd",
 			"es": "Laos",
-			"hr": "Laos"
+			"hr": "Laos",
+			"ru": "\u041b\u0430\u043e\u0441"
 		},
 		"latlng": [18, 105],
 		"demonym": "Laotian",
@@ -3730,7 +3853,8 @@
 			"it": "Lettonia",
 			"ja": "\u30e9\u30c8\u30d3\u30a2",
 			"nl": "Letland",
-			"hr": "Latvija"
+			"hr": "Latvija",
+			"ru": "\u041b\u0430\u0442\u0432\u0438\u044f"
 		},
 		"latlng": [57, 25],
 		"demonym": "Latvian",
@@ -3760,7 +3884,8 @@
 			"it": "Libano",
 			"ja": "\u30ec\u30d0\u30ce\u30f3",
 			"nl": "Libanon",
-			"hr": "Libanon"
+			"hr": "Libanon",
+			"ru": "\u041b\u0438\u0432\u0430\u043d"
 		},
 		"latlng": [33.83333333, 35.83333333],
 		"demonym": "Lebanese",
@@ -3790,7 +3915,8 @@
 			"it": "Lesotho",
 			"ja": "\u30ec\u30bd\u30c8",
 			"nl": "Lesotho",
-			"hr": "Lesoto"
+			"hr": "Lesoto",
+			"ru": "\u041b\u0435\u0441\u043e\u0442\u043e"
 		},
 		"latlng": [-29.5, 28.5],
 		"demonym": "Mosotho",
@@ -3820,7 +3946,8 @@
 			"it": "Liberia",
 			"ja": "\u30ea\u30d9\u30ea\u30a2",
 			"nl": "Liberia",
-			"hr": "Liberija"
+			"hr": "Liberija",
+			"ru": "\u041b\u0438\u0431\u0435\u0440\u0438\u044f"
 		},
 		"latlng": [6.5, -9.5],
 		"demonym": "Liberian",
@@ -3850,7 +3977,8 @@
 			"it": "Libia",
 			"ja": "\u30ea\u30d3\u30a2",
 			"nl": "Libi\u00eb",
-			"hr": "Libija"
+			"hr": "Libija",
+			"ru": "\u041b\u0438\u0432\u0438\u044f"
 		},
 		"latlng": [25, 17],
 		"demonym": "Libyan",
@@ -3880,7 +4008,8 @@
 			"it": "Liechtenstein",
 			"ja": "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3",
 			"nl": "Liechtenstein",
-			"hr": "Lihten\u0161tajn"
+			"hr": "Lihten\u0161tajn",
+			"ru": "\u041b\u0438\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d"
 		},
 		"latlng": [47.26666666, 9.53333333],
 		"demonym": "Liechtensteiner",
@@ -3910,7 +4039,8 @@
 			"it": "Lituania",
 			"ja": "\u30ea\u30c8\u30a2\u30cb\u30a2",
 			"nl": "Litouwen",
-			"hr": "Litva"
+			"hr": "Litva",
+			"ru": "\u041b\u0438\u0442\u0432\u0430"
 		},
 		"latlng": [56, 24],
 		"demonym": "Lithuanian",
@@ -3940,7 +4070,8 @@
 			"it": "Lussemburgo",
 			"ja": "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af",
 			"nl": "Luxemburg",
-			"hr": "Luksemburg"
+			"hr": "Luksemburg",
+			"ru": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
 		},
 		"latlng": [49.75, 6.16666666],
 		"demonym": "Luxembourger",
@@ -3970,7 +4101,8 @@
 			"it": "Macao",
 			"ja": "\u30de\u30ab\u30aa",
 			"nl": "Macao",
-			"hr": "Makao"
+			"hr": "Makao",
+			"ru": "\u041c\u0430\u043a\u0430\u043e"
 		},
 		"latlng": [22.16666666, 113.55],
 		"demonym": "Chinese",
@@ -4000,7 +4132,8 @@
 			"it": "Macedonia",
 			"ja": "\u30de\u30b1\u30c9\u30cb\u30a2\u65e7\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u5171\u548c\u56fd",
 			"nl": "Macedoni\u00eb",
-			"hr": "Makedonija"
+			"hr": "Makedonija",
+			"ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\x20\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
 		},
 		"latlng": [41.83333333, 22],
 		"demonym": "Macedonian",
@@ -4030,7 +4163,8 @@
 			"it": "Madagascar",
 			"ja": "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb",
 			"nl": "Madagaskar",
-			"hr": "Madagaskar"
+			"hr": "Madagaskar",
+			"ru": "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
 		},
 		"latlng": [-20, 47],
 		"demonym": "Malagasy",
@@ -4060,7 +4194,8 @@
 			"it": "Malawi",
 			"ja": "\u30de\u30e9\u30a6\u30a4",
 			"nl": "Malawi",
-			"hr": "Malavi"
+			"hr": "Malavi",
+			"ru": "\u041c\u0430\u043b\u0430\u0432\u0438"
 		},
 		"latlng": [-13.5, 34],
 		"demonym": "Malawian",
@@ -4090,7 +4225,8 @@
 			"it": "Malesia",
 			"ja": "\u30de\u30ec\u30fc\u30b7\u30a2",
 			"es": "Malasia",
-			"hr": "Malezija"
+			"hr": "Malezija",
+			"ru": "\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f"
 		},
 		"latlng": [2.5, 112.5],
 		"demonym": "Malaysian",
@@ -4120,7 +4256,8 @@
 			"it": "Maldive",
 			"ja": "\u30e2\u30eb\u30c7\u30a3\u30d6",
 			"nl": "Maldiven",
-			"hr": "Maldivi"
+			"hr": "Maldivi",
+			"ru": "\u041c\u0430\u043b\u044c\u0434\u0438\u0432\u044b"
 		},
 		"latlng": [3.25, 73],
 		"demonym": "Maldivan",
@@ -4150,7 +4287,8 @@
 			"it": "Mali",
 			"ja": "\u30de\u30ea",
 			"nl": "Mali",
-			"hr": "Mali"
+			"hr": "Mali",
+			"ru": "\u041c\u0430\u043b\u0438"
 		},
 		"latlng": [17, -4],
 		"demonym": "Malian",
@@ -4180,7 +4318,8 @@
 			"it": "Malta",
 			"ja": "\u30de\u30eb\u30bf",
 			"nl": "Malta",
-			"hr": "Malta"
+			"hr": "Malta",
+			"ru": "\u041c\u0430\u043b\u044c\u0442\u0430"
 		},
 		"latlng": [35.83333333, 14.58333333],
 		"demonym": "Maltese",
@@ -4210,7 +4349,8 @@
 			"it": "Isole Marshall",
 			"ja": "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6",
 			"nl": "Marshalleilanden",
-			"hr": "Mar\u0161alovi Otoci"
+			"hr": "Mar\u0161alovi Otoci",
+			"ru": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u044b\x20\u041e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [9, 168],
 		"demonym": "Marshallese",
@@ -4240,7 +4380,8 @@
 			"it": "Martinica",
 			"ja": "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af",
 			"nl": "Martinique",
-			"hr": "Martinique"
+			"hr": "Martinique",
+			"ru": "\u041c\u0430\u0440\u0442\u0438\u043d\u0438\u043a\u0430"
 		},
 		"latlng": [14.666667, -61],
 		"demonym": "French",
@@ -4270,7 +4411,8 @@
 			"it": "Mauritania",
 			"ja": "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2",
 			"nl": "Mauritani\u00eb",
-			"hr": "Mauritanija"
+			"hr": "Mauritanija",
+			"ru": "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [20, -12],
 		"demonym": "Mauritanian",
@@ -4300,7 +4442,8 @@
 			"it": "Mauritius",
 			"ja": "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9",
 			"nl": "Mauritius",
-			"hr": "Mauricijus"
+			"hr": "Mauricijus",
+			"ru": "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
 		},
 		"latlng": [-20.28333333, 57.55],
 		"demonym": "Mauritian",
@@ -4330,7 +4473,8 @@
 			"it": "Mayotte",
 			"ja": "\u30de\u30e8\u30c3\u30c8",
 			"nl": "Mayotte",
-			"hr": "Mayotte"
+			"hr": "Mayotte",
+			"ru": "\u041c\u0430\u0439\u043e\u0442\u0442\u0430"
 		},
 		"latlng": [-12.83333333, 45.16666666],
 		"demonym": "French",
@@ -4360,7 +4504,8 @@
 			"it": "Messico",
 			"ja": "\u30e1\u30ad\u30b7\u30b3",
 			"nl": "Mexico",
-			"hr": "Meksiko"
+			"hr": "Meksiko",
+			"ru": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
 		},
 		"latlng": [23, -102],
 		"demonym": "Mexican",
@@ -4390,7 +4535,8 @@
 			"it": "Micronesia",
 			"ja": "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6",
 			"nl": "Micronesi\u00eb",
-			"hr": "Mikronezija"
+			"hr": "Mikronezija",
+			"ru": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435\x20\u0428\u0442\u0430\u0442\u044b\x20\u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0438"
 		},
 		"latlng": [6.91666666, 158.25],
 		"demonym": "Micronesian",
@@ -4420,7 +4566,8 @@
 			"it": "Moldavia",
 			"ja": "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd",
 			"nl": "Moldavi\u00eb",
-			"hr": "Moldova"
+			"hr": "Moldova",
+			"ru": "\u041c\u043e\u043b\u0434\u0430\u0432\u0438\u044f"
 		},
 		"latlng": [47, 29],
 		"demonym": "Moldovan",
@@ -4450,7 +4597,8 @@
 			"it": "Principato di Monaco",
 			"ja": "\u30e2\u30ca\u30b3",
 			"nl": "Monaco",
-			"hr": "Monako"
+			"hr": "Monako",
+			"ru": "\u041c\u043e\u043d\u0430\u043a\u043e"
 		},
 		"latlng": [43.73333333, 7.4],
 		"demonym": "Monegasque",
@@ -4480,7 +4628,8 @@
 			"it": "Mongolia",
 			"ja": "\u30e2\u30f3\u30b4\u30eb",
 			"nl": "Mongoli\u00eb",
-			"hr": "Mongolija"
+			"hr": "Mongolija",
+			"ru": "\u041c\u043e\u043d\u0433\u043e\u043b\u0438\u044f"
 		},
 		"latlng": [46, 105],
 		"demonym": "Mongolian",
@@ -4510,7 +4659,8 @@
 			"it": "Montenegro",
 			"ja": "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed",
 			"nl": "Montenegro",
-			"hr": "Crna Gora"
+			"hr": "Crna Gora",
+			"ru": "\u0427\u0435\u0440\u043d\u043e\u0433\u043e\u0440\u0438\u044f"
 		},
 		"latlng": [42.5, 19.3],
 		"demonym": "Montenegrin",
@@ -4540,7 +4690,8 @@
 			"it": "Montserrat",
 			"ja": "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8",
 			"nl": "Montserrat",
-			"hr": "Montserrat"
+			"hr": "Montserrat",
+			"ru": "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0442"
 		},
 		"latlng": [16.75, -62.2],
 		"demonym": "Montserratian",
@@ -4570,7 +4721,8 @@
 			"it": "Marocco",
 			"ja": "\u30e2\u30ed\u30c3\u30b3",
 			"nl": "Marokko",
-			"hr": "Maroko"
+			"hr": "Maroko",
+			"ru": "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
 		},
 		"latlng": [32, -5],
 		"demonym": "Moroccan",
@@ -4600,7 +4752,8 @@
 			"it": "Mozambico",
 			"ja": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af",
 			"nl": "Mozambique",
-			"hr": "Mozambik"
+			"hr": "Mozambik",
+			"ru": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
 		},
 		"latlng": [-18.25, 35],
 		"demonym": "Mozambican",
@@ -4630,7 +4783,8 @@
 			"it": "Birmania",
 			"ja": "\u30df\u30e3\u30f3\u30de\u30fc",
 			"es": "Myanmar",
-			"hr": "Mijanmar"
+			"hr": "Mijanmar",
+			"ru": "\u041c\u044c\u044f\u043d\u043c\u0430"
 		},
 		"latlng": [22, 98],
 		"demonym": "Myanmarian",
@@ -4660,7 +4814,8 @@
 			"it": "Namibia",
 			"ja": "\u30ca\u30df\u30d3\u30a2",
 			"nl": "Namibi\u00eb",
-			"hr": "Namibija"
+			"hr": "Namibija",
+			"ru": "\u041d\u0430\u043c\u0438\u0431\u0438\u044f"
 		},
 		"latlng": [-22, 17],
 		"demonym": "Namibian",
@@ -4690,7 +4845,8 @@
 			"it": "Nauru",
 			"ja": "\u30ca\u30a6\u30eb",
 			"nl": "Nauru",
-			"hr": "Nauru"
+			"hr": "Nauru",
+			"ru": "\u041d\u0430\u0443\u0440\u0443"
 		},
 		"latlng": [-0.53333333, 166.91666666],
 		"demonym": "Nauruan",
@@ -4720,7 +4876,8 @@
 			"it": "Nepal",
 			"ja": "\u30cd\u30d1\u30fc\u30eb",
 			"nl": "Nepal",
-			"hr": "Nepal"
+			"hr": "Nepal",
+			"ru": "\u041d\u0435\u043f\u0430\u043b"
 		},
 		"latlng": [28, 84],
 		"demonym": "Nepalese",
@@ -4750,7 +4907,8 @@
 			"it": "Paesi Bassi",
 			"ja": "\u30aa\u30e9\u30f3\u30c0",
 			"nl": "Nederland",
-			"hr": "Nizozemska"
+			"hr": "Nizozemska",
+			"ru": "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"
 		},
 		"latlng": [52.5, 5.75],
 		"demonym": "Dutch",
@@ -4780,7 +4938,8 @@
 			"it": "Nuova Caledonia",
 			"ja": "\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2",
 			"nl": "Nieuw-Caledoni\u00eb",
-			"hr": "Nova Kaledonija"
+			"hr": "Nova Kaledonija",
+			"ru": "\u041d\u043e\u0432\u0430\u044f\x20\u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f"
 		},
 		"latlng": [-21.5, 165.5],
 		"demonym": "New Caledonian",
@@ -4810,7 +4969,8 @@
 			"it": "Nuova Zelanda",
 			"ja": "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9",
 			"es": "Nueva Zelanda",
-			"hr": "Novi Zeland"
+			"hr": "Novi Zeland",
+			"ru": "\u041d\u043e\u0432\u0430\u044f\x20\u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f"
 		},
 		"latlng": [-41, 174],
 		"demonym": "New Zealander",
@@ -4840,7 +5000,8 @@
 			"it": "Nicaragua",
 			"ja": "\u30cb\u30ab\u30e9\u30b0\u30a2",
 			"nl": "Nicaragua",
-			"hr": "Nikaragva"
+			"hr": "Nikaragva",
+			"ru": "\u041d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
 		},
 		"latlng": [13, -85],
 		"demonym": "Nicaraguan",
@@ -4870,7 +5031,8 @@
 			"it": "Niger",
 			"ja": "\u30cb\u30b8\u30a7\u30fc\u30eb",
 			"nl": "Niger",
-			"hr": "Niger"
+			"hr": "Niger",
+			"ru": "\u041d\u0438\u0433\u0435\u0440"
 		},
 		"latlng": [16, 8],
 		"demonym": "Nigerian",
@@ -4900,7 +5062,8 @@
 			"it": "Nigeria",
 			"ja": "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2",
 			"nl": "Nigeria",
-			"hr": "Nigerija"
+			"hr": "Nigerija",
+			"ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f"
 		},
 		"latlng": [10, 8],
 		"demonym": "Nigerian",
@@ -4930,7 +5093,8 @@
 			"it": "Niue",
 			"ja": "\u30cb\u30a6\u30a8",
 			"nl": "Niue",
-			"hr": "Niue"
+			"hr": "Niue",
+			"ru": "\u041d\u0438\u0443\u044d"
 		},
 		"latlng": [-19.03333333, -169.86666666],
 		"demonym": "Niuean",
@@ -4960,7 +5124,8 @@
 			"it": "Isola Norfolk",
 			"ja": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6",
 			"es": "Isla de Norfolk",
-			"hr": "Otok Norfolk"
+			"hr": "Otok Norfolk",
+			"ru": "\u041d\u043e\u0440\u0444\u043e\u043b\u043a"
 		},
 		"latlng": [-29.03333333, 167.95],
 		"demonym": "Norfolk Islander",
@@ -4990,7 +5155,8 @@
 			"it": "Corea del Nord",
 			"ja": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
 			"nl": "Noord-Korea",
-			"hr": "Sjeverna Koreja"
+			"hr": "Sjeverna Koreja",
+			"ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f\x20\u041a\u043e\u0440\u0435\u044f"
 		},
 		"latlng": [40, 127],
 		"demonym": "North Korean",
@@ -5020,7 +5186,8 @@
 			"it": "Isole Marianne Settentrionali",
 			"ja": "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6",
 			"nl": "Noordelijke Marianeneilanden",
-			"hr": "Sjevernomarijanski otoci"
+			"hr": "Sjevernomarijanski otoci",
+			"ru": "\u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0435\x20\u041c\u0430\u0440\u0438\u0430\u043d\u0441\u043a\u0438\u0435\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [15.2, 145.75],
 		"demonym": "American",
@@ -5050,7 +5217,8 @@
 			"it": "Norvegia",
 			"ja": "\u30ce\u30eb\u30a6\u30a7\u30fc",
 			"nl": "Noorwegen",
-			"hr": "Norve\u0161ka"
+			"hr": "Norve\u0161ka",
+			"ru": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f"
 		},
 		"latlng": [62, 10],
 		"demonym": "Norwegian",
@@ -5080,7 +5248,8 @@
 			"it": "oman",
 			"ja": "\u30aa\u30de\u30fc\u30f3",
 			"nl": "Oman",
-			"hr": "Oman"
+			"hr": "Oman",
+			"ru": "\u041e\u043c\u0430\u043d"
 		},
 		"latlng": [21, 57],
 		"demonym": "Omani",
@@ -5110,7 +5279,8 @@
 			"it": "Pakistan",
 			"ja": "\u30d1\u30ad\u30b9\u30bf\u30f3",
 			"nl": "Pakistan",
-			"hr": "Pakistan"
+			"hr": "Pakistan",
+			"ru": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
 		},
 		"latlng": [30, 70],
 		"demonym": "Pakistani",
@@ -5140,7 +5310,8 @@
 			"it": "Palau",
 			"ja": "\u30d1\u30e9\u30aa",
 			"nl": "Palau",
-			"hr": "Palau"
+			"hr": "Palau",
+			"ru": "\u041f\u0430\u043b\u0430\u0443"
 		},
 		"latlng": [7.5, 134.5],
 		"demonym": "Palauan",
@@ -5170,7 +5341,8 @@
 			"it": "Palestina",
 			"ja": "\u30d1\u30ec\u30b9\u30c1\u30ca",
 			"nl": "Palestijnse gebieden",
-			"hr": "Palestina"
+			"hr": "Palestina",
+			"ru": "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430"
 		},
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
@@ -5200,7 +5372,8 @@
 			"it": "Panama",
 			"ja": "\u30d1\u30ca\u30de",
 			"nl": "Panama",
-			"hr": "Panama"
+			"hr": "Panama",
+			"ru": "\u041f\u0430\u043d\u0430\u043c\u0430"
 		},
 		"latlng": [9, -80],
 		"demonym": "Panamanian",
@@ -5230,7 +5403,8 @@
 			"it": "Papua Nuova Guinea",
 			"ja": "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2",
 			"nl": "Papoea-Nieuw-Guinea",
-			"hr": "Papua Nova Gvineja"
+			"hr": "Papua Nova Gvineja",
+			"ru": "\u041f\u0430\u043f\u0443\u0430\x20\u2014\x20\u041d\u043e\u0432\u0430\u044f\x20\u0413\u0432\u0438\u043d\u0435\u044f"
 		},
 		"latlng": [-6, 147],
 		"demonym": "Papua New Guinean",
@@ -5260,7 +5434,8 @@
 			"it": "Paraguay",
 			"ja": "\u30d1\u30e9\u30b0\u30a2\u30a4",
 			"nl": "Paraguay",
-			"hr": "Paragvaj"
+			"hr": "Paragvaj",
+			"ru": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439"
 		},
 		"latlng": [-23, -58],
 		"demonym": "Paraguayan",
@@ -5290,7 +5465,8 @@
 			"it": "Per\u00f9",
 			"ja": "\u30da\u30eb\u30fc",
 			"nl": "Peru",
-			"hr": "Peru"
+			"hr": "Peru",
+			"ru": "\u041f\u0435\u0440\u0443"
 		},
 		"latlng": [-10, -76],
 		"demonym": "Peruvian",
@@ -5320,7 +5496,8 @@
 			"it": "Filippine",
 			"ja": "\u30d5\u30a3\u30ea\u30d4\u30f3",
 			"es": "Filipinas",
-			"hr": "Filipini"
+			"hr": "Filipini",
+			"ru": "\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d\u044b"
 		},
 		"latlng": [13, 122],
 		"demonym": "Filipino",
@@ -5350,7 +5527,8 @@
 			"it": "Isole Pitcairn",
 			"ja": "\u30d4\u30c8\u30b1\u30a2\u30f3",
 			"nl": "Pitcairneilanden",
-			"hr": "Pitcairnovo oto\u010dje"
+			"hr": "Pitcairnovo oto\u010dje",
+			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430\x20\u041f\u0438\u0442\u043a\u044d\u0440\u043d"
 		},
 		"latlng": [-25.06666666, -130.1],
 		"demonym": "Pitcairn Islander",
@@ -5380,7 +5558,8 @@
 			"it": "Polonia",
 			"ja": "\u30dd\u30fc\u30e9\u30f3\u30c9",
 			"nl": "Polen",
-			"hr": "Poljska"
+			"hr": "Poljska",
+			"ru": "\u041f\u043e\u043b\u044c\u0448\u0430"
 		},
 		"latlng": [52, 20],
 		"demonym": "Polish",
@@ -5410,7 +5589,8 @@
 			"it": "Portogallo",
 			"ja": "\u30dd\u30eb\u30c8\u30ac\u30eb",
 			"nl": "Portugal",
-			"hr": "Portugal"
+			"hr": "Portugal",
+			"ru": "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0438\u044f"
 		},
 		"latlng": [39.5, -8],
 		"demonym": "Portuguese",
@@ -5440,7 +5620,8 @@
 			"it": "Porto Rico",
 			"ja": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3",
 			"nl": "Puerto Rico",
-			"hr": "Portoriko"
+			"hr": "Portoriko",
+			"ru": "\u041f\u0443\u044d\u0440\u0442\u043e\x2d\u0420\u0438\u043a\u043e"
 		},
 		"latlng": [18.25, -66.5],
 		"demonym": "Puerto Rican",
@@ -5470,7 +5651,8 @@
 			"it": "Qatar",
 			"ja": "\u30ab\u30bf\u30fc\u30eb",
 			"nl": "Qatar",
-			"hr": "Katar"
+			"hr": "Katar",
+			"ru": "\u041a\u0430\u0442\u0430\u0440"
 		},
 		"latlng": [25.5, 51.25],
 		"demonym": "Qatari",
@@ -5495,7 +5677,8 @@
 		"languageCodes": ["sq", "sr"],
 		"translations": {
 			"es": "Kosovo",
-			"hr": "Kosovo"
+			"hr": "Kosovo",
+			"ru": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\x20\u041a\u043e\u0441\u043e\u0432\u043e"
 		},
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
@@ -5525,7 +5708,8 @@
 			"it": "Riunione",
 			"ja": "\u30ec\u30e6\u30cb\u30aa\u30f3",
 			"nl": "R\u00e9union",
-			"hr": "R\u00e9union"
+			"hr": "R\u00e9union",
+			"ru": "\u0420\u0435\u044e\u043d\u044c\u043e\u043d"
 		},
 		"latlng": [-21.15, 55.5],
 		"demonym": "French",
@@ -5555,7 +5739,8 @@
 			"it": "Romania",
 			"ja": "\u30eb\u30fc\u30de\u30cb\u30a2",
 			"nl": "Roemeni\u00eb",
-			"hr": "Rumunjska"
+			"hr": "Rumunjska",
+			"ru": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f"
 		},
 		"latlng": [46, 25],
 		"demonym": "Romanian",
@@ -5585,7 +5770,8 @@
 			"it": "Russia",
 			"ja": "\u30ed\u30b7\u30a2\u9023\u90a6",
 			"nl": "Rusland",
-			"hr": "Rusija"
+			"hr": "Rusija",
+			"ru": "\u0420\u043e\u0441\u0441\u0438\u044f"
 		},
 		"latlng": [60, 100],
 		"demonym": "Russian",
@@ -5615,7 +5801,8 @@
 			"it": "Ruanda",
 			"ja": "\u30eb\u30ef\u30f3\u30c0",
 			"nl": "Rwanda",
-			"hr": "Ruanda"
+			"hr": "Ruanda",
+			"ru": "\u0420\u0443\u0430\u043d\u0434\u0430"
 		},
 		"latlng": [-2, 30],
 		"demonym": "Rwandan",
@@ -5645,7 +5832,8 @@
 			"it": "Antille Francesi",
 			"ja": "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc",
 			"nl": "Saint Barth\u00e9lemy",
-			"hr": "Saint Barth\u00e9lemy"
+			"hr": "Saint Barth\u00e9lemy",
+			"ru": "\u0421\u0435\u043d\x2d\u0411\u0430\u0440\u0442\u0435\u043b\u0435\u043c\u0438"
 		},
 		"latlng": [18.5, -63.41666666],
 		"demonym": "Saint Barth\u00e9lemy Islander",
@@ -5675,7 +5863,8 @@
 			"it": "Sant'Elena",
 			"ja": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3",
 			"nl": "Sint-Helena",
-			"hr": "Sveta Helena"
+			"hr": "Sveta Helena",
+			"ru": "\u041e\u0441\u0442\u0440\u043e\u0432\x20\u0421\u0432\u044f\u0442\u043e\u0439\x20\u0415\u043b\u0435\u043d\u044b"
 		},
 		"latlng": [-15.95, -5.7],
 		"demonym": "Saint Helenian",
@@ -5705,7 +5894,8 @@
 			"it": "Saint Kitts e Nevis",
 			"ja": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
 			"nl": "Saint Kitts en Nevis",
-			"hr": "Sveti Kristof i Nevis"
+			"hr": "Sveti Kristof i Nevis",
+			"ru": "\u0421\u0435\u043d\u0442\x2d\u041a\u0438\u0442\u0441\x20\u0438\x20\u041d\u0435\u0432\u0438\u0441"
 		},
 		"latlng": [17.33333333, -62.75],
 		"demonym": "Kittian and Nevisian",
@@ -5735,7 +5925,8 @@
 			"it": "Santa Lucia",
 			"ja": "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2",
 			"nl": "Saint Lucia",
-			"hr": "Sveta Lucija"
+			"hr": "Sveta Lucija",
+			"ru": "\u0421\u0435\u043d\u0442\x2d\u041b\u044e\u0441\u0438\u044f"
 		},
 		"latlng": [13.88333333, -60.96666666],
 		"demonym": "Saint Lucian",
@@ -5765,7 +5956,8 @@
 			"it": "Saint Martin",
 			"ja": "\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3\uff08\u30d5\u30e9\u30f3\u30b9\u9818\uff09",
 			"nl": "Saint-Martin",
-			"hr": "Sveti Martin"
+			"hr": "Sveti Martin",
+			"ru": "\u0421\u0435\u043d\x2d\u041c\u0430\u0440\u0442\u0435\u043d"
 		},
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
@@ -5795,7 +5987,8 @@
 			"it": "Saint-Pierre e Miquelon",
 			"ja": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6",
 			"nl": "Saint Pierre en Miquelon",
-			"hr": "Sveti Petar i Mikelon"
+			"hr": "Sveti Petar i Mikelon",
+			"ru": "\u0421\u0435\u043d\x2d\u041f\u044c\u0435\u0440\x20\u0438\x20\u041c\u0438\u043a\u0435\u043b\u043e\u043d"
 		},
 		"latlng": [46.83333333, -56.33333333],
 		"demonym": "French",
@@ -5825,7 +6018,8 @@
 			"it": "Saint Vincent e Grenadine",
 			"ja": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6",
 			"nl": "Saint Vincent en de Grenadines",
-			"hr": "Sveti Vincent i Grenadini"
+			"hr": "Sveti Vincent i Grenadini",
+			"ru": "\u0421\u0435\u043d\u0442\x2d\u0412\u0438\u043d\u0441\u0435\u043d\u0442\x20\u0438\x20\u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u044b"
 		},
 		"latlng": [13.25, -61.2],
 		"demonym": "Saint Vincentian",
@@ -5855,7 +6049,8 @@
 			"it": "Samoa",
 			"ja": "\u30b5\u30e2\u30a2",
 			"nl": "Samoa",
-			"hr": "Samoa"
+			"hr": "Samoa",
+			"ru": "\u0421\u0430\u043c\u043e\u0430"
 		},
 		"latlng": [-13.58333333, -172.33333333],
 		"demonym": "Samoan",
@@ -5885,7 +6080,8 @@
 			"it": "San Marino",
 			"ja": "\u30b5\u30f3\u30de\u30ea\u30ce",
 			"nl": "San Marino",
-			"hr": "San Marino"
+			"hr": "San Marino",
+			"ru": "\u0421\u0430\u043d\x2d\u041c\u0430\u0440\u0438\u043d\u043e"
 		},
 		"latlng": [43.76666666, 12.41666666],
 		"demonym": "Sammarinese",
@@ -5915,7 +6111,8 @@
 			"it": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
 			"ja": "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da",
 			"nl": "Sao Tom\u00e9 en Principe",
-			"hr": "Sveti Toma i Princip"
+			"hr": "Sveti Toma i Princip",
+			"ru": "\u0421\u0430\u043d\x2d\u0422\u043e\u043c\u0435\x20\u0438\x20\u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0438"
 		},
 		"latlng": [1, 7],
 		"demonym": "Sao Tomean",
@@ -5945,7 +6142,8 @@
 			"it": "Arabia Saudita",
 			"ja": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2",
 			"nl": "Saoedi-Arabi\u00eb",
-			"hr": "Saudijska Arabija"
+			"hr": "Saudijska Arabija",
+			"ru": "\u0421\u0430\u0443\u0434\u043e\u0432\u0441\u043a\u0430\u044f\x20\u0410\u0440\u0430\u0432\u0438\u044f"
 		},
 		"latlng": [25, 45],
 		"demonym": "Saudi Arabian",
@@ -5975,7 +6173,8 @@
 			"it": "Senegal",
 			"ja": "\u30bb\u30cd\u30ac\u30eb",
 			"nl": "Senegal",
-			"hr": "Senegal"
+			"hr": "Senegal",
+			"ru": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
 		},
 		"latlng": [14, -14],
 		"demonym": "Senegalese",
@@ -6005,7 +6204,8 @@
 			"it": "Serbia",
 			"ja": "\u30bb\u30eb\u30d3\u30a2",
 			"nl": "Servi\u00eb",
-			"hr": "Srbija"
+			"hr": "Srbija",
+			"ru": "\u0421\u0435\u0440\u0431\u0438\u044f"
 		},
 		"latlng": [44, 21],
 		"demonym": "Serbian",
@@ -6035,7 +6235,8 @@
 			"it": "Seychelles",
 			"ja": "\u30bb\u30fc\u30b7\u30a7\u30eb",
 			"nl": "Seychellen",
-			"hr": "Sej\u0161eli"
+			"hr": "Sej\u0161eli",
+			"ru": "\u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u043a\u0438\u0435\x20\u041e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [-4.58333333, 55.66666666],
 		"demonym": "Seychellois",
@@ -6065,7 +6266,8 @@
 			"it": "Sierra Leone",
 			"ja": "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd",
 			"nl": "Sierra Leone",
-			"hr": "Sijera Leone"
+			"hr": "Sijera Leone",
+			"ru": "\u0421\u044c\u0435\u0440\u0440\u0430\x2d\u041b\u0435\u043e\u043d\u0435"
 		},
 		"latlng": [8.5, -11.5],
 		"demonym": "Sierra Leonean",
@@ -6095,7 +6297,8 @@
 			"it": "Singapore",
 			"ja": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb",
 			"es": "Singapur",
-			"hr": "Singapur"
+			"hr": "Singapur",
+			"ru": "\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440"
 		},
 		"latlng": [1.36666666, 103.8],
 		"demonym": "Singaporean",
@@ -6119,7 +6322,8 @@
 		"language": ["Dutch", "English"],
 		"languageCodes": ["nl", "en"],
 		"translations": {
-			"nl": "Sint Maarten"
+			"nl": "Sint Maarten",
+			"ru": "\u0421\u0438\u043d\u0442\x2d\u041c\u0430\u0440\u0442\u0435\u043d"
 		},
 		"latlng": [18.033333, -63.05],
 		"demonym": "Dutch",
@@ -6149,7 +6353,8 @@
 			"it": "Slovacchia",
 			"ja": "\u30b9\u30ed\u30d0\u30ad\u30a2",
 			"nl": "Slowakije",
-			"hr": "Slova\u010dka"
+			"hr": "Slova\u010dka",
+			"ru": "\u0421\u043b\u043e\u0432\u0430\u043a\u0438\u044f"
 		},
 		"latlng": [48.66666666, 19.5],
 		"demonym": "Slovak",
@@ -6179,7 +6384,8 @@
 			"it": "Slovenia",
 			"ja": "\u30b9\u30ed\u30d9\u30cb\u30a2",
 			"nl": "Sloveni\u00eb",
-			"hr": "Slovenija"
+			"hr": "Slovenija",
+			"ru": "\u0421\u043b\u043e\u0432\u0435\u043d\u0438\u044f"
 		},
 		"latlng": [46.11666666, 14.81666666],
 		"demonym": "Slovene",
@@ -6209,7 +6415,8 @@
 			"it": "Isole Salomone",
 			"ja": "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6",
 			"nl": "Salomonseilanden",
-			"hr": "Solomonski Otoci"
+			"hr": "Solomonski Otoci",
+			"ru": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b\x20\u041e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [-8, 159],
 		"demonym": "Solomon Islander",
@@ -6239,7 +6446,8 @@
 			"it": "Somalia",
 			"ja": "\u30bd\u30de\u30ea\u30a2",
 			"nl": "Somali\u00eb",
-			"hr": "Somalija"
+			"hr": "Somalija",
+			"ru": "\u0421\u043e\u043c\u0430\u043b\u0438"
 		},
 		"latlng": [10, 49],
 		"demonym": "Somali",
@@ -6269,7 +6477,8 @@
 			"it": "Sud Africa",
 			"ja": "\u5357\u30a2\u30d5\u30ea\u30ab",
 			"nl": "Zuid-Afrika",
-			"hr": "Ju\u017enoafri\u010dka Republika"
+			"hr": "Ju\u017enoafri\u010dka Republika",
+			"ru": "\u042e\u0436\u043d\u043e\x2d\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f\x20\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
 		},
 		"latlng": [-29, 24],
 		"demonym": "South African",
@@ -6299,7 +6508,8 @@
 			"it": "Georgia del Sud e Isole Sandwich Meridionali",
 			"ja": "\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u30fb\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u8af8\u5cf6",
 			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
-			"hr": "Ju\u017ena Georgija i oto\u010dje Ju\u017eni Sandwich"
+			"hr": "Ju\u017ena Georgija i oto\u010dje Ju\u017eni Sandwich",
+			"ru": "\u042e\u0436\u043d\u0430\u044f\x20\u0413\u0435\u043e\u0440\u0433\u0438\u044f\x20\u0438\x20\u042e\u0436\u043d\u044b\u0435\x20\u0421\u0430\u043d\u0434\u0432\u0438\u0447\u0435\u0432\u044b\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [-54.5, -37],
 		"demonym": "South Georgia and the South Sandwich Islander",
@@ -6329,7 +6539,8 @@
 			"it": "Corea del Sud",
 			"ja": "\u5927\u97d3\u6c11\u56fd",
 			"nl": "Zuid-Korea",
-			"hr": "Ju\u017ena Koreja"
+			"hr": "Ju\u017ena Koreja",
+			"ru": "\u042e\u0436\u043d\u0430\u044f\x20\u041a\u043e\u0440\u0435\u044f"
 		},
 		"latlng": [37, 127.5],
 		"demonym": "South Korean",
@@ -6359,7 +6570,8 @@
 			"it": "Sudan del sud",
 			"ja": "\u5357\u30b9\u30fc\u30c0\u30f3",
 			"es": "Sud\u00e1n del Sur",
-			"hr": "Ju\u017eni Sudan"
+			"hr": "Ju\u017eni Sudan",
+			"ru": "\u042e\u0436\u043d\u044b\u0439\x20\u0421\u0443\u0434\u0430\u043d"
 		},
 		"latlng": [7, 30],
 		"demonym": "South Sudanese",
@@ -6389,7 +6601,8 @@
 			"it": "Spagna",
 			"ja": "\u30b9\u30da\u30a4\u30f3",
 			"nl": "Spanje",
-			"hr": "\u0160panjolska"
+			"hr": "\u0160panjolska",
+			"ru": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [40, -4],
 		"demonym": "Spanish",
@@ -6419,7 +6632,8 @@
 			"it": "Sri Lanka",
 			"ja": "\u30b9\u30ea\u30e9\u30f3\u30ab",
 			"nl": "Sri Lanka",
-			"hr": "\u0160ri Lanka"
+			"hr": "\u0160ri Lanka",
+			"ru": "\u0428\u0440\u0438\x2d\u041b\u0430\u043d\u043a\u0430"
 		},
 		"latlng": [7, 81],
 		"demonym": "Sri Lankan",
@@ -6449,7 +6663,8 @@
 			"it": "Sudan",
 			"ja": "\u30b9\u30fc\u30c0\u30f3",
 			"nl": "Soedan",
-			"hr": "Sudan"
+			"hr": "Sudan",
+			"ru": "\u0421\u0443\u0434\u0430\u043d"
 		},
 		"latlng": [15, 30],
 		"demonym": "Sudanese",
@@ -6479,7 +6694,8 @@
 			"it": "Suriname",
 			"ja": "\u30b9\u30ea\u30ca\u30e0",
 			"nl": "Suriname",
-			"hr": "Surinam"
+			"hr": "Surinam",
+			"ru": "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
 		},
 		"latlng": [4, -56],
 		"demonym": "Surinamer",
@@ -6509,7 +6725,8 @@
 			"it": "Svalbard e Jan Mayen",
 			"ja": "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u304a\u3088\u3073\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6",
 			"nl": "Svalbard en Jan Mayen",
-			"hr": "Svalbard i Jan Mayen"
+			"hr": "Svalbard i Jan Mayen",
+			"ru": "\u0428\u043f\u0438\u0446\u0431\u0435\u0440\u0433\u0435\u043d\x20\u0438\x20\u042f\u043d\x2d\u041c\u0430\u0439\u0435\u043d"
 		},
 		"latlng": [78, 20],
 		"demonym": "Norwegian",
@@ -6539,7 +6756,8 @@
 			"it": "Swaziland",
 			"ja": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9",
 			"nl": "Swaziland",
-			"hr": "Svazi"
+			"hr": "Svazi",
+			"ru": "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"
 		},
 		"latlng": [-26.5, 31.5],
 		"demonym": "Swazi",
@@ -6569,7 +6787,8 @@
 			"it": "Svezia",
 			"ja": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3",
 			"nl": "Zweden",
-			"hr": "\u0160vedska"
+			"hr": "\u0160vedska",
+			"ru": "\u0428\u0432\u0435\u0446\u0438\u044f"
 		},
 		"latlng": [62, 15],
 		"demonym": "Swedish",
@@ -6599,7 +6818,8 @@
 			"it": "Svizzera",
 			"ja": "\u30b9\u30a4\u30b9",
 			"nl": "Zwitserland",
-			"hr": "\u0160vicarska"
+			"hr": "\u0160vicarska",
+			"ru": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f"
 		},
 		"latlng": [47, 8],
 		"demonym": "Swiss",
@@ -6629,7 +6849,8 @@
 			"it": "Siria",
 			"ja": "\u30b7\u30ea\u30a2\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd",
 			"nl": "Syri\u00eb",
-			"hr": "Sirija"
+			"hr": "Sirija",
+			"ru": "\u0421\u0438\u0440\u0438\u044f"
 		},
 		"latlng": [35, 38],
 		"demonym": "Syrian",
@@ -6659,7 +6880,8 @@
 			"it": "Taiwan",
 			"ja": "\u53f0\u6e7e\uff08\u53f0\u6e7e\u7701\/\u4e2d\u83ef\u6c11\u56fd\uff09",
 			"nl": "Taiwan",
-			"hr": "Tajvan"
+			"hr": "Tajvan",
+			"ru": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c"
 		},
 		"latlng": [23.5, 121],
 		"demonym": "Taiwanese",
@@ -6689,7 +6911,8 @@
 			"it": "Tagikistan",
 			"ja": "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3",
 			"nl": "Tadzjikistan",
-			"hr": "Ta\u0111ikistan"
+			"hr": "Ta\u0111ikistan",
+			"ru": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d"
 		},
 		"latlng": [39, 71],
 		"demonym": "Tadzhik",
@@ -6719,7 +6942,8 @@
 			"it": "Tanzania",
 			"ja": "\u30bf\u30f3\u30b6\u30cb\u30a2",
 			"nl": "Tanzania",
-			"hr": "Tanzanija"
+			"hr": "Tanzanija",
+			"ru": "\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [-6, 35],
 		"demonym": "Tanzanian",
@@ -6749,7 +6973,8 @@
 			"it": "Tailandia",
 			"ja": "\u30bf\u30a4",
 			"es": "Tailandia",
-			"hr": "Tajland"
+			"hr": "Tajland",
+			"ru": "\u0422\u0430\u0438\u043b\u0430\u043d\u0434"
 		},
 		"latlng": [15, 100],
 		"demonym": "Thai",
@@ -6779,7 +7004,8 @@
 			"it": "Timor Est",
 			"ja": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb",
 			"es": "Timor Oriental",
-			"hr": "Isto\u010dni Timor"
+			"hr": "Isto\u010dni Timor",
+			"ru": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439\x20\u0422\u0438\u043c\u043e\u0440"
 		},
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
@@ -6809,7 +7035,8 @@
 			"it": "Togo",
 			"ja": "\u30c8\u30fc\u30b4",
 			"nl": "Togo",
-			"hr": "Togo"
+			"hr": "Togo",
+			"ru": "\u0422\u043e\u0433\u043e"
 		},
 		"latlng": [8, 1.16666666],
 		"demonym": "Togolese",
@@ -6839,7 +7066,8 @@
 			"it": "Isole Tokelau",
 			"ja": "\u30c8\u30b1\u30e9\u30a6",
 			"nl": "Tokelau",
-			"hr": "Tokelau"
+			"hr": "Tokelau",
+			"ru": "\u0422\u043e\u043a\u0435\u043b\u0430\u0443"
 		},
 		"latlng": [-9, -172],
 		"demonym": "Tokelauan",
@@ -6869,7 +7097,8 @@
 			"it": "Tonga",
 			"ja": "\u30c8\u30f3\u30ac",
 			"nl": "Tonga",
-			"hr": "Tonga"
+			"hr": "Tonga",
+			"ru": "\u0422\u043e\u043d\u0433\u0430"
 		},
 		"latlng": [-20, -175],
 		"demonym": "Tongan",
@@ -6899,7 +7128,8 @@
 			"it": "Trinidad e Tobago",
 			"ja": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4",
 			"nl": "Trinidad en Tobago",
-			"hr": "Trinidad i Tobago"
+			"hr": "Trinidad i Tobago",
+			"ru": "\u0422\u0440\u0438\u043d\u0438\u0434\u0430\u0434\x20\u0438\x20\u0422\u043e\u0431\u0430\u0433\u043e"
 		},
 		"latlng": [11, -61],
 		"demonym": "Trinidadian",
@@ -6929,7 +7159,8 @@
 			"it": "Tunisia",
 			"ja": "\u30c1\u30e5\u30cb\u30b8\u30a2",
 			"nl": "Tunesi\u00eb",
-			"hr": "Tunis"
+			"hr": "Tunis",
+			"ru": "\u0422\u0443\u043d\u0438\u0441"
 		},
 		"latlng": [34, 9],
 		"demonym": "Tunisian",
@@ -6959,7 +7190,8 @@
 			"it": "Turchia",
 			"ja": "\u30c8\u30eb\u30b3",
 			"nl": "Turkije",
-			"hr": "Turska"
+			"hr": "Turska",
+			"ru": "\u0422\u0443\u0440\u0446\u0438\u044f"
 		},
 		"latlng": [39, 35],
 		"demonym": "Turkish",
@@ -6989,7 +7221,8 @@
 			"it": "Turkmenistan",
 			"ja": "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3",
 			"nl": "Turkmenistan",
-			"hr": "Turkmenistan"
+			"hr": "Turkmenistan",
+			"ru": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f"
 		},
 		"latlng": [40, 60],
 		"demonym": "Turkmen",
@@ -7019,7 +7252,8 @@
 			"it": "Isole Turks e Caicos",
 			"ja": "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6",
 			"nl": "Turks- en Caicoseilanden",
-			"hr": "Otoci Turks i Caicos"
+			"hr": "Otoci Turks i Caicos",
+			"ru": "\u0422\u0435\u0440\u043a\u0441\x20\u0438\x20\u041a\u0430\u0439\u043a\u043e\u0441"
 		},
 		"latlng": [21.75, -71.58333333],
 		"demonym": "Turks and Caicos Islander",
@@ -7049,7 +7283,8 @@
 			"it": "Tuvalu",
 			"ja": "\u30c4\u30d0\u30eb",
 			"nl": "Tuvalu",
-			"hr": "Tuvalu"
+			"hr": "Tuvalu",
+			"ru": "\u0422\u0443\u0432\u0430\u043b\u0443"
 		},
 		"latlng": [-8, 178],
 		"demonym": "Tuvaluan",
@@ -7079,7 +7314,8 @@
 			"it": "Uganda",
 			"ja": "\u30a6\u30ac\u30f3\u30c0",
 			"nl": "Oeganda",
-			"hr": "Uganda"
+			"hr": "Uganda",
+			"ru": "\u0423\u0433\u0430\u043d\u0434\u0430"
 		},
 		"latlng": [1, 32],
 		"demonym": "Ugandan",
@@ -7109,7 +7345,8 @@
 			"it": "Ucraina",
 			"ja": "\u30a6\u30af\u30e9\u30a4\u30ca",
 			"nl": "Oekra\u00efne",
-			"hr": "Ukrajina"
+			"hr": "Ukrajina",
+			"ru": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430"
 		},
 		"latlng": [49, 32],
 		"demonym": "Ukrainian",
@@ -7139,7 +7376,8 @@
 			"it": "Emirati Arabi Uniti",
 			"ja": "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6",
 			"nl": "Verenigde Arabische Emiraten",
-			"hr": "Ujedinjeni Arapski Emirati"
+			"hr": "Ujedinjeni Arapski Emirati",
+			"ru": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435\x20\u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435\x20\u042d\u043c\u0438\u0440\u0430\u0442\u044b"
 		},
 		"latlng": [24, 54],
 		"demonym": "Emirati",
@@ -7169,7 +7407,8 @@
 			"it": "Regno Unito",
 			"ja": "\u30a4\u30ae\u30ea\u30b9",
 			"nl": "Verenigd Koninkrijk",
-			"hr": "Ujedinjeno Kraljevstvo"
+			"hr": "Ujedinjeno Kraljevstvo",
+			"ru": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
 		},
 		"latlng": [54, -2],
 		"demonym": "British",
@@ -7199,7 +7438,8 @@
 			"it": "Stati Uniti D'America",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
 			"nl": "Verenigde Staten",
-			"hr": "Sjedinjene Ameri\u010dke Dr\u017eave"
+			"hr": "Sjedinjene Ameri\u010dke Dr\u017eave",
+			"ru": "\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435\x20\u0428\u0442\u0430\u0442\u044b\x20\u0410\u043c\u0435\u0440\u0438\u043a\u0438"
 		},
 		"latlng": [38, -97],
 		"demonym": "American",
@@ -7229,7 +7469,8 @@
 			"it": "Isole minori esterne degli Stati Uniti d'America",
 			"ja": "\u5408\u8846\u56fd\u9818\u6709\u5c0f\u96e2\u5cf6",
 			"nl": "Kleine afgelegen eilanden van de Verenigde Staten",
-			"hr": "Mali udaljeni otoci SAD-a"
+			"hr": "Mali udaljeni otoci SAD-a",
+			"ru": "\u0412\u043d\u0435\u0448\u043d\u0438\u0435\x20\u043c\u0430\u043b\u044b\u0435\x20\u043e\u0441\u0442\u0440\u043e\u0432\u0430\x20\u0421\u0428\u0410"
 		},
 		"latlng": [],
 		"demonym": "American",
@@ -7259,7 +7500,8 @@
 			"it": "Isole Vergini americane",
 			"ja": "\u30a2\u30e1\u30ea\u30ab\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
 			"nl": "Amerikaanse Maagdeneilanden",
-			"hr": "Ameri\u010dki Djevi\u010danski Otoci"
+			"hr": "Ameri\u010dki Djevi\u010danski Otoci",
+			"ru": "\u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435\x20\u041e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [18.35, -64.933333],
 		"demonym": "Virgin Islander",
@@ -7289,7 +7531,8 @@
 			"it": "Uruguay",
 			"ja": "\u30a6\u30eb\u30b0\u30a2\u30a4",
 			"nl": "Uruguay",
-			"hr": "Urugvaj"
+			"hr": "Urugvaj",
+			"ru": "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
 		},
 		"latlng": [-33, -56],
 		"demonym": "Uruguayan",
@@ -7319,7 +7562,8 @@
 			"it": "Uzbekistan",
 			"ja": "\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3",
 			"nl": "Oezbekistan",
-			"hr": "Uzbekistan"
+			"hr": "Uzbekistan",
+			"ru": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
 		},
 		"latlng": [41, 64],
 		"demonym": "Uzbekistani",
@@ -7349,7 +7593,8 @@
 			"it": "Vanuatu",
 			"ja": "\u30d0\u30cc\u30a2\u30c4",
 			"nl": "Vanuatu",
-			"hr": "Vanuatu"
+			"hr": "Vanuatu",
+			"ru": "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
 		},
 		"latlng": [-16, 167],
 		"demonym": "Ni-Vanuatu",
@@ -7379,7 +7624,8 @@
 			"it": "Venezuela",
 			"ja": "\u30d9\u30cd\u30ba\u30a8\u30e9\u30fb\u30dc\u30ea\u30d0\u30eb\u5171\u548c\u56fd",
 			"nl": "Venezuela",
-			"hr": "Venezuela"
+			"hr": "Venezuela",
+			"ru": "\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430"
 		},
 		"latlng": [8, -66],
 		"demonym": "Venezuelan",
@@ -7409,7 +7655,8 @@
 			"it": "Vietnam",
 			"ja": "\u30d9\u30c8\u30ca\u30e0",
 			"es": "Vietnam",
-			"hr": "Vijetnam"
+			"hr": "Vijetnam",
+			"ru": "\u0412\u044c\u0435\u0442\u043d\u0430\u043c"
 		},
 		"latlng": [16.16666666, 107.83333333],
 		"demonym": "Vietnamese",
@@ -7439,7 +7686,8 @@
 			"it": "Wallis e Futuna",
 			"ja": "\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca",
 			"nl": "Wallis en Futuna",
-			"hr": "Wallis i Fortuna"
+			"hr": "Wallis i Fortuna",
+			"ru": "\u0423\u043e\u043b\u043b\u0438\u0441\x20\u0438\x20\u0424\u0443\u0442\u0443\u043d\u0430"
 		},
 		"latlng": [-13.3, -176.2],
 		"demonym": "Wallis and Futuna Islander",
@@ -7469,7 +7717,8 @@
 			"it": "Sahara Occidentale",
 			"ja": "\u897f\u30b5\u30cf\u30e9",
 			"nl": "Westelijke Sahara",
-			"hr": "Zapadna Sahara"
+			"hr": "Zapadna Sahara",
+			"ru": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f\x20\u0421\u0430\u0445\u0430\u0440\u0430"
 		},
 		"latlng": [24.5, -13],
 		"demonym": "Sahrawi",
@@ -7499,7 +7748,8 @@
 			"it": "Yemen",
 			"ja": "\u30a4\u30a8\u30e1\u30f3",
 			"nl": "Jemen",
-			"hr": "Jemen"
+			"hr": "Jemen",
+			"ru": "\u0419\u0435\u043c\u0435\u043d"
 		},
 		"latlng": [15, 48],
 		"demonym": "Yemeni",
@@ -7529,7 +7779,8 @@
 			"it": "Zambia",
 			"ja": "\u30b6\u30f3\u30d3\u30a2",
 			"nl": "Zambia",
-			"hr": "Zambija"
+			"hr": "Zambija",
+			"ru": "\u0417\u0430\u043c\u0431\u0438\u044f"
 		},
 		"latlng": [-15, 30],
 		"demonym": "Zambian",
@@ -7559,7 +7810,8 @@
 			"it": "Zimbabwe",
 			"ja": "\u30b8\u30f3\u30d0\u30d6\u30a8",
 			"nl": "Zimbabwe",
-			"hr": "Zimbabve"
+			"hr": "Zimbabve",
+			"ru": "\u0417\u0438\u043c\u0431\u0430\u0431\u0432\u0435"
 		},
 		"latlng": [-20, 30],
 		"demonym": "Zimbabwean",
