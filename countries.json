@@ -5904,7 +5904,7 @@
 	{
 		"name": "Saint Martin",
 		"nativeName": "Saint-Martin",
-		"tld": [".mf", ".fr", ".gp"],
+		"tld": [".fr", ".gp"],
 		"cca2": "MF",
 		"ccn3": "663",
 		"cca3": "MAF",
@@ -5916,7 +5916,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"language": ["French"],
-		"languageCodes": ["en", "fr", "nl"],
+		"languageCodes": ["fr"],
 		"translations": {
 			"de": "Saint Martin",
 			"es": "Saint Martin",
@@ -5930,7 +5930,7 @@
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
 		"borders": ["SXM"],
-		"area": -1
+		"area": 53
 	},
 	{
 		"name": "Saint Pierre and Miquelon",
