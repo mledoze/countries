@@ -3428,7 +3428,7 @@
 	},
 	{
 		"name": "Israel",
-		"nativeName": "\u05d9\u05b4\u05e9\u05b0\u05c2\u05e8\u05b8\u05d0\u05b5\u05dc",
+		"nativeName": "\u05d9\u05e9\u05e8\u05d0\u05dc",
 		"tld": [".il"],
 		"cca2": "IL",
 		"ccn3": "376",
@@ -3452,7 +3452,7 @@
 			"hr": "Izrael",
 			"ru": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
 		},
-		"latlng": [31.5, 34.75],
+		"latlng": [31.47, 35.13],
 		"demonym": "Israeli",
 		"borders": ["EGY", "JOR", "LBN", "SYR"],
 		"area": 20770
