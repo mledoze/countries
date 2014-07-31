@@ -6287,14 +6287,19 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"language": ["Dutch", "English"],
-		"languageCodes": ["nl", "en"],
+		"language": ["Dutch", "English", "French"],
+		"languageCodes": ["nl", "en", "fr"],
 		"translations": {
+			"de": "Sint Maarten",
+			"es": "Sint Maarten",
+			"fr": "Saint-Martin",
+			"it": "Sint Maarten",
+			"ja": "\u30b7\u30f3\u30c8\u30fb\u30de\u30fc\u30eb\u30c6\u30f3",
 			"nl": "Sint Maarten",
 			"ru": "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
 		},
 		"latlng": [18.033333, -63.05],
-		"demonym": "Dutch",
+		"demonym": "St. Maartener",
 		"borders": ["MAF"],
 		"area": 34
 	},
