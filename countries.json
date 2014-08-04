@@ -97,7 +97,7 @@
 	{
 		"name": "Algeria",
 		"nativeName": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
-		"tld": [".dz"],
+		"tld": [".dz",".\u0627\u0644\u062c\u0632\u0627\u0626\u0631"],
 		"cca2": "DZ",
 		"ccn3": "012",
 		"cca3": "DZA",
@@ -446,7 +446,7 @@
 	{
 		"name": "Austria",
 		"nativeName": "\u00d6sterreich",
-		"tld": [".at"],
+		"tld": [".at",".vienna"],
 		"cca2": "AT",
 		"ccn3": "040",
 		"cca3": "AUT",
@@ -1459,7 +1459,7 @@
 	{
 		"name": "China",
 		"nativeName": "\u4e2d\u56fd",
-		"tld": [".cn"],
+		"tld": [".cn",".\u4e2d\u56fd",".\u4e2d\u570b",".\u516c\u53f8",".\u7f51\u7edc", ".\u5728\u7ebf", ".\u4e2d\u6587\u7f51",".\u79fb\u52a8"],
 		"cca2": "CN",
 		"ccn3": "156",
 		"cca3": "CHN",
@@ -2060,7 +2060,7 @@
 	{
 		"name": "Egypt",
 		"nativeName": "\u0645\u0635\u0631\u200e",
-		"tld": [".eg"],
+		"tld": [".eg",".\u0645\u0635\u0631"],
 		"cca2": "EG",
 		"ccn3": "818",
 		"cca3": "EGY",
@@ -2376,7 +2376,7 @@
 	{
 		"name": "France",
 		"nativeName": "France",
-		"tld": [".fr"],
+		"tld": [".fr",".paris"],
 		"cca2": "FR",
 		"ccn3": "250",
 		"cca3": "FRA",
@@ -2593,7 +2593,7 @@
 	{
 		"name": "Germany",
 		"nativeName": "Deutschland",
-		"tld": [".de"],
+		"tld": [".de",".berlin"],
 		"cca2": "DE",
 		"ccn3": "276",
 		"cca3": "DEU",
@@ -3120,7 +3120,7 @@
 	{
 		"name": "Hong Kong",
 		"nativeName": "\u9999\u6e2f",
-		"tld": [".hk"],
+		"tld": [".hk",".\u9999\u6e2f"],
 		"cca2": "HK",
 		"ccn3": "344",
 		"cca3": "HKG",
@@ -3306,7 +3306,7 @@
 	{
 		"name": "Iran",
 		"nativeName": "Ir\u0101n",
-		"tld": [".ir"],
+		"tld": [".ir","\u0627\u06cc\u0631\u0627\u0646."],
 		"cca2": "IR",
 		"ccn3": "364",
 		"cca3": "IRN",
@@ -3522,7 +3522,7 @@
 	{
 		"name": "Japan",
 		"nativeName": "\u65e5\u672c",
-		"tld": [".jp"],
+		"tld": [".jp",".\u307f\u3093\u306a",".nagoya",".tokyo"],
 		"cca2": "JP",
 		"ccn3": "392",
 		"cca3": "JPN",
@@ -3584,7 +3584,7 @@
 	{
 		"name": "Jordan",
 		"nativeName": "\u0627\u0644\u0623\u0631\u062f\u0646",
-		"tld": [".jo"],
+		"tld": [".jo","\u0627\u0644\u0627\u0631\u062f\u0646."],
 		"cca2": "JO",
 		"ccn3": "400",
 		"cca3": "JOR",
@@ -4669,7 +4669,7 @@
 	{
 		"name": "Morocco",
 		"nativeName": "\u0627\u0644\u0645\u063a\u0631\u0628",
-		"tld": [".ma"],
+		"tld": [".ma","\u0627\u0644\u0645\u063a\u0631\u0628."],
 		"cca2": "MA",
 		"ccn3": "504",
 		"cca3": "MAR",
@@ -4917,7 +4917,7 @@
 	{
 		"name": "New Zealand",
 		"nativeName": "New Zealand",
-		"tld": [".nz"],
+		"tld": [".nz",".kiwi"],
 		"cca2": "NZ",
 		"ccn3": "554",
 		"cca3": "NZL",
@@ -5289,7 +5289,7 @@
 	{
 		"name": "Palestine",
 		"nativeName": "\u0641\u0644\u0633\u0637\u064a\u0646",
-		"tld": [".ps"],
+		"tld": [".ps","\u0641\u0644\u0633\u0637\u064a\u0646."],
 		"cca2": "PS",
 		"ccn3": "275",
 		"cca3": "PSE",
@@ -5599,7 +5599,7 @@
 	{
 		"name": "Qatar",
 		"nativeName": "\u0642\u0637\u0631",
-		"tld": [".qa"],
+		"tld": [".qa","\u0642\u0637\u0631."],
 		"cca2": "QA",
 		"ccn3": "634",
 		"cca3": "QAT",
@@ -5718,7 +5718,7 @@
 	{
 		"name": "Russia",
 		"nativeName": "\u0420\u043e\u0441\u0441\u0438\u044f",
-		"tld": [".ru"],
+		"tld": [".ru",".su",".\u0440\u0444"],
 		"cca2": "RU",
 		"ccn3": "643",
 		"cca3": "RUS",
@@ -6090,14 +6090,14 @@
 	{
 		"name": "Saudi Arabia",
 		"nativeName": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
-		"tld": [".sa"],
+		"tld": [".sa",".\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"],
 		"cca2": "SA",
 		"ccn3": "682",
 		"cca3": "SAU",
 		"currency": ["SAR"],
 		"callingCode": ["966"],
 		"capital": "Riyadh",
-		"altSpellings": ["SA", "Kingdom of Saudi Arabia", "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"],
+		"altSpellings": ["Saudi", "SA", "Kingdom of Saudi Arabia", "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"],
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
@@ -6152,7 +6152,7 @@
 	{
 		"name": "Serbia",
 		"nativeName": "\u0421\u0440\u0431\u0438\u0458\u0430",
-		"tld": [".rs"],
+		"tld": [".rs",".\u0441\u0440\u0431"],
 		"cca2": "RS",
 		"ccn3": "688",
 		"cca3": "SRB",
@@ -6245,7 +6245,7 @@
 	{
 		"name": "Singapore",
 		"nativeName": "Singapore",
-		"tld": [".sg"],
+		"tld": [".sg",".\u65b0\u52a0\u5761",".\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"],
 		"cca2": "SG",
 		"ccn3": "702",
 		"cca3": "SGP",
@@ -6492,7 +6492,7 @@
 	{
 		"name": "South Korea",
 		"nativeName": "\ub300\ud55c\ubbfc\uad6d",
-		"tld": [".kr"],
+		"tld": [".kr",".\ud55c\uad6d"],
 		"cca2": "KR",
 		"ccn3": "410",
 		"cca3": "KOR",
@@ -6554,7 +6554,7 @@
 	{
 		"name": "Spain",
 		"nativeName": "Espa\u00f1a",
-		"tld": [".es"],
+		"tld": [".es",".cat",".gal"],
 		"cca2": "ES",
 		"ccn3": "724",
 		"cca3": "ESP",
@@ -6585,7 +6585,7 @@
 	{
 		"name": "Sri Lanka",
 		"nativeName": "\u015br\u012b la\u1e43k\u0101va",
-		"tld": [".lk"],
+		"tld": [".lk",".\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",".\u0dbd\u0d82\u0d9a\u0dcf"],
 		"cca2": "LK",
 		"ccn3": "144",
 		"cca3": "LKA",
@@ -6802,7 +6802,7 @@
 	{
 		"name": "Syria",
 		"nativeName": "\u0633\u0648\u0631\u064a\u0627",
-		"tld": [".sy"],
+		"tld": [".sy","\u0633\u0648\u0631\u064a\u0627."],
 		"cca2": "SY",
 		"ccn3": "760",
 		"cca3": "SYR",
@@ -6833,7 +6833,7 @@
 	{
 		"name": "Taiwan",
 		"nativeName": "\u81fa\u7063",
-		"tld": [".tw"],
+		"tld": [".tw",".\u53f0\u6e7e",".\u53f0\u7063"],
 		"cca2": "TW",
 		"ccn3": "158",
 		"cca3": "TWN",
@@ -6926,7 +6926,7 @@
 	{
 		"name": "Thailand",
 		"nativeName": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
-		"tld": [".th"],
+		"tld": [".th",".\u0e44\u0e17\u0e22"],
 		"cca2": "TH",
 		"ccn3": "764",
 		"cca3": "THA",
@@ -7298,7 +7298,7 @@
 	{
 		"name": "Ukraine",
 		"nativeName": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
-		"tld": [".ua"],
+		"tld": [".ua",".\u0443\u043a\u0440"],
 		"cca2": "UA",
 		"ccn3": "804",
 		"cca3": "UKR",
@@ -7329,14 +7329,14 @@
 	{
 		"name": "United Arab Emirates",
 		"nativeName": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
-		"tld": [".ae"],
+		"tld": [".ae",".\u0627\u0645\u0627\u0631\u0627\u062a"],
 		"cca2": "AE",
 		"ccn3": "784",
 		"cca3": "ARE",
 		"currency": ["AED"],
 		"callingCode": ["971"],
 		"capital": "Abu Dhabi",
-		"altSpellings": ["AE", "UAE"],
+		"altSpellings": ["AE", "UAE", "Emirates"],
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
@@ -7360,7 +7360,7 @@
 	{
 		"name": "United Kingdom",
 		"nativeName": "United Kingdom",
-		"tld": [".uk"],
+		"tld": [".uk",".london"],
 		"cca2": "GB",
 		"ccn3": "826",
 		"cca3": "GBR",
