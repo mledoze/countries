@@ -446,7 +446,7 @@
 	{
 		"name": "Austria",
 		"nativeName": "\u00d6sterreich",
-		"tld": [".at"],
+		"tld": [".at",".vienna"],
 		"cca2": "AT",
 		"ccn3": "040",
 		"cca3": "AUT",
@@ -2376,7 +2376,7 @@
 	{
 		"name": "France",
 		"nativeName": "France",
-		"tld": [".fr"],
+		"tld": [".fr",".paris"],
 		"cca2": "FR",
 		"ccn3": "250",
 		"cca3": "FRA",
@@ -2593,7 +2593,7 @@
 	{
 		"name": "Germany",
 		"nativeName": "Deutschland",
-		"tld": [".de"],
+		"tld": [".de",".berlin"],
 		"cca2": "DE",
 		"ccn3": "276",
 		"cca3": "DEU",
@@ -3522,7 +3522,7 @@
 	{
 		"name": "Japan",
 		"nativeName": "\u65e5\u672c",
-		"tld": [".jp",".\u307f\u3093\u306a"],
+		"tld": [".jp",".\u307f\u3093\u306a",".nagoya",".tokyo"],
 		"cca2": "JP",
 		"ccn3": "392",
 		"cca3": "JPN",
@@ -4917,7 +4917,7 @@
 	{
 		"name": "New Zealand",
 		"nativeName": "New Zealand",
-		"tld": [".nz"],
+		"tld": [".nz",".kiwi"],
 		"cca2": "NZ",
 		"ccn3": "554",
 		"cca3": "NZL",
@@ -6554,7 +6554,7 @@
 	{
 		"name": "Spain",
 		"nativeName": "Espa\u00f1a",
-		"tld": [".es"],
+		"tld": [".es",".cat",".gal"],
 		"cca2": "ES",
 		"ccn3": "724",
 		"cca3": "ESP",
@@ -7360,7 +7360,7 @@
 	{
 		"name": "United Kingdom",
 		"nativeName": "United Kingdom",
-		"tld": [".uk"],
+		"tld": [".uk",".london"],
 		"cca2": "GB",
 		"ccn3": "826",
 		"cca3": "GBR",
