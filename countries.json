@@ -6097,7 +6097,7 @@
 		"currency": ["SAR"],
 		"callingCode": ["966"],
 		"capital": "Riyadh",
-		"altSpellings": ["SA", "Kingdom of Saudi Arabia", "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"],
+		"altSpellings": ["Saudi", "SA", "Kingdom of Saudi Arabia", "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"],
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
@@ -6245,7 +6245,7 @@
 	{
 		"name": "Singapore",
 		"nativeName": "Singapore",
-		"tld": [".sg"],
+		"tld": [".sg",".\u65b0\u52a0\u5761",".\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"],
 		"cca2": "SG",
 		"ccn3": "702",
 		"cca3": "SGP",
@@ -6492,7 +6492,7 @@
 	{
 		"name": "South Korea",
 		"nativeName": "\ub300\ud55c\ubbfc\uad6d",
-		"tld": [".kr"],
+		"tld": [".kr",".\ud55c\uad6d"],
 		"cca2": "KR",
 		"ccn3": "410",
 		"cca3": "KOR",
@@ -6585,7 +6585,7 @@
 	{
 		"name": "Sri Lanka",
 		"nativeName": "\u015br\u012b la\u1e43k\u0101va",
-		"tld": [".lk",".\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8"],
+		"tld": [".lk",".\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",".\u0dbd\u0d82\u0d9a\u0dcf"],
 		"cca2": "LK",
 		"ccn3": "144",
 		"cca3": "LKA",
@@ -6802,7 +6802,7 @@
 	{
 		"name": "Syria",
 		"nativeName": "\u0633\u0648\u0631\u064a\u0627",
-		"tld": [".sy"],
+		"tld": [".sy","\u0633\u0648\u0631\u064a\u0627."],
 		"cca2": "SY",
 		"ccn3": "760",
 		"cca3": "SYR",
@@ -6833,7 +6833,7 @@
 	{
 		"name": "Taiwan",
 		"nativeName": "\u81fa\u7063",
-		"tld": [".tw"],
+		"tld": [".tw",".\u53f0\u6e7e",".\u53f0\u7063"],
 		"cca2": "TW",
 		"ccn3": "158",
 		"cca3": "TWN",
@@ -6926,7 +6926,7 @@
 	{
 		"name": "Thailand",
 		"nativeName": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
-		"tld": [".th"],
+		"tld": [".th",".\u0e44\u0e17\u0e22"],
 		"cca2": "TH",
 		"ccn3": "764",
 		"cca3": "THA",
@@ -7336,7 +7336,7 @@
 		"currency": ["AED"],
 		"callingCode": ["971"],
 		"capital": "Abu Dhabi",
-		"altSpellings": ["AE", "UAE"],
+		"altSpellings": ["AE", "UAE", "Emirates"],
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
