@@ -2647,7 +2647,7 @@
 			"hr": "Gana",
 			"ru": "\u0413\u0430\u043d\u0430"
 		},
-		"latlng": [8, -2],
+		"latlng": [7.683, -0.983],
 		"demonym": "Ghanaian",
 		"borders": ["BFA", "CIV", "TGO"],
 		"area": 238533
@@ -7259,7 +7259,7 @@
 			"hr": "Tuvalu",
 			"ru": "\u0422\u0443\u0432\u0430\u043b\u0443"
 		},
-		"latlng": [-8, 178],
+		"latlng": [-7.475, 178.005],
 		"demonym": "Tuvaluan",
 		"borders": [],
 		"area": 26
