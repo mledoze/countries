@@ -5856,17 +5856,17 @@
 		"language": ["English"],
 		"languageCodes": ["en"],
 		"translations": {
-			"de": "St. Kitts und Nevis",
+			"de": "Saint Christopher und Nevis",
 			"es": "San Crist\u00f3bal y Nieves",
 			"fr": "Saint-Christophe-et-Ni\u00e9v\u00e8s",
+			"hr": "Sveti Kristof i Nevis",
 			"it": "Saint Kitts e Nevis",
 			"ja": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
 			"nl": "Saint Kitts en Nevis",
-			"hr": "Sveti Kristof i Nevis",
 			"ru": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441"
 		},
 		"latlng": [17.33333333, -62.75],
-		"demonym": "Kittian and Nevisian",
+		"demonym": "Kittitian or Nevisian",
 		"borders": [],
 		"area": 261
 	},
