@@ -91,13 +91,9 @@ abstract class AbstractConverter implements Converter {
 	 * @return array
 	 */
 	protected function convertArrays(array &$aInput, $sGlue = ',') {
-		$aInput = array_map(function ($value) use ($sGlue) {
-			if (is_array($value)) {
-				return implode($sGlue, $value);
-			}
-			return $value;
+		return array_map(function ($value) use ($sGlue) {
+			return is_array($value) ? $this->recursiveImplode($value, $sGlue) : $value;
 		}, $aInput);
-		return $aInput;
 	}
 
 	/**
@@ -105,6 +101,25 @@ abstract class AbstractConverter implements Converter {
 	 */
 	private function setDefaultOutputDirectory() {
 		$this->sOutputDirectory = __DIR__ . DIRECTORY_SEPARATOR . 'dist' . DIRECTORY_SEPARATOR;
+	}
+
+	/**
+	 * Recursively implode elements
+	 * @param array $aInput
+	 * @param $sGlue
+	 * @return string the array recursively imploded with the glue
+	 */
+	private function recursiveImplode(array $aInput, $sGlue) {
+		// remove empty strings from the array
+		$aInput = array_filter($aInput, function($entry){
+			return $entry !== '';
+		});
+		array_walk($aInput, function (&$value) use ($sGlue) {
+			if (is_array($value)) {
+				$value = $this->recursiveImplode($value, $sGlue);
+			}
+		});
+		return implode($sGlue, $aInput);
 	}
 }
 
