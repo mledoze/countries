@@ -31,8 +31,14 @@ GeoJSON outlines and flags in SVG format.
 #####JSON
 ```json
 {
-	"name": "Austria",
-	"nativeName": "Österreich",
+	"name": {
+        "common": "Austria",
+        "native": {
+            "common": "\u00d6sterreich",
+            "official": ""
+        },
+        "official": ""
+    },
 	"tld": [".at"],
 	"cca2": "AT",
 	"ccn3": "040",
@@ -64,8 +70,14 @@ GeoJSON outlines and flags in SVG format.
 }
 
 {
-	"name": "Nigeria",
-	"nativeName": "Nigeria",
+	"name": {
+            "common": "Nigeria",
+            "native": {
+                "common": "Nigeria",
+                "official": ""
+            },
+            "official": ""
+    },
 	"tld": [".ng"],
 	"cca2": "NG",
 	"ccn3": "566",
@@ -103,11 +115,11 @@ See an example for [Germany](https://github.com/mledoze/countries/blob/bb61a1cdd
 ```csv
 "name";"nativeName";"tld";"cca2";"ccn3";"cca3";"currency";"callingCode";"capital";"altSpellings";"relevance";"region";"subregion";"language";"languageCodes";"translations";"latlng";"demonym";"borders"
 ⋮
-"United Arab Emirates";"دولة الإمارات العربية المتحدة";".ae,امارات.";"AE";"784";"ARE";"AED";"971";"Abu Dhabi";"AE,UAE,Emirates";"0";"Asia";"Western Asia";"Arabic";"ar";"Vereinigte Arabische Emirate,Emiratos Árabes Unidos,Émirats arabes unis,Emirati Arabi Uniti,アラブ首長国連邦,Verenigde Arabische Emiraten,Ujedinjeni Arapski Emirati,Объединённые Арабские Эмираты";"24,54";"Emirati";"OMN,SAU";"83600"
-"United Kingdom";"United Kingdom";".uk";"GB";"826";"GBR";"GBP";"44";"London";"GB,UK,Great Britain";"2.5";"Europe";"Northern Europe";"English";"en";"Vereinigtes Königreich,Reino Unido,Royaume-Uni,Regno Unito,イギリス,Verenigd Koninkrijk,Ujedinjeno Kraljevstvo,Великобритания";"54,-2";"British";"IRL";"242900"
-"United States";"United States";".us";"US";"840";"USA";"USD,USN,USS";"1";"Washington D.C.";"US,USA,United States of America";"3.5";"Americas";"Northern America";"English";"en";"Vereinigte Staaten von Amerika,Estados Unidos,États-Unis,Stati Uniti D'America,アメリカ合衆国,Verenigde Staten,Sjedinjene Američke Države,Соединённые Штаты Америки";"38,-97";"American";"CAN,MEX";"9372610"
-"United States Minor Outlying Islands";"United States Minor Outlying Islands";".us";"UM";"581";"UMI";"USD";"";"";"UM";"0";"Americas";"Northern America";"English";"en";"Kleinere Inselbesitzungen der Vereinigten Staaten,Islas Ultramarinas Menores de Estados Unidos,Îles mineures éloignées des États-Unis,Isole minori esterne degli Stati Uniti d'America,合衆国領有小離島,Kleine afgelegen eilanden van de Verenigde Staten,Mali udaljeni otoci SAD-a,Внешние малые острова США";"";"American";"";"-1"
-"United States Virgin Islands";"United States Virgin Islands";".vi";"VI";"850";"VIR";"USD";"1340";"Charlotte Amalie";"VI";"0.5";"Americas";"Caribbean";"English";"en";"Amerikanische Jungferninseln,Islas Vírgenes de los Estados Unidos,Îles Vierges des États-Unis,Isole Vergini americane,アメリカ領ヴァージン諸島,Amerikaanse Maagdeneilanden,Američki Djevičanski Otoci,Виргинские Острова";"18.35,-64.933333";"Virgin Islander";"";"347"
+"AE,UAE,Emirates";"83600";"OMN,SAU";"971";"Abu Dhabi";"AE";"ARE";"784";"AED";"Emirati";"Arabic";"ar";"24,54";"United Arab Emirates,دولة الإمارات العربية المتحدة";"Asia";"0";"Western Asia";".ae,امارات.";"Vereinigte Arabische Emirate,Emiratos Árabes Unidos,Émirats arabes unis,Ujedinjeni Arapski Emirati,Emirati Arabi Uniti,アラブ首長国連邦,Verenigde Arabische Emiraten,Объединённые Арабские Эмираты"
+"GB,UK,Great Britain";"242900";"IRL";"44";"London";"GB";"GBR";"826";"GBP";"British";"English";"en";"54,-2";"United Kingdom,United Kingdom";"Europe";"2.5";"Northern Europe";".uk";"Vereinigtes Königreich,Reino Unido,Royaume-Uni,Ujedinjeno Kraljevstvo,Regno Unito,イギリス,Verenigd Koninkrijk,Великобритания"
+"US,USA,United States of America";"9372610";"CAN,MEX";"1";"Washington D.C.";"US";"USA";"840";"USD,USN,USS";"American";"English";"en";"38,-97";"United States,United States";"Americas";"3.5";"Northern America";".us";"Vereinigte Staaten von Amerika,Estados Unidos,États-Unis,Sjedinjene Američke Države,Stati Uniti D'America,アメリカ合衆国,Verenigde Staten,Соединённые Штаты Америки"
+"UM";"-1";"";"";"";"UM";"UMI";"581";"USD";"American";"English";"en";"";"United States Minor Outlying Islands,United States Minor Outlying Islands";"Americas";"0";"Northern America";".us";"Kleinere Inselbesitzungen der Vereinigten Staaten,Islas Ultramarinas Menores de Estados Unidos,Îles mineures éloignées des États-Unis,Mali udaljeni otoci SAD-a,Isole minori esterne degli Stati Uniti d'America,合衆国領有小離島,Kleine afgelegen eilanden van de Verenigde Staten,Внешние малые острова США"
+"VI";"347";"";"1340";"Charlotte Amalie";"VI";"VIR";"850";"USD";"Virgin Islander";"English";"en";"18.35,-64.933333";"United States Virgin Islands,United States Virgin Islands";"Americas";"0.5";"Caribbean";".vi";"Amerikanische Jungferninseln,Islas Vírgenes de los Estados Unidos,Îles Vierges des États-Unis,Američki Djevičanski Otoci,Isole Vergini americane,アメリカ領ヴァージン諸島,Amerikaanse Maagdeneilanden,Виргинские Острова"
 ⋮
 ```
 
@@ -115,10 +127,10 @@ See an example for [Germany](https://github.com/mledoze/countries/blob/bb61a1cdd
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
-  <country name="Afghanistan" nativeName="افغانستان" tld=".af" cca2="AF" ccn3="004" cca3="AFG" currency="AFN" callingCode="93" capital="Kabul" altSpellings="AF,Afġānistān" relevance="0" region="Asia" subregion="Southern Asia" language="Pashto,Dari" languageCodes="ps,uz,tk" translations="Affganistan,Afghanistan,Afganistán,Afghanistan,Afghanistan,アフガニスタン,Afghanistan,Afganistan,Афганистан" latlng="33,65" demonym="Afghan" borders="IRN,PAK,TKM,UZB,TJK,CHN" area="652230"/>
-  <country name="Åland Islands" nativeName="Åland" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" callingCode="358" capital="Mariehamn" altSpellings="AX,Aaland,Aland,Ahvenanmaa" relevance="0" region="Europe" subregion="Northern Europe" language="Swedish" languageCodes="sv" translations="Åland,Alandia,Åland,Isole Aland,オーランド諸島,Ålandeilanden,Ålandski otoci,Аландские острова" latlng="60.116667,19.9" demonym="Ålandish" borders="" area="-1"/>
-  <country name="Albania" nativeName="Shqipëria" tld=".al" cca2="AL" ccn3="008" cca3="ALB" currency="ALL" callingCode="355" capital="Tirana" altSpellings="AL,Shqipëri,Shqipëria,Shqipnia" relevance="0" region="Europe" subregion="Southern Europe" language="Albanian" languageCodes="sq" translations="Albania,Albanien,Albania,Albanie,Albania,アルバニア,Albanië,Albanija,Албания" latlng="41,20" demonym="Albanian" borders="MNE,GRC,MKD,KOS" area="28748"/>
-  <country name="Algeria" nativeName="الجزائر" tld=".dz,الجزائر." cca2="DZ" ccn3="012" cca3="DZA" currency="DZD" callingCode="213" capital="Algiers" altSpellings="DZ,Dzayer,Algérie" relevance="0" region="Africa" subregion="Northern Africa" language="Arabic" languageCodes="ar" translations="Algeria,Algerien,Argelia,Algérie,Algeria,アルジェリア,Algerije,Alžir,Алжир" latlng="28,3" demonym="Algerian" borders="TUN,LBY,NER,ESH,MRT,MLI,MAR" area="2381741"/>
+   <country altSpellings="AF,Afġānistān" area="652230" borders="IRN,PAK,TKM,UZB,TJK,CHN" callingCode="93" capital="Kabul" cca2="AF" cca3="AFG" ccn3="004" currency="AFN" demonym="Afghan" language="Pashto,Dari" languageCodes="ps,uz,tk" latlng="33,65" name="Afghanistan,افغانستان" region="Asia" relevance="0" subregion="Southern Asia" tld=".af" translations="Affganistan,Afghanistan,Afganistán,Afghanistan,Afganistan,Afghanistan,アフガニスタン,Afghanistan,Афганистан"/>
+  <country altSpellings="AX,Aaland,Aland,Ahvenanmaa" area="-1" borders="" callingCode="358" capital="Mariehamn" cca2="AX" cca3="ALA" ccn3="248" currency="EUR" demonym="Ålandish" language="Swedish" languageCodes="sv" latlng="60.116667,19.9" name="Åland Islands,Åland" region="Europe" relevance="0" subregion="Northern Europe" tld=".ax" translations="Åland,Alandia,Åland,Ålandski otoci,Isole Aland,オーランド諸島,Ålandeilanden,Аландские острова"/>
+  <country altSpellings="AL,Shqipëri,Shqipëria,Shqipnia" area="28748" borders="MNE,GRC,MKD,KOS" callingCode="355" capital="Tirana" cca2="AL" cca3="ALB" ccn3="008" currency="ALL" demonym="Albanian" language="Albanian" languageCodes="sq" latlng="41,20" name="Albania,Shqipëria" region="Europe" relevance="0" subregion="Southern Europe" tld=".al" translations="Albania,Albanien,Albania,Albanie,Albanija,Albania,アルバニア,Albanië,Албания"/>
+  <country altSpellings="DZ,Dzayer,Algérie" area="2381741" borders="TUN,LBY,NER,ESH,MRT,MLI,MAR" callingCode="213" capital="Algiers" cca2="DZ" cca3="DZA" ccn3="012" currency="DZD" demonym="Algerian" language="Arabic" languageCodes="ar" latlng="28,3" name="Algeria,الجزائر" region="Africa" relevance="0" subregion="Northern Africa" tld=".dz,الجزائر." translations="Algeria,Algerien,Argelia,Algérie,Alžir,Algeria,アルジェリア,Algerije,Алжир"/>
 ⋮
 <countries>
 ```
