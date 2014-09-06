@@ -3,7 +3,11 @@
 This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:
 
  - name
- - native name in its native language (`nativeName`)
+ 	 - common - common name
+ 	 - official - official name
+ 	 - native
+ 	 	 - common - native common name
+ 	 	 - official - native official name
  - country code top-level domain (`tld`)
  - code ISO 3166-1 alpha-2 (`cca2`)
  - code ISO 3166-1 numeric (`ccn3`)
