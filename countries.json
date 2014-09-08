@@ -1147,8 +1147,8 @@
 		"relevance": "0",
 		"region": "",
 		"subregion": "",
-		"language": [""],
-		"languageCodes": [],
+		"language": ["no"],
+		"languageCodes": ["Norwegen"],
 		"translations": {
 			"ja": "\u30d6\u30fc\u30d9\u5cf6",
 			"nl": "Bouveteiland",
@@ -4990,7 +4990,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Malaysian"],
-		"languageCodes": [],
+		"languageCodes": ["my"],
 		"translations": {
 			"ja": "\u30de\u30ec\u30fc\u30b7\u30a2",
 			"nl": "Maleisi\u00eb",
