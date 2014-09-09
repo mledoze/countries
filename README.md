@@ -36,13 +36,13 @@ GeoJSON outlines and flags in SVG format.
 ```json
 {
 	"name": {
-        "common": "Austria",
-        "native": {
-            "common": "\u00d6sterreich",
-            "official": ""
-        },
-        "official": ""
-    },
+		"common": "Austria",
+		"official": "Republic of Austria",
+		"native": {
+			"common": "\u00d6sterreich",
+			"official": "Republik \u00d6sterreich"
+		}
+	},
 	"tld": [".at"],
 	"cca2": "AT",
 	"ccn3": "040",
@@ -50,7 +50,7 @@ GeoJSON outlines and flags in SVG format.
 	"currency": ["EUR"],
 	"callingCode": ["43"],
 	"capital": "Vienna",
-	"altSpellings": ["AT", "Österreich", "Osterreich", "Oesterreich"],
+	"altSpellings": ["AT", "\u00d6sterreich", "Osterreich", "Oesterreich"],
 	"relevance": "0",
 	"region": "Europe",
 	"subregion": "Western Europe",
@@ -58,30 +58,29 @@ GeoJSON outlines and flags in SVG format.
 	"languageCodes": ["de"],
 	"translations": {
 		"cy": "Awstria",
-		"de": "Österreich",
-		"es": "Austria",
 		"fr": "Autriche",
 		"it": "Austria",
-		"ja": "オーストリア",
 		"nl": "Oostenrijk",
-		"hr": "Austrija",
-		"ru": "Австрия"
+		"ja": "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2",
+		"es": "Austria",
+		"ru": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+		"de": "\u00d6sterreich",
+		"hr": "Austrija"
 	},
 	"latlng": [47.33333333, 13.33333333],
 	"demonym": "Austrian",
 	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
 	"area": 83871
-}
-
+},
 {
 	"name": {
-            "common": "Nigeria",
-            "native": {
-                "common": "Nigeria",
-                "official": ""
-            },
-            "official": ""
-    },
+		"common": "Nigeria",
+		"official": "Federal Republic of Nigeria",
+		"native": {
+			"common": "Nigeria",
+			"official": "Federal Republic of Nigeria"
+		}
+	},
 	"tld": [".ng"],
 	"cca2": "NG",
 	"ccn3": "566",
@@ -89,21 +88,21 @@ GeoJSON outlines and flags in SVG format.
 	"currency": ["NGN"],
 	"callingCode": ["234"],
 	"capital": "Abuja",
-	"altSpellings": ["NG", "Nijeriya", "Naíjíríà", "Federal Republic of Nigeria"],
+	"altSpellings": ["NG", "Nijeriya", "Na\u00edj\u00edr\u00ed\u00e0", "Federal Republic of Nigeria"],
 	"relevance": "1.5",
 	"region": "Africa",
 	"subregion": "Western Africa",
 	"language": ["English"],
 	"languageCodes": ["en"],
 	"translations": {
-		"de": "Nigeria",
-		"es": "Nigeria",
-		"fr": "Nigéria",
+		"fr": "Nig\u00e9ria",
 		"it": "Nigeria",
-		"ja": "ナイジェリア",
 		"nl": "Nigeria",
-		"hr": "Nigerija",
-		"ru": "Нигерия"
+		"ja": "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2",
+		"es": "Nigeria",
+		"ru": "\u041d\u0438\u0433\u0435\u0440\u0438\u044f",
+		"de": "Nigeria",
+		"hr": "Nigerija"
 	},
 	"latlng": [10, 8],
 	"demonym": "Nigerian",
