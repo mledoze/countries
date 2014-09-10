@@ -380,10 +380,10 @@
 	{
 		"name": {
 			"common": "Argentina",
-			"official": "Argentine Republic[A]",
+			"official": "Argentine Republic",
 			"native": {
 				"common": "Argentina",
-				"official": "Rep\u00fablica Argentina [ A]"
+				"official": "Rep\u00fablica Argentina"
 			}
 		},
 		"tld": [".ar"],
@@ -3197,10 +3197,10 @@
 	{
 		"name": {
 			"common": "Greece",
-			"official": "Hellenic Republic[1]",
+			"official": "Hellenic Republic",
 			"native": {
 				"common": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
-				"official": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 [ 1 ]"
+				"official": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
 			}
 		},
 		"tld": [".gr"],
@@ -3530,10 +3530,10 @@
 	{
 		"name": {
 			"common": "Guyana",
-			"official": "Co-operative Republic of Guyana[1]",
+			"official": "Co-operative Republic of Guyana",
 			"native": {
 				"common": "Guyana",
-				"official": "Co-operative Republic of Guyana[1]"
+				"official": "Co-operative Republic of Guyana"
 			}
 		},
 		"tld": [".gy"],
@@ -4824,10 +4824,10 @@
 	{
 		"name": {
 			"common": "Macau",
-			"official": "Macao Special Administrative Region of the People's Republic of China[1]",
+			"official": "Macao Special Administrative Region of the People's Republic of China",
 			"native": {
 				"common": "\u6fb3\u9580",
-				"official": "\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a\u4e2d\u56fd\u4eba\u6c11\u5171\u548c\u56fd[1]"
+				"official": "\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a\u4e2d\u56fd\u4eba\u6c11\u5171\u548c\u56fd"
 			}
 		},
 		"tld": [".mo"],
@@ -7630,10 +7630,10 @@
 	{
 		"name": {
 			"common": "Somalia",
-			"official": "Federal Republic of Somalia[1]",
+			"official": "Federal Republic of Somalia",
 			"native": {
 				"common": "Soomaaliya",
-				"official": "Federal Republic of Somalia [ 1 ]"
+				"official": "Federal Republic of Somalia"
 			}
 		},
 		"tld": [".so"],
@@ -9036,10 +9036,10 @@
 	{
 		"name": {
 			"common": "Venezuela",
-			"official": "Bolivarian Republic of Venezuela[a]",
+			"official": "Bolivarian Republic of Venezuela",
 			"native": {
 				"common": "Venezuela",
-				"official": "Rep\u00fablica Bolivariana de Venezuela [ a]"
+				"official": "Rep\u00fablica Bolivariana de Venezuela"
 			}
 		},
 		"tld": [".ve"],
