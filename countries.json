@@ -266,10 +266,10 @@
 	{
 		"name": {
 			"common": "Anguilla",
-			"official": "Anguilla\nOverseas territory of the United Kingdom",
+			"official": "Anguilla",
 			"native": {
 				"common": "Anguilla",
-				"official": "Anguilla\nOverseas territory of the United Kingdom"
+				"official": "Anguilla"
 			}
 		},
 		"tld": [".ai"],
@@ -910,10 +910,10 @@
 	{
 		"name": {
 			"common": "Bermuda",
-			"official": "Bermuda\nOverseas territory of the United Kingdom",
+			"official": "Bermuda",
 			"native": {
 				"common": "Bermuda",
-				"official": "Bermuda\nOverseas territory of the United Kingdom"
+				"official": "Bermuda"
 			}
 		},
 		"tld": [".bm"],
@@ -1242,10 +1242,10 @@
 	{
 		"name": {
 			"common": "British Virgin Islands",
-			"official": "Virgin Islands\nOverseas territory of the United Kingdom",
+			"official": "Virgin Islands",
 			"native": {
 				"common": "British Virgin Islands",
-				"official": "Virgin Islands\nOverseas territory of the United Kingdom"
+				"official": "Virgin Islands"
 			}
 		},
 		"tld": [".vg"],
@@ -1583,10 +1583,10 @@
 	{
 		"name": {
 			"common": "Cayman Islands",
-			"official": "Cayman Islands\nOverseas territory of the United Kingdom",
+			"official": "Cayman Islands",
 			"native": {
 				"common": "Cayman Islands",
-				"official": "Cayman Islands\nOverseas territory of the United Kingdom"
+				"official": "Cayman Islands"
 			}
 		},
 		"tld": [".ky"],
@@ -4971,10 +4971,10 @@
 	{
 		"name": {
 			"common": "Malaysia",
-			"official": "Malaysia\n\u0645\u0644\u064a\u0633\u064a\u0627 (Jawi)",
+			"official": "Malaysia",
 			"native": {
-				"common": "Malaysia",
-				"official": "Malaysia\n\u0645\u0644\u064a\u0633\u064a\u0627 (Jawi)"
+				"common": "\u0645\u0644\u064a\u0633\u064a\u0627",
+				"official": "\u0645\u0644\u064a\u0633\u064a\u0627"
 			}
 		},
 		"tld": [".my"],
@@ -5526,10 +5526,10 @@
 	{
 		"name": {
 			"common": "Montserrat",
-			"official": "Montserrat\nOverseas territory of the United Kingdom",
+			"official": "Montserrat",
 			"native": {
 				"common": "Montserrat",
-				"official": "Montserrat\nOverseas territory of the United Kingdom"
+				"official": "Montserrat"
 			}
 		},
 		"tld": [".ms"],
@@ -5639,8 +5639,8 @@
 			"common": "Myanmar",
 			"official": "Republic of the Union of Myanmar",
 			"native": {
-				"common": "Myanma",
-				"official": "Republic of the Union of Myanmar"
+				"common": "\u1019\u103c\u1014\u103a\u1019\u102c\u1015\u103c\u100a\u103a",
+				"official": "\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f \u101e\u1019\u1039\u1019\u1010 \u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a"
 			}
 		},
 		"tld": [".mm"],
@@ -5713,8 +5713,8 @@
 			"common": "Nauru",
 			"official": "Republic of Nauru",
 			"native": {
-				"common": "Nauru",
-				"official": "Republic of Nauru"
+				"common": "Naoero",
+				"official": "Ripublik Naoero"
 			}
 		},
 		"tld": [".nr"],
@@ -5729,7 +5729,7 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["Nauruan", "English"],
-		"languageCodes": ["en", "na"],
+		"languageCodes": ["na", "en"],
 		"translations": {
 			"fr": "Nauru",
 			"it": "Nauru",
@@ -5750,8 +5750,8 @@
 			"common": "Nepal",
 			"official": "Federal Democratic Republic of Nepal",
 			"native": {
-				"common": "\u0928\u092a\u0932",
-				"official": "\u0928\u0947\u092a\u093e\u0932 \u0938\u0902\u0918\u0940\u092f \u0932\u094b\u0915\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930"
+				"common": "\u0928\u0947\u092a\u093e\u0932",
+				"official": "\u0938\u0919\u094d\u0918\u0940\u092f \u0932\u094b\u0915\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0928\u0947\u092a\u093e\u0932"
 			}
 		},
 		"tld": [".np"],
@@ -5761,7 +5761,7 @@
 		"currency": ["NPR"],
 		"callingCode": ["977"],
 		"capital": "Kathmandu",
-		"altSpellings": ["NP", "Federal Democratic Republic of Nepal", "Lokt\u0101ntrik Ganatantra Nep\u0101l"],
+		"altSpellings": ["NP", "Lokt\u0101ntrik Ganatantra Nep\u0101l"],
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
@@ -6377,10 +6377,10 @@
 	{
 		"name": {
 			"common": "Papua New Guinea",
-			"official": "Independent State of\nPapua New Guinea",
+			"official": "Independent State of Papua New Guinea",
 			"native": {
 				"common": "Papua Niugini",
-				"official": "Independent State of\nPapua New Guinea"
+				"official": "Independent State of Papua New Guinea"
 			}
 		},
 		"tld": [".pg"],
@@ -7223,10 +7223,10 @@
 	{
 		"name": {
 			"common": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-			"official": "Democratic Republic of\nS\u00e3o Tom\u00e9 and Pr\u00edncipe",
+			"official": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
 			"native": {
 				"common": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
-				"official": "Rep\u00fablica Democr\u00e1tica do\nS\u00e3o Tom\u00e9 e Pr\u00edncipe"
+				"official": "Rep\u00fablica Democr\u00e1tica do S\u00e3o Tom\u00e9 e Pr\u00edncipe"
 			}
 		},
 		"tld": [".st"],
@@ -8073,10 +8073,10 @@
 	{
 		"name": {
 			"common": "Switzerland",
-			"official": "Swiss Confederation\nConfoederatio Helvetica (CH) (Latin) Schweizerische Eidgenossenschaft (German)\nConf\u00e9d\u00e9ration suisse (French)\nConfederazione Svizzera (Italian)\nConfederaziun svizra (Romansh)",
+			"official": "Swiss Confederation Confoederatio Helvetica (CH) (Latin) Schweizerische Eidgenossenschaft (German) Conf\u00e9d\u00e9ration suisse (French) Confederazione Svizzera (Italian) Confederaziun svizra (Romansh)",
 			"native": {
 				"common": "Schweiz",
-				"official": "schweizerischen Eidgenossenschaft\nConfoederatio Helvetica (CH) (Latin) Schweizerische Eidgenossenschaft (deutsch)\nConf\u00e9d\u00e9ration suisse (Franz\u00f6sisch)\nConfederazione Svizzera ( italienisch)\nConfederaziun svizra ( R\u00e4toromanisch )"
+				"official": "schweizerischen Eidgenossenschaft Confoederatio Helvetica (CH) (Latin) Schweizerische Eidgenossenschaft (deutsch) Conf\u00e9d\u00e9ration suisse (Franz\u00f6sisch) Confederazione Svizzera ( italienisch) Confederaziun svizra ( R\u00e4toromanisch )"
 			}
 		},
 		"tld": [".ch"],
@@ -8591,10 +8591,10 @@
 	{
 		"name": {
 			"common": "Turks and Caicos Islands",
-			"official": "Turks and Caicos Islands\nOverseas territory of the United Kingdom",
+			"official": "Turks and Caicos Islands",
 			"native": {
 				"common": "Turks and Caicos Islands",
-				"official": "Turks and Caicos Islands\nOverseas territory of the United Kingdom"
+				"official": "Turks and Caicos Islands"
 			}
 		},
 		"tld": [".tc"],
@@ -8776,10 +8776,10 @@
 	{
 		"name": {
 			"common": "United Kingdom",
-			"official": "United Kingdom of Great\nBritain and Northern Ireland",
+			"official": "United Kingdom of Great Britain and Northern Ireland",
 			"native": {
 				"common": "United Kingdom",
-				"official": "United Kingdom of Great\nBritain and Northern Ireland"
+				"official": "United Kingdom of Great Britain and Northern Ireland"
 			}
 		},
 		"tld": [".uk"],
