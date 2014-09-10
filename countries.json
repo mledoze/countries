@@ -1,12 +1,11 @@
 [
-
 	{
 		"name": {
 			"common": "Afghanistan",
 			"official": "Islamic Republic of Afghanistan",
 			"native": {
 				"common": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
-				"official": "\u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u064a \u062c\u0645\u0647\u0648\u0631\u06cc\u062a\u000d\u000a"
+				"official": "\u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u064a \u062c\u0645\u0647\u0648\u0631\u06cc\u062a"
 			}
 		},
 		"tld": [".af"],
@@ -24,14 +23,14 @@
 		"languageCodes": ["ps", "uz", "tk"],
 		"translations": {
 			"cy": "Affganistan",
-			"fr": "Afghanistan",
-			"it": "Afghanistan",
-			"nl": "Afghanistan",
-			"ja": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3",
-			"es": "Afganist\u00e1n",
-			"ru": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d",
 			"de": "Afghanistan",
-			"hr": "Afganistan"
+			"es": "Afganist\u00e1n",
+			"fr": "Afghanistan",
+			"hr": "Afganistan",
+			"it": "Afghanistan",
+			"ja": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3",
+			"nl": "Afghanistan",
+			"ru": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"
 		},
 		"latlng": [33, 65],
 		"demonym": "Afghan",
@@ -44,7 +43,7 @@
 			"official": "\u00c5land Islands",
 			"native": {
 				"common": "\u00c5land",
-				"official": "\u00c5land"
+				"official": "Landskapet \u00c5land"
 			}
 		},
 		"tld": [".ax"],
@@ -61,14 +60,14 @@
 		"language": ["Swedish"],
 		"languageCodes": ["sv"],
 		"translations": {
-			"fr": "\u00c5land",
-			"it": "Isole Aland",
-			"nl": "\u00c5landeilanden",
-			"ja": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
-			"es": "Alandia",
-			"ru": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
 			"de": "\u00c5land",
-			"hr": "\u00c5landski otoci"
+			"es": "Alandia",
+			"fr": "\u00c5land",
+			"hr": "\u00c5landski otoci",
+			"it": "Isole Aland",
+			"ja": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
+			"nl": "\u00c5landeilanden",
+			"ru": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"
 		},
 		"latlng": [60.116667, 19.9],
 		"demonym": "\u00c5landish",
