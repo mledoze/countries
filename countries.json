@@ -1412,7 +1412,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Kirundi", "French"],
-		"languageCodes": ["fr", "rn"],
+		"languageCodes": ["rn", "fr"],
 		"translations": {
 			"it": "Burundi",
 			"hr": "Burundi",
@@ -1472,8 +1472,8 @@
 			"common": "Cameroon",
 			"official": "Republic of Cameroon",
 			"native": {
-				"common": "Cameroon",
-				"official": "Republic of Cameroon"
+				"common": "Cameroun",
+				"official": "République du Cameroun"
 			}
 		},
 		"tld": [".cm"],
@@ -1488,7 +1488,7 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["French", "English"],
-		"languageCodes": ["en", "fr"],
+		"languageCodes": ["fr", "en"],
 		"translations": {
 			"it": "Camerun",
 			"hr": "Kamerun",
@@ -1624,8 +1624,8 @@
 			"common": "Central African Republic",
 			"official": "Central African Republic",
 			"native": {
-				"common": "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka",
-				"official": "R\u00e9publique centrafricaine"
+				"common": "Bêafrîka",
+				"official": "Ködörösêse tî Bêafrîka"
 			}
 		},
 		"tld": [".cf"],
@@ -1640,7 +1640,7 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"language": ["Sango", "French"],
-		"languageCodes": ["fr", "sg"],
+		"languageCodes": ["sg", "fr"],
 		"translations": {
 			"it": "Repubblica Centrafricana",
 			"hr": "Srednjoafri\u010dka Republika",
@@ -3621,7 +3621,7 @@
 		"relevance": "0",
 		"region": "",
 		"subregion": "",
-		"language": [""],
+		"language": ["English"],
 		"languageCodes": ["en"],
 		"translations": {
 			"it": "Isole Heard e McDonald",
@@ -4361,7 +4361,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Swahili", "English"],
-		"languageCodes": ["en", "sw"],
+		"languageCodes": ["sw", "en"],
 		"translations": {
 			"it": "Kenya",
 			"hr": "Kenija",
@@ -4620,7 +4620,7 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"language": ["Sesotho", "English"],
-		"languageCodes": ["en", "st"],
+		"languageCodes": ["st", "en"],
 		"translations": {
 			"it": "Lesotho",
 			"hr": "Lesoto",
@@ -4916,7 +4916,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Malagasy", "French"],
-		"languageCodes": ["fr", "mg"],
+		"languageCodes": ["mg", "fr"],
 		"translations": {
 			"it": "Madagascar",
 			"hr": "Madagaskar",
@@ -4953,7 +4953,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Chichewa", "English"],
-		"languageCodes": ["en", "ny"],
+		"languageCodes": ["ny", "en"],
 		"translations": {
 			"it": "Malawi",
 			"hr": "Malavi",
@@ -5138,7 +5138,7 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["Marshallese", "English"],
-		"languageCodes": ["en", "mh"],
+		"languageCodes": ["mh", "en"],
 		"translations": {
 			"it": "Isole Marshall",
 			"hr": "Mar\u0161alovi Otoci",
@@ -5248,8 +5248,8 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"language": ["French"],
-		"languageCodes": ["en"],
+		"language": ["Mauritian Creole", "English", "French"],
+		"languageCodes": ["", "en", "fr"],
 		"translations": {
 			"it": "Mauritius",
 			"hr": "Mauricijus",
@@ -5730,7 +5730,7 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"language": ["Nauruan", "English"],
-		"languageCodes": ["en", "na"],
+		"languageCodes": ["na", "en"],
 		"translations": {
 			"it": "Nauru",
 			"hr": "Nauru",
@@ -6507,7 +6507,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["Filipino", "English"],
-		"languageCodes": ["en", ""],
+		"languageCodes": ["", "en"],
 		"translations": {
 			"it": "Filippine",
 			"hr": "Filipini",
@@ -6872,7 +6872,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"language": ["Kinyarwanda", "French", "English"],
-		"languageCodes": ["rw", "en", "fr"],
+		"languageCodes": ["rw", "fr", "en"],
 		"translations": {
 			"it": "Ruanda",
 			"hr": "Ruanda",
@@ -7464,7 +7464,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"language": ["English", "Malay", "Mandarin", "Tamil"],
-		"languageCodes": ["en", "ms", "ta", "zh"],
+		"languageCodes": ["en", "ms", "zh", "ta"],
 		"translations": {
 			"it": "Singapore",
 			"hr": "Singapur",
@@ -8018,7 +8018,7 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"language": ["Swazi", "English"],
-		"languageCodes": ["en", "ss"],
+		"languageCodes": ["ss", "en"],
 		"translations": {
 			"it": "Swaziland",
 			"hr": "Svazi",
@@ -8425,7 +8425,7 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"language": ["Tongan", "English"],
-		"languageCodes": ["en", "to"],
+		"languageCodes": ["to", "en"],
 		"translations": {
 			"it": "Tonga",
 			"hr": "Tonga",
@@ -9017,7 +9017,7 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"language": ["Bislama", "French", "English"],
-		"languageCodes": ["bi", "en", "fr"],
+		"languageCodes": ["bi", "fr", "en"],
 		"translations": {
 			"it": "Vanuatu",
 			"hr": "Vanuatu",
