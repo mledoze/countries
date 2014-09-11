@@ -32,8 +32,7 @@
 			},
 			"Turkmen": {
 				"alpha3": "tuk",
-				"alpha2": "tk",
-				"native": true
+				"alpha2": "tk"
 			}
 		},
 		"translations": {
@@ -208,8 +207,7 @@
 			},
 			"Samoan": {
 				"alpha3": "smo",
-				"alpha2": "sm",
-				"native": true
+				"alpha2": "sm"
 			}
 		},
 		"translations": {
@@ -510,8 +508,7 @@
 			},
 			"Russian": {
 				"alpha3": "rus",
-				"alpha2": "ru",
-				"native": true
+				"alpha2": "ru"
 			}
 		},
 		"translations": {
@@ -558,7 +555,7 @@
 			},
 			"Papiamento": {
 				"alpha3": "pap",
-				"alpha2": " "
+				"alpha2": ""
 			}
 		},
 		"translations": {
@@ -685,8 +682,7 @@
 		"languages": {
 			"Armenian": {
 				"alpha3": "hye",
-				"alpha2": "hy",
-				"native": true
+				"alpha2": "hy"
 			},
 			"Azerbaijani": {
 				"alpha3": "aze",
@@ -910,8 +906,7 @@
 			},
 			"Russian": {
 				"alpha3": "rus",
-				"alpha2": "ru",
-				"native": true
+				"alpha2": "ru"
 			}
 		},
 		"translations": {
@@ -958,13 +953,11 @@
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			},
 			"German": {
 				"alpha3": "deu",
-				"alpha2": "de",
-				"native": true
+				"alpha2": "de"
 			}
 		},
 		"translations": {
@@ -1011,8 +1004,7 @@
 			},
 			"Spanish": {
 				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
+				"alpha2": "es"
 			}
 		},
 		"translations": {
@@ -1278,13 +1270,11 @@
 			},
 			"Croatian": {
 				"alpha3": "hrv",
-				"alpha2": "hr",
-				"native": true
+				"alpha2": "hr"
 			},
 			"Serbian": {
 				"alpha3": "srp",
-				"alpha2": "sr",
-				"native": true
+				"alpha2": "sr"
 			}
 		},
 		"translations": {
@@ -1671,8 +1661,7 @@
 		"languages": {
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			},
 			"Kirundi": {
 				"alpha3": "run",
@@ -1762,8 +1751,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"French": {
 				"alpha3": "fra",
@@ -1815,8 +1803,7 @@
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			}
 		},
 		"translations": {
@@ -1944,8 +1931,7 @@
 		"languages": {
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			},
 			"Sango": {
 				"alpha3": "sag",
@@ -1997,8 +1983,7 @@
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			}
 		},
 		"translations": {
@@ -2255,8 +2240,7 @@
 		"languages": {
 			"Arabic": {
 				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
+				"alpha2": "ar"
 			},
 			"Comorian": {
 				"alpha3": "zdj",
@@ -2265,8 +2249,7 @@
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			}
 		},
 		"translations": {
@@ -2355,8 +2338,7 @@
 		"languages": {
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			},
 			"Kikongo": {
 				"alpha3": "kon",
@@ -2596,8 +2578,7 @@
 			},
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Papiamento": {
 				"alpha3": "pap",
@@ -2641,8 +2622,7 @@
 			},
 			"Turkish": {
 				"alpha3": "tur",
-				"alpha2": "tr",
-				"native": true
+				"alpha2": "tr"
 			}
 		},
 		"translations": {
@@ -2689,8 +2669,7 @@
 			},
 			"Slovak": {
 				"alpha3": "slk",
-				"alpha2": "sk",
-				"native": true
+				"alpha2": "sk"
 			}
 		},
 		"translations": {
@@ -2780,8 +2759,7 @@
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			}
 		},
 		"translations": {
@@ -3038,13 +3016,11 @@
 		"languages": {
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			},
 			"Portuguese": {
 				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
+				"alpha2": "pt"
 			},
 			"Spanish": {
 				"alpha3": "spa",
@@ -3272,8 +3248,7 @@
 		"languages": {
 			"Danish": {
 				"alpha3": "dan",
-				"alpha2": "da",
-				"native": true
+				"alpha2": "da"
 			},
 			"Faroese": {
 				"alpha3": "fao",
@@ -3374,8 +3349,7 @@
 			},
 			"Swedish": {
 				"alpha3": "swe",
-				"alpha2": "sv",
-				"native": true
+				"alpha2": "sv"
 			}
 		},
 		"translations": {
@@ -4013,8 +3987,7 @@
 			},
 			"Spanish": {
 				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
+				"alpha2": "es"
 			}
 		},
 		"translations": {
@@ -4102,8 +4075,7 @@
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			}
 		},
 		"translations": {
@@ -4451,8 +4423,7 @@
 			},
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			}
 		},
 		"translations": {
@@ -4577,8 +4548,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Hindi": {
 				"alpha3": "hin",
@@ -4799,8 +4769,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Irish": {
 				"alpha3": "gle",
@@ -4892,8 +4861,7 @@
 		"languages": {
 			"Arabic": {
 				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
+				"alpha2": "ar"
 			},
 			"Hebrew": {
 				"alpha3": "heb",
@@ -5074,8 +5042,7 @@
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			}
 		},
 		"translations": {
@@ -5163,8 +5130,7 @@
 			},
 			"Russian": {
 				"alpha3": "rus",
-				"alpha2": "ru",
-				"native": true
+				"alpha2": "ru"
 			}
 		},
 		"translations": {
@@ -5205,8 +5171,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Swahili": {
 				"alpha3": "swa",
@@ -5345,8 +5310,7 @@
 			},
 			"Russian": {
 				"alpha3": "rus",
-				"alpha2": "ru",
-				"native": true
+				"alpha2": "ru"
 			}
 		},
 		"translations": {
@@ -5476,8 +5440,7 @@
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			}
 		},
 		"translations": {
@@ -5518,8 +5481,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Sotho": {
 				"alpha3": "sot",
@@ -5738,8 +5700,7 @@
 			},
 			"German": {
 				"alpha3": "deu",
-				"alpha2": "de",
-				"native": true
+				"alpha2": "de"
 			},
 			"Luxembourgish": {
 				"alpha3": "ltz",
@@ -5789,8 +5750,7 @@
 			},
 			"Portuguese": {
 				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
+				"alpha2": "pt"
 			}
 		},
 		"translations": {
@@ -5878,8 +5838,7 @@
 			},
 			"Malagasy": {
 				"alpha3": "mlg",
-				"alpha2": "mg",
-				"native": true
+				"alpha2": "mg"
 			}
 		},
 		"translations": {
@@ -5902,8 +5861,8 @@
 			"common": "Malawi",
 			"official": "Republic of Malawi",
 			"native": {
-				"common": "Malawi",
-				"official": "Republic of Malawi"
+				"common": "Malaŵi",
+				"official": "Chalo cha Malawi, Dziko la Malaŵi"
 			}
 		},
 		"tld": [".mw"],
@@ -5925,8 +5884,7 @@
 			},
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			}
 		},
 		"translations": {
@@ -5967,8 +5925,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Malay": {
 				"alpha3": "msa",
@@ -6098,8 +6055,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Maltese": {
 				"alpha3": "mlt",
@@ -6145,8 +6101,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Marshallese": {
 				"alpha3": "mah",
@@ -6276,13 +6231,11 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			},
 			"Mauritian Creole": {
 				"alpha3": "mfe",
@@ -6669,8 +6622,7 @@
 			},
 			"Berber": {
 				"alpha3": "ber",
-				"alpha2": " ",
-				"native": true
+				"alpha2": ""
 			}
 		},
 		"translations": {
@@ -6800,13 +6752,11 @@
 			},
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"German": {
 				"alpha3": "deu",
-				"alpha2": "de",
-				"native": true
+				"alpha2": "de"
 			},
 			"Herero": {
 				"alpha3": "her",
@@ -6871,8 +6821,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Nauru": {
 				"alpha3": "nau",
@@ -7673,8 +7622,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Hiri Motu": {
 				"alpha3": "hmo",
@@ -7820,8 +7768,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Filipino": {
 				"alpha3": "fil",
@@ -7993,8 +7940,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Spanish": {
 				"alpha3": "spa",
@@ -8087,8 +8033,7 @@
 			},
 			"Serbian": {
 				"alpha3": "srp",
-				"alpha2": "sr",
-				"native": true
+				"alpha2": "sr"
 			}
 		},
 		"translations": {
@@ -8250,13 +8195,11 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			},
 			"Kinyarwanda": {
 				"alpha3": "kin",
@@ -8596,8 +8539,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Samoan": {
 				"alpha3": "smo",
@@ -8853,8 +8795,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"French": {
 				"alpha3": "fra",
@@ -8951,8 +8892,7 @@
 			},
 			"Malay": {
 				"alpha3": "msa",
-				"alpha2": "ms",
-				"native": true
+				"alpha2": "ms"
 			},
 			"Mandarin": {
 				"alpha3": "cmn",
@@ -9006,13 +8946,11 @@
 			},
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			}
 		},
 		"translations": {
@@ -9178,8 +9116,7 @@
 		"languages": {
 			"Arabic": {
 				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
+				"alpha2": "ar"
 			},
 			"Somali": {
 				"alpha3": "som",
@@ -9230,8 +9167,7 @@
 			},
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Northern Sotho": {
 				"alpha3": "nso",
@@ -9239,8 +9175,7 @@
 			},
 			"Sotho": {
 				"alpha3": "sot",
-				"alpha2": "st",
-				"native": true
+				"alpha2": "st"
 			},
 			"Southern Ndebele": {
 				"alpha3": "nbl",
@@ -9248,8 +9183,7 @@
 			},
 			"Swazi": {
 				"alpha3": "ssw",
-				"alpha2": "ss",
-				"native": true
+				"alpha2": "ss"
 			},
 			"Tsonga": {
 				"alpha3": "tso",
@@ -9440,8 +9374,7 @@
 			},
 			"Catalan": {
 				"alpha3": "cat",
-				"alpha2": "ca",
-				"native": true
+				"alpha2": "ca"
 			},
 			"Galician": {
 				"alpha3": "glg",
@@ -9546,8 +9479,7 @@
 			},
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			}
 		},
 		"translations": {
@@ -9671,9 +9603,7 @@
 		"subregion": "Southern Africa",
 		"languages": {
 			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha3": "eng"
 			},
 			"Swazi": {
 				"alpha3": "ssw",
@@ -9761,8 +9691,7 @@
 		"languages": {
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			},
 			"German": {
 				"alpha3": "deu",
@@ -9771,8 +9700,7 @@
 			},
 			"Italian": {
 				"alpha3": "ita",
-				"alpha2": "it",
-				"native": true
+				"alpha2": "it"
 			},
 			"Romansh": {
 				"alpha3": "roh",
@@ -9901,8 +9829,7 @@
 		"languages": {
 			"Russian": {
 				"alpha3": "rus",
-				"alpha2": "ru",
-				"native": true
+				"alpha2": "ru"
 			},
 			"Tajik": {
 				"alpha3": "tgk",
@@ -9948,8 +9875,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Swahili": {
 				"alpha3": "swa",
@@ -10125,13 +10051,11 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Samoan": {
 				"alpha3": "smo",
-				"alpha2": "sm",
-				"native": true
+				"alpha2": "sm"
 			},
 			"Tokelauan": {
 				"alpha3": "tkl",
@@ -10177,8 +10101,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Tongan": {
 				"alpha3": "ton",
@@ -10350,8 +10273,7 @@
 		"languages": {
 			"Russian": {
 				"alpha3": "rus",
-				"alpha2": "ru",
-				"native": true
+				"alpha2": "ru"
 			},
 			"Turkmen": {
 				"alpha3": "tuk",
@@ -10439,8 +10361,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Tuvaluan": {
 				"alpha3": "tvl",
@@ -10486,8 +10407,7 @@
 		"languages": {
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Swahili": {
 				"alpha3": "swa",
@@ -10827,8 +10747,7 @@
 		"languages": {
 			"Russian": {
 				"alpha3": "rus",
-				"alpha2": "ru",
-				"native": true
+				"alpha2": "ru"
 			},
 			"Uzbek": {
 				"alpha3": "uzb",
@@ -10879,13 +10798,11 @@
 			},
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"French": {
 				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
+				"alpha2": "fr"
 			}
 		},
 		"translations": {
@@ -11061,8 +10978,7 @@
 			},
 			"Spanish": {
 				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
+				"alpha2": "es"
 			}
 		},
 		"translations": {
@@ -11196,8 +11112,7 @@
 			},
 			"English": {
 				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
+				"alpha2": "en"
 			},
 			"Kalanga": {
 				"alpha3": "kck",
@@ -11221,8 +11136,7 @@
 			},
 			"Sotho": {
 				"alpha3": "sot",
-				"alpha2": "st",
-				"native": true
+				"alpha2": "st"
 			},
 			"Tonga": {
 				"alpha3": "toi",
