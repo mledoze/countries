@@ -21,19 +21,9 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
-			"Dari": {
-				"alpha3": "prs",
-				"alpha2": ""
-			},
-			"Pashto": {
-				"alpha3": "pus",
-				"alpha2": "ps",
-				"native": true
-			},
-			"Turkmen": {
-				"alpha3": "tuk",
-				"alpha2": "tk"
-			}
+			"prs": "Dari",
+			"pus": "Pashto",
+			"tuk": "Turkmen"
 		},
 		"translations": {
 			"cy": "Affganistan",
@@ -72,11 +62,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Swedish": {
-				"alpha3": "swe",
-				"alpha2": "sv",
-				"native": true
-			}
+			"swe": "Swedish"
 		},
 		"translations": {
 			"de": "\u00c5land",
@@ -114,11 +100,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Albanian": {
-				"alpha3": "sqi",
-				"alpha2": "sq",
-				"native": true
-			}
+			"sqi": "Albanian"
 		},
 		"translations": {
 			"cy": "Albania",
@@ -157,11 +139,7 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"cy": "Algeria",
@@ -200,15 +178,8 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Samoan": {
-				"alpha3": "smo",
-				"alpha2": "sm"
-			}
+			"eng": "English",
+			"smo": "Samoan"
 		},
 		"translations": {
 			"de": "Amerikanisch-Samoa",
@@ -246,11 +217,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Catalan": {
-				"alpha3": "cat",
-				"alpha2": "ca",
-				"native": true
-			}
+			"cat": "Catalan"
 		},
 		"translations": {
 			"cy": "Andorra",
@@ -289,11 +256,7 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
-			}
+			"por": "Portuguese"
 		},
 		"translations": {
 			"cy": "Angola",
@@ -332,11 +295,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Anguilla",
@@ -411,11 +370,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Antigwa a Barbiwda",
@@ -454,15 +409,8 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Guaraní": {
-				"alpha3": "grn",
-				"alpha2": "gn"
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"grn": "Guaran\u00ed",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Ariannin",
@@ -501,15 +449,8 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Armenian": {
-				"alpha3": "hye",
-				"alpha2": "hy",
-				"native": true
-			},
-			"Russian": {
-				"alpha3": "rus",
-				"alpha2": "ru"
-			}
+			"hye": "Armenian",
+			"rus": "Russian"
 		},
 		"translations": {
 			"cy": "Armenia",
@@ -548,15 +489,8 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"Dutch": {
-				"alpha3": "nld",
-				"alpha2": "nl",
-				"native": true
-			},
-			"Papiamento": {
-				"alpha3": "pap",
-				"alpha2": ""
-			}
+			"nld": "Dutch",
+			"pap": "Papiamento"
 		},
 		"translations": {
 			"de": "Aruba",
@@ -594,11 +528,7 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Awstralia",
@@ -637,11 +567,7 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
-			"German": {
-				"alpha3": "deu",
-				"alpha2": "de",
-				"native": true
-			}
+			"deu": "German"
 		},
 		"translations": {
 			"cy": "Awstria",
@@ -680,15 +606,8 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Armenian": {
-				"alpha3": "hye",
-				"alpha2": "hy"
-			},
-			"Azerbaijani": {
-				"alpha3": "aze",
-				"alpha2": "az",
-				"native": true
-			}
+			"aze": "Azerbaijani",
+			"hye": "Armenian"
 		},
 		"translations": {
 			"cy": "Aserbaijan",
@@ -727,11 +646,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Bahamas",
@@ -770,11 +685,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"cy": "Bahrain",
@@ -813,11 +724,7 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
-			"Bengali": {
-				"alpha3": "ben",
-				"alpha2": "bn",
-				"native": true
-			}
+			"ben": "Bengali"
 		},
 		"translations": {
 			"cy": "Bangladesh",
@@ -856,11 +763,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Barbados",
@@ -899,15 +802,8 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Belarusian": {
-				"alpha3": "bel",
-				"alpha2": "be",
-				"native": true
-			},
-			"Russian": {
-				"alpha3": "rus",
-				"alpha2": "ru"
-			}
+			"bel": "Belarusian",
+			"rus": "Russian"
 		},
 		"translations": {
 			"cy": "Belarws",
@@ -946,19 +842,9 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
-			"Dutch": {
-				"alpha3": "nld",
-				"alpha2": "nl",
-				"native": true
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			},
-			"German": {
-				"alpha3": "deu",
-				"alpha2": "de"
-			}
+			"deu": "German",
+			"fra": "French",
+			"nld": "Dutch"
 		},
 		"translations": {
 			"cy": "Gwlad Belg",
@@ -997,15 +883,8 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es"
-			}
+			"eng": "English",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Belize",
@@ -1044,11 +923,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"cy": "Benin",
@@ -1087,11 +962,7 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Bermiwda",
@@ -1130,11 +1001,7 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
-			"Dzongkha": {
-				"alpha3": "dzo",
-				"alpha2": "dz",
-				"native": true
-			}
+			"dzo": "Dzongkha"
 		},
 		"translations": {
 			"cy": "Bhwtan",
@@ -1173,23 +1040,10 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Aymara": {
-				"alpha3": "aym",
-				"alpha2": "ay"
-			},
-			"Guaraní": {
-				"alpha3": "grn",
-				"alpha2": "gn"
-			},
-			"Quechua": {
-				"alpha3": "que",
-				"alpha2": "qu"
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"aym": "Aymara",
+			"grn": "Guaran\u00ed",
+			"que": "Quechua",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Bolifia",
@@ -1228,11 +1082,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"Dutch": {
-				"alpha3": "nld",
-				"alpha2": "nl",
-				"native": true
-			}
+			"nld": "Dutch"
 		},
 		"translations": {
 			"ru": "\u0411\u043e\u043d\u044d\u0439\u0440"
@@ -1263,19 +1113,9 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Bosnian": {
-				"alpha3": "bos",
-				"alpha2": "bs",
-				"native": true
-			},
-			"Croatian": {
-				"alpha3": "hrv",
-				"alpha2": "hr"
-			},
-			"Serbian": {
-				"alpha3": "srp",
-				"alpha2": "sr"
-			}
+			"bos": "Bosnian",
+			"hrv": "Croatian",
+			"srp": "Serbian"
 		},
 		"translations": {
 			"cy": "Bosnia a Hercegovina",
@@ -1314,15 +1154,8 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Tswana": {
-				"alpha3": "tsn",
-				"alpha2": "tn"
-			}
+			"eng": "English",
+			"tsn": "Tswana"
 		},
 		"translations": {
 			"de": "Botswana",
@@ -1360,11 +1193,7 @@
 		"region": "",
 		"subregion": "",
 		"languages": {
-			"Norwegian": {
-				"alpha3": "nor",
-				"alpha2": "no",
-				"native": true
-			}
+			"nor": "Norwegian"
 		},
 		"translations": {
 			"de": "Bouvetinsel",
@@ -1402,11 +1231,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
-			}
+			"por": "Portuguese"
 		},
 		"translations": {
 			"cy": "Brasil",
@@ -1445,11 +1270,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Tiriogaeth Brydeinig Cefnfor India",
@@ -1488,11 +1309,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Britische Jungferninseln",
@@ -1530,11 +1347,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"Malay": {
-				"alpha3": "msa",
-				"alpha2": "ms",
-				"native": true
-			}
+			"msa": "Malay"
 		},
 		"translations": {
 			"cy": "Brunei",
@@ -1573,11 +1386,7 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Bulgarian": {
-				"alpha3": "bul",
-				"alpha2": "bg",
-				"native": true
-			}
+			"bul": "Bulgarian"
 		},
 		"translations": {
 			"cy": "Bwlgaria",
@@ -1616,11 +1425,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"cy": "Burkina Faso",
@@ -1659,15 +1464,8 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			},
-			"Kirundi": {
-				"alpha3": "run",
-				"alpha2": "rn",
-				"native": true
-			}
+			"fra": "French",
+			"run": "Kirundi"
 		},
 		"translations": {
 			"cy": "Bwrwndi",
@@ -1706,11 +1504,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"Khmer": {
-				"alpha3": "khm",
-				"alpha2": "km",
-				"native": true
-			}
+			"khm": "Khmer"
 		},
 		"translations": {
 			"cy": "Cambodia",
@@ -1749,15 +1543,8 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"eng": "English",
+			"fra": "French"
 		},
 		"translations": {
 			"cy": "Camer\u0175n",
@@ -1796,15 +1583,8 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			}
+			"eng": "English",
+			"fra": "French"
 		},
 		"translations": {
 			"cy": "Canada",
@@ -1843,11 +1623,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
-			}
+			"por": "Portuguese"
 		},
 		"translations": {
 			"cy": "Cape Verde",
@@ -1886,11 +1662,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Ynysoedd_Cayman",
@@ -1929,15 +1701,8 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			},
-			"Sango": {
-				"alpha3": "sag",
-				"alpha2": "sg",
-				"native": true
-			}
+			"fra": "French",
+			"sag": "Sango"
 		},
 		"translations": {
 			"cy": "Gweriniaeth Canolbarth Affrica",
@@ -1976,15 +1741,8 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			}
+			"ara": "Arabic",
+			"fra": "French"
 		},
 		"translations": {
 			"cy": "Tsiad",
@@ -2023,11 +1781,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Chile",
@@ -2066,11 +1820,7 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
-			"Mandarin": {
-				"alpha3": "cmn",
-				"alpha2": "",
-				"native": true
-			}
+			"cmn": "Mandarin"
 		},
 		"translations": {
 			"cy": "Tsieina",
@@ -2109,11 +1859,7 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Ynys y Nadolig",
@@ -2152,11 +1898,7 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Ynysoedd Cocos",
@@ -2195,11 +1937,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Colombia",
@@ -2238,19 +1976,9 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar"
-			},
-			"Comorian": {
-				"alpha3": "zdj",
-				"alpha2": "",
-				"native": true
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			}
+			"ara": "Arabic",
+			"fra": "French",
+			"zdj": "Comorian"
 		},
 		"translations": {
 			"cy": "Comoros",
@@ -2289,15 +2017,8 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			},
-			"Lingala": {
-				"alpha3": "lin",
-				"alpha2": "ln"
-			}
+			"fra": "French",
+			"lin": "Lingala"
 		},
 		"translations": {
 			"cy": "Gweriniaeth y Congo",
@@ -2336,27 +2057,11 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			},
-			"Kikongo": {
-				"alpha3": "kon",
-				"alpha2": "kg"
-			},
-			"Lingala": {
-				"alpha3": "lin",
-				"alpha2": "ln"
-			},
-			"Swahili": {
-				"alpha3": "swa",
-				"alpha2": "sw",
-				"native": true
-			},
-			"Tshiluba": {
-				"alpha3": "lua",
-				"alpha2": " "
-			}
+			"fra": "French",
+			"kon": "Kikongo",
+			"lin": "Lingala",
+			"lua": "Tshiluba",
+			"swa": "Swahili"
 		},
 		"translations": {
 			"cy": "Gweriniaeth Ddemocrataidd Congo",
@@ -2395,15 +2100,8 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"Cook Islands Māori": {
-				"alpha3": "rar",
-				"alpha2": " "
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English",
+			"rar": "Cook Islands M\u0101ori"
 		},
 		"translations": {
 			"cy": "Ynysoedd Cook",
@@ -2442,11 +2140,7 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Costa Rica",
@@ -2485,11 +2179,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Croatian": {
-				"alpha3": "hrv",
-				"alpha2": "hr",
-				"native": true
-			}
+			"hrv": "Croatian"
 		},
 		"translations": {
 			"cy": "Croatia",
@@ -2528,11 +2218,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Ciwba",
@@ -2571,19 +2257,9 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"Dutch": {
-				"alpha3": "nld",
-				"alpha2": "nl",
-				"native": true
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Papiamento": {
-				"alpha3": "pap",
-				"alpha2": " "
-			}
+			"eng": "English",
+			"nld": "Dutch",
+			"pap": "Papiamento"
 		},
 		"translations": {
 			"nl": "Cura\u00e7ao",
@@ -2615,15 +2291,8 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Greek": {
-				"alpha3": "ell",
-				"alpha2": "el",
-				"native": true
-			},
-			"Turkish": {
-				"alpha3": "tur",
-				"alpha2": "tr"
-			}
+			"ell": "Greek",
+			"tur": "Turkish"
 		},
 		"translations": {
 			"cy": "Cyprus",
@@ -2662,15 +2331,8 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Czech": {
-				"alpha3": "ces",
-				"alpha2": "cs",
-				"native": true
-			},
-			"Slovak": {
-				"alpha3": "slk",
-				"alpha2": "sk"
-			}
+			"ces": "Czech",
+			"slk": "Slovak"
 		},
 		"translations": {
 			"cy": "Y Weriniaeth Tsiec",
@@ -2709,11 +2371,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Danish": {
-				"alpha3": "dan",
-				"alpha2": "da",
-				"native": true
-			}
+			"dan": "Danish"
 		},
 		"translations": {
 			"cy": "Denmarc",
@@ -2752,15 +2410,8 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			}
+			"ara": "Arabic",
+			"fra": "French"
 		},
 		"translations": {
 			"cy": "Djibouti",
@@ -2799,11 +2450,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"cy": "Dominica",
@@ -2842,11 +2489,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Gweriniaeth_Dominica",
@@ -2885,11 +2528,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Ecwador",
@@ -2928,11 +2567,7 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"cy": "Yr Aifft",
@@ -2971,11 +2606,7 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "El Salvador",
@@ -3014,19 +2645,9 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			},
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt"
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"fra": "French",
+			"por": "Portuguese",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"cy": "Gini Gyhydeddol",
@@ -3065,21 +2686,9 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Tigrinya": {
-				"alpha3": "tir",
-				"alpha2": "ti",
-				"native": true
-			}
+			"ara": "Arabic",
+			"eng": "English",
+			"tir": "Tigrinya"
 		},
 		"translations": {
 			"cy": "Eritrea",
@@ -3118,11 +2727,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Estonian": {
-				"alpha3": "est",
-				"alpha2": "et",
-				"native": true
-			}
+			"est": "Estonian"
 		},
 		"translations": {
 			"cy": "Estonia",
@@ -3161,11 +2766,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"Amharic": {
-				"alpha3": "amh",
-				"alpha2": "am",
-				"native": true
-			}
+			"amh": "Amharic"
 		},
 		"translations": {
 			"cy": "Ethiopia",
@@ -3204,11 +2805,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Falklandinseln",
@@ -3246,15 +2843,8 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Danish": {
-				"alpha3": "dan",
-				"alpha2": "da"
-			},
-			"Faroese": {
-				"alpha3": "fao",
-				"alpha2": "fo",
-				"native": true
-			}
+			"dan": "Danish",
+			"fao": "Faroese"
 		},
 		"translations": {
 			"de": "F\u00e4r\u00f6er-Inseln",
@@ -3292,19 +2882,9 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Fiji Hindi": {
-				"alpha3": "hif",
-				"alpha2": ""
-			},
-			"Fijian": {
-				"alpha3": "fij",
-				"alpha2": "fj"
-			}
+			"eng": "English",
+			"fij": "Fijian",
+			"hif": "Fiji Hindi"
 		},
 		"translations": {
 			"de": "Fidschi",
@@ -3342,15 +2922,8 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Finnish": {
-				"alpha3": "fin",
-				"alpha2": "fi",
-				"native": true
-			},
-			"Swedish": {
-				"alpha3": "swe",
-				"alpha2": "sv"
-			}
+			"fin": "Finnish",
+			"swe": "Swedish"
 		},
 		"translations": {
 			"de": "Finnland",
@@ -3388,11 +2961,7 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Frankreich",
@@ -3430,11 +2999,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Franz\u00f6sisch Guyana",
@@ -3472,11 +3037,7 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Franz\u00f6sisch-Polynesien",
@@ -3514,11 +3075,7 @@
 		"region": "",
 		"subregion": "",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Franz\u00f6sische S\u00fcd- und Antarktisgebiete",
@@ -3556,11 +3113,7 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Gabun",
@@ -3598,11 +3151,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Gambia",
@@ -3640,11 +3189,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Georgian": {
-				"alpha3": "kat",
-				"alpha2": "ka",
-				"native": true
-			}
+			"kat": "Georgian"
 		},
 		"translations": {
 			"de": "Georgien",
@@ -3682,11 +3227,7 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
-			"German": {
-				"alpha3": "deu",
-				"alpha2": "de",
-				"native": true
-			}
+			"deu": "German"
 		},
 		"translations": {
 			"de": "Deutschland",
@@ -3724,11 +3265,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Ghana",
@@ -3766,11 +3303,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Gibraltar",
@@ -3808,11 +3341,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Greek": {
-				"alpha3": "ell",
-				"alpha2": "el",
-				"native": true
-			}
+			"ell": "Greek"
 		},
 		"translations": {
 			"de": "Griechenland",
@@ -3850,11 +3379,7 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
-			"Greenlandic": {
-				"alpha3": "kal",
-				"alpha2": "kl",
-				"native": true
-			}
+			"kal": "Greenlandic"
 		},
 		"translations": {
 			"de": "Gr\u00f6nland",
@@ -3892,11 +3417,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Grenada",
@@ -3934,11 +3455,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Guadeloupe",
@@ -3976,19 +3493,9 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
-			"Chamorro": {
-				"alpha3": "cha",
-				"alpha2": "ch"
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es"
-			}
+			"cha": "Chamorro",
+			"eng": "English",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Guam",
@@ -4026,11 +3533,7 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Guatemala",
@@ -4068,15 +3571,8 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			}
+			"eng": "English",
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Guernsey",
@@ -4114,11 +3610,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Guinea",
@@ -4156,11 +3648,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
-			}
+			"por": "Portuguese"
 		},
 		"translations": {
 			"de": "Guinea-Bissau",
@@ -4198,11 +3686,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Guyana",
@@ -4240,15 +3724,8 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			},
-			"Haitian Creole": {
-				"alpha3": "hat",
-				"alpha2": "ht"
-			}
+			"fra": "French",
+			"hat": "Haitian Creole"
 		},
 		"translations": {
 			"de": "Haiti",
@@ -4286,11 +3763,7 @@
 		"region": "",
 		"subregion": "",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Heard und die McDonaldinseln",
@@ -4328,15 +3801,8 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Italian": {
-				"alpha3": "ita",
-				"alpha2": "it",
-				"native": true
-			},
-			"Latin": {
-				"alpha3": "lat",
-				"alpha2": "la"
-			}
+			"ita": "Italian",
+			"lat": "Latin"
 		},
 		"translations": {
 			"de": "Vatikanstadt",
@@ -4374,11 +3840,7 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Honduras",
@@ -4416,15 +3878,8 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
-			"Chinese": {
-				"alpha3": "zho",
-				"alpha2": "zh",
-				"native": true
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			}
+			"eng": "English",
+			"zho": "Chinese"
 		},
 		"translations": {
 			"de": "Hongkong",
@@ -4462,11 +3917,7 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Hungarian": {
-				"alpha3": "hun",
-				"alpha2": "hu",
-				"native": true
-			}
+			"hun": "Hungarian"
 		},
 		"translations": {
 			"de": "Ungarn",
@@ -4504,11 +3955,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Icelandic": {
-				"alpha3": "isl",
-				"alpha2": "is",
-				"native": true
-			}
+			"isl": "Icelandic"
 		},
 		"translations": {
 			"de": "Island",
@@ -4546,15 +3993,8 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Hindi": {
-				"alpha3": "hin",
-				"alpha2": "hi",
-				"native": true
-			}
+			"eng": "English",
+			"hin": "Hindi"
 		},
 		"translations": {
 			"de": "Indien",
@@ -4592,11 +4032,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"Indonesian": {
-				"alpha3": "ind",
-				"alpha2": "id",
-				"native": true
-			}
+			"ind": "Indonesian"
 		},
 		"translations": {
 			"de": "Indonesien",
@@ -4634,11 +4070,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Elfenbeink\u00fcste",
@@ -4676,11 +4108,7 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
-			"Persian": {
-				"alpha3": "fas",
-				"alpha2": "fa",
-				"native": true
-			}
+			"fas": "Persian"
 		},
 		"translations": {
 			"de": "Iran",
@@ -4717,19 +4145,9 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			},
-			"Aramaic": {
-				"alpha3": "arc",
-				"alpha2": " "
-			},
-			"Kurdish": {
-				"alpha3": "kur",
-				"alpha2": "ku"
-			}
+			"ara": "Arabic",
+			"arc": "Aramaic",
+			"kur": "Kurdish"
 		},
 		"translations": {
 			"de": "Irak",
@@ -4767,15 +4185,8 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Irish": {
-				"alpha3": "gle",
-				"alpha2": "ga",
-				"native": true
-			}
+			"eng": "English",
+			"gle": "Irish"
 		},
 		"translations": {
 			"de": "Irland",
@@ -4813,15 +4224,8 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Manx": {
-				"alpha3": "glv",
-				"alpha2": "gv"
-			}
+			"eng": "English",
+			"glv": "Manx"
 		},
 		"translations": {
 			"de": "Insel Man",
@@ -4859,15 +4263,8 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar"
-			},
-			"Hebrew": {
-				"alpha3": "heb",
-				"alpha2": "he",
-				"native": true
-			}
+			"ara": "Arabic",
+			"heb": "Hebrew"
 		},
 		"translations": {
 			"de": "Israel",
@@ -4905,11 +4302,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Italian": {
-				"alpha3": "ita",
-				"alpha2": "it",
-				"native": true
-			}
+			"ita": "Italian"
 		},
 		"translations": {
 			"de": "Italien",
@@ -4947,15 +4340,8 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Jamaican Patois": {
-				"alpha3": "jam",
-				"alpha2": " "
-			}
+			"eng": "English",
+			"jam": "Jamaican Patois"
 		},
 		"translations": {
 			"de": "Jamaika",
@@ -4993,11 +4379,7 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
-			"Japanese": {
-				"alpha3": "jpn",
-				"alpha2": "ja",
-				"native": true
-			}
+			"jpn": "Japanese"
 		},
 		"translations": {
 			"de": "Japan",
@@ -5035,15 +4417,8 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			}
+			"eng": "English",
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Jersey",
@@ -5081,11 +4456,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Jordanien",
@@ -5123,15 +4494,8 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
-			"Kazakh": {
-				"alpha3": "kaz",
-				"alpha2": "kk",
-				"native": true
-			},
-			"Russian": {
-				"alpha3": "rus",
-				"alpha2": "ru"
-			}
+			"kaz": "Kazakh",
+			"rus": "Russian"
 		},
 		"translations": {
 			"de": "Kasachstan",
@@ -5169,15 +4533,8 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Swahili": {
-				"alpha3": "swa",
-				"alpha2": "sw",
-				"native": true
-			}
+			"eng": "English",
+			"swa": "Swahili"
 		},
 		"translations": {
 			"de": "Kenia",
@@ -5215,15 +4572,8 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Gilbertese": {
-				"alpha3": "gil",
-				"alpha2": " "
-			}
+			"eng": "English",
+			"gil": "Gilbertese"
 		},
 		"translations": {
 			"de": "Kiribati",
@@ -5261,11 +4611,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Kuwait",
@@ -5303,15 +4649,8 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
-			"Kyrgyz": {
-				"alpha3": "kir",
-				"alpha2": "ky",
-				"native": true
-			},
-			"Russian": {
-				"alpha3": "rus",
-				"alpha2": "ru"
-			}
+			"kir": "Kyrgyz",
+			"rus": "Russian"
 		},
 		"translations": {
 			"de": "Kirgisistan",
@@ -5349,11 +4688,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"Lao": {
-				"alpha3": "lao",
-				"alpha2": "lo",
-				"native": true
-			}
+			"lao": "Lao"
 		},
 		"translations": {
 			"de": "Laos",
@@ -5391,11 +4726,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Latvian": {
-				"alpha3": "lav",
-				"alpha2": "lv",
-				"native": true
-			}
+			"lav": "Latvian"
 		},
 		"translations": {
 			"de": "Lettland",
@@ -5433,15 +4764,8 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			}
+			"ara": "Arabic",
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Libanon",
@@ -5479,15 +4803,8 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Sotho": {
-				"alpha3": "sot",
-				"alpha2": "st",
-				"native": true
-			}
+			"eng": "English",
+			"sot": "Sotho"
 		},
 		"translations": {
 			"de": "Lesotho",
@@ -5525,11 +4842,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Liberia",
@@ -5567,11 +4880,7 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Libyen",
@@ -5609,11 +4918,7 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
-			"German": {
-				"alpha3": "deu",
-				"alpha2": "de",
-				"native": true
-			}
+			"deu": "German"
 		},
 		"translations": {
 			"de": "Liechtenstein",
@@ -5651,11 +4956,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Lithuanian": {
-				"alpha3": "lit",
-				"alpha2": "lt",
-				"native": true
-			}
+			"lit": "Lithuanian"
 		},
 		"translations": {
 			"de": "Litauen",
@@ -5693,19 +4994,9 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			},
-			"German": {
-				"alpha3": "deu",
-				"alpha2": "de"
-			},
-			"Luxembourgish": {
-				"alpha3": "ltz",
-				"alpha2": "lb"
-			}
+			"deu": "German",
+			"fra": "French",
+			"ltz": "Luxembourgish"
 		},
 		"translations": {
 			"de": "Luxemburg",
@@ -5743,15 +5034,8 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
-			"Chinese": {
-				"alpha3": "zho",
-				"alpha2": "zh",
-				"native": true
-			},
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt"
-			}
+			"por": "Portuguese",
+			"zho": "Chinese"
 		},
 		"translations": {
 			"de": "Macao",
@@ -5789,11 +5073,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Macedonian": {
-				"alpha3": "mkd",
-				"alpha2": "mk",
-				"native": true
-			}
+			"mkd": "Macedonian"
 		},
 		"translations": {
 			"de": "Mazedonien",
@@ -5831,15 +5111,8 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			},
-			"Malagasy": {
-				"alpha3": "mlg",
-				"alpha2": "mg"
-			}
+			"fra": "French",
+			"mlg": "Malagasy"
 		},
 		"translations": {
 			"de": "Madagaskar",
@@ -5861,8 +5134,8 @@
 			"common": "Malawi",
 			"official": "Republic of Malawi",
 			"native": {
-				"common": "Malaŵi",
-				"official": "Chalo cha Malawi, Dziko la Malaŵi"
+				"common": "Mala\u0175i",
+				"official": "Chalo cha Malawi, Dziko la Mala\u0175i"
 			}
 		},
 		"tld": [".mw"],
@@ -5877,15 +5150,8 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"Chewa": {
-				"alpha3": "nya",
-				"alpha2": "ny",
-				"native": true
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			}
+			"eng": "English",
+			"nya": "Chewa"
 		},
 		"translations": {
 			"de": "Malawi",
@@ -5923,15 +5189,8 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Malay": {
-				"alpha3": "msa",
-				"alpha2": "ms",
-				"native": true
-			}
+			"eng": "English",
+			"msa": "Malay"
 		},
 		"translations": {
 			"de": "Malaysia",
@@ -5969,11 +5228,7 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
-			"Maldivian": {
-				"alpha3": "div",
-				"alpha2": "dv",
-				"native": true
-			}
+			"div": "Maldivian"
 		},
 		"translations": {
 			"de": "Malediven",
@@ -6011,11 +5266,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Mali",
@@ -6053,15 +5304,8 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Maltese": {
-				"alpha3": "mlt",
-				"alpha2": "mt",
-				"native": true
-			}
+			"eng": "English",
+			"mlt": "Maltese"
 		},
 		"translations": {
 			"de": "Malta",
@@ -6099,15 +5343,8 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Marshallese": {
-				"alpha3": "mah",
-				"alpha2": "mh",
-				"native": true
-			}
+			"eng": "English",
+			"mah": "Marshallese"
 		},
 		"translations": {
 			"de": "Marshallinseln",
@@ -6145,11 +5382,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Martinique",
@@ -6187,11 +5420,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Mauretanien",
@@ -6229,19 +5458,9 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			},
-			"Mauritian Creole": {
-				"alpha3": "mfe",
-				"alpha2": "",
-				"native": true
-			}
+			"eng": "English",
+			"fra": "French",
+			"mfe": "Mauritian Creole"
 		},
 		"translations": {
 			"de": "Mauritius",
@@ -6279,11 +5498,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Mayotte",
@@ -6321,11 +5536,7 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Mexiko",
@@ -6363,11 +5574,7 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Mikronesien",
@@ -6405,11 +5612,7 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Moldavian": {
-				"alpha3": "ron",
-				"alpha2": "ro",
-				"native": true
-			}
+			"ron": "Moldavian"
 		},
 		"translations": {
 			"de": "Moldawie",
@@ -6447,11 +5650,7 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Monaco",
@@ -6489,11 +5688,7 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
-			"Mongolian": {
-				"alpha3": "mon",
-				"alpha2": "mn",
-				"native": true
-			}
+			"mon": "Mongolian"
 		},
 		"translations": {
 			"de": "Mongolei",
@@ -6531,11 +5726,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Montenegrin": {
-				"alpha3": "srp",
-				"alpha2": "sr",
-				"native": true
-			}
+			"srp": "Montenegrin"
 		},
 		"translations": {
 			"de": "Montenegro",
@@ -6573,11 +5764,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Montserrat",
@@ -6615,15 +5802,8 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			},
-			"Berber": {
-				"alpha3": "ber",
-				"alpha2": ""
-			}
+			"ara": "Arabic",
+			"ber": "Berber"
 		},
 		"translations": {
 			"de": "Marokko",
@@ -6661,11 +5841,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
-			}
+			"por": "Portuguese"
 		},
 		"translations": {
 			"de": "Mosambik",
@@ -6703,11 +5879,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"Burmese": {
-				"alpha3": "mya",
-				"alpha2": "my",
-				"native": true
-			}
+			"mya": "Burmese"
 		},
 		"translations": {
 			"de": "Myanmar",
@@ -6745,43 +5917,15 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
-			"Afrikaans": {
-				"alpha3": "afr",
-				"alpha2": "af",
-				"native": true
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"German": {
-				"alpha3": "deu",
-				"alpha2": "de"
-			},
-			"Herero": {
-				"alpha3": "her",
-				"alpha2": "hz"
-			},
-			"Khoekhoe": {
-				"alpha3": "hgm",
-				"alpha2": ""
-			},
-			"Kwangali": {
-				"alpha3": "kwn",
-				"alpha2": ""
-			},
-			"Lozi": {
-				"alpha3": "loz",
-				"alpha2": " "
-			},
-			"Ndonga": {
-				"alpha3": "ndo",
-				"alpha2": "ng"
-			},
-			"Tswana": {
-				"alpha3": "tsn",
-				"alpha2": "tn"
-			}
+			"afr": "Afrikaans",
+			"deu": "German",
+			"eng": "English",
+			"her": "Herero",
+			"hgm": "Khoekhoe",
+			"kwn": "Kwangali",
+			"loz": "Lozi",
+			"ndo": "Ndonga",
+			"tsn": "Tswana"
 		},
 		"translations": {
 			"de": "Namibia",
@@ -6819,15 +5963,8 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Nauru": {
-				"alpha3": "nau",
-				"alpha2": "na",
-				"native": true
-			}
+			"eng": "English",
+			"nau": "Nauru"
 		},
 		"translations": {
 			"de": "Nauru",
@@ -6865,11 +6002,7 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
-			"Nepali": {
-				"alpha3": "nep",
-				"alpha2": "ne",
-				"native": true
-			}
+			"nep": "Nepali"
 		},
 		"translations": {
 			"de": "N\u00e9pal",
@@ -6907,11 +6040,7 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
-			"Dutch": {
-				"alpha3": "nld",
-				"alpha2": "nl",
-				"native": true
-			}
+			"nld": "Dutch"
 		},
 		"translations": {
 			"de": "Niederlande",
@@ -6949,11 +6078,7 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Neukaledonien",
@@ -6991,19 +6116,9 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Māori": {
-				"alpha3": "mri",
-				"alpha2": "mi"
-			},
-			"New Zealand Sign Language": {
-				"alpha3": "nzs",
-				"alpha2": ""
-			}
+			"eng": "English",
+			"mri": "M\u0101ori",
+			"nzs": "New Zealand Sign Language"
 		},
 		"translations": {
 			"de": "Neuseeland",
@@ -7041,11 +6156,7 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Nicaragua",
@@ -7083,11 +6194,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Niger",
@@ -7125,11 +6232,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Nigeria",
@@ -7167,16 +6270,8 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Niuean": {
-				"alpha3": "niu",
-				"alpha2": " ",
-				"native": true
-			}
+			"eng": "English",
+			"niu": "Niuean"
 		},
 		"translations": {
 			"de": "Niue",
@@ -7214,15 +6309,8 @@
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Norfuk": {
-				"alpha3": "pih",
-				"alpha2": ""
-			}
+			"eng": "English",
+			"pih": "Norfuk"
 		},
 		"translations": {
 			"de": "Norfolkinsel",
@@ -7260,11 +6348,7 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
-			"Korean": {
-				"alpha3": "kor",
-				"alpha2": "ko",
-				"native": true
-			}
+			"kor": "Korean"
 		},
 		"translations": {
 			"de": "Nordkorea",
@@ -7302,19 +6386,9 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
-			"Carolinian": {
-				"alpha3": "cal",
-				"alpha2": ""
-			},
-			"Chamorro": {
-				"alpha3": "cha",
-				"alpha2": "ch"
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"cal": "Carolinian",
+			"cha": "Chamorro",
+			"eng": "English"
 		},
 		"translations": {
 			"de": "N\u00f6rdliche Marianen",
@@ -7352,19 +6426,9 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Bokmål": {
-				"alpha3": "nob",
-				"alpha2": "nb"
-			},
-			"Norwegian": {
-				"alpha3": "nor",
-				"alpha2": "no",
-				"native": true
-			},
-			"Nynorsk": {
-				"alpha3": "nno",
-				"alpha2": "nn"
-			}
+			"nno": "Nynorsk",
+			"nob": "Bokm\u00e5l",
+			"nor": "Norwegian"
 		},
 		"translations": {
 			"de": "Norwegen",
@@ -7402,11 +6466,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Oman",
@@ -7444,15 +6504,8 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Urdu": {
-				"alpha3": "urd",
-				"alpha2": "ur"
-			}
+			"eng": "English",
+			"urd": "Urdu"
 		},
 		"translations": {
 			"de": "Pakistan",
@@ -7490,15 +6543,8 @@
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Palauan": {
-				"alpha3": "pau",
-				"alpha2": " "
-			}
+			"eng": "English",
+			"pau": "Palauan"
 		},
 		"translations": {
 			"de": "Palau",
@@ -7536,11 +6582,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Pal\u00e4stina",
@@ -7578,11 +6620,7 @@
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Panama",
@@ -7620,19 +6658,9 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Hiri Motu": {
-				"alpha3": "hmo",
-				"alpha2": "ho",
-				"native": true
-			},
-			"Tok Pisin": {
-				"alpha3": "tpi",
-				"alpha2": " "
-			}
+			"eng": "English",
+			"hmo": "Hiri Motu",
+			"tpi": "Tok Pisin"
 		},
 		"translations": {
 			"de": "Papua-Neuguinea",
@@ -7670,15 +6698,8 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Guaraní": {
-				"alpha3": "grn",
-				"alpha2": "gn"
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"grn": "Guaran\u00ed",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Paraguay",
@@ -7716,19 +6737,9 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Aymara": {
-				"alpha3": "aym",
-				"alpha2": "ay"
-			},
-			"Quechua": {
-				"alpha3": "que",
-				"alpha2": "qu"
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"aym": "Aymara",
+			"que": "Quechua",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Peru",
@@ -7766,15 +6777,8 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Filipino": {
-				"alpha3": "fil",
-				"alpha2": " ",
-				"native": true
-			}
+			"eng": "English",
+			"fil": "Filipino"
 		},
 		"translations": {
 			"de": "Philippinen",
@@ -7812,11 +6816,7 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Pitcairn",
@@ -7854,11 +6854,7 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Polish": {
-				"alpha3": "pol",
-				"alpha2": "pl",
-				"native": true
-			}
+			"pol": "Polish"
 		},
 		"translations": {
 			"de": "Polen",
@@ -7896,11 +6892,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
-			}
+			"por": "Portuguese"
 		},
 		"translations": {
 			"de": "Portugal",
@@ -7938,15 +6930,8 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"eng": "English",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Puerto Rico",
@@ -7984,11 +6969,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Katar",
@@ -8026,15 +7007,8 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Albanian": {
-				"alpha3": "sqi",
-				"alpha2": "sq",
-				"native": true
-			},
-			"Serbian": {
-				"alpha3": "srp",
-				"alpha2": "sr"
-			}
+			"sqi": "Albanian",
+			"srp": "Serbian"
 		},
 		"translations": {
 			"es": "Kosovo",
@@ -8067,11 +7041,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "R\u00e9union",
@@ -8109,11 +7079,7 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Romanian": {
-				"alpha3": "ron",
-				"alpha2": "ro",
-				"native": true
-			}
+			"ron": "Romanian"
 		},
 		"translations": {
 			"de": "Rum\u00e4nien",
@@ -8151,11 +7117,7 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Russian": {
-				"alpha3": "rus",
-				"alpha2": "ru",
-				"native": true
-			}
+			"rus": "Russian"
 		},
 		"translations": {
 			"de": "Russland",
@@ -8193,19 +7155,9 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			},
-			"Kinyarwanda": {
-				"alpha3": "kin",
-				"alpha2": "rw",
-				"native": true
-			}
+			"eng": "English",
+			"fra": "French",
+			"kin": "Kinyarwanda"
 		},
 		"translations": {
 			"de": "Ruanda",
@@ -8243,11 +7195,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Saint-Barth\u00e9lemy",
@@ -8285,11 +7233,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Sankt Helena",
@@ -8327,11 +7271,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Saint Christopher und Nevis",
@@ -8369,11 +7309,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Saint Lucia",
@@ -8411,11 +7347,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Saint Martin",
@@ -8453,11 +7385,7 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Saint-Pierre und Miquelon",
@@ -8495,11 +7423,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Saint Vincent und die Grenadinen",
@@ -8537,15 +7461,8 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Samoan": {
-				"alpha3": "smo",
-				"alpha2": "sm",
-				"native": true
-			}
+			"eng": "English",
+			"smo": "Samoan"
 		},
 		"translations": {
 			"de": "Samoa",
@@ -8583,11 +7500,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Italian": {
-				"alpha3": "ita",
-				"alpha2": "it",
-				"native": true
-			}
+			"ita": "Italian"
 		},
 		"translations": {
 			"de": "San Marino",
@@ -8625,11 +7538,7 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
-			}
+			"por": "Portuguese"
 		},
 		"translations": {
 			"de": "S\u00e3o Tom\u00e9 und Pr\u00edncipe",
@@ -8667,11 +7576,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Saudi-Arabien",
@@ -8709,11 +7614,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Senegal",
@@ -8751,11 +7652,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Serbian": {
-				"alpha3": "srp",
-				"alpha2": "sr",
-				"native": true
-			}
+			"srp": "Serbian"
 		},
 		"translations": {
 			"de": "Serbien",
@@ -8793,19 +7690,9 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			},
-			"Seychellois Creole": {
-				"alpha3": "crs",
-				"alpha2": ""
-			}
+			"crs": "Seychellois Creole",
+			"eng": "English",
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Seychellen",
@@ -8843,11 +7730,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Sierra Leone",
@@ -8885,23 +7768,10 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			},
-			"Malay": {
-				"alpha3": "msa",
-				"alpha2": "ms"
-			},
-			"Mandarin": {
-				"alpha3": "cmn",
-				"alpha2": ""
-			},
-			"Tamil": {
-				"alpha3": "tam",
-				"alpha2": "ta"
-			}
+			"cmn": "Mandarin",
+			"eng": "English",
+			"msa": "Malay",
+			"tam": "Tamil"
 		},
 		"translations": {
 			"de": "Singapur",
@@ -8939,19 +7809,9 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"Dutch": {
-				"alpha3": "nld",
-				"alpha2": "nl",
-				"native": true
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			}
+			"eng": "English",
+			"fra": "French",
+			"nld": "Dutch"
 		},
 		"translations": {
 			"de": "Sint Maarten",
@@ -8988,11 +7848,7 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Slovak": {
-				"alpha3": "slk",
-				"alpha2": "sk",
-				"native": true
-			}
+			"slk": "Slovak"
 		},
 		"translations": {
 			"de": "Slowakei",
@@ -9030,11 +7886,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Slovene": {
-				"alpha3": "slv",
-				"alpha2": "sl",
-				"native": true
-			}
+			"slv": "Slovene"
 		},
 		"translations": {
 			"de": "Slowenien",
@@ -9072,11 +7924,7 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Salomonen",
@@ -9114,15 +7962,8 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar"
-			},
-			"Somali": {
-				"alpha3": "som",
-				"alpha2": "so",
-				"native": true
-			}
+			"ara": "Arabic",
+			"som": "Somali"
 		},
 		"translations": {
 			"de": "Somalia",
@@ -9160,51 +8001,17 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
-			"Afrikaans": {
-				"alpha3": "afr",
-				"alpha2": "af",
-				"native": true
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Northern Sotho": {
-				"alpha3": "nso",
-				"alpha2": " "
-			},
-			"Sotho": {
-				"alpha3": "sot",
-				"alpha2": "st"
-			},
-			"Southern Ndebele": {
-				"alpha3": "nbl",
-				"alpha2": "nr"
-			},
-			"Swazi": {
-				"alpha3": "ssw",
-				"alpha2": "ss"
-			},
-			"Tsonga": {
-				"alpha3": "tso",
-				"alpha2": "ts"
-			},
-			"Tswana": {
-				"alpha3": "tsn",
-				"alpha2": "tn"
-			},
-			"Venda": {
-				"alpha3": "ven",
-				"alpha2": "ve"
-			},
-			"Xhosa": {
-				"alpha3": "xho",
-				"alpha2": "xh"
-			},
-			"Zulu": {
-				"alpha3": "zul",
-				"alpha2": "zu"
-			}
+			"afr": "Afrikaans",
+			"eng": "English",
+			"nbl": "Southern Ndebele",
+			"nso": "Northern Sotho",
+			"sot": "Sotho",
+			"ssw": "Swazi",
+			"tsn": "Tswana",
+			"tso": "Tsonga",
+			"ven": "Venda",
+			"xho": "Xhosa",
+			"zul": "Zulu"
 		},
 		"translations": {
 			"de": "Republik S\u00fcdafrika",
@@ -9242,11 +8049,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "S\u00fcdgeorgien und die S\u00fcdlichen Sandwichinseln",
@@ -9284,11 +8087,7 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
-			"Korean": {
-				"alpha3": "kor",
-				"alpha2": "ko",
-				"native": true
-			}
+			"kor": "Korean"
 		},
 		"translations": {
 			"de": "S\u00fcdkorea",
@@ -9326,11 +8125,7 @@
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "S\u00fcdsudan",
@@ -9368,27 +8163,11 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"Basque": {
-				"alpha3": "eus",
-				"alpha2": "eu"
-			},
-			"Catalan": {
-				"alpha3": "cat",
-				"alpha2": "ca"
-			},
-			"Galician": {
-				"alpha3": "glg",
-				"alpha2": "gl"
-			},
-			"Occitan": {
-				"alpha3": "oci",
-				"alpha2": "oc"
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"cat": "Catalan",
+			"eus": "Basque",
+			"glg": "Galician",
+			"oci": "Occitan",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Spanien",
@@ -9426,15 +8205,8 @@
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
-			"Sinhala": {
-				"alpha3": "sin",
-				"alpha2": "si",
-				"native": true
-			},
-			"Tamil": {
-				"alpha3": "tam",
-				"alpha2": "ta"
-			}
+			"sin": "Sinhala",
+			"tam": "Tamil"
 		},
 		"translations": {
 			"de": "Sri Lanka",
@@ -9472,15 +8244,8 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			}
+			"ara": "Arabic",
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Sudan",
@@ -9518,11 +8283,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Dutch": {
-				"alpha3": "nld",
-				"alpha2": "nl",
-				"native": true
-			}
+			"nld": "Dutch"
 		},
 		"translations": {
 			"de": "Suriname",
@@ -9560,11 +8321,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Norwegian": {
-				"alpha3": "nor",
-				"alpha2": "no",
-				"native": true
-			}
+			"nor": "Norwegian"
 		},
 		"translations": {
 			"de": "Svalbard und Jan Mayen",
@@ -9602,14 +8359,8 @@
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng"
-			},
-			"Swazi": {
-				"alpha3": "ssw",
-				"alpha2": "ss",
-				"native": true
-			}
+			"eng": "English",
+			"ssw": "Swazi"
 		},
 		"translations": {
 			"de": "Swasiland",
@@ -9647,11 +8398,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"Swedish": {
-				"alpha3": "swe",
-				"alpha2": "sv",
-				"native": true
-			}
+			"swe": "Swedish"
 		},
 		"translations": {
 			"de": "Schweden",
@@ -9689,23 +8436,10 @@
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			},
-			"German": {
-				"alpha3": "deu",
-				"alpha2": "de",
-				"native": true
-			},
-			"Italian": {
-				"alpha3": "ita",
-				"alpha2": "it"
-			},
-			"Romansh": {
-				"alpha3": "roh",
-				"alpha2": "rm"
-			}
+			"deu": "German",
+			"fra": "French",
+			"ita": "Italian",
+			"roh": "Romansh"
 		},
 		"translations": {
 			"de": "Schweiz",
@@ -9743,11 +8477,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Syrien",
@@ -9785,11 +8515,7 @@
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
-			"Mandarin": {
-				"alpha3": "cmn",
-				"alpha2": "",
-				"native": true
-			}
+			"cmn": "Mandarin"
 		},
 		"translations": {
 			"de": "Taiwan",
@@ -9827,15 +8553,8 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
-			"Russian": {
-				"alpha3": "rus",
-				"alpha2": "ru"
-			},
-			"Tajik": {
-				"alpha3": "tgk",
-				"alpha2": "tg",
-				"native": true
-			}
+			"rus": "Russian",
+			"tgk": "Tajik"
 		},
 		"translations": {
 			"de": "Tadschikistan",
@@ -9873,15 +8592,8 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Swahili": {
-				"alpha3": "swa",
-				"alpha2": "sw",
-				"native": true
-			}
+			"eng": "English",
+			"swa": "Swahili"
 		},
 		"translations": {
 			"de": "Tansania",
@@ -9919,11 +8631,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"Thai": {
-				"alpha3": "tha",
-				"alpha2": "th",
-				"native": true
-			}
+			"tha": "Thai"
 		},
 		"translations": {
 			"de": "Thailand",
@@ -9961,15 +8669,8 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"Portuguese": {
-				"alpha3": "por",
-				"alpha2": "pt",
-				"native": true
-			},
-			"Tetum": {
-				"alpha3": "tet",
-				"alpha2": " "
-			}
+			"por": "Portuguese",
+			"tet": "Tetum"
 		},
 		"translations": {
 			"de": "Timor-Leste",
@@ -10007,11 +8708,7 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Togo",
@@ -10049,19 +8746,9 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Samoan": {
-				"alpha3": "smo",
-				"alpha2": "sm"
-			},
-			"Tokelauan": {
-				"alpha3": "tkl",
-				"alpha2": " ",
-				"native": true
-			}
+			"eng": "English",
+			"smo": "Samoan",
+			"tkl": "Tokelauan"
 		},
 		"translations": {
 			"de": "Tokelau",
@@ -10099,15 +8786,8 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Tongan": {
-				"alpha3": "ton",
-				"alpha2": "to",
-				"native": true
-			}
+			"eng": "English",
+			"ton": "Tongan"
 		},
 		"translations": {
 			"de": "Tonga",
@@ -10145,11 +8825,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Trinidad und Tobago",
@@ -10187,11 +8863,7 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Tunesien",
@@ -10229,11 +8901,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Turkish": {
-				"alpha3": "tur",
-				"alpha2": "tr",
-				"native": true
-			}
+			"tur": "Turkish"
 		},
 		"translations": {
 			"de": "T\u00fcrkei",
@@ -10271,15 +8939,8 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
-			"Russian": {
-				"alpha3": "rus",
-				"alpha2": "ru"
-			},
-			"Turkmen": {
-				"alpha3": "tuk",
-				"alpha2": "tk",
-				"native": true
-			}
+			"rus": "Russian",
+			"tuk": "Turkmen"
 		},
 		"translations": {
 			"de": "Turkmenistan",
@@ -10317,11 +8978,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Turks- und Caicosinseln",
@@ -10359,15 +9016,8 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Tuvaluan": {
-				"alpha3": "tvl",
-				"alpha2": " ",
-				"native": true
-			}
+			"eng": "English",
+			"tvl": "Tuvaluan"
 		},
 		"translations": {
 			"de": "Tuvalu",
@@ -10405,15 +9055,8 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Swahili": {
-				"alpha3": "swa",
-				"alpha2": "sw",
-				"native": true
-			}
+			"eng": "English",
+			"swa": "Swahili"
 		},
 		"translations": {
 			"de": "Uganda",
@@ -10451,11 +9094,7 @@
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
-			"Ukrainian": {
-				"alpha3": "ukr",
-				"alpha2": "uk",
-				"native": true
-			}
+			"ukr": "Ukrainian"
 		},
 		"translations": {
 			"de": "Ukraine",
@@ -10493,11 +9132,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Vereinigte Arabische Emirate",
@@ -10535,11 +9170,7 @@
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Vereinigtes K\u00f6nigreich",
@@ -10577,11 +9208,7 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Vereinigte Staaten von Amerika",
@@ -10619,11 +9246,7 @@
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
@@ -10661,11 +9284,7 @@
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Amerikanische Jungferninseln",
@@ -10703,11 +9322,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Uruguay",
@@ -10745,15 +9360,8 @@
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
-			"Russian": {
-				"alpha3": "rus",
-				"alpha2": "ru"
-			},
-			"Uzbek": {
-				"alpha3": "uzb",
-				"alpha2": "uz",
-				"native": true
-			}
+			"rus": "Russian",
+			"uzb": "Uzbek"
 		},
 		"translations": {
 			"de": "Usbekistan",
@@ -10791,19 +9399,9 @@
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
-			"Bislama": {
-				"alpha3": "bis",
-				"alpha2": "bi",
-				"native": true
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr"
-			}
+			"bis": "Bislama",
+			"eng": "English",
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Vanuatu",
@@ -10841,11 +9439,7 @@
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es",
-				"native": true
-			}
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Venezuela",
@@ -10883,11 +9477,7 @@
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
-			"Vietnamese": {
-				"alpha3": "vie",
-				"alpha2": "vi",
-				"native": true
-			}
+			"vie": "Vietnamese"
 		},
 		"translations": {
 			"de": "Vietnam",
@@ -10925,11 +9515,7 @@
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
-			"French": {
-				"alpha3": "fra",
-				"alpha2": "fr",
-				"native": true
-			}
+			"fra": "French"
 		},
 		"translations": {
 			"de": "Wallis und Futuna",
@@ -10967,19 +9553,9 @@
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
-			"Berber": {
-				"alpha3": "ber",
-				"alpha2": " ",
-				"native": true
-			},
-			"Hassaniya": {
-				"alpha3": "mey",
-				"alpha2": ""
-			},
-			"Spanish": {
-				"alpha3": "spa",
-				"alpha2": "es"
-			}
+			"ber": "Berber",
+			"mey": "Hassaniya",
+			"spa": "Spanish"
 		},
 		"translations": {
 			"de": "Westsahara",
@@ -11017,11 +9593,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"Arabic": {
-				"alpha3": "ara",
-				"alpha2": "ar",
-				"native": true
-			}
+			"ara": "Arabic"
 		},
 		"translations": {
 			"de": "Jemen",
@@ -11059,11 +9631,7 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en",
-				"native": true
-			}
+			"eng": "English"
 		},
 		"translations": {
 			"de": "Sambia",
@@ -11101,67 +9669,21 @@
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
-			"Chewa": {
-				"alpha3": "nya",
-				"alpha2": "ny",
-				"native": true
-			},
-			"Chibarwe": {
-				"alpha3": "bwg",
-				"alpha2": ""
-			},
-			"English": {
-				"alpha3": "eng",
-				"alpha2": "en"
-			},
-			"Kalanga": {
-				"alpha3": "kck",
-				"alpha2": ""
-			},
-			"Khoisan": {
-				"alpha3": "khi",
-				"alpha2": " "
-			},
-			"Ndau": {
-				"alpha3": "ndc",
-				"alpha2": ""
-			},
-			"Northern Ndebele": {
-				"alpha3": "nde",
-				"alpha2": "nd"
-			},
-			"Shona": {
-				"alpha3": "sna",
-				"alpha2": "sn"
-			},
-			"Sotho": {
-				"alpha3": "sot",
-				"alpha2": "st"
-			},
-			"Tonga": {
-				"alpha3": "toi",
-				"alpha2": ""
-			},
-			"Tsonga": {
-				"alpha3": "tso",
-				"alpha2": "ts"
-			},
-			"Tswana": {
-				"alpha3": "tsn",
-				"alpha2": "tn"
-			},
-			"Venda": {
-				"alpha3": "ven",
-				"alpha2": "ve"
-			},
-			"Xhosa": {
-				"alpha3": "xho",
-				"alpha2": "xh"
-			},
-			"Zimbabwean Sign Language": {
-				"alpha3": "zib",
-				"alpha2": ""
-			}
+			"bwg": "Chibarwe",
+			"eng": "English",
+			"kck": "Kalanga",
+			"khi": "Khoisan",
+			"ndc": "Ndau",
+			"nde": "Northern Ndebele",
+			"nya": "Chewa",
+			"sna": "Shona",
+			"sot": "Sotho",
+			"toi": "Tonga",
+			"tsn": "Tswana",
+			"tso": "Tsonga",
+			"ven": "Venda",
+			"xho": "Xhosa",
+			"zib": "Zimbabwean Sign Language"
 		},
 		"translations": {
 			"de": "Simbabwe",
