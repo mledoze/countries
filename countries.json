@@ -397,7 +397,7 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"language": ["Spanish", "Guarani"],
+		"language": ["Spanish", "Guaraní"],
 		"languageCodes": ["es", "gn"],
 		"translations": {
 			"it": "Argentina",
@@ -700,7 +700,7 @@
 		"relevance": "2",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"language": ["Bangla"],
+		"language": ["Bengali"],
 		"languageCodes": ["bn"],
 		"translations": {
 			"it": "Bangladesh",
@@ -1004,7 +1004,7 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"language": ["Spanish", "Quechua", "Aymara", "Guarani"],
+		"language": ["Spanish", "Quechua", "Aymara", "Guaraní"],
 		"languageCodes": ["es", "qu", "ay", "gn"],
 		"translations": {
 			"it": "Bolivia",
@@ -1110,7 +1110,7 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
-		"language": ["English", "Setswana"],
+		"language": ["English", "Tswana"],
 		"languageCodes": ["en", "tn"],
 		"translations": {
 			"it": "Botswana",
@@ -1147,8 +1147,8 @@
 		"relevance": "0",
 		"region": "",
 		"subregion": "",
-		"language": ["no"],
-		"languageCodes": ["Norwegen"],
+		"language": ["Norwegian"],
+		"languageCodes": ["no"],
 		"translations": {
 			"it": "Isola Bouvet",
 			"hr": "Otok Bouvet",
@@ -2171,7 +2171,7 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"language": ["Dutch", "Papiamentu", "English"],
+		"language": ["Dutch", "Papiamento", "English"],
 		"languageCodes": ["nl", "pa", "en"],
 		"translations": {
 			"nl": "Cura\u00e7ao",
@@ -2506,7 +2506,7 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
-		"language": ["Castilian"],
+		"language": ["Spanish"],
 		"languageCodes": ["es"],
 		"translations": {
 			"it": "El Salvador",
@@ -4175,8 +4175,8 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"language": ["Jamaican English"],
-		"languageCodes": ["en"],
+		"language": ["English", "Jamaican Patois"],
+		"languageCodes": ["en", ""],
 		"translations": {
 			"it": "Giamaica",
 			"hr": "Jamajka",
@@ -4619,7 +4619,7 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
-		"language": ["Sesotho", "English"],
+		"language": ["Sotho", "English"],
 		"languageCodes": ["st", "en"],
 		"translations": {
 			"it": "Lesotho",
@@ -4841,7 +4841,7 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"language": ["Traditional Chinese", "Portuguese"],
+		"language": ["Chinese", "Portuguese"],
 		"languageCodes": ["zh", "pt"],
 		"translations": {
 			"it": "Macao",
@@ -4952,7 +4952,7 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"language": ["Chichewa", "English"],
+		"language": ["Chewa", "English"],
 		"languageCodes": ["ny", "en"],
 		"translations": {
 			"it": "Malawi",
@@ -4989,8 +4989,8 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"language": ["Malaysian"],
-		"languageCodes": ["my"],
+		"language": ["Malay","English"],
+		"languageCodes": ["my","en"],
 		"translations": {
 			"it": "Malesia",
 			"hr": "Malezija",
@@ -5396,7 +5396,7 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"language": ["Moldovan"],
+		"language": ["Moldavian"],
 		"languageCodes": ["ro"],
 		"translations": {
 			"it": "Moldavia",
@@ -5508,7 +5508,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"language": ["Montenegrin"],
-		"languageCodes": [""],
+		"languageCodes": ["sr"],
 		"translations": {
 			"it": "Montenegro",
 			"hr": "Crna Gora",
@@ -5692,7 +5692,7 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
-		"language": ["English", "Afrikaans", "German", "Kwangali", "Lozi", "Tswana", "Khoekhoe", "Herero", "Ovambo"],
+		"language": ["English", "Afrikaans", "German", "Kwangali", "Lozi", "Tswana", "Khoekhoe", "Herero", "Ndonga"],
 		"languageCodes": ["en", "af", "de", "", "", "tn", "", "hz", "kj"],
 		"translations": {
 			"it": "Namibia",
@@ -5729,7 +5729,7 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Micronesia",
-		"language": ["Nauruan", "English"],
+		"language": ["Nauru", "English"],
 		"languageCodes": ["na", "en"],
 		"translations": {
 			"it": "Nauru",
@@ -7684,7 +7684,7 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
-		"language": ["Afrikaans", "English", "Southern Ndebele", "Northern Sotho", "Southern Sotho", "Swazi", "Tsonga", "Tswana", "Venda", "Xhosa", "Zulu"],
+		"language": ["Afrikaans", "English", "Southern Ndebele", "Northern Sotho", "Sotho", "Swazi", "Tsonga", "Tswana", "Venda", "Xhosa", "Zulu"],
 		"languageCodes": ["af", "en", "nr", "", "st", "ss", "ts", "tn", "ve", "xh", "zu"],
 		"translations": {
 			"it": "Sud Africa",
@@ -9275,7 +9275,7 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"language": ["Chewa", "Chibarwe", "English", "Kalanga", "Khoisan", "Kalanga", "Ndau", "Ndebele", "Tsonga", "Shona", "Zimbabwean sign language", "Sotho", "Tonga", "Tswana", "Venda", "Xhosa"],
+		"language": ["Chewa", "Chibarwe", "English", "Kalanga", "Khoisan", "Kalanga", "Ndau", "Northern Ndebele", "Tsonga", "Shona", "Zimbabwean Sign Language", "Sotho", "Tonga", "Tswana", "Venda", "Xhosa"],
 		"languageCodes": ["ny", "", "en", "", "", "", "", "nd", "ts", "sn", "", "st", "", "tn", "ve", "xh"],
 		"translations": {
 			"it": "Zimbabwe",
