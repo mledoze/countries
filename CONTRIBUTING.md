@@ -5,8 +5,8 @@ can optionally rebuild the files in the `dist` folder using the
 [countries.php](https://github.com/mledoze/countries/blob/master/countries.php) script.
 
 # Contributions rules
-1. contributions should contains **top-level**, **static** data.
-2. restrain from sending too detailed, regional or changing countries data like the list of cities or financial data.
+1. contributions should contain **top-level**, **static** data
+2. restrain from sending too detailed, regional or changing countries data like financial or economic data (_e.g._ GDP, population, etc.)
 3. to ease the diffs, keep the indentation in the master source file (tabs not spaces), one line for short arrays
 4. accented characters must be encoded in unicode
 5. all strings must be encoded in UTF-8
