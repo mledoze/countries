@@ -153,6 +153,7 @@ Projects using this dataset:
 
 - [REST Countries](http://restcountries.eu/)
 - [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
+- [Countries of the World](http://countries.petethompson.net/)
 - [Country Prefix Codes For Go](https://github.com/relops/prefixes)
 - [Ask the NSA](http://askthensa.com/)
 
