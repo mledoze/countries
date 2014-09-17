@@ -78,7 +78,7 @@
 		"latlng": [60.116667, 19.9],
 		"demonym": "\u00c5landish",
 		"borders": [],
-		"area": -1
+		"area": 1580
 	},
 	{
 		"name": {
@@ -1122,7 +1122,7 @@
 		"latlng": [12.15, -68.266667],
 		"demonym": "Dutch",
 		"borders": [],
-		"area": -1
+		"area": 294
 	},
 	{
 		"name": {
@@ -3056,7 +3056,7 @@
 		"latlng": [46, 2],
 		"demonym": "French",
 		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
-		"area": -1
+		"area": 551695
 	},
 	{
 		"name": {
@@ -3095,7 +3095,7 @@
 		"latlng": [4, -53],
 		"demonym": "",
 		"borders": ["BRA", "SUR"],
-		"area": -1
+		"area": 83534
 	},
 	{
 		"name": {
@@ -3251,7 +3251,7 @@
 		"latlng": [13.46666666, -16.56666666],
 		"demonym": "Gambian",
 		"borders": ["SEN"],
-		"area": -1
+		"area": 10689
 	},
 	{
 		"name": {
@@ -3563,7 +3563,7 @@
 		"latlng": [16.25, -61.583333],
 		"demonym": "Guadeloupian",
 		"borders": [],
-		"area": -1
+		"area": 1628
 	},
 	{
 		"name": {
@@ -5540,7 +5540,7 @@
 		"latlng": [14.666667, -61],
 		"demonym": "French",
 		"borders": [],
-		"area": -1
+		"area": 1128
 	},
 	{
 		"name": {
@@ -5657,9 +5657,9 @@
 			"spa": "Mayotte"
 		},
 		"latlng": [-12.83333333, 45.16666666],
-		"demonym": "French",
+		"demonym": "Mahoran",
 		"borders": [],
-		"area": -1
+		"area": 374
 	},
 	{
 		"name": {
@@ -6050,7 +6050,7 @@
 		"latlng": [22, 98],
 		"demonym": "Myanmarian",
 		"borders": ["BGD", "CHN", "IND", "LAO", "THA"],
-		"area": -1
+		"area": 676578
 	},
 	{
 		"name": {
@@ -6771,7 +6771,7 @@
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
 		"borders": ["ISR", "EGY", "JOR"],
-		"area": -1
+		"area": 6220
 	},
 	{
 		"name": {
@@ -7172,10 +7172,10 @@
 	},
 	{
 		"name": {
-			"common": "Republic of Kosovo",
+			"common": "Kosovo",
 			"official": "Republic of Kosovo",
 			"native": {
-				"common": "Republika e Kosov\u00ebs",
+				"common": "Kosova",
 				"official": "Republika e Kosov\u00ebs"
 			}
 		},
@@ -7203,7 +7203,7 @@
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
 		"borders": ["ALB", "MKD", "MNE", "SRB"],
-		"area": -1
+		"area": 10908
 	},
 	{
 		"name": {
@@ -7242,7 +7242,7 @@
 		"latlng": [-21.15, 55.5],
 		"demonym": "French",
 		"borders": [],
-		"area": -1
+		"area": 2511
 	},
 	{
 		"name": {
@@ -8274,9 +8274,9 @@
 			"spa": "Islas Georgias del Sur y Sandwich del Sur"
 		},
 		"latlng": [-54.5, -37],
-		"demonym": "South Georgia and the South Sandwich Islander",
+		"demonym": "South Georgian South Sandwich Islander",
 		"borders": [],
-		"area": -1
+		"area": 3903
 	},
 	{
 		"name": {
@@ -9504,7 +9504,7 @@
 		"latlng": [],
 		"demonym": "American",
 		"borders": [],
-		"area": -1
+		"area": 34.2
 	},
 	{
 		"name": {
