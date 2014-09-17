@@ -2094,10 +2094,10 @@
 	},
 	{
 		"name": {
-			"common": "Democratic Republic of the Congo",
+			"common": "DR Congo",
 			"official": "Democratic Republic of the Congo",
 			"native": {
-				"common": "R\u00e9publique d\u00e9mocratique du Congo",
+				"common": "RD Congo",
 				"official": "R\u00e9publique d\u00e9mocratique du Congo"
 			}
 		},
@@ -3290,7 +3290,7 @@
 		"latlng": [42, 43.5],
 		"demonym": "Georgian",
 		"borders": ["ARM", "AZE", "RUS", "TUR"],
-		"area": -1
+		"area": 69700
 	},
 	{
 		"name": {
