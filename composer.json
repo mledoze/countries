@@ -1,0 +1,25 @@
+{
+	"name": "mledoze/countries",
+	"description": "World countries in JSON, CSV and XML.",
+	"keywords": ["world", "countries", "json", "csv", "xml"],
+	"homepage": "https://mledoze.github.io/countries/",
+	"license": "Open Database License",
+	"authors": [
+		{
+			"name": "Mohammed Le Doze"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mledoze/countries"
+		}
+	],
+	"require": {
+		"php": ">=5.4"
+	},
+	"dist": {
+		"url": "https://github.com/mledoze/countries/archive/master.zip",
+		"type": "zip"
+	}
+}
