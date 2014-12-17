@@ -1,4 +1,5 @@
 <?php
+require_once "vendor/autoload.php";
 
 /**
  * Tools to convert countries in different formats
@@ -150,6 +151,18 @@ class JsonConverterUnicode extends JsonConverter {
 }
 
 /**
+ * Class YamlConverter
+ */
+class YamlConverter extends AbstractConverter {
+	public function convert() {
+		$dumper      = new \Symfony\Component\Yaml\Dumper();
+		$inlineLevel = 1;
+		
+		return $dumper->dump($this->aCountries, $inlineLevel);
+	}
+}
+
+/**
  * Class CsvConverter
  */
 class CsvConverter extends AbstractConverter {
@@ -257,3 +270,4 @@ $aCountriesSrc = json_decode(file_get_contents('countries.json'), true);
 (new JsonConverterUnicode($aCountriesSrc))->save('countries-unescaped.json');
 (new CsvConverter($aCountriesSrc))->save('countries.csv');
 (new XmlConverter($aCountriesSrc))->save('countries.xml');
+(new YamlConverter($aCountriesSrc))->save('countries.yml');
