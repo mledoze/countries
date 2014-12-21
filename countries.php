@@ -124,14 +124,32 @@ abstract class AbstractConverter implements Converter {
 }
 
 /**
+ * Class AbstractJsonConverter
+ */
+abstract class AbstractJsonConverter extends AbstractConverter {
+
+	/**
+	 * Special case for empty arrays that should be encoded as empty JSON objects
+	 */
+	protected function processEmptyArrays() {
+		array_walk($this->aCountries, function (&$aCountry) {
+			if (empty($aCountry['languages'])) {
+				$aCountry['languages'] = new stdClass();
+			}
+		});
+	}
+}
+
+/**
  * Class JsonConverter
  */
-class JsonConverter extends AbstractConverter {
+class JsonConverter extends AbstractJsonConverter {
 
 	/**
 	 * @return string minified JSON, one country per line
 	 */
 	public function convert() {
+		$this->processEmptyArrays();
 		return preg_replace("@},{@", "},\n{", json_encode($this->aCountries) . "\n");
 	}
 }
@@ -145,6 +163,7 @@ class JsonConverterUnicode extends JsonConverter {
 	 * @return string minified JSON with unescaped characters
 	 */
 	public function convert() {
+		$this->processEmptyArrays();
 		return preg_replace("@},{@", "},\n{", json_encode($this->aCountries, JSON_UNESCAPED_UNICODE) . "\n");
 	}
 }
