@@ -65,14 +65,13 @@ abstract class AbstractConverter implements Converter {
 			$sTempFile = date('Ymd-His', time()) . '-countries';
 			$sOutputFile = $sTempFile;
 		}
+
+		// keep only the specified fields
 		if (!empty($this->aFields)) {
-			foreach ($this->aCountries as &$aCountry) {
-				foreach ($aCountry as $iKey => $value) {
-					if (!in_array($iKey, $this->aFields)) {
-						unset($aCountry[$iKey]);
-					}
-				}
-			}
+			$aFields = $this->aFields;
+			array_walk($this->aCountries, function (&$aCountry) use ($aFields) {
+				$aCountry = array_intersect_key($aCountry, array_flip($aFields));
+			});
 		}
 		return file_put_contents($this->sOutputDirectory . $sOutputFile, $this->convert());
 	}
@@ -112,7 +111,7 @@ abstract class AbstractConverter implements Converter {
 	 */
 	private function recursiveImplode(array $aInput, $sGlue) {
 		// remove empty strings from the array
-		$aInput = array_filter($aInput, function($entry){
+		$aInput = array_filter($aInput, function ($entry) {
 			return $entry !== '';
 		});
 		array_walk($aInput, function (&$value) use ($sGlue) {
@@ -133,7 +132,7 @@ class JsonConverter extends AbstractConverter {
 	 * @return string minified JSON, one country per line
 	 */
 	public function convert() {
-		return preg_replace("@},{@", "}," . PHP_EOL . "{", json_encode($this->aCountries) . PHP_EOL);
+		return preg_replace("@},{@", "},\n{", json_encode($this->aCountries) . "\n");
 	}
 }
 
@@ -146,7 +145,7 @@ class JsonConverterUnicode extends JsonConverter {
 	 * @return string minified JSON with unescaped characters
 	 */
 	public function convert() {
-		return preg_replace("@},{@", "}," . PHP_EOL . "{", json_encode($this->aCountries, JSON_UNESCAPED_UNICODE) . PHP_EOL);
+		return preg_replace("@},{@", "},\n{", json_encode($this->aCountries, JSON_UNESCAPED_UNICODE) . "\n");
 	}
 }
 
@@ -154,10 +153,14 @@ class JsonConverterUnicode extends JsonConverter {
  * Class YamlConverter
  */
 class YamlConverter extends AbstractConverter {
+
+	/**
+	 * @return string data converted to Yaml
+	 */
 	public function convert() {
-		$dumper      = new \Symfony\Component\Yaml\Dumper();
+		$dumper = new \Symfony\Component\Yaml\Dumper();
 		$inlineLevel = 1;
-		
+
 		return $dumper->dump($this->aCountries, $inlineLevel);
 	}
 }
@@ -181,9 +184,9 @@ class CsvConverter extends AbstractConverter {
 	 * @return string data converted into CSV
 	 */
 	public function convert() {
-		array_walk($this->aCountries, array($this, 'processCountry'));
+		array_walk($this->aCountries, [$this, 'processCountry']);
 		$sHeaders = '"' . implode($this->sGlue, array_keys($this->aCountries[0])) . '"';
-		return $sHeaders . PHP_EOL . $this->sBody;
+		return $sHeaders . "\n" . $this->sBody;
 	}
 
 	/**
@@ -205,7 +208,7 @@ class CsvConverter extends AbstractConverter {
 	 * @param $array
 	 */
 	private function processCountry(&$array) {
-		$this->sBody .= '"' . implode($this->sGlue, $this->convertArrays($array)) . '"' . PHP_EOL;
+		$this->sBody .= '"' . implode($this->sGlue, $this->convertArrays($array)) . "\"\n";
 	}
 }
 
