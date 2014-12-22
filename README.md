@@ -153,9 +153,11 @@ Projects using this dataset:
 
 - [REST Countries](http://restcountries.eu/)
 - [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
+- [Telephone JS](https://github.com/lukaswhite/telephones-js)
 - [Countries of the World](http://countries.petethompson.net/)
 - [Country Prefix Codes For Go](https://github.com/relops/prefixes)
 - [Ask the NSA](http://askthensa.com/)
+- [Country Info Mapper in Go](https://github.com/pirsquare/country-mapper)
 
 ## How to contribute?
 Please refer to [CONTRIBUTING](https://github.com/mledoze/countries/blob/master/CONTRIBUTING.md).
