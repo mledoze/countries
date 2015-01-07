@@ -1,5 +1,6 @@
 {
 	"name": "mledoze/countries",
+	"version": "1.6",
 	"description": "World countries in JSON, CSV and XML.",
 	"keywords": ["world", "countries", "json", "csv", "xml"],
 	"homepage": "https://mledoze.github.io/countries/",
