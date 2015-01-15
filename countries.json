@@ -10031,10 +10031,10 @@
 	{
 		"name": {
 			"common": "Western Sahara",
-			"official": "Western Sahara",
+			"official": "Sahrawi Arab Democratic Republic",
 			"native": {
 				"common": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
-				"official": "S\u00e1hara Occidental"
+				"official": "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629\u0020\u0627\u0644\u0639\u0631\u0628\u064A\u0629\u0020\u0627\u0644\u0635\u062D\u0631\u0627\u0648\u064A\u0629\u0020\u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629"
 			}
 		},
 		"tld": [".eh"],
@@ -10048,7 +10048,7 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"nativeLanguage": "ber",
+		"nativeLanguage": "mey",
 		"languages": {
 			"ber": "Berber",
 			"mey": "Hassaniya",
