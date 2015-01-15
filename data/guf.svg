@@ -1,17 +1,22 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3030">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" fill-rule="evenodd" stroke-width="1pt" transform="matrix(1.25 0 0 .9375 0 -.0000018493)">
-  <rect id="rect171" height="512" width="512" y=".0000024116" x="0" fill="#fff"/>
-  <rect id="rect403" height="512" width="170.67" y=".0000024116" x="0" fill="#00267f"/>
-  <rect id="rect135" height="512" width="170.67" y=".0000024116" x="341.33" fill="#f31830"/>
- </g>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg
+	width="900"
+	height="600"
+	xmlns="http://www.w3.org/2000/svg"
+	id="Flag of French Guiana">
+	
+<!--
+	This file is in the public domain
+-->
+
+	<polygon fill="#078930" points="0,0 900,0 900,600" />
+	<polygon fill="#FCDD09" points="0,0  900,600  0,600" />
+	<polygon fill="#DA121A" id="pentagram" transform="translate(450,300) scale(100) rotate(0)" points="0,-1
+       0.587785252292473129168705954639072768597652,0.809016994374947424102293417182819058860155
+       -0.951056516295153572116439333379382143405699,-0.309016994374947424102293417182819058860155
+       0.951056516295153572116439333379382143405699,-0.309016994374947424102293417182819058860155
+       -0.587785252292473129168705954639072768597652,0.809016994374947424102293417182819058860155" />
+
 </svg>
