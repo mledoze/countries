@@ -23,5 +23,8 @@
 	"dist": {
 		"url": "https://github.com/mledoze/countries/archive/master.zip",
 		"type": "zip"
+	},
+	"autoload": {
+		"psr-4": {"MLD\\": "src/MLD"}
 	}
 }
