@@ -1,4 +1,5 @@
 [
+
 	{
 		"name": {
 			"common": "Afghanistan",
@@ -39,6 +40,7 @@
 		},
 		"latlng": [33, 65],
 		"demonym": "Afghan",
+		"landlocked": true,
 		"borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"],
 		"area": 652230
 	},
@@ -79,6 +81,7 @@
 		},
 		"latlng": [60.116667, 19.9],
 		"demonym": "\u00c5landish",
+		"landlocked": false,
 		"borders": [],
 		"area": 1580
 	},
@@ -98,12 +101,7 @@
 		"currency": ["ALL"],
 		"callingCode": ["355"],
 		"capital": "Tirana",
-		"altSpellings": [
-			"AL",
-			"Shqip\u00ebri",
-			"Shqip\u00ebria",
-			"Shqipnia"
-		],
+		"altSpellings": ["AL", "Shqip\u00ebri", "Shqip\u00ebria", "Shqipnia"],
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
@@ -125,6 +123,7 @@
 		},
 		"latlng": [41, 20],
 		"demonym": "Albanian",
+		"landlocked": false,
 		"borders": ["MNE", "GRC", "MKD", "KOS"],
 		"area": 28748
 	},
@@ -166,6 +165,7 @@
 		},
 		"latlng": [28, 3],
 		"demonym": "Algerian",
+		"landlocked": false,
 		"borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"],
 		"area": 2381741
 	},
@@ -207,6 +207,7 @@
 		},
 		"latlng": [-14.33333333, -170],
 		"demonym": "American Samoan",
+		"landlocked": false,
 		"borders": [],
 		"area": 199
 	},
@@ -248,6 +249,7 @@
 		},
 		"latlng": [42.5, 1.5],
 		"demonym": "Andorran",
+		"landlocked": true,
 		"borders": ["FRA", "ESP"],
 		"area": 468
 	},
@@ -289,6 +291,7 @@
 		},
 		"latlng": [-12.5, 18.5],
 		"demonym": "Angolan",
+		"landlocked": false,
 		"borders": ["COG", "COD", "ZMB", "NAM"],
 		"area": 1246700
 	},
@@ -329,6 +332,7 @@
 		},
 		"latlng": [18.25, -63.16666666],
 		"demonym": "Anguillian",
+		"landlocked": false,
 		"borders": [],
 		"area": 91
 	},
@@ -368,6 +372,7 @@
 		},
 		"latlng": [-90, 0],
 		"demonym": "Antarctican",
+		"landlocked": false,
 		"borders": [],
 		"area": 14000000
 	},
@@ -409,6 +414,7 @@
 		},
 		"latlng": [17.05, -61.8],
 		"demonym": "Antiguan, Barbudan",
+		"landlocked": false,
 		"borders": [],
 		"area": 442
 	},
@@ -451,6 +457,7 @@
 		},
 		"latlng": [-34, -64],
 		"demonym": "Argentinean",
+		"landlocked": false,
 		"borders": ["BOL", "BRA", "CHL", "PRY", "URY"],
 		"area": 2780400
 	},
@@ -493,6 +500,7 @@
 		},
 		"latlng": [40, 45],
 		"demonym": "Armenian",
+		"landlocked": true,
 		"borders": ["AZE", "GEO", "IRN", "TUR"],
 		"area": 29743
 	},
@@ -534,6 +542,7 @@
 		},
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
+		"landlocked": false,
 		"borders": [],
 		"area": 180
 	},
@@ -575,6 +584,7 @@
 		},
 		"latlng": [-27, 133],
 		"demonym": "Australian",
+		"landlocked": false,
 		"borders": [],
 		"area": 7692024
 	},
@@ -616,6 +626,7 @@
 		},
 		"latlng": [47.33333333, 13.33333333],
 		"demonym": "Austrian",
+		"landlocked": true,
 		"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
 		"area": 83871
 	},
@@ -658,6 +669,7 @@
 		},
 		"latlng": [40.5, 47.5],
 		"demonym": "Azerbaijani",
+		"landlocked": true,
 		"borders": ["ARM", "GEO", "IRN", "RUS", "TUR"],
 		"area": 86600
 	},
@@ -699,6 +711,7 @@
 		},
 		"latlng": [24.25, -76],
 		"demonym": "Bahamian",
+		"landlocked": false,
 		"borders": [],
 		"area": 13943
 	},
@@ -740,6 +753,7 @@
 		},
 		"latlng": [26, 50.55],
 		"demonym": "Bahraini",
+		"landlocked": false,
 		"borders": [],
 		"area": 765
 	},
@@ -781,6 +795,7 @@
 		},
 		"latlng": [24, 90],
 		"demonym": "Bangladeshi",
+		"landlocked": false,
 		"borders": ["MMR", "IND"],
 		"area": 147570
 	},
@@ -822,6 +837,7 @@
 		},
 		"latlng": [13.16666666, -59.53333333],
 		"demonym": "Barbadian",
+		"landlocked": false,
 		"borders": [],
 		"area": 430
 	},
@@ -864,6 +880,7 @@
 		},
 		"latlng": [53, 28],
 		"demonym": "Belarusian",
+		"landlocked": true,
 		"borders": ["LVA", "LTU", "POL", "RUS", "UKR"],
 		"area": 207600
 	},
@@ -907,6 +924,7 @@
 		},
 		"latlng": [50.83333333, 4],
 		"demonym": "Belgian",
+		"landlocked": false,
 		"borders": ["FRA", "DEU", "LUX", "NLD"],
 		"area": 30528
 	},
@@ -949,6 +967,7 @@
 		},
 		"latlng": [17.25, -88.75],
 		"demonym": "Belizean",
+		"landlocked": false,
 		"borders": ["GTM", "MEX"],
 		"area": 22966
 	},
@@ -990,6 +1009,7 @@
 		},
 		"latlng": [9.5, 2.25],
 		"demonym": "Beninese",
+		"landlocked": false,
 		"borders": ["BFA", "NER", "NGA", "TGO"],
 		"area": 112622
 	},
@@ -1031,6 +1051,7 @@
 		},
 		"latlng": [32.33333333, -64.75],
 		"demonym": "Bermudian",
+		"landlocked": false,
 		"borders": [],
 		"area": 54
 	},
@@ -1072,6 +1093,7 @@
 		},
 		"latlng": [27.5, 90.5],
 		"demonym": "Bhutanese",
+		"landlocked": true,
 		"borders": ["CHN", "IND"],
 		"area": 38394
 	},
@@ -1116,6 +1138,7 @@
 		},
 		"latlng": [-17, -65],
 		"demonym": "Bolivian",
+		"landlocked": true,
 		"borders": ["ARG", "BRA", "CHL", "PRY", "PER"],
 		"area": 1098581
 	},
@@ -1149,6 +1172,7 @@
 		},
 		"latlng": [12.15, -68.266667],
 		"demonym": "Dutch",
+		"landlocked": false,
 		"borders": [],
 		"area": 294
 	},
@@ -1192,6 +1216,7 @@
 		},
 		"latlng": [44, 18],
 		"demonym": "Bosnian, Herzegovinian",
+		"landlocked": false,
 		"borders": ["HRV", "MNE", "SRB"],
 		"area": 51209
 	},
@@ -1233,6 +1258,7 @@
 		},
 		"latlng": [-22, 24],
 		"demonym": "Motswana",
+		"landlocked": true,
 		"borders": ["NAM", "ZAF", "ZMB", "ZWE"],
 		"area": 582000
 	},
@@ -1273,6 +1299,7 @@
 		},
 		"latlng": [-54.43333333, 3.4],
 		"demonym": "",
+		"landlocked": false,
 		"borders": [],
 		"area": 49
 	},
@@ -1314,6 +1341,7 @@
 		},
 		"latlng": [-10, -55],
 		"demonym": "Brazilian",
+		"landlocked": false,
 		"borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
 		"area": 8515767
 	},
@@ -1355,6 +1383,7 @@
 		},
 		"latlng": [-6, 71.5],
 		"demonym": "Indian",
+		"landlocked": false,
 		"borders": [],
 		"area": 60
 	},
@@ -1395,6 +1424,7 @@
 		},
 		"latlng": [18.431383, -64.62305],
 		"demonym": "Virgin Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 151
 	},
@@ -1436,6 +1466,7 @@
 		},
 		"latlng": [4.5, 114.66666666],
 		"demonym": "Bruneian",
+		"landlocked": false,
 		"borders": ["MYS"],
 		"area": 5765
 	},
@@ -1477,6 +1508,7 @@
 		},
 		"latlng": [43, 25],
 		"demonym": "Bulgarian",
+		"landlocked": false,
 		"borders": ["GRC", "MKD", "ROU", "SRB", "TUR"],
 		"area": 110879
 	},
@@ -1518,6 +1550,7 @@
 		},
 		"latlng": [13, -2],
 		"demonym": "Burkinabe",
+		"landlocked": true,
 		"borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"],
 		"area": 272967
 	},
@@ -1560,6 +1593,7 @@
 		},
 		"latlng": [-3.5, 30],
 		"demonym": "Burundian",
+		"landlocked": true,
 		"borders": ["COD", "RWA", "TZA"],
 		"area": 27834
 	},
@@ -1601,6 +1635,7 @@
 		},
 		"latlng": [13, 105],
 		"demonym": "Cambodian",
+		"landlocked": false,
 		"borders": ["LAO", "THA", "VNM"],
 		"area": 181035
 	},
@@ -1643,6 +1678,7 @@
 		},
 		"latlng": [6, 12],
 		"demonym": "Cameroonian",
+		"landlocked": false,
 		"borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"],
 		"area": 475442
 	},
@@ -1685,6 +1721,7 @@
 		},
 		"latlng": [60, -95],
 		"demonym": "Canadian",
+		"landlocked": false,
 		"borders": ["USA"],
 		"area": 9984670
 	},
@@ -1726,6 +1763,7 @@
 		},
 		"latlng": [16, -24],
 		"demonym": "Cape Verdian",
+		"landlocked": false,
 		"borders": [],
 		"area": 4033
 	},
@@ -1767,6 +1805,7 @@
 		},
 		"latlng": [19.5, -80.5],
 		"demonym": "Caymanian",
+		"landlocked": false,
 		"borders": [],
 		"area": 264
 	},
@@ -1809,6 +1848,7 @@
 		},
 		"latlng": [7, 21],
 		"demonym": "Central African",
+		"landlocked": true,
 		"borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"],
 		"area": 622984
 	},
@@ -1851,6 +1891,7 @@
 		},
 		"latlng": [15, 19],
 		"demonym": "Chadian",
+		"landlocked": true,
 		"borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SSD"],
 		"area": 1284000
 	},
@@ -1892,6 +1933,7 @@
 		},
 		"latlng": [-30, -71],
 		"demonym": "Chilean",
+		"landlocked": false,
 		"borders": ["ARG", "BOL", "PER"],
 		"area": 756102
 	},
@@ -1933,6 +1975,7 @@
 		},
 		"latlng": [35, 105],
 		"demonym": "Chinese",
+		"landlocked": false,
 		"borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"],
 		"area": 9706961
 	},
@@ -1974,6 +2017,7 @@
 		},
 		"latlng": [-10.5, 105.66666666],
 		"demonym": "Christmas Island",
+		"landlocked": false,
 		"borders": [],
 		"area": 135
 	},
@@ -2015,6 +2059,7 @@
 		},
 		"latlng": [-12.5, 96.83333333],
 		"demonym": "Cocos Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 14
 	},
@@ -2056,6 +2101,7 @@
 		},
 		"latlng": [4, -72],
 		"demonym": "Colombian",
+		"landlocked": false,
 		"borders": ["BRA", "ECU", "PAN", "PER", "VEN"],
 		"area": 1141748
 	},
@@ -2099,6 +2145,7 @@
 		},
 		"latlng": [-12.16666666, 44.25],
 		"demonym": "Comoran",
+		"landlocked": false,
 		"borders": [],
 		"area": 1862
 	},
@@ -2141,6 +2188,7 @@
 		},
 		"latlng": [-1, 15],
 		"demonym": "Congolese",
+		"landlocked": false,
 		"borders": ["AGO", "CMR", "CAF", "COD", "GAB"],
 		"area": 342000
 	},
@@ -2186,6 +2234,7 @@
 		},
 		"latlng": [0, 25],
 		"demonym": "Congolese",
+		"landlocked": false,
 		"borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"],
 		"area": 2344858
 	},
@@ -2228,6 +2277,7 @@
 		},
 		"latlng": [-21.23333333, -159.76666666],
 		"demonym": "Cook Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 236
 	},
@@ -2269,6 +2319,7 @@
 		},
 		"latlng": [10, -84],
 		"demonym": "Costa Rican",
+		"landlocked": false,
 		"borders": ["NIC", "PAN"],
 		"area": 51100
 	},
@@ -2310,6 +2361,7 @@
 		},
 		"latlng": [45.16666666, 15.5],
 		"demonym": "Croatian",
+		"landlocked": false,
 		"borders": ["BIH", "HUN", "MNE", "SRB", "SVN"],
 		"area": 56594
 	},
@@ -2351,6 +2403,7 @@
 		},
 		"latlng": [21.5, -80],
 		"demonym": "Cuban",
+		"landlocked": false,
 		"borders": [],
 		"area": 109884
 	},
@@ -2387,6 +2440,7 @@
 		},
 		"latlng": [12.116667, -68.933333],
 		"demonym": "Dutch",
+		"landlocked": false,
 		"borders": [],
 		"area": 444
 	},
@@ -2429,6 +2483,7 @@
 		},
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
+		"landlocked": false,
 		"borders": ["GBR"],
 		"area": 9251
 	},
@@ -2471,6 +2526,7 @@
 		},
 		"latlng": [49.75, 15.5],
 		"demonym": "Czech",
+		"landlocked": true,
 		"borders": ["AUT", "DEU", "POL", "SVK"],
 		"area": 78865
 	},
@@ -2512,6 +2568,7 @@
 		},
 		"latlng": [56, 10],
 		"demonym": "Danish",
+		"landlocked": false,
 		"borders": ["DEU"],
 		"area": 43094
 	},
@@ -2554,6 +2611,7 @@
 		},
 		"latlng": [11.5, 43],
 		"demonym": "Djibouti",
+		"landlocked": false,
 		"borders": ["ERI", "ETH", "SOM"],
 		"area": 23200
 	},
@@ -2595,6 +2653,7 @@
 		},
 		"latlng": [15.41666666, -61.33333333],
 		"demonym": "Dominican",
+		"landlocked": false,
 		"borders": [],
 		"area": 751
 	},
@@ -2636,6 +2695,7 @@
 		},
 		"latlng": [19, -70.66666666],
 		"demonym": "Dominican",
+		"landlocked": false,
 		"borders": ["HTI"],
 		"area": 48671
 	},
@@ -2677,6 +2737,7 @@
 		},
 		"latlng": [-2, -77.5],
 		"demonym": "Ecuadorean",
+		"landlocked": false,
 		"borders": ["COL", "PER"],
 		"area": 276841
 	},
@@ -2718,6 +2779,7 @@
 		},
 		"latlng": [27, 30],
 		"demonym": "Egyptian",
+		"landlocked": false,
 		"borders": ["ISR", "LBY", "SDN"],
 		"area": 1002450
 	},
@@ -2759,6 +2821,7 @@
 		},
 		"latlng": [13.83333333, -88.91666666],
 		"demonym": "Salvadoran",
+		"landlocked": false,
 		"borders": ["GTM", "HND"],
 		"area": 21041
 	},
@@ -2802,6 +2865,7 @@
 		},
 		"latlng": [2, 10],
 		"demonym": "Equatorial Guinean",
+		"landlocked": false,
 		"borders": ["CMR", "GAB"],
 		"area": 28051
 	},
@@ -2845,6 +2909,7 @@
 		},
 		"latlng": [15, 39],
 		"demonym": "Eritrean",
+		"landlocked": false,
 		"borders": ["DJI", "ETH", "SDN"],
 		"area": 117600
 	},
@@ -2886,6 +2951,7 @@
 		},
 		"latlng": [59, 26],
 		"demonym": "Estonian",
+		"landlocked": false,
 		"borders": ["LVA", "RUS"],
 		"area": 45227
 	},
@@ -2927,6 +2993,7 @@
 		},
 		"latlng": [8, 38],
 		"demonym": "Ethiopian",
+		"landlocked": true,
 		"borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"],
 		"area": 1104300
 	},
@@ -2967,6 +3034,7 @@
 		},
 		"latlng": [-51.75, -59],
 		"demonym": "Falkland Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 12173
 	},
@@ -3008,6 +3076,7 @@
 		},
 		"latlng": [62, -7],
 		"demonym": "Faroese",
+		"landlocked": false,
 		"borders": [],
 		"area": 1393
 	},
@@ -3050,6 +3119,7 @@
 		},
 		"latlng": [-18, 175],
 		"demonym": "Fijian",
+		"landlocked": false,
 		"borders": [],
 		"area": 18272
 	},
@@ -3091,6 +3161,7 @@
 		},
 		"latlng": [64, 26],
 		"demonym": "Finnish",
+		"landlocked": false,
 		"borders": ["NOR", "SWE", "RUS"],
 		"area": 338424
 	},
@@ -3131,6 +3202,7 @@
 		},
 		"latlng": [46, 2],
 		"demonym": "French",
+		"landlocked": false,
 		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
 		"area": 551695
 	},
@@ -3171,6 +3243,7 @@
 		},
 		"latlng": [4, -53],
 		"demonym": "",
+		"landlocked": false,
 		"borders": ["BRA", "SUR"],
 		"area": 83534
 	},
@@ -3211,6 +3284,7 @@
 		},
 		"latlng": [-15, -140],
 		"demonym": "French Polynesian",
+		"landlocked": false,
 		"borders": [],
 		"area": 4167
 	},
@@ -3251,6 +3325,7 @@
 		},
 		"latlng": [-49.25, 69.167],
 		"demonym": "French",
+		"landlocked": false,
 		"borders": [],
 		"area": 7747
 	},
@@ -3291,6 +3366,7 @@
 		},
 		"latlng": [-1, 11.75],
 		"demonym": "Gabonese",
+		"landlocked": false,
 		"borders": ["CMR", "COG", "GNQ"],
 		"area": 267668
 	},
@@ -3331,6 +3407,7 @@
 		},
 		"latlng": [13.46666666, -16.56666666],
 		"demonym": "Gambian",
+		"landlocked": false,
 		"borders": ["SEN"],
 		"area": 10689
 	},
@@ -3371,6 +3448,7 @@
 		},
 		"latlng": [42, 43.5],
 		"demonym": "Georgian",
+		"landlocked": false,
 		"borders": ["ARM", "AZE", "RUS", "TUR"],
 		"area": 69700
 	},
@@ -3411,6 +3489,7 @@
 		},
 		"latlng": [51, 9],
 		"demonym": "German",
+		"landlocked": false,
 		"borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
 		"area": 357114
 	},
@@ -3451,6 +3530,7 @@
 		},
 		"latlng": [8, -2],
 		"demonym": "Ghanaian",
+		"landlocked": false,
 		"borders": ["BFA", "CIV", "TGO"],
 		"area": 238533
 	},
@@ -3491,6 +3571,7 @@
 		},
 		"latlng": [36.13333333, -5.35],
 		"demonym": "Gibraltar",
+		"landlocked": false,
 		"borders": ["ESP"],
 		"area": 6
 	},
@@ -3531,6 +3612,7 @@
 		},
 		"latlng": [39, 22],
 		"demonym": "Greek",
+		"landlocked": false,
 		"borders": ["ALB", "BGR", "TUR", "MKD"],
 		"area": 131990
 	},
@@ -3571,6 +3653,7 @@
 		},
 		"latlng": [72, -40],
 		"demonym": "Greenlandic",
+		"landlocked": false,
 		"borders": [],
 		"area": 2166086
 	},
@@ -3611,6 +3694,7 @@
 		},
 		"latlng": [12.11666666, -61.66666666],
 		"demonym": "Grenadian",
+		"landlocked": false,
 		"borders": [],
 		"area": 344
 	},
@@ -3651,6 +3735,7 @@
 		},
 		"latlng": [16.25, -61.583333],
 		"demonym": "Guadeloupian",
+		"landlocked": false,
 		"borders": [],
 		"area": 1628
 	},
@@ -3693,6 +3778,7 @@
 		},
 		"latlng": [13.46666666, 144.78333333],
 		"demonym": "Guamanian",
+		"landlocked": false,
 		"borders": [],
 		"area": 549
 	},
@@ -3733,6 +3819,7 @@
 		},
 		"latlng": [15.5, -90.25],
 		"demonym": "Guatemalan",
+		"landlocked": false,
 		"borders": ["BLZ", "SLV", "HND", "MEX"],
 		"area": 108889
 	},
@@ -3774,6 +3861,7 @@
 		},
 		"latlng": [49.46666666, -2.58333333],
 		"demonym": "Channel Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 78
 	},
@@ -3814,6 +3902,7 @@
 		},
 		"latlng": [11, -10],
 		"demonym": "Guinean",
+		"landlocked": false,
 		"borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"],
 		"area": 245857
 	},
@@ -3854,6 +3943,7 @@
 		},
 		"latlng": [12, -15],
 		"demonym": "Guinea-Bissauan",
+		"landlocked": false,
 		"borders": ["GIN", "SEN"],
 		"area": 36125
 	},
@@ -3894,6 +3984,7 @@
 		},
 		"latlng": [5, -59],
 		"demonym": "Guyanese",
+		"landlocked": false,
 		"borders": ["BRA", "SUR", "VEN"],
 		"area": 214969
 	},
@@ -3935,6 +4026,7 @@
 		},
 		"latlng": [19, -72.41666666],
 		"demonym": "Haitian",
+		"landlocked": false,
 		"borders": ["DOM"],
 		"area": 27750
 	},
@@ -3975,6 +4067,7 @@
 		},
 		"latlng": [-53.1, 72.51666666],
 		"demonym": "Heard and McDonald Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 412
 	},
@@ -3984,7 +4077,7 @@
 			"official": "Vatican City State",
 			"native": {
 				"common": "Vaticano",
-				"official": "Stato della Città del Vaticano"
+				"official": "Stato della Citt\u00e0 del Vaticano"
 			}
 		},
 		"tld": [".va"],
@@ -4016,6 +4109,7 @@
 		},
 		"latlng": [41.9, 12.45],
 		"demonym": "Italian",
+		"landlocked": true,
 		"borders": ["ITA"],
 		"area": 0.44
 	},
@@ -4056,6 +4150,7 @@
 		},
 		"latlng": [15, -86.5],
 		"demonym": "Honduran",
+		"landlocked": false,
 		"borders": ["GTM", "SLV", "NIC"],
 		"area": 112492
 	},
@@ -4097,6 +4192,7 @@
 		},
 		"latlng": [22.267, 114.188],
 		"demonym": "Hong Konger",
+		"landlocked": false,
 		"borders": ["CHN"],
 		"area": 1104
 	},
@@ -4137,6 +4233,7 @@
 		},
 		"latlng": [47, 20],
 		"demonym": "Hungarian",
+		"landlocked": true,
 		"borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"],
 		"area": 93028
 	},
@@ -4177,6 +4274,7 @@
 		},
 		"latlng": [65, -18],
 		"demonym": "Icelander",
+		"landlocked": false,
 		"borders": [],
 		"area": 103000
 	},
@@ -4218,6 +4316,7 @@
 		},
 		"latlng": [20, 77],
 		"demonym": "Indian",
+		"landlocked": false,
 		"borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
 		"area": 3287590
 	},
@@ -4258,6 +4357,7 @@
 		},
 		"latlng": [-5, 120],
 		"demonym": "Indonesian",
+		"landlocked": false,
 		"borders": ["TLS", "MYS", "PNG"],
 		"area": 1904569
 	},
@@ -4298,6 +4398,7 @@
 		},
 		"latlng": [8, -5],
 		"demonym": "Ivorian",
+		"landlocked": false,
 		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"],
 		"area": 322463
 	},
@@ -4337,6 +4438,7 @@
 		},
 		"latlng": [32, 53],
 		"demonym": "Iranian",
+		"landlocked": false,
 		"borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"],
 		"area": 1648195
 	},
@@ -4379,6 +4481,7 @@
 		},
 		"latlng": [33, 44],
 		"demonym": "Iraqi",
+		"landlocked": false,
 		"borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"],
 		"area": 438317
 	},
@@ -4420,6 +4523,7 @@
 		},
 		"latlng": [53, -8],
 		"demonym": "Irish",
+		"landlocked": false,
 		"borders": ["GBR"],
 		"area": 70273
 	},
@@ -4461,6 +4565,7 @@
 		},
 		"latlng": [54.25, -4.5],
 		"demonym": "Manx",
+		"landlocked": false,
 		"borders": [],
 		"area": 572
 	},
@@ -4502,6 +4607,7 @@
 		},
 		"latlng": [31.47, 35.13],
 		"demonym": "Israeli",
+		"landlocked": false,
 		"borders": ["EGY", "JOR", "LBN", "SYR"],
 		"area": 20770
 	},
@@ -4542,6 +4648,7 @@
 		},
 		"latlng": [42.83333333, 12.83333333],
 		"demonym": "Italian",
+		"landlocked": false,
 		"borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
 		"area": 301336
 	},
@@ -4583,6 +4690,7 @@
 		},
 		"latlng": [18.25, -77.5],
 		"demonym": "Jamaican",
+		"landlocked": false,
 		"borders": [],
 		"area": 10991
 	},
@@ -4623,6 +4731,7 @@
 		},
 		"latlng": [36, 138],
 		"demonym": "Japanese",
+		"landlocked": false,
 		"borders": [],
 		"area": 377930
 	},
@@ -4664,6 +4773,7 @@
 		},
 		"latlng": [49.25, -2.16666666],
 		"demonym": "Channel Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 116
 	},
@@ -4704,6 +4814,7 @@
 		},
 		"latlng": [31, 36],
 		"demonym": "Jordanian",
+		"landlocked": false,
 		"borders": ["IRQ", "ISR", "SAU", "SYR"],
 		"area": 89342
 	},
@@ -4745,6 +4856,7 @@
 		},
 		"latlng": [48, 68],
 		"demonym": "Kazakhstani",
+		"landlocked": true,
 		"borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"],
 		"area": 2724900
 	},
@@ -4786,6 +4898,7 @@
 		},
 		"latlng": [1, 38],
 		"demonym": "Kenyan",
+		"landlocked": false,
 		"borders": ["ETH", "SOM", "SSD", "TZA", "UGA"],
 		"area": 580367
 	},
@@ -4827,6 +4940,7 @@
 		},
 		"latlng": [1.41666666, 173],
 		"demonym": "I-Kiribati",
+		"landlocked": false,
 		"borders": [],
 		"area": 811
 	},
@@ -4867,6 +4981,7 @@
 		},
 		"latlng": [29.5, 45.75],
 		"demonym": "Kuwaiti",
+		"landlocked": false,
 		"borders": ["IRN", "SAU"],
 		"area": 17818
 	},
@@ -4908,6 +5023,7 @@
 		},
 		"latlng": [41, 75],
 		"demonym": "Kirghiz",
+		"landlocked": true,
 		"borders": ["CHN", "KAZ", "TJK", "UZB"],
 		"area": 199951
 	},
@@ -4948,6 +5064,7 @@
 		},
 		"latlng": [18, 105],
 		"demonym": "Laotian",
+		"landlocked": true,
 		"borders": ["MMR", "KHM", "CHN", "THA", "VNM"],
 		"area": 236800
 	},
@@ -4988,6 +5105,7 @@
 		},
 		"latlng": [57, 25],
 		"demonym": "Latvian",
+		"landlocked": false,
 		"borders": ["BLR", "EST", "LTU", "RUS"],
 		"area": 64559
 	},
@@ -5029,6 +5147,7 @@
 		},
 		"latlng": [33.83333333, 35.83333333],
 		"demonym": "Lebanese",
+		"landlocked": false,
 		"borders": ["ISR", "SYR"],
 		"area": 10452
 	},
@@ -5070,6 +5189,7 @@
 		},
 		"latlng": [-29.5, 28.5],
 		"demonym": "Mosotho",
+		"landlocked": true,
 		"borders": ["ZAF"],
 		"area": 30355
 	},
@@ -5110,6 +5230,7 @@
 		},
 		"latlng": [6.5, -9.5],
 		"demonym": "Liberian",
+		"landlocked": false,
 		"borders": ["GIN", "CIV", "SLE"],
 		"area": 111369
 	},
@@ -5150,6 +5271,7 @@
 		},
 		"latlng": [25, 17],
 		"demonym": "Libyan",
+		"landlocked": false,
 		"borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"],
 		"area": 1759540
 	},
@@ -5190,6 +5312,7 @@
 		},
 		"latlng": [47.26666666, 9.53333333],
 		"demonym": "Liechtensteiner",
+		"landlocked": true,
 		"borders": ["AUT", "CHE"],
 		"area": 160
 	},
@@ -5230,6 +5353,7 @@
 		},
 		"latlng": [56, 24],
 		"demonym": "Lithuanian",
+		"landlocked": false,
 		"borders": ["BLR", "LVA", "POL", "RUS"],
 		"area": 65300
 	},
@@ -5272,6 +5396,7 @@
 		},
 		"latlng": [49.75, 6.16666666],
 		"demonym": "Luxembourger",
+		"landlocked": true,
 		"borders": ["BEL", "FRA", "DEU"],
 		"area": 2586
 	},
@@ -5313,6 +5438,7 @@
 		},
 		"latlng": [22.16666666, 113.55],
 		"demonym": "Chinese",
+		"landlocked": false,
 		"borders": ["CHN"],
 		"area": 30
 	},
@@ -5353,6 +5479,7 @@
 		},
 		"latlng": [41.83333333, 22],
 		"demonym": "Macedonian",
+		"landlocked": true,
 		"borders": ["ALB", "BGR", "GRC", "KOS", "SRB"],
 		"area": 25713
 	},
@@ -5394,6 +5521,7 @@
 		},
 		"latlng": [-20, 47],
 		"demonym": "Malagasy",
+		"landlocked": false,
 		"borders": [],
 		"area": 587041
 	},
@@ -5435,6 +5563,7 @@
 		},
 		"latlng": [-13.5, 34],
 		"demonym": "Malawian",
+		"landlocked": true,
 		"borders": ["MOZ", "TZA", "ZMB"],
 		"area": 118484
 	},
@@ -5476,6 +5605,7 @@
 		},
 		"latlng": [2.5, 112.5],
 		"demonym": "Malaysian",
+		"landlocked": false,
 		"borders": ["BRN", "IDN", "THA"],
 		"area": 330803
 	},
@@ -5516,6 +5646,7 @@
 		},
 		"latlng": [3.25, 73],
 		"demonym": "Maldivan",
+		"landlocked": false,
 		"borders": [],
 		"area": 300
 	},
@@ -5556,6 +5687,7 @@
 		},
 		"latlng": [17, -4],
 		"demonym": "Malian",
+		"landlocked": true,
 		"borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"],
 		"area": 1240192
 	},
@@ -5597,6 +5729,7 @@
 		},
 		"latlng": [35.83333333, 14.58333333],
 		"demonym": "Maltese",
+		"landlocked": false,
 		"borders": [],
 		"area": 316
 	},
@@ -5638,6 +5771,7 @@
 		},
 		"latlng": [9, 168],
 		"demonym": "Marshallese",
+		"landlocked": false,
 		"borders": [],
 		"area": 181
 	},
@@ -5678,6 +5812,7 @@
 		},
 		"latlng": [14.666667, -61],
 		"demonym": "French",
+		"landlocked": false,
 		"borders": [],
 		"area": 1128
 	},
@@ -5718,6 +5853,7 @@
 		},
 		"latlng": [20, -12],
 		"demonym": "Mauritanian",
+		"landlocked": false,
 		"borders": ["DZA", "MLI", "SEN", "ESH"],
 		"area": 1030700
 	},
@@ -5760,6 +5896,7 @@
 		},
 		"latlng": [-20.28333333, 57.55],
 		"demonym": "Mauritian",
+		"landlocked": false,
 		"borders": [],
 		"area": 2040
 	},
@@ -5800,6 +5937,7 @@
 		},
 		"latlng": [-12.83333333, 45.16666666],
 		"demonym": "Mahoran",
+		"landlocked": false,
 		"borders": [],
 		"area": 374
 	},
@@ -5840,6 +5978,7 @@
 		},
 		"latlng": [23, -102],
 		"demonym": "Mexican",
+		"landlocked": false,
 		"borders": ["BLZ", "GTM", "USA"],
 		"area": 1964375
 	},
@@ -5880,6 +6019,7 @@
 		},
 		"latlng": [6.91666666, 158.25],
 		"demonym": "Micronesian",
+		"landlocked": false,
 		"borders": [],
 		"area": 702
 	},
@@ -5920,6 +6060,7 @@
 		},
 		"latlng": [47, 29],
 		"demonym": "Moldovan",
+		"landlocked": true,
 		"borders": ["ROU", "UKR"],
 		"area": 33846
 	},
@@ -5960,6 +6101,7 @@
 		},
 		"latlng": [43.73333333, 7.4],
 		"demonym": "Monegasque",
+		"landlocked": false,
 		"borders": ["FRA"],
 		"area": 2.02
 	},
@@ -6000,6 +6142,7 @@
 		},
 		"latlng": [46, 105],
 		"demonym": "Mongolian",
+		"landlocked": true,
 		"borders": ["CHN", "RUS"],
 		"area": 1564110
 	},
@@ -6040,6 +6183,7 @@
 		},
 		"latlng": [42.5, 19.3],
 		"demonym": "Montenegrin",
+		"landlocked": false,
 		"borders": ["ALB", "BIH", "HRV", "KOS", "SRB"],
 		"area": 13812
 	},
@@ -6080,6 +6224,7 @@
 		},
 		"latlng": [16.75, -62.2],
 		"demonym": "Montserratian",
+		"landlocked": false,
 		"borders": [],
 		"area": 102
 	},
@@ -6121,6 +6266,7 @@
 		},
 		"latlng": [32, -5],
 		"demonym": "Moroccan",
+		"landlocked": false,
 		"borders": ["DZA", "ESH", "ESP"],
 		"area": 446550
 	},
@@ -6161,6 +6307,7 @@
 		},
 		"latlng": [-18.25, 35],
 		"demonym": "Mozambican",
+		"landlocked": false,
 		"borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"],
 		"area": 801590
 	},
@@ -6201,6 +6348,7 @@
 		},
 		"latlng": [22, 98],
 		"demonym": "Myanmarian",
+		"landlocked": false,
 		"borders": ["BGD", "CHN", "IND", "LAO", "THA"],
 		"area": 676578
 	},
@@ -6249,6 +6397,7 @@
 		},
 		"latlng": [-22, 17],
 		"demonym": "Namibian",
+		"landlocked": false,
 		"borders": ["AGO", "BWA", "ZAF", "ZMB"],
 		"area": 825615
 	},
@@ -6290,6 +6439,7 @@
 		},
 		"latlng": [-0.53333333, 166.91666666],
 		"demonym": "Nauruan",
+		"landlocked": false,
 		"borders": [],
 		"area": 21
 	},
@@ -6330,6 +6480,7 @@
 		},
 		"latlng": [28, 84],
 		"demonym": "Nepalese",
+		"landlocked": true,
 		"borders": ["CHN", "IND"],
 		"area": 147181
 	},
@@ -6370,6 +6521,7 @@
 		},
 		"latlng": [52.5, 5.75],
 		"demonym": "Dutch",
+		"landlocked": false,
 		"borders": ["BEL", "DEU"],
 		"area": 41850
 	},
@@ -6410,6 +6562,7 @@
 		},
 		"latlng": [-21.5, 165.5],
 		"demonym": "New Caledonian",
+		"landlocked": false,
 		"borders": [],
 		"area": 18575
 	},
@@ -6452,6 +6605,7 @@
 		},
 		"latlng": [-41, 174],
 		"demonym": "New Zealander",
+		"landlocked": false,
 		"borders": [],
 		"area": 270467
 	},
@@ -6492,6 +6646,7 @@
 		},
 		"latlng": [13, -85],
 		"demonym": "Nicaraguan",
+		"landlocked": false,
 		"borders": ["CRI", "HND"],
 		"area": 130373
 	},
@@ -6532,6 +6687,7 @@
 		},
 		"latlng": [16, 8],
 		"demonym": "Nigerien",
+		"landlocked": true,
 		"borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
 		"area": 1267000
 	},
@@ -6572,6 +6728,7 @@
 		},
 		"latlng": [10, 8],
 		"demonym": "Nigerian",
+		"landlocked": false,
 		"borders": ["BEN", "CMR", "TCD", "NER"],
 		"area": 923768
 	},
@@ -6613,6 +6770,7 @@
 		},
 		"latlng": [-19.03333333, -169.86666666],
 		"demonym": "Niuean",
+		"landlocked": false,
 		"borders": [],
 		"area": 260
 	},
@@ -6654,6 +6812,7 @@
 		},
 		"latlng": [-29.03333333, 167.95],
 		"demonym": "Norfolk Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 36
 	},
@@ -6694,6 +6853,7 @@
 		},
 		"latlng": [40, 127],
 		"demonym": "North Korean",
+		"landlocked": false,
 		"borders": ["CHN", "KOR", "RUS"],
 		"area": 120538
 	},
@@ -6736,6 +6896,7 @@
 		},
 		"latlng": [15.2, 145.75],
 		"demonym": "American",
+		"landlocked": false,
 		"borders": [],
 		"area": 464
 	},
@@ -6778,6 +6939,7 @@
 		},
 		"latlng": [62, 10],
 		"demonym": "Norwegian",
+		"landlocked": false,
 		"borders": ["FIN", "SWE", "RUS"],
 		"area": 323802
 	},
@@ -6818,6 +6980,7 @@
 		},
 		"latlng": [21, 57],
 		"demonym": "Omani",
+		"landlocked": false,
 		"borders": ["SAU", "ARE", "YEM"],
 		"area": 309500
 	},
@@ -6859,6 +7022,7 @@
 		},
 		"latlng": [30, 70],
 		"demonym": "Pakistani",
+		"landlocked": false,
 		"borders": ["AFG", "CHN", "IND", "IRN"],
 		"area": 881912
 	},
@@ -6900,6 +7064,7 @@
 		},
 		"latlng": [7.5, 134.5],
 		"demonym": "Palauan",
+		"landlocked": false,
 		"borders": [],
 		"area": 459
 	},
@@ -6940,6 +7105,7 @@
 		},
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
+		"landlocked": false,
 		"borders": ["ISR", "EGY", "JOR"],
 		"area": 6220
 	},
@@ -6980,6 +7146,7 @@
 		},
 		"latlng": [9, -80],
 		"demonym": "Panamanian",
+		"landlocked": false,
 		"borders": ["COL", "CRI"],
 		"area": 75417
 	},
@@ -7022,6 +7189,7 @@
 		},
 		"latlng": [-6, 147],
 		"demonym": "Papua New Guinean",
+		"landlocked": false,
 		"borders": ["IDN"],
 		"area": 462840
 	},
@@ -7063,6 +7231,7 @@
 		},
 		"latlng": [-23, -58],
 		"demonym": "Paraguayan",
+		"landlocked": true,
 		"borders": ["ARG", "BOL", "BRA"],
 		"area": 406752
 	},
@@ -7105,6 +7274,7 @@
 		},
 		"latlng": [-10, -76],
 		"demonym": "Peruvian",
+		"landlocked": false,
 		"borders": ["BOL", "BRA", "CHL", "COL", "ECU"],
 		"area": 1285216
 	},
@@ -7146,6 +7316,7 @@
 		},
 		"latlng": [13, 122],
 		"demonym": "Filipino",
+		"landlocked": false,
 		"borders": [],
 		"area": 342353
 	},
@@ -7186,6 +7357,7 @@
 		},
 		"latlng": [-25.06666666, -130.1],
 		"demonym": "Pitcairn Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 47
 	},
@@ -7226,6 +7398,7 @@
 		},
 		"latlng": [52, 20],
 		"demonym": "Polish",
+		"landlocked": false,
 		"borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"],
 		"area": 312679
 	},
@@ -7266,6 +7439,7 @@
 		},
 		"latlng": [39.5, -8],
 		"demonym": "Portuguese",
+		"landlocked": false,
 		"borders": ["ESP"],
 		"area": 92090
 	},
@@ -7307,6 +7481,7 @@
 		},
 		"latlng": [18.25, -66.5],
 		"demonym": "Puerto Rican",
+		"landlocked": false,
 		"borders": [],
 		"area": 8870
 	},
@@ -7347,6 +7522,7 @@
 		},
 		"latlng": [25.5, 51.25],
 		"demonym": "Qatari",
+		"landlocked": false,
 		"borders": ["SAU"],
 		"area": 11586
 	},
@@ -7383,6 +7559,7 @@
 		},
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
+		"landlocked": true,
 		"borders": ["ALB", "MKD", "MNE", "SRB"],
 		"area": 10908
 	},
@@ -7423,6 +7600,7 @@
 		},
 		"latlng": [-21.15, 55.5],
 		"demonym": "French",
+		"landlocked": false,
 		"borders": [],
 		"area": 2511
 	},
@@ -7463,6 +7641,7 @@
 		},
 		"latlng": [46, 25],
 		"demonym": "Romanian",
+		"landlocked": false,
 		"borders": ["BGR", "HUN", "MDA", "SRB", "UKR"],
 		"area": 238391
 	},
@@ -7503,6 +7682,7 @@
 		},
 		"latlng": [60, 100],
 		"demonym": "Russian",
+		"landlocked": false,
 		"borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"],
 		"area": 17098242
 	},
@@ -7545,6 +7725,7 @@
 		},
 		"latlng": [-2, 30],
 		"demonym": "Rwandan",
+		"landlocked": true,
 		"borders": ["BDI", "COD", "TZA", "UGA"],
 		"area": 26338
 	},
@@ -7585,6 +7766,7 @@
 		},
 		"latlng": [18.5, -63.41666666],
 		"demonym": "Saint Barth\u00e9lemy Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 21
 	},
@@ -7625,6 +7807,7 @@
 		},
 		"latlng": [-15.95, -5.7],
 		"demonym": "Saint Helenian",
+		"landlocked": false,
 		"borders": [],
 		"area": 397
 	},
@@ -7659,12 +7842,13 @@
 			"ita": "Saint Kitts e Nevis",
 			"jpn": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9",
 			"nld": "Saint Kitts en Nevis",
-			"por": "São Crist\u00f3v\u00e3o e Nevis",
+			"por": "S\u00e3o Crist\u00f3v\u00e3o e Nevis",
 			"rus": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441",
 			"spa": "San Crist\u00f3bal y Nieves"
 		},
 		"latlng": [17.33333333, -62.75],
 		"demonym": "Kittitian or Nevisian",
+		"landlocked": false,
 		"borders": [],
 		"area": 261
 	},
@@ -7705,6 +7889,7 @@
 		},
 		"latlng": [13.88333333, -60.96666666],
 		"demonym": "Saint Lucian",
+		"landlocked": false,
 		"borders": [],
 		"area": 616
 	},
@@ -7745,6 +7930,7 @@
 		},
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
+		"landlocked": false,
 		"borders": ["SXM"],
 		"area": 53
 	},
@@ -7754,7 +7940,7 @@
 			"official": "Saint-Pierre-et-Miquelon",
 			"native": {
 				"common": "Saint-Pierre-et-Miquelon",
-				"official": "Collectivité territoriale de Saint-Pierre-et-Miquelon"
+				"official": "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"
 			}
 		},
 		"tld": [".pm"],
@@ -7785,6 +7971,7 @@
 		},
 		"latlng": [46.83333333, -56.33333333],
 		"demonym": "French",
+		"landlocked": false,
 		"borders": [],
 		"area": 242
 	},
@@ -7825,6 +8012,7 @@
 		},
 		"latlng": [13.25, -61.2],
 		"demonym": "Saint Vincentian",
+		"landlocked": false,
 		"borders": [],
 		"area": 389
 	},
@@ -7866,6 +8054,7 @@
 		},
 		"latlng": [-13.58333333, -172.33333333],
 		"demonym": "Samoan",
+		"landlocked": false,
 		"borders": [],
 		"area": 2842
 	},
@@ -7906,6 +8095,7 @@
 		},
 		"latlng": [43.76666666, 12.41666666],
 		"demonym": "Sammarinese",
+		"landlocked": true,
 		"borders": ["ITA"],
 		"area": 61
 	},
@@ -7946,6 +8136,7 @@
 		},
 		"latlng": [1, 7],
 		"demonym": "Sao Tomean",
+		"landlocked": false,
 		"borders": [],
 		"area": 964
 	},
@@ -7986,6 +8177,7 @@
 		},
 		"latlng": [25, 45],
 		"demonym": "Saudi Arabian",
+		"landlocked": false,
 		"borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"],
 		"area": 2149690
 	},
@@ -8026,6 +8218,7 @@
 		},
 		"latlng": [14, -14],
 		"demonym": "Senegalese",
+		"landlocked": false,
 		"borders": ["GMB", "GIN", "GNB", "MLI", "MRT"],
 		"area": 196722
 	},
@@ -8066,6 +8259,7 @@
 		},
 		"latlng": [44, 21],
 		"demonym": "Serbian",
+		"landlocked": true,
 		"borders": ["BIH", "BGR", "HRV", "HUN", "KOS", "MKD", "MNE", "ROU"],
 		"area": 88361
 	},
@@ -8108,6 +8302,7 @@
 		},
 		"latlng": [-4.58333333, 55.66666666],
 		"demonym": "Seychellois",
+		"landlocked": false,
 		"borders": [],
 		"area": 452
 	},
@@ -8148,6 +8343,7 @@
 		},
 		"latlng": [8.5, -11.5],
 		"demonym": "Sierra Leonean",
+		"landlocked": false,
 		"borders": ["GIN", "LBR"],
 		"area": 71740
 	},
@@ -8191,6 +8387,7 @@
 		},
 		"latlng": [1.36666666, 103.8],
 		"demonym": "Singaporean",
+		"landlocked": false,
 		"borders": [],
 		"area": 710
 	},
@@ -8232,6 +8429,7 @@
 		},
 		"latlng": [18.033333, -63.05],
 		"demonym": "St. Maartener",
+		"landlocked": false,
 		"borders": ["MAF"],
 		"area": 34
 	},
@@ -8272,6 +8470,7 @@
 		},
 		"latlng": [48.66666666, 19.5],
 		"demonym": "Slovak",
+		"landlocked": true,
 		"borders": ["AUT", "CZE", "HUN", "POL", "UKR"],
 		"area": 49037
 	},
@@ -8312,6 +8511,7 @@
 		},
 		"latlng": [46.11666666, 14.81666666],
 		"demonym": "Slovene",
+		"landlocked": false,
 		"borders": ["AUT", "HRV", "ITA", "HUN"],
 		"area": 20273
 	},
@@ -8352,6 +8552,7 @@
 		},
 		"latlng": [-8, 159],
 		"demonym": "Solomon Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 28896
 	},
@@ -8393,6 +8594,7 @@
 		},
 		"latlng": [10, 49],
 		"demonym": "Somali",
+		"landlocked": false,
 		"borders": ["DJI", "ETH", "KEN"],
 		"area": 637657
 	},
@@ -8443,6 +8645,7 @@
 		},
 		"latlng": [-29, 24],
 		"demonym": "South African",
+		"landlocked": false,
 		"borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"],
 		"area": 1221037
 	},
@@ -8483,6 +8686,7 @@
 		},
 		"latlng": [-54.5, -37],
 		"demonym": "South Georgian South Sandwich Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 3903
 	},
@@ -8523,6 +8727,7 @@
 		},
 		"latlng": [37, 127.5],
 		"demonym": "South Korean",
+		"landlocked": false,
 		"borders": ["PRK"],
 		"area": 100210
 	},
@@ -8563,6 +8768,7 @@
 		},
 		"latlng": [7, 30],
 		"demonym": "South Sudanese",
+		"landlocked": true,
 		"borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"],
 		"area": 619745
 	},
@@ -8607,6 +8813,7 @@
 		},
 		"latlng": [40, -4],
 		"demonym": "Spanish",
+		"landlocked": false,
 		"borders": ["AND", "FRA", "GIB", "PRT", "MAR"],
 		"area": 505992
 	},
@@ -8648,6 +8855,7 @@
 		},
 		"latlng": [7, 81],
 		"demonym": "Sri Lankan",
+		"landlocked": false,
 		"borders": ["IND"],
 		"area": 65610
 	},
@@ -8689,6 +8897,7 @@
 		},
 		"latlng": [15, 30],
 		"demonym": "Sudanese",
+		"landlocked": false,
 		"borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"],
 		"area": 1886068
 	},
@@ -8729,6 +8938,7 @@
 		},
 		"latlng": [4, -56],
 		"demonym": "Surinamer",
+		"landlocked": false,
 		"borders": ["BRA", "GUF", "GUY"],
 		"area": 163820
 	},
@@ -8769,6 +8979,7 @@
 		},
 		"latlng": [78, 20],
 		"demonym": "Norwegian",
+		"landlocked": false,
 		"borders": [],
 		"area": -1
 	},
@@ -8810,6 +9021,7 @@
 		},
 		"latlng": [-26.5, 31.5],
 		"demonym": "Swazi",
+		"landlocked": true,
 		"borders": ["MOZ", "ZAF"],
 		"area": 17364
 	},
@@ -8850,6 +9062,7 @@
 		},
 		"latlng": [62, 15],
 		"demonym": "Swedish",
+		"landlocked": false,
 		"borders": ["FIN", "NOR"],
 		"area": 450295
 	},
@@ -8893,6 +9106,7 @@
 		},
 		"latlng": [47, 8],
 		"demonym": "Swiss",
+		"landlocked": true,
 		"borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
 		"area": 41284
 	},
@@ -8933,6 +9147,7 @@
 		},
 		"latlng": [35, 38],
 		"demonym": "Syrian",
+		"landlocked": false,
 		"borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"],
 		"area": 185180
 	},
@@ -8973,6 +9188,7 @@
 		},
 		"latlng": [23.5, 121],
 		"demonym": "Taiwanese",
+		"landlocked": false,
 		"borders": [],
 		"area": 36193
 	},
@@ -9014,6 +9230,7 @@
 		},
 		"latlng": [39, 71],
 		"demonym": "Tadzhik",
+		"landlocked": true,
 		"borders": ["AFG", "CHN", "KGZ", "UZB"],
 		"area": 143100
 	},
@@ -9055,6 +9272,7 @@
 		},
 		"latlng": [-6, 35],
 		"demonym": "Tanzanian",
+		"landlocked": false,
 		"borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"],
 		"area": 945087
 	},
@@ -9095,6 +9313,7 @@
 		},
 		"latlng": [15, 100],
 		"demonym": "Thai",
+		"landlocked": false,
 		"borders": ["MMR", "KHM", "LAO", "MYS"],
 		"area": 513120
 	},
@@ -9136,6 +9355,7 @@
 		},
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
+		"landlocked": false,
 		"borders": ["IDN"],
 		"area": 14874
 	},
@@ -9176,6 +9396,7 @@
 		},
 		"latlng": [8, 1.16666666],
 		"demonym": "Togolese",
+		"landlocked": false,
 		"borders": ["BEN", "BFA", "GHA"],
 		"area": 56785
 	},
@@ -9218,6 +9439,7 @@
 		},
 		"latlng": [-9, -172],
 		"demonym": "Tokelauan",
+		"landlocked": false,
 		"borders": [],
 		"area": 12
 	},
@@ -9259,6 +9481,7 @@
 		},
 		"latlng": [-20, -175],
 		"demonym": "Tongan",
+		"landlocked": false,
 		"borders": [],
 		"area": 747
 	},
@@ -9299,6 +9522,7 @@
 		},
 		"latlng": [11, -61],
 		"demonym": "Trinidadian",
+		"landlocked": false,
 		"borders": [],
 		"area": 5130
 	},
@@ -9339,6 +9563,7 @@
 		},
 		"latlng": [34, 9],
 		"demonym": "Tunisian",
+		"landlocked": false,
 		"borders": ["DZA", "LBY"],
 		"area": 163610
 	},
@@ -9379,6 +9604,7 @@
 		},
 		"latlng": [39, 35],
 		"demonym": "Turkish",
+		"landlocked": false,
 		"borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"],
 		"area": 783562
 	},
@@ -9420,6 +9646,7 @@
 		},
 		"latlng": [40, 60],
 		"demonym": "Turkmen",
+		"landlocked": true,
 		"borders": ["AFG", "IRN", "KAZ", "UZB"],
 		"area": 488100
 	},
@@ -9460,6 +9687,7 @@
 		},
 		"latlng": [21.75, -71.58333333],
 		"demonym": "Turks and Caicos Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 948
 	},
@@ -9501,6 +9729,7 @@
 		},
 		"latlng": [-8, 178],
 		"demonym": "Tuvaluan",
+		"landlocked": false,
 		"borders": [],
 		"area": 26
 	},
@@ -9542,6 +9771,7 @@
 		},
 		"latlng": [1, 32],
 		"demonym": "Ugandan",
+		"landlocked": true,
 		"borders": ["COD", "KEN", "RWA", "SSD", "TZA"],
 		"area": 241550
 	},
@@ -9582,6 +9812,7 @@
 		},
 		"latlng": [49, 32],
 		"demonym": "Ukrainian",
+		"landlocked": false,
 		"borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"],
 		"area": 603500
 	},
@@ -9622,6 +9853,7 @@
 		},
 		"latlng": [24, 54],
 		"demonym": "Emirati",
+		"landlocked": false,
 		"borders": ["OMN", "SAU"],
 		"area": 83600
 	},
@@ -9662,6 +9894,7 @@
 		},
 		"latlng": [54, -2],
 		"demonym": "British",
+		"landlocked": false,
 		"borders": ["IRL"],
 		"area": 242900
 	},
@@ -9702,6 +9935,7 @@
 		},
 		"latlng": [38, -97],
 		"demonym": "American",
+		"landlocked": false,
 		"borders": ["CAN", "MEX"],
 		"area": 9372610
 	},
@@ -9742,6 +9976,7 @@
 		},
 		"latlng": [],
 		"demonym": "American",
+		"landlocked": false,
 		"borders": [],
 		"area": 34.2
 	},
@@ -9782,6 +10017,7 @@
 		},
 		"latlng": [18.35, -64.933333],
 		"demonym": "Virgin Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 347
 	},
@@ -9822,6 +10058,7 @@
 		},
 		"latlng": [-33, -56],
 		"demonym": "Uruguayan",
+		"landlocked": false,
 		"borders": ["ARG", "BRA"],
 		"area": 181034
 	},
@@ -9863,6 +10100,7 @@
 		},
 		"latlng": [41, 64],
 		"demonym": "Uzbekistani",
+		"landlocked": true,
 		"borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"],
 		"area": 447400
 	},
@@ -9905,6 +10143,7 @@
 		},
 		"latlng": [-16, 167],
 		"demonym": "Ni-Vanuatu",
+		"landlocked": false,
 		"borders": [],
 		"area": 12189
 	},
@@ -9945,6 +10184,7 @@
 		},
 		"latlng": [8, -66],
 		"demonym": "Venezuelan",
+		"landlocked": false,
 		"borders": ["BRA", "COL", "GUY"],
 		"area": 916445
 	},
@@ -9985,6 +10225,7 @@
 		},
 		"latlng": [16.16666666, 107.83333333],
 		"demonym": "Vietnamese",
+		"landlocked": false,
 		"borders": ["KHM", "CHN", "LAO"],
 		"area": 331212
 	},
@@ -10025,6 +10266,7 @@
 		},
 		"latlng": [-13.3, -176.2],
 		"demonym": "Wallis and Futuna Islander",
+		"landlocked": false,
 		"borders": [],
 		"area": 142
 	},
@@ -10034,7 +10276,7 @@
 			"official": "Sahrawi Arab Democratic Republic",
 			"native": {
 				"common": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
-				"official": "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629\u0020\u0627\u0644\u0639\u0631\u0628\u064A\u0629\u0020\u0627\u0644\u0635\u062D\u0631\u0627\u0648\u064A\u0629\u0020\u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629"
+				"official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0648\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629"
 			}
 		},
 		"tld": [".eh"],
@@ -10067,6 +10309,7 @@
 		},
 		"latlng": [24.5, -13],
 		"demonym": "Sahrawi",
+		"landlocked": false,
 		"borders": ["DZA", "MRT", "MAR"],
 		"area": 266000
 	},
@@ -10107,6 +10350,7 @@
 		},
 		"latlng": [15, 48],
 		"demonym": "Yemeni",
+		"landlocked": false,
 		"borders": ["OMN", "SAU"],
 		"area": 527968
 	},
@@ -10147,6 +10391,7 @@
 		},
 		"latlng": [-15, 30],
 		"demonym": "Zambian",
+		"landlocked": true,
 		"borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"],
 		"area": 752612
 	},
@@ -10201,6 +10446,7 @@
 		},
 		"latlng": [-20, 30],
 		"demonym": "Zimbabwean",
+		"landlocked": true,
 		"borders": ["BWA", "MOZ", "ZAF", "ZMB"],
 		"area": 390757
 	}
