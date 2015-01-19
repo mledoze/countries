@@ -42,8 +42,8 @@ GeoJSON outlines and flags in SVG format.
 		"common": "Austria",
 		"official": "Republic of Austria",
 		"native": {
-			"common": "\u00d6sterreich",
-			"official": "Republik \u00d6sterreich"
+			"common": "Österreich",
+			"official": "Republik Österreich"
 		}
 	},
 	"tld": [".at"],
@@ -53,7 +53,7 @@ GeoJSON outlines and flags in SVG format.
 	"currency": ["EUR"],
 	"callingCode": ["43"],
 	"capital": "Vienna",
-	"altSpellings": ["AT", "\u00d6sterreich", "Osterreich", "Oesterreich"],
+	"altSpellings": ["AT", "Osterreich", "Oesterreich"],
 	"relevance": "0",
 	"region": "Europe",
 	"subregion": "Western Europe",
@@ -63,14 +63,14 @@ GeoJSON outlines and flags in SVG format.
 	},
 	"translations": {
 		"cym": "Awstria",
-		"deu": "\u00d6sterreich",
+		"deu": "Österreich",
 		"fra": "Autriche",
 		"hrv": "Austrija",
 		"ita": "Austria",
-		"jpn": "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2",
+		"jpn": "オーストリア",
 		"nld": "Oostenrijk",
-		"por": "\u00c1ustria",
-		"rus": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f",
+		"por": "Áustria",
+		"rus": "Австрия",
 		"spa": "Austria"
 	},
 	"latlng": [47.33333333, 13.33333333],
@@ -85,7 +85,7 @@ GeoJSON outlines and flags in SVG format.
 		"official": "Republic of Niger",
 		"native": {
 			"common": "Niger",
-			"official": "R\u00e9publique du Niger"
+			"official": "République du Niger"
 		}
 	},
 	"tld": [".ne"],
@@ -95,7 +95,7 @@ GeoJSON outlines and flags in SVG format.
 	"currency": ["XOF"],
 	"callingCode": ["227"],
 	"capital": "Niamey",
-	"altSpellings": ["NE", "Nijar", "Republic of Niger", "R\u00e9publique du Niger"],
+	"altSpellings": ["NE", "Nijar"],
 	"relevance": "0",
 	"region": "Africa",
 	"subregion": "Western Africa",
@@ -108,11 +108,11 @@ GeoJSON outlines and flags in SVG format.
 		"fra": "Niger",
 		"hrv": "Niger",
 		"ita": "Niger",
-		"jpn": "\u30cb\u30b8\u30a7\u30fc\u30eb",
+		"jpn": "ニジェール",
 		"nld": "Niger",
-		"por": "N\u00edger",
-		"rus": "\u041d\u0438\u0433\u0435\u0440",
-		"spa": "N\u00edger"
+		"por": "Níger",
+		"rus": "Нигер",
+		"spa": "Níger"
 	},
 	"latlng": [16, 8],
 	"demonym": "Nigerien",
