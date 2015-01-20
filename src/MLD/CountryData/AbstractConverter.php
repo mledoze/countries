@@ -73,6 +73,25 @@ abstract class AbstractConverter implements Converter {
     public function setFields(array $aFields)
     {
         $this->aFields = $aFields;
+        
+        return $this;
+    }
+    
+    /**
+     * Gets fields that will currently be output.
+     * @return array A list of field names.
+     */
+    public function getFields()
+    {
+        if ($this->aFields !== null) {
+            return $this->aFields;
+        }
+        
+        if (empty($this->aCountries)) {
+            return array();
+        }
+        
+        return array_keys($this->aCountries[0]);
     }
 
     /**
