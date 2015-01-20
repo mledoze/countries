@@ -37,8 +37,7 @@ abstract class AbstractConverter implements Converter {
             mkdir($this->sOutputDirectory);
         }
         if (empty($sOutputFile)) {
-            $sTempFile = date('Ymd-His', time()) . '-countries';
-            $sOutputFile = $sTempFile;
+            $sOutputFile = date('Ymd-His', time()) . '-countries';
         }
 
         // keep only the specified fields
@@ -49,6 +48,22 @@ abstract class AbstractConverter implements Converter {
             });
         }
         return file_put_contents($this->sOutputDirectory . $sOutputFile, $this->convert());
+    }
+    
+    /**
+     * Set the directory to which output will be written.
+     * 
+     * @param string $sOutputDirectory
+     */
+    public function setOutputDirectory($sOutputDirectory)
+    {
+        if (substr($sOutputDirectory, strlen($sOutputDirectory) - 1, 1) !== DIRECTORY_SEPARATOR) {
+            $sOutputDirectory .= DIRECTORY_SEPARATOR;
+        }
+        
+        $this->sOutputDirectory = $sOutputDirectory;
+        
+        return $this;
     }
 
     /**
