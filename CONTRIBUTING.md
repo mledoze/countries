@@ -20,5 +20,5 @@ format to it or write it in another language.
 To (re)generate the `dist` files, execute the following commands in the root directory:
  ```
  composer install
- php countries.php
+ php countries.php convert
  ```
