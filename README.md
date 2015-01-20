@@ -151,7 +151,7 @@ To understand the usefulness of the relevance parameter, please read this:
 ## Customising the output
 The data files provided in the `dist` directory include all available fields, but is also possible to build a custom version of the data with certain fields excluded.
 
-To do this, you will first need a working PHP installation and a local copy of this repository. Once you have these, open a terminal in your local version of this project's root directory and run this command to install the necessary dependencies:
+To do this, you will first need a working PHP installation, [composer](https://getcomposer.org) and a local copy of this repository. Once you have these, open a terminal in your local version of this project's root directory and run this command to install the necessary dependencies:
 
 ```sh
 composer install
