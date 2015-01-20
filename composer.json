@@ -18,6 +18,7 @@
 	],
 	"require": {
 		"php": ">=5.4",
+		"symfony/console": "2.6.3",
 		"symfony/yaml": "2.6.1"
 	},
 	"dist": {

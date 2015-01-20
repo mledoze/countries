@@ -8,11 +8,12 @@ require_once "vendor/autoload.php";
  * @require PHP 5.4+
  */
 
-use MLD\CountryData as CD;
+use MLD\Console\Command\ExportCommand;
+use Symfony\Component\Console\Application;
 
-$aCountriesSrc = json_decode(file_get_contents('countries.json'), true);
-(new CD\JsonConverter($aCountriesSrc))->save('countries.json');
-(new CD\JsonConverterUnicode($aCountriesSrc))->save('countries-unescaped.json');
-(new CD\CsvConverter($aCountriesSrc))->save('countries.csv');
-(new CD\XmlConverter($aCountriesSrc))->save('countries.xml');
-(new CD\YamlConverter($aCountriesSrc))->save('countries.yml');
+$application = new Application();
+$application->add(new ExportCommand(
+	__DIR__ . DIRECTORY_SEPARATOR . 'countries.json',
+	__DIR__ . DIRECTORY_SEPARATOR . 'dist'
+));
+$application->run();

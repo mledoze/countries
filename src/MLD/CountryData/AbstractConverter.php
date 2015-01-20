@@ -70,7 +70,8 @@ abstract class AbstractConverter implements Converter {
      * Defines the fields to keep
      * @param array $aFields
      */
-    public function setFields(array $aFields) {
+    public function setFields(array $aFields)
+    {
         $this->aFields = $aFields;
     }
 
