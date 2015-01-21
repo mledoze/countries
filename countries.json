@@ -1,5 +1,4 @@
 [
-
 	{
 		"name": {
 			"common": "Afghanistan",
@@ -7896,10 +7895,10 @@
 	{
 		"name": {
 			"common": "Saint Martin",
-			"official": "Saint Pierre and Miquelon",
+			"official": "Saint Martin",
 			"native": {
 				"common": "Saint-Martin",
-				"official": "Saint-Pierre et Miquelon"
+				"official": "Saint-Martin"
 			}
 		},
 		"tld": [".fr", ".gp"],
@@ -7937,7 +7936,7 @@
 	{
 		"name": {
 			"common": "Saint Pierre and Miquelon",
-			"official": "Saint-Pierre-et-Miquelon",
+			"official": "Saint Pierre and Miquelon",
 			"native": {
 				"common": "Saint-Pierre-et-Miquelon",
 				"official": "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"
