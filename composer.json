@@ -1,8 +1,8 @@
 {
 	"name": "mledoze/countries",
-	"version": "1.6.1",
-	"description": "World countries in JSON, CSV and XML.",
-	"keywords": ["world", "countries", "json", "csv", "xml"],
+	"version": "1.6.2",
+	"description": "World countries in JSON, CSV, XML and Yaml",
+	"keywords": ["world", "countries", "json", "csv", "xml", "yaml"],
 	"homepage": "https://mledoze.github.io/countries/",
 	"license": "Open Database License",
 	"authors": [
