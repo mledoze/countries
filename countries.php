@@ -1,4 +1,5 @@
 <?php
+require_once "vendor/autoload.php";
 
 /**
  * Tools to convert countries in different formats
@@ -64,14 +65,13 @@ abstract class AbstractConverter implements Converter {
 			$sTempFile = date('Ymd-His', time()) . '-countries';
 			$sOutputFile = $sTempFile;
 		}
+
+		// keep only the specified fields
 		if (!empty($this->aFields)) {
-			foreach ($this->aCountries as &$aCountry) {
-				foreach ($aCountry as $iKey => $value) {
-					if (!in_array($iKey, $this->aFields)) {
-						unset($aCountry[$iKey]);
-					}
-				}
-			}
+			$aFields = $this->aFields;
+			array_walk($this->aCountries, function (&$aCountry) use ($aFields) {
+				$aCountry = array_intersect_key($aCountry, array_flip($aFields));
+			});
 		}
 		return file_put_contents($this->sOutputDirectory . $sOutputFile, $this->convert());
 	}
@@ -111,7 +111,7 @@ abstract class AbstractConverter implements Converter {
 	 */
 	private function recursiveImplode(array $aInput, $sGlue) {
 		// remove empty strings from the array
-		$aInput = array_filter($aInput, function($entry){
+		$aInput = array_filter($aInput, function ($entry) {
 			return $entry !== '';
 		});
 		array_walk($aInput, function (&$value) use ($sGlue) {
@@ -124,15 +124,33 @@ abstract class AbstractConverter implements Converter {
 }
 
 /**
+ * Class AbstractJsonConverter
+ */
+abstract class AbstractJsonConverter extends AbstractConverter {
+
+	/**
+	 * Special case for empty arrays that should be encoded as empty JSON objects
+	 */
+	protected function processEmptyArrays() {
+		array_walk($this->aCountries, function (&$aCountry) {
+			if (empty($aCountry['languages'])) {
+				$aCountry['languages'] = new stdClass();
+			}
+		});
+	}
+}
+
+/**
  * Class JsonConverter
  */
-class JsonConverter extends AbstractConverter {
+class JsonConverter extends AbstractJsonConverter {
 
 	/**
 	 * @return string minified JSON, one country per line
 	 */
 	public function convert() {
-		return preg_replace("@},{@", "}," . PHP_EOL . "{", json_encode($this->aCountries) . PHP_EOL);
+		$this->processEmptyArrays();
+		return preg_replace("@},{@", "},\n{", json_encode($this->aCountries) . "\n");
 	}
 }
 
@@ -145,7 +163,24 @@ class JsonConverterUnicode extends JsonConverter {
 	 * @return string minified JSON with unescaped characters
 	 */
 	public function convert() {
-		return preg_replace("@},{@", "}," . PHP_EOL . "{", json_encode($this->aCountries, JSON_UNESCAPED_UNICODE) . PHP_EOL);
+		$this->processEmptyArrays();
+		return preg_replace("@},{@", "},\n{", json_encode($this->aCountries, JSON_UNESCAPED_UNICODE) . "\n");
+	}
+}
+
+/**
+ * Class YamlConverter
+ */
+class YamlConverter extends AbstractConverter {
+
+	/**
+	 * @return string data converted to Yaml
+	 */
+	public function convert() {
+		$dumper = new \Symfony\Component\Yaml\Dumper();
+		$inlineLevel = 1;
+
+		return $dumper->dump($this->aCountries, $inlineLevel);
 	}
 }
 
@@ -168,9 +203,9 @@ class CsvConverter extends AbstractConverter {
 	 * @return string data converted into CSV
 	 */
 	public function convert() {
-		array_walk($this->aCountries, array($this, 'processCountry'));
+		array_walk($this->aCountries, [$this, 'processCountry']);
 		$sHeaders = '"' . implode($this->sGlue, array_keys($this->aCountries[0])) . '"';
-		return $sHeaders . PHP_EOL . $this->sBody;
+		return $sHeaders . "\n" . $this->sBody;
 	}
 
 	/**
@@ -192,7 +227,7 @@ class CsvConverter extends AbstractConverter {
 	 * @param $array
 	 */
 	private function processCountry(&$array) {
-		$this->sBody .= '"' . implode($this->sGlue, $this->convertArrays($array)) . '"' . PHP_EOL;
+		$this->sBody .= '"' . implode($this->sGlue, $this->convertArrays($array)) . "\"\n";
 	}
 }
 
@@ -257,3 +292,4 @@ $aCountriesSrc = json_decode(file_get_contents('countries.json'), true);
 (new JsonConverterUnicode($aCountriesSrc))->save('countries-unescaped.json');
 (new CsvConverter($aCountriesSrc))->save('countries.csv');
 (new XmlConverter($aCountriesSrc))->save('countries.xml');
+(new YamlConverter($aCountriesSrc))->save('countries.yml');

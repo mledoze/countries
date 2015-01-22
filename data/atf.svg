@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
-<svg id="svg378" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1" y="0" x="0" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
- <metadata id="metadata3706">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="flag" fill-rule="evenodd" stroke-width="1pt" transform="matrix(1.25 0 0 .9375 0 -.0000018493)">
-  <rect id="rect171" height="512" width="512" y=".0000024116" x="0" fill="#fff"/>
-  <rect id="rect403" height="512" width="170.67" y=".0000024116" x="0" fill="#00267f"/>
-  <rect id="rect135" height="512" width="170.67" y=".0000024116" x="341.33" fill="#f31830"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400">
+<defs>
+<path id="s" transform="scale(21)" fill="#fff" d="M0,-1 L0.58779,0.80902 L-0.95106,-0.30902 L0.95106,-0.30902 L-0.58779,0.80902z"/>
+</defs>
+<rect fill="#002395" height="400" width="600" />
+<rect fill="#fff" height="164" width="244" />
+<rect fill="#002395" height="160" width="80" />
+<rect fill="#ED2939" height="160" width="80" x="160"/>
+<path fill="#fff" d="M355,183 l12.875,20.5 h36.625 v71.5 l-27.5,-43 -37,59 h18 l19,-34 39,70 39,-70 19,34 h18 l-37,-59 -27.5,43 v-39.5 h16.5 l12.25,-19.5 h-28.75 v-12.5 h36.625 l12.875,-20.5 h-122z
+M398,270.5h-40v14h40z
+M474,270.5h-40v14h40z"/>
+<use xlink:href="#s" x="416" y="362"/>
+<use xlink:href="#s" x="371" y="328"/>
+<use xlink:href="#s" x="461" y="328"/>
+<use xlink:href="#s" x="333" y="227"/>
+<use xlink:href="#s" x="499" y="227"/>
 </svg>
