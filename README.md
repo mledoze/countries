@@ -171,6 +171,7 @@ Projects using this dataset:
 - [Country Prefix Codes For Go](https://github.com/relops/prefixes)
 - [Ask the NSA](http://askthensa.com/)
 - [Country Info Mapper in Go](https://github.com/pirsquare/country-mapper)
+- [Visa requirements in JSON](https://github.com/herrniemand/visas)
 
 ## How to contribute?
 Please refer to [CONTRIBUTING](https://github.com/mledoze/countries/blob/master/CONTRIBUTING.md).
