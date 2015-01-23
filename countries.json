@@ -607,9 +607,9 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "deu",
+		"nativeLanguage": "bar",
 		"languages": {
-			"deu": "German"
+			"bar": "Austro-Bavarian German"
 		},
 		"translations": {
 			"cym": "Awstria",
@@ -9085,9 +9085,9 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "deu",
+		"nativeLanguage": "gsw",
 		"languages": {
-			"deu": "German",
+			"gsw": "Swiss German",
 			"fra": "French",
 			"ita": "Italian",
 			"roh": "Romansh"
