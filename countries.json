@@ -26,7 +26,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "nld",
 		"languages": {
 			"nld": "Dutch",
 			"pap": "Papiamento"
@@ -78,7 +77,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"nativeLanguage": "pus",
 		"languages": {
 			"prs": "Dari",
 			"pus": "Pashto",
@@ -124,7 +122,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "por",
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -168,7 +165,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -211,7 +207,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "swe",
 		"languages": {
 			"swe": "Swedish"
 		},
@@ -254,7 +249,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "sqi",
 		"languages": {
 			"sqi": "Albanian"
 		},
@@ -298,7 +292,6 @@
 		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "cat",
 		"languages": {
 			"cat": "Catalan"
 		},
@@ -342,7 +335,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -389,7 +381,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"grn": "Guaran\u00ed",
 			"spa": "Spanish"
@@ -438,7 +429,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "hye",
 		"languages": {
 			"hye": "Armenian",
 			"rus": "Russian"
@@ -487,7 +477,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"smo": "Samoan"
@@ -526,7 +515,6 @@
 		"relevance": "0",
 		"region": "",
 		"subregion": "",
-		"nativeLanguage": "",
 		"languages": {},
 		"translations": {
 			"cym": "Antarctica",
@@ -568,7 +556,6 @@
 		"relevance": "0",
 		"region": "",
 		"subregion": "",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -611,7 +598,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -655,7 +641,6 @@
 		"relevance": "1.5",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -699,7 +684,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "bar",
 		"languages": {
 			"bar": "Austro-Bavarian German"
 		},
@@ -747,7 +731,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "aze",
 		"languages": {
 			"aze": "Azerbaijani",
 			"rus": "Russian"
@@ -796,7 +779,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "run",
 		"languages": {
 			"fra": "French",
 			"run": "Kirundi"
@@ -849,7 +831,6 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "nld",
 		"languages": {
 			"deu": "German",
 			"fra": "French",
@@ -895,7 +876,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -939,7 +919,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "nld",
 		"languages": {
 			"nld": "Dutch"
 		},
@@ -975,7 +954,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -1019,7 +997,6 @@
 		"relevance": "2",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"nativeLanguage": "ben",
 		"languages": {
 			"ben": "Bengali"
 		},
@@ -1063,7 +1040,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "bul",
 		"languages": {
 			"bul": "Bulgarian"
 		},
@@ -1107,7 +1083,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -1151,7 +1126,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -1203,7 +1177,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "bos",
 		"languages": {
 			"bos": "Bosnian",
 			"hrv": "Croatian",
@@ -1249,7 +1222,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -1296,7 +1268,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "bel",
 		"languages": {
 			"bel": "Belarusian",
 			"rus": "Russian"
@@ -1349,7 +1320,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
-		"nativeLanguage": "eng",
 		"languages": {
 			"bjz": "Belizean Creole",
 			"eng": "English",
@@ -1395,7 +1365,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Northern America",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -1451,7 +1420,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"aym": "Aymara",
 			"grn": "Guaran\u00ed",
@@ -1498,7 +1466,6 @@
 		"relevance": "2",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "por",
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -1542,7 +1509,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -1586,7 +1552,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "msa",
 		"languages": {
 			"msa": "Malay"
 		},
@@ -1630,7 +1595,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"nativeLanguage": "dzo",
 		"languages": {
 			"dzo": "Dzongkha"
 		},
@@ -1674,7 +1638,6 @@
 		"relevance": "0",
 		"region": "",
 		"subregion": "",
-		"nativeLanguage": "nor",
 		"languages": {
 			"nor": "Norwegian"
 		},
@@ -1721,7 +1684,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"tsn": "Tswana"
@@ -1769,7 +1731,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "sag",
 		"languages": {
 			"fra": "French",
 			"sag": "Sango"
@@ -1818,7 +1779,6 @@
 		"relevance": "2",
 		"region": "Americas",
 		"subregion": "Northern America",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"fra": "French"
@@ -1863,7 +1823,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -1919,7 +1878,6 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "gsw",
 		"languages": {
 			"fra": "French",
 			"gsw": "Swiss German",
@@ -1965,7 +1923,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -2009,7 +1966,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"nativeLanguage": "cmn",
 		"languages": {
 			"cmn": "Mandarin"
 		},
@@ -2053,7 +2009,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -2100,7 +2055,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"eng": "English",
 			"fra": "French"
@@ -2161,7 +2115,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "swa",
 		"languages": {
 			"fra": "French",
 			"kon": "Kikongo",
@@ -2217,7 +2170,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French",
 			"kon": "Kikongo",
@@ -2267,7 +2219,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"rar": "Cook Islands M\u0101ori"
@@ -2312,7 +2263,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -2364,7 +2314,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "zdj",
 		"languages": {
 			"ara": "Arabic",
 			"fra": "French",
@@ -2410,7 +2359,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "por",
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -2454,7 +2402,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -2498,7 +2445,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -2550,7 +2496,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "nld",
 		"languages": {
 			"eng": "English",
 			"nld": "Dutch",
@@ -2589,7 +2534,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -2633,7 +2577,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -2681,7 +2624,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "ell",
 		"languages": {
 			"ell": "Greek",
 			"tur": "Turkish"
@@ -2730,7 +2672,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "ces",
 		"languages": {
 			"ces": "Czech",
 			"slk": "Slovak"
@@ -2775,7 +2716,6 @@
 		"relevance": "3",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "deu",
 		"languages": {
 			"deu": "German"
 		},
@@ -2822,7 +2762,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic",
 			"fra": "French"
@@ -2867,7 +2806,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -2911,7 +2849,6 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "dan",
 		"languages": {
 			"dan": "Danish"
 		},
@@ -2955,7 +2892,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -2999,7 +2935,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -3043,7 +2978,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -3087,7 +3021,6 @@
 		"relevance": "1.5",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -3139,7 +3072,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "tir",
 		"languages": {
 			"ara": "Arabic",
 			"eng": "English",
@@ -3193,7 +3125,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"nativeLanguage": "mey",
 		"languages": {
 			"ber": "Berber",
 			"mey": "Hassaniya",
@@ -3254,7 +3185,6 @@
 		"relevance": "2",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "spa",
 		"languages": {
 			"cat": "Catalan",
 			"eus": "",
@@ -3301,7 +3231,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "est",
 		"languages": {
 			"est": "Estonian"
 		},
@@ -3345,7 +3274,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "amh",
 		"languages": {
 			"amh": "Amharic"
 		},
@@ -3393,7 +3321,6 @@
 		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "fin",
 		"languages": {
 			"fin": "Finnish",
 			"swe": "Swedish"
@@ -3445,7 +3372,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Melanesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"fij": "Fijian",
@@ -3490,7 +3416,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -3533,7 +3458,6 @@
 		"relevance": "2.5",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -3580,7 +3504,6 @@
 		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "fao",
 		"languages": {
 			"dan": "Danish",
 			"fao": "Faroese"
@@ -3624,7 +3547,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Micronesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -3667,7 +3589,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -3710,7 +3631,6 @@
 		"relevance": "2.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -3753,7 +3673,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "kat",
 		"languages": {
 			"kat": "Georgian"
 		},
@@ -3804,7 +3723,6 @@
 		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -3849,7 +3767,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -3892,7 +3809,6 @@
 		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -3935,7 +3851,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -3978,7 +3893,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -4021,7 +3935,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -4064,7 +3977,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "por",
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -4115,7 +4027,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "spa",
 		"languages": {
 			"fra": "French",
 			"por": "Portuguese",
@@ -4161,7 +4072,6 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "ell",
 		"languages": {
 			"ell": "Greek"
 		},
@@ -4204,7 +4114,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -4247,7 +4156,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Northern America",
-		"nativeLanguage": "kal",
 		"languages": {
 			"kal": "Greenlandic"
 		},
@@ -4290,7 +4198,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -4333,7 +4240,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -4384,7 +4290,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Micronesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"cha": "Chamorro",
 			"eng": "English",
@@ -4429,7 +4334,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -4476,7 +4380,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"nativeLanguage": "zho",
 		"languages": {
 			"eng": "English",
 			"zho": "Chinese"
@@ -4520,7 +4423,6 @@
 		"relevance": "0",
 		"region": "",
 		"subregion": "",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -4563,7 +4465,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -4606,7 +4507,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "hrv",
 		"languages": {
 			"hrv": "Croatian"
 		},
@@ -4654,7 +4554,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French",
 			"hat": "Haitian Creole"
@@ -4698,7 +4597,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "hun",
 		"languages": {
 			"hun": "Hungarian"
 		},
@@ -4741,7 +4639,6 @@
 		"relevance": "2",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "ind",
 		"languages": {
 			"ind": "Indonesian"
 		},
@@ -4788,7 +4685,6 @@
 		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"glv": "Manx"
@@ -4836,7 +4732,6 @@
 		"relevance": "3",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"nativeLanguage": "hin",
 		"languages": {
 			"eng": "English",
 			"hin": "Hindi"
@@ -4880,7 +4775,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -4928,7 +4822,6 @@
 		"relevance": "1.2",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "gle",
 		"languages": {
 			"eng": "English",
 			"gle": "Irish"
@@ -4972,7 +4865,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"nativeLanguage": "fas",
 		"languages": {
 			"fas": "Persian"
 		},
@@ -5022,7 +4914,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic",
 			"arc": "Aramaic",
@@ -5067,7 +4958,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "isl",
 		"languages": {
 			"isl": "Icelandic"
 		},
@@ -5114,7 +5004,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "heb",
 		"languages": {
 			"ara": "Arabic",
 			"heb": "Hebrew"
@@ -5162,7 +5051,6 @@
 		"relevance": "2",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "ita",
 		"languages": {
 			"bar": "Austro-Bavarian German",
 			"ita": "Italian"
@@ -5210,7 +5098,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"jam": "Jamaican Patois"
@@ -5262,7 +5149,6 @@
 		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -5307,7 +5193,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -5350,7 +5235,6 @@
 		"relevance": "2.5",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"nativeLanguage": "jpn",
 		"languages": {
 			"jpn": "Japanese"
 		},
@@ -5397,7 +5281,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
-		"nativeLanguage": "kaz",
 		"languages": {
 			"kaz": "Kazakh",
 			"rus": "Russian"
@@ -5445,7 +5328,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "swa",
 		"languages": {
 			"eng": "English",
 			"swa": "Swahili"
@@ -5493,7 +5375,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
-		"nativeLanguage": "kir",
 		"languages": {
 			"kir": "Kyrgyz",
 			"rus": "Russian"
@@ -5537,7 +5418,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "khm",
 		"languages": {
 			"khm": "Khmer"
 		},
@@ -5585,7 +5465,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Micronesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"gil": "Gilbertese"
@@ -5629,7 +5508,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -5672,7 +5550,6 @@
 		"relevance": "1.5",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"nativeLanguage": "kor",
 		"languages": {
 			"kor": "Korean"
 		},
@@ -5719,7 +5596,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "sqi",
 		"languages": {
 			"sqi": "Albanian",
 			"srp": "Serbian"
@@ -5758,7 +5634,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -5801,7 +5676,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "lao",
 		"languages": {
 			"lao": "Lao"
 		},
@@ -5848,7 +5722,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic",
 			"fra": "French"
@@ -5892,7 +5765,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -5935,7 +5807,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -5978,7 +5849,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -6021,7 +5891,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "deu",
 		"languages": {
 			"deu": "German"
 		},
@@ -6068,7 +5937,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"nativeLanguage": "sin",
 		"languages": {
 			"sin": "Sinhala",
 			"tam": "Tamil"
@@ -6116,7 +5984,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
-		"nativeLanguage": "sot",
 		"languages": {
 			"eng": "English",
 			"sot": "Sotho"
@@ -6160,7 +6027,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "lit",
 		"languages": {
 			"lit": "Lithuanian"
 		},
@@ -6211,7 +6077,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "fra",
 		"languages": {
 			"deu": "German",
 			"fra": "French",
@@ -6256,7 +6121,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "lav",
 		"languages": {
 			"lav": "Latvian"
 		},
@@ -6303,7 +6167,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"nativeLanguage": "zho",
 		"languages": {
 			"por": "Portuguese",
 			"zho": "Chinese"
@@ -6347,7 +6210,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -6394,7 +6256,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic",
 			"ber": "Berber"
@@ -6438,7 +6299,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -6481,7 +6341,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "ron",
 		"languages": {
 			"ron": "Moldavian"
 		},
@@ -6528,7 +6387,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French",
 			"mlg": "Malagasy"
@@ -6572,7 +6430,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"nativeLanguage": "div",
 		"languages": {
 			"div": "Maldivian"
 		},
@@ -6615,7 +6472,6 @@
 		"relevance": "1.5",
 		"region": "Americas",
 		"subregion": "Central America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -6662,7 +6518,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Micronesia",
-		"nativeLanguage": "mah",
 		"languages": {
 			"eng": "English",
 			"mah": "Marshallese"
@@ -6706,7 +6561,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "mkd",
 		"languages": {
 			"mkd": "Macedonian"
 		},
@@ -6749,7 +6603,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -6796,7 +6649,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "mlt",
 		"languages": {
 			"eng": "English",
 			"mlt": "Maltese"
@@ -6840,7 +6692,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "mya",
 		"languages": {
 			"mya": "Burmese"
 		},
@@ -6883,7 +6734,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "srp",
 		"languages": {
 			"srp": "Montenegrin"
 		},
@@ -6926,7 +6776,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"nativeLanguage": "mon",
 		"languages": {
 			"mon": "Mongolian"
 		},
@@ -6977,7 +6826,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Micronesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"cal": "Carolinian",
 			"cha": "Chamorro",
@@ -7022,7 +6870,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "por",
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -7065,7 +6912,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -7108,7 +6954,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -7151,7 +6996,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -7202,7 +7046,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "mfe",
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -7251,7 +7094,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "nya",
 		"languages": {
 			"eng": "English",
 			"nya": "Chewa"
@@ -7299,7 +7141,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "msa",
 		"languages": {
 			"eng": "English",
 			"msa": "Malay"
@@ -7343,7 +7184,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -7418,7 +7258,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
-		"nativeLanguage": "afr",
 		"languages": {
 			"afr": "Afrikaans",
 			"deu": "German",
@@ -7469,7 +7308,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Melanesia",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -7512,7 +7350,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -7559,7 +7396,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"pih": "Norfuk"
@@ -7603,7 +7439,6 @@
 		"relevance": "1.5",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -7646,7 +7481,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -7693,7 +7527,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "niu",
 		"languages": {
 			"eng": "English",
 			"niu": "Niuean"
@@ -7737,7 +7570,6 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Western Europe",
-		"nativeLanguage": "nld",
 		"languages": {
 			"nld": "Dutch"
 		},
@@ -7788,7 +7620,6 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "nor",
 		"languages": {
 			"nno": "Norwegian Nynorsk",
 			"nob": "Norwegian Bokm\u00e5l",
@@ -7833,7 +7664,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"nativeLanguage": "nep",
 		"languages": {
 			"nep": "Nepali"
 		},
@@ -7880,7 +7710,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Micronesia",
-		"nativeLanguage": "nau",
 		"languages": {
 			"eng": "English",
 			"nau": "Nauru"
@@ -7932,7 +7761,6 @@
 		"relevance": "1.0",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"mri": "M\u0101ori",
@@ -7977,7 +7805,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -8024,7 +7851,6 @@
 		"relevance": "2",
 		"region": "Asia",
 		"subregion": "Southern Asia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"urd": "Urdu"
@@ -8068,7 +7894,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -8111,7 +7936,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -8162,7 +7986,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"aym": "Aymara",
 			"que": "Quechua",
@@ -8211,7 +8034,6 @@
 		"relevance": "1.5",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "fil",
 		"languages": {
 			"eng": "English",
 			"fil": "Filipino"
@@ -8259,7 +8081,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Micronesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English",
 			"pau": "Palauan"
@@ -8311,7 +8132,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Melanesia",
-		"nativeLanguage": "hmo",
 		"languages": {
 			"eng": "English",
 			"hmo": "Hiri Motu",
@@ -8356,7 +8176,6 @@
 		"relevance": "1.25",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "pol",
 		"languages": {
 			"pol": "Polish"
 		},
@@ -8403,7 +8222,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "spa",
 		"languages": {
 			"eng": "English",
 			"spa": "Spanish"
@@ -8447,7 +8265,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"nativeLanguage": "kor",
 		"languages": {
 			"kor": "Korean"
 		},
@@ -8490,7 +8307,6 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "por",
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -8537,7 +8353,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"grn": "Guaran\u00ed",
 			"spa": "Spanish"
@@ -8581,7 +8396,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -8624,7 +8438,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -8667,7 +8480,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -8710,7 +8522,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -8753,7 +8564,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "ron",
 		"languages": {
 			"ron": "Romanian"
 		},
@@ -8796,7 +8606,6 @@
 		"relevance": "2.5",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "rus",
 		"languages": {
 			"rus": "Russian"
 		},
@@ -8847,7 +8656,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "kin",
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -8892,7 +8700,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -8939,7 +8746,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic",
 			"eng": "English"
@@ -8983,7 +8789,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -9038,7 +8843,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"cmn": "Mandarin",
 			"eng": "English",
@@ -9084,7 +8888,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -9127,7 +8930,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -9170,7 +8972,6 @@
 		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "nor",
 		"languages": {
 			"nor": "Norwegian"
 		},
@@ -9213,7 +9014,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Melanesia",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -9256,7 +9056,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -9299,7 +9098,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -9343,7 +9141,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "ita",
 		"languages": {
 			"ita": "Italian"
 		},
@@ -9390,7 +9187,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "som",
 		"languages": {
 			"ara": "Arabic",
 			"som": "Somali"
@@ -9434,7 +9230,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Northern America",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -9477,7 +9272,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "srp",
 		"languages": {
 			"srp": "Serbian"
 		},
@@ -9520,7 +9314,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -9563,7 +9356,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "por",
 		"languages": {
 			"por": "Portuguese"
 		},
@@ -9606,7 +9398,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "nld",
 		"languages": {
 			"nld": "Dutch"
 		},
@@ -9649,7 +9440,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "slk",
 		"languages": {
 			"slk": "Slovak"
 		},
@@ -9692,7 +9482,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "slv",
 		"languages": {
 			"slv": "Slovene"
 		},
@@ -9735,7 +9524,6 @@
 		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
-		"nativeLanguage": "swe",
 		"languages": {
 			"swe": "Swedish"
 		},
@@ -9782,7 +9570,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
-		"nativeLanguage": "ssw",
 		"languages": {
 			"eng": "English",
 			"ssw": "Swazi"
@@ -9834,7 +9621,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "nld",
 		"languages": {
 			"eng": "English",
 			"fra": "French",
@@ -9886,7 +9672,6 @@
 		"relevance": "0.5",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"crs": "Seychellois Creole",
 			"eng": "English",
@@ -9931,7 +9716,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -9974,7 +9758,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -10021,7 +9804,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic",
 			"fra": "French"
@@ -10066,7 +9848,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -10109,7 +9890,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "tha",
 		"languages": {
 			"tha": "Thai"
 		},
@@ -10156,7 +9936,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
-		"nativeLanguage": "tgk",
 		"languages": {
 			"rus": "Russian",
 			"tgk": "Tajik"
@@ -10208,7 +9987,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "tkl",
 		"languages": {
 			"eng": "English",
 			"smo": "Samoan",
@@ -10257,7 +10035,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
-		"nativeLanguage": "tuk",
 		"languages": {
 			"rus": "Russian",
 			"tuk": "Turkmen"
@@ -10305,7 +10082,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "por",
 		"languages": {
 			"por": "Portuguese",
 			"tet": "Tetum"
@@ -10353,7 +10129,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "ton",
 		"languages": {
 			"eng": "English",
 			"ton": "Tongan"
@@ -10397,7 +10172,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -10440,7 +10214,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -10483,7 +10256,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "tur",
 		"languages": {
 			"tur": "Turkish"
 		},
@@ -10530,7 +10302,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "tvl",
 		"languages": {
 			"eng": "English",
 			"tvl": "Tuvaluan"
@@ -10574,7 +10345,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
-		"nativeLanguage": "cmn",
 		"languages": {
 			"cmn": "Mandarin"
 		},
@@ -10621,7 +10391,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "swa",
 		"languages": {
 			"eng": "English",
 			"swa": "Swahili"
@@ -10669,7 +10438,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "swa",
 		"languages": {
 			"eng": "English",
 			"swa": "Swahili"
@@ -10717,7 +10485,6 @@
 		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
-		"nativeLanguage": "ukr",
 		"languages": {
 			"rus": "Russian",
 			"ukr": "Ukrainian"
@@ -10761,7 +10528,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Northern America",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -10804,7 +10570,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -10847,7 +10612,6 @@
 		"relevance": "3.5",
 		"region": "Americas",
 		"subregion": "Northern America",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -10894,7 +10658,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
-		"nativeLanguage": "uzb",
 		"languages": {
 			"rus": "Russian",
 			"uzb": "Uzbek"
@@ -10942,7 +10705,6 @@
 		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
-		"nativeLanguage": "ita",
 		"languages": {
 			"ita": "Italian",
 			"lat": "Latin"
@@ -10986,7 +10748,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -11029,7 +10790,6 @@
 		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
-		"nativeLanguage": "spa",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -11072,7 +10832,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -11115,7 +10874,6 @@
 		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -11158,7 +10916,6 @@
 		"relevance": "1.5",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
-		"nativeLanguage": "vie",
 		"languages": {
 			"vie": "Vietnamese"
 		},
@@ -11209,7 +10966,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Melanesia",
-		"nativeLanguage": "bis",
 		"languages": {
 			"bis": "Bislama",
 			"eng": "English",
@@ -11254,7 +11010,6 @@
 		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "fra",
 		"languages": {
 			"fra": "French"
 		},
@@ -11301,7 +11056,6 @@
 		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Polynesia",
-		"nativeLanguage": "smo",
 		"languages": {
 			"eng": "English",
 			"smo": "Samoan"
@@ -11345,7 +11099,6 @@
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
-		"nativeLanguage": "ara",
 		"languages": {
 			"ara": "Arabic"
 		},
@@ -11428,7 +11181,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
-		"nativeLanguage": "afr",
 		"languages": {
 			"afr": "Afrikaans",
 			"eng": "English",
@@ -11481,7 +11233,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "eng",
 		"languages": {
 			"eng": "English"
 		},
@@ -11580,7 +11331,6 @@
 		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
-		"nativeLanguage": "nya",
 		"languages": {
 			"bwg": "Chibarwe",
 			"eng": "English",
