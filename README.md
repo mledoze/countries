@@ -5,9 +5,11 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - `name`
  	 - `common` - common name in english
  	 - `official` - official name in english
- 	 - `native`
- 	 	 - `common` - common name in the native language
- 	 	 - `official` - official name in the native language
+ 	 - `native` - list of all native names
+ 	 	- key: three-letter ISO 639-3 language code
+	 	- value: name object 
+	 		+ key: official - official name translation
+	 		+ key: common - common name translation
  - country code top-level domain (`tld`)
  - code ISO 3166-1 alpha-2 (`cca2`)
  - code ISO 3166-1 numeric (`ccn3`)
@@ -19,11 +21,14 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - relevance
  - region
  - subregion
- - native language (`nativeLanguage`) ISO 639-3 code of language used for the native names
  - list of official languages (`languages`)
  	- key: three-letter ISO 639-3 language code
  	- value: name of the language in english
- - name translations (`translations`)
+ - list of name translations (`translations`)
+ 	- key: three-letter ISO 639-3 language code
+ 	- value: name object 
+ 		+ key: official - official name translation
+ 		+ key: common - common name translation
  - latitude and longitude (`latlng`)
  - name of residents (`demonym`)
  - landlocked status (`landlocked`)
@@ -42,8 +47,10 @@ GeoJSON outlines and flags in SVG format.
 		"common": "Austria",
 		"official": "Republic of Austria",
 		"native": {
-			"common": "Österreich",
-			"official": "Republik Österreich"
+			"bar": {
+				"official": "Republik Österreich",
+				"common": "Österreich"
+			}
 		}
 	},
 	"tld": [".at"],
@@ -57,21 +64,20 @@ GeoJSON outlines and flags in SVG format.
 	"relevance": "0",
 	"region": "Europe",
 	"subregion": "Western Europe",
-	"nativeLanguage": "deu",
 	"languages": {
-		"deu": "German"
+		"bar": "Austro-Bavarian German"
 	},
 	"translations": {
-		"cym": "Awstria",
-		"deu": "Österreich",
-		"fra": "Autriche",
-		"hrv": "Austrija",
-		"ita": "Austria",
-		"jpn": "オーストリア",
-		"nld": "Oostenrijk",
-		"por": "Áustria",
-		"rus": "Австрия",
-		"spa": "Austria"
+		"cym": { "official": "Republic of Austria", "common": "Awstria" },
+		"deu": { "official": "Republik Österreich", "common": "Österreich" },
+		"fra": { "official": "République d'Autriche", "common": "Autriche" },
+		"hrv": { "official": "Republika Austrija", "common": "Austrija" },
+		"ita": { "official": "Repubblica d'Austria", "common": "Austria" },
+		"jpn": { "official": "オーストリア共和国", "common": "オーストリア" },
+		"nld": { "official": "Republiek Oostenrijk", "common": "Oostenrijk" },
+		"por": { "official": "República da Áustria", "common": "Áustria" },
+		"rus": { "official": "Австрийская Республика", "common": "Австрия" },
+		"spa": { "official": "República de Austria", "common": "Austria" }
 	},
 	"latlng": [47.33333333, 13.33333333],
 	"demonym": "Austrian",
@@ -84,8 +90,10 @@ GeoJSON outlines and flags in SVG format.
 		"common": "Niger",
 		"official": "Republic of Niger",
 		"native": {
-			"common": "Niger",
-			"official": "République du Niger"
+			"fra": {
+				"official": "République du Niger",
+				"common": "Niger"
+			}
 		}
 	},
 	"tld": [".ne"],
@@ -99,27 +107,26 @@ GeoJSON outlines and flags in SVG format.
 	"relevance": "0",
 	"region": "Africa",
 	"subregion": "Western Africa",
-	"nativeLanguage": "fra",
 	"languages": {
 		"fra": "French"
 	},
 	"translations": {
-		"deu": "Niger",
-		"fra": "Niger",
-		"hrv": "Niger",
-		"ita": "Niger",
-		"jpn": "ニジェール",
-		"nld": "Niger",
-		"por": "Níger",
-		"rus": "Нигер",
-		"spa": "Níger"
+		"deu": { "official": "Republik Niger", "common": "Niger" },
+		"fra": { "official": "République du Niger", "common": "Niger" },
+		"hrv": { "official": "Republika Niger", "common": "Niger" },
+		"ita": { "official": "Repubblica del Niger", "common": "Niger" },
+		"jpn": { "official": "ニジェール共和国", "common": "ニジェール" },
+		"nld": { "official": "Republiek Niger", "common": "Niger" },
+		"por": { "official": "República do Níger", "common": "Níger" },
+		"rus": { "official": "Республика Нигер", "common": "Нигер" },
+		"spa": { "official": "República de Níger", "common": "Níger" }
 	},
 	"latlng": [16, 8],
 	"demonym": "Nigerien",
 	"landlocked": true,
 	"borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
 	"area": 1267000
-}
+},
 ```
 
 #####GeoJSON outline
@@ -129,10 +136,10 @@ See an example for [Germany](https://github.com/mledoze/countries/blob/bb61a1cdd
 ```csv
 "name";"tld";"cca2";"ccn3";"cca3";"currency";"callingCode";"capital";"altSpellings";"relevance";"region";"subregion";"nativeLanguage";"languages";"translations";"latlng";"demonym";"landlocked";"borders";"area"
 ⋮
-"Afghanistan,Islamic Republic of Afghanistan,افغانستان,د افغانستان اسلامي جمهوریت";".af";"AF";"004";"AFG";"AFN";"93";"Kabul";"AF,Afġānistān";"0";"Asia";"Southern Asia";"pus";"Dari,Pashto,Turkmen";"Affganistan,Afghanistan,Afghanistan,Afganistan,Afghanistan,アフガニスタン,Afghanistan,Afeganistão,Афганистан,Afganistán";"33,65";"Afghan";"1";"IRN,PAK,TKM,UZB,TJK,CHN";"652230"
-"Åland Islands,Åland Islands,Åland,Landskapet Åland";".ax";"AX";"248";"ALA";"EUR";"358";"Mariehamn";"AX,Aaland,Aland,Ahvenanmaa";"0";"Europe";"Northern Europe";"swe";"Swedish";"Åland,Åland,Ålandski otoci,Isole Aland,オーランド諸島,Ålandeilanden,Alândia,Аландские острова,Alandia";"60.116667,19.9";"Ålandish";"";"";"1580"
-"Albania,Republic of Albania,Shqipëria,Republika e Shqipërisë";".al";"AL";"008";"ALB";"ALL";"355";"Tirana";"AL,Shqipëri,Shqipëria,Shqipnia";"0";"Europe";"Southern Europe";"sqi";"Albanian";"Albania,Albanien,Albanie,Albanija,Albania,アルバニア,Albanië,Albânia,Албания,Albania";"41,20";"Albanian";"";"MNE,GRC,MKD,KOS";"28748"
-"Algeria,People's Democratic Republic of Algeria,الجزائر,الجمهورية الديمقراطية الشعبية الجزائرية";".dz,الجزائر.";"DZ";"012";"DZA";"DZD";"213";"Algiers";"DZ,Dzayer,Algérie";"0";"Africa";"Northern Africa";"ara";"Arabic";"Algeria,Algerien,Algérie,Alžir,Algeria,アルジェリア,Algerije,Algéria,Алжир,Argelia";"28,3";"Algerian";"";"TUN,LBY,NER,ESH,MRT,MLI,MAR";"2381741"
+"name";"tld";"cca2";"ccn3";"cca3";"currency";"callingCode";"capital";"altSpellings";"relevance";"region";"subregion";"languages";"translations";"latlng";"demonym";"landlocked";"borders";"area"
+"Aruba,Aruba,Aruba,Aruba,Aruba,Aruba";".aw";"AW";"533";"ABW";"AWG";"297";"Oranjestad";"AW";"0.5";"Americas";"Caribbean";"Dutch,Papiamento";"Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,アルバ,アルバ,Aruba,Aruba,Aruba,Aruba,Аруба,Аруба,Aruba,Aruba";"12.5,-69.96666666";"Aruban";"";"";"180"
+"Afghanistan,Islamic Republic of Afghanistan,جمهوری اسلامی افغانستان,افغانستان,د افغانستان اسلامي جمهوریت,افغانستان,Owganystan Yslam Respublikasy,Owganystan";".af";"AF";"004";"AFG";"AFN";"93";"Kabul";"AF,Afġānistān";"0";"Asia";"Southern Asia";"Dari,Pashto,Turkmen";"Islamic Republic of Afghanistan,Affganistan,Islamischen Republik Afghanistan,Afghanistan,République islamique d'Afghanistan,Afghanistan,Islamska Republika Afganistan,Afganistan,Repubblica islamica dell'Afghanistan,Afghanistan,アフガニスタン·イスラム共和国,アフガニスタン,Islamitische Republiek Afghanistan,Afghanistan,República Islâmica do Afeganistão,Afeganistão,Исламская Республика Афганистан,Афганистан,República Islámica de Afganistán,Afganistán";"33,65";"Afghan";"1";"IRN,PAK,TKM,UZB,TJK,CHN";"652230"
+"Angola,Republic of Angola,República de Angola,Angola";".ao";"AO";"024";"AGO";"AOA";"244";"Luanda";"AO,República de Angola,ʁɛpublika de an'ɡɔla";"0";"Africa";"Middle Africa";"Portuguese";"Republic of Angola,Angola,Republik Angola,Angola,République d'Angola,Angola,Republika Angola,Angola,Repubblica dell'Angola,Angola,アンゴラ共和国,アンゴラ,Republiek Angola,Angola,República de Angola,Angola,Республика Ангола,Ангола,República de Angola,Angola";"-12.5,18.5";"Angolan";"";"COG,COD,ZMB,NAM";"1246700"
 ⋮
 ```
 
@@ -140,20 +147,20 @@ See an example for [Germany](https://github.com/mledoze/countries/blob/bb61a1cdd
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
-  <country name="Afghanistan,Islamic Republic of Afghanistan,افغانستان,د افغانستان اسلامي جمهوریت" tld=".af" cca2="AF" ccn3="004" cca3="AFG" currency="AFN" callingCode="93" capital="Kabul" altSpellings="AF,Afġānistān" relevance="0" region="Asia" subregion="Southern Asia" nativeLanguage="pus" languages="Dari,Pashto,Turkmen" translations="Affganistan,Afghanistan,Afghanistan,Afganistan,Afghanistan,アフガニスタン,Afghanistan,Afeganistão,Афганистан,Afganistán" latlng="33,65" demonym="Afghan" landlocked="1" borders="IRN,PAK,TKM,UZB,TJK,CHN" area="652230"/>
-  <country name="Åland Islands,Åland Islands,Åland,Landskapet Åland" tld=".ax" cca2="AX" ccn3="248" cca3="ALA" currency="EUR" callingCode="358" capital="Mariehamn" altSpellings="AX,Aaland,Aland,Ahvenanmaa" relevance="0" region="Europe" subregion="Northern Europe" nativeLanguage="swe" languages="Swedish" translations="Åland,Åland,Ålandski otoci,Isole Aland,オーランド諸島,Ålandeilanden,Alândia,Аландские острова,Alandia" latlng="60.116667,19.9" demonym="Ålandish" landlocked="" borders="" area="1580"/>
-  <country name="Albania,Republic of Albania,Shqipëria,Republika e Shqipërisë" tld=".al" cca2="AL" ccn3="008" cca3="ALB" currency="ALL" callingCode="355" capital="Tirana" altSpellings="AL,Shqipëri,Shqipëria,Shqipnia" relevance="0" region="Europe" subregion="Southern Europe" nativeLanguage="sqi" languages="Albanian" translations="Albania,Albanien,Albanie,Albanija,Albania,アルバニア,Albanië,Albânia,Албания,Albania" latlng="41,20" demonym="Albanian" landlocked="" borders="MNE,GRC,MKD,KOS" area="28748"/>
+  <country name="Aruba,Aruba,Aruba,Aruba,Aruba,Aruba" tld=".aw" cca2="AW" ccn3="533" cca3="ABW" currency="AWG" callingCode="297" capital="Oranjestad" altSpellings="AW" relevance="0.5" region="Americas" subregion="Caribbean" languages="Dutch,Papiamento" translations="Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,アルバ,アルバ,Aruba,Aruba,Aruba,Aruba,Аруба,Аруба,Aruba,Aruba" latlng="12.5,-69.96666666" demonym="Aruban" landlocked="" borders="" area="180"/>
+  <country name="Afghanistan,Islamic Republic of Afghanistan,جمهوری اسلامی افغانستان,افغانستان,د افغانستان اسلامي جمهوریت,افغانستان,Owganystan Yslam Respublikasy,Owganystan" tld=".af" cca2="AF" ccn3="004" cca3="AFG" currency="AFN" callingCode="93" capital="Kabul" altSpellings="AF,Afġānistān" relevance="0" region="Asia" subregion="Southern Asia" languages="Dari,Pashto,Turkmen" translations="Islamic Republic of Afghanistan,Affganistan,Islamischen Republik Afghanistan,Afghanistan,République islamique d'Afghanistan,Afghanistan,Islamska Republika Afganistan,Afganistan,Repubblica islamica dell'Afghanistan,Afghanistan,アフガニスタン·イスラム共和国,アフガニスタン,Islamitische Republiek Afghanistan,Afghanistan,República Islâmica do Afeganistão,Afeganistão,Исламская Республика Афганистан,Афганистан,República Islámica de Afganistán,Afganistán" latlng="33,65" demonym="Afghan" landlocked="1" borders="IRN,PAK,TKM,UZB,TJK,CHN" area="652230"/>
+  <country name="Angola,Republic of Angola,República de Angola,Angola" tld=".ao" cca2="AO" ccn3="024" cca3="AGO" currency="AOA" callingCode="244" capital="Luanda" altSpellings="AO,República de Angola,ʁɛpublika de an'ɡɔla" relevance="0" region="Africa" subregion="Middle Africa" languages="Portuguese" translations="Republic of Angola,Angola,Republik Angola,Angola,République d'Angola,Angola,Republika Angola,Angola,Repubblica dell'Angola,Angola,アンゴラ共和国,アンゴラ,Republiek Angola,Angola,República de Angola,Angola,Республика Ангола,Ангола,República de Angola,Angola" latlng="-12.5,18.5" demonym="Angolan" landlocked="" borders="COG,COD,ZMB,NAM" area="1246700"/>
 ⋮
 <countries>
 ```
 
 #####YAML
 ```yaml
-- { name: { common: Afghanistan, official: 'Islamic Republic of Afghanistan', native: { common: افغانستان, official: 'د افغانستان اسلامي جمهوریت' } }, tld: [.af], cca2: AF, ccn3: '004', cca3: AFG, currency: [AFN], callingCode: ['93'], capital: Kabul, altSpellings: [AF, Afġānistān], relevance: '0', region: Asia, subregion: 'Southern Asia', nativeLanguage: pus, languages: { prs: Dari, pus: Pashto, tuk: Turkmen }, translations: { cym: Affganistan, deu: Afghanistan, fra: Afghanistan, hrv: Afganistan, ita: Afghanistan, jpn: アフガニスタン, nld: Afghanistan, por: Afeganistão, rus: Афганистан, spa: Afganistán }, latlng: [33, 65], demonym: Afghan, landlocked: true, borders: [IRN, PAK, TKM, UZB, TJK, CHN], area: 652230 }
-- { name: { common: 'Åland Islands', official: 'Åland Islands', native: { common: Åland, official: 'Landskapet Åland' } }, tld: [.ax], cca2: AX, ccn3: '248', cca3: ALA, currency: [EUR], callingCode: ['358'], capital: Mariehamn, altSpellings: [AX, Aaland, Aland, Ahvenanmaa], relevance: '0', region: Europe, subregion: 'Northern Europe', nativeLanguage: swe, languages: { swe: Swedish }, translations: { deu: Åland, fra: Åland, hrv: 'Ålandski otoci', ita: 'Isole Aland', jpn: オーランド諸島, nld: Ålandeilanden, por: Alândia, rus: 'Аландские острова', spa: Alandia }, latlng: [60.116667, 19.9], demonym: Ålandish, landlocked: false, borders: {  }, area: 1580 }
-- { name: { common: Albania, official: 'Republic of Albania', native: { common: Shqipëria, official: 'Republika e Shqipërisë' } }, tld: [.al], cca2: AL, ccn3: '008', cca3: ALB, currency: [ALL], callingCode: ['355'], capital: Tirana, altSpellings: [AL, Shqipëri, Shqipëria, Shqipnia], relevance: '0', region: Europe, subregion: 'Southern Europe', nativeLanguage: sqi, languages: { sqi: Albanian }, translations: { cym: Albania, deu: Albanien, fra: Albanie, hrv: Albanija, ita: Albania, jpn: アルバニア, nld: Albanië, por: Albânia, rus: Албания, spa: Albania }, latlng: [41, 20], demonym: Albanian, landlocked: false, borders: [MNE, GRC, MKD, KOS], area: 28748 }
-- { name: { common: Algeria, official: 'People''s Democratic Republic of Algeria', native: { common: الجزائر, official: 'الجمهورية الديمقراطية الشعبية الجزائرية' } }, tld: [.dz, الجزائر.], cca2: DZ, ccn3: '012', cca3: DZA, currency: [DZD], callingCode: ['213'], capital: Algiers, altSpellings: [DZ, Dzayer, Algérie], relevance: '0', region: Africa, subregion: 'Northern Africa', nativeLanguage: ara, languages: { ara: Arabic }, translations: { cym: Algeria, deu: Algerien, fra: Algérie, hrv: Alžir, ita: Algeria, jpn: アルジェリア, nld: Algerije, por: Algéria, rus: Алжир, spa: Argelia }, latlng: [28, 3], demonym: Algerian, landlocked: false, borders: [TUN, LBY, NER, ESH, MRT, MLI, MAR], area: 2381741 }
-- { name: { common: 'American Samoa', official: 'American Samoa', native: { common: 'American Samoa', official: 'American Samoa' } }, tld: [.as], cca2: AS, ccn3: '016', cca3: ASM, currency: [USD], callingCode: ['1684'], capital: 'Pago Pago', altSpellings: [AS, 'Amerika Sāmoa', 'Amelika Sāmoa', 'Sāmoa Amelika'], relevance: '0.5', region: Oceania, subregion: Polynesia, nativeLanguage: eng, languages: { eng: English, smo: Samoan }, translations: { deu: Amerikanisch-Samoa, fra: 'Samoa américaines', hrv: 'Američka Samoa', ita: 'Samoa Americane', jpn: アメリカ領サモア, nld: 'Amerikaans Samoa', por: 'Samoa Americana', rus: 'Американское Самоа', spa: 'Samoa Americana' }, latlng: [-14.33333333, -170], demonym: 'American Samoan', landlocked: false, borders: {  }, area: 199 }
+- { name: { common: Aruba, official: Aruba, native: { nld: { official: Aruba, common: Aruba }, pap: { official: Aruba, common: Aruba } } }, tld: [.aw], cca2: AW, ccn3: '533', cca3: ABW, currency: [AWG], callingCode: ['297'], capital: Oranjestad, altSpellings: [AW], relevance: '0.5', region: Americas, subregion: Caribbean, languages: { nld: Dutch, pap: Papiamento }, translations: { deu: { official: Aruba, common: Aruba }, fra: { official: Aruba, common: Aruba }, hrv: { official: Aruba, common: Aruba }, ita: { official: Aruba, common: Aruba }, jpn: { official: アルバ, common: アルバ }, nld: { official: Aruba, common: Aruba }, por: { official: Aruba, common: Aruba }, rus: { official: Аруба, common: Аруба }, spa: { official: Aruba, common: Aruba } }, latlng: [12.5, -69.96666666], demonym: Aruban, landlocked: false, borders: {  }, area: 180 }
+- { name: { common: Afghanistan, official: 'Islamic Republic of Afghanistan', native: { prs: { official: 'جمهوری اسلامی افغانستان', common: افغانستان }, pus: { official: 'د افغانستان اسلامي جمهوریت', common: افغانستان }, tuk: { official: 'Owganystan Yslam Respublikasy', common: Owganystan } } }, tld: [.af], cca2: AF, ccn3: '004', cca3: AFG, currency: [AFN], callingCode: ['93'], capital: Kabul, altSpellings: [AF, Afġānistān], relevance: '0', region: Asia, subregion: 'Southern Asia', languages: { prs: Dari, pus: Pashto, tuk: Turkmen }, translations: { cym: { official: 'Islamic Republic of Afghanistan', common: Affganistan }, deu: { official: 'Islamischen Republik Afghanistan', common: Afghanistan }, fra: { official: 'République islamique d''Afghanistan', common: Afghanistan }, hrv: { official: 'Islamska Republika Afganistan', common: Afganistan }, ita: { official: 'Repubblica islamica dell''Afghanistan', common: Afghanistan }, jpn: { official: アフガニスタン·イスラム共和国, common: アフガニスタン }, nld: { official: 'Islamitische Republiek Afghanistan', common: Afghanistan }, por: { official: 'República Islâmica do Afeganistão', common: Afeganistão }, rus: { official: 'Исламская Республика Афганистан', common: Афганистан }, spa: { official: 'República Islámica de Afganistán', common: Afganistán } }, latlng: [33, 65], demonym: Afghan, landlocked: true, borders: [IRN, PAK, TKM, UZB, TJK, CHN], area: 652230 }
+- { name: { common: Angola, official: 'Republic of Angola', native: { por: { official: 'República de Angola', common: Angola } } }, tld: [.ao], cca2: AO, ccn3: '024', cca3: AGO, currency: [AOA], callingCode: ['244'], capital: Luanda, altSpellings: [AO, 'República de Angola', 'ʁɛpublika de an''ɡɔla'], relevance: '0', region: Africa, subregion: 'Middle Africa', languages: { por: Portuguese }, translations: { cym: { official: 'Republic of Angola', common: Angola }, deu: { official: 'Republik Angola', common: Angola }, fra: { official: 'République d''Angola', common: Angola }, hrv: { official: 'Republika Angola', common: Angola }, ita: { official: 'Repubblica dell''Angola', common: Angola }, jpn: { official: アンゴラ共和国, common: アンゴラ }, nld: { official: 'Republiek Angola', common: Angola }, por: { official: 'República de Angola', common: Angola }, rus: { official: 'Республика Ангола', common: Ангола }, spa: { official: 'República de Angola', common: Angola } }, latlng: [-12.5, 18.5], demonym: Angolan, landlocked: false, borders: [COG, COD, ZMB, NAM], area: 1246700 }
+- { name: { common: Anguilla, official: Anguilla, native: { eng: { official: Anguilla, common: Anguilla } } }, tld: [.ai], cca2: AI, ccn3: '660', cca3: AIA, currency: [XCD], callingCode: ['1264'], capital: 'The Valley', altSpellings: [AI], relevance: '0.5', region: Americas, subregion: Caribbean, languages: { eng: English }, translations: { deu: { official: Anguilla, common: Anguilla }, fra: { official: Anguilla, common: Anguilla }, hrv: { official: Anguilla, common: Angvila }, ita: { official: Anguilla, common: Anguilla }, jpn: { official: アングィラ, common: アンギラ }, nld: { official: Anguilla, common: Anguilla }, por: { official: Anguilla, common: Anguilla }, rus: { official: Ангилья, common: Ангилья }, spa: { official: Anguila, common: Anguilla } }, latlng: [18.25, -63.16666666], demonym: Anguillian, landlocked: false, borders: {  }, area: 91 }
+- { name: { common: 'Åland Islands', official: 'Åland Islands', native: { swe: { official: 'Landskapet Åland', common: Åland } } }, tld: [.ax], cca2: AX, ccn3: '248', cca3: ALA, currency: [EUR], callingCode: ['358'], capital: Mariehamn, altSpellings: [AX, Aaland, Aland, Ahvenanmaa], relevance: '0', region: Europe, subregion: 'Northern Europe', languages: { swe: Swedish }, translations: { deu: { official: Åland-Inseln, common: Åland }, fra: { official: 'îles Åland', common: Åland }, hrv: { official: 'Aland Islands', common: 'Ålandski otoci' }, ita: { official: 'Isole Åland', common: 'Isole Aland' }, jpn: { official: オーランド諸島, common: オーランド諸島 }, nld: { official: 'Åland eilanden', common: Ålandeilanden }, por: { official: 'Ilhas Åland', common: Alândia }, rus: { official: 'Аландские острова', common: 'Аландские острова' }, spa: { official: 'Islas Åland', common: Alandia } }, latlng: [60.116667, 19.9], demonym: Ålandish, landlocked: false, borders: {  }, area: 1580 }
 ```
 
 #### About the relevance factor
