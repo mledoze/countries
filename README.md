@@ -168,6 +168,30 @@ To understand the usefulness of the relevance parameter, please read this:
 - http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/
 - http://baymard.com/labs/country-selector
 
+## Customising the output
+The data files provided in the `dist` directory include all available fields, but is also possible to build a custom version of the data with certain fields excluded.
+
+To do this, you will first need a working PHP installation, [composer](https://getcomposer.org) and a local copy of this repository. Once you have these, open a terminal in your local version of this project's root directory and run this command to install the necessary dependencies:
+
+```sh
+composer install
+```
+
+After this finishes, run the following command (here we will exclude the `tld` field from the output, but you can exclude any field you want):
+
+```sh
+php countries.php convert --exclude-field=tld
+```
+
+You can also exclude multiple fields:
+
+```sh
+php countries.php convert --exclude-field=tld --exclude-field=cca2
+
+# Or using the shorter `-x` syntax:
+php countries.php convert -x tld -x cca2
+```
+
 ## Showcase
 Projects using this dataset:
 
