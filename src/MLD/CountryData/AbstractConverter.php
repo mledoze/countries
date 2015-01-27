@@ -3,6 +3,7 @@ namespace MLD\CountryData;
 
 /**
  * Class AbstractConverter
+ * @package MLD\CountryData
  */
 abstract class AbstractConverter implements Converter {
 
@@ -49,34 +50,36 @@ abstract class AbstractConverter implements Converter {
         }
         return file_put_contents($this->sOutputDirectory . $sOutputFile, $this->convert());
     }
-    
-    /**
-     * Set the directory to which output will be written.
-     * 
-     * @param string $sOutputDirectory
-     */
+
+	/**
+	 * Set the directory to which output will be written.
+	 *
+	 * @param string $sOutputDirectory
+	 * @return $this
+	 */
     public function setOutputDirectory($sOutputDirectory)
     {
         if (substr($sOutputDirectory, strlen($sOutputDirectory) - 1, 1) !== DIRECTORY_SEPARATOR) {
             $sOutputDirectory .= DIRECTORY_SEPARATOR;
         }
-        
+
         $this->sOutputDirectory = $sOutputDirectory;
-        
+
         return $this;
     }
 
-    /**
-     * Defines the fields to keep
-     * @param array $aFields
-     */
+	/**
+	 * Defines the fields to keep
+	 * @param array $aFields
+	 * @return $this
+	 */
     public function setFields(array $aFields)
     {
         $this->aFields = $aFields;
-        
+
         return $this;
     }
-    
+
     /**
      * Gets fields that will currently be output.
      * @return array A list of field names.
@@ -86,11 +89,11 @@ abstract class AbstractConverter implements Converter {
         if ($this->aFields !== null) {
             return $this->aFields;
         }
-        
+
         if (empty($this->aCountries)) {
             return array();
         }
-        
+
         return array_keys($this->aCountries[0]);
     }
 
