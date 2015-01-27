@@ -68,65 +68,23 @@ GeoJSON outlines and flags in SVG format.
 		"bar": "Austro-Bavarian German"
 	},
 	"translations": {
-		"cym": { "official": "Republic of Austria", "common": "Awstria" },
-		"deu": { "official": "Republik Österreich", "common": "Österreich" },
-		"fra": { "official": "République d'Autriche", "common": "Autriche" },
-		"hrv": { "official": "Republika Austrija", "common": "Austrija" },
-		"ita": { "official": "Repubblica d'Austria", "common": "Austria" },
-		"jpn": { "official": "オーストリア共和国", "common": "オーストリア" },
-		"nld": { "official": "Republiek Oostenrijk", "common": "Oostenrijk" },
-		"por": { "official": "República da Áustria", "common": "Áustria" },
-		"rus": { "official": "Австрийская Республика", "common": "Австрия" },
-		"spa": { "official": "República de Austria", "common": "Austria" }
+		"cym": {"official": "Republic of Austria", "common": "Awstria"},
+		"deu": {"official": "Republik Österreich", "common": "Österreich"},
+		"fra": {"official": "République d'Autriche", "common": "Autriche"},
+		"hrv": {"official": "Republika Austrija", "common": "Austrija"},
+		"ita": {"official": "Repubblica d'Austria", "common": "Austria"},
+		"jpn": {"official": "オーストリア共和国", "common": "オーストリア"},
+		"nld": {"official": "Republiek Oostenrijk", "common": "Oostenrijk"},
+		"por": {"official": "República da Áustria", "common": "Áustria"},
+		"rus": {"official": "Австрийская Республика", "common": "Австрия"},
+		"spa": {"official": "República de Austria", "common": "Austria"}
 	},
 	"latlng": [47.33333333, 13.33333333],
 	"demonym": "Austrian",
 	"landlocked": true,
 	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
 	"area": 83871
-},
-{
-	"name": {
-		"common": "Niger",
-		"official": "Republic of Niger",
-		"native": {
-			"fra": {
-				"official": "République du Niger",
-				"common": "Niger"
-			}
-		}
-	},
-	"tld": [".ne"],
-	"cca2": "NE",
-	"ccn3": "562",
-	"cca3": "NER",
-	"currency": ["XOF"],
-	"callingCode": ["227"],
-	"capital": "Niamey",
-	"altSpellings": ["NE", "Nijar"],
-	"relevance": "0",
-	"region": "Africa",
-	"subregion": "Western Africa",
-	"languages": {
-		"fra": "French"
-	},
-	"translations": {
-		"deu": { "official": "Republik Niger", "common": "Niger" },
-		"fra": { "official": "République du Niger", "common": "Niger" },
-		"hrv": { "official": "Republika Niger", "common": "Niger" },
-		"ita": { "official": "Repubblica del Niger", "common": "Niger" },
-		"jpn": { "official": "ニジェール共和国", "common": "ニジェール" },
-		"nld": { "official": "Republiek Niger", "common": "Niger" },
-		"por": { "official": "República do Níger", "common": "Níger" },
-		"rus": { "official": "Республика Нигер", "common": "Нигер" },
-		"spa": { "official": "República de Níger", "common": "Níger" }
-	},
-	"latlng": [16, 8],
-	"demonym": "Nigerien",
-	"landlocked": true,
-	"borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
-	"area": 1267000
-},
+}
 ```
 
 #####GeoJSON outline
