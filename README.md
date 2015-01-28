@@ -84,9 +84,7 @@ GeoJSON outlines and flags in SVG format.
 	"landlocked": true,
 	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
 	"area": 83871,
-	"tz": [
-        "Africa/Porto-Novo"
-    ]
+	"tz": ["Africa/Porto-Novo"]
 }
 ```
 
