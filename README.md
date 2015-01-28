@@ -7,7 +7,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  	 - `official` - official name in english
  	 - `native` - list of all native names
  	 	- key: three-letter ISO 639-3 language code
-	 	- value: name object 
+	 	- value: name object
 	 		+ key: official - official name translation
 	 		+ key: common - common name translation
  - country code top-level domain (`tld`)
@@ -26,7 +26,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  	- value: name of the language in english
  - list of name translations (`translations`)
  	- key: three-letter ISO 639-3 language code
- 	- value: name object 
+ 	- value: name object
  		+ key: official - official name translation
  		+ key: common - common name translation
  - latitude and longitude (`latlng`)
@@ -83,7 +83,8 @@ GeoJSON outlines and flags in SVG format.
 	"demonym": "Austrian",
 	"landlocked": true,
 	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
-	"area": 83871
+	"area": 83871,
+	"tz": ["Europe/Vienna"]
 }
 ```
 
