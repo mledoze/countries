@@ -5311,7 +5311,7 @@
 					"common": "Kenya"
 				},
 				"swa": {
-					"official": "Jamhuri ya Kenya",
+					"official": "Republic of Kenya",
 					"common": "Kenya"
 				}
 			}
@@ -6706,7 +6706,7 @@
 			"spa": {"official": "Rep\u00fablica de la Uni\u00f3n de Myanmar", "common": "Myanmar"}
 		},
 		"latlng": [22, 98],
-		"demonym": "Myanmarian",
+		"demonym": "Bamar",
 		"landlocked": false,
 		"borders": ["BGD", "CHN", "IND", "LAO", "THA"],
 		"area": 676578
