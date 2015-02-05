@@ -6706,7 +6706,7 @@
 			"spa": {"official": "Rep\u00fablica de la Uni\u00f3n de Myanmar", "common": "Myanmar"}
 		},
 		"latlng": [22, 98],
-		"demonym": "Myanmarian",
+		"demonym": "Bamar",
 		"landlocked": false,
 		"borders": ["BGD", "CHN", "IND", "LAO", "THA"],
 		"area": 676578
@@ -10077,7 +10077,7 @@
 		"currency": ["USD"],
 		"callingCode": ["670"],
 		"capital": "Dili",
-		"altSpellings": ["TL", "East Timor", "Democratic Republic of Timor-Leste", "Rep\u00fablica Democr\u00e1tica de Timor-Leste", "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste"],
+		"altSpellings": ["TL", "East Timor", "Democratic Republic of Timor-Leste", "Rep\u00fablica Democr\u00e1tica de Timor-Leste", "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste", "Tim\u00f3r Lorosa'e", "Timor Lorosae"],
 		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
@@ -10092,9 +10092,9 @@
 			"ita": {"official": "Repubblica Democratica di Timor Est", "common": "Timor Est"},
 			"jpn": {"official": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb\u6c11\u4e3b\u5171\u548c\u56fd", "common": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb"},
 			"nld": {"official": "Democratische Republiek Oost - Timor", "common": "Oost-Timor"},
-			"por": {"official": "Rep\u00fablica Democr\u00e1tica de Timor -Leste", "common": "Timor-Leste"},
+			"por": {"official": "Rep\u00fablica Democr\u00e1tica de Timor-Leste", "common": "Timor-Leste"},
 			"rus": {"official": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0438\u043c\u043e\u0440 -\u041b\u0435\u0448\u0442\u0438", "common": "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0422\u0438\u043c\u043e\u0440"},
-			"spa": {"official": "Rep\u00fablica Democr\u00e1tica de Timor - Leste", "common": "Timor Oriental"}
+			"spa": {"official": "Rep\u00fablica Democr\u00e1tica de Timor-Leste", "common": "Timor Oriental"}
 		},
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
