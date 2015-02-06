@@ -1,7 +1,7 @@
 {
 	"name": "world-countries",
 	"description": "List of world countries in JSON, CSV, XML and Yaml",
-	"version": "v1.6.2",
+	"version": "v1.7.0",
 	"main": "index.js",
 	"keywords": [
 		"countries",
