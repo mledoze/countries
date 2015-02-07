@@ -38,7 +38,8 @@
 			"nld": {"official": "Aruba", "common": "Aruba"},
 			"por": {"official": "Aruba", "common": "Aruba"},
 			"rus": {"official": "\u0410\u0440\u0443\u0431\u0430", "common": "\u0410\u0440\u0443\u0431\u0430"},
-			"spa": {"official": "Aruba", "common": "Aruba"}
+			"spa": {"official": "Aruba", "common": "Aruba"},
+			"fin": {"official": "Aruba", "common": "Aruba"}
 		},
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
@@ -91,7 +92,8 @@
 			"nld": {"official": "Islamitische Republiek Afghanistan", "common": "Afghanistan"},
 			"por": {"official": "Rep\u00fablica Isl\u00e2mica do Afeganist\u00e3o", "common": "Afeganist\u00e3o"},
 			"rus": {"official": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d", "common": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"},
-			"spa": {"official": "Rep\u00fablica Isl\u00e1mica de Afganist\u00e1n", "common": "Afganist\u00e1n"}
+			"spa": {"official": "Rep\u00fablica Isl\u00e1mica de Afganist\u00e1n", "common": "Afganist\u00e1n"},
+			"fin": {"official": "Afganistanin islamilainen tasavalta", "common": "Afganistan"}
 		},
 		"latlng": [33, 65],
 		"demonym": "Afghan",
@@ -134,7 +136,8 @@
 			"nld": {"official": "Republiek Angola", "common": "Angola"},
 			"por": {"official": "Rep\u00fablica de Angola", "common": "Angola"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043d\u0433\u043e\u043b\u0430", "common": "\u0410\u043d\u0433\u043e\u043b\u0430"},
-			"spa": {"official": "Rep\u00fablica de Angola", "common": "Angola"}
+			"spa": {"official": "Rep\u00fablica de Angola", "common": "Angola"},
+			"fin": {"official": "Angolan tasavalta", "common": "Angola"}
 		},
 		"latlng": [-12.5, 18.5],
 		"demonym": "Angolan",
@@ -176,7 +179,8 @@
 			"nld": {"official": "Anguilla", "common": "Anguilla"},
 			"por": {"official": "Anguilla", "common": "Anguilla"},
 			"rus": {"official": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f", "common": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f"},
-			"spa": {"official": "Anguila", "common": "Anguilla"}
+			"spa": {"official": "Anguila", "common": "Anguilla"},
+			"fin": {"official": "Anguilla", "common": "Anguilla"}
 		},
 		"latlng": [18.25, -63.16666666],
 		"demonym": "Anguillian",
@@ -218,7 +222,8 @@
 			"nld": {"official": "\u00c5land eilanden", "common": "\u00c5landeilanden"},
 			"por": {"official": "Ilhas \u00c5land", "common": "Al\u00e2ndia"},
 			"rus": {"official": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
-			"spa": {"official": "Islas \u00c5land", "common": "Alandia"}
+			"spa": {"official": "Islas \u00c5land", "common": "Alandia"},
+			"fin": {"official": "Ahvenanmaan maakunta", "common": "Ahvenanmaa"}
 		},
 		"latlng": [60.116667, 19.9],
 		"demonym": "\u00c5landish",
@@ -261,7 +266,8 @@
 			"nld": {"official": "Republiek Albani\u00eb", "common": "Albani\u00eb"},
 			"por": {"official": "Rep\u00fablica da Alb\u00e2nia", "common": "Alb\u00e2nia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0431\u0430\u043d\u0438\u044f", "common": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica de Albania", "common": "Albania"}
+			"spa": {"official": "Rep\u00fablica de Albania", "common": "Albania"},
+			"fin": {"official": "Albanian tasavalta", "common": "Albania"}
 		},
 		"latlng": [41, 20],
 		"demonym": "Albanian",
@@ -304,7 +310,8 @@
 			"nld": {"official": "Prinsdom Andorra", "common": "Andorra"},
 			"por": {"official": "Principado de Andorra", "common": "Andorra"},
 			"rus": {"official": "\u041a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e \u0410\u043d\u0434\u043e\u0440\u0440\u0430", "common": "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"},
-			"spa": {"official": "Principado de Andorra", "common": "Andorra"}
+			"spa": {"official": "Principado de Andorra", "common": "Andorra"},
+			"fin": {"official": "Andorran ruhtinaskunta", "common": "Andorra"} 
 		},
 		"latlng": [42.5, 1.5],
 		"demonym": "Andorran",
@@ -346,7 +353,8 @@
 			"nld": {"official": "Verenigde Arabische Emiraten", "common": "Verenigde Arabische Emiraten"},
 			"por": {"official": "Emirados \u00c1rabes Unidos", "common": "Emirados \u00c1rabes Unidos"},
 			"rus": {"official": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u042d\u043c\u0438\u0440\u0430\u0442\u044b", "common": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u042d\u043c\u0438\u0440\u0430\u0442\u044b"},
-			"spa": {"official": "Emiratos \u00c1rabes Unidos", "common": "Emiratos \u00c1rabes Unidos"}
+			"spa": {"official": "Emiratos \u00c1rabes Unidos", "common": "Emiratos \u00c1rabes Unidos"},
+			"fin": {"official": "Yhdistyneet arabiemiirikunnat", "common": "Arabiemiraatit"}
 		},
 		"latlng": [24, 54],
 		"demonym": "Emirati",
@@ -394,7 +402,8 @@
 			"nld": {"official": "Argentijnse Republiek", "common": "Argentini\u00eb"},
 			"por": {"official": "Rep\u00fablica Argentina", "common": "Argentina"},
 			"rus": {"official": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"},
-			"spa": {"official": "Rep\u00fablica Argentina", "common": "Argentina"}
+			"spa": {"official": "Rep\u00fablica Argentina", "common": "Argentina"},
+			"fin": {"official": "Argentiinan tasavalta", "common": "Argentiina"}
 		},
 		"latlng": [-34, -64],
 		"demonym": "Argentinean",
@@ -442,7 +451,8 @@
 			"nld": {"official": "Republiek Armeni\u00eb", "common": "Armeni\u00eb"},
 			"por": {"official": "Rep\u00fablica da Arm\u00e9nia", "common": "Arm\u00e9nia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0440\u043c\u0435\u043d\u0438\u044f", "common": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica de Armenia", "common": "Armenia"}
+			"spa": {"official": "Rep\u00fablica de Armenia", "common": "Armenia"},
+			"fin": {"official": "Armenian tasavalta", "common": "Armenia"}
 		},
 		"latlng": [40, 45],
 		"demonym": "Armenian",
@@ -489,7 +499,8 @@
 			"nld": {"official": "Amerikaans Samoa", "common": "Amerikaans Samoa"},
 			"por": {"official": "Samoa americana", "common": "Samoa Americana"},
 			"rus": {"official": "\u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430", "common": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430"},
-			"spa": {"official": "Samoa Americana", "common": "Samoa Americana"}
+			"spa": {"official": "Samoa Americana", "common": "Samoa Americana"},
+			"fin": {"official": "Amerikan Samoa", "common": "Amerikan Samoa"}
 		},
 		"latlng": [-14.33333333, -170],
 		"demonym": "American Samoan",
@@ -525,7 +536,8 @@
 			"nld": {"official": "Antarctica", "common": "Antarctica"},
 			"por": {"official": "Ant\u00e1rtica", "common": "Ant\u00e1rtida"},
 			"rus": {"official": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430", "common": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430"},
-			"spa": {"official": "Ant\u00e1rtida", "common": "Ant\u00e1rtida"}
+			"spa": {"official": "Ant\u00e1rtida", "common": "Ant\u00e1rtida"},
+			"fin": {"official": "Etel\u00e4manner", common: "Etel\u00e4manner"
 		},
 		"latlng": [-90, 0],
 		"demonym": "Antarctican",
@@ -567,7 +579,8 @@
 			"nld": {"official": "Grondgebied van de Franse Zuidelijke en Antarctische gebieden", "common": "Franse Gebieden in de zuidelijke Indische Oceaan"},
 			"por": {"official": "Territ\u00f3rio do Sul e Ant\u00e1rtica Francesa", "common": "Terras Austrais e Ant\u00e1rticas Francesas"},
 			"rus": {"official": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0438 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0435\u043c\u043b\u0438", "common": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0438 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438"},
-			"spa": {"official": "Territorio del Franc\u00e9s Tierras australes y ant\u00e1rticas", "common": "Tierras Australes y Ant\u00e1rticas Francesas"}
+			"spa": {"official": "Territorio del Franc\u00e9s Tierras australes y ant\u00e1rticas", "common": "Tierras Australes y Ant\u00e1rticas Francesas"},
+			"fin": {"official": "Ranskan etel\u00e4iset ja antarktiset alueet", "common": "Ranskan etel\u00e4iset ja antarktiset alueet"}
 		},
 		"latlng": [-49.25, 69.167],
 		"demonym": "French",
@@ -610,7 +623,8 @@
 			"nld": {"official": "Antigua en Barbuda", "common": "Antigua en Barbuda"},
 			"por": {"official": "Antigua e Barbuda", "common": "Ant\u00edgua e Barbuda"},
 			"rus": {"official": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430", "common": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"},
-			"spa": {"official": "Antigua y Barbuda", "common": "Antigua y Barbuda"}
+			"spa": {"official": "Antigua y Barbuda", "common": "Antigua y Barbuda"},
+			"fin": {"official": "Antigua ja Barbuda", "common": "Antigua ja Barbuda"}
 		},
 		"latlng": [17.05, -61.8],
 		"demonym": "Antiguan, Barbudan",
@@ -653,7 +667,8 @@
 			"nld": {"official": "Gemenebest van Australi\u00eb", "common": "Australi\u00eb"},
 			"por": {"official": "Comunidade da Austr\u00e1lia", "common": "Austr\u00e1lia"},
 			"rus": {"official": "\u0421\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0438", "common": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"},
-			"spa": {"official": "Mancomunidad de Australia", "common": "Australia"}
+			"spa": {"official": "Mancomunidad de Australia", "common": "Australia"},
+			"fin": {"official": "Australian liittovaltio", "common": "Australia"} 
 		},
 		"latlng": [-27, 133],
 		"demonym": "Australian",
@@ -696,7 +711,8 @@
 			"nld": {"official": "Republiek Oostenrijk", "common": "Oostenrijk"},
 			"por": {"official": "Rep\u00fablica da \u00c1ustria", "common": "\u00c1ustria"},
 			"rus": {"official": "\u0410\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica de Austria", "common": "Austria"}
+			"spa": {"official": "Rep\u00fablica de Austria", "common": "Austria"},
+			"fin": {"official": "It\u00e4vallan tasavalta", "common": "It\u00e4valta"}
 		},
 		"latlng": [47.33333333, 13.33333333],
 		"demonym": "Austrian",
@@ -744,7 +760,8 @@
 			"nld": {"official": "Republiek Azerbeidzjan", "common": "Azerbeidzjan"},
 			"por": {"official": "Rep\u00fablica do Azerbaij\u00e3o", "common": "Azerbeij\u00e3o"},
 			"rus": {"official": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"},
-			"spa": {"official": "Rep\u00fablica de Azerbaiy\u00e1n", "common": "Azerbaiy\u00e1n"}
+			"spa": {"official": "Rep\u00fablica de Azerbaiy\u00e1n", "common": "Azerbaiy\u00e1n"},
+			"fin": {"official": "Azerbaidzanin tasavalta", "common": "Azerbaidzan"}
 		},
 		"latlng": [40.5, 47.5],
 		"demonym": "Azerbaijani",
