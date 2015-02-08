@@ -1363,7 +1363,8 @@
 			"nld": {"official": "Belize", "common": "Belize"},
 			"por": {"official": "Belize", "common": "Belize"},
 			"rus": {"official": "\u0411\u0435\u043b\u0438\u0437", "common": "\u0411\u0435\u043b\u0438\u0437"},
-			"spa": {"official": "Belice", "common": "Belice"}
+			"spa": {"official": "Belice", "common": "Belice"},
+			"fin": {"official": "Belize", "common": "Belize"}
 		},
 		"latlng": [17.25, -88.75],
 		"demonym": "Belizean",
@@ -1406,7 +1407,8 @@
 			"nld": {"official": "Bermuda", "common": "Bermuda"},
 			"por": {"official": "Bermudas", "common": "Bermudas"},
 			"rus": {"official": "\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430"},
-			"spa": {"official": "Bermuda", "common": "Bermudas"}
+			"spa": {"official": "Bermuda", "common": "Bermudas"},
+			"fin": {"official": "Bermuda", "common": "Bermuda"}
 		},
 		"latlng": [32.33333333, -64.75],
 		"demonym": "Bermudian",
@@ -1464,7 +1466,8 @@
 			"nld": {"official": "Plurinationale Staat van Bolivia", "common": "Bolivia"},
 			"por": {"official": "Estado Plurinacional da Bol\u00edvia", "common": "Bol\u00edvia"},
 			"rus": {"official": "\u041c\u043d\u043e\u0433\u043e\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0411\u043e\u043b\u0438\u0432\u0438\u044f", "common": "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"},
-			"spa": {"official": "Estado Plurinacional de Bolivia", "common": "Bolivia"}
+			"spa": {"official": "Estado Plurinacional de Bolivia", "common": "Bolivia"},
+			"fin": {"official": "Bolivian monikansainen valtio", "common": "Bolivia"}
 		},
 		"latlng": [-17, -65],
 		"demonym": "Bolivian",
@@ -1507,7 +1510,8 @@
 			"nld": {"official": "Federale Republiek Brazili\u00eb", "common": "Brazili\u00eb"},
 			"por": {"official": "Rep\u00fablica Federativa do Brasil", "common": "Brasil"},
 			"rus": {"official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f", "common": "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica Federativa del Brasil", "common": "Brasil"}
+			"spa": {"official": "Rep\u00fablica Federativa del Brasil", "common": "Brasil"},
+			"fin": {"official": "Brasilian liittotasavalta", "common": "Brasilia"}
 		},
 		"latlng": [-10, -55],
 		"demonym": "Brazilian",
@@ -1550,7 +1554,8 @@
 			"nld": {"official": "Barbados", "common": "Barbados"},
 			"por": {"official": "Barbados", "common": "Barbados"},
 			"rus": {"official": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441", "common": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"},
-			"spa": {"official": "Barbados", "common": "Barbados"}
+			"spa": {"official": "Barbados", "common": "Barbados"},
+			"fin": {"official": "Barbados", "common": "Barbados"}
 		},
 		"latlng": [13.16666666, -59.53333333],
 		"demonym": "Barbadian",
@@ -1593,7 +1598,8 @@
 			"nld": {"official": "Natie van Brunei, de verblijfplaats van de Vrede", "common": "Brunei"},
 			"por": {"official": "Na\u00e7\u00e3o do Brunei, Morada da Paz", "common": "Brunei"},
 			"rus": {"official": "\u041d\u0430\u0446\u0438\u044f \u0411\u0440\u0443\u043d\u0435\u0439, \u043e\u0431\u0438\u0442\u0435\u043b\u044c \u043c\u0438\u0440\u0430", "common": "\u0411\u0440\u0443\u043d\u0435\u0439"},
-			"spa": {"official": "Naci\u00f3n de Brunei, Morada de la Paz", "common": "Brunei"}
+			"spa": {"official": "Naci\u00f3n de Brunei, Morada de la Paz", "common": "Brunei"},
+			"fin": {"official": "Brunei Darussalamin valtio", "common": "Brunei"}
 		},
 		"latlng": [4.5, 114.66666666],
 		"demonym": "Bruneian",
@@ -1636,7 +1642,8 @@
 			"nld": {"official": "Koninkrijk Bhutan", "common": "Bhutan"},
 			"por": {"official": "Reino do But\u00e3o", "common": "But\u00e3o"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0411\u0443\u0442\u0430\u043d", "common": "\u0411\u0443\u0442\u0430\u043d"},
-			"spa": {"official": "Reino de But\u00e1n", "common": "But\u00e1n"}
+			"spa": {"official": "Reino de But\u00e1n", "common": "But\u00e1n"},
+			"fin": {"official": "Bhutanin kuningaskunta", "common": "Bhutan"}
 		},
 		"latlng": [27.5, 90.5],
 		"demonym": "Bhutanese",
@@ -1678,7 +1685,8 @@
 			"nld": {"official": "Bouvet Island", "common": "Bouveteiland"},
 			"por": {"official": "Ilha Bouvet", "common": "Ilha Bouvet"},
 			"rus": {"official": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0411\u0443\u0432\u0435", "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0411\u0443\u0432\u0435"},
-			"spa": {"official": "Isla Bouvet", "common": "Isla Bouvet"}
+			"spa": {"official": "Isla Bouvet", "common": "Isla Bouvet"},
+			"fin": {"official": "Bouvet'nsaari", "common": "Bouvet'nsaari"}
 		},
 		"latlng": [-54.43333333, 3.4],
 		"demonym": "",
@@ -1725,7 +1733,8 @@
 			"nld": {"official": "Republiek Botswana", "common": "Botswana"},
 			"por": {"official": "Rep\u00fablica do Botswana", "common": "Botswana"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430", "common": "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"},
-			"spa": {"official": "Rep\u00fablica de Botswana", "common": "Botswana"}
+			"spa": {"official": "Rep\u00fablica de Botswana", "common": "Botswana"},
+			"fin": {"official": "Botswanan tasavalta", "common": "Botswana"}
 		},
 		"latlng": [-22, 24],
 		"demonym": "Motswana",
