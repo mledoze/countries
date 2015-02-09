@@ -1373,7 +1373,7 @@
 				},
 				"spa": {
 					"official": "Estado Plurinacional de Bolivia",
-					"common": "Bolivia  "
+					"common": "Bolivia"
 				}
 			}
 		},
@@ -1513,7 +1513,7 @@
 		"currency": ["BND"],
 		"callingCode": ["673"],
 		"capital": "Bandar Seri Begawan",
-		"altSpellings": ["BN", "Nation of Brunei", " the Abode of Peace"],
+		"altSpellings": ["BN", "Nation of Brunei", "the Abode of Peace"],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -7805,7 +7805,7 @@
 		"currency": ["PEN"],
 		"callingCode": ["51"],
 		"capital": "Lima",
-		"altSpellings": ["PE", "Republic of Peru", " Rep\u00fablica del Per\u00fa"],
+		"altSpellings": ["PE", "Republic of Peru", "Rep\u00fablica del Per\u00fa"],
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -10890,7 +10890,7 @@
 				},
 				"nso": {
 					"official": "Rephaboliki ya Afrika-Borwa ",
-					"common": "Afrika-Borwa "
+					"common": "Afrika-Borwa"
 				},
 				"sot": {
 					"official": "Rephaboliki ya Afrika Borwa",
