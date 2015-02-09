@@ -22,7 +22,6 @@
 		"callingCode": ["297"],
 		"capital": "Oranjestad",
 		"altSpellings": ["AW"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -73,7 +72,6 @@
 		"callingCode": ["93"],
 		"capital": "Kabul",
 		"altSpellings": ["AF", "Af\u0121\u0101nist\u0101n"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -118,7 +116,6 @@
 		"callingCode": ["244"],
 		"capital": "Luanda",
 		"altSpellings": ["AO", "Rep\u00fablica de Angola", "\u0281\u025bpublika de an'\u0261\u0254la"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -161,7 +158,6 @@
 		"callingCode": ["1264"],
 		"capital": "The Valley",
 		"altSpellings": ["AI"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -203,7 +199,6 @@
 		"callingCode": ["358"],
 		"capital": "Mariehamn",
 		"altSpellings": ["AX", "Aaland", "Aland", "Ahvenanmaa"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -245,7 +240,6 @@
 		"callingCode": ["355"],
 		"capital": "Tirana",
 		"altSpellings": ["AL", "Shqip\u00ebri", "Shqip\u00ebria", "Shqipnia"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -288,7 +282,6 @@
 		"callingCode": ["376"],
 		"capital": "Andorra la Vella",
 		"altSpellings": ["AD", "Principality of Andorra", "Principat d'Andorra"],
-		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -331,7 +324,6 @@
 		"callingCode": ["971"],
 		"capital": "Abu Dhabi",
 		"altSpellings": ["AE", "UAE", "Emirates"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -377,7 +369,6 @@
 		"callingCode": ["54"],
 		"capital": "Buenos Aires",
 		"altSpellings": ["AR", "Argentine Republic", "Rep\u00fablica Argentina"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -425,7 +416,6 @@
 		"callingCode": ["374"],
 		"capital": "Yerevan",
 		"altSpellings": ["AM", "Hayastan", "Republic of Armenia", "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -473,7 +463,6 @@
 		"callingCode": ["1684"],
 		"capital": "Pago Pago",
 		"altSpellings": ["AS", "Amerika S\u0101moa", "Amelika S\u0101moa", "S\u0101moa Amelika"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -511,7 +500,6 @@
 		"callingCode": [],
 		"capital": "",
 		"altSpellings": ["AQ"],
-		"relevance": "0",
 		"region": "",
 		"subregion": "",
 		"languages": {},
@@ -552,7 +540,6 @@
 		"callingCode": [],
 		"capital": "Port-aux-Fran\u00e7ais",
 		"altSpellings": ["TF"],
-		"relevance": "0",
 		"region": "",
 		"subregion": "",
 		"languages": {
@@ -594,7 +581,6 @@
 		"callingCode": ["1268"],
 		"capital": "Saint John's",
 		"altSpellings": ["AG"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -637,7 +623,6 @@
 		"callingCode": ["61"],
 		"capital": "Canberra",
 		"altSpellings": ["AU"],
-		"relevance": "1.5",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
@@ -680,7 +665,6 @@
 		"callingCode": ["43"],
 		"capital": "Vienna",
 		"altSpellings": ["AT", "Osterreich", "Oesterreich"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
@@ -727,7 +711,6 @@
 		"callingCode": ["994"],
 		"capital": "Baku",
 		"altSpellings": ["AZ", "Republic of Azerbaijan", "Az\u0259rbaycan Respublikas\u0131"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -775,7 +758,6 @@
 		"callingCode": ["257"],
 		"capital": "Bujumbura",
 		"altSpellings": ["BI", "Republic of Burundi", "Republika y'Uburundi", "R\u00e9publique du Burundi"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -827,7 +809,6 @@
 		"callingCode": ["32"],
 		"capital": "Brussels",
 		"altSpellings": ["BE", "Belgi\u00eb", "Belgie", "Belgien", "Belgique", "Kingdom of Belgium", "Koninkrijk Belgi\u00eb", "Royaume de Belgique", "K\u00f6nigreich Belgien"],
-		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
@@ -872,7 +853,6 @@
 		"callingCode": ["229"],
 		"capital": "Porto-Novo",
 		"altSpellings": ["BJ", "Republic of Benin", "R\u00e9publique du B\u00e9nin"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -915,7 +895,6 @@
 		"callingCode": ["5997"],
 		"capital": "Kralendijk",
 		"altSpellings": ["BQ", "Boneiru"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -950,7 +929,6 @@
 		"callingCode": ["226"],
 		"capital": "Ouagadougou",
 		"altSpellings": ["BF"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -993,7 +971,6 @@
 		"callingCode": ["880"],
 		"capital": "Dhaka",
 		"altSpellings": ["BD", "People's Republic of Bangladesh", "G\u00f4n\u00f4pr\u00f4jat\u00f4ntri Bangladesh"],
-		"relevance": "2",
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -1036,7 +1013,6 @@
 		"callingCode": ["359"],
 		"capital": "Sofia",
 		"altSpellings": ["BG", "Republic of Bulgaria", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -1079,7 +1055,6 @@
 		"callingCode": ["973"],
 		"capital": "Manama",
 		"altSpellings": ["BH", "Kingdom of Bahrain", "Mamlakat al-Ba\u1e25rayn"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -1122,7 +1097,6 @@
 		"callingCode": ["1242"],
 		"capital": "Nassau",
 		"altSpellings": ["BS", "Commonwealth of the Bahamas"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -1173,7 +1147,6 @@
 		"callingCode": ["387"],
 		"capital": "Sarajevo",
 		"altSpellings": ["BA", "Bosnia-Herzegovina", "\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -1218,7 +1191,6 @@
 		"callingCode": ["590"],
 		"capital": "Gustavia",
 		"altSpellings": ["BL", "St. Barthelemy", "Collectivity of Saint Barth\u00e9lemy", "Collectivit\u00e9 de Saint-Barth\u00e9lemy"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -1264,7 +1236,6 @@
 		"callingCode": ["375"],
 		"capital": "Minsk",
 		"altSpellings": ["BY", "Bielaru\u015b", "Republic of Belarus", "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f", "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c", "Belorussiya", "Respublika Belarus\u2019"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -1316,7 +1287,6 @@
 		"callingCode": ["501"],
 		"capital": "Belmopan",
 		"altSpellings": ["BZ"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
@@ -1361,7 +1331,6 @@
 		"callingCode": ["1441"],
 		"capital": "Hamilton",
 		"altSpellings": ["BM", "The Islands of Bermuda", "The Bermudas", "Somers Isles"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
@@ -1416,7 +1385,6 @@
 		"callingCode": ["591"],
 		"capital": "Sucre",
 		"altSpellings": ["BO", "Buliwya", "Wuliwya", "Plurinational State of Bolivia", "Estado Plurinacional de Bolivia", "Buliwya Mamallaqta", "Wuliwya Suyu", "Tet\u00e3 Vol\u00edvia"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -1462,7 +1430,6 @@
 		"callingCode": ["55"],
 		"capital": "Bras\u00edlia",
 		"altSpellings": ["BR", "Brasil", "Federative Republic of Brazil", "Rep\u00fablica Federativa do Brasil"],
-		"relevance": "2",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -1505,7 +1472,6 @@
 		"callingCode": ["1246"],
 		"capital": "Bridgetown",
 		"altSpellings": ["BB"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -1548,7 +1514,6 @@
 		"callingCode": ["673"],
 		"capital": "Bandar Seri Begawan",
 		"altSpellings": ["BN", "Nation of Brunei", " the Abode of Peace"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -1591,7 +1556,6 @@
 		"callingCode": ["975"],
 		"capital": "Thimphu",
 		"altSpellings": ["BT", "Kingdom of Bhutan"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -1634,7 +1598,6 @@
 		"callingCode": [],
 		"capital": "",
 		"altSpellings": ["BV", "Bouvet\u00f8ya", "Bouvet-\u00f8ya"],
-		"relevance": "0",
 		"region": "",
 		"subregion": "",
 		"languages": {
@@ -1680,7 +1643,6 @@
 		"callingCode": ["267"],
 		"capital": "Gaborone",
 		"altSpellings": ["BW", "Republic of Botswana", "Lefatshe la Botswana"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
@@ -1727,7 +1689,6 @@
 		"callingCode": ["236"],
 		"capital": "Bangui",
 		"altSpellings": ["CF", "Central African Republic", "R\u00e9publique centrafricaine"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -1775,7 +1736,6 @@
 		"callingCode": ["1"],
 		"capital": "Ottawa",
 		"altSpellings": ["CA"],
-		"relevance": "2",
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
@@ -1819,7 +1779,6 @@
 		"callingCode": ["61"],
 		"capital": "West Island",
 		"altSpellings": ["CC", "Territory of the Cocos (Keeling) Islands", "Keeling Islands"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
@@ -1874,7 +1833,6 @@
 		"callingCode": ["41"],
 		"capital": "Bern",
 		"altSpellings": ["CH", "Swiss Confederation", "Schweiz", "Suisse", "Svizzera", "Svizra"],
-		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
@@ -1919,7 +1877,6 @@
 		"callingCode": ["56"],
 		"capital": "Santiago",
 		"altSpellings": ["CL", "Republic of Chile", "Rep\u00fablica de Chile"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -1962,7 +1919,6 @@
 		"callingCode": ["86"],
 		"capital": "Beijing",
 		"altSpellings": ["CN", "Zh\u014dnggu\u00f3", "Zhongguo", "Zhonghua", "People's Republic of China", "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd", "Zh\u014dnghu\u00e1 R\u00e9nm\u00edn G\u00f2ngh\u00e9gu\u00f3"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -2005,7 +1961,6 @@
 		"callingCode": ["225"],
 		"capital": "Yamoussoukro",
 		"altSpellings": ["CI", "Ivory Coast", "Republic of C\u00f4te d'Ivoire", "R\u00e9publique de C\u00f4te d'Ivoire"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -2051,7 +2006,6 @@
 		"callingCode": ["237"],
 		"capital": "Yaound\u00e9",
 		"altSpellings": ["CM", "Republic of Cameroon", "R\u00e9publique du Cameroun"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -2111,7 +2065,6 @@
 		"callingCode": ["243"],
 		"capital": "Kinshasa",
 		"altSpellings": ["CD", "DR Congo", "Congo-Kinshasa", "DRC"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -2166,7 +2119,6 @@
 		"callingCode": ["242"],
 		"capital": "Brazzaville",
 		"altSpellings": ["CG", "Congo-Brazzaville"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -2215,7 +2167,6 @@
 		"callingCode": ["682"],
 		"capital": "Avarua",
 		"altSpellings": ["CK", "K\u016bki '\u0100irani"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -2259,7 +2210,6 @@
 		"callingCode": ["57"],
 		"capital": "Bogot\u00e1",
 		"altSpellings": ["CO", "Republic of Colombia", "Rep\u00fablica de Colombia"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -2310,7 +2260,6 @@
 		"callingCode": ["269"],
 		"capital": "Moroni",
 		"altSpellings": ["KM", "Union of the Comoros", "Union des Comores", "Udzima wa Komori", "al-Itti\u1e25\u0101d al-Qumur\u012b"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -2355,7 +2304,6 @@
 		"callingCode": ["238"],
 		"capital": "Praia",
 		"altSpellings": ["CV", "Republic of Cabo Verde", "Rep\u00fablica de Cabo Verde"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -2398,7 +2346,6 @@
 		"callingCode": ["506"],
 		"capital": "San Jos\u00e9",
 		"altSpellings": ["CR", "Republic of Costa Rica", "Rep\u00fablica de Costa Rica"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
@@ -2441,7 +2388,6 @@
 		"callingCode": ["53"],
 		"capital": "Havana",
 		"altSpellings": ["CU", "Republic of Cuba", "Rep\u00fablica de Cuba"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -2492,7 +2438,6 @@
 		"callingCode": ["5999"],
 		"capital": "Willemstad",
 		"altSpellings": ["CW", "Curacao", "K\u00f2rsou", "Country of Cura\u00e7ao", "Land Cura\u00e7ao", "Pais K\u00f2rsou"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -2530,7 +2475,6 @@
 		"callingCode": ["61"],
 		"capital": "Flying Fish Cove",
 		"altSpellings": ["CX", "Territory of Christmas Island"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
@@ -2573,7 +2517,6 @@
 		"callingCode": ["1345"],
 		"capital": "George Town",
 		"altSpellings": ["KY"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -2620,7 +2563,6 @@
 		"callingCode": ["357"],
 		"capital": "Nicosia",
 		"altSpellings": ["CY", "K\u00fdpros", "K\u0131br\u0131s", "Republic of Cyprus", "\u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1", "K\u0131br\u0131s Cumhuriyeti"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -2668,7 +2610,6 @@
 		"callingCode": ["420"],
 		"capital": "Prague",
 		"altSpellings": ["CZ", "\u010cesk\u00e1 republika", "\u010cesko"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -2712,7 +2653,6 @@
 		"callingCode": ["49"],
 		"capital": "Berlin",
 		"altSpellings": ["DE", "Federal Republic of Germany", "Bundesrepublik Deutschland"],
-		"relevance": "3",
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
@@ -2758,7 +2698,6 @@
 		"callingCode": ["253"],
 		"capital": "Djibouti",
 		"altSpellings": ["DJ", "Jabuuti", "Gabuuti", "Republic of Djibouti", "R\u00e9publique de Djibouti", "Gabuutih Ummuuno", "Jamhuuriyadda Jabuuti"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -2802,7 +2741,6 @@
 		"callingCode": ["1767"],
 		"capital": "Roseau",
 		"altSpellings": ["DM", "Dominique", "Wai\u2018tu kubuli", "Commonwealth of Dominica"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -2845,7 +2783,6 @@
 		"callingCode": ["45"],
 		"capital": "Copenhagen",
 		"altSpellings": ["DK", "Danmark", "Kingdom of Denmark", "Kongeriget Danmark"],
-		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -2888,7 +2825,6 @@
 		"callingCode": ["1809", "1829", "1849"],
 		"capital": "Santo Domingo",
 		"altSpellings": ["DO"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -2931,7 +2867,6 @@
 		"callingCode": ["213"],
 		"capital": "Algiers",
 		"altSpellings": ["DZ", "Dzayer", "Alg\u00e9rie"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
@@ -2974,7 +2909,6 @@
 		"callingCode": ["593"],
 		"capital": "Quito",
 		"altSpellings": ["EC", "Republic of Ecuador", "Rep\u00fablica del Ecuador"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -3017,7 +2951,6 @@
 		"callingCode": ["20"],
 		"capital": "Cairo",
 		"altSpellings": ["EG", "Arab Republic of Egypt"],
-		"relevance": "1.5",
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
@@ -3068,7 +3001,6 @@
 		"callingCode": ["291"],
 		"capital": "Asmara",
 		"altSpellings": ["ER", "State of Eritrea", "\u1203\u1308\u1228 \u12a4\u122d\u1275\u122b", "Dawlat Iritriy\u00e1", "\u02beErtr\u0101", "Iritriy\u0101", ""],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -3121,7 +3053,6 @@
 		"callingCode": ["212"],
 		"capital": "El Aai\u00fan",
 		"altSpellings": ["EH", "Tane\u1e93roft Tutrimt"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
@@ -3181,7 +3112,6 @@
 		"callingCode": ["34"],
 		"capital": "Madrid",
 		"altSpellings": ["ES", "Kingdom of Spain", "Reino de Espa\u00f1a"],
-		"relevance": "2",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -3227,7 +3157,6 @@
 		"callingCode": ["372"],
 		"capital": "Tallinn",
 		"altSpellings": ["EE", "Eesti", "Republic of Estonia", "Eesti Vabariik"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -3270,7 +3199,6 @@
 		"callingCode": ["251"],
 		"capital": "Addis Ababa",
 		"altSpellings": ["ET", "\u02be\u012aty\u014d\u1e57\u1e57y\u0101", "Federal Democratic Republic of Ethiopia", "\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u134c\u12f4\u122b\u120b\u12ca \u12f2\u121e\u12ad\u122b\u1232\u12eb\u12ca \u122a\u1350\u1265\u120a\u12ad"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -3317,7 +3245,6 @@
 		"callingCode": ["358"],
 		"capital": "Helsinki",
 		"altSpellings": ["FI", "Suomi", "Republic of Finland", "Suomen tasavalta", "Republiken Finland"],
-		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -3368,7 +3295,6 @@
 		"callingCode": ["679"],
 		"capital": "Suva",
 		"altSpellings": ["FJ", "Viti", "Republic of Fiji", "Matanitu ko Viti", "Fij\u012b Ga\u1e47ar\u0101jya"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
@@ -3412,7 +3338,6 @@
 		"callingCode": ["500"],
 		"capital": "Stanley",
 		"altSpellings": ["FK", "Islas Malvinas"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -3454,7 +3379,6 @@
 		"callingCode": ["33"],
 		"capital": "Paris",
 		"altSpellings": ["FR", "French Republic", "R\u00e9publique fran\u00e7aise"],
-		"relevance": "2.5",
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
@@ -3500,7 +3424,6 @@
 		"callingCode": ["298"],
 		"capital": "T\u00f3rshavn",
 		"altSpellings": ["FO", "F\u00f8royar", "F\u00e6r\u00f8erne"],
-		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -3543,7 +3466,6 @@
 		"callingCode": ["691"],
 		"capital": "Palikir",
 		"altSpellings": ["FM", "Federated States of Micronesia"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
@@ -3585,7 +3507,6 @@
 		"callingCode": ["241"],
 		"capital": "Libreville",
 		"altSpellings": ["GA", "Gabonese Republic", "R\u00e9publique Gabonaise"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -3627,7 +3548,6 @@
 		"callingCode": ["44"],
 		"capital": "London",
 		"altSpellings": ["GB", "UK", "Great Britain"],
-		"relevance": "2.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -3669,7 +3589,6 @@
 		"callingCode": ["995"],
 		"capital": "Tbilisi",
 		"altSpellings": ["GE", "Sakartvelo"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -3719,7 +3638,6 @@
 		"callingCode": ["44"],
 		"capital": "St. Peter Port",
 		"altSpellings": ["GG", "Bailiwick of Guernsey", "Bailliage de Guernesey"],
-		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -3763,7 +3681,6 @@
 		"callingCode": ["233"],
 		"capital": "Accra",
 		"altSpellings": ["GH"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -3805,7 +3722,6 @@
 		"callingCode": ["350"],
 		"capital": "Gibraltar",
 		"altSpellings": ["GI"],
-		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -3847,7 +3763,6 @@
 		"callingCode": ["224"],
 		"capital": "Conakry",
 		"altSpellings": ["GN", "Republic of Guinea", "R\u00e9publique de Guin\u00e9e"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -3889,7 +3804,6 @@
 		"callingCode": ["590"],
 		"capital": "Basse-Terre",
 		"altSpellings": ["GP", "Gwadloup"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -3931,7 +3845,6 @@
 		"callingCode": ["220"],
 		"capital": "Banjul",
 		"altSpellings": ["GM", "Republic of the Gambia"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -3973,7 +3886,6 @@
 		"callingCode": ["245"],
 		"capital": "Bissau",
 		"altSpellings": ["GW", "Republic of Guinea-Bissau", "Rep\u00fablica da Guin\u00e9-Bissau"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -4023,7 +3935,6 @@
 		"callingCode": ["240"],
 		"capital": "Malabo",
 		"altSpellings": ["GQ", "Republic of Equatorial Guinea", "Rep\u00fablica de Guinea Ecuatorial", "R\u00e9publique de Guin\u00e9e \u00e9quatoriale", "Rep\u00fablica da Guin\u00e9 Equatorial"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -4068,7 +3979,6 @@
 		"callingCode": ["30"],
 		"capital": "Athens",
 		"altSpellings": ["GR", "Ell\u00e1da", "Hellenic Republic", "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"],
-		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -4110,7 +4020,6 @@
 		"callingCode": ["1473"],
 		"capital": "St. George's",
 		"altSpellings": ["GD"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -4152,7 +4061,6 @@
 		"callingCode": ["299"],
 		"capital": "Nuuk",
 		"altSpellings": ["GL", "Gr\u00f8nland"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
@@ -4194,7 +4102,6 @@
 		"callingCode": ["502"],
 		"capital": "Guatemala City",
 		"altSpellings": ["GT"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
@@ -4236,7 +4143,6 @@
 		"callingCode": ["594"],
 		"capital": "Cayenne",
 		"altSpellings": ["GF", "Guiana", "Guyane"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -4286,7 +4192,6 @@
 		"callingCode": ["1671"],
 		"capital": "Hag\u00e5t\u00f1a",
 		"altSpellings": ["GU", "Gu\u00e5h\u00e5n"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
@@ -4330,7 +4235,6 @@
 		"callingCode": ["592"],
 		"capital": "Georgetown",
 		"altSpellings": ["GY", "Co-operative Republic of Guyana"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -4376,7 +4280,6 @@
 		"callingCode": ["852"],
 		"capital": "City of Victoria",
 		"altSpellings": ["HK"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -4419,7 +4322,6 @@
 		"callingCode": [],
 		"capital": "",
 		"altSpellings": ["HM"],
-		"relevance": "0",
 		"region": "",
 		"subregion": "",
 		"languages": {
@@ -4461,7 +4363,6 @@
 		"callingCode": ["504"],
 		"capital": "Tegucigalpa",
 		"altSpellings": ["HN", "Republic of Honduras", "Rep\u00fablica de Honduras"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
@@ -4503,7 +4404,6 @@
 		"callingCode": ["385"],
 		"capital": "Zagreb",
 		"altSpellings": ["HR", "Hrvatska", "Republic of Croatia", "Republika Hrvatska"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -4550,7 +4450,6 @@
 		"callingCode": ["509"],
 		"capital": "Port-au-Prince",
 		"altSpellings": ["HT", "Republic of Haiti", "R\u00e9publique d'Ha\u00efti", "Repiblik Ayiti"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -4593,7 +4492,6 @@
 		"callingCode": ["36"],
 		"capital": "Budapest",
 		"altSpellings": ["HU"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -4635,7 +4533,6 @@
 		"callingCode": ["62"],
 		"capital": "Jakarta",
 		"altSpellings": ["ID", "Republic of Indonesia", "Republik Indonesia"],
-		"relevance": "2",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -4681,7 +4578,6 @@
 		"callingCode": ["44"],
 		"capital": "Douglas",
 		"altSpellings": ["IM", "Ellan Vannin", "Mann", "Mannin"],
-		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -4728,7 +4624,6 @@
 		"callingCode": ["91"],
 		"capital": "New Delhi",
 		"altSpellings": ["IN", "Bh\u0101rat", "Republic of India", "Bharat Ganrajya"],
-		"relevance": "3",
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -4771,7 +4666,6 @@
 		"callingCode": ["246"],
 		"capital": "Diego Garcia",
 		"altSpellings": ["IO"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -4818,7 +4712,6 @@
 		"callingCode": ["353"],
 		"capital": "Dublin",
 		"altSpellings": ["IE", "\u00c9ire", "Republic of Ireland", "Poblacht na h\u00c9ireann"],
-		"relevance": "1.2",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -4861,7 +4754,6 @@
 		"callingCode": ["98"],
 		"capital": "Tehran",
 		"altSpellings": ["IR", "Islamic Republic of Iran", "Jomhuri-ye Esl\u0101mi-ye Ir\u0101n"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -4910,7 +4802,6 @@
 		"callingCode": ["964"],
 		"capital": "Baghdad",
 		"altSpellings": ["IQ", "Republic of Iraq", "Jumh\u016briyyat al-\u2018Ir\u0101q"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -4954,7 +4845,6 @@
 		"callingCode": ["354"],
 		"capital": "Reykjavik",
 		"altSpellings": ["IS", "Island", "Republic of Iceland", "L\u00fd\u00f0veldi\u00f0 \u00cdsland"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -5000,7 +4890,6 @@
 		"callingCode": ["972"],
 		"capital": "Jerusalem",
 		"altSpellings": ["IL", "State of Israel", "Med\u012bnat Yisr\u0101'el"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -5047,7 +4936,6 @@
 		"callingCode": ["39"],
 		"capital": "Rome",
 		"altSpellings": ["IT", "Italian Republic", "Repubblica italiana"],
-		"relevance": "2",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -5094,7 +4982,6 @@
 		"callingCode": ["1876"],
 		"capital": "Kingston",
 		"altSpellings": ["JM"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -5145,7 +5032,6 @@
 		"callingCode": ["44"],
 		"capital": "Saint Helier",
 		"altSpellings": ["JE", "Bailiwick of Jersey", "Bailliage de Jersey", "Bailliage d\u00e9 J\u00e8rri"],
-		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -5189,7 +5075,6 @@
 		"callingCode": ["962"],
 		"capital": "Amman",
 		"altSpellings": ["JO", "Hashemite Kingdom of Jordan", "al-Mamlakah al-Urdun\u012byah al-H\u0101shim\u012byah"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -5231,7 +5116,6 @@
 		"callingCode": ["81"],
 		"capital": "Tokyo",
 		"altSpellings": ["JP", "Nippon", "Nihon"],
-		"relevance": "2.5",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -5277,7 +5161,6 @@
 		"callingCode": ["76", "77"],
 		"capital": "Astana",
 		"altSpellings": ["KZ", "Qazaqstan", "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d", "Republic of Kazakhstan", "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b", "Qazaqstan Respubl\u00efkas\u0131", "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d", "Respublika Kazakhstan"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
@@ -5324,7 +5207,6 @@
 		"callingCode": ["254"],
 		"capital": "Nairobi",
 		"altSpellings": ["KE", "Republic of Kenya", "Jamhuri ya Kenya"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -5371,7 +5253,6 @@
 		"callingCode": ["996"],
 		"capital": "Bishkek",
 		"altSpellings": ["KG", "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f", "Kyrgyz Republic", "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b", "Kyrgyz Respublikasy"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
@@ -5414,7 +5295,6 @@
 		"callingCode": ["855"],
 		"capital": "Phnom Penh",
 		"altSpellings": ["KH", "Kingdom of Cambodia"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -5461,7 +5341,6 @@
 		"callingCode": ["686"],
 		"capital": "South Tarawa",
 		"altSpellings": ["KI", "Republic of Kiribati", "Ribaberiki Kiribati"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
@@ -5504,7 +5383,6 @@
 		"callingCode": ["1869"],
 		"capital": "Basseterre",
 		"altSpellings": ["KN", "Federation of Saint Christopher and Nevis"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -5546,7 +5424,6 @@
 		"callingCode": ["82"],
 		"capital": "Seoul",
 		"altSpellings": ["KR", "Republic of Korea"],
-		"relevance": "1.5",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -5592,7 +5469,6 @@
 		"callingCode": ["383"],
 		"capital": "Pristina",
 		"altSpellings": ["XK", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -5630,7 +5506,6 @@
 		"callingCode": ["965"],
 		"capital": "Kuwait City",
 		"altSpellings": ["KW", "State of Kuwait", "Dawlat al-Kuwait"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -5672,7 +5547,6 @@
 		"callingCode": ["856"],
 		"capital": "Vientiane",
 		"altSpellings": ["LA", "Lao", "Lao People's Democratic Republic", "Sathalanalat Paxathipatai Paxaxon Lao"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -5718,7 +5592,6 @@
 		"callingCode": ["961"],
 		"capital": "Beirut",
 		"altSpellings": ["LB", "Lebanese Republic", "Al-Jumh\u016br\u012byah Al-Libn\u0101n\u012byah"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -5761,7 +5634,6 @@
 		"callingCode": ["231"],
 		"capital": "Monrovia",
 		"altSpellings": ["LR", "Republic of Liberia"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -5803,7 +5675,6 @@
 		"callingCode": ["218"],
 		"capital": "Tripoli",
 		"altSpellings": ["LY", "State of Libya", "Dawlat Libya"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
@@ -5845,7 +5716,6 @@
 		"callingCode": ["1758"],
 		"capital": "Castries",
 		"altSpellings": ["LC"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -5887,7 +5757,6 @@
 		"callingCode": ["423"],
 		"capital": "Vaduz",
 		"altSpellings": ["LI", "Principality of Liechtenstein", "F\u00fcrstentum Liechtenstein"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
@@ -5933,7 +5802,6 @@
 		"callingCode": ["94"],
 		"capital": "Colombo",
 		"altSpellings": ["LK", "ila\u1e45kai", "Democratic Socialist Republic of Sri Lanka"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -5980,7 +5848,6 @@
 		"callingCode": ["266"],
 		"capital": "Maseru",
 		"altSpellings": ["LS", "Kingdom of Lesotho", "Muso oa Lesotho"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
@@ -6023,7 +5890,6 @@
 		"callingCode": ["370"],
 		"capital": "Vilnius",
 		"altSpellings": ["LT", "Republic of Lithuania", "Lietuvos Respublika"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -6073,7 +5939,6 @@
 		"callingCode": ["352"],
 		"capital": "Luxembourg",
 		"altSpellings": ["LU", "Grand Duchy of Luxembourg", "Grand-Duch\u00e9 de Luxembourg", "Gro\u00dfherzogtum Luxemburg", "Groussherzogtum L\u00ebtzebuerg"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
@@ -6117,7 +5982,6 @@
 		"callingCode": ["371"],
 		"capital": "Riga",
 		"altSpellings": ["LV", "Republic of Latvia", "Latvijas Republika"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -6163,7 +6027,6 @@
 		"callingCode": ["853"],
 		"capital": "",
 		"altSpellings": ["MO", "\u6fb3\u95e8", "Macao Special Administrative Region of the People's Republic of China", "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340", "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -6206,7 +6069,6 @@
 		"callingCode": ["590"],
 		"capital": "Marigot",
 		"altSpellings": ["MF", "Collectivity of Saint Martin", "Collectivit\u00e9 de Saint-Martin"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -6252,7 +6114,6 @@
 		"callingCode": ["212"],
 		"capital": "Rabat",
 		"altSpellings": ["MA", "Kingdom of Morocco", "Al-Mamlakah al-Ma\u0121ribiyah"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
@@ -6295,7 +6156,6 @@
 		"callingCode": ["377"],
 		"capital": "Monaco",
 		"altSpellings": ["MC", "Principality of Monaco", "Principaut\u00e9 de Monaco"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
@@ -6337,7 +6197,6 @@
 		"callingCode": ["373"],
 		"capital": "Chi\u0219in\u0103u",
 		"altSpellings": ["MD", "Republic of Moldova", "Republica Moldova"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -6383,7 +6242,6 @@
 		"callingCode": ["261"],
 		"capital": "Antananarivo",
 		"altSpellings": ["MG", "Republic of Madagascar", "Repoblikan'i Madagasikara", "R\u00e9publique de Madagascar"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -6426,7 +6284,6 @@
 		"callingCode": ["960"],
 		"capital": "Mal\u00e9",
 		"altSpellings": ["MV", "Maldive Islands", "Republic of the Maldives", "Dhivehi Raajjeyge Jumhooriyya"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -6468,7 +6325,6 @@
 		"callingCode": ["52"],
 		"capital": "Mexico City",
 		"altSpellings": ["MX", "Mexicanos", "United Mexican States", "Estados Unidos Mexicanos"],
-		"relevance": "1.5",
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
@@ -6514,7 +6370,6 @@
 		"callingCode": ["692"],
 		"capital": "Majuro",
 		"altSpellings": ["MH", "Republic of the Marshall Islands", "Aolep\u0101n Aor\u014dkin M\u0327aje\u013c"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
@@ -6557,7 +6412,6 @@
 		"callingCode": ["389"],
 		"capital": "Skopje",
 		"altSpellings": ["MK", "Republic of Macedonia", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -6599,7 +6453,6 @@
 		"callingCode": ["223"],
 		"capital": "Bamako",
 		"altSpellings": ["ML", "Republic of Mali", "R\u00e9publique du Mali"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -6645,7 +6498,6 @@
 		"callingCode": ["356"],
 		"capital": "Valletta",
 		"altSpellings": ["MT", "Republic of Malta", "Repubblika ta' Malta"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -6688,7 +6540,6 @@
 		"callingCode": ["95"],
 		"capital": "Naypyidaw",
 		"altSpellings": ["MM", "Burma", "Republic of the Union of Myanmar", "Pyidaunzu Thanm\u0103da My\u0103ma Nainngandaw"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -6730,7 +6581,6 @@
 		"callingCode": ["382"],
 		"capital": "Podgorica",
 		"altSpellings": ["ME", "Crna Gora"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -6772,7 +6622,6 @@
 		"callingCode": ["976"],
 		"capital": "Ulan Bator",
 		"altSpellings": ["MN"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -6822,7 +6671,6 @@
 		"callingCode": ["1670"],
 		"capital": "Saipan",
 		"altSpellings": ["MP", "Commonwealth of the Northern Mariana Islands", "Sankattan Siha Na Islas Mari\u00e5nas"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
@@ -6866,7 +6714,6 @@
 		"callingCode": ["258"],
 		"capital": "Maputo",
 		"altSpellings": ["MZ", "Republic of Mozambique", "Rep\u00fablica de Mo\u00e7ambique"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -6908,7 +6755,6 @@
 		"callingCode": ["222"],
 		"capital": "Nouakchott",
 		"altSpellings": ["MR", "Islamic Republic of Mauritania", "al-Jumh\u016briyyah al-\u02beIsl\u0101miyyah al-M\u016br\u012bt\u0101niyyah"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -6950,7 +6796,6 @@
 		"callingCode": ["1664"],
 		"capital": "Plymouth",
 		"altSpellings": ["MS"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -6992,7 +6837,6 @@
 		"callingCode": ["596"],
 		"capital": "Fort-de-France",
 		"altSpellings": ["MQ"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -7042,7 +6886,6 @@
 		"callingCode": ["230"],
 		"capital": "Port Louis",
 		"altSpellings": ["MU", "Republic of Mauritius", "R\u00e9publique de Maurice"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -7090,7 +6933,6 @@
 		"callingCode": ["265"],
 		"capital": "Lilongwe",
 		"altSpellings": ["MW", "Republic of Malawi"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -7137,7 +6979,6 @@
 		"callingCode": ["60"],
 		"capital": "Kuala Lumpur",
 		"altSpellings": ["MY"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -7180,7 +7021,6 @@
 		"callingCode": ["262"],
 		"capital": "Mamoudzou",
 		"altSpellings": ["YT", "Department of Mayotte", "D\u00e9partement de Mayotte"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -7254,7 +7094,6 @@
 		"callingCode": ["264"],
 		"capital": "Windhoek",
 		"altSpellings": ["NA", "Namibi\u00eb", "Republic of Namibia"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
@@ -7304,7 +7143,6 @@
 		"callingCode": ["687"],
 		"capital": "Noum\u00e9a",
 		"altSpellings": ["NC"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
@@ -7346,7 +7184,6 @@
 		"callingCode": ["227"],
 		"capital": "Niamey",
 		"altSpellings": ["NE", "Nijar"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -7392,7 +7229,6 @@
 		"callingCode": ["672"],
 		"capital": "Kingston",
 		"altSpellings": ["NF", "Territory of Norfolk Island", "Teratri of Norf'k Ailen"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
@@ -7435,7 +7271,6 @@
 		"callingCode": ["234"],
 		"capital": "Abuja",
 		"altSpellings": ["NG", "Nijeriya", "Na\u00edj\u00edr\u00ed\u00e0", "Federal Republic of Nigeria"],
-		"relevance": "1.5",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -7477,7 +7312,6 @@
 		"callingCode": ["505"],
 		"capital": "Managua",
 		"altSpellings": ["NI", "Republic of Nicaragua", "Rep\u00fablica de Nicaragua"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
@@ -7523,7 +7357,6 @@
 		"callingCode": ["683"],
 		"capital": "Alofi",
 		"altSpellings": ["NU"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -7566,7 +7399,6 @@
 		"callingCode": ["31"],
 		"capital": "Amsterdam",
 		"altSpellings": ["NL", "Holland", "Nederland"],
-		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Western Europe",
 		"languages": {
@@ -7616,7 +7448,6 @@
 		"callingCode": ["47"],
 		"capital": "Oslo",
 		"altSpellings": ["NO", "Norge", "Noreg", "Kingdom of Norway", "Kongeriket Norge", "Kongeriket Noreg"],
-		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -7660,7 +7491,6 @@
 		"callingCode": ["977"],
 		"capital": "Kathmandu",
 		"altSpellings": ["NP", "Federal Democratic Republic of Nepal", "Lokt\u0101ntrik Ganatantra Nep\u0101l"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -7706,7 +7536,6 @@
 		"callingCode": ["674"],
 		"capital": "Yaren",
 		"altSpellings": ["NR", "Naoero", "Pleasant Island", "Republic of Nauru", "Ripublik Naoero"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
@@ -7757,7 +7586,6 @@
 		"callingCode": ["64"],
 		"capital": "Wellington",
 		"altSpellings": ["NZ", "Aotearoa"],
-		"relevance": "1.0",
 		"region": "Oceania",
 		"subregion": "Australia and New Zealand",
 		"languages": {
@@ -7801,7 +7629,6 @@
 		"callingCode": ["968"],
 		"capital": "Muscat",
 		"altSpellings": ["OM", "Sultanate of Oman", "Sal\u1e6danat \u02bbUm\u0101n"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -7847,7 +7674,6 @@
 		"callingCode": ["92"],
 		"capital": "Islamabad",
 		"altSpellings": ["PK", "P\u0101kist\u0101n", "Islamic Republic of Pakistan", "Isl\u0101m\u012b Jumh\u016briya'eh P\u0101kist\u0101n"],
-		"relevance": "2",
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -7890,7 +7716,6 @@
 		"callingCode": ["507"],
 		"capital": "Panama City",
 		"altSpellings": ["PA", "Republic of Panama", "Rep\u00fablica de Panam\u00e1"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
@@ -7932,7 +7757,6 @@
 		"callingCode": ["64"],
 		"capital": "Adamstown",
 		"altSpellings": ["PN", "Pitcairn Henderson Ducie and Oeno Islands"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -7982,7 +7806,6 @@
 		"callingCode": ["51"],
 		"capital": "Lima",
 		"altSpellings": ["PE", "Republic of Peru", " Rep\u00fablica del Per\u00fa"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -8030,7 +7853,6 @@
 		"callingCode": ["63"],
 		"capital": "Manila",
 		"altSpellings": ["PH", "Republic of the Philippines", "Rep\u00fablika ng Pilipinas"],
-		"relevance": "1.5",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -8077,7 +7899,6 @@
 		"callingCode": ["680"],
 		"capital": "Ngerulmud",
 		"altSpellings": ["PW", "Republic of Palau", "Beluu er a Belau"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
@@ -8128,7 +7949,6 @@
 		"callingCode": ["675"],
 		"capital": "Port Moresby",
 		"altSpellings": ["PG", "Independent State of Papua New Guinea", "Independen Stet bilong Papua Niugini"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
@@ -8172,7 +7992,6 @@
 		"callingCode": ["48"],
 		"capital": "Warsaw",
 		"altSpellings": ["PL", "Republic of Poland", "Rzeczpospolita Polska"],
-		"relevance": "1.25",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -8218,7 +8037,6 @@
 		"callingCode": ["1787", "1939"],
 		"capital": "San Juan",
 		"altSpellings": ["PR", "Commonwealth of Puerto Rico", "Estado Libre Asociado de Puerto Rico"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -8261,7 +8079,6 @@
 		"callingCode": ["850"],
 		"capital": "Pyongyang",
 		"altSpellings": ["KP", "Democratic People's Republic of Korea", "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d", "Chos\u014fn Minjuju\u016di Inmin Konghwaguk"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -8303,7 +8120,6 @@
 		"callingCode": ["351"],
 		"capital": "Lisbon",
 		"altSpellings": ["PT", "Portuguesa", "Portuguese Republic", "Rep\u00fablica Portuguesa"],
-		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -8349,7 +8165,6 @@
 		"callingCode": ["595"],
 		"capital": "Asunci\u00f3n",
 		"altSpellings": ["PY", "Republic of Paraguay", "Rep\u00fablica del Paraguay", "Tet\u00e3 Paragu\u00e1i"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -8392,7 +8207,6 @@
 		"callingCode": ["970"],
 		"capital": "Ramallah",
 		"altSpellings": ["PS", "State of Palestine", "Dawlat Filas\u1e6din"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -8434,7 +8248,6 @@
 		"callingCode": ["689"],
 		"capital": "Papeet\u0113",
 		"altSpellings": ["PF", "Polyn\u00e9sie fran\u00e7aise", "French Polynesia", "P\u014dr\u012bnetia Far\u0101ni"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -8476,7 +8289,6 @@
 		"callingCode": ["974"],
 		"capital": "Doha",
 		"altSpellings": ["QA", "State of Qatar", "Dawlat Qa\u1e6dar"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -8518,7 +8330,6 @@
 		"callingCode": ["262"],
 		"capital": "Saint-Denis",
 		"altSpellings": ["RE", "Reunion"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -8560,7 +8371,6 @@
 		"callingCode": ["40"],
 		"capital": "Bucharest",
 		"altSpellings": ["RO", "Rumania", "Roumania", "Rom\u00e2nia"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -8602,7 +8412,6 @@
 		"callingCode": ["7"],
 		"capital": "Moscow",
 		"altSpellings": ["RU", "Rossiya", "Russian Federation", "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f", "Rossiyskaya Federatsiya"],
-		"relevance": "2.5",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -8652,7 +8461,6 @@
 		"callingCode": ["250"],
 		"capital": "Kigali",
 		"altSpellings": ["RW", "Republic of Rwanda", "Repubulika y'u Rwanda", "R\u00e9publique du Rwanda"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -8696,7 +8504,6 @@
 		"callingCode": ["966"],
 		"capital": "Riyadh",
 		"altSpellings": ["Saudi", "SA", "Kingdom of Saudi Arabia", "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -8742,7 +8549,6 @@
 		"callingCode": ["249"],
 		"capital": "Khartoum",
 		"altSpellings": ["SD", "Republic of the Sudan", "Jumh\u016br\u012byat as-S\u016bd\u0101n"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
@@ -8785,7 +8591,6 @@
 		"callingCode": ["221"],
 		"capital": "Dakar",
 		"altSpellings": ["SN", "Republic of Senegal", "R\u00e9publique du S\u00e9n\u00e9gal"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -8839,7 +8644,6 @@
 		"callingCode": ["65"],
 		"capital": "Singapore",
 		"altSpellings": ["SG", "Singapura", "Republik Singapura", "\u65b0\u52a0\u5761\u5171\u548c\u56fd"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -8884,7 +8688,6 @@
 		"callingCode": ["500"],
 		"capital": "King Edward Point",
 		"altSpellings": ["GS", "South Georgia and the South Sandwich Islands"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -8926,7 +8729,6 @@
 		"callingCode": ["290"],
 		"capital": "Jamestown",
 		"altSpellings": ["SH"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -8968,7 +8770,6 @@
 		"callingCode": ["4779"],
 		"capital": "Longyearbyen",
 		"altSpellings": ["SJ", "Svalbard and Jan Mayen Islands"],
-		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -9010,7 +8811,6 @@
 		"callingCode": ["677"],
 		"capital": "Honiara",
 		"altSpellings": ["SB"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
@@ -9052,7 +8852,6 @@
 		"callingCode": ["232"],
 		"capital": "Freetown",
 		"altSpellings": ["SL", "Republic of Sierra Leone"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -9094,7 +8893,6 @@
 		"callingCode": ["503"],
 		"capital": "San Salvador",
 		"altSpellings": ["SV", "Republic of El Salvador", "Rep\u00fablica de El Salvador"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Central America",
 		"languages": {
@@ -9137,7 +8935,6 @@
 		"callingCode": ["378"],
 		"capital": "City of San Marino",
 		"altSpellings": ["SM", "Republic of San Marino", "Repubblica di San Marino"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -9183,7 +8980,6 @@
 		"callingCode": ["252"],
 		"capital": "Mogadishu",
 		"altSpellings": ["SO", "a\u1e63-\u1e62\u016bm\u0101l", "Federal Republic of Somalia", "Jamhuuriyadda Federaalka Soomaaliya", "Jumh\u016briyyat a\u1e63-\u1e62\u016bm\u0101l al-Fider\u0101liyya"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -9226,7 +9022,6 @@
 		"callingCode": ["508"],
 		"capital": "Saint-Pierre",
 		"altSpellings": ["PM", "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
@@ -9268,7 +9063,6 @@
 		"callingCode": ["381"],
 		"capital": "Belgrade",
 		"altSpellings": ["RS", "Srbija", "Republic of Serbia", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430", "Republika Srbija"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -9310,7 +9104,6 @@
 		"callingCode": ["211"],
 		"capital": "Juba",
 		"altSpellings": ["SS"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -9352,7 +9145,6 @@
 		"callingCode": ["239"],
 		"capital": "S\u00e3o Tom\u00e9",
 		"altSpellings": ["ST", "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe", "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -9394,7 +9186,6 @@
 		"callingCode": ["597"],
 		"capital": "Paramaribo",
 		"altSpellings": ["SR", "Sarnam", "Sranangron", "Republic of Suriname", "Republiek Suriname"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -9436,7 +9227,6 @@
 		"callingCode": ["421"],
 		"capital": "Bratislava",
 		"altSpellings": ["SK", "Slovak Republic", "Slovensk\u00e1 republika"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -9478,7 +9268,6 @@
 		"callingCode": ["386"],
 		"capital": "Ljubljana",
 		"altSpellings": ["SI", "Republic of Slovenia", "Republika Slovenija"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -9520,7 +9309,6 @@
 		"callingCode": ["46"],
 		"capital": "Stockholm",
 		"altSpellings": ["SE", "Kingdom of Sweden", "Konungariket Sverige"],
-		"relevance": "1.5",
 		"region": "Europe",
 		"subregion": "Northern Europe",
 		"languages": {
@@ -9566,7 +9354,6 @@
 		"callingCode": ["268"],
 		"capital": "Lobamba",
 		"altSpellings": ["SZ", "weSwatini", "Swatini", "Ngwane", "Kingdom of Swaziland", "Umbuso waseSwatini"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
@@ -9617,7 +9404,6 @@
 		"callingCode": ["1721"],
 		"capital": "Philipsburg",
 		"altSpellings": ["SX"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -9668,7 +9454,6 @@
 		"callingCode": ["248"],
 		"capital": "Victoria",
 		"altSpellings": ["SC", "Republic of Seychelles", "Repiblik Sesel", "R\u00e9publique des Seychelles"],
-		"relevance": "0.5",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -9712,7 +9497,6 @@
 		"callingCode": ["963"],
 		"capital": "Damascus",
 		"altSpellings": ["SY", "Syrian Arab Republic", "Al-Jumh\u016br\u012byah Al-\u02bbArab\u012byah As-S\u016br\u012byah"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -9754,7 +9538,6 @@
 		"callingCode": ["1649"],
 		"capital": "Cockburn Town",
 		"altSpellings": ["TC"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -9800,7 +9583,6 @@
 		"callingCode": ["235"],
 		"capital": "N'Djamena",
 		"altSpellings": ["TD", "Tchad", "Republic of Chad", "R\u00e9publique du Tchad"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -9844,7 +9626,6 @@
 		"callingCode": ["228"],
 		"capital": "Lom\u00e9",
 		"altSpellings": ["TG", "Togolese", "Togolese Republic", "R\u00e9publique Togolaise"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -9886,7 +9667,6 @@
 		"callingCode": ["66"],
 		"capital": "Bangkok",
 		"altSpellings": ["TH", "Prathet", "Thai", "Kingdom of Thailand", "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22", "Ratcha Anachak Thai"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -9932,7 +9712,6 @@
 		"callingCode": ["992"],
 		"capital": "Dushanbe",
 		"altSpellings": ["TJ", "To\u00e7ikiston", "Republic of Tajikistan", "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d", "\u00c7umhuriyi To\u00e7ikiston"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
@@ -9983,7 +9762,6 @@
 		"callingCode": ["690"],
 		"capital": "Fakaofo",
 		"altSpellings": ["TK"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -10031,7 +9809,6 @@
 		"callingCode": ["993"],
 		"capital": "Ashgabat",
 		"altSpellings": ["TM"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
@@ -10078,7 +9855,6 @@
 		"callingCode": ["670"],
 		"capital": "Dili",
 		"altSpellings": ["TL", "East Timor", "Democratic Republic of Timor-Leste", "Rep\u00fablica Democr\u00e1tica de Timor-Leste", "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste", "Tim\u00f3r Lorosa'e", "Timor Lorosae"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -10125,7 +9901,6 @@
 		"callingCode": ["676"],
 		"capital": "Nuku'alofa",
 		"altSpellings": ["TO"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -10168,7 +9943,6 @@
 		"callingCode": ["1868"],
 		"capital": "Port of Spain",
 		"altSpellings": ["TT", "Republic of Trinidad and Tobago"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -10210,7 +9984,6 @@
 		"callingCode": ["216"],
 		"capital": "Tunis",
 		"altSpellings": ["TN", "Republic of Tunisia", "al-Jumh\u016briyyah at-T\u016bnisiyyah"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Northern Africa",
 		"languages": {
@@ -10252,7 +10025,6 @@
 		"callingCode": ["90"],
 		"capital": "Ankara",
 		"altSpellings": ["TR", "Turkiye", "Republic of Turkey", "T\u00fcrkiye Cumhuriyeti"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -10298,7 +10070,6 @@
 		"callingCode": ["688"],
 		"capital": "Funafuti",
 		"altSpellings": ["TV"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -10341,7 +10112,6 @@
 		"callingCode": ["886"],
 		"capital": "Taipei",
 		"altSpellings": ["TW", "T\u00e1iw\u0101n", "Republic of China", "\u4e2d\u83ef\u6c11\u570b", "Zh\u014dnghu\u00e1 M\u00edngu\u00f3"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -10387,7 +10157,6 @@
 		"callingCode": ["255"],
 		"capital": "Dodoma",
 		"altSpellings": ["TZ", "United Republic of Tanzania", "Jamhuri ya Muungano wa Tanzania"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -10434,7 +10203,6 @@
 		"callingCode": ["256"],
 		"capital": "Kampala",
 		"altSpellings": ["UG", "Republic of Uganda", "Jamhuri ya Uganda"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -10481,7 +10249,6 @@
 		"callingCode": ["380"],
 		"capital": "Kiev",
 		"altSpellings": ["UA", "Ukrayina"],
-		"relevance": "0",
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -10524,7 +10291,6 @@
 		"callingCode": [],
 		"capital": "",
 		"altSpellings": ["UM"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
@@ -10566,7 +10332,6 @@
 		"callingCode": ["598"],
 		"capital": "Montevideo",
 		"altSpellings": ["UY", "Oriental Republic of Uruguay", "Rep\u00fablica Oriental del Uruguay"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -10608,7 +10373,6 @@
 		"callingCode": ["1"],
 		"capital": "Washington D.C.",
 		"altSpellings": ["US", "USA", "United States of America"],
-		"relevance": "3.5",
 		"region": "Americas",
 		"subregion": "Northern America",
 		"languages": {
@@ -10654,7 +10418,6 @@
 		"callingCode": ["998"],
 		"capital": "Tashkent",
 		"altSpellings": ["UZ", "Republic of Uzbekistan", "O\u2018zbekiston Respublikasi", "\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u0438"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {
@@ -10701,7 +10464,6 @@
 		"callingCode": ["3906698", "379"],
 		"capital": "Vatican City",
 		"altSpellings": ["VA", "Vatican City State", "Stato della Citt\u00e0 del Vaticano"],
-		"relevance": "0.5",
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -10744,7 +10506,6 @@
 		"callingCode": ["1784"],
 		"capital": "Kingstown",
 		"altSpellings": ["VC"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -10786,7 +10547,6 @@
 		"callingCode": ["58"],
 		"capital": "Caracas",
 		"altSpellings": ["VE", "Bolivarian Republic of Venezuela", "Rep\u00fablica Bolivariana de Venezuela"],
-		"relevance": "0",
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -10828,7 +10588,6 @@
 		"callingCode": ["1284"],
 		"capital": "Road Town",
 		"altSpellings": ["VG"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -10870,7 +10629,6 @@
 		"callingCode": ["1340"],
 		"capital": "Charlotte Amalie",
 		"altSpellings": ["VI"],
-		"relevance": "0.5",
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -10912,7 +10670,6 @@
 		"callingCode": ["84"],
 		"capital": "Hanoi",
 		"altSpellings": ["VN", "Socialist Republic of Vietnam", "C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam"],
-		"relevance": "1.5",
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -10962,7 +10719,6 @@
 		"callingCode": ["678"],
 		"capital": "Port Vila",
 		"altSpellings": ["VU", "Republic of Vanuatu", "Ripablik blong Vanuatu", "R\u00e9publique de Vanuatu"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Melanesia",
 		"languages": {
@@ -11006,7 +10762,6 @@
 		"callingCode": ["681"],
 		"capital": "Mata-Utu",
 		"altSpellings": ["WF", "Territory of the Wallis and Futuna Islands", "Territoire des \u00eeles Wallis et Futuna"],
-		"relevance": "0.5",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -11052,7 +10807,6 @@
 		"callingCode": ["685"],
 		"capital": "Apia",
 		"altSpellings": ["WS", "Independent State of Samoa", "Malo Sa\u02bboloto Tuto\u02bbatasi o S\u0101moa"],
-		"relevance": "0",
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -11095,7 +10849,6 @@
 		"callingCode": ["967"],
 		"capital": "Sana'a",
 		"altSpellings": ["YE", "Yemeni Republic", "al-Jumh\u016briyyah al-Yamaniyyah"],
-		"relevance": "0",
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -11177,7 +10930,6 @@
 		"callingCode": ["27"],
 		"capital": "Pretoria",
 		"altSpellings": ["ZA", "RSA", "Suid-Afrika", "Republic of South Africa"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
@@ -11229,7 +10981,6 @@
 		"callingCode": ["260"],
 		"capital": "Lusaka",
 		"altSpellings": ["ZM", "Republic of Zambia"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -11327,7 +11078,6 @@
 		"callingCode": ["263"],
 		"capital": "Harare",
 		"altSpellings": ["ZW", "Republic of Zimbabwe"],
-		"relevance": "0",
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
