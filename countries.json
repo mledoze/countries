@@ -9088,10 +9088,10 @@
 	{
 		"name": {
 			"common": "South Sudan",
-			"official": "Republic of South SudanSouth Sudan",
+			"official": "Republic of South Sudan",
 			"native": {
 				"eng": {
-					"official": "Republic of South SudanSouth Sudan",
+					"official": "Republic of South Sudan",
 					"common": "South Sudan"
 				}
 			}
@@ -9110,15 +9110,15 @@
 			"eng": "English"
 		},
 		"translations": {
-			"deu": {"official": "Republic of South Sudan SudanSouth", "common": "S\u00fcdsudan"},
-			"fra": {"official": "R\u00e9publique du Sud- Soudan SudanSouth", "common": "Soudan du Sud"},
-			"hrv": {"official": "Republika Ju\u017eni Sudan SudanSouth", "common": "Ju\u017eni Sudan"},
-			"ita": {"official": "Repubblica del Sud Sudan SudanSouth", "common": "Sudan del sud"},
-			"jpn": {"official": "\u5357SudanSouth\u30b9\u30fc\u30c0\u30f3\u5171\u548c\u56fd", "common": "\u5357\u30b9\u30fc\u30c0\u30f3"},
-			"nld": {"official": "Republiek Zuid -Soedan SudanSouth", "common": "Zuid-Soedan"},
-			"por": {"official": "Rep\u00fablica do Sul do Sud\u00e3o SudanSouth", "common": "Sud\u00e3o do Sul"},
-			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042e\u0436\u043d\u0430\u044f SudanSouth \u0421\u0443\u0434\u0430\u043d", "common": "\u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u0434\u0430\u043d"},
-			"spa": {"official": "Rep\u00fablica de Sud\u00e1n del Sur SudanSouth", "common": "Sud\u00e1n del Sur"}
+			"deu": {"official": "Republik S\u00fcdsudan", "common": "S\u00fcdsudan"},
+			"fra": {"official": "R\u00e9publique du Soudan du Sud", "common": "Soudan du Sud"},
+			"hrv": {"official": "Republika Ju\u017eni Sudan", "common": "Ju\u017eni Sudan"},
+			"ita": {"official": "Repubblica del Sudan del Sud", "common": "Sudan del sud"},
+			"jpn": {"official": "\u5357\u30b9\u30fc\u30c0\u30f3\u5171\u548c\u56fd", "common": "\u5357\u30b9\u30fc\u30c0\u30f3"},
+			"nld": {"official": "Republiek Zuid-Soedan", "common": "Zuid-Soedan"},
+			"por": {"official": "Rep\u00fablica do Sud\u00e3o do Sul", "common": "Sud\u00e3o do Sul"},
+			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u0434\u0430\u043d", "common": "\u042e\u0436\u043d\u044b\u0439 \u0421\u0443\u0434\u0430\u043d"},
+			"spa": {"official": "Rep\u00fablica de Sud\u00e1n del Sur", "common": "Sud\u00e1n del Sur"}
 		},
 		"latlng": [7, 30],
 		"demonym": "South Sudanese",
