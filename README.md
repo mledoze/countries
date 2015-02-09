@@ -18,7 +18,6 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - calling code(s) (`callingCode`)
  - capital city (`capital`)
  - alternative spellings (`altSpellings`)
- - relevance
  - region
  - subregion
  - list of official languages (`languages`)
@@ -116,11 +115,6 @@ See an example for [Germany](https://github.com/mledoze/countries/blob/bb61a1cdd
 - { name: { common: Afghanistan, official: 'Islamic Republic of Afghanistan', native: { prs: { official: 'جمهوری اسلامی افغانستان', common: افغانستان }, pus: { official: 'د افغانستان اسلامي جمهوریت', common: افغانستان }, tuk: { official: 'Owganystan Yslam Respublikasy', common: Owganystan } } }, tld: [.af], cca2: AF, ccn3: '004', cca3: AFG, currency: [AFN], callingCode: ['93'], capital: Kabul, altSpellings: [AF, Afġānistān], region: Asia, subregion: 'Southern Asia', languages: { prs: Dari, pus: Pashto, tuk: Turkmen }, translations: { cym: { official: 'Islamic Republic of Afghanistan', common: Affganistan }, deu: { official: 'Islamischen Republik Afghanistan', common: Afghanistan }, fra: { official: 'République islamique d''Afghanistan', common: Afghanistan }, hrv: { official: 'Islamska Republika Afganistan', common: Afganistan }, ita: { official: 'Repubblica islamica dell''Afghanistan', common: Afghanistan }, jpn: { official: 'アフガニスタン·イスラム共和国', common: アフガニスタン }, nld: { official: 'Islamitische Republiek Afghanistan', common: Afghanistan }, por: { official: 'República Islâmica do Afeganistão', common: Afeganistão }, rus: { official: 'Исламская Республика Афганистан', common: Афганистан }, spa: { official: 'República Islámica de Afganistán', common: Afganistán } }, latlng: [33, 65], demonym: Afghan, landlocked: true, borders: [IRN, PAK, TKM, UZB, TJK, CHN], area: 652230 }
 - { name: { common: Angola, official: 'Republic of Angola', native: { por: { official: 'República de Angola', common: Angola } } }, tld: [.ao], cca2: AO, ccn3: '024', cca3: AGO, currency: [AOA], callingCode: ['244'], capital: Luanda, altSpellings: [AO, 'República de Angola', 'ʁɛpublika de an''ɡɔla'], region: Africa, subregion: 'Middle Africa', languages: { por: Portuguese }, translations: { cym: { official: 'Republic of Angola', common: Angola }, deu: { official: 'Republik Angola', common: Angola }, fra: { official: 'République d''Angola', common: Angola }, hrv: { official: 'Republika Angola', common: Angola }, ita: { official: 'Repubblica dell''Angola', common: Angola }, jpn: { official: アンゴラ共和国, common: アンゴラ }, nld: { official: 'Republiek Angola', common: Angola }, por: { official: 'República de Angola', common: Angola }, rus: { official: 'Республика Ангола', common: Ангола }, spa: { official: 'República de Angola', common: Angola } }, latlng: [-12.5, 18.5], demonym: Angolan, landlocked: false, borders: [COG, COD, ZMB, NAM], area: 1246700 }
 ```
-
-#### About the relevance factor
-To understand the usefulness of the relevance parameter, please read this:
-- http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/
-- http://baymard.com/labs/country-selector
 
 ## Customising the output
 The data files provided in the `dist` directory include all available fields, but is also possible to build a custom version of the data with certain fields excluded.
