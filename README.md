@@ -7,7 +7,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  	 - `official` - official name in english
  	 - `native` - list of all native names
  	 	- key: three-letter ISO 639-3 language code
-	 	- value: name object 
+	 	- value: name object
 	 		+ key: official - official name translation
 	 		+ key: common - common name translation
  - country code top-level domain (`tld`)
@@ -25,7 +25,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  	- value: name of the language in english
  - list of name translations (`translations`)
  	- key: three-letter ISO 639-3 language code
- 	- value: name object 
+ 	- value: name object
  		+ key: official - official name translation
  		+ key: common - common name translation
  - latitude and longitude (`latlng`)
@@ -161,8 +161,6 @@ Please refer to [CONTRIBUTING](https://github.com/mledoze/countries/blob/master/
 
 ## Sources
 http://www.currency-iso.org/ for currency codes.
-
-Relevance are inspired by https://github.com/JamieAppleseed/selectToAutocomplete.
 
 Region and subregion are taken from https://github.com/hexorx/countries.
 
