@@ -1782,7 +1782,8 @@
 			"nld": {"official": "Centraal-Afrikaanse Republiek", "common": "Centraal-Afrikaanse Republiek"},
 			"por": {"official": "Rep\u00fablica Centro- Africano", "common": "Rep\u00fablica Centro-Africana"},
 			"rus": {"official": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e-\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"},
-			"spa": {"official": "Rep\u00fablica Centroafricana", "common": "Rep\u00fablica Centroafricana"}
+			"spa": {"official": "Rep\u00fablica Centroafricana", "common": "Rep\u00fablica Centroafricana"},
+			"fin": {"official": "Keski-Afrikan tasavalta", "common": "Keski-Afrikan tasavalta"}
 		},
 		"latlng": [7, 21],
 		"demonym": "Central African",
@@ -1830,7 +1831,8 @@
 			"nld": {"official": "Canada", "common": "Canada"},
 			"por": {"official": "Canad\u00e1", "common": "Canad\u00e1"},
 			"rus": {"official": "\u041a\u0430\u043d\u0430\u0434\u0430", "common": "\u041a\u0430\u043d\u0430\u0434\u0430"},
-			"spa": {"official": "Canad\u00e1", "common": "Canad\u00e1"}
+			"spa": {"official": "Canad\u00e1", "common": "Canad\u00e1"},
+			"fin": {"official": "Kanada", "common": "Kanada"}
 		},
 		"latlng": [60, -95],
 		"demonym": "Canadian",
@@ -1873,7 +1875,8 @@
 			"nld": {"official": "Grondgebied van de Eilanden Cocos ( Keeling )", "common": "Cocoseilanden"},
 			"por": {"official": "Territ\u00f3rio dos Cocos (Keeling)", "common": "Ilhas Cocos (Keeling)"},
 			"rus": {"official": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 (\u041a\u0438\u043b\u0438\u043d\u0433) \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
-			"spa": {"official": "Territorio de los (Keeling) Islas Cocos", "common": "Islas Cocos o Islas Keeling"}
+			"spa": {"official": "Territorio de los (Keeling) Islas Cocos", "common": "Islas Cocos o Islas Keeling"},
+			"fin": {"official": "Kookossaaret", "common": "Kookossaaret"}
 		},
 		"latlng": [-12.5, 96.83333333],
 		"demonym": "Cocos Islander",
@@ -1930,7 +1933,8 @@
 			"nld": {"official": "Zwitserse Confederatie", "common": "Zwitserland"},
 			"por": {"official": "Confedera\u00e7\u00e3o Su\u00ed\u00e7a", "common": "Su\u00ed\u00e7a"},
 			"rus": {"official": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u0430\u044f \u041a\u043e\u043d\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f", "common": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f"},
-			"spa": {"official": "Confederaci\u00f3n Suiza", "common": "Suiza"}
+			"spa": {"official": "Confederaci\u00f3n Suiza", "common": "Suiza"},
+			"fin": {"official": "Sveitsin valaliitto", "common": "Sveitsi"}
 		},
 		"latlng": [47, 8],
 		"demonym": "Swiss",
@@ -1973,7 +1977,8 @@
 			"nld": {"official": "Republiek Chili", "common": "Chili"},
 			"por": {"official": "Rep\u00fablica do Chile", "common": "Chile"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0438\u043b\u0438", "common": "\u0427\u0438\u043b\u0438"},
-			"spa": {"official": "Rep\u00fablica de Chile", "common": "Chile"}
+			"spa": {"official": "Rep\u00fablica de Chile", "common": "Chile"},
+			"fin": {"official": "Chilen tasavalta", "common": "Chile"}
 		},
 		"latlng": [-30, -71],
 		"demonym": "Chilean",
@@ -2016,7 +2021,8 @@
 			"nld": {"official": "Volksrepubliek China", "common": "China"},
 			"por": {"official": "Rep\u00fablica Popular da China", "common": "China"},
 			"rus": {"official": "\u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u0442\u0430\u0439", "common": "\u041a\u0438\u0442\u0430\u0439"},
-			"spa": {"official": "Rep\u00fablica Popular de China", "common": "China"}
+			"spa": {"official": "Rep\u00fablica Popular de China", "common": "China"},
+			"fin": {"official": "Kiinan kansantasavalta", "common": "Kiina"}
 		},
 		"latlng": [35, 105],
 		"demonym": "Chinese",
@@ -2058,7 +2064,8 @@
 			"nld": {"official": "Republiek Ivoorkust", "common": "Ivoorkust"},
 			"por": {"official": "Rep\u00fablica da C\u00f4te d' Ivoire", "common": "Costa do Marfim"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0442- \u0434'\u0418\u0432\u0443\u0430\u0440\u0435", "common": "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"},
-			"spa": {"official": "Rep\u00fablica de C\u00f4te d' Ivoire", "common": "Costa de Marfil"}
+			"spa": {"official": "Rep\u00fablica de C\u00f4te d' Ivoire", "common": "Costa de Marfil"},
+			"fin": {"official": "Norsunluurannikon tasavalta", "common": "Norsunluurannikko"}
 		},
 		"latlng": [8, -5],
 		"demonym": "Ivorian",
@@ -2106,7 +2113,8 @@
 			"nld": {"official": "Republiek Kameroen", "common": "Kameroen"},
 			"por": {"official": "Rep\u00fablica dos Camar\u00f5es", "common": "Camar\u00f5es"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043c\u0435\u0440\u0443\u043d", "common": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"},
-			"spa": {"official": "Rep\u00fablica de Camer\u00fan", "common": "Camer\u00fan"}
+			"spa": {"official": "Rep\u00fablica de Camer\u00fan", "common": "Camer\u00fan"},
+			"fin": {"official": "Kamerunin tasavalta", "common": "Kamerun"}
 		},
 		"latlng": [6, 12],
 		"demonym": "Cameroonian",
@@ -2169,7 +2177,8 @@
 			"nld": {"official": "Democratische Republiek Congo", "common": "Congo (DRC)"},
 			"por": {"official": "Rep\u00fablica Democr\u00e1tica do Congo", "common": "Rep\u00fablica Democr\u00e1tica do Congo"},
 			"rus": {"official": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e", "common": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"},
-			"spa": {"official": "Rep\u00fablica Democr\u00e1tica del Congo", "common": "Congo (Rep. Dem.)"}
+			"spa": {"official": "Rep\u00fablica Democr\u00e1tica del Congo", "common": "Congo (Rep. Dem.)"},
+			"fin": {"official": "Kongon demokraattinen tasavalta", "common": "Kongon demokraattinen tasavalta"}
 		},
 		"latlng": [0, 25],
 		"demonym": "Congolese",
@@ -2222,7 +2231,8 @@
 			"nld": {"official": "Republiek Congo", "common": "Congo"},
 			"por": {"official": "Rep\u00fablica do Congo", "common": "Congo"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e", "common": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"},
-			"spa": {"official": "Rep\u00fablica del Congo", "common": "Congo"}
+			"spa": {"official": "Rep\u00fablica del Congo", "common": "Congo"},
+			"fin": {"official": "Kongon tasavalta", "common": "Kongo-Brazzaville"}
 		},
 		"latlng": [-1, 15],
 		"demonym": "Congolese",
@@ -2270,7 +2280,8 @@
 			"nld": {"official": "Cook eilanden", "common": "Cookeilanden"},
 			"por": {"official": "Ilhas Cook", "common": "Ilhas Cook"},
 			"rus": {"official": "\u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0443\u043a\u0430", "common": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0443\u043a\u0430"},
-			"spa": {"official": "Islas Cook", "common": "Islas Cook"}
+			"spa": {"official": "Islas Cook", "common": "Islas Cook"},
+			"fin": {"official": "Cookinsaaret", "common": "Cookinsaaret"}
 		},
 		"latlng": [-21.23333333, -159.76666666],
 		"demonym": "Cook Islander",
@@ -2313,7 +2324,8 @@
 			"nld": {"official": "Republiek Colombia", "common": "Colombia"},
 			"por": {"official": "Rep\u00fablica da Col\u00f4mbia", "common": "Col\u00f4mbia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f", "common": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica de Colombia", "common": "Colombia"}
+			"spa": {"official": "Rep\u00fablica de Colombia", "common": "Colombia"},
+			"fin": {"official": "Kolumbian tasavalta", "common": "Kolumbia"}
 		},
 		"latlng": [4, -72],
 		"demonym": "Colombian",
@@ -2366,7 +2378,8 @@
 			"nld": {"official": "Unie van de Comoren", "common": "Comoren"},
 			"por": {"official": "Uni\u00e3o das Comores", "common": "Comores"},
 			"rus": {"official": "\u0421\u043e\u044e\u0437 \u041a\u043e\u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u041e\u0441\u0442\u0440\u043e\u0432\u043e\u0432", "common": "\u041a\u043e\u043c\u043e\u0440\u044b"},
-			"spa": {"official": "Uni\u00f3n de las Comoras", "common": "Comoras"}
+			"spa": {"official": "Uni\u00f3n de las Comoras", "common": "Comoras"},
+			"fin": {"official": "Komorien liitto", "common": "Komorit"}
 		},
 		"latlng": [-12.16666666, 44.25],
 		"demonym": "Comoran",
@@ -2409,7 +2422,8 @@
 			"nld": {"official": "Republiek van Cabo Verde", "common": "Kaapverdi\u00eb"},
 			"por": {"official": "Rep\u00fablica de Cabo Verde", "common": "Cabo Verde"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0431\u043e -\u0412\u0435\u0440\u0434\u0435", "common": "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435"},
-			"spa": {"official": "Rep\u00fablica de Cabo Verde", "common": "Cabo Verde"}
+			"spa": {"official": "Rep\u00fablica de Cabo Verde", "common": "Cabo Verde"},
+			"fin": {"official": "Kap Verden tasavalta", "common": "Kap Verde"}
 		},
 		"latlng": [16, -24],
 		"demonym": "Cape Verdian",
@@ -2452,7 +2466,8 @@
 			"nld": {"official": "Republiek Costa Rica", "common": "Costa Rica"},
 			"por": {"official": "Rep\u00fablica da Costa Rica", "common": "Costa Rica"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430", "common": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"},
-			"spa": {"official": "Rep\u00fablica de Costa Rica", "common": "Costa Rica"}
+			"spa": {"official": "Rep\u00fablica de Costa Rica", "common": "Costa Rica"},
+			"fin": {"official": "Costa Rican tasavalta", "common": "Costa Rica"}
 		},
 		"latlng": [10, -84],
 		"demonym": "Costa Rican",
@@ -2495,7 +2510,8 @@
 			"nld": {"official": "Republiek Cuba", "common": "Cuba"},
 			"por": {"official": "Rep\u00fablica de Cuba", "common": "Cuba"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0443\u0431\u0430", "common": "\u041a\u0443\u0431\u0430"},
-			"spa": {"official": "Rep\u00fablica de Cuba", "common": "Cuba"}
+			"spa": {"official": "Rep\u00fablica de Cuba", "common": "Cuba"},
+			"fin": {"official": "Kuuban tasavalta", "common": "Kuuba"}
 		},
 		"latlng": [21.5, -80],
 		"demonym": "Cuban",
@@ -2541,7 +2557,8 @@
 		"translations": {
 			"nld": {"official": "Land Cura\u00e7ao", "common": "Cura\u00e7ao"},
 			"por": {"official": "Pa\u00eds de Cura\u00e7ao", "common": "ilha da Cura\u00e7\u00e3o"},
-			"rus": {"official": "\u0421\u0442\u0440\u0430\u043d\u0430 \u041a\u044e\u0440\u0430\u0441\u0430\u043e", "common": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"}
+			"rus": {"official": "\u0421\u0442\u0440\u0430\u043d\u0430 \u041a\u044e\u0440\u0430\u0441\u0430\u043e", "common": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"},
+			"fin": {"official": "Cura\u00e7ao", "common": "Cura\u00e7ao"}
 		},
 		"latlng": [12.116667, -68.933333],
 		"demonym": "Dutch",
@@ -2584,7 +2601,8 @@
 			"nld": {"official": "Grondgebied van Christmas Island", "common": "Christmaseiland"},
 			"por": {"official": "Territ\u00f3rio da Ilha Christmas", "common": "Ilha do Natal"},
 			"rus": {"official": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430", "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430"},
-			"spa": {"official": "Territorio de la Isla de Navidad", "common": "Isla de Navidad"}
+			"spa": {"official": "Territorio de la Isla de Navidad", "common": "Isla de Navidad"},
+			"fin": {"official": "Joulusaaren alue", "common": "Joulusaari"}
 		},
 		"latlng": [-10.5, 105.66666666],
 		"demonym": "Christmas Island",
@@ -2627,7 +2645,8 @@
 			"nld": {"official": "Caymaneilanden", "common": "Caymaneilanden"},
 			"por": {"official": "Ilhas Cayman", "common": "Ilhas Caim\u00e3o"},
 			"rus": {"official": "\u041a\u0430\u0439\u043c\u0430\u043d\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u041a\u0430\u0439\u043c\u0430\u043d\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
-			"spa": {"official": "Islas Caim\u00e1n", "common": "Islas Caim\u00e1n"}
+			"spa": {"official": "Islas Caim\u00e1n", "common": "Islas Caim\u00e1n"},
+			"fin": {"official": "Caymansaaret", "common": "Caymansaaret"}
 		},
 		"latlng": [19.5, -80.5],
 		"demonym": "Caymanian",
@@ -2675,7 +2694,8 @@
 			"nld": {"official": "Republiek Cyprus", "common": "Cyprus"},
 			"por": {"official": "Rep\u00fablica de Chipre", "common": "Chipre"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043f\u0440", "common": "\u041a\u0438\u043f\u0440"},
-			"spa": {"official": "Rep\u00fablica de Chipre", "common": "Chipre"}
+			"spa": {"official": "Rep\u00fablica de Chipre", "common": "Chipre"},
+			"fin": {"official": "Kyproksen tasavalta", "common": "Kypros"}
 		},
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
@@ -2723,7 +2743,8 @@
 			"nld": {"official": "Tsjechische Republiek", "common": "Tsjechi\u00eb"},
 			"por": {"official": "Rep\u00fablica Checa", "common": "Rep\u00fablica Checa"},
 			"rus": {"official": "\u0427\u0435\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0427\u0435\u0445\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica Checa", "common": "Rep\u00fablica Checa"}
+			"spa": {"official": "Rep\u00fablica Checa", "common": "Rep\u00fablica Checa"},
+			"fin": {"official": "T\u0161ekin tasavalta", "common": "T\u0161ekki"}
 		},
 		"latlng": [49.75, 15.5],
 		"demonym": "Czech",
@@ -2765,7 +2786,8 @@
 			"nld": {"official": "Bondsrepubliek Duitsland", "common": "Duitsland"},
 			"por": {"official": "Rep\u00fablica Federal da Alemanha", "common": "Alemanha"},
 			"rus": {"official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f", "common": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica Federal de Alemania", "common": "Alemania"}
+			"spa": {"official": "Rep\u00fablica Federal de Alemania", "common": "Alemania"},
+			"fin": {"official": "Saksan liittotasavalta", "common": "Saksa"}
 		},
 		"latlng": [51, 9],
 		"demonym": "German",
