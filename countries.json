@@ -8581,7 +8581,7 @@
 		"landlocked": false,
 		"borders": ["BGR", "HUN", "MDA", "SRB", "UKR"],
 		"area": 238391,
-		"ioc": ""
+		"ioc": "ROU"
 	},
 	{
 		"name": {
@@ -8623,7 +8623,7 @@
 		"landlocked": false,
 		"borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"],
 		"area": 17098242,
-		"ioc": ""
+		"ioc": "RUS"
 	},
 	{
 		"name": {
@@ -8675,7 +8675,7 @@
 		"landlocked": true,
 		"borders": ["BDI", "COD", "TZA", "UGA"],
 		"area": 26338,
-		"ioc": ""
+		"ioc": "RWA"
 	},
 	{
 		"name": {
@@ -11208,7 +11208,7 @@
 		"landlocked": false,
 		"borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"],
 		"area": 1221037,
-		"ioc": ""
+		"ioc": "RSA"
 	},
 	{
 		"name": {
