@@ -4398,7 +4398,7 @@
 		"landlocked": false,
 		"borders": ["CHN"],
 		"area": 1104,
-		"ioc": ""
+		"ioc": "HKG"
 	},
 	{
 		"name": {
@@ -4482,7 +4482,7 @@
 		"landlocked": false,
 		"borders": ["GTM", "SLV", "NIC"],
 		"area": 112492,
-		"ioc": ""
+		"ioc": "HON"
 	},
 	{
 		"name": {
@@ -4572,7 +4572,7 @@
 		"landlocked": false,
 		"borders": ["DOM"],
 		"area": 27750,
-		"ioc": ""
+		"ioc": "HAI"
 	},
 	{
 		"name": {
@@ -4614,7 +4614,7 @@
 		"landlocked": true,
 		"borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"],
 		"area": 93028,
-		"ioc": ""
+		"ioc": "HUN"
 	},
 	{
 		"name": {
