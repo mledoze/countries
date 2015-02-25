@@ -4656,7 +4656,7 @@
 		"landlocked": false,
 		"borders": ["TLS", "MYS", "PNG"],
 		"area": 1904569,
-		"ioc": ""
+		"ioc": "INA"
 	},
 	{
 		"name": {
@@ -4750,7 +4750,7 @@
 		"landlocked": false,
 		"borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
 		"area": 3287590,
-		"ioc": ""
+		"ioc": "IND"
 	},
 	{
 		"name": {
@@ -4840,7 +4840,7 @@
 		"landlocked": false,
 		"borders": ["GBR"],
 		"area": 70273,
-		"ioc": ""
+		"ioc": "IRL"
 	},
 	{
 		"name": {
@@ -4881,7 +4881,7 @@
 		"landlocked": false,
 		"borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"],
 		"area": 1648195,
-		"ioc": ""
+		"ioc": "IRI"
 	},
 	{
 		"name": {
@@ -4933,7 +4933,7 @@
 		"landlocked": false,
 		"borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"],
 		"area": 438317,
-		"ioc": ""
+		"ioc": "IRQ"
 	},
 	{
 		"name": {
@@ -4975,7 +4975,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 103000,
-		"ioc": ""
+		"ioc": "ISL"
 	},
 	{
 		"name": {
@@ -5022,7 +5022,7 @@
 		"landlocked": false,
 		"borders": ["EGY", "JOR", "LBN", "SYR"],
 		"area": 20770,
-		"ioc": ""
+		"ioc": "ISR"
 	},
 	{
 		"name": {
@@ -5069,7 +5069,7 @@
 		"landlocked": false,
 		"borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
 		"area": 301336,
-		"ioc": ""
+		"ioc": "ITA"
 	},
 	{
 		"name": {
@@ -10849,7 +10849,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 151,
-		"ioc": ""
+		"ioc": "IVB"
 	},
 	{
 		"name": {
@@ -10891,7 +10891,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 347,
-		"ioc": ""
+		"ioc": "ISV"
 	},
 	{
 		"name": {
