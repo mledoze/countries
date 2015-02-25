@@ -33,6 +33,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - landlocked status (`landlocked`)
  - land borders (`borders`)
  - land area in km² (`area`)
+ - code International Olympic Committee (`ioc`)
 
 #### Additional data
 The [data](https://github.com/mledoze/countries/tree/master/data) folder contains additional data such as the countries
