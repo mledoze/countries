@@ -2733,7 +2733,7 @@
 		"landlocked": false,
 		"borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
 		"area": 357114,
-		"ioc": ""
+		"ioc": "GER"
 	},
 	{
 		"name": {
@@ -3606,7 +3606,7 @@
 		"landlocked": false,
 		"borders": ["CMR", "COG", "GNQ"],
 		"area": 267668,
-		"ioc": ""
+		"ioc": "GAB"
 	},
 	{
 		"name": {
@@ -3648,7 +3648,7 @@
 		"landlocked": false,
 		"borders": ["IRL"],
 		"area": 242900,
-		"ioc": ""
+		"ioc": "GBR"
 	},
 	{
 		"name": {
@@ -3690,7 +3690,7 @@
 		"landlocked": false,
 		"borders": ["ARM", "AZE", "RUS", "TUR"],
 		"area": 69700,
-		"ioc": ""
+		"ioc": "GEO"
 	},
 	{
 		"name": {
@@ -3784,7 +3784,7 @@
 		"landlocked": false,
 		"borders": ["BFA", "CIV", "TGO"],
 		"area": 238533,
-		"ioc": ""
+		"ioc": "GHA"
 	},
 	{
 		"name": {
@@ -3868,7 +3868,7 @@
 		"landlocked": false,
 		"borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"],
 		"area": 245857,
-		"ioc": ""
+		"ioc": "GUI"
 	},
 	{
 		"name": {
@@ -3952,7 +3952,7 @@
 		"landlocked": false,
 		"borders": ["SEN"],
 		"area": 10689,
-		"ioc": ""
+		"ioc": "GAM"
 	},
 	{
 		"name": {
@@ -3994,7 +3994,7 @@
 		"landlocked": false,
 		"borders": ["GIN", "SEN"],
 		"area": 36125,
-		"ioc": ""
+		"ioc": "GBS"
 	},
 	{
 		"name": {
@@ -4047,7 +4047,7 @@
 		"landlocked": false,
 		"borders": ["CMR", "GAB"],
 		"area": 28051,
-		"ioc": ""
+		"ioc": "GEQ"
 	},
 	{
 		"name": {
@@ -4089,7 +4089,7 @@
 		"landlocked": false,
 		"borders": ["ALB", "BGR", "TUR", "MKD"],
 		"area": 131990,
-		"ioc": ""
+		"ioc": "GRE"
 	},
 	{
 		"name": {
@@ -4131,7 +4131,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 344,
-		"ioc": ""
+		"ioc": "GRN"
 	},
 	{
 		"name": {
@@ -4215,7 +4215,7 @@
 		"landlocked": false,
 		"borders": ["BLZ", "SLV", "HND", "MEX"],
 		"area": 108889,
-		"ioc": ""
+		"ioc": "GUA"
 	},
 	{
 		"name": {
@@ -4309,7 +4309,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 549,
-		"ioc": ""
+		"ioc": "GUM"
 	},
 	{
 		"name": {
@@ -4351,7 +4351,7 @@
 		"landlocked": false,
 		"borders": ["BRA", "SUR", "VEN"],
 		"area": 214969,
-		"ioc": ""
+		"ioc": "GUY"
 	},
 	{
 		"name": {
