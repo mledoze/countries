@@ -7283,7 +7283,7 @@
 		"landlocked": false,
 		"borders": ["AGO", "BWA", "ZAF", "ZMB"],
 		"area": 825615,
-		"ioc": ""
+		"ioc": "NAM"
 	},
 	{
 		"name": {
@@ -7367,7 +7367,7 @@
 		"landlocked": true,
 		"borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
 		"area": 1267000,
-		"ioc": ""
+		"ioc": "NIG"
 	},
 	{
 		"name": {
@@ -7456,7 +7456,7 @@
 		"landlocked": false,
 		"borders": ["BEN", "CMR", "TCD", "NER"],
 		"area": 923768,
-		"ioc": ""
+		"ioc": "NGR"
 	},
 	{
 		"name": {
@@ -7498,7 +7498,7 @@
 		"landlocked": false,
 		"borders": ["CRI", "HND"],
 		"area": 130373,
-		"ioc": ""
+		"ioc": "NCA"
 	},
 	{
 		"name": {
@@ -7587,7 +7587,7 @@
 		"landlocked": false,
 		"borders": ["BEL", "DEU"],
 		"area": 41850,
-		"ioc": ""
+		"ioc": "NED"
 	},
 	{
 		"name": {
@@ -7639,7 +7639,7 @@
 		"landlocked": false,
 		"borders": ["FIN", "SWE", "RUS"],
 		"area": 323802,
-		"ioc": ""
+		"ioc": "NOR"
 	},
 	{
 		"name": {
@@ -7681,7 +7681,7 @@
 		"landlocked": true,
 		"borders": ["CHN", "IND"],
 		"area": 147181,
-		"ioc": ""
+		"ioc": "NEP"
 	},
 	{
 		"name": {
@@ -7728,7 +7728,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 21,
-		"ioc": ""
+		"ioc": "NRU"
 	},
 	{
 		"name": {
@@ -7780,7 +7780,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 270467,
-		"ioc": ""
+		"ioc": "NZL"
 	},
 	{
 		"name": {
