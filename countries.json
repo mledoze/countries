@@ -2781,7 +2781,7 @@
 		"landlocked": false,
 		"borders": ["ERI", "ETH", "SOM"],
 		"area": 23200,
-		"ioc": ""
+		"ioc": "DJI"
 	},
 	{
 		"name": {
@@ -2824,7 +2824,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 751,
-		"ioc": ""
+		"ioc": "DMA"
 	},
 	{
 		"name": {
@@ -2867,7 +2867,7 @@
 		"landlocked": false,
 		"borders": ["DEU"],
 		"area": 43094,
-		"ioc": ""
+		"ioc": "DEN"
 	},
 	{
 		"name": {
@@ -2910,7 +2910,7 @@
 		"landlocked": false,
 		"borders": ["HTI"],
 		"area": 48671,
-		"ioc": ""
+		"ioc": "DOM"
 	},
 	{
 		"name": {
