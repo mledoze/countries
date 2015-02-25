@@ -1750,7 +1750,7 @@
 		"landlocked": true,
 		"borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"],
 		"area": 622984,
-		"ioc": ""
+		"ioc": "CAF"
 	},
 	{
 		"name": {
@@ -1798,7 +1798,7 @@
 		"landlocked": false,
 		"borders": ["USA"],
 		"area": 9984670,
-		"ioc": ""
+		"ioc": "CAN"
 	},
 	{
 		"name": {
@@ -1941,7 +1941,7 @@
 		"landlocked": false,
 		"borders": ["ARG", "BOL", "PER"],
 		"area": 756102,
-		"ioc": ""
+		"ioc": "CHI"
 	},
 	{
 		"name": {
@@ -1984,7 +1984,7 @@
 		"landlocked": false,
 		"borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"],
 		"area": 9706961,
-		"ioc": ""
+		"ioc": "CHN"
 	},
 	{
 		"name": {
@@ -2026,7 +2026,7 @@
 		"landlocked": false,
 		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"],
 		"area": 322463,
-		"ioc": ""
+		"ioc": "CIV"
 	},
 	{
 		"name": {
@@ -2074,7 +2074,7 @@
 		"landlocked": false,
 		"borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"],
 		"area": 475442,
-		"ioc": ""
+		"ioc": "CMR"
 	},
 	{
 		"name": {
@@ -2137,7 +2137,7 @@
 		"landlocked": false,
 		"borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"],
 		"area": 2344858,
-		"ioc": ""
+		"ioc": "COD"
 	},
 	{
 		"name": {
@@ -2190,7 +2190,7 @@
 		"landlocked": false,
 		"borders": ["AGO", "CMR", "CAF", "COD", "GAB"],
 		"area": 342000,
-		"ioc": ""
+		"ioc": "CGO"
 	},
 	{
 		"name": {
@@ -2238,7 +2238,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 236,
-		"ioc": ""
+		"ioc": "COK"
 	},
 	{
 		"name": {
@@ -2281,7 +2281,7 @@
 		"landlocked": false,
 		"borders": ["BRA", "ECU", "PAN", "PER", "VEN"],
 		"area": 1141748,
-		"ioc": ""
+		"ioc": "COL"
 	},
 	{
 		"name": {
@@ -2334,7 +2334,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 1862,
-		"ioc": ""
+		"ioc": "COM"
 	},
 	{
 		"name": {
@@ -2377,7 +2377,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 4033,
-		"ioc": ""
+		"ioc": "CPV"
 	},
 	{
 		"name": {
@@ -2463,7 +2463,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 109884,
-		"ioc": ""
+		"ioc": "CUB"
 	},
 	{
 		"name": {
@@ -2595,7 +2595,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 264,
-		"ioc": ""
+		"ioc": "CAY"
 	},
 	{
 		"name": {
@@ -2643,7 +2643,7 @@
 		"landlocked": false,
 		"borders": ["GBR"],
 		"area": 9251,
-		"ioc": ""
+		"ioc": "CYP"
 	},
 	{
 		"name": {
@@ -2691,7 +2691,7 @@
 		"landlocked": true,
 		"borders": ["AUT", "DEU", "POL", "SVK"],
 		"area": 78865,
-		"ioc": ""
+		"ioc": "CZE"
 	},
 	{
 		"name": {
@@ -4525,7 +4525,7 @@
 		"landlocked": false,
 		"borders": ["BIH", "HUN", "MNE", "SRB", "SVN"],
 		"area": 56594,
-		"ioc": ""
+		"ioc": "CRO"
 	},
 	{
 		"name": {
@@ -5436,7 +5436,7 @@
 		"landlocked": false,
 		"borders": ["LAO", "THA", "VNM"],
 		"area": 181035,
-		"ioc": ""
+		"ioc": "CAM"
 	},
 	{
 		"name": {
@@ -9823,7 +9823,7 @@
 		"landlocked": true,
 		"borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SSD"],
 		"area": 1284000,
-		"ioc": ""
+		"ioc": "CHA"
 	},
 	{
 		"name": {
