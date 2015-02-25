@@ -3339,7 +3339,7 @@
 		"landlocked": false,
 		"borders": ["NOR", "SWE", "RUS"],
 		"area": 338424,
-		"ioc": ""
+		"ioc": "FIN"
 	},
 	{
 		"name": {
@@ -3391,7 +3391,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 18272,
-		"ioc": ""
+		"ioc": "FIJ"
 	},
 	{
 		"name": {
@@ -3475,7 +3475,7 @@
 		"landlocked": false,
 		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
 		"area": 551695,
-		"ioc": ""
+		"ioc": "FRA"
 	},
 	{
 		"name": {
@@ -3564,7 +3564,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 702,
-		"ioc": ""
+		"ioc": "FSM"
 	},
 	{
 		"name": {
