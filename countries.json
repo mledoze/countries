@@ -43,7 +43,8 @@
 		"demonym": "Aruban",
 		"landlocked": false,
 		"borders": [],
-		"area": 180
+		"area": 180,
+		"ioc": "ARU"
 	},
 	{
 		"name": {
@@ -95,7 +96,8 @@
 		"demonym": "Afghan",
 		"landlocked": true,
 		"borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"],
-		"area": 652230
+		"area": 652230,
+		"ioc": "AFG"
 	},
 	{
 		"name": {
@@ -137,7 +139,8 @@
 		"demonym": "Angolan",
 		"landlocked": false,
 		"borders": ["COG", "COD", "ZMB", "NAM"],
-		"area": 1246700
+		"area": 1246700,
+		"ioc": "ANG"
 	},
 	{
 		"name": {
@@ -261,7 +264,8 @@
 		"demonym": "Albanian",
 		"landlocked": false,
 		"borders": ["MNE", "GRC", "MKD", "KOS"],
-		"area": 28748
+		"area": 28748,
+		"ioc": "ALB"
 	},
 	{
 		"name": {
@@ -303,7 +307,8 @@
 		"demonym": "Andorran",
 		"landlocked": true,
 		"borders": ["FRA", "ESP"],
-		"area": 468
+		"area": 468,
+		"ioc": "AND"
 	},
 	{
 		"name": {
@@ -391,7 +396,8 @@
 		"demonym": "Argentinean",
 		"landlocked": false,
 		"borders": ["BOL", "BRA", "CHL", "PRY", "URY"],
-		"area": 2780400
+		"area": 2780400,
+		"ioc": "ARG"
 	},
 	{
 		"name": {
@@ -438,7 +444,8 @@
 		"demonym": "Armenian",
 		"landlocked": true,
 		"borders": ["AZE", "GEO", "IRN", "TUR"],
-		"area": 29743
+		"area": 29743,
+		"ioc": "ARM"
 	},
 	{
 		"name": {
@@ -484,7 +491,8 @@
 		"demonym": "American Samoan",
 		"landlocked": false,
 		"borders": [],
-		"area": 199
+		"area": 199,
+		"ioc": "ASA"
 	},
 	{
 		"name": {
@@ -602,7 +610,8 @@
 		"demonym": "Antiguan, Barbudan",
 		"landlocked": false,
 		"borders": [],
-		"area": 442
+		"area": 442,
+		"ioc": "ANT"
 	},
 	{
 		"name": {
@@ -644,7 +653,8 @@
 		"demonym": "Australian",
 		"landlocked": false,
 		"borders": [],
-		"area": 7692024
+		"area": 7692024,
+		"ioc": "AUS"
 	},
 	{
 		"name": {
@@ -686,7 +696,8 @@
 		"demonym": "Austrian",
 		"landlocked": true,
 		"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
-		"area": 83871
+		"area": 83871,
+		"ioc": "AUT"
 	},
 	{
 		"name": {
@@ -733,7 +744,8 @@
 		"demonym": "Azerbaijani",
 		"landlocked": true,
 		"borders": ["ARM", "GEO", "IRN", "RUS", "TUR"],
-		"area": 86600
+		"area": 86600,
+		"ioc": "AZE"
 	},
 	{
 		"name": {
@@ -2889,7 +2901,8 @@
 		"demonym": "Algerian",
 		"landlocked": false,
 		"borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"],
-		"area": 2381741
+		"area": 2381741,
+		"ioc": "ALG"
 	},
 	{
 		"name": {
