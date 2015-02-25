@@ -2996,7 +2996,7 @@
 		"landlocked": false,
 		"borders": ["COL", "PER"],
 		"area": 276841,
-		"ioc": ""
+		"ioc": "ECU"
 	},
 	{
 		"name": {
@@ -3039,7 +3039,7 @@
 		"landlocked": false,
 		"borders": ["ISR", "LBY", "SDN"],
 		"area": 1002450,
-		"ioc": ""
+		"ioc": "EGY"
 	},
 	{
 		"name": {
@@ -3092,7 +3092,7 @@
 		"landlocked": false,
 		"borders": ["DJI", "ETH", "SDN"],
 		"area": 117600,
-		"ioc": ""
+		"ioc": "ERI"
 	},
 	{
 		"name": {
@@ -3206,7 +3206,7 @@
 		"landlocked": false,
 		"borders": ["AND", "FRA", "GIB", "PRT", "MAR"],
 		"area": 505992,
-		"ioc": ""
+		"ioc": "ESP"
 	},
 	{
 		"name": {
@@ -3249,7 +3249,7 @@
 		"landlocked": false,
 		"borders": ["LVA", "RUS"],
 		"area": 45227,
-		"ioc": ""
+		"ioc": "EST"
 	},
 	{
 		"name": {
@@ -3292,7 +3292,7 @@
 		"landlocked": true,
 		"borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"],
 		"area": 1104300,
-		"ioc": ""
+		"ioc": "ETH"
 	},
 	{
 		"name": {
@@ -9116,7 +9116,7 @@
 		"landlocked": false,
 		"borders": ["GTM", "HND"],
 		"area": 21041,
-		"ioc": ""
+		"ioc": "ESA"
 	},
 	{
 		"name": {
