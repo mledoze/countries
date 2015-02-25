@@ -82,7 +82,8 @@ GeoJSON outlines and flags in SVG format.
 	"demonym": "Austrian",
 	"landlocked": true,
 	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
-	"area": 83871
+	"area": 83871,
+	"ioc": "AUT"
 }
 ```
 
