@@ -6274,7 +6274,7 @@
 		"landlocked": false,
 		"borders": ["DZA", "ESH", "ESP"],
 		"area": 446550,
-		"ioc": ""
+		"ioc": "MAR"
 	},
 	{
 		"name": {
@@ -6316,7 +6316,7 @@
 		"landlocked": false,
 		"borders": ["FRA"],
 		"area": 2.02,
-		"ioc": ""
+		"ioc": "MON"
 	},
 	{
 		"name": {
@@ -6358,7 +6358,7 @@
 		"landlocked": true,
 		"borders": ["ROU", "UKR"],
 		"area": 33846,
-		"ioc": ""
+		"ioc": "MDA"
 	},
 	{
 		"name": {
@@ -6405,7 +6405,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 587041,
-		"ioc": ""
+		"ioc": "MAD"
 	},
 	{
 		"name": {
@@ -6447,7 +6447,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 300,
-		"ioc": ""
+		"ioc": "MDV"
 	},
 	{
 		"name": {
@@ -6489,7 +6489,7 @@
 		"landlocked": false,
 		"borders": ["BLZ", "GTM", "USA"],
 		"area": 1964375,
-		"ioc": ""
+		"ioc": "MEX"
 	},
 	{
 		"name": {
@@ -6536,7 +6536,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 181,
-		"ioc": ""
+		"ioc": "MHL"
 	},
 	{
 		"name": {
@@ -6578,7 +6578,7 @@
 		"landlocked": true,
 		"borders": ["ALB", "BGR", "GRC", "KOS", "SRB"],
 		"area": 25713,
-		"ioc": ""
+		"ioc": "MKD"
 	},
 	{
 		"name": {
@@ -6620,7 +6620,7 @@
 		"landlocked": true,
 		"borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"],
 		"area": 1240192,
-		"ioc": ""
+		"ioc": "MLI"
 	},
 	{
 		"name": {
@@ -6667,7 +6667,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 316,
-		"ioc": ""
+		"ioc": "MLT"
 	},
 	{
 		"name": {
@@ -6709,7 +6709,7 @@
 		"landlocked": false,
 		"borders": ["BGD", "CHN", "IND", "LAO", "THA"],
 		"area": 676578,
-		"ioc": ""
+		"ioc": "MYA"
 	},
 	{
 		"name": {
@@ -6751,7 +6751,7 @@
 		"landlocked": false,
 		"borders": ["ALB", "BIH", "HRV", "KOS", "SRB"],
 		"area": 13812,
-		"ioc": ""
+		"ioc": "MNE"
 	},
 	{
 		"name": {
@@ -6793,7 +6793,7 @@
 		"landlocked": true,
 		"borders": ["CHN", "RUS"],
 		"area": 1564110,
-		"ioc": ""
+		"ioc": "MGL"
 	},
 	{
 		"name": {
@@ -6887,7 +6887,7 @@
 		"landlocked": false,
 		"borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"],
 		"area": 801590,
-		"ioc": ""
+		"ioc": "MOZ"
 	},
 	{
 		"name": {
@@ -6929,7 +6929,7 @@
 		"landlocked": false,
 		"borders": ["DZA", "MLI", "SEN", "ESH"],
 		"area": 1030700,
-		"ioc": ""
+		"ioc": "MTN"
 	},
 	{
 		"name": {
@@ -7065,7 +7065,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 2040,
-		"ioc": ""
+		"ioc": "MRI"
 	},
 	{
 		"name": {
@@ -7112,7 +7112,7 @@
 		"landlocked": true,
 		"borders": ["MOZ", "TZA", "ZMB"],
 		"area": 118484,
-		"ioc": ""
+		"ioc": "MAW"
 	},
 	{
 		"name": {
@@ -7159,7 +7159,7 @@
 		"landlocked": false,
 		"borders": ["BRN", "IDN", "THA"],
 		"area": 330803,
-		"ioc": ""
+		"ioc": "MAS"
 	},
 	{
 		"name": {
