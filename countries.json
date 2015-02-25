@@ -5116,7 +5116,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 10991,
-		"ioc": ""
+		"ioc": "JAM"
 	},
 	{
 		"name": {
@@ -5210,7 +5210,7 @@
 		"landlocked": false,
 		"borders": ["IRQ", "ISR", "SAU", "SYR"],
 		"area": 89342,
-		"ioc": ""
+		"ioc": "JOR"
 	},
 	{
 		"name": {
@@ -5252,7 +5252,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 377930,
-		"ioc": ""
+		"ioc": "JPN"
 	},
 	{
 		"name": {
