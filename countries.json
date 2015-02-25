@@ -2367,7 +2367,8 @@
 		"demonym": "Costa Rican",
 		"landlocked": false,
 		"borders": ["NIC", "PAN"],
-		"area": 51100
+		"area": 51100,
+		"ioc": "CRC"
 	},
 	{
 		"name": {
