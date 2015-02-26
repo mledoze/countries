@@ -14,6 +14,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - code ISO 3166-1 alpha-2 (`cca2`)
  - code ISO 3166-1 numeric (`ccn3`)
  - code ISO 3166-1 alpha-3 (`cca3`)
+ - code International Olympic Committee (`cioc`)
  - ISO 4217 currency code(s) (`currency`)
  - calling code(s) (`callingCode`)
  - capital city (`capital`)
@@ -33,7 +34,6 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - landlocked status (`landlocked`)
  - land borders (`borders`)
  - land area in km² (`area`)
- - code International Olympic Committee (`ioc`)
 
 #### Additional data
 The [data](https://github.com/mledoze/countries/tree/master/data) folder contains additional data such as the countries
