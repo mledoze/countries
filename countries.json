@@ -18,6 +18,7 @@
 		"cca2": "AW",
 		"ccn3": "533",
 		"cca3": "ABW",
+		"ioc": "ARU",
 		"currency": ["AWG"],
 		"callingCode": ["297"],
 		"capital": "Oranjestad",
@@ -43,8 +44,7 @@
 		"demonym": "Aruban",
 		"landlocked": false,
 		"borders": [],
-		"area": 180,
-		"ioc": "ARU"
+		"area": 180
 	},
 	{
 		"name": {
@@ -69,6 +69,7 @@
 		"cca2": "AF",
 		"ccn3": "004",
 		"cca3": "AFG",
+		"ioc": "AFG",
 		"currency": ["AFN"],
 		"callingCode": ["93"],
 		"capital": "Kabul",
@@ -96,8 +97,7 @@
 		"demonym": "Afghan",
 		"landlocked": true,
 		"borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"],
-		"area": 652230,
-		"ioc": "AFG"
+		"area": 652230
 	},
 	{
 		"name": {
@@ -114,6 +114,7 @@
 		"cca2": "AO",
 		"ccn3": "024",
 		"cca3": "AGO",
+		"ioc": "ANG",
 		"currency": ["AOA"],
 		"callingCode": ["244"],
 		"capital": "Luanda",
@@ -139,8 +140,7 @@
 		"demonym": "Angolan",
 		"landlocked": false,
 		"borders": ["COG", "COD", "ZMB", "NAM"],
-		"area": 1246700,
-		"ioc": "ANG"
+		"area": 1246700
 	},
 	{
 		"name": {
@@ -157,6 +157,7 @@
 		"cca2": "AI",
 		"ccn3": "660",
 		"cca3": "AIA",
+		"ioc": "",
 		"currency": ["XCD"],
 		"callingCode": ["1264"],
 		"capital": "The Valley",
@@ -181,8 +182,7 @@
 		"demonym": "Anguillian",
 		"landlocked": false,
 		"borders": [],
-		"area": 91,
-		"ioc": ""
+		"area": 91
 	},
 	{
 		"name": {
@@ -199,6 +199,7 @@
 		"cca2": "AX",
 		"ccn3": "248",
 		"cca3": "ALA",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": ["358"],
 		"capital": "Mariehamn",
@@ -223,8 +224,7 @@
 		"demonym": "\u00c5landish",
 		"landlocked": false,
 		"borders": [],
-		"area": 1580,
-		"ioc": ""
+		"area": 1580
 	},
 	{
 		"name": {
@@ -241,6 +241,7 @@
 		"cca2": "AL",
 		"ccn3": "008",
 		"cca3": "ALB",
+		"ioc": "ALB",
 		"currency": ["ALL"],
 		"callingCode": ["355"],
 		"capital": "Tirana",
@@ -266,8 +267,7 @@
 		"demonym": "Albanian",
 		"landlocked": false,
 		"borders": ["MNE", "GRC", "MKD", "KOS"],
-		"area": 28748,
-		"ioc": "ALB"
+		"area": 28748
 	},
 	{
 		"name": {
@@ -284,6 +284,7 @@
 		"cca2": "AD",
 		"ccn3": "020",
 		"cca3": "AND",
+		"ioc": "AND",
 		"currency": ["EUR"],
 		"callingCode": ["376"],
 		"capital": "Andorra la Vella",
@@ -309,8 +310,7 @@
 		"demonym": "Andorran",
 		"landlocked": true,
 		"borders": ["FRA", "ESP"],
-		"area": 468,
-		"ioc": "AND"
+		"area": 468
 	},
 	{
 		"name": {
@@ -327,6 +327,7 @@
 		"cca2": "AE",
 		"ccn3": "784",
 		"cca3": "ARE",
+		"ioc": "UAE",
 		"currency": ["AED"],
 		"callingCode": ["971"],
 		"capital": "Abu Dhabi",
@@ -351,8 +352,7 @@
 		"demonym": "Emirati",
 		"landlocked": false,
 		"borders": ["OMN", "SAU"],
-		"area": 83600,
-		"ioc": "UAE"
+		"area": 83600
 	},
 	{
 		"name": {
@@ -373,6 +373,7 @@
 		"cca2": "AR",
 		"ccn3": "032",
 		"cca3": "ARG",
+		"ioc": "ARG",
 		"currency": ["ARS"],
 		"callingCode": ["54"],
 		"capital": "Buenos Aires",
@@ -399,8 +400,7 @@
 		"demonym": "Argentinean",
 		"landlocked": false,
 		"borders": ["BOL", "BRA", "CHL", "PRY", "URY"],
-		"area": 2780400,
-		"ioc": "ARG"
+		"area": 2780400
 	},
 	{
 		"name": {
@@ -421,6 +421,7 @@
 		"cca2": "AM",
 		"ccn3": "051",
 		"cca3": "ARM",
+		"ioc": "ARM",
 		"currency": ["AMD"],
 		"callingCode": ["374"],
 		"capital": "Yerevan",
@@ -447,8 +448,7 @@
 		"demonym": "Armenian",
 		"landlocked": true,
 		"borders": ["AZE", "GEO", "IRN", "TUR"],
-		"area": 29743,
-		"ioc": "ARM"
+		"area": 29743
 	},
 	{
 		"name": {
@@ -469,6 +469,7 @@
 		"cca2": "AS",
 		"ccn3": "016",
 		"cca3": "ASM",
+		"ioc": "ASA",
 		"currency": ["USD"],
 		"callingCode": ["1684"],
 		"capital": "Pago Pago",
@@ -494,8 +495,7 @@
 		"demonym": "American Samoan",
 		"landlocked": false,
 		"borders": [],
-		"area": 199,
-		"ioc": "ASA"
+		"area": 199
 	},
 	{
 		"name": {
@@ -507,6 +507,7 @@
 		"cca2": "AQ",
 		"ccn3": "010",
 		"cca3": "ATA",
+		"ioc": "",
 		"currency": [],
 		"callingCode": [],
 		"capital": "",
@@ -530,8 +531,7 @@
 		"demonym": "Antarctican",
 		"landlocked": false,
 		"borders": [],
-		"area": 14000000,
-		"ioc": ""
+		"area": 14000000
 	},
 	{
 		"name": {
@@ -548,6 +548,7 @@
 		"cca2": "TF",
 		"ccn3": "260",
 		"cca3": "ATF",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": [],
 		"capital": "Port-aux-Fran\u00e7ais",
@@ -572,8 +573,7 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": [],
-		"area": 7747,
-		"ioc": ""
+		"area": 7747
 	},
 	{
 		"name": {
@@ -590,6 +590,7 @@
 		"cca2": "AG",
 		"ccn3": "028",
 		"cca3": "ATG",
+		"ioc": "ANT",
 		"currency": ["XCD"],
 		"callingCode": ["1268"],
 		"capital": "Saint John's",
@@ -615,8 +616,7 @@
 		"demonym": "Antiguan, Barbudan",
 		"landlocked": false,
 		"borders": [],
-		"area": 442,
-		"ioc": "ANT"
+		"area": 442
 	},
 	{
 		"name": {
@@ -633,6 +633,7 @@
 		"cca2": "AU",
 		"ccn3": "036",
 		"cca3": "AUS",
+		"ioc": "AUS",
 		"currency": ["AUD"],
 		"callingCode": ["61"],
 		"capital": "Canberra",
@@ -658,8 +659,7 @@
 		"demonym": "Australian",
 		"landlocked": false,
 		"borders": [],
-		"area": 7692024,
-		"ioc": "AUS"
+		"area": 7692024
 	},
 	{
 		"name": {
@@ -676,6 +676,7 @@
 		"cca2": "AT",
 		"ccn3": "040",
 		"cca3": "AUT",
+		"ioc": "AUT",
 		"currency": ["EUR"],
 		"callingCode": ["43"],
 		"capital": "Vienna",
@@ -701,8 +702,7 @@
 		"demonym": "Austrian",
 		"landlocked": true,
 		"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
-		"area": 83871,
-		"ioc": "AUT"
+		"area": 83871
 	},
 	{
 		"name": {
@@ -723,6 +723,7 @@
 		"cca2": "AZ",
 		"ccn3": "031",
 		"cca3": "AZE",
+		"ioc": "AZE",
 		"currency": ["AZN"],
 		"callingCode": ["994"],
 		"capital": "Baku",
@@ -749,8 +750,7 @@
 		"demonym": "Azerbaijani",
 		"landlocked": true,
 		"borders": ["ARM", "GEO", "IRN", "RUS", "TUR"],
-		"area": 86600,
-		"ioc": "AZE"
+		"area": 86600
 	},
 	{
 		"name": {
@@ -771,6 +771,7 @@
 		"cca2": "BI",
 		"ccn3": "108",
 		"cca3": "BDI",
+		"ioc": "BDI",
 		"currency": ["BIF"],
 		"callingCode": ["257"],
 		"capital": "Bujumbura",
@@ -797,8 +798,7 @@
 		"demonym": "Burundian",
 		"landlocked": true,
 		"borders": ["COD", "RWA", "TZA"],
-		"area": 27834,
-		"ioc": "BDI"
+		"area": 27834
 	},
 	{
 		"name": {
@@ -823,6 +823,7 @@
 		"cca2": "BE",
 		"ccn3": "056",
 		"cca3": "BEL",
+		"ioc": "BEL",
 		"currency": ["EUR"],
 		"callingCode": ["32"],
 		"capital": "Brussels",
@@ -850,8 +851,7 @@
 		"demonym": "Belgian",
 		"landlocked": false,
 		"borders": ["FRA", "DEU", "LUX", "NLD"],
-		"area": 30528,
-		"ioc": "BEL"
+		"area": 30528
 	},
 	{
 		"name": {
@@ -868,6 +868,7 @@
 		"cca2": "BJ",
 		"ccn3": "204",
 		"cca3": "BEN",
+		"ioc": "BEN",
 		"currency": ["XOF"],
 		"callingCode": ["229"],
 		"capital": "Porto-Novo",
@@ -893,8 +894,7 @@
 		"demonym": "Beninese",
 		"landlocked": false,
 		"borders": ["BFA", "NER", "NGA", "TGO"],
-		"area": 112622,
-		"ioc": "BEN"
+		"area": 112622
 	},
 	{
 		"name": {
@@ -911,6 +911,7 @@
 		"cca2": "BQ",
 		"ccn3": "535",
 		"cca3": "BES",
+		"ioc": "",
 		"currency": ["USD"],
 		"callingCode": ["5997"],
 		"capital": "Kralendijk",
@@ -928,8 +929,7 @@
 		"demonym": "Dutch",
 		"landlocked": false,
 		"borders": [],
-		"area": 294,
-		"ioc": ""
+		"area": 294
 	},
 	{
 		"name": {
@@ -946,6 +946,7 @@
 		"cca2": "BF",
 		"ccn3": "854",
 		"cca3": "BFA",
+		"ioc": "BUR",
 		"currency": ["XOF"],
 		"callingCode": ["226"],
 		"capital": "Ouagadougou",
@@ -971,8 +972,7 @@
 		"demonym": "Burkinabe",
 		"landlocked": true,
 		"borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"],
-		"area": 272967,
-		"ioc": "BUR"
+		"area": 272967
 	},
 	{
 		"name": {
@@ -989,6 +989,7 @@
 		"cca2": "BD",
 		"ccn3": "050",
 		"cca3": "BGD",
+		"ioc": "BAN",
 		"currency": ["BDT"],
 		"callingCode": ["880"],
 		"capital": "Dhaka",
@@ -1014,8 +1015,7 @@
 		"demonym": "Bangladeshi",
 		"landlocked": false,
 		"borders": ["MMR", "IND"],
-		"area": 147570,
-		"ioc": "BAN"
+		"area": 147570
 	},
 	{
 		"name": {
@@ -1032,6 +1032,7 @@
 		"cca2": "BG",
 		"ccn3": "100",
 		"cca3": "BGR",
+		"ioc": "BUL",
 		"currency": ["BGN"],
 		"callingCode": ["359"],
 		"capital": "Sofia",
@@ -1057,8 +1058,7 @@
 		"demonym": "Bulgarian",
 		"landlocked": false,
 		"borders": ["GRC", "MKD", "ROU", "SRB", "TUR"],
-		"area": 110879,
-		"ioc": "BUL"
+		"area": 110879
 	},
 	{
 		"name": {
@@ -1075,6 +1075,7 @@
 		"cca2": "BH",
 		"ccn3": "048",
 		"cca3": "BHR",
+		"ioc": "BRN",
 		"currency": ["BHD"],
 		"callingCode": ["973"],
 		"capital": "Manama",
@@ -1100,8 +1101,7 @@
 		"demonym": "Bahraini",
 		"landlocked": false,
 		"borders": [],
-		"area": 765,
-		"ioc": "BRN"
+		"area": 765
 	},
 	{
 		"name": {
@@ -1118,6 +1118,7 @@
 		"cca2": "BS",
 		"ccn3": "044",
 		"cca3": "BHS",
+		"ioc": "BAH",
 		"currency": ["BSD"],
 		"callingCode": ["1242"],
 		"capital": "Nassau",
@@ -1143,8 +1144,7 @@
 		"demonym": "Bahamian",
 		"landlocked": false,
 		"borders": [],
-		"area": 13943,
-		"ioc": "BAH"
+		"area": 13943
 	},
 	{
 		"name": {
@@ -1169,6 +1169,7 @@
 		"cca2": "BA",
 		"ccn3": "070",
 		"cca3": "BIH",
+		"ioc": "BIH",
 		"currency": ["BAM"],
 		"callingCode": ["387"],
 		"capital": "Sarajevo",
@@ -1196,8 +1197,7 @@
 		"demonym": "Bosnian, Herzegovinian",
 		"landlocked": false,
 		"borders": ["HRV", "MNE", "SRB"],
-		"area": 51209,
-		"ioc": "BIH"
+		"area": 51209
 	},
 	{
 		"name": {
@@ -1214,6 +1214,7 @@
 		"cca2": "BL",
 		"ccn3": "652",
 		"cca3": "BLM",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": ["590"],
 		"capital": "Gustavia",
@@ -1238,8 +1239,7 @@
 		"demonym": "Saint Barth\u00e9lemy Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 21,
-		"ioc": ""
+		"area": 21
 	},
 	{
 		"name": {
@@ -1260,6 +1260,7 @@
 		"cca2": "BY",
 		"ccn3": "112",
 		"cca3": "BLR",
+		"ioc": "BLR",
 		"currency": ["BYR"],
 		"callingCode": ["375"],
 		"capital": "Minsk",
@@ -1286,8 +1287,7 @@
 		"demonym": "Belarusian",
 		"landlocked": true,
 		"borders": ["LVA", "LTU", "POL", "RUS", "UKR"],
-		"area": 207600,
-		"ioc": "BLR"
+		"area": 207600
 	},
 	{
 		"name": {
@@ -1312,6 +1312,7 @@
 		"cca2": "BZ",
 		"ccn3": "084",
 		"cca3": "BLZ",
+		"ioc": "BIZ",
 		"currency": ["BZD"],
 		"callingCode": ["501"],
 		"capital": "Belmopan",
@@ -1339,8 +1340,7 @@
 		"demonym": "Belizean",
 		"landlocked": false,
 		"borders": ["GTM", "MEX"],
-		"area": 22966,
-		"ioc": "BIZ"
+		"area": 22966
 	},
 	{
 		"name": {
@@ -1357,6 +1357,7 @@
 		"cca2": "BM",
 		"ccn3": "060",
 		"cca3": "BMU",
+		"ioc": "BER",
 		"currency": ["BMD"],
 		"callingCode": ["1441"],
 		"capital": "Hamilton",
@@ -1382,8 +1383,7 @@
 		"demonym": "Bermudian",
 		"landlocked": false,
 		"borders": [],
-		"area": 54,
-		"ioc": "BER"
+		"area": 54
 	},
 	{
 		"name": {
@@ -1412,6 +1412,7 @@
 		"cca2": "BO",
 		"ccn3": "068",
 		"cca3": "BOL",
+		"ioc": "BOL",
 		"currency": ["BOB", "BOV"],
 		"callingCode": ["591"],
 		"capital": "Sucre",
@@ -1440,8 +1441,7 @@
 		"demonym": "Bolivian",
 		"landlocked": true,
 		"borders": ["ARG", "BRA", "CHL", "PRY", "PER"],
-		"area": 1098581,
-		"ioc": "BOL"
+		"area": 1098581
 	},
 	{
 		"name": {
@@ -1458,6 +1458,7 @@
 		"cca2": "BR",
 		"ccn3": "076",
 		"cca3": "BRA",
+		"ioc": "BRA",
 		"currency": ["BRL"],
 		"callingCode": ["55"],
 		"capital": "Bras\u00edlia",
@@ -1483,8 +1484,7 @@
 		"demonym": "Brazilian",
 		"landlocked": false,
 		"borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
-		"area": 8515767,
-		"ioc": "BRA"
+		"area": 8515767
 	},
 	{
 		"name": {
@@ -1501,6 +1501,7 @@
 		"cca2": "BB",
 		"ccn3": "052",
 		"cca3": "BRB",
+		"ioc": "BAR",
 		"currency": ["BBD"],
 		"callingCode": ["1246"],
 		"capital": "Bridgetown",
@@ -1526,8 +1527,7 @@
 		"demonym": "Barbadian",
 		"landlocked": false,
 		"borders": [],
-		"area": 430,
-		"ioc": "BAR"
+		"area": 430
 	},
 	{
 		"name": {
@@ -1544,6 +1544,7 @@
 		"cca2": "BN",
 		"ccn3": "096",
 		"cca3": "BRN",
+		"ioc": "BRU",
 		"currency": ["BND"],
 		"callingCode": ["673"],
 		"capital": "Bandar Seri Begawan",
@@ -1569,8 +1570,7 @@
 		"demonym": "Bruneian",
 		"landlocked": false,
 		"borders": ["MYS"],
-		"area": 5765,
-		"ioc": "BRU"
+		"area": 5765
 	},
 	{
 		"name": {
@@ -1587,6 +1587,7 @@
 		"cca2": "BT",
 		"ccn3": "064",
 		"cca3": "BTN",
+		"ioc": "BHU",
 		"currency": ["BTN", "INR"],
 		"callingCode": ["975"],
 		"capital": "Thimphu",
@@ -1612,8 +1613,7 @@
 		"demonym": "Bhutanese",
 		"landlocked": true,
 		"borders": ["CHN", "IND"],
-		"area": 38394,
-		"ioc": "BHU"
+		"area": 38394
 	},
 	{
 		"name": {
@@ -1630,6 +1630,7 @@
 		"cca2": "BV",
 		"ccn3": "074",
 		"cca3": "BVT",
+		"ioc": "",
 		"currency": ["NOK"],
 		"callingCode": [],
 		"capital": "",
@@ -1654,8 +1655,7 @@
 		"demonym": "",
 		"landlocked": false,
 		"borders": [],
-		"area": 49,
-		"ioc": ""
+		"area": 49
 	},
 	{
 		"name": {
@@ -1676,6 +1676,7 @@
 		"cca2": "BW",
 		"ccn3": "072",
 		"cca3": "BWA",
+		"ioc": "BOT",
 		"currency": ["BWP"],
 		"callingCode": ["267"],
 		"capital": "Gaborone",
@@ -1701,8 +1702,7 @@
 		"demonym": "Motswana",
 		"landlocked": true,
 		"borders": ["NAM", "ZAF", "ZMB", "ZWE"],
-		"area": 582000,
-		"ioc": "BOT"
+		"area": 582000
 	},
 	{
 		"name": {
@@ -1723,6 +1723,7 @@
 		"cca2": "CF",
 		"ccn3": "140",
 		"cca3": "CAF",
+		"ioc": "CAF",
 		"currency": ["XAF"],
 		"callingCode": ["236"],
 		"capital": "Bangui",
@@ -1749,8 +1750,7 @@
 		"demonym": "Central African",
 		"landlocked": true,
 		"borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"],
-		"area": 622984,
-		"ioc": "CAF"
+		"area": 622984
 	},
 	{
 		"name": {
@@ -1771,6 +1771,7 @@
 		"cca2": "CA",
 		"ccn3": "124",
 		"cca3": "CAN",
+		"ioc": "CAN",
 		"currency": ["CAD"],
 		"callingCode": ["1"],
 		"capital": "Ottawa",
@@ -1797,8 +1798,7 @@
 		"demonym": "Canadian",
 		"landlocked": false,
 		"borders": ["USA"],
-		"area": 9984670,
-		"ioc": "CAN"
+		"area": 9984670
 	},
 	{
 		"name": {
@@ -1815,6 +1815,7 @@
 		"cca2": "CC",
 		"ccn3": "166",
 		"cca3": "CCK",
+		"ioc": "",
 		"currency": ["AUD"],
 		"callingCode": ["61"],
 		"capital": "West Island",
@@ -1840,8 +1841,7 @@
 		"demonym": "Cocos Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 14,
-		"ioc": ""
+		"area": 14
 	},
 	{
 		"name": {
@@ -1870,6 +1870,7 @@
 		"cca2": "CH",
 		"ccn3": "756",
 		"cca3": "CHE",
+		"ioc": "SUI",
 		"currency": ["CHE", "CHF", "CHW"],
 		"callingCode": ["41"],
 		"capital": "Bern",
@@ -1897,8 +1898,7 @@
 		"demonym": "Swiss",
 		"landlocked": true,
 		"borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
-		"area": 41284,
-		"ioc": "SUI"
+		"area": 41284
 	},
 	{
 		"name": {
@@ -1915,6 +1915,7 @@
 		"cca2": "CL",
 		"ccn3": "152",
 		"cca3": "CHL",
+		"ioc": "CHI",
 		"currency": ["CLF", "CLP"],
 		"callingCode": ["56"],
 		"capital": "Santiago",
@@ -1940,8 +1941,7 @@
 		"demonym": "Chilean",
 		"landlocked": false,
 		"borders": ["ARG", "BOL", "PER"],
-		"area": 756102,
-		"ioc": "CHI"
+		"area": 756102
 	},
 	{
 		"name": {
@@ -1958,6 +1958,7 @@
 		"cca2": "CN",
 		"ccn3": "156",
 		"cca3": "CHN",
+		"ioc": "CHN",
 		"currency": ["CNY"],
 		"callingCode": ["86"],
 		"capital": "Beijing",
@@ -1983,8 +1984,7 @@
 		"demonym": "Chinese",
 		"landlocked": false,
 		"borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"],
-		"area": 9706961,
-		"ioc": "CHN"
+		"area": 9706961
 	},
 	{
 		"name": {
@@ -2001,6 +2001,7 @@
 		"cca2": "CI",
 		"ccn3": "384",
 		"cca3": "CIV",
+		"ioc": "CIV",
 		"currency": ["XOF"],
 		"callingCode": ["225"],
 		"capital": "Yamoussoukro",
@@ -2025,8 +2026,7 @@
 		"demonym": "Ivorian",
 		"landlocked": false,
 		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"],
-		"area": 322463,
-		"ioc": "CIV"
+		"area": 322463
 	},
 	{
 		"name": {
@@ -2047,6 +2047,7 @@
 		"cca2": "CM",
 		"ccn3": "120",
 		"cca3": "CMR",
+		"ioc": "CMR",
 		"currency": ["XAF"],
 		"callingCode": ["237"],
 		"capital": "Yaound\u00e9",
@@ -2073,8 +2074,7 @@
 		"demonym": "Cameroonian",
 		"landlocked": false,
 		"borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"],
-		"area": 475442,
-		"ioc": "CMR"
+		"area": 475442
 	},
 	{
 		"name": {
@@ -2107,6 +2107,7 @@
 		"cca2": "CD",
 		"ccn3": "180",
 		"cca3": "COD",
+		"ioc": "COD",
 		"currency": ["CDF"],
 		"callingCode": ["243"],
 		"capital": "Kinshasa",
@@ -2136,8 +2137,7 @@
 		"demonym": "Congolese",
 		"landlocked": false,
 		"borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"],
-		"area": 2344858,
-		"ioc": "COD"
+		"area": 2344858
 	},
 	{
 		"name": {
@@ -2162,6 +2162,7 @@
 		"cca2": "CG",
 		"ccn3": "178",
 		"cca3": "COG",
+		"ioc": "CGO",
 		"currency": ["XAF"],
 		"callingCode": ["242"],
 		"capital": "Brazzaville",
@@ -2189,8 +2190,7 @@
 		"demonym": "Congolese",
 		"landlocked": false,
 		"borders": ["AGO", "CMR", "CAF", "COD", "GAB"],
-		"area": 342000,
-		"ioc": "CGO"
+		"area": 342000
 	},
 	{
 		"name": {
@@ -2211,6 +2211,7 @@
 		"cca2": "CK",
 		"ccn3": "184",
 		"cca3": "COK",
+		"ioc": "COK",
 		"currency": ["NZD"],
 		"callingCode": ["682"],
 		"capital": "Avarua",
@@ -2237,8 +2238,7 @@
 		"demonym": "Cook Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 236,
-		"ioc": "COK"
+		"area": 236
 	},
 	{
 		"name": {
@@ -2255,6 +2255,7 @@
 		"cca2": "CO",
 		"ccn3": "170",
 		"cca3": "COL",
+		"ioc": "COL",
 		"currency": ["COP"],
 		"callingCode": ["57"],
 		"capital": "Bogot\u00e1",
@@ -2280,8 +2281,7 @@
 		"demonym": "Colombian",
 		"landlocked": false,
 		"borders": ["BRA", "ECU", "PAN", "PER", "VEN"],
-		"area": 1141748,
-		"ioc": "COL"
+		"area": 1141748
 	},
 	{
 		"name": {
@@ -2306,6 +2306,7 @@
 		"cca2": "KM",
 		"ccn3": "174",
 		"cca3": "COM",
+		"ioc": "COM",
 		"currency": ["KMF"],
 		"callingCode": ["269"],
 		"capital": "Moroni",
@@ -2333,8 +2334,7 @@
 		"demonym": "Comoran",
 		"landlocked": false,
 		"borders": [],
-		"area": 1862,
-		"ioc": "COM"
+		"area": 1862
 	},
 	{
 		"name": {
@@ -2351,6 +2351,7 @@
 		"cca2": "CV",
 		"ccn3": "132",
 		"cca3": "CPV",
+		"ioc": "CPV",
 		"currency": ["CVE"],
 		"callingCode": ["238"],
 		"capital": "Praia",
@@ -2376,8 +2377,7 @@
 		"demonym": "Cape Verdian",
 		"landlocked": false,
 		"borders": [],
-		"area": 4033,
-		"ioc": "CPV"
+		"area": 4033
 	},
 	{
 		"name": {
@@ -2394,6 +2394,7 @@
 		"cca2": "CR",
 		"ccn3": "188",
 		"cca3": "CRI",
+		"ioc": "CRC",
 		"currency": ["CRC"],
 		"callingCode": ["506"],
 		"capital": "San Jos\u00e9",
@@ -2419,8 +2420,7 @@
 		"demonym": "Costa Rican",
 		"landlocked": false,
 		"borders": ["NIC", "PAN"],
-		"area": 51100,
-		"ioc": "CRC"
+		"area": 51100
 	},
 	{
 		"name": {
@@ -2437,6 +2437,7 @@
 		"cca2": "CU",
 		"ccn3": "192",
 		"cca3": "CUB",
+		"ioc": "CUB",
 		"currency": ["CUC", "CUP"],
 		"callingCode": ["53"],
 		"capital": "Havana",
@@ -2462,8 +2463,7 @@
 		"demonym": "Cuban",
 		"landlocked": false,
 		"borders": [],
-		"area": 109884,
-		"ioc": "CUB"
+		"area": 109884
 	},
 	{
 		"name": {
@@ -2488,6 +2488,7 @@
 		"cca2": "CW",
 		"ccn3": "531",
 		"cca3": "CUW",
+		"ioc": "",
 		"currency": ["ANG"],
 		"callingCode": ["5999"],
 		"capital": "Willemstad",
@@ -2508,8 +2509,7 @@
 		"demonym": "Dutch",
 		"landlocked": false,
 		"borders": [],
-		"area": 444,
-		"ioc": ""
+		"area": 444
 	},
 	{
 		"name": {
@@ -2526,6 +2526,7 @@
 		"cca2": "CX",
 		"ccn3": "162",
 		"cca3": "CXR",
+		"ioc": "",
 		"currency": ["AUD"],
 		"callingCode": ["61"],
 		"capital": "Flying Fish Cove",
@@ -2551,8 +2552,7 @@
 		"demonym": "Christmas Island",
 		"landlocked": false,
 		"borders": [],
-		"area": 135,
-		"ioc": ""
+		"area": 135
 	},
 	{
 		"name": {
@@ -2569,6 +2569,7 @@
 		"cca2": "KY",
 		"ccn3": "136",
 		"cca3": "CYM",
+		"ioc": "CAY",
 		"currency": ["KYD"],
 		"callingCode": ["1345"],
 		"capital": "George Town",
@@ -2594,8 +2595,7 @@
 		"demonym": "Caymanian",
 		"landlocked": false,
 		"borders": [],
-		"area": 264,
-		"ioc": "CAY"
+		"area": 264
 	},
 	{
 		"name": {
@@ -2616,6 +2616,7 @@
 		"cca2": "CY",
 		"ccn3": "196",
 		"cca3": "CYP",
+		"ioc": "CYP",
 		"currency": ["EUR"],
 		"callingCode": ["357"],
 		"capital": "Nicosia",
@@ -2642,8 +2643,7 @@
 		"demonym": "Cypriot",
 		"landlocked": false,
 		"borders": ["GBR"],
-		"area": 9251,
-		"ioc": "CYP"
+		"area": 9251
 	},
 	{
 		"name": {
@@ -2664,6 +2664,7 @@
 		"cca2": "CZ",
 		"ccn3": "203",
 		"cca3": "CZE",
+		"ioc": "CZE",
 		"currency": ["CZK"],
 		"callingCode": ["420"],
 		"capital": "Prague",
@@ -2690,8 +2691,7 @@
 		"demonym": "Czech",
 		"landlocked": true,
 		"borders": ["AUT", "DEU", "POL", "SVK"],
-		"area": 78865,
-		"ioc": "CZE"
+		"area": 78865
 	},
 	{
 		"name": {
@@ -2708,6 +2708,7 @@
 		"cca2": "DE",
 		"ccn3": "276",
 		"cca3": "DEU",
+		"ioc": "GER",
 		"currency": ["EUR"],
 		"callingCode": ["49"],
 		"capital": "Berlin",
@@ -2732,8 +2733,7 @@
 		"demonym": "German",
 		"landlocked": false,
 		"borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
-		"area": 357114,
-		"ioc": "GER"
+		"area": 357114
 	},
 	{
 		"name": {
@@ -2754,6 +2754,7 @@
 		"cca2": "DJ",
 		"ccn3": "262",
 		"cca3": "DJI",
+		"ioc": "DJI",
 		"currency": ["DJF"],
 		"callingCode": ["253"],
 		"capital": "Djibouti",
@@ -2780,8 +2781,7 @@
 		"demonym": "Djibouti",
 		"landlocked": false,
 		"borders": ["ERI", "ETH", "SOM"],
-		"area": 23200,
-		"ioc": "DJI"
+		"area": 23200
 	},
 	{
 		"name": {
@@ -2798,6 +2798,7 @@
 		"cca2": "DM",
 		"ccn3": "212",
 		"cca3": "DMA",
+		"ioc": "DMA",
 		"currency": ["XCD"],
 		"callingCode": ["1767"],
 		"capital": "Roseau",
@@ -2823,8 +2824,7 @@
 		"demonym": "Dominican",
 		"landlocked": false,
 		"borders": [],
-		"area": 751,
-		"ioc": "DMA"
+		"area": 751
 	},
 	{
 		"name": {
@@ -2841,6 +2841,7 @@
 		"cca2": "DK",
 		"ccn3": "208",
 		"cca3": "DNK",
+		"ioc": "DEN",
 		"currency": ["DKK"],
 		"callingCode": ["45"],
 		"capital": "Copenhagen",
@@ -2866,8 +2867,7 @@
 		"demonym": "Danish",
 		"landlocked": false,
 		"borders": ["DEU"],
-		"area": 43094,
-		"ioc": "DEN"
+		"area": 43094
 	},
 	{
 		"name": {
@@ -2884,6 +2884,7 @@
 		"cca2": "DO",
 		"ccn3": "214",
 		"cca3": "DOM",
+		"ioc": "DOM",
 		"currency": ["DOP"],
 		"callingCode": ["1809", "1829", "1849"],
 		"capital": "Santo Domingo",
@@ -2909,8 +2910,7 @@
 		"demonym": "Dominican",
 		"landlocked": false,
 		"borders": ["HTI"],
-		"area": 48671,
-		"ioc": "DOM"
+		"area": 48671
 	},
 	{
 		"name": {
@@ -2927,6 +2927,7 @@
 		"cca2": "DZ",
 		"ccn3": "012",
 		"cca3": "DZA",
+		"ioc": "ALG",
 		"currency": ["DZD"],
 		"callingCode": ["213"],
 		"capital": "Algiers",
@@ -2952,8 +2953,7 @@
 		"demonym": "Algerian",
 		"landlocked": false,
 		"borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"],
-		"area": 2381741,
-		"ioc": "ALG"
+		"area": 2381741
 	},
 	{
 		"name": {
@@ -2970,6 +2970,7 @@
 		"cca2": "EC",
 		"ccn3": "218",
 		"cca3": "ECU",
+		"ioc": "ECU",
 		"currency": ["USD"],
 		"callingCode": ["593"],
 		"capital": "Quito",
@@ -2995,8 +2996,7 @@
 		"demonym": "Ecuadorean",
 		"landlocked": false,
 		"borders": ["COL", "PER"],
-		"area": 276841,
-		"ioc": "ECU"
+		"area": 276841
 	},
 	{
 		"name": {
@@ -3013,6 +3013,7 @@
 		"cca2": "EG",
 		"ccn3": "818",
 		"cca3": "EGY",
+		"ioc": "EGY",
 		"currency": ["EGP"],
 		"callingCode": ["20"],
 		"capital": "Cairo",
@@ -3038,8 +3039,7 @@
 		"demonym": "Egyptian",
 		"landlocked": false,
 		"borders": ["ISR", "LBY", "SDN"],
-		"area": 1002450,
-		"ioc": "EGY"
+		"area": 1002450
 	},
 	{
 		"name": {
@@ -3064,6 +3064,7 @@
 		"cca2": "ER",
 		"ccn3": "232",
 		"cca3": "ERI",
+		"ioc": "ERI",
 		"currency": ["ERN"],
 		"callingCode": ["291"],
 		"capital": "Asmara",
@@ -3091,8 +3092,7 @@
 		"demonym": "Eritrean",
 		"landlocked": false,
 		"borders": ["DJI", "ETH", "SDN"],
-		"area": 117600,
-		"ioc": "ERI"
+		"area": 117600
 	},
 	{
 		"name": {
@@ -3117,6 +3117,7 @@
 		"cca2": "EH",
 		"ccn3": "732",
 		"cca3": "ESH",
+		"ioc": "",
 		"currency": ["MAD", "DZD", "MRO"],
 		"callingCode": ["212"],
 		"capital": "El Aai\u00fan",
@@ -3143,8 +3144,7 @@
 		"demonym": "Sahrawi",
 		"landlocked": false,
 		"borders": ["DZA", "MRT", "MAR"],
-		"area": 266000,
-		"ioc": ""
+		"area": 266000
 	},
 	{
 		"name": {
@@ -3177,6 +3177,7 @@
 		"cca2": "ES",
 		"ccn3": "724",
 		"cca3": "ESP",
+		"ioc": "ESP",
 		"currency": ["EUR"],
 		"callingCode": ["34"],
 		"capital": "Madrid",
@@ -3205,8 +3206,7 @@
 		"demonym": "Spanish",
 		"landlocked": false,
 		"borders": ["AND", "FRA", "GIB", "PRT", "MAR"],
-		"area": 505992,
-		"ioc": "ESP"
+		"area": 505992
 	},
 	{
 		"name": {
@@ -3223,6 +3223,7 @@
 		"cca2": "EE",
 		"ccn3": "233",
 		"cca3": "EST",
+		"ioc": "EST",
 		"currency": ["EUR"],
 		"callingCode": ["372"],
 		"capital": "Tallinn",
@@ -3248,8 +3249,7 @@
 		"demonym": "Estonian",
 		"landlocked": false,
 		"borders": ["LVA", "RUS"],
-		"area": 45227,
-		"ioc": "EST"
+		"area": 45227
 	},
 	{
 		"name": {
@@ -3266,6 +3266,7 @@
 		"cca2": "ET",
 		"ccn3": "231",
 		"cca3": "ETH",
+		"ioc": "ETH",
 		"currency": ["ETB"],
 		"callingCode": ["251"],
 		"capital": "Addis Ababa",
@@ -3291,8 +3292,7 @@
 		"demonym": "Ethiopian",
 		"landlocked": true,
 		"borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"],
-		"area": 1104300,
-		"ioc": "ETH"
+		"area": 1104300
 	},
 	{
 		"name": {
@@ -3313,6 +3313,7 @@
 		"cca2": "FI",
 		"ccn3": "246",
 		"cca3": "FIN",
+		"ioc": "FIN",
 		"currency": ["EUR"],
 		"callingCode": ["358"],
 		"capital": "Helsinki",
@@ -3338,8 +3339,7 @@
 		"demonym": "Finnish",
 		"landlocked": false,
 		"borders": ["NOR", "SWE", "RUS"],
-		"area": 338424,
-		"ioc": "FIN"
+		"area": 338424
 	},
 	{
 		"name": {
@@ -3364,6 +3364,7 @@
 		"cca2": "FJ",
 		"ccn3": "242",
 		"cca3": "FJI",
+		"ioc": "FIJ",
 		"currency": ["FJD"],
 		"callingCode": ["679"],
 		"capital": "Suva",
@@ -3390,8 +3391,7 @@
 		"demonym": "Fijian",
 		"landlocked": false,
 		"borders": [],
-		"area": 18272,
-		"ioc": "FIJ"
+		"area": 18272
 	},
 	{
 		"name": {
@@ -3408,6 +3408,7 @@
 		"cca2": "FK",
 		"ccn3": "238",
 		"cca3": "FLK",
+		"ioc": "",
 		"currency": ["FKP"],
 		"callingCode": ["500"],
 		"capital": "Stanley",
@@ -3432,8 +3433,7 @@
 		"demonym": "Falkland Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 12173,
-		"ioc": ""
+		"area": 12173
 	},
 	{
 		"name": {
@@ -3450,6 +3450,7 @@
 		"cca2": "FR",
 		"ccn3": "250",
 		"cca3": "FRA",
+		"ioc": "FRA",
 		"currency": ["EUR"],
 		"callingCode": ["33"],
 		"capital": "Paris",
@@ -3474,8 +3475,7 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
-		"area": 551695,
-		"ioc": "FRA"
+		"area": 551695
 	},
 	{
 		"name": {
@@ -3496,6 +3496,7 @@
 		"cca2": "FO",
 		"ccn3": "234",
 		"cca3": "FRO",
+		"ioc": "",
 		"currency": ["DKK"],
 		"callingCode": ["298"],
 		"capital": "T\u00f3rshavn",
@@ -3521,8 +3522,7 @@
 		"demonym": "Faroese",
 		"landlocked": false,
 		"borders": [],
-		"area": 1393,
-		"ioc": ""
+		"area": 1393
 	},
 	{
 		"name": {
@@ -3539,6 +3539,7 @@
 		"cca2": "FM",
 		"ccn3": "583",
 		"cca3": "FSM",
+		"ioc": "FSM",
 		"currency": ["USD"],
 		"callingCode": ["691"],
 		"capital": "Palikir",
@@ -3563,8 +3564,7 @@
 		"demonym": "Micronesian",
 		"landlocked": false,
 		"borders": [],
-		"area": 702,
-		"ioc": "FSM"
+		"area": 702
 	},
 	{
 		"name": {
@@ -3581,6 +3581,7 @@
 		"cca2": "GA",
 		"ccn3": "266",
 		"cca3": "GAB",
+		"ioc": "GAB",
 		"currency": ["XAF"],
 		"callingCode": ["241"],
 		"capital": "Libreville",
@@ -3605,8 +3606,7 @@
 		"demonym": "Gabonese",
 		"landlocked": false,
 		"borders": ["CMR", "COG", "GNQ"],
-		"area": 267668,
-		"ioc": "GAB"
+		"area": 267668
 	},
 	{
 		"name": {
@@ -3623,6 +3623,7 @@
 		"cca2": "GB",
 		"ccn3": "826",
 		"cca3": "GBR",
+		"ioc": "GBR",
 		"currency": ["GBP"],
 		"callingCode": ["44"],
 		"capital": "London",
@@ -3647,8 +3648,7 @@
 		"demonym": "British",
 		"landlocked": false,
 		"borders": ["IRL"],
-		"area": 242900,
-		"ioc": "GBR"
+		"area": 242900
 	},
 	{
 		"name": {
@@ -3665,6 +3665,7 @@
 		"cca2": "GE",
 		"ccn3": "268",
 		"cca3": "GEO",
+		"ioc": "GEO",
 		"currency": ["GEL"],
 		"callingCode": ["995"],
 		"capital": "Tbilisi",
@@ -3689,8 +3690,7 @@
 		"demonym": "Georgian",
 		"landlocked": false,
 		"borders": ["ARM", "AZE", "RUS", "TUR"],
-		"area": 69700,
-		"ioc": "GEO"
+		"area": 69700
 	},
 	{
 		"name": {
@@ -3715,6 +3715,7 @@
 		"cca2": "GG",
 		"ccn3": "831",
 		"cca3": "GGY",
+		"ioc": "",
 		"currency": ["GBP"],
 		"callingCode": ["44"],
 		"capital": "St. Peter Port",
@@ -3741,8 +3742,7 @@
 		"demonym": "Channel Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 78,
-		"ioc": ""
+		"area": 78
 	},
 	{
 		"name": {
@@ -3759,6 +3759,7 @@
 		"cca2": "GH",
 		"ccn3": "288",
 		"cca3": "GHA",
+		"ioc": "GHA",
 		"currency": ["GHS"],
 		"callingCode": ["233"],
 		"capital": "Accra",
@@ -3783,8 +3784,7 @@
 		"demonym": "Ghanaian",
 		"landlocked": false,
 		"borders": ["BFA", "CIV", "TGO"],
-		"area": 238533,
-		"ioc": "GHA"
+		"area": 238533
 	},
 	{
 		"name": {
@@ -3801,6 +3801,7 @@
 		"cca2": "GI",
 		"ccn3": "292",
 		"cca3": "GIB",
+		"ioc": "",
 		"currency": ["GIP"],
 		"callingCode": ["350"],
 		"capital": "Gibraltar",
@@ -3825,8 +3826,7 @@
 		"demonym": "Gibraltar",
 		"landlocked": false,
 		"borders": ["ESP"],
-		"area": 6,
-		"ioc": ""
+		"area": 6
 	},
 	{
 		"name": {
@@ -3843,6 +3843,7 @@
 		"cca2": "GN",
 		"ccn3": "324",
 		"cca3": "GIN",
+		"ioc": "GUI",
 		"currency": ["GNF"],
 		"callingCode": ["224"],
 		"capital": "Conakry",
@@ -3867,8 +3868,7 @@
 		"demonym": "Guinean",
 		"landlocked": false,
 		"borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"],
-		"area": 245857,
-		"ioc": "GUI"
+		"area": 245857
 	},
 	{
 		"name": {
@@ -3885,6 +3885,7 @@
 		"cca2": "GP",
 		"ccn3": "312",
 		"cca3": "GLP",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": ["590"],
 		"capital": "Basse-Terre",
@@ -3909,8 +3910,7 @@
 		"demonym": "Guadeloupian",
 		"landlocked": false,
 		"borders": [],
-		"area": 1628,
-		"ioc": ""
+		"area": 1628
 	},
 	{
 		"name": {
@@ -3927,6 +3927,7 @@
 		"cca2": "GM",
 		"ccn3": "270",
 		"cca3": "GMB",
+		"ioc": "GAM",
 		"currency": ["GMD"],
 		"callingCode": ["220"],
 		"capital": "Banjul",
@@ -3951,8 +3952,7 @@
 		"demonym": "Gambian",
 		"landlocked": false,
 		"borders": ["SEN"],
-		"area": 10689,
-		"ioc": "GAM"
+		"area": 10689
 	},
 	{
 		"name": {
@@ -3969,6 +3969,7 @@
 		"cca2": "GW",
 		"ccn3": "624",
 		"cca3": "GNB",
+		"ioc": "GBS",
 		"currency": ["XOF"],
 		"callingCode": ["245"],
 		"capital": "Bissau",
@@ -3993,8 +3994,7 @@
 		"demonym": "Guinea-Bissauan",
 		"landlocked": false,
 		"borders": ["GIN", "SEN"],
-		"area": 36125,
-		"ioc": "GBS"
+		"area": 36125
 	},
 	{
 		"name": {
@@ -4019,6 +4019,7 @@
 		"cca2": "GQ",
 		"ccn3": "226",
 		"cca3": "GNQ",
+		"ioc": "GEQ",
 		"currency": ["XAF"],
 		"callingCode": ["240"],
 		"capital": "Malabo",
@@ -4046,8 +4047,7 @@
 		"demonym": "Equatorial Guinean",
 		"landlocked": false,
 		"borders": ["CMR", "GAB"],
-		"area": 28051,
-		"ioc": "GEQ"
+		"area": 28051
 	},
 	{
 		"name": {
@@ -4064,6 +4064,7 @@
 		"cca2": "GR",
 		"ccn3": "300",
 		"cca3": "GRC",
+		"ioc": "GRE",
 		"currency": ["EUR"],
 		"callingCode": ["30"],
 		"capital": "Athens",
@@ -4088,8 +4089,7 @@
 		"demonym": "Greek",
 		"landlocked": false,
 		"borders": ["ALB", "BGR", "TUR", "MKD"],
-		"area": 131990,
-		"ioc": "GRE"
+		"area": 131990
 	},
 	{
 		"name": {
@@ -4106,6 +4106,7 @@
 		"cca2": "GD",
 		"ccn3": "308",
 		"cca3": "GRD",
+		"ioc": "GRN",
 		"currency": ["XCD"],
 		"callingCode": ["1473"],
 		"capital": "St. George's",
@@ -4130,8 +4131,7 @@
 		"demonym": "Grenadian",
 		"landlocked": false,
 		"borders": [],
-		"area": 344,
-		"ioc": "GRN"
+		"area": 344
 	},
 	{
 		"name": {
@@ -4148,6 +4148,7 @@
 		"cca2": "GL",
 		"ccn3": "304",
 		"cca3": "GRL",
+		"ioc": "",
 		"currency": ["DKK"],
 		"callingCode": ["299"],
 		"capital": "Nuuk",
@@ -4172,8 +4173,7 @@
 		"demonym": "Greenlandic",
 		"landlocked": false,
 		"borders": [],
-		"area": 2166086,
-		"ioc": ""
+		"area": 2166086
 	},
 	{
 		"name": {
@@ -4190,6 +4190,7 @@
 		"cca2": "GT",
 		"ccn3": "320",
 		"cca3": "GTM",
+		"ioc": "GUA",
 		"currency": ["GTQ"],
 		"callingCode": ["502"],
 		"capital": "Guatemala City",
@@ -4214,8 +4215,7 @@
 		"demonym": "Guatemalan",
 		"landlocked": false,
 		"borders": ["BLZ", "SLV", "HND", "MEX"],
-		"area": 108889,
-		"ioc": "GUA"
+		"area": 108889
 	},
 	{
 		"name": {
@@ -4232,6 +4232,7 @@
 		"cca2": "GF",
 		"ccn3": "254",
 		"cca3": "GUF",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": ["594"],
 		"capital": "Cayenne",
@@ -4256,8 +4257,7 @@
 		"demonym": "",
 		"landlocked": false,
 		"borders": ["BRA", "SUR"],
-		"area": 83534,
-		"ioc": ""
+		"area": 83534
 	},
 	{
 		"name": {
@@ -4282,6 +4282,7 @@
 		"cca2": "GU",
 		"ccn3": "316",
 		"cca3": "GUM",
+		"ioc": "GUM",
 		"currency": ["USD"],
 		"callingCode": ["1671"],
 		"capital": "Hag\u00e5t\u00f1a",
@@ -4308,8 +4309,7 @@
 		"demonym": "Guamanian",
 		"landlocked": false,
 		"borders": [],
-		"area": 549,
-		"ioc": "GUM"
+		"area": 549
 	},
 	{
 		"name": {
@@ -4326,6 +4326,7 @@
 		"cca2": "GY",
 		"ccn3": "328",
 		"cca3": "GUY",
+		"ioc": "GUY",
 		"currency": ["GYD"],
 		"callingCode": ["592"],
 		"capital": "Georgetown",
@@ -4350,8 +4351,7 @@
 		"demonym": "Guyanese",
 		"landlocked": false,
 		"borders": ["BRA", "SUR", "VEN"],
-		"area": 214969,
-		"ioc": "GUY"
+		"area": 214969
 	},
 	{
 		"name": {
@@ -4372,6 +4372,7 @@
 		"cca2": "HK",
 		"ccn3": "344",
 		"cca3": "HKG",
+		"ioc": "HKG",
 		"currency": ["HKD"],
 		"callingCode": ["852"],
 		"capital": "City of Victoria",
@@ -4397,8 +4398,7 @@
 		"demonym": "Hong Konger",
 		"landlocked": false,
 		"borders": ["CHN"],
-		"area": 1104,
-		"ioc": "HKG"
+		"area": 1104
 	},
 	{
 		"name": {
@@ -4415,6 +4415,7 @@
 		"cca2": "HM",
 		"ccn3": "334",
 		"cca3": "HMD",
+		"ioc": "",
 		"currency": ["AUD"],
 		"callingCode": [],
 		"capital": "",
@@ -4439,8 +4440,7 @@
 		"demonym": "Heard and McDonald Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 412,
-		"ioc": ""
+		"area": 412
 	},
 	{
 		"name": {
@@ -4457,6 +4457,7 @@
 		"cca2": "HN",
 		"ccn3": "340",
 		"cca3": "HND",
+		"ioc": "HON",
 		"currency": ["HNL"],
 		"callingCode": ["504"],
 		"capital": "Tegucigalpa",
@@ -4481,8 +4482,7 @@
 		"demonym": "Honduran",
 		"landlocked": false,
 		"borders": ["GTM", "SLV", "NIC"],
-		"area": 112492,
-		"ioc": "HON"
+		"area": 112492
 	},
 	{
 		"name": {
@@ -4499,6 +4499,7 @@
 		"cca2": "HR",
 		"ccn3": "191",
 		"cca3": "HRV",
+		"ioc": "CRO",
 		"currency": ["HRK"],
 		"callingCode": ["385"],
 		"capital": "Zagreb",
@@ -4524,8 +4525,7 @@
 		"demonym": "Croatian",
 		"landlocked": false,
 		"borders": ["BIH", "HUN", "MNE", "SRB", "SVN"],
-		"area": 56594,
-		"ioc": "CRO"
+		"area": 56594
 	},
 	{
 		"name": {
@@ -4546,6 +4546,7 @@
 		"cca2": "HT",
 		"ccn3": "332",
 		"cca3": "HTI",
+		"ioc": "HAI",
 		"currency": ["HTG", "USD"],
 		"callingCode": ["509"],
 		"capital": "Port-au-Prince",
@@ -4571,8 +4572,7 @@
 		"demonym": "Haitian",
 		"landlocked": false,
 		"borders": ["DOM"],
-		"area": 27750,
-		"ioc": "HAI"
+		"area": 27750
 	},
 	{
 		"name": {
@@ -4589,6 +4589,7 @@
 		"cca2": "HU",
 		"ccn3": "348",
 		"cca3": "HUN",
+		"ioc": "HUN",
 		"currency": ["HUF"],
 		"callingCode": ["36"],
 		"capital": "Budapest",
@@ -4613,8 +4614,7 @@
 		"demonym": "Hungarian",
 		"landlocked": true,
 		"borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"],
-		"area": 93028,
-		"ioc": "HUN"
+		"area": 93028
 	},
 	{
 		"name": {
@@ -4631,6 +4631,7 @@
 		"cca2": "ID",
 		"ccn3": "360",
 		"cca3": "IDN",
+		"ioc": "INA",
 		"currency": ["IDR"],
 		"callingCode": ["62"],
 		"capital": "Jakarta",
@@ -4655,8 +4656,7 @@
 		"demonym": "Indonesian",
 		"landlocked": false,
 		"borders": ["TLS", "MYS", "PNG"],
-		"area": 1904569,
-		"ioc": "INA"
+		"area": 1904569
 	},
 	{
 		"name": {
@@ -4677,6 +4677,7 @@
 		"cca2": "IM",
 		"ccn3": "833",
 		"cca3": "IMN",
+		"ioc": "",
 		"currency": ["GBP"],
 		"callingCode": ["44"],
 		"capital": "Douglas",
@@ -4702,8 +4703,7 @@
 		"demonym": "Manx",
 		"landlocked": false,
 		"borders": [],
-		"area": 572,
-		"ioc": ""
+		"area": 572
 	},
 	{
 		"name": {
@@ -4724,6 +4724,7 @@
 		"cca2": "IN",
 		"ccn3": "356",
 		"cca3": "IND",
+		"ioc": "IND",
 		"currency": ["INR"],
 		"callingCode": ["91"],
 		"capital": "New Delhi",
@@ -4749,8 +4750,7 @@
 		"demonym": "Indian",
 		"landlocked": false,
 		"borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
-		"area": 3287590,
-		"ioc": "IND"
+		"area": 3287590
 	},
 	{
 		"name": {
@@ -4767,6 +4767,7 @@
 		"cca2": "IO",
 		"ccn3": "086",
 		"cca3": "IOT",
+		"ioc": "",
 		"currency": ["USD"],
 		"callingCode": ["246"],
 		"capital": "Diego Garcia",
@@ -4792,8 +4793,7 @@
 		"demonym": "Indian",
 		"landlocked": false,
 		"borders": [],
-		"area": 60,
-		"ioc": ""
+		"area": 60
 	},
 	{
 		"name": {
@@ -4814,6 +4814,7 @@
 		"cca2": "IE",
 		"ccn3": "372",
 		"cca3": "IRL",
+		"ioc": "IRL",
 		"currency": ["EUR"],
 		"callingCode": ["353"],
 		"capital": "Dublin",
@@ -4839,8 +4840,7 @@
 		"demonym": "Irish",
 		"landlocked": false,
 		"borders": ["GBR"],
-		"area": 70273,
-		"ioc": "IRL"
+		"area": 70273
 	},
 	{
 		"name": {
@@ -4857,6 +4857,7 @@
 		"cca2": "IR",
 		"ccn3": "364",
 		"cca3": "IRN",
+		"ioc": "IRI",
 		"currency": ["IRR"],
 		"callingCode": ["98"],
 		"capital": "Tehran",
@@ -4880,8 +4881,7 @@
 		"demonym": "Iranian",
 		"landlocked": false,
 		"borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"],
-		"area": 1648195,
-		"ioc": "IRI"
+		"area": 1648195
 	},
 	{
 		"name": {
@@ -4906,6 +4906,7 @@
 		"cca2": "IQ",
 		"ccn3": "368",
 		"cca3": "IRQ",
+		"ioc": "IRQ",
 		"currency": ["IQD"],
 		"callingCode": ["964"],
 		"capital": "Baghdad",
@@ -4932,8 +4933,7 @@
 		"demonym": "Iraqi",
 		"landlocked": false,
 		"borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"],
-		"area": 438317,
-		"ioc": "IRQ"
+		"area": 438317
 	},
 	{
 		"name": {
@@ -4950,6 +4950,7 @@
 		"cca2": "IS",
 		"ccn3": "352",
 		"cca3": "ISL",
+		"ioc": "ISL",
 		"currency": ["ISK"],
 		"callingCode": ["354"],
 		"capital": "Reykjavik",
@@ -4974,8 +4975,7 @@
 		"demonym": "Icelander",
 		"landlocked": false,
 		"borders": [],
-		"area": 103000,
-		"ioc": "ISL"
+		"area": 103000
 	},
 	{
 		"name": {
@@ -4996,6 +4996,7 @@
 		"cca2": "IL",
 		"ccn3": "376",
 		"cca3": "ISR",
+		"ioc": "ISR",
 		"currency": ["ILS"],
 		"callingCode": ["972"],
 		"capital": "Jerusalem",
@@ -5021,8 +5022,7 @@
 		"demonym": "Israeli",
 		"landlocked": false,
 		"borders": ["EGY", "JOR", "LBN", "SYR"],
-		"area": 20770,
-		"ioc": "ISR"
+		"area": 20770
 	},
 	{
 		"name": {
@@ -5043,6 +5043,7 @@
 		"cca2": "IT",
 		"ccn3": "380",
 		"cca3": "ITA",
+		"ioc": "ITA",
 		"currency": ["EUR"],
 		"callingCode": ["39"],
 		"capital": "Rome",
@@ -5068,8 +5069,7 @@
 		"demonym": "Italian",
 		"landlocked": false,
 		"borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
-		"area": 301336,
-		"ioc": "ITA"
+		"area": 301336
 	},
 	{
 		"name": {
@@ -5090,6 +5090,7 @@
 		"cca2": "JM",
 		"ccn3": "388",
 		"cca3": "JAM",
+		"ioc": "JAM",
 		"currency": ["JMD"],
 		"callingCode": ["1876"],
 		"capital": "Kingston",
@@ -5115,8 +5116,7 @@
 		"demonym": "Jamaican",
 		"landlocked": false,
 		"borders": [],
-		"area": 10991,
-		"ioc": "JAM"
+		"area": 10991
 	},
 	{
 		"name": {
@@ -5141,6 +5141,7 @@
 		"cca2": "JE",
 		"ccn3": "832",
 		"cca3": "JEY",
+		"ioc": "",
 		"currency": ["GBP"],
 		"callingCode": ["44"],
 		"capital": "Saint Helier",
@@ -5167,8 +5168,7 @@
 		"demonym": "Channel Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 116,
-		"ioc": ""
+		"area": 116
 	},
 	{
 		"name": {
@@ -5185,6 +5185,7 @@
 		"cca2": "JO",
 		"ccn3": "400",
 		"cca3": "JOR",
+		"ioc": "JOR",
 		"currency": ["JOD"],
 		"callingCode": ["962"],
 		"capital": "Amman",
@@ -5209,8 +5210,7 @@
 		"demonym": "Jordanian",
 		"landlocked": false,
 		"borders": ["IRQ", "ISR", "SAU", "SYR"],
-		"area": 89342,
-		"ioc": "JOR"
+		"area": 89342
 	},
 	{
 		"name": {
@@ -5227,6 +5227,7 @@
 		"cca2": "JP",
 		"ccn3": "392",
 		"cca3": "JPN",
+		"ioc": "JPN",
 		"currency": ["JPY"],
 		"callingCode": ["81"],
 		"capital": "Tokyo",
@@ -5251,8 +5252,7 @@
 		"demonym": "Japanese",
 		"landlocked": false,
 		"borders": [],
-		"area": 377930,
-		"ioc": "JPN"
+		"area": 377930
 	},
 	{
 		"name": {
@@ -5273,6 +5273,7 @@
 		"cca2": "KZ",
 		"ccn3": "398",
 		"cca3": "KAZ",
+		"ioc": "KAZ",
 		"currency": ["KZT"],
 		"callingCode": ["76", "77"],
 		"capital": "Astana",
@@ -5298,8 +5299,7 @@
 		"demonym": "Kazakhstani",
 		"landlocked": true,
 		"borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"],
-		"area": 2724900,
-		"ioc": "KAZ"
+		"area": 2724900
 	},
 	{
 		"name": {
@@ -5320,6 +5320,7 @@
 		"cca2": "KE",
 		"ccn3": "404",
 		"cca3": "KEN",
+		"ioc": "KEN",
 		"currency": ["KES"],
 		"callingCode": ["254"],
 		"capital": "Nairobi",
@@ -5345,8 +5346,7 @@
 		"demonym": "Kenyan",
 		"landlocked": false,
 		"borders": ["ETH", "SOM", "SSD", "TZA", "UGA"],
-		"area": 580367,
-		"ioc": "KEN"
+		"area": 580367
 	},
 	{
 		"name": {
@@ -5367,6 +5367,7 @@
 		"cca2": "KG",
 		"ccn3": "417",
 		"cca3": "KGZ",
+		"ioc": "KGZ",
 		"currency": ["KGS"],
 		"callingCode": ["996"],
 		"capital": "Bishkek",
@@ -5392,8 +5393,7 @@
 		"demonym": "Kirghiz",
 		"landlocked": true,
 		"borders": ["CHN", "KAZ", "TJK", "UZB"],
-		"area": 199951,
-		"ioc": "KGZ"
+		"area": 199951
 	},
 	{
 		"name": {
@@ -5410,6 +5410,7 @@
 		"cca2": "KH",
 		"ccn3": "116",
 		"cca3": "KHM",
+		"ioc": "CAM",
 		"currency": ["KHR"],
 		"callingCode": ["855"],
 		"capital": "Phnom Penh",
@@ -5435,8 +5436,7 @@
 		"demonym": "Cambodian",
 		"landlocked": false,
 		"borders": ["LAO", "THA", "VNM"],
-		"area": 181035,
-		"ioc": "CAM"
+		"area": 181035
 	},
 	{
 		"name": {
@@ -5457,6 +5457,7 @@
 		"cca2": "KI",
 		"ccn3": "296",
 		"cca3": "KIR",
+		"ioc": "KIR",
 		"currency": ["AUD"],
 		"callingCode": ["686"],
 		"capital": "South Tarawa",
@@ -5482,8 +5483,7 @@
 		"demonym": "I-Kiribati",
 		"landlocked": false,
 		"borders": [],
-		"area": 811,
-		"ioc": "KIR"
+		"area": 811
 	},
 	{
 		"name": {
@@ -5500,6 +5500,7 @@
 		"cca2": "KN",
 		"ccn3": "659",
 		"cca3": "KNA",
+		"ioc": "SKN",
 		"currency": ["XCD"],
 		"callingCode": ["1869"],
 		"capital": "Basseterre",
@@ -5524,8 +5525,7 @@
 		"demonym": "Kittitian or Nevisian",
 		"landlocked": false,
 		"borders": [],
-		"area": 261,
-		"ioc": "SKN"
+		"area": 261
 	},
 	{
 		"name": {
@@ -5542,6 +5542,7 @@
 		"cca2": "KR",
 		"ccn3": "410",
 		"cca3": "KOR",
+		"ioc": "KOR",
 		"currency": ["KRW"],
 		"callingCode": ["82"],
 		"capital": "Seoul",
@@ -5566,8 +5567,7 @@
 		"demonym": "South Korean",
 		"landlocked": false,
 		"borders": ["PRK"],
-		"area": 100210,
-		"ioc": "KOR"
+		"area": 100210
 	},
 	{
 		"name": {
@@ -5588,6 +5588,7 @@
 		"cca2": "XK",
 		"ccn3": "780",
 		"cca3": "KOS",
+		"ioc": "KOS",
 		"currency": ["EUR"],
 		"callingCode": ["383"],
 		"capital": "Pristina",
@@ -5608,8 +5609,7 @@
 		"demonym": "Kosovar",
 		"landlocked": true,
 		"borders": ["ALB", "MKD", "MNE", "SRB"],
-		"area": 10908,
-		"ioc": "KOS"
+		"area": 10908
 	},
 	{
 		"name": {
@@ -5626,6 +5626,7 @@
 		"cca2": "KW",
 		"ccn3": "414",
 		"cca3": "KWT",
+		"ioc": "KUW",
 		"currency": ["KWD"],
 		"callingCode": ["965"],
 		"capital": "Kuwait City",
@@ -5650,8 +5651,7 @@
 		"demonym": "Kuwaiti",
 		"landlocked": false,
 		"borders": ["IRN", "SAU"],
-		"area": 17818,
-		"ioc": "KUW"
+		"area": 17818
 	},
 	{
 		"name": {
@@ -5668,6 +5668,7 @@
 		"cca2": "LA",
 		"ccn3": "418",
 		"cca3": "LAO",
+		"ioc": "LAO",
 		"currency": ["LAK"],
 		"callingCode": ["856"],
 		"capital": "Vientiane",
@@ -5692,8 +5693,7 @@
 		"demonym": "Laotian",
 		"landlocked": true,
 		"borders": ["MMR", "KHM", "CHN", "THA", "VNM"],
-		"area": 236800,
-		"ioc": "LAO"
+		"area": 236800
 	},
 	{
 		"name": {
@@ -5714,6 +5714,7 @@
 		"cca2": "LB",
 		"ccn3": "422",
 		"cca3": "LBN",
+		"ioc": "LIB",
 		"currency": ["LBP"],
 		"callingCode": ["961"],
 		"capital": "Beirut",
@@ -5739,8 +5740,7 @@
 		"demonym": "Lebanese",
 		"landlocked": false,
 		"borders": ["ISR", "SYR"],
-		"area": 10452,
-		"ioc": "LIB"
+		"area": 10452
 	},
 	{
 		"name": {
@@ -5757,6 +5757,7 @@
 		"cca2": "LR",
 		"ccn3": "430",
 		"cca3": "LBR",
+		"ioc": "LBR",
 		"currency": ["LRD"],
 		"callingCode": ["231"],
 		"capital": "Monrovia",
@@ -5781,8 +5782,7 @@
 		"demonym": "Liberian",
 		"landlocked": false,
 		"borders": ["GIN", "CIV", "SLE"],
-		"area": 111369,
-		"ioc": "LBR"
+		"area": 111369
 	},
 	{
 		"name": {
@@ -5799,6 +5799,7 @@
 		"cca2": "LY",
 		"ccn3": "434",
 		"cca3": "LBY",
+		"ioc": "LBA",
 		"currency": ["LYD"],
 		"callingCode": ["218"],
 		"capital": "Tripoli",
@@ -5823,8 +5824,7 @@
 		"demonym": "Libyan",
 		"landlocked": false,
 		"borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"],
-		"area": 1759540,
-		"ioc": "LBA"
+		"area": 1759540
 	},
 	{
 		"name": {
@@ -5841,6 +5841,7 @@
 		"cca2": "LC",
 		"ccn3": "662",
 		"cca3": "LCA",
+		"ioc": "LCA",
 		"currency": ["XCD"],
 		"callingCode": ["1758"],
 		"capital": "Castries",
@@ -5865,8 +5866,7 @@
 		"demonym": "Saint Lucian",
 		"landlocked": false,
 		"borders": [],
-		"area": 616,
-		"ioc": "LCA"
+		"area": 616
 	},
 	{
 		"name": {
@@ -5883,6 +5883,7 @@
 		"cca2": "LI",
 		"ccn3": "438",
 		"cca3": "LIE",
+		"ioc": "LIE",
 		"currency": ["CHF"],
 		"callingCode": ["423"],
 		"capital": "Vaduz",
@@ -5907,8 +5908,7 @@
 		"demonym": "Liechtensteiner",
 		"landlocked": true,
 		"borders": ["AUT", "CHE"],
-		"area": 160,
-		"ioc": "LIE"
+		"area": 160
 	},
 	{
 		"name": {
@@ -5929,6 +5929,7 @@
 		"cca2": "LK",
 		"ccn3": "144",
 		"cca3": "LKA",
+		"ioc": "SRI",
 		"currency": ["LKR"],
 		"callingCode": ["94"],
 		"capital": "Colombo",
@@ -5954,8 +5955,7 @@
 		"demonym": "Sri Lankan",
 		"landlocked": false,
 		"borders": ["IND"],
-		"area": 65610,
-		"ioc": "SRI"
+		"area": 65610
 	},
 	{
 		"name": {
@@ -5976,6 +5976,7 @@
 		"cca2": "LS",
 		"ccn3": "426",
 		"cca3": "LSO",
+		"ioc": "LES",
 		"currency": ["LSL", "ZAR"],
 		"callingCode": ["266"],
 		"capital": "Maseru",
@@ -6001,8 +6002,7 @@
 		"demonym": "Mosotho",
 		"landlocked": true,
 		"borders": ["ZAF"],
-		"area": 30355,
-		"ioc": "LES"
+		"area": 30355
 	},
 	{
 		"name": {
@@ -6019,6 +6019,7 @@
 		"cca2": "LT",
 		"ccn3": "440",
 		"cca3": "LTU",
+		"ioc": "LTU",
 		"currency": ["EUR"],
 		"callingCode": ["370"],
 		"capital": "Vilnius",
@@ -6043,8 +6044,7 @@
 		"demonym": "Lithuanian",
 		"landlocked": false,
 		"borders": ["BLR", "LVA", "POL", "RUS"],
-		"area": 65300,
-		"ioc": "LTU"
+		"area": 65300
 	},
 	{
 		"name": {
@@ -6069,6 +6069,7 @@
 		"cca2": "LU",
 		"ccn3": "442",
 		"cca3": "LUX",
+		"ioc": "LUX",
 		"currency": ["EUR"],
 		"callingCode": ["352"],
 		"capital": "Luxembourg",
@@ -6095,8 +6096,7 @@
 		"demonym": "Luxembourger",
 		"landlocked": true,
 		"borders": ["BEL", "FRA", "DEU"],
-		"area": 2586,
-		"ioc": "LUX"
+		"area": 2586
 	},
 	{
 		"name": {
@@ -6113,6 +6113,7 @@
 		"cca2": "LV",
 		"ccn3": "428",
 		"cca3": "LVA",
+		"ioc": "LAT",
 		"currency": ["EUR"],
 		"callingCode": ["371"],
 		"capital": "Riga",
@@ -6137,8 +6138,7 @@
 		"demonym": "Latvian",
 		"landlocked": false,
 		"borders": ["BLR", "EST", "LTU", "RUS"],
-		"area": 64559,
-		"ioc": "LAT"
+		"area": 64559
 	},
 	{
 		"name": {
@@ -6159,6 +6159,7 @@
 		"cca2": "MO",
 		"ccn3": "446",
 		"cca3": "MAC",
+		"ioc": "",
 		"currency": ["MOP"],
 		"callingCode": ["853"],
 		"capital": "",
@@ -6184,8 +6185,7 @@
 		"demonym": "Chinese",
 		"landlocked": false,
 		"borders": ["CHN"],
-		"area": 30,
-		"ioc": ""
+		"area": 30
 	},
 	{
 		"name": {
@@ -6202,6 +6202,7 @@
 		"cca2": "MF",
 		"ccn3": "663",
 		"cca3": "MAF",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": ["590"],
 		"capital": "Marigot",
@@ -6226,8 +6227,7 @@
 		"demonym": "Saint Martin Islander",
 		"landlocked": false,
 		"borders": ["SXM"],
-		"area": 53,
-		"ioc": ""
+		"area": 53
 	},
 	{
 		"name": {
@@ -6248,6 +6248,7 @@
 		"cca2": "MA",
 		"ccn3": "504",
 		"cca3": "MAR",
+		"ioc": "MAR",
 		"currency": ["MAD"],
 		"callingCode": ["212"],
 		"capital": "Rabat",
@@ -6273,8 +6274,7 @@
 		"demonym": "Moroccan",
 		"landlocked": false,
 		"borders": ["DZA", "ESH", "ESP"],
-		"area": 446550,
-		"ioc": "MAR"
+		"area": 446550
 	},
 	{
 		"name": {
@@ -6291,6 +6291,7 @@
 		"cca2": "MC",
 		"ccn3": "492",
 		"cca3": "MCO",
+		"ioc": "MON",
 		"currency": ["EUR"],
 		"callingCode": ["377"],
 		"capital": "Monaco",
@@ -6315,8 +6316,7 @@
 		"demonym": "Monegasque",
 		"landlocked": false,
 		"borders": ["FRA"],
-		"area": 2.02,
-		"ioc": "MON"
+		"area": 2.02
 	},
 	{
 		"name": {
@@ -6333,6 +6333,7 @@
 		"cca2": "MD",
 		"ccn3": "498",
 		"cca3": "MDA",
+		"ioc": "MDA",
 		"currency": ["MDL"],
 		"callingCode": ["373"],
 		"capital": "Chi\u0219in\u0103u",
@@ -6357,8 +6358,7 @@
 		"demonym": "Moldovan",
 		"landlocked": true,
 		"borders": ["ROU", "UKR"],
-		"area": 33846,
-		"ioc": "MDA"
+		"area": 33846
 	},
 	{
 		"name": {
@@ -6379,6 +6379,7 @@
 		"cca2": "MG",
 		"ccn3": "450",
 		"cca3": "MDG",
+		"ioc": "MAD",
 		"currency": ["MGA"],
 		"callingCode": ["261"],
 		"capital": "Antananarivo",
@@ -6404,8 +6405,7 @@
 		"demonym": "Malagasy",
 		"landlocked": false,
 		"borders": [],
-		"area": 587041,
-		"ioc": "MAD"
+		"area": 587041
 	},
 	{
 		"name": {
@@ -6422,6 +6422,7 @@
 		"cca2": "MV",
 		"ccn3": "462",
 		"cca3": "MDV",
+		"ioc": "MDV",
 		"currency": ["MVR"],
 		"callingCode": ["960"],
 		"capital": "Mal\u00e9",
@@ -6446,8 +6447,7 @@
 		"demonym": "Maldivan",
 		"landlocked": false,
 		"borders": [],
-		"area": 300,
-		"ioc": "MDV"
+		"area": 300
 	},
 	{
 		"name": {
@@ -6464,6 +6464,7 @@
 		"cca2": "MX",
 		"ccn3": "484",
 		"cca3": "MEX",
+		"ioc": "MEX",
 		"currency": ["MXN"],
 		"callingCode": ["52"],
 		"capital": "Mexico City",
@@ -6488,8 +6489,7 @@
 		"demonym": "Mexican",
 		"landlocked": false,
 		"borders": ["BLZ", "GTM", "USA"],
-		"area": 1964375,
-		"ioc": "MEX"
+		"area": 1964375
 	},
 	{
 		"name": {
@@ -6510,6 +6510,7 @@
 		"cca2": "MH",
 		"ccn3": "584",
 		"cca3": "MHL",
+		"ioc": "MHL",
 		"currency": ["USD"],
 		"callingCode": ["692"],
 		"capital": "Majuro",
@@ -6535,8 +6536,7 @@
 		"demonym": "Marshallese",
 		"landlocked": false,
 		"borders": [],
-		"area": 181,
-		"ioc": "MHL"
+		"area": 181
 	},
 	{
 		"name": {
@@ -6553,6 +6553,7 @@
 		"cca2": "MK",
 		"ccn3": "807",
 		"cca3": "MKD",
+		"ioc": "MKD",
 		"currency": ["MKD"],
 		"callingCode": ["389"],
 		"capital": "Skopje",
@@ -6577,8 +6578,7 @@
 		"demonym": "Macedonian",
 		"landlocked": true,
 		"borders": ["ALB", "BGR", "GRC", "KOS", "SRB"],
-		"area": 25713,
-		"ioc": "MKD"
+		"area": 25713
 	},
 	{
 		"name": {
@@ -6595,6 +6595,7 @@
 		"cca2": "ML",
 		"ccn3": "466",
 		"cca3": "MLI",
+		"ioc": "MLI",
 		"currency": ["XOF"],
 		"callingCode": ["223"],
 		"capital": "Bamako",
@@ -6619,8 +6620,7 @@
 		"demonym": "Malian",
 		"landlocked": true,
 		"borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"],
-		"area": 1240192,
-		"ioc": "MLI"
+		"area": 1240192
 	},
 	{
 		"name": {
@@ -6641,6 +6641,7 @@
 		"cca2": "MT",
 		"ccn3": "470",
 		"cca3": "MLT",
+		"ioc": "MLT",
 		"currency": ["EUR"],
 		"callingCode": ["356"],
 		"capital": "Valletta",
@@ -6666,8 +6667,7 @@
 		"demonym": "Maltese",
 		"landlocked": false,
 		"borders": [],
-		"area": 316,
-		"ioc": "MLT"
+		"area": 316
 	},
 	{
 		"name": {
@@ -6684,6 +6684,7 @@
 		"cca2": "MM",
 		"ccn3": "104",
 		"cca3": "MMR",
+		"ioc": "MYA",
 		"currency": ["MMK"],
 		"callingCode": ["95"],
 		"capital": "Naypyidaw",
@@ -6708,8 +6709,7 @@
 		"demonym": "Bamar",
 		"landlocked": false,
 		"borders": ["BGD", "CHN", "IND", "LAO", "THA"],
-		"area": 676578,
-		"ioc": "MYA"
+		"area": 676578
 	},
 	{
 		"name": {
@@ -6726,6 +6726,7 @@
 		"cca2": "ME",
 		"ccn3": "499",
 		"cca3": "MNE",
+		"ioc": "MNE",
 		"currency": ["EUR"],
 		"callingCode": ["382"],
 		"capital": "Podgorica",
@@ -6750,8 +6751,7 @@
 		"demonym": "Montenegrin",
 		"landlocked": false,
 		"borders": ["ALB", "BIH", "HRV", "KOS", "SRB"],
-		"area": 13812,
-		"ioc": "MNE"
+		"area": 13812
 	},
 	{
 		"name": {
@@ -6768,6 +6768,7 @@
 		"cca2": "MN",
 		"ccn3": "496",
 		"cca3": "MNG",
+		"ioc": "MGL",
 		"currency": ["MNT"],
 		"callingCode": ["976"],
 		"capital": "Ulan Bator",
@@ -6792,8 +6793,7 @@
 		"demonym": "Mongolian",
 		"landlocked": true,
 		"borders": ["CHN", "RUS"],
-		"area": 1564110,
-		"ioc": "MGL"
+		"area": 1564110
 	},
 	{
 		"name": {
@@ -6818,6 +6818,7 @@
 		"cca2": "MP",
 		"ccn3": "580",
 		"cca3": "MNP",
+		"ioc": "",
 		"currency": ["USD"],
 		"callingCode": ["1670"],
 		"capital": "Saipan",
@@ -6844,8 +6845,7 @@
 		"demonym": "American",
 		"landlocked": false,
 		"borders": [],
-		"area": 464,
-		"ioc": ""
+		"area": 464
 	},
 	{
 		"name": {
@@ -6862,6 +6862,7 @@
 		"cca2": "MZ",
 		"ccn3": "508",
 		"cca3": "MOZ",
+		"ioc": "MOZ",
 		"currency": ["MZN"],
 		"callingCode": ["258"],
 		"capital": "Maputo",
@@ -6886,8 +6887,7 @@
 		"demonym": "Mozambican",
 		"landlocked": false,
 		"borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"],
-		"area": 801590,
-		"ioc": "MOZ"
+		"area": 801590
 	},
 	{
 		"name": {
@@ -6904,6 +6904,7 @@
 		"cca2": "MR",
 		"ccn3": "478",
 		"cca3": "MRT",
+		"ioc": "MTN",
 		"currency": ["MRO"],
 		"callingCode": ["222"],
 		"capital": "Nouakchott",
@@ -6928,8 +6929,7 @@
 		"demonym": "Mauritanian",
 		"landlocked": false,
 		"borders": ["DZA", "MLI", "SEN", "ESH"],
-		"area": 1030700,
-		"ioc": "MTN"
+		"area": 1030700
 	},
 	{
 		"name": {
@@ -6946,6 +6946,7 @@
 		"cca2": "MS",
 		"ccn3": "500",
 		"cca3": "MSR",
+		"ioc": "",
 		"currency": ["XCD"],
 		"callingCode": ["1664"],
 		"capital": "Plymouth",
@@ -6970,8 +6971,7 @@
 		"demonym": "Montserratian",
 		"landlocked": false,
 		"borders": [],
-		"area": 102,
-		"ioc": ""
+		"area": 102
 	},
 	{
 		"name": {
@@ -6988,6 +6988,7 @@
 		"cca2": "MQ",
 		"ccn3": "474",
 		"cca3": "MTQ",
+		"ioc": ""
 		"currency": ["EUR"],
 		"callingCode": ["596"],
 		"capital": "Fort-de-France",
@@ -7012,8 +7013,7 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": [],
-		"area": 1128,
-		"ioc": ""
+		"area": 1128
 	},
 	{
 		"name": {
@@ -7038,6 +7038,7 @@
 		"cca2": "MU",
 		"ccn3": "480",
 		"cca3": "MUS",
+		"ioc": "MRI",
 		"currency": ["MUR"],
 		"callingCode": ["230"],
 		"capital": "Port Louis",
@@ -7064,8 +7065,7 @@
 		"demonym": "Mauritian",
 		"landlocked": false,
 		"borders": [],
-		"area": 2040,
-		"ioc": "MRI"
+		"area": 2040
 	},
 	{
 		"name": {
@@ -7086,6 +7086,7 @@
 		"cca2": "MW",
 		"ccn3": "454",
 		"cca3": "MWI",
+		"ioc": "MAW",
 		"currency": ["MWK"],
 		"callingCode": ["265"],
 		"capital": "Lilongwe",
@@ -7111,8 +7112,7 @@
 		"demonym": "Malawian",
 		"landlocked": true,
 		"borders": ["MOZ", "TZA", "ZMB"],
-		"area": 118484,
-		"ioc": "MAW"
+		"area": 118484
 	},
 	{
 		"name": {
@@ -7133,6 +7133,7 @@
 		"cca2": "MY",
 		"ccn3": "458",
 		"cca3": "MYS",
+		"ioc": "MAS",
 		"currency": ["MYR"],
 		"callingCode": ["60"],
 		"capital": "Kuala Lumpur",
@@ -7158,8 +7159,7 @@
 		"demonym": "Malaysian",
 		"landlocked": false,
 		"borders": ["BRN", "IDN", "THA"],
-		"area": 330803,
-		"ioc": "MAS"
+		"area": 330803
 	},
 	{
 		"name": {
@@ -7176,6 +7176,7 @@
 		"cca2": "YT",
 		"ccn3": "175",
 		"cca3": "MYT",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": ["262"],
 		"capital": "Mamoudzou",
@@ -7200,8 +7201,7 @@
 		"demonym": "Mahoran",
 		"landlocked": false,
 		"borders": [],
-		"area": 374,
-		"ioc": ""
+		"area": 374
 	},
 	{
 		"name": {
@@ -7250,6 +7250,7 @@
 		"cca2": "NA",
 		"ccn3": "516",
 		"cca3": "NAM",
+		"ioc": "NAM",
 		"currency": ["NAD", "ZAR"],
 		"callingCode": ["264"],
 		"capital": "Windhoek",
@@ -7282,8 +7283,7 @@
 		"demonym": "Namibian",
 		"landlocked": false,
 		"borders": ["AGO", "BWA", "ZAF", "ZMB"],
-		"area": 825615,
-		"ioc": "NAM"
+		"area": 825615
 	},
 	{
 		"name": {
@@ -7300,6 +7300,7 @@
 		"cca2": "NC",
 		"ccn3": "540",
 		"cca3": "NCL",
+		"ioc": "",
 		"currency": ["XPF"],
 		"callingCode": ["687"],
 		"capital": "Noum\u00e9a",
@@ -7324,8 +7325,7 @@
 		"demonym": "New Caledonian",
 		"landlocked": false,
 		"borders": [],
-		"area": 18575,
-		"ioc": ""
+		"area": 18575
 	},
 	{
 		"name": {
@@ -7342,6 +7342,7 @@
 		"cca2": "NE",
 		"ccn3": "562",
 		"cca3": "NER",
+		"ioc": "NIG",
 		"currency": ["XOF"],
 		"callingCode": ["227"],
 		"capital": "Niamey",
@@ -7366,8 +7367,7 @@
 		"demonym": "Nigerien",
 		"landlocked": true,
 		"borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
-		"area": 1267000,
-		"ioc": "NIG"
+		"area": 1267000
 	},
 	{
 		"name": {
@@ -7388,6 +7388,7 @@
 		"cca2": "NF",
 		"ccn3": "574",
 		"cca3": "NFK",
+		"ioc": "",
 		"currency": ["AUD"],
 		"callingCode": ["672"],
 		"capital": "Kingston",
@@ -7413,8 +7414,7 @@
 		"demonym": "Norfolk Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 36,
-		"ioc": ""
+		"area": 36
 	},
 	{
 		"name": {
@@ -7431,6 +7431,7 @@
 		"cca2": "NG",
 		"ccn3": "566",
 		"cca3": "NGA",
+		"ioc": "NGR",
 		"currency": ["NGN"],
 		"callingCode": ["234"],
 		"capital": "Abuja",
@@ -7455,8 +7456,7 @@
 		"demonym": "Nigerian",
 		"landlocked": false,
 		"borders": ["BEN", "CMR", "TCD", "NER"],
-		"area": 923768,
-		"ioc": "NGR"
+		"area": 923768
 	},
 	{
 		"name": {
@@ -7473,6 +7473,7 @@
 		"cca2": "NI",
 		"ccn3": "558",
 		"cca3": "NIC",
+		"ioc": "NCA",
 		"currency": ["NIO"],
 		"callingCode": ["505"],
 		"capital": "Managua",
@@ -7497,8 +7498,7 @@
 		"demonym": "Nicaraguan",
 		"landlocked": false,
 		"borders": ["CRI", "HND"],
-		"area": 130373,
-		"ioc": "NCA"
+		"area": 130373
 	},
 	{
 		"name": {
@@ -7519,6 +7519,7 @@
 		"cca2": "NU",
 		"ccn3": "570",
 		"cca3": "NIU",
+		"ioc": "",
 		"currency": ["NZD"],
 		"callingCode": ["683"],
 		"capital": "Alofi",
@@ -7544,8 +7545,7 @@
 		"demonym": "Niuean",
 		"landlocked": false,
 		"borders": [],
-		"area": 260,
-		"ioc": ""
+		"area": 260
 	},
 	{
 		"name": {
@@ -7562,6 +7562,7 @@
 		"cca2": "NL",
 		"ccn3": "528",
 		"cca3": "NLD",
+		"ioc": "NED",
 		"currency": ["EUR"],
 		"callingCode": ["31"],
 		"capital": "Amsterdam",
@@ -7586,8 +7587,7 @@
 		"demonym": "Dutch",
 		"landlocked": false,
 		"borders": ["BEL", "DEU"],
-		"area": 41850,
-		"ioc": "NED"
+		"area": 41850
 	},
 	{
 		"name": {
@@ -7612,6 +7612,7 @@
 		"cca2": "NO",
 		"ccn3": "578",
 		"cca3": "NOR",
+		"ioc": "NOR",
 		"currency": ["NOK"],
 		"callingCode": ["47"],
 		"capital": "Oslo",
@@ -7638,8 +7639,7 @@
 		"demonym": "Norwegian",
 		"landlocked": false,
 		"borders": ["FIN", "SWE", "RUS"],
-		"area": 323802,
-		"ioc": "NOR"
+		"area": 323802
 	},
 	{
 		"name": {
@@ -7656,6 +7656,7 @@
 		"cca2": "NP",
 		"ccn3": "524",
 		"cca3": "NPL",
+		"ioc": "NEP",
 		"currency": ["NPR"],
 		"callingCode": ["977"],
 		"capital": "Kathmandu",
@@ -7680,8 +7681,7 @@
 		"demonym": "Nepalese",
 		"landlocked": true,
 		"borders": ["CHN", "IND"],
-		"area": 147181,
-		"ioc": "NEP"
+		"area": 147181
 	},
 	{
 		"name": {
@@ -7702,6 +7702,7 @@
 		"cca2": "NR",
 		"ccn3": "520",
 		"cca3": "NRU",
+		"ioc": "NRU",
 		"currency": ["AUD"],
 		"callingCode": ["674"],
 		"capital": "Yaren",
@@ -7727,8 +7728,7 @@
 		"demonym": "Nauruan",
 		"landlocked": false,
 		"borders": [],
-		"area": 21,
-		"ioc": "NRU"
+		"area": 21
 	},
 	{
 		"name": {
@@ -7753,6 +7753,7 @@
 		"cca2": "NZ",
 		"ccn3": "554",
 		"cca3": "NZL",
+		"ioc": "NZL",
 		"currency": ["NZD"],
 		"callingCode": ["64"],
 		"capital": "Wellington",
@@ -7779,8 +7780,7 @@
 		"demonym": "New Zealander",
 		"landlocked": false,
 		"borders": [],
-		"area": 270467,
-		"ioc": "NZL"
+		"area": 270467
 	},
 	{
 		"name": {
@@ -7797,6 +7797,7 @@
 		"cca2": "OM",
 		"ccn3": "512",
 		"cca3": "OMN",
+		"ioc": "OMA",
 		"currency": ["OMR"],
 		"callingCode": ["968"],
 		"capital": "Muscat",
@@ -7821,8 +7822,7 @@
 		"demonym": "Omani",
 		"landlocked": false,
 		"borders": ["SAU", "ARE", "YEM"],
-		"area": 309500,
-		"ioc": "OMA"
+		"area": 309500
 	},
 	{
 		"name": {
@@ -7843,6 +7843,7 @@
 		"cca2": "PK",
 		"ccn3": "586",
 		"cca3": "PAK",
+		"ioc": "PAK",
 		"currency": ["PKR"],
 		"callingCode": ["92"],
 		"capital": "Islamabad",
@@ -7868,8 +7869,7 @@
 		"demonym": "Pakistani",
 		"landlocked": false,
 		"borders": ["AFG", "CHN", "IND", "IRN"],
-		"area": 881912,
-		"ioc": "PAK"
+		"area": 881912
 	},
 	{
 		"name": {
@@ -7886,6 +7886,7 @@
 		"cca2": "PA",
 		"ccn3": "591",
 		"cca3": "PAN",
+		"ioc": "PAN",
 		"currency": ["PAB", "USD"],
 		"callingCode": ["507"],
 		"capital": "Panama City",
@@ -7910,8 +7911,7 @@
 		"demonym": "Panamanian",
 		"landlocked": false,
 		"borders": ["COL", "CRI"],
-		"area": 75417,
-		"ioc": "PAN"
+		"area": 75417
 	},
 	{
 		"name": {
@@ -7928,6 +7928,7 @@
 		"cca2": "PN",
 		"ccn3": "612",
 		"cca3": "PCN",
+		"ioc": "",
 		"currency": ["NZD"],
 		"callingCode": ["64"],
 		"capital": "Adamstown",
@@ -7952,8 +7953,7 @@
 		"demonym": "Pitcairn Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 47,
-		"ioc": ""
+		"area": 47
 	},
 	{
 		"name": {
@@ -7978,6 +7978,7 @@
 		"cca2": "PE",
 		"ccn3": "604",
 		"cca3": "PER",
+		"ioc": "PER",
 		"currency": ["PEN"],
 		"callingCode": ["51"],
 		"capital": "Lima",
@@ -8004,8 +8005,7 @@
 		"demonym": "Peruvian",
 		"landlocked": false,
 		"borders": ["BOL", "BRA", "CHL", "COL", "ECU"],
-		"area": 1285216,
-		"ioc": "PER"
+		"area": 1285216
 	},
 	{
 		"name": {
@@ -8026,6 +8026,7 @@
 		"cca2": "PH",
 		"ccn3": "608",
 		"cca3": "PHL",
+		"ioc": "PHI",
 		"currency": ["PHP"],
 		"callingCode": ["63"],
 		"capital": "Manila",
@@ -8051,8 +8052,7 @@
 		"demonym": "Filipino",
 		"landlocked": false,
 		"borders": [],
-		"area": 342353,
-		"ioc": "PHI"
+		"area": 342353
 	},
 	{
 		"name": {
@@ -8073,6 +8073,7 @@
 		"cca2": "PW",
 		"ccn3": "585",
 		"cca3": "PLW",
+		"ioc": "PLW",
 		"currency": ["USD"],
 		"callingCode": ["680"],
 		"capital": "Ngerulmud",
@@ -8098,8 +8099,7 @@
 		"demonym": "Palauan",
 		"landlocked": false,
 		"borders": [],
-		"area": 459,
-		"ioc": "PLW"
+		"area": 459
 	},
 	{
 		"name": {
@@ -8124,6 +8124,7 @@
 		"cca2": "PG",
 		"ccn3": "598",
 		"cca3": "PNG",
+		"ioc": "PNG",
 		"currency": ["PGK"],
 		"callingCode": ["675"],
 		"capital": "Port Moresby",
@@ -8150,8 +8151,7 @@
 		"demonym": "Papua New Guinean",
 		"landlocked": false,
 		"borders": ["IDN"],
-		"area": 462840,
-		"ioc": "PNG"
+		"area": 462840
 	},
 	{
 		"name": {
@@ -8168,6 +8168,7 @@
 		"cca2": "PL",
 		"ccn3": "616",
 		"cca3": "POL",
+		"ioc": "POL",
 		"currency": ["PLN"],
 		"callingCode": ["48"],
 		"capital": "Warsaw",
@@ -8192,8 +8193,7 @@
 		"demonym": "Polish",
 		"landlocked": false,
 		"borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"],
-		"area": 312679,
-		"ioc": "POL"
+		"area": 312679
 	},
 	{
 		"name": {
@@ -8214,6 +8214,7 @@
 		"cca2": "PR",
 		"ccn3": "630",
 		"cca3": "PRI",
+		"ioc": "PUR",
 		"currency": ["USD"],
 		"callingCode": ["1787", "1939"],
 		"capital": "San Juan",
@@ -8239,8 +8240,7 @@
 		"demonym": "Puerto Rican",
 		"landlocked": false,
 		"borders": [],
-		"area": 8870,
-		"ioc": "PUR"
+		"area": 8870
 	},
 	{
 		"name": {
@@ -8257,6 +8257,7 @@
 		"cca2": "KP",
 		"ccn3": "408",
 		"cca3": "PRK",
+		"ioc": "PRK",
 		"currency": ["KPW"],
 		"callingCode": ["850"],
 		"capital": "Pyongyang",
@@ -8281,8 +8282,7 @@
 		"demonym": "North Korean",
 		"landlocked": false,
 		"borders": ["CHN", "KOR", "RUS"],
-		"area": 120538,
-		"ioc": "PRK"
+		"area": 120538
 	},
 	{
 		"name": {
@@ -8299,6 +8299,7 @@
 		"cca2": "PT",
 		"ccn3": "620",
 		"cca3": "PRT",
+		"ioc": "POR",
 		"currency": ["EUR"],
 		"callingCode": ["351"],
 		"capital": "Lisbon",
@@ -8323,8 +8324,7 @@
 		"demonym": "Portuguese",
 		"landlocked": false,
 		"borders": ["ESP"],
-		"area": 92090,
-		"ioc": "POR"
+		"area": 92090
 	},
 	{
 		"name": {
@@ -8345,6 +8345,7 @@
 		"cca2": "PY",
 		"ccn3": "600",
 		"cca3": "PRY",
+		"ioc": "PAR",
 		"currency": ["PYG"],
 		"callingCode": ["595"],
 		"capital": "Asunci\u00f3n",
@@ -8370,8 +8371,7 @@
 		"demonym": "Paraguayan",
 		"landlocked": true,
 		"borders": ["ARG", "BOL", "BRA"],
-		"area": 406752,
-		"ioc": "PAR"
+		"area": 406752
 	},
 	{
 		"name": {
@@ -8388,6 +8388,7 @@
 		"cca2": "PS",
 		"ccn3": "275",
 		"cca3": "PSE",
+		"ioc": "PLE",
 		"currency": ["ILS"],
 		"callingCode": ["970"],
 		"capital": "Ramallah",
@@ -8412,8 +8413,7 @@
 		"demonym": "Palestinian",
 		"landlocked": false,
 		"borders": ["ISR", "EGY", "JOR"],
-		"area": 6220,
-		"ioc": "PLE"
+		"area": 6220
 	},
 	{
 		"name": {
@@ -8430,6 +8430,7 @@
 		"cca2": "PF",
 		"ccn3": "258",
 		"cca3": "PYF",
+		"ioc": "",
 		"currency": ["XPF"],
 		"callingCode": ["689"],
 		"capital": "Papeet\u0113",
@@ -8454,8 +8455,7 @@
 		"demonym": "French Polynesian",
 		"landlocked": false,
 		"borders": [],
-		"area": 4167,
-		"ioc": ""
+		"area": 4167
 	},
 	{
 		"name": {
@@ -8472,6 +8472,7 @@
 		"cca2": "QA",
 		"ccn3": "634",
 		"cca3": "QAT",
+		"ioc": "QAT",
 		"currency": ["QAR"],
 		"callingCode": ["974"],
 		"capital": "Doha",
@@ -8496,8 +8497,7 @@
 		"demonym": "Qatari",
 		"landlocked": false,
 		"borders": ["SAU"],
-		"area": 11586,
-		"ioc": "QAT"
+		"area": 11586
 	},
 	{
 		"name": {
@@ -8514,6 +8514,7 @@
 		"cca2": "RE",
 		"ccn3": "638",
 		"cca3": "REU",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": ["262"],
 		"capital": "Saint-Denis",
@@ -8538,8 +8539,7 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": [],
-		"area": 2511,
-		"ioc": ""
+		"area": 2511
 	},
 	{
 		"name": {
@@ -8556,6 +8556,7 @@
 		"cca2": "RO",
 		"ccn3": "642",
 		"cca3": "ROU",
+		"ioc": "ROU",
 		"currency": ["RON"],
 		"callingCode": ["40"],
 		"capital": "Bucharest",
@@ -8580,8 +8581,7 @@
 		"demonym": "Romanian",
 		"landlocked": false,
 		"borders": ["BGR", "HUN", "MDA", "SRB", "UKR"],
-		"area": 238391,
-		"ioc": "ROU"
+		"area": 238391
 	},
 	{
 		"name": {
@@ -8598,6 +8598,7 @@
 		"cca2": "RU",
 		"ccn3": "643",
 		"cca3": "RUS",
+		"ioc": "RUS",
 		"currency": ["RUB"],
 		"callingCode": ["7"],
 		"capital": "Moscow",
@@ -8622,8 +8623,7 @@
 		"demonym": "Russian",
 		"landlocked": false,
 		"borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"],
-		"area": 17098242,
-		"ioc": "RUS"
+		"area": 17098242
 	},
 	{
 		"name": {
@@ -8648,6 +8648,7 @@
 		"cca2": "RW",
 		"ccn3": "646",
 		"cca3": "RWA",
+		"ioc": "RWA",
 		"currency": ["RWF"],
 		"callingCode": ["250"],
 		"capital": "Kigali",
@@ -8674,8 +8675,7 @@
 		"demonym": "Rwandan",
 		"landlocked": true,
 		"borders": ["BDI", "COD", "TZA", "UGA"],
-		"area": 26338,
-		"ioc": "RWA"
+		"area": 26338
 	},
 	{
 		"name": {
@@ -8692,6 +8692,7 @@
 		"cca2": "SA",
 		"ccn3": "682",
 		"cca3": "SAU",
+		"ioc": "KSA",
 		"currency": ["SAR"],
 		"callingCode": ["966"],
 		"capital": "Riyadh",
@@ -8716,8 +8717,7 @@
 		"demonym": "Saudi Arabian",
 		"landlocked": false,
 		"borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"],
-		"area": 2149690,
-		"ioc": "KSA"
+		"area": 2149690
 	},
 	{
 		"name": {
@@ -8738,6 +8738,7 @@
 		"cca2": "SD",
 		"ccn3": "729",
 		"cca3": "SDN",
+		"ioc": "SUD",
 		"currency": ["SDG"],
 		"callingCode": ["249"],
 		"capital": "Khartoum",
@@ -8763,8 +8764,7 @@
 		"demonym": "Sudanese",
 		"landlocked": false,
 		"borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"],
-		"area": 1886068,
-		"ioc": "SUD"
+		"area": 1886068
 	},
 	{
 		"name": {
@@ -8781,6 +8781,7 @@
 		"cca2": "SN",
 		"ccn3": "686",
 		"cca3": "SEN",
+		"ioc": "SEN",
 		"currency": ["XOF"],
 		"callingCode": ["221"],
 		"capital": "Dakar",
@@ -8805,8 +8806,7 @@
 		"demonym": "Senegalese",
 		"landlocked": false,
 		"borders": ["GMB", "GIN", "GNB", "MLI", "MRT"],
-		"area": 196722,
-		"ioc": "SEN"
+		"area": 196722
 	},
 	{
 		"name": {
@@ -8835,6 +8835,7 @@
 		"cca2": "SG",
 		"ccn3": "702",
 		"cca3": "SGP",
+		"ioc": "SIN",
 		"currency": ["SGD"],
 		"callingCode": ["65"],
 		"capital": "Singapore",
@@ -8862,8 +8863,7 @@
 		"demonym": "Singaporean",
 		"landlocked": false,
 		"borders": [],
-		"area": 710,
-		"ioc": "SIN"
+		"area": 710
 	},
 	{
 		"name": {
@@ -8880,6 +8880,7 @@
 		"cca2": "GS",
 		"ccn3": "239",
 		"cca3": "SGS",
+		"ioc": "",
 		"currency": ["GBP"],
 		"callingCode": ["500"],
 		"capital": "King Edward Point",
@@ -8904,8 +8905,7 @@
 		"demonym": "South Georgian South Sandwich Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 3903,
-		"ioc": ""
+		"area": 3903
 	},
 	{
 		"name": {
@@ -8922,6 +8922,7 @@
 		"cca2": "SH",
 		"ccn3": "654",
 		"cca3": "SHN",
+		"ioc": "",
 		"currency": ["SHP"],
 		"callingCode": ["290"],
 		"capital": "Jamestown",
@@ -8946,8 +8947,7 @@
 		"demonym": "Saint Helenian",
 		"landlocked": false,
 		"borders": [],
-		"area": 397,
-		"ioc": ""
+		"area": 397
 	},
 	{
 		"name": {
@@ -8964,6 +8964,7 @@
 		"cca2": "SJ",
 		"ccn3": "744",
 		"cca3": "SJM",
+		"ioc": "",
 		"currency": ["NOK"],
 		"callingCode": ["4779"],
 		"capital": "Longyearbyen",
@@ -8988,8 +8989,7 @@
 		"demonym": "Norwegian",
 		"landlocked": false,
 		"borders": [],
-		"area": -1,
-		"ioc": ""
+		"area": -1
 	},
 	{
 		"name": {
@@ -9006,6 +9006,7 @@
 		"cca2": "SB",
 		"ccn3": "090",
 		"cca3": "SLB",
+		"ioc": "SOL",
 		"currency": ["SDB"],
 		"callingCode": ["677"],
 		"capital": "Honiara",
@@ -9030,8 +9031,7 @@
 		"demonym": "Solomon Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 28896,
-		"ioc": "SOL"
+		"area": 28896
 	},
 	{
 		"name": {
@@ -9048,6 +9048,7 @@
 		"cca2": "SL",
 		"ccn3": "694",
 		"cca3": "SLE",
+		"ioc": "SLE",
 		"currency": ["SLL"],
 		"callingCode": ["232"],
 		"capital": "Freetown",
@@ -9072,8 +9073,7 @@
 		"demonym": "Sierra Leonean",
 		"landlocked": false,
 		"borders": ["GIN", "LBR"],
-		"area": 71740,
-		"ioc": "SLE"
+		"area": 71740
 	},
 	{
 		"name": {
@@ -9090,6 +9090,7 @@
 		"cca2": "SV",
 		"ccn3": "222",
 		"cca3": "SLV",
+		"ioc": "ESA",
 		"currency": ["SVC", "USD"],
 		"callingCode": ["503"],
 		"capital": "San Salvador",
@@ -9115,8 +9116,7 @@
 		"demonym": "Salvadoran",
 		"landlocked": false,
 		"borders": ["GTM", "HND"],
-		"area": 21041,
-		"ioc": "ESA"
+		"area": 21041
 	},
 	{
 		"name": {
@@ -9133,6 +9133,7 @@
 		"cca2": "SM",
 		"ccn3": "674",
 		"cca3": "SMR",
+		"ioc": "SMR",
 		"currency": ["EUR"],
 		"callingCode": ["378"],
 		"capital": "City of San Marino",
@@ -9157,8 +9158,7 @@
 		"demonym": "Sammarinese",
 		"landlocked": true,
 		"borders": ["ITA"],
-		"area": 61,
-		"ioc": "SMR"
+		"area": 61
 	},
 	{
 		"name": {
@@ -9179,6 +9179,7 @@
 		"cca2": "SO",
 		"ccn3": "706",
 		"cca3": "SOM",
+		"ioc": "SOM",
 		"currency": ["SOS"],
 		"callingCode": ["252"],
 		"capital": "Mogadishu",
@@ -9204,8 +9205,7 @@
 		"demonym": "Somali",
 		"landlocked": false,
 		"borders": ["DJI", "ETH", "KEN"],
-		"area": 637657,
-		"ioc": "SOM"
+		"area": 637657
 	},
 	{
 		"name": {
@@ -9222,6 +9222,7 @@
 		"cca2": "PM",
 		"ccn3": "666",
 		"cca3": "SPM",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": ["508"],
 		"capital": "Saint-Pierre",
@@ -9246,8 +9247,7 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": [],
-		"area": 242,
-		"ioc": ""
+		"area": 242
 	},
 	{
 		"name": {
@@ -9264,6 +9264,7 @@
 		"cca2": "RS",
 		"ccn3": "688",
 		"cca3": "SRB",
+		"ioc": "SRB",
 		"currency": ["RSD"],
 		"callingCode": ["381"],
 		"capital": "Belgrade",
@@ -9288,8 +9289,7 @@
 		"demonym": "Serbian",
 		"landlocked": true,
 		"borders": ["BIH", "BGR", "HRV", "HUN", "KOS", "MKD", "MNE", "ROU"],
-		"area": 88361,
-		"ioc": "SRB"
+		"area": 88361
 	},
 	{
 		"name": {
@@ -9306,6 +9306,7 @@
 		"cca2": "SS",
 		"ccn3": "728",
 		"cca3": "SSD",
+		"ioc": "",
 		"currency": ["SSP"],
 		"callingCode": ["211"],
 		"capital": "Juba",
@@ -9330,8 +9331,7 @@
 		"demonym": "South Sudanese",
 		"landlocked": true,
 		"borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"],
-		"area": 619745,
-		"ioc": ""
+		"area": 619745
 	},
 	{
 		"name": {
@@ -9348,6 +9348,7 @@
 		"cca2": "ST",
 		"ccn3": "678",
 		"cca3": "STP",
+		"ioc": "STP",
 		"currency": ["STD"],
 		"callingCode": ["239"],
 		"capital": "S\u00e3o Tom\u00e9",
@@ -9372,8 +9373,7 @@
 		"demonym": "Sao Tomean",
 		"landlocked": false,
 		"borders": [],
-		"area": 964,
-		"ioc": "STP"
+		"area": 964
 	},
 	{
 		"name": {
@@ -9390,6 +9390,7 @@
 		"cca2": "SR",
 		"ccn3": "740",
 		"cca3": "SUR",
+		"ioc": "SUR",
 		"currency": ["SRD"],
 		"callingCode": ["597"],
 		"capital": "Paramaribo",
@@ -9414,8 +9415,7 @@
 		"demonym": "Surinamer",
 		"landlocked": false,
 		"borders": ["BRA", "GUF", "GUY"],
-		"area": 163820,
-		"ioc": "SUR"
+		"area": 163820
 	},
 	{
 		"name": {
@@ -9432,6 +9432,7 @@
 		"cca2": "SK",
 		"ccn3": "703",
 		"cca3": "SVK",
+		"ioc": "SVK",
 		"currency": ["EUR"],
 		"callingCode": ["421"],
 		"capital": "Bratislava",
@@ -9456,8 +9457,7 @@
 		"demonym": "Slovak",
 		"landlocked": true,
 		"borders": ["AUT", "CZE", "HUN", "POL", "UKR"],
-		"area": 49037,
-		"ioc": "SVK"
+		"area": 49037
 	},
 	{
 		"name": {
@@ -9474,6 +9474,7 @@
 		"cca2": "SI",
 		"ccn3": "705",
 		"cca3": "SVN",
+		"ioc": "SLO",
 		"currency": ["EUR"],
 		"callingCode": ["386"],
 		"capital": "Ljubljana",
@@ -9498,8 +9499,7 @@
 		"demonym": "Slovene",
 		"landlocked": false,
 		"borders": ["AUT", "HRV", "ITA", "HUN"],
-		"area": 20273,
-		"ioc": "SLO"
+		"area": 20273
 	},
 	{
 		"name": {
@@ -9516,6 +9516,7 @@
 		"cca2": "SE",
 		"ccn3": "752",
 		"cca3": "SWE",
+		"ioc": "SWE",
 		"currency": ["SEK"],
 		"callingCode": ["46"],
 		"capital": "Stockholm",
@@ -9540,8 +9541,7 @@
 		"demonym": "Swedish",
 		"landlocked": false,
 		"borders": ["FIN", "NOR"],
-		"area": 450295,
-		"ioc": "SWE"
+		"area": 450295
 	},
 	{
 		"name": {
@@ -9562,6 +9562,7 @@
 		"cca2": "SZ",
 		"ccn3": "748",
 		"cca3": "SWZ",
+		"ioc": "SWZ",
 		"currency": ["SZL"],
 		"callingCode": ["268"],
 		"capital": "Lobamba",
@@ -9587,8 +9588,7 @@
 		"demonym": "Swazi",
 		"landlocked": true,
 		"borders": ["MOZ", "ZAF"],
-		"area": 17364,
-		"ioc": "SWZ"
+		"area": 17364
 	},
 	{
 		"name": {
@@ -9613,6 +9613,7 @@
 		"cca2": "SX",
 		"ccn3": "534",
 		"cca3": "SXM",
+		"ioc": "",
 		"currency": ["ANG"],
 		"callingCode": ["1721"],
 		"capital": "Philipsburg",
@@ -9638,8 +9639,7 @@
 		"demonym": "St. Maartener",
 		"landlocked": false,
 		"borders": ["MAF"],
-		"area": 34,
-		"ioc": ""
+		"area": 34
 	},
 	{
 		"name": {
@@ -9664,6 +9664,7 @@
 		"cca2": "SC",
 		"ccn3": "690",
 		"cca3": "SYC",
+		"ioc": "SEY",
 		"currency": ["SCR"],
 		"callingCode": ["248"],
 		"capital": "Victoria",
@@ -9690,8 +9691,7 @@
 		"demonym": "Seychellois",
 		"landlocked": false,
 		"borders": [],
-		"area": 452,
-		"ioc": "SEY"
+		"area": 452
 	},
 	{
 		"name": {
@@ -9708,6 +9708,7 @@
 		"cca2": "SY",
 		"ccn3": "760",
 		"cca3": "SYR",
+		"ioc": "SYR",
 		"currency": ["SYP"],
 		"callingCode": ["963"],
 		"capital": "Damascus",
@@ -9732,8 +9733,7 @@
 		"demonym": "Syrian",
 		"landlocked": false,
 		"borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"],
-		"area": 185180,
-		"ioc": "SYR"
+		"area": 185180
 	},
 	{
 		"name": {
@@ -9750,6 +9750,7 @@
 		"cca2": "TC",
 		"ccn3": "796",
 		"cca3": "TCA",
+		"ioc": "",
 		"currency": ["USD"],
 		"callingCode": ["1649"],
 		"capital": "Cockburn Town",
@@ -9774,8 +9775,7 @@
 		"demonym": "Turks and Caicos Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 948,
-		"ioc": ""
+		"area": 948
 	},
 	{
 		"name": {
@@ -9796,6 +9796,7 @@
 		"cca2": "TD",
 		"ccn3": "148",
 		"cca3": "TCD",
+		"ioc": "CHA",
 		"currency": ["XAF"],
 		"callingCode": ["235"],
 		"capital": "N'Djamena",
@@ -9822,8 +9823,7 @@
 		"demonym": "Chadian",
 		"landlocked": true,
 		"borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SSD"],
-		"area": 1284000,
-		"ioc": "CHA"
+		"area": 1284000
 	},
 	{
 		"name": {
@@ -9840,6 +9840,7 @@
 		"cca2": "TG",
 		"ccn3": "768",
 		"cca3": "TGO",
+		"ioc": "TOG",
 		"currency": ["XOF"],
 		"callingCode": ["228"],
 		"capital": "Lom\u00e9",
@@ -9864,8 +9865,7 @@
 		"demonym": "Togolese",
 		"landlocked": false,
 		"borders": ["BEN", "BFA", "GHA"],
-		"area": 56785,
-		"ioc": "TOG"
+		"area": 56785
 	},
 	{
 		"name": {
@@ -9882,6 +9882,7 @@
 		"cca2": "TH",
 		"ccn3": "764",
 		"cca3": "THA",
+		"ioc": "THA",
 		"currency": ["THB"],
 		"callingCode": ["66"],
 		"capital": "Bangkok",
@@ -9906,8 +9907,7 @@
 		"demonym": "Thai",
 		"landlocked": false,
 		"borders": ["MMR", "KHM", "LAO", "MYS"],
-		"area": 513120,
-		"ioc": "THA"
+		"area": 513120
 	},
 	{
 		"name": {
@@ -9928,6 +9928,7 @@
 		"cca2": "TJ",
 		"ccn3": "762",
 		"cca3": "TJK",
+		"ioc": "TJK",
 		"currency": ["TJS"],
 		"callingCode": ["992"],
 		"capital": "Dushanbe",
@@ -9953,8 +9954,7 @@
 		"demonym": "Tadzhik",
 		"landlocked": true,
 		"borders": ["AFG", "CHN", "KGZ", "UZB"],
-		"area": 143100,
-		"ioc": "TJK"
+		"area": 143100
 	},
 	{
 		"name": {
@@ -9979,6 +9979,7 @@
 		"cca2": "TK",
 		"ccn3": "772",
 		"cca3": "TKL",
+		"ioc": "",
 		"currency": ["NZD"],
 		"callingCode": ["690"],
 		"capital": "Fakaofo",
@@ -10005,8 +10006,7 @@
 		"demonym": "Tokelauan",
 		"landlocked": false,
 		"borders": [],
-		"area": 12,
-		"ioc": ""
+		"area": 12
 	},
 	{
 		"name": {
@@ -10027,6 +10027,7 @@
 		"cca2": "TM",
 		"ccn3": "795",
 		"cca3": "TKM",
+		"ioc": "TKM",
 		"currency": ["TMT"],
 		"callingCode": ["993"],
 		"capital": "Ashgabat",
@@ -10052,8 +10053,7 @@
 		"demonym": "Turkmen",
 		"landlocked": true,
 		"borders": ["AFG", "IRN", "KAZ", "UZB"],
-		"area": 488100,
-		"ioc": "TKM"
+		"area": 488100
 	},
 	{
 		"name": {
@@ -10074,6 +10074,7 @@
 		"cca2": "TL",
 		"ccn3": "626",
 		"cca3": "TLS",
+		"ioc": "TLS",
 		"currency": ["USD"],
 		"callingCode": ["670"],
 		"capital": "Dili",
@@ -10099,8 +10100,7 @@
 		"demonym": "East Timorese",
 		"landlocked": false,
 		"borders": ["IDN"],
-		"area": 14874,
-		"ioc": "TLS"
+		"area": 14874
 	},
 	{
 		"name": {
@@ -10121,6 +10121,7 @@
 		"cca2": "TO",
 		"ccn3": "776",
 		"cca3": "TON",
+		"ioc": "TGA",
 		"currency": ["TOP"],
 		"callingCode": ["676"],
 		"capital": "Nuku'alofa",
@@ -10146,8 +10147,7 @@
 		"demonym": "Tongan",
 		"landlocked": false,
 		"borders": [],
-		"area": 747,
-		"ioc": "TGA"
+		"area": 747
 	},
 	{
 		"name": {
@@ -10164,6 +10164,7 @@
 		"cca2": "TT",
 		"ccn3": "780",
 		"cca3": "TTO",
+		"ioc": "TTO",
 		"currency": ["TTD"],
 		"callingCode": ["1868"],
 		"capital": "Port of Spain",
@@ -10188,8 +10189,7 @@
 		"demonym": "Trinidadian",
 		"landlocked": false,
 		"borders": [],
-		"area": 5130,
-		"ioc": "TTO"
+		"area": 5130
 	},
 	{
 		"name": {
@@ -10206,6 +10206,7 @@
 		"cca2": "TN",
 		"ccn3": "788",
 		"cca3": "TUN",
+		"ioc": "TUN",
 		"currency": ["TND"],
 		"callingCode": ["216"],
 		"capital": "Tunis",
@@ -10230,8 +10231,7 @@
 		"demonym": "Tunisian",
 		"landlocked": false,
 		"borders": ["DZA", "LBY"],
-		"area": 163610,
-		"ioc": "TUN"
+		"area": 163610
 	},
 	{
 		"name": {
@@ -10248,6 +10248,7 @@
 		"cca2": "TR",
 		"ccn3": "792",
 		"cca3": "TUR",
+		"ioc": "TUR",
 		"currency": ["TRY"],
 		"callingCode": ["90"],
 		"capital": "Ankara",
@@ -10272,8 +10273,7 @@
 		"demonym": "Turkish",
 		"landlocked": false,
 		"borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"],
-		"area": 783562,
-		"ioc": "TUR"
+		"area": 783562
 	},
 	{
 		"name": {
@@ -10294,6 +10294,7 @@
 		"cca2": "TV",
 		"ccn3": "798",
 		"cca3": "TUV",
+		"ioc": "TUV",
 		"currency": ["AUD"],
 		"callingCode": ["688"],
 		"capital": "Funafuti",
@@ -10319,8 +10320,7 @@
 		"demonym": "Tuvaluan",
 		"landlocked": false,
 		"borders": [],
-		"area": 26,
-		"ioc": "TUV"
+		"area": 26
 	},
 	{
 		"name": {
@@ -10337,6 +10337,7 @@
 		"cca2": "TW",
 		"ccn3": "158",
 		"cca3": "TWN",
+		"ioc": "TPE",
 		"currency": ["TWD"],
 		"callingCode": ["886"],
 		"capital": "Taipei",
@@ -10361,8 +10362,7 @@
 		"demonym": "Taiwanese",
 		"landlocked": false,
 		"borders": [],
-		"area": 36193,
-		"ioc": "TPE"
+		"area": 36193
 	},
 	{
 		"name": {
@@ -10383,6 +10383,7 @@
 		"cca2": "TZ",
 		"ccn3": "834",
 		"cca3": "TZA",
+		"ioc": "TAN",
 		"currency": ["TZS"],
 		"callingCode": ["255"],
 		"capital": "Dodoma",
@@ -10408,8 +10409,7 @@
 		"demonym": "Tanzanian",
 		"landlocked": false,
 		"borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"],
-		"area": 945087,
-		"ioc": "TAN"
+		"area": 945087
 	},
 	{
 		"name": {
@@ -10430,6 +10430,7 @@
 		"cca2": "UG",
 		"ccn3": "800",
 		"cca3": "UGA",
+		"ioc": "UGA",
 		"currency": ["UGX"],
 		"callingCode": ["256"],
 		"capital": "Kampala",
@@ -10455,8 +10456,7 @@
 		"demonym": "Ugandan",
 		"landlocked": true,
 		"borders": ["COD", "KEN", "RWA", "SSD", "TZA"],
-		"area": 241550,
-		"ioc": "UGA"
+		"area": 241550
 	},
 	{
 		"name": {
@@ -10477,6 +10477,7 @@
 		"cca2": "UA",
 		"ccn3": "804",
 		"cca3": "UKR",
+		"ioc": "UKR",
 		"currency": ["UAH"],
 		"callingCode": ["380"],
 		"capital": "Kiev",
@@ -10502,8 +10503,7 @@
 		"demonym": "Ukrainian",
 		"landlocked": false,
 		"borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"],
-		"area": 603500,
-		"ioc": "UKR"
+		"area": 603500
 	},
 	{
 		"name": {
@@ -10520,6 +10520,7 @@
 		"cca2": "UM",
 		"ccn3": "581",
 		"cca3": "UMI",
+		"ioc": "",
 		"currency": ["USD"],
 		"callingCode": [],
 		"capital": "",
@@ -10544,8 +10545,7 @@
 		"demonym": "American",
 		"landlocked": false,
 		"borders": [],
-		"area": 34.2,
-		"ioc": ""
+		"area": 34.2
 	},
 	{
 		"name": {
@@ -10562,6 +10562,7 @@
 		"cca2": "UY",
 		"ccn3": "858",
 		"cca3": "URY",
+		"ioc": "URU",
 		"currency": ["UYI", "UYU"],
 		"callingCode": ["598"],
 		"capital": "Montevideo",
@@ -10586,8 +10587,7 @@
 		"demonym": "Uruguayan",
 		"landlocked": false,
 		"borders": ["ARG", "BRA"],
-		"area": 181034,
-		"ioc": "URU"
+		"area": 181034
 	},
 	{
 		"name": {
@@ -10604,6 +10604,7 @@
 		"cca2": "US",
 		"ccn3": "840",
 		"cca3": "USA",
+		"ioc": "USA",
 		"currency": ["USD", "USN", "USS"],
 		"callingCode": ["1"],
 		"capital": "Washington D.C.",
@@ -10628,8 +10629,7 @@
 		"demonym": "American",
 		"landlocked": false,
 		"borders": ["CAN", "MEX"],
-		"area": 9372610,
-		"ioc": "USA"
+		"area": 9372610
 	},
 	{
 		"name": {
@@ -10650,6 +10650,7 @@
 		"cca2": "UZ",
 		"ccn3": "860",
 		"cca3": "UZB",
+		"ioc": "UZB",
 		"currency": ["UZS"],
 		"callingCode": ["998"],
 		"capital": "Tashkent",
@@ -10675,8 +10676,7 @@
 		"demonym": "Uzbekistani",
 		"landlocked": true,
 		"borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"],
-		"area": 447400,
-		"ioc": "UZB"
+		"area": 447400
 	},
 	{
 		"name": {
@@ -10697,6 +10697,7 @@
 		"cca2": "VA",
 		"ccn3": "336",
 		"cca3": "VAT",
+		"ioc": "",
 		"currency": ["EUR"],
 		"callingCode": ["3906698", "379"],
 		"capital": "Vatican City",
@@ -10722,8 +10723,7 @@
 		"demonym": "Italian",
 		"landlocked": true,
 		"borders": ["ITA"],
-		"area": 0.44,
-		"ioc": ""
+		"area": 0.44
 	},
 	{
 		"name": {
@@ -10740,6 +10740,7 @@
 		"cca2": "VC",
 		"ccn3": "670",
 		"cca3": "VCT",
+		"ioc": "VIN",
 		"currency": ["XCD"],
 		"callingCode": ["1784"],
 		"capital": "Kingstown",
@@ -10764,8 +10765,7 @@
 		"demonym": "Saint Vincentian",
 		"landlocked": false,
 		"borders": [],
-		"area": 389,
-		"ioc": "VIN"
+		"area": 389
 	},
 	{
 		"name": {
@@ -10782,6 +10782,7 @@
 		"cca2": "VE",
 		"ccn3": "862",
 		"cca3": "VEN",
+		"ioc": "VEN",
 		"currency": ["VEF"],
 		"callingCode": ["58"],
 		"capital": "Caracas",
@@ -10806,8 +10807,7 @@
 		"demonym": "Venezuelan",
 		"landlocked": false,
 		"borders": ["BRA", "COL", "GUY"],
-		"area": 916445,
-		"ioc": "VEN"
+		"area": 916445
 	},
 	{
 		"name": {
@@ -10824,6 +10824,7 @@
 		"cca2": "VG",
 		"ccn3": "092",
 		"cca3": "VGB",
+		"ioc": "IVB",
 		"currency": ["USD"],
 		"callingCode": ["1284"],
 		"capital": "Road Town",
@@ -10848,8 +10849,7 @@
 		"demonym": "Virgin Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 151,
-		"ioc": "IVB"
+		"area": 151
 	},
 	{
 		"name": {
@@ -10866,6 +10866,7 @@
 		"cca2": "VI",
 		"ccn3": "850",
 		"cca3": "VIR",
+		"ioc": "ISV",
 		"currency": ["USD"],
 		"callingCode": ["1340"],
 		"capital": "Charlotte Amalie",
@@ -10890,8 +10891,7 @@
 		"demonym": "Virgin Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 347,
-		"ioc": "ISV"
+		"area": 347
 	},
 	{
 		"name": {
@@ -10908,6 +10908,7 @@
 		"cca2": "VN",
 		"ccn3": "704",
 		"cca3": "VNM",
+		"ioc": "VIE",
 		"currency": ["VND"],
 		"callingCode": ["84"],
 		"capital": "Hanoi",
@@ -10932,8 +10933,7 @@
 		"demonym": "Vietnamese",
 		"landlocked": false,
 		"borders": ["KHM", "CHN", "LAO"],
-		"area": 331212,
-		"ioc": "VIE"
+		"area": 331212
 	},
 	{
 		"name": {
@@ -10958,6 +10958,7 @@
 		"cca2": "VU",
 		"ccn3": "548",
 		"cca3": "VUT",
+		"ioc": "VAN",
 		"currency": ["VUV"],
 		"callingCode": ["678"],
 		"capital": "Port Vila",
@@ -10984,8 +10985,7 @@
 		"demonym": "Ni-Vanuatu",
 		"landlocked": false,
 		"borders": [],
-		"area": 12189,
-		"ioc": "VAN"
+		"area": 12189
 	},
 	{
 		"name": {
@@ -11002,6 +11002,7 @@
 		"cca2": "WF",
 		"ccn3": "876",
 		"cca3": "WLF",
+		"ioc": "",
 		"currency": ["XPF"],
 		"callingCode": ["681"],
 		"capital": "Mata-Utu",
@@ -11026,8 +11027,7 @@
 		"demonym": "Wallis and Futuna Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 142,
-		"ioc": ""
+		"area": 142
 	},
 	{
 		"name": {
@@ -11048,6 +11048,7 @@
 		"cca2": "WS",
 		"ccn3": "882",
 		"cca3": "WSM",
+		"ioc": "SAM",
 		"currency": ["WST"],
 		"callingCode": ["685"],
 		"capital": "Apia",
@@ -11073,8 +11074,7 @@
 		"demonym": "Samoan",
 		"landlocked": false,
 		"borders": [],
-		"area": 2842,
-		"ioc": "SAM"
+		"area": 2842
 	},
 	{
 		"name": {
@@ -11091,6 +11091,7 @@
 		"cca2": "YE",
 		"ccn3": "887",
 		"cca3": "YEM",
+		"ioc": "YEM",
 		"currency": ["YER"],
 		"callingCode": ["967"],
 		"capital": "Sana'a",
@@ -11115,8 +11116,7 @@
 		"demonym": "Yemeni",
 		"landlocked": false,
 		"borders": ["OMN", "SAU"],
-		"area": 527968,
-		"ioc": "YEM"
+		"area": 527968
 	},
 	{
 		"name": {
@@ -11173,6 +11173,7 @@
 		"cca2": "ZA",
 		"ccn3": "710",
 		"cca3": "ZAF",
+		"ioc": "RSA",
 		"currency": ["ZAR"],
 		"callingCode": ["27"],
 		"capital": "Pretoria",
@@ -11207,8 +11208,7 @@
 		"demonym": "South African",
 		"landlocked": false,
 		"borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"],
-		"area": 1221037,
-		"ioc": "RSA"
+		"area": 1221037
 	},
 	{
 		"name": {
@@ -11225,6 +11225,7 @@
 		"cca2": "ZM",
 		"ccn3": "894",
 		"cca3": "ZMB",
+		"ioc": "ZAM",
 		"currency": ["ZMW"],
 		"callingCode": ["260"],
 		"capital": "Lusaka",
@@ -11249,8 +11250,7 @@
 		"demonym": "Zambian",
 		"landlocked": true,
 		"borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"],
-		"area": 752612,
-		"ioc": "ZAM"
+		"area": 752612
 	},
 	{
 		"name": {
@@ -11323,6 +11323,7 @@
 		"cca2": "ZW",
 		"ccn3": "716",
 		"cca3": "ZWE",
+		"ioc": "ZIM",
 		"currency": ["ZWL"],
 		"callingCode": ["263"],
 		"capital": "Harare",
@@ -11361,7 +11362,6 @@
 		"demonym": "Zimbabwean",
 		"landlocked": true,
 		"borders": ["BWA", "MOZ", "ZAF", "ZMB"],
-		"area": 390757,
-		"ioc": "ZIM"
+		"area": 390757
 	}
 ]
