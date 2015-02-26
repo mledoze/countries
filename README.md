@@ -57,6 +57,7 @@ GeoJSON outlines and flags in SVG format.
 	"cca2": "AT",
 	"ccn3": "040",
 	"cca3": "AUT",
+	"cioc": "AUT",
 	"currency": ["EUR"],
 	"callingCode": ["43"],
 	"capital": "Vienna",
@@ -82,8 +83,7 @@ GeoJSON outlines and flags in SVG format.
 	"demonym": "Austrian",
 	"landlocked": true,
 	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
-	"area": 83871,
-	"ioc": "AUT"
+	"area": 83871
 }
 ```
 
