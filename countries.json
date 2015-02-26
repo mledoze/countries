@@ -10765,7 +10765,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 389,
-		"ioc": ""
+		"ioc": "VIN"
 	},
 	{
 		"name": {
@@ -10807,7 +10807,7 @@
 		"landlocked": false,
 		"borders": ["BRA", "COL", "GUY"],
 		"area": 916445,
-		"ioc": ""
+		"ioc": "VEN"
 	},
 	{
 		"name": {
@@ -10933,7 +10933,7 @@
 		"landlocked": false,
 		"borders": ["KHM", "CHN", "LAO"],
 		"area": 331212,
-		"ioc": ""
+		"ioc": "VIE"
 	},
 	{
 		"name": {
@@ -10985,7 +10985,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 12189,
-		"ioc": ""
+		"ioc": "VAN"
 	},
 	{
 		"name": {
