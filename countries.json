@@ -9865,7 +9865,7 @@
 		"landlocked": false,
 		"borders": ["BEN", "BFA", "GHA"],
 		"area": 56785,
-		"ioc": ""
+		"ioc": "TOG"
 	},
 	{
 		"name": {
@@ -9907,7 +9907,7 @@
 		"landlocked": false,
 		"borders": ["MMR", "KHM", "LAO", "MYS"],
 		"area": 513120,
-		"ioc": ""
+		"ioc": "THA"
 	},
 	{
 		"name": {
@@ -9954,7 +9954,7 @@
 		"landlocked": true,
 		"borders": ["AFG", "CHN", "KGZ", "UZB"],
 		"area": 143100,
-		"ioc": ""
+		"ioc": "TJK"
 	},
 	{
 		"name": {
@@ -10053,7 +10053,7 @@
 		"landlocked": true,
 		"borders": ["AFG", "IRN", "KAZ", "UZB"],
 		"area": 488100,
-		"ioc": ""
+		"ioc": "TKM"
 	},
 	{
 		"name": {
@@ -10100,7 +10100,7 @@
 		"landlocked": false,
 		"borders": ["IDN"],
 		"area": 14874,
-		"ioc": ""
+		"ioc": "TLS"
 	},
 	{
 		"name": {
@@ -10147,7 +10147,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 747,
-		"ioc": ""
+		"ioc": "TGA"
 	},
 	{
 		"name": {
@@ -10189,7 +10189,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 5130,
-		"ioc": ""
+		"ioc": "TTO"
 	},
 	{
 		"name": {
@@ -10231,7 +10231,7 @@
 		"landlocked": false,
 		"borders": ["DZA", "LBY"],
 		"area": 163610,
-		"ioc": ""
+		"ioc": "TUN"
 	},
 	{
 		"name": {
@@ -10273,7 +10273,7 @@
 		"landlocked": false,
 		"borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"],
 		"area": 783562,
-		"ioc": ""
+		"ioc": "TUR"
 	},
 	{
 		"name": {
@@ -10320,7 +10320,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 26,
-		"ioc": ""
+		"ioc": "TUV"
 	},
 	{
 		"name": {
@@ -10340,7 +10340,7 @@
 		"currency": ["TWD"],
 		"callingCode": ["886"],
 		"capital": "Taipei",
-		"altSpellings": ["TW", "T\u00e1iw\u0101n", "Republic of China", "\u4e2d\u83ef\u6c11\u570b", "Zh\u014dnghu\u00e1 M\u00edngu\u00f3"],
+		"altSpellings": ["TW", "T\u00e1iw\u0101n", "Republic of China", "\u4e2d\u83ef\u6c11\u570b", "Zh\u014dnghu\u00e1 M\u00edngu\u00f3", "Chinese Taipei for IOC"],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -10362,7 +10362,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 36193,
-		"ioc": ""
+		"ioc": "TPE"
 	},
 	{
 		"name": {
@@ -10409,7 +10409,7 @@
 		"landlocked": false,
 		"borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"],
 		"area": 945087,
-		"ioc": ""
+		"ioc": "TAN"
 	},
 	{
 		"name": {
