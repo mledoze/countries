@@ -11250,7 +11250,7 @@
 		"landlocked": true,
 		"borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"],
 		"area": 752612,
-		"ioc": ""
+		"ioc": "ZAM"
 	},
 	{
 		"name": {
@@ -11362,6 +11362,6 @@
 		"landlocked": true,
 		"borders": ["BWA", "MOZ", "ZAF", "ZMB"],
 		"area": 390757,
-		"ioc": ""
+		"ioc": "ZIM"
 	}
 ]
