@@ -902,7 +902,8 @@
 		},
 		"translations": {
 			"por": {"official": "Bonaire", "common": "Bonaire"},
-			"rus": {"official": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435", "common": "\u0411\u043e\u043d\u044d\u0439\u0440"}
+			"rus": {"official": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435", "common": "\u0411\u043e\u043d\u044d\u0439\u0440"},
+			"spa": {"official": "Entidad p\u00FAblica Bonaire", "common": "Bonaire"}
 		},
 		"latlng": [12.15, -68.266667],
 		"demonym": "Dutch",
