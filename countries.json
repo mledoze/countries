@@ -904,6 +904,14 @@
 				"nld": {
 					"official": "Bonaire",
 					"common": "Bonaire"
+				},
+				"pap": {
+					"official": "Entidat p\u00fabliko Boneiru",
+					"common": "Boneiru"
+				},
+				"spa": {
+					"official": "Entidad p\u00FAblica Bonaire",
+					"common": "Bonaire"
 				}
 			}
 		},
@@ -923,7 +931,8 @@
 		},
 		"translations": {
 			"por": {"official": "Bonaire", "common": "Bonaire"},
-			"rus": {"official": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435", "common": "\u0411\u043e\u043d\u044d\u0439\u0440"}
+			"rus": {"official": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435", "common": "\u0411\u043e\u043d\u044d\u0439\u0440"},
+			"spa": {"official": "Entidad p\u00FAblica Bonaire", "common": "Bonaire"}
 		},
 		"latlng": [12.15, -68.266667],
 		"demonym": "Dutch",
@@ -2503,7 +2512,8 @@
 		"translations": {
 			"nld": {"official": "Land Cura\u00e7ao", "common": "Cura\u00e7ao"},
 			"por": {"official": "Pa\u00eds de Cura\u00e7ao", "common": "ilha da Cura\u00e7\u00e3o"},
-			"rus": {"official": "\u0421\u0442\u0440\u0430\u043d\u0430 \u041a\u044e\u0440\u0430\u0441\u0430\u043e", "common": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"}
+			"rus": {"official": "\u0421\u0442\u0440\u0430\u043d\u0430 \u041a\u044e\u0440\u0430\u0441\u0430\u043e", "common": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"},
+			"spa": {"official": "Pa\u00eds de Curazao", "common": "Curazao"}
 		},
 		"latlng": [12.116667, -68.933333],
 		"demonym": "Dutch",
