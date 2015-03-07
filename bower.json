@@ -1,24 +1,17 @@
 {
-  "name": "world-countries",
-  "main": "dist/countries.json",
-  "version": "1.7.0",
-  "homepage": "https://mledoze.github.io/countries",
-  "authors": [
-    "Mohammed Le Doze <mohammed.ledoze@gmail.com>"
-  ],
-  "description": "List of world countries in JSON, CSV, XML and Yaml",
-  "keywords": [
-    "countries",
-    "world",
-    "json",
-    "csv",
-    "xml",
-    "yaml"
-  ],
-  "license": "Open Database License",
-  "ignore": [
-    "node_modules",
-    "bower_components",
-    "src"
-  ]
+	"name": "world-countries",
+	"description": " World countries in JSON, CSV, XML and Yaml. Any help is welcome!",
+	"main": "dist/countries.json",
+	"homepage": "https://mledoze.github.io/countries",
+	"authors": [
+		"Mohammed Le Doze <mohammed.ledoze@gmail.com>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mledoze/countries.git"
+	},
+	"description": "List of world countries in JSON, CSV, XML and Yaml",
+	"keywords": ["countries", "world", "json", "csv", "xml", "yaml"],
+	"license": "Open Database License",
+	"ignore": ["node_modules", "bower_components", "src"]
 }
