@@ -13,5 +13,5 @@
 	"description": "List of world countries in JSON, CSV, XML and Yaml",
 	"keywords": ["countries", "world", "json", "csv", "xml", "yaml"],
 	"license": "Open Database License",
-	"ignore": ["node_modules", "bower_components", "src"]
+	"ignore": ["node_modules", "bower_components"]
 }

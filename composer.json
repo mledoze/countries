@@ -1,14 +1,12 @@
 {
 	"name": "mledoze/countries",
-	"version": "1.7.0",
+	"version": "1.7.2",
 	"description": "World countries in JSON, CSV, XML and Yaml",
 	"keywords": ["world", "countries", "json", "csv", "xml", "yaml"],
 	"homepage": "https://mledoze.github.io/countries/",
 	"license": "Open Database License",
 	"authors": [
-		{
-			"name": "Mohammed Le Doze"
-		}
+		{"name": "Mohammed Le Doze"}
 	],
 	"repositories": [
 		{
