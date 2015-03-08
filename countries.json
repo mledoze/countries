@@ -552,7 +552,7 @@
 		"currency": ["EUR"],
 		"callingCode": [],
 		"capital": "Port-aux-Fran\u00e7ais",
-		"altSpellings": ["TF"],
+		"altSpellings": ["TF", "French Southern Territories"],
 		"region": "",
 		"subregion": "",
 		"languages": {
@@ -923,7 +923,7 @@
 		"currency": ["USD"],
 		"callingCode": ["5997"],
 		"capital": "Kralendijk",
-		"altSpellings": ["BQ", "Boneiru"],
+		"altSpellings": ["BQ", "Bonaire, Sint Eustatius and Saba", "Boneiru"],
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -1425,7 +1425,7 @@
 		"currency": ["BOB", "BOV"],
 		"callingCode": ["591"],
 		"capital": "Sucre",
-		"altSpellings": ["BO", "Buliwya", "Wuliwya", "Plurinational State of Bolivia", "Estado Plurinacional de Bolivia", "Buliwya Mamallaqta", "Wuliwya Suyu", "Tet\u00e3 Vol\u00edvia"],
+		"altSpellings": ["BO", "Buliwya", "Wuliwya", "Bolivia, Plurinational State of", "Plurinational State of Bolivia", "Estado Plurinacional de Bolivia", "Buliwya Mamallaqta", "Wuliwya Suyu", "Tet\u00e3 Vol\u00edvia"],
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -1557,7 +1557,7 @@
 		"currency": ["BND"],
 		"callingCode": ["673"],
 		"capital": "Bandar Seri Begawan",
-		"altSpellings": ["BN", "Nation of Brunei", "the Abode of Peace"],
+		"altSpellings": ["BN", "Brunei Darussalam", "Nation of Brunei", "the Abode of Peace"],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
@@ -2014,7 +2014,7 @@
 		"currency": ["XOF"],
 		"callingCode": ["225"],
 		"capital": "Yamoussoukro",
-		"altSpellings": ["CI", "Ivory Coast", "Republic of C\u00f4te d'Ivoire", "R\u00e9publique de C\u00f4te d'Ivoire"],
+		"altSpellings": ["CI", "C\u00f4te d'Ivoire", "Ivory Coast", "Republic of C\u00f4te d'Ivoire", "R\u00e9publique de C\u00f4te d'Ivoire"],
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
@@ -2120,7 +2120,7 @@
 		"currency": ["CDF"],
 		"callingCode": ["243"],
 		"capital": "Kinshasa",
-		"altSpellings": ["CD", "DR Congo", "Congo-Kinshasa", "DRC"],
+		"altSpellings": ["CD", "DR Congo", "Congo-Kinshasa", "Congo, the Democratic Republic of the", "DRC"],
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -2175,7 +2175,7 @@
 		"currency": ["XAF"],
 		"callingCode": ["242"],
 		"capital": "Brazzaville",
-		"altSpellings": ["CG", "Congo-Brazzaville"],
+		"altSpellings": ["CG", "Congo", "Congo-Brazzaville"],
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -3422,7 +3422,7 @@
 		"currency": ["FKP"],
 		"callingCode": ["500"],
 		"capital": "Stanley",
-		"altSpellings": ["FK", "Islas Malvinas"],
+		"altSpellings": ["FK", "Islas Malvinas", "Falkland Islands (Malvinas)"],
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -3553,7 +3553,7 @@
 		"currency": ["USD"],
 		"callingCode": ["691"],
 		"capital": "Palikir",
-		"altSpellings": ["FM", "Federated States of Micronesia"],
+		"altSpellings": ["FM", "Federated States of Micronesia", "Micronesia, Federated States of"],
 		"region": "Oceania",
 		"subregion": "Micronesia",
 		"languages": {
@@ -4429,7 +4429,7 @@
 		"currency": ["AUD"],
 		"callingCode": [],
 		"capital": "",
-		"altSpellings": ["HM"],
+		"altSpellings": ["HM", "Heard Island and McDonald Mcdonald Islands"],
 		"region": "",
 		"subregion": "",
 		"languages": {
@@ -4871,7 +4871,7 @@
 		"currency": ["IRR"],
 		"callingCode": ["98"],
 		"capital": "Tehran",
-		"altSpellings": ["IR", "Islamic Republic of Iran", "Jomhuri-ye Esl\u0101mi-ye Ir\u0101n"],
+		"altSpellings": ["IR", "Islamic Republic of Iran", "Iran, Islamic Republic of", "Jomhuri-ye Esl\u0101mi-ye Ir\u0101n"],
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
@@ -5561,7 +5561,7 @@
 		"currency": ["KRW"],
 		"callingCode": ["82"],
 		"capital": "Seoul",
-		"altSpellings": ["KR", "Republic of Korea"],
+		"altSpellings": ["KR", "Korea, Republic of", "Republic of Korea"],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -6178,7 +6178,7 @@
 		"currency": ["MOP"],
 		"callingCode": ["853"],
 		"capital": "",
-		"altSpellings": ["MO", "\u6fb3\u95e8", "Macao Special Administrative Region of the People's Republic of China", "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340", "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China"],
+		"altSpellings": ["MO", "\u6fb3\u95e8", "Macao", "Macao Special Administrative Region of the People's Republic of China", "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340", "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China"],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -6221,7 +6221,7 @@
 		"currency": ["EUR"],
 		"callingCode": ["590"],
 		"capital": "Marigot",
-		"altSpellings": ["MF", "Collectivity of Saint Martin", "Collectivit\u00e9 de Saint-Martin"],
+		"altSpellings": ["MF", "Collectivity of Saint Martin", "Collectivit\u00e9 de Saint-Martin", "Saint Martin (French part)"],
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -6352,7 +6352,7 @@
 		"currency": ["MDL"],
 		"callingCode": ["373"],
 		"capital": "Chi\u0219in\u0103u",
-		"altSpellings": ["MD", "Republic of Moldova", "Republica Moldova"],
+		"altSpellings": ["MD", "Moldova, Republic of", "Republic of Moldova", "Republica Moldova"],
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -6572,7 +6572,7 @@
 		"currency": ["MKD"],
 		"callingCode": ["389"],
 		"capital": "Skopje",
-		"altSpellings": ["MK", "Republic of Macedonia", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"],
+		"altSpellings": ["MK", "Macedonia, the Former Yugoslav Republic of", "Republic of Macedonia", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"],
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -7947,7 +7947,7 @@
 		"currency": ["NZD"],
 		"callingCode": ["64"],
 		"capital": "Adamstown",
-		"altSpellings": ["PN", "Pitcairn Henderson Ducie and Oeno Islands"],
+		"altSpellings": ["PN", "Pitcairn", "Pitcairn Henderson Ducie and Oeno Islands"],
 		"region": "Oceania",
 		"subregion": "Polynesia",
 		"languages": {
@@ -8276,7 +8276,7 @@
 		"currency": ["KPW"],
 		"callingCode": ["850"],
 		"capital": "Pyongyang",
-		"altSpellings": ["KP", "Democratic People's Republic of Korea", "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d", "Chos\u014fn Minjuju\u016di Inmin Konghwaguk"],
+		"altSpellings": ["KP", "Democratic People's Republic of Korea", "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d", "Chos\u014fn Minjuju\u016di Inmin Konghwaguk", "Korea, Democratic People's Republic of"],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -8407,7 +8407,7 @@
 		"currency": ["ILS"],
 		"callingCode": ["970"],
 		"capital": "Ramallah",
-		"altSpellings": ["PS", "State of Palestine", "Dawlat Filas\u1e6din"],
+		"altSpellings": ["PS", "Palestine, State of", "State of Palestine", "Dawlat Filas\u1e6din"],
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
@@ -9367,7 +9367,7 @@
 		"currency": ["STD"],
 		"callingCode": ["239"],
 		"capital": "S\u00e3o Tom\u00e9",
-		"altSpellings": ["ST", "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe", "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"],
+		"altSpellings": ["ST", "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe", "Sao Tome and Principe", "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"],
 		"region": "Africa",
 		"subregion": "Middle Africa",
 		"languages": {
@@ -9632,7 +9632,7 @@
 		"currency": ["ANG"],
 		"callingCode": ["1721"],
 		"capital": "Philipsburg",
-		"altSpellings": ["SX"],
+		"altSpellings": ["SX", "Sint Maarten (Dutch part)"],
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -10356,7 +10356,7 @@
 		"currency": ["TWD"],
 		"callingCode": ["886"],
 		"capital": "Taipei",
-		"altSpellings": ["TW", "T\u00e1iw\u0101n", "Republic of China", "\u4e2d\u83ef\u6c11\u570b", "Zh\u014dnghu\u00e1 M\u00edngu\u00f3", "Chinese Taipei for IOC"],
+		"altSpellings": ["TW", "T\u00e1iw\u0101n", "Republic of China", "\u4e2d\u83ef\u6c11\u570b", "Zh\u014dnghu\u00e1 M\u00edngu\u00f3", "Chinese Taipei for IOC", "Taiwan, Province of China"],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -10402,7 +10402,7 @@
 		"currency": ["TZS"],
 		"callingCode": ["255"],
 		"capital": "Dodoma",
-		"altSpellings": ["TZ", "United Republic of Tanzania", "Jamhuri ya Muungano wa Tanzania"],
+		"altSpellings": ["TZ", "Tanzania, United Republic of", "United Republic of Tanzania", "Jamhuri ya Muungano wa Tanzania"],
 		"region": "Africa",
 		"subregion": "Eastern Africa",
 		"languages": {
@@ -10716,7 +10716,7 @@
 		"currency": ["EUR"],
 		"callingCode": ["3906698", "379"],
 		"capital": "Vatican City",
-		"altSpellings": ["VA", "Vatican City State", "Stato della Citt\u00e0 del Vaticano"],
+		"altSpellings": ["VA", "Holy See (Vatican City State)", "Vatican City State", "Stato della Citt\u00e0 del Vaticano"],
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
@@ -10801,7 +10801,7 @@
 		"currency": ["VEF"],
 		"callingCode": ["58"],
 		"capital": "Caracas",
-		"altSpellings": ["VE", "Bolivarian Republic of Venezuela", "Rep\u00fablica Bolivariana de Venezuela"],
+		"altSpellings": ["VE", "Bolivarian Republic of Venezuela", "Venezuela, Bolivarian Republic of", "Rep\u00fablica Bolivariana de Venezuela"],
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -10843,7 +10843,7 @@
 		"currency": ["USD"],
 		"callingCode": ["1284"],
 		"capital": "Road Town",
-		"altSpellings": ["VG"],
+		"altSpellings": ["VG", "Virgin Islands, British"],
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -10885,7 +10885,7 @@
 		"currency": ["USD"],
 		"callingCode": ["1340"],
 		"capital": "Charlotte Amalie",
-		"altSpellings": ["VI"],
+		"altSpellings": ["VI", "Virgin Islands, U.S."],
 		"region": "Americas",
 		"subregion": "Caribbean",
 		"languages": {
@@ -10927,7 +10927,7 @@
 		"currency": ["VND"],
 		"callingCode": ["84"],
 		"capital": "Hanoi",
-		"altSpellings": ["VN", "Socialist Republic of Vietnam", "C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam"],
+		"altSpellings": ["VN", "Socialist Republic of Vietnam", "C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam", "Viet Nam"],
 		"region": "Asia",
 		"subregion": "South-Eastern Asia",
 		"languages": {
