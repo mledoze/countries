@@ -3869,7 +3869,7 @@
 			"por": {"official": "Rep\u00fablica do Gana", "common": "Gana"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u043d\u0430", "common": "\u0413\u0430\u043d\u0430"},
 			"spa": {"official": "Rep\u00fablica de Ghana", "common": "Ghana"},
-			"ind": {"official": "Republik Ghana", "common": "Ghana"},
+			"ind": {"official": "Republik Ghana", "common": "Ghana"}
 		},
 		"latlng": [8, -2],
 		"demonym": "Ghanaian",
@@ -4808,7 +4808,8 @@
 			"nld": {"official": "Isle of Man", "common": "Isle of Man"},
 			"por": {"official": "Isle of Man", "common": "Ilha de Man"},
 			"rus": {"official": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d", "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d"},
-			"spa": {"official": "Isla de Man", "common": "Isla de Man"}
+			"spa": {"official": "Isla de Man", "common": "Isla de Man"},
+			"ind": {"official": "Pulau Man", "common": "Man, Pulau"}
 		},
 		"latlng": [54.25, -4.5],
 		"demonym": "Manx",
@@ -4855,7 +4856,8 @@
 			"nld": {"official": "Republiek India", "common": "India"},
 			"por": {"official": "Rep\u00fablica da \u00cdndia", "common": "\u00cdndia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0434\u0438\u044f", "common": "\u0418\u043d\u0434\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica de la India", "common": "India"}
+			"spa": {"official": "Rep\u00fablica de la India", "common": "India"},
+			"ind": {"official": "Republik India", "common": "India"}
 		},
 		"latlng": [20, 77],
 		"demonym": "Indian",
@@ -4898,7 +4900,8 @@
 			"nld": {"official": "Brits Indische Oceaan Territorium", "common": "Britse Gebieden in de Indische Oceaan"},
 			"por": {"official": "British Indian Ocean Territory", "common": "Territ\u00f3rio Brit\u00e2nico do Oceano \u00cdndico"},
 			"rus": {"official": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043e\u043a\u0435\u0430\u043d\u0430", "common": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0432 \u0418\u043d\u0434\u0438\u0439\u0441\u043a\u043e\u043c \u043e\u043a\u0435\u0430\u043d\u0435"},
-			"spa": {"official": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico", "common": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico"}
+			"spa": {"official": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico", "common": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico"},
+			"ind": {"official": "Teritori Samudra Hindia Britania", "common": "Samudra Hindia Britania, Teritori"}
 		},
 		"latlng": [-6, 71.5],
 		"demonym": "Indian",
@@ -4945,7 +4948,8 @@
 			"nld": {"official": "Republic of Ireland", "common": "Ierland"},
 			"por": {"official": "Rep\u00fablica da Irlanda", "common": "Irlanda"},
 			"rus": {"official": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f", "common": "\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica de Irlanda", "common": "Irlanda"}
+			"spa": {"official": "Rep\u00fablica de Irlanda", "common": "Irlanda"},
+			"ind": {"official": "Republik Irlandia", "common": "Irlandia"}
 		},
 		"latlng": [53, -8],
 		"demonym": "Irish",
@@ -4986,7 +4990,8 @@
 			"nld": {"official": "Islamitische Republiek Iran", "common": "Iran"},
 			"por": {"official": "Rep\u00fablica Isl\u00e2mica do Ir\u00e3", "common": "Ir\u00e3o"},
 			"rus": {"official": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0440\u0430\u043d", "common": "\u0418\u0440\u0430\u043d"},
-			"spa": {"official": "Rep\u00fablica Isl\u00e1mica de Ir\u00e1n", "common": "Iran"}
+			"spa": {"official": "Rep\u00fablica Isl\u00e1mica de Ir\u00e1n", "common": "Iran"},
+			"ind": {"official": "Republik Islam Iran", "common": "Iran"}
 		},
 		"latlng": [32, 53],
 		"demonym": "Iranian",
@@ -5038,7 +5043,8 @@
 			"nld": {"official": "Republiek Irak", "common": "Irak"},
 			"por": {"official": "Rep\u00fablica do Iraque", "common": "Iraque"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u0440\u0430\u043a", "common": "\u0418\u0440\u0430\u043a"},
-			"spa": {"official": "Rep\u00fablica de Irak", "common": "Irak"}
+			"spa": {"official": "Rep\u00fablica de Irak", "common": "Irak"},
+			"ind": {"official": "Republik Irak", "common": "Irak"}
 		},
 		"latlng": [33, 44],
 		"demonym": "Iraqi",
@@ -5080,7 +5086,8 @@
 			"nld": {"official": "IJsland", "common": "IJsland"},
 			"por": {"official": "Isl\u00e2ndia", "common": "Isl\u00e2ndia"},
 			"rus": {"official": "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f", "common": "\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f"},
-			"spa": {"official": "Islandia", "common": "Islandia"}
+			"spa": {"official": "Islandia", "common": "Islandia"},
+			"ind": {"official": "Islandia", "common": "Islandia"}
 		},
 		"latlng": [65, -18],
 		"demonym": "Icelander",
@@ -5127,7 +5134,8 @@
 			"nld": {"official": "Staat Isra\u00ebl", "common": "Isra\u00ebl"},
 			"por": {"official": "Estado de Israel", "common": "Israel"},
 			"rus": {"official": "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0418\u0437\u0440\u0430\u0438\u043b\u044c", "common": "\u0418\u0437\u0440\u0430\u0438\u043b\u044c"},
-			"spa": {"official": "Estado de Israel", "common": "Israel"}
+			"spa": {"official": "Estado de Israel", "common": "Israel"},
+			"ind": {"official": "Negara Israel", "common": "Israel"}
 		},
 		"latlng": [31.47, 35.13],
 		"demonym": "Israeli",
@@ -5179,7 +5187,8 @@
 			"nld": {"official": "Italiaanse Republiek", "common": "Itali\u00eb"},
 			"por": {"official": "Rep\u00fablica Italiana", "common": "It\u00e1lia"},
 			"rus": {"official": "\u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0418\u0442\u0430\u043b\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica Italiana", "common": "Italia"}
+			"spa": {"official": "Rep\u00fablica Italiana", "common": "Italia"},
+			"ind": {"official": "Republik Italia", "common": "Italia"}
 		},
 		"latlng": [42.83333333, 12.83333333],
 		"demonym": "Italian",
@@ -5226,7 +5235,8 @@
 			"nld": {"official": "Jamaica", "common": "Jamaica"},
 			"por": {"official": "Jamaica", "common": "Jamaica"},
 			"rus": {"official": "\u042f\u043c\u0430\u0439\u043a\u0430", "common": "\u042f\u043c\u0430\u0439\u043a\u0430"},
-			"spa": {"official": "Jamaica", "common": "Jamaica"}
+			"spa": {"official": "Jamaica", "common": "Jamaica"},
+			"ind": {"official": "Jamaika", "common": "Jamaika"}
 		},
 		"latlng": [18.25, -77.5],
 		"demonym": "Jamaican",
@@ -5278,7 +5288,8 @@
 			"nld": {"official": "Baljuwschap Jersey", "common": "Jersey"},
 			"por": {"official": "Bailiado de Jersey", "common": "Jersey"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043d\u043d\u043e\u0435 \u0432\u043b\u0430\u0434\u0435\u043d\u0438\u0435 \u0414\u0436\u0435\u0440\u0441\u0438", "common": "\u0414\u0436\u0435\u0440\u0441\u0438"},
-			"spa": {"official": "Bail\u00eda de Jersey", "common": "Jersey"}
+			"spa": {"official": "Bail\u00eda de Jersey", "common": "Jersey"},
+			"ind": {"official": "Bailiwick Jersey", "common": "Jersey"}
 		},
 		"latlng": [49.25, -2.16666666],
 		"demonym": "Channel Islander",
@@ -5320,7 +5331,8 @@
 			"nld": {"official": "Hasjemitisch Koninkrijk Jordani\u00eb", "common": "Jordani\u00eb"},
 			"por": {"official": "Reino Hachemita da Jord\u00e2nia", "common": "Jord\u00e2nia"},
 			"rus": {"official": "\u0418\u043e\u0440\u0434\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0425\u0430\u0448\u0438\u043c\u0438\u0442\u0441\u043a\u043e\u0433\u043e \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u0430", "common": "\u0418\u043e\u0440\u0434\u0430\u043d\u0438\u044f"},
-			"spa": {"official": "Reino Hachemita de Jordania", "common": "Jordania"}
+			"spa": {"official": "Reino Hachemita de Jordania", "common": "Jordania"},
+			"ind": {"official": "Kerajaan Hasyimiyah Yordania", "common": "Yordania"}
 		},
 		"latlng": [31, 36],
 		"demonym": "Jordanian",
@@ -5362,7 +5374,8 @@
 			"nld": {"official": "Japan", "common": "Japan"},
 			"por": {"official": "Jap\u00e3o", "common": "Jap\u00e3o"},
 			"rus": {"official": "\u042f\u043f\u043e\u043d\u0438\u044f", "common": "\u042f\u043f\u043e\u043d\u0438\u044f"},
-			"spa": {"official": "Jap\u00f3n", "common": "Jap\u00f3n"}
+			"spa": {"official": "Jap\u00f3n", "common": "Jap\u00f3n"},
+			"ind": {"official": "Jepang", "common": "Jepang"}
 		},
 		"latlng": [36, 138],
 		"demonym": "Japanese",
@@ -5409,7 +5422,8 @@
 			"nld": {"official": "Republiek Kazachstan", "common": "Kazachstan"},
 			"por": {"official": "Rep\u00fablica do Cazaquist\u00e3o", "common": "Cazaquist\u00e3o"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d", "common": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"},
-			"spa": {"official": "Rep\u00fablica de Kazajst\u00e1n", "common": "Kazajist\u00e1n"}
+			"spa": {"official": "Rep\u00fablica de Kazajst\u00e1n", "common": "Kazajist\u00e1n"},
+			"ind": {"official": "Republik Kazakhstan", "common": "Kazakhstan"}
 		},
 		"latlng": [48, 68],
 		"demonym": "Kazakhstani",
@@ -5456,7 +5470,8 @@
 			"nld": {"official": "Republiek Kenia", "common": "Kenia"},
 			"por": {"official": "Rep\u00fablica do Qu\u00e9nia", "common": "Qu\u00e9nia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0435\u043d\u0438\u044f", "common": "\u041a\u0435\u043d\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica de Kenya", "common": "Kenia"}
+			"spa": {"official": "Rep\u00fablica de Kenya", "common": "Kenia"},
+			"ind": {"official": "Republik Kenya", "common": "Kenya"}
 		},
 		"latlng": [1, 38],
 		"demonym": "Kenyan",
@@ -5503,7 +5518,8 @@
 			"nld": {"official": "Kirgizische Republiek", "common": "Kirgizi\u00eb"},
 			"por": {"official": "Rep\u00fablica do Quirguist\u00e3o", "common": "Quirguist\u00e3o"},
 			"rus": {"official": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f"},
-			"spa": {"official": "Rep\u00fablica Kirguisa", "common": "Kirguizist\u00e1n"}
+			"spa": {"official": "Rep\u00fablica Kirguisa", "common": "Kirguizist\u00e1n"},
+			"ind": {"official": "Republik Kirgizstan", "common": "Kirgizstan"}
 		},
 		"latlng": [41, 75],
 		"demonym": "Kirghiz",
@@ -5546,7 +5562,8 @@
 			"nld": {"official": "Koninkrijk Cambodja", "common": "Cambodja"},
 			"por": {"official": "Reino do Camboja", "common": "Camboja"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430", "common": "\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430"},
-			"spa": {"official": "Reino de Camboya", "common": "Camboya"}
+			"spa": {"official": "Reino de Camboya", "common": "Camboya"},
+			"ind": {"official": "Kerajaan Kamboja", "common": "Kamboja"}
 		},
 		"latlng": [13, 105],
 		"demonym": "Cambodian",
