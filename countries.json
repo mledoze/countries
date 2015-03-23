@@ -4727,7 +4727,11 @@
 				"hin": {
 					"official": "\u092d\u093e\u0930\u0924 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
 					"common": "\u092d\u093e\u0930\u0924"
-				}
+				},
+				"tam": {
+					"official": "\u0B87\u0BA8\u0BCD\u0BA4\u0BBF\u0BAF\u0B95\u0BCD \u0B95\u0BC1\u0B9F\u0BBF\u0BAF\u0BB0\u0B9A\u0BC1",
+					"common": "\u0B87\u0BA8\u0BCD\u0BA4\u0BBF\u0BAF\u0BBE"
+				}				
 			}
 		},
 		"tld": [".in"],
@@ -4738,12 +4742,13 @@
 		"currency": ["INR"],
 		"callingCode": ["91"],
 		"capital": "New Delhi",
-		"altSpellings": ["IN", "Bh\u0101rat", "Republic of India", "Bharat Ganrajya"],
+		"altSpellings": ["IN", "Bh\u0101rat", "Republic of India", "Bharat Ganrajya", "\u0B87\u0BA8\u0BCD\u0BA4\u0BBF\u0BAF\u0BBE"],
 		"region": "Asia",
 		"subregion": "Southern Asia",
 		"languages": {
 			"eng": "English",
-			"hin": "Hindi"
+			"hin": "Hindi",
+			"tam": "Tamil"
 		},
 		"translations": {
 			"deu": {"official": "Republik Indien", "common": "Indien"},
