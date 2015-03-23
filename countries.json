@@ -39,7 +39,7 @@
 			"por": {"official": "Aruba", "common": "Aruba"},
 			"rus": {"official": "\u0410\u0440\u0443\u0431\u0430", "common": "\u0410\u0440\u0443\u0431\u0430"},
 			"spa": {"official": "Aruba", "common": "Aruba"},
-			"idn": {"official": "Aruba", "common": "Aruba"}
+			"ind": {"official": "Aruba", "common": "Aruba"}
 		},
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
@@ -93,7 +93,7 @@
 			"por": {"official": "Rep\u00fablica Isl\u00e2mica do Afeganist\u00e3o", "common": "Afeganist\u00e3o"},
 			"rus": {"official": "\u0418\u0441\u043b\u0430\u043c\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d", "common": "\u0410\u0444\u0433\u0430\u043d\u0438\u0441\u0442\u0430\u043d"},
 			"spa": {"official": "Rep\u00fablica Isl\u00e1mica de Afganist\u00e1n", "common": "Afganist\u00e1n"},
-			"idn": {"official": "Republik Islam Afganistan", "common": "Afganistan"}
+			"ind": {"official": "Republik Islam Afganistan", "common": "Afganistan"}
 		},
 		"latlng": [33, 65],
 		"demonym": "Afghan",
@@ -137,7 +137,7 @@
 			"por": {"official": "Rep\u00fablica de Angola", "common": "Angola"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043d\u0433\u043e\u043b\u0430", "common": "\u0410\u043d\u0433\u043e\u043b\u0430"},
 			"spa": {"official": "Rep\u00fablica de Angola", "common": "Angola"},
-			"idn": {"official": "Republik Angola", "common": "Angola"}
+			"ind": {"official": "Republik Angola", "common": "Angola"}
 		},
 		"latlng": [-12.5, 18.5],
 		"demonym": "Angolan",
@@ -180,7 +180,7 @@
 			"por": {"official": "Anguilla", "common": "Anguilla"},
 			"rus": {"official": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f", "common": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f"},
 			"spa": {"official": "Anguila", "common": "Anguilla"},
-			"idn": {"official": "Anguila", "common": "Anguilla"}
+			"ind": {"official": "Anguilla", "common": "Anguilla"}
 		},
 		"latlng": [18.25, -63.16666666],
 		"demonym": "Anguillian",
@@ -223,7 +223,7 @@
 			"por": {"official": "Ilhas \u00c5land", "common": "Al\u00e2ndia"},
 			"rus": {"official": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u0410\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "Islas \u00c5land", "common": "Alandia"},
-			"idn": {"official": "Kepulauan \u00c5land", "common": "\u00c5land"}
+			"ind": {"official": "Kepulauan \u00c5land", "common": "\u00c5land, Kepulauan"}
 		},
 		"latlng": [60.116667, 19.9],
 		"demonym": "\u00c5landish",
@@ -267,7 +267,7 @@
 			"por": {"official": "Rep\u00fablica da Alb\u00e2nia", "common": "Alb\u00e2nia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0431\u0430\u043d\u0438\u044f", "common": "\u0410\u043b\u0431\u0430\u043d\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Albania", "common": "Albania"},
-			"idn": {"official": "Republik Albania", "common": "Albania"}
+			"ind": {"official": "Republik Albania", "common": "Albania"}
 		},
 		"latlng": [41, 20],
 		"demonym": "Albanian",
@@ -311,7 +311,7 @@
 			"por": {"official": "Principado de Andorra", "common": "Andorra"},
 			"rus": {"official": "\u041a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e \u0410\u043d\u0434\u043e\u0440\u0440\u0430", "common": "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"},
 			"spa": {"official": "Principado de Andorra", "common": "Andorra"},
-			"idn": {"official": "Kepangeranan Andorra", "common": "Andorra"}
+			"ind": {"official": "Kepangeranan Andorra", "common": "Andorra"}
 		},
 		"latlng": [42.5, 1.5],
 		"demonym": "Andorran",
@@ -354,7 +354,7 @@
 			"por": {"official": "Emirados \u00c1rabes Unidos", "common": "Emirados \u00c1rabes Unidos"},
 			"rus": {"official": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u042d\u043c\u0438\u0440\u0430\u0442\u044b", "common": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u042d\u043c\u0438\u0440\u0430\u0442\u044b"},
 			"spa": {"official": "Emiratos \u00c1rabes Unidos", "common": "Emiratos \u00c1rabes Unidos"},
-			"idn": {"official": "Uni Emirat Arab", "common": "Uni Emirat Arab"}
+			"ind": {"official": "Uni Emirat Arab", "common": "Uni Emirat Arab"}
 		},
 		"latlng": [24, 54],
 		"demonym": "Emirati",
@@ -403,7 +403,7 @@
 			"por": {"official": "Rep\u00fablica Argentina", "common": "Argentina"},
 			"rus": {"official": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"},
 			"spa": {"official": "Rep\u00fablica Argentina", "common": "Argentina"},
-			"idn": {"official": "Republik Argentina", "common": "Argentina"}
+			"ind": {"official": "Republik Argentina", "common": "Argentina"}
 		},
 		"latlng": [-34, -64],
 		"demonym": "Argentinean",
@@ -452,7 +452,7 @@
 			"por": {"official": "Rep\u00fablica da Arm\u00e9nia", "common": "Arm\u00e9nia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0440\u043c\u0435\u043d\u0438\u044f", "common": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Armenia", "common": "Armenia"},
-			"idn": {"official": "Republik Armenia", "common": "Armenia"}
+			"ind": {"official": "Republik Armenia", "common": "Armenia"}
 		},
 		"latlng": [40, 45],
 		"demonym": "Armenian",
@@ -500,7 +500,7 @@
 			"por": {"official": "Samoa americana", "common": "Samoa Americana"},
 			"rus": {"official": "\u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430", "common": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430"},
 			"spa": {"official": "Samoa Americana", "common": "Samoa Americana"},
-			"idn": {"official": "Samoa Amerika", "common": "Samoa Amerika"}
+			"ind": {"official": "Samoa Amerika", "common": "Samoa Amerika"}
 		},
 		"latlng": [-14.33333333, -170],
 		"demonym": "American Samoan",
@@ -537,7 +537,7 @@
 			"por": {"official": "Ant\u00e1rtica", "common": "Ant\u00e1rtida"},
 			"rus": {"official": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430", "common": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430"},
 			"spa": {"official": "Ant\u00e1rtida", "common": "Ant\u00e1rtida"},
-			"idn": {"official": "Antarktika", "common": "Antarktika"}
+			"ind": {"official": "Antarktika", "common": "Antarktika"}
 		},
 		"latlng": [-90, 0],
 		"demonym": "Antarctican",
@@ -580,7 +580,7 @@
 			"por": {"official": "Territ\u00f3rio do Sul e Ant\u00e1rtica Francesa", "common": "Terras Austrais e Ant\u00e1rticas Francesas"},
 			"rus": {"official": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0438 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0435\u043c\u043b\u0438", "common": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0438 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438"},
 			"spa": {"official": "Territorio del Franc\u00e9s Tierras australes y ant\u00e1rticas", "common": "Tierras Australes y Ant\u00e1rticas Francesas"},
-			"idn": {"official": "Teritori Perancis Selatan", "common": "Teritori Perancis Selatan"}
+			"ind": {"official": "Teritori Perancis Selatan", "common": "Teritori Perancis Selatan"}
 		},
 		"latlng": [-49.25, 69.167],
 		"demonym": "French",
@@ -624,7 +624,7 @@
 			"por": {"official": "Antigua e Barbuda", "common": "Ant\u00edgua e Barbuda"},
 			"rus": {"official": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430", "common": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0438 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"},
 			"spa": {"official": "Antigua y Barbuda", "common": "Antigua y Barbuda"},
-			"idn": {"official": "Antigua dan Barbuda", "common": "Antigua dan Barbuda"}
+			"ind": {"official": "Antigua dan Barbuda", "common": "Antigua dan Barbuda"}
 		},
 		"latlng": [17.05, -61.8],
 		"demonym": "Antiguan, Barbudan",
@@ -668,7 +668,7 @@
 			"por": {"official": "Comunidade da Austr\u00e1lia", "common": "Austr\u00e1lia"},
 			"rus": {"official": "\u0421\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0438", "common": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"},
 			"spa": {"official": "Mancomunidad de Australia", "common": "Australia"},
-			"idn": {"official": "Persemakmuran Australia", "common": "Australia"}
+			"ind": {"official": "Persemakmuran Australia", "common": "Australia"}
 		},
 		"latlng": [-27, 133],
 		"demonym": "Australian",
@@ -712,7 +712,7 @@
 			"por": {"official": "Rep\u00fablica da \u00c1ustria", "common": "\u00c1ustria"},
 			"rus": {"official": "\u0410\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0410\u0432\u0441\u0442\u0440\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Austria", "common": "Austria"},
-			"idn": {"official": "Republik Austria", "common": "Austria"}
+			"ind": {"official": "Republik Austria", "common": "Austria"}
 		},
 		"latlng": [47.33333333, 13.33333333],
 		"demonym": "Austrian",
@@ -761,7 +761,7 @@
 			"por": {"official": "Rep\u00fablica do Azerbaij\u00e3o", "common": "Azerbeij\u00e3o"},
 			"rus": {"official": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"},
 			"spa": {"official": "Rep\u00fablica de Azerbaiy\u00e1n", "common": "Azerbaiy\u00e1n"},
-			"idn": {"official": "Republik Azerbaijan", "common": "Azerbaijan"}
+			"ind": {"official": "Republik Azerbaijan", "common": "Azerbaijan"}
 		},
 		"latlng": [40.5, 47.5],
 		"demonym": "Azerbaijani",
@@ -810,7 +810,7 @@
 			"por": {"official": "Rep\u00fablica do Burundi", "common": "Burundi"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0443\u0440\u0443\u043d\u0434\u0438", "common": "\u0411\u0443\u0440\u0443\u043d\u0434\u0438"},
 			"spa": {"official": "Rep\u00fablica de Burundi", "common": "Burundi"},
-			"idn": {"official": "Republik Burundi", "common": "Burundi"}
+			"ind": {"official": "Republik Burundi", "common": "Burundi"}
 		},
 		"latlng": [-3.5, 30],
 		"demonym": "Burundian",
@@ -864,7 +864,7 @@
 			"por": {"official": "Reino da B\u00e9lgica", "common": "B\u00e9lgica"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0411\u0435\u043b\u044c\u0433\u0438\u044f", "common": "\u0411\u0435\u043b\u044c\u0433\u0438\u044f"},
 			"spa": {"official": "Reino de B\u00e9lgica", "common": "B\u00e9lgica"},
-			"idn": {"official": "Kerajaan Belgia", "common": "Belgia"}
+			"ind": {"official": "Kerajaan Belgia", "common": "Belgia"}
 		},
 		"latlng": [50.83333333, 4],
 		"demonym": "Belgian",
@@ -908,7 +908,7 @@
 			"por": {"official": "Rep\u00fablica do Benin", "common": "Benin"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043d\u0438\u043d", "common": "\u0411\u0435\u043d\u0438\u043d"},
 			"spa": {"official": "Rep\u00fablica de Benin", "common": "Ben\u00edn"},
-			"idn": {"official": "Republik Benin", "common": "Benin"}
+			"ind": {"official": "Republik Benin", "common": "Benin"}
 		},
 		"latlng": [9.5, 2.25],
 		"demonym": "Beninese",
@@ -996,7 +996,7 @@
 			"por": {"official": "Burkina Faso", "common": "Burkina Faso"},
 			"rus": {"official": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430 -\u0424\u0430\u0441\u043e", "common": "\u0411\u0443\u0440\u043a\u0438\u043d\u0430-\u0424\u0430\u0441\u043e"},
 			"spa": {"official": "Burkina Faso", "common": "Burkina Faso"},
-			"idn": {"official": "Burkina Faso", "common": "Burkina Faso"}
+			"ind": {"official": "Burkina Faso", "common": "Burkina Faso"}
 		},
 		"latlng": [13, -2],
 		"demonym": "Burkinabe",
@@ -1040,7 +1040,7 @@
 			"por": {"official": "Rep\u00fablica Popular do Bangladesh", "common": "Bangladesh"},
 			"rus": {"official": "\u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448", "common": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"},
 			"spa": {"official": "Rep\u00fablica Popular de Bangladesh", "common": "Bangladesh"},
-			"idn": {"official": "Republik Bangladesh", "common": "Bangladesh"}
+			"ind": {"official": "Republik Bangladesh", "common": "Bangladesh"}
 		},
 		"latlng": [24, 90],
 		"demonym": "Bangladeshi",
@@ -1084,7 +1084,7 @@
 			"por": {"official": "Rep\u00fablica da Bulg\u00e1ria", "common": "Bulg\u00e1ria"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f", "common": "\u0411\u043e\u043b\u0433\u0430\u0440\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Bulgaria", "common": "Bulgaria"},
-			"idn": {"official": "Republik Bulgaria", "common": "Bulgaria"}
+			"ind": {"official": "Republik Bulgaria", "common": "Bulgaria"}
 		},
 		"latlng": [43, 25],
 		"demonym": "Bulgarian",
@@ -1128,7 +1128,7 @@
 			"por": {"official": "Reino do Bahrein", "common": "Bahrein"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0411\u0430\u0445\u0440\u0435\u0439\u043d", "common": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d"},
 			"spa": {"official": "Reino de Bahrein", "common": "Bahrein"},
-			"idn": {"official": "Kerajaan Bahrain", "common": "Bahrain"}
+			"ind": {"official": "Kerajaan Bahrain", "common": "Bahrain"}
 		},
 		"latlng": [26, 50.55],
 		"demonym": "Bahraini",
@@ -1172,7 +1172,7 @@
 			"por": {"official": "Comunidade das Bahamas", "common": "Bahamas"},
 			"rus": {"official": "\u0421\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e \u0411\u0430\u0433\u0430\u043c\u0441\u043a\u0438\u0445 \u041e\u0441\u0442\u0440\u043e\u0432\u043e\u0432", "common": "\u0411\u0430\u0433\u0430\u043c\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "Commonwealth de las Bahamas", "common": "Bahamas"},
-			"idn": {"official": "Persemakmuran Bahama", "common": "Bahama"}
+			"ind": {"official": "Persemakmuran Bahama", "common": "Bahama"}
 		},
 		"latlng": [24.25, -76],
 		"demonym": "Bahamian",
@@ -1226,7 +1226,7 @@
 			"por": {"official": "B\u00f3snia e Herzegovina", "common": "B\u00f3snia e Herzegovina"},
 			"rus": {"official": "\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430", "common": "\u0411\u043e\u0441\u043d\u0438\u044f \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"},
 			"spa": {"official": "Bosnia y Herzegovina", "common": "Bosnia y Herzegovina"},
-			"idn": {"official": "Bosnia dan Herzegovina", "common": "Bosnia dan Herzegovina"}
+			"ind": {"official": "Bosnia dan Herzegovina", "common": "Bosnia dan Herzegovina"}
 		},
 		"latlng": [44, 18],
 		"demonym": "Bosnian, Herzegovinian",
@@ -1269,7 +1269,7 @@
 			"por": {"official": "Coletividade de Saint Barth\u00e9lemy Barth\u00e9lemySaint", "common": "S\u00e3o Bartolomeu"},
 			"rus": {"official": "\u041a\u043e\u043b\u043b\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0441\u0442\u044c \u0421\u0430\u043d\u043a\u0442 -\u0411\u0430\u0440\u0442\u0435\u043b\u044c\u043c\u0438\u0421\u0435\u043d\u0442 \u0411\u0430\u0440\u0442\u0435\u043b\u0435\u043c\u0438", "common": "\u0421\u0435\u043d-\u0411\u0430\u0440\u0442\u0435\u043b\u0435\u043c\u0438"},
 			"spa": {"official": "Colectividad de San Barth\u00e9lemySaint Barth\u00e9lemy", "common": "San Bartolom\u00e9"},
-			"idn": {"official": "Saint-Barth\u00e9lemy", "common": "Saint-Barth\u00e9lemy"}
+			"ind": {"official": "Saint-Barth\u00e9lemy", "common": "Saint-Barth\u00e9lemy"}
 		},
 		"latlng": [18.5, -63.41666666],
 		"demonym": "Saint Barth\u00e9lemy Islander",
@@ -1318,7 +1318,7 @@
 			"por": {"official": "Rep\u00fablica da Bielorr\u00fassia", "common": "Bielor\u00fassia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c", "common": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Belar\u00fas", "common": "Bielorrusia"},
-			"idn": {"official": "Republik Belarus", "common": "Belarus"}
+			"ind": {"official": "Republik Belarus", "common": "Belarus"}
 		},
 		"latlng": [53, 28],
 		"demonym": "Belarusian",
@@ -1372,7 +1372,7 @@
 			"por": {"official": "Belize", "common": "Belize"},
 			"rus": {"official": "\u0411\u0435\u043b\u0438\u0437", "common": "\u0411\u0435\u043b\u0438\u0437"},
 			"spa": {"official": "Belice", "common": "Belice"},
-			"idn": {"official": "Belize", "common": "Belize"}
+			"ind": {"official": "Belize", "common": "Belize"}
 		},
 		"latlng": [17.25, -88.75],
 		"demonym": "Belizean",
@@ -1416,7 +1416,7 @@
 			"por": {"official": "Bermudas", "common": "Bermudas"},
 			"rus": {"official": "\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "Bermuda", "common": "Bermudas"},
-			"idn": {"official": "Kepulauan Bermuda", "common": "Bermuda"}
+			"ind": {"official": "Kepulauan Bermuda", "common": "Bermuda"}
 		},
 		"latlng": [32.33333333, -64.75],
 		"demonym": "Bermudian",
@@ -1519,7 +1519,7 @@
 			"por": {"official": "Rep\u00fablica Federativa do Brasil", "common": "Brasil"},
 			"rus": {"official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f", "common": "\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica Federativa del Brasil", "common": "Brasil"},
-			"idn": {"official": "Republik Federasi Brasil", "common": "Brasil"}
+			"ind": {"official": "Republik Federasi Brasil", "common": "Brasil"}
 		},
 		"latlng": [-10, -55],
 		"demonym": "Brazilian",
@@ -1607,7 +1607,7 @@
 			"por": {"official": "Na\u00e7\u00e3o do Brunei, Morada da Paz", "common": "Brunei"},
 			"rus": {"official": "\u041d\u0430\u0446\u0438\u044f \u0411\u0440\u0443\u043d\u0435\u0439, \u043e\u0431\u0438\u0442\u0435\u043b\u044c \u043c\u0438\u0440\u0430", "common": "\u0411\u0440\u0443\u043d\u0435\u0439"},
 			"spa": {"official": "Naci\u00f3n de Brunei, Morada de la Paz", "common": "Brunei"},
-			"idn": {"official": "Brunei Darussalaam", "common": "Brunei"}
+			"ind": {"official": "Brunei Darussalaam", "common": "Brunei"}
 		},
 		"latlng": [4.5, 114.66666666],
 		"demonym": "Bruneian",
@@ -1651,7 +1651,7 @@
 			"por": {"official": "Reino do But\u00e3o", "common": "But\u00e3o"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0411\u0443\u0442\u0430\u043d", "common": "\u0411\u0443\u0442\u0430\u043d"},
 			"spa": {"official": "Reino de But\u00e1n", "common": "But\u00e1n"},
-			"idn": {"official": "Kerajaan Bhutan", "common": "Bhutan"}
+			"ind": {"official": "Kerajaan Bhutan", "common": "Bhutan"}
 		},
 		"latlng": [27.5, 90.5],
 		"demonym": "Bhutanese",
@@ -1694,7 +1694,7 @@
 			"por": {"official": "Ilha Bouvet", "common": "Ilha Bouvet"},
 			"rus": {"official": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0411\u0443\u0432\u0435", "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0411\u0443\u0432\u0435"},
 			"spa": {"official": "Isla Bouvet", "common": "Isla Bouvet"},
-			"idn": {"official": "Pulau Bouvet", "common": "Pulau Bouvet"}
+			"ind": {"official": "Pulau Bouvet", "common": "Bouvet, Pulau"}
 		},
 		"latlng": [-54.43333333, 3.4],
 		"demonym": "",
@@ -1742,7 +1742,7 @@
 			"por": {"official": "Rep\u00fablica do Botswana", "common": "Botswana"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430", "common": "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"},
 			"spa": {"official": "Rep\u00fablica de Botswana", "common": "Botswana"},
-			"idn": {"official": "Republik Botswana", "common": "Botswana"}
+			"ind": {"official": "Republik Botswana", "common": "Botswana"}
 		},
 		"latlng": [-22, 24],
 		"demonym": "Motswana",
@@ -1791,7 +1791,7 @@
 			"por": {"official": "Rep\u00fablica Centro- Africano", "common": "Rep\u00fablica Centro-Africana"},
 			"rus": {"official": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e-\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"},
 			"spa": {"official": "Rep\u00fablica Centroafricana", "common": "Rep\u00fablica Centroafricana"},
-			"idn": {"official": "Republik Afrika Selatan", "common": "Afrika Selatan"}
+			"ind": {"official": "Republik Afrika Selatan", "common": "Afrika Selatan"}
 		},
 		"latlng": [7, 21],
 		"demonym": "Central African",
@@ -1840,7 +1840,7 @@
 			"por": {"official": "Canad\u00e1", "common": "Canad\u00e1"},
 			"rus": {"official": "\u041a\u0430\u043d\u0430\u0434\u0430", "common": "\u041a\u0430\u043d\u0430\u0434\u0430"},
 			"spa": {"official": "Canad\u00e1", "common": "Canad\u00e1"},
-			"idn": {"official": "Kanada", "common": "Kanada"}
+			"ind": {"official": "Kanada", "common": "Kanada"}
 		},
 		"latlng": [60, -95],
 		"demonym": "Canadian",
@@ -1884,7 +1884,7 @@
 			"por": {"official": "Territ\u00f3rio dos Cocos (Keeling)", "common": "Ilhas Cocos (Keeling)"},
 			"rus": {"official": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 (\u041a\u0438\u043b\u0438\u043d\u0433) \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "Territorio de los (Keeling) Islas Cocos", "common": "Islas Cocos o Islas Keeling"},
-			"idn": {"official": "Kepulauan Cocos (Keeling)", "common": "Cocos (Keeling)"}
+			"ind": {"official": "Kepulauan Cocos (Keeling)", "common": "Cocos (Keeling), Kepulauan"}
 		},
 		"latlng": [-12.5, 96.83333333],
 		"demonym": "Cocos Islander",
@@ -1942,7 +1942,7 @@
 			"por": {"official": "Confedera\u00e7\u00e3o Su\u00ed\u00e7a", "common": "Su\u00ed\u00e7a"},
 			"rus": {"official": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043a\u0430\u044f \u041a\u043e\u043d\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f", "common": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f"},
 			"spa": {"official": "Confederaci\u00f3n Suiza", "common": "Suiza"},
-			"idn": {"official": "Konfederasi Swiss", "common": "Swiss"}
+			"ind": {"official": "Konfederasi Swiss", "common": "Swiss"}
 		},
 		"latlng": [47, 8],
 		"demonym": "Swiss",
@@ -1986,7 +1986,7 @@
 			"por": {"official": "Rep\u00fablica do Chile", "common": "Chile"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0427\u0438\u043b\u0438", "common": "\u0427\u0438\u043b\u0438"},
 			"spa": {"official": "Rep\u00fablica de Chile", "common": "Chile"},
-			"idn": {"official": "Republik Chili", "common": "Chili"}
+			"ind": {"official": "Republik Chili", "common": "Chili"}
 		},
 		"latlng": [-30, -71],
 		"demonym": "Chilean",
@@ -2030,7 +2030,7 @@
 			"por": {"official": "Rep\u00fablica Popular da China", "common": "China"},
 			"rus": {"official": "\u041d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u0442\u0430\u0439", "common": "\u041a\u0438\u0442\u0430\u0439"},
 			"spa": {"official": "Rep\u00fablica Popular de China", "common": "China"},
-			"idn": {"official": "Republik Rakyat Tiongkok", "common": "Tiongkok"}
+			"ind": {"official": "Republik Rakyat Tiongkok", "common": "Tiongkok, Republik Rakyat"}
 		},
 		"latlng": [35, 105],
 		"demonym": "Chinese",
@@ -2073,7 +2073,7 @@
 			"por": {"official": "Rep\u00fablica da C\u00f4te d' Ivoire", "common": "Costa do Marfim"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0442- \u0434'\u0418\u0432\u0443\u0430\u0440\u0435", "common": "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"},
 			"spa": {"official": "Rep\u00fablica de C\u00f4te d' Ivoire", "common": "Costa de Marfil"},
-			"idn": {"official": "Republik Pantai Gading", "common": "Pantai Gading"}
+			"ind": {"official": "Republik Pantai Gading", "common": "Pantai Gading"}
 		},
 		"latlng": [8, -5],
 		"demonym": "Ivorian",
@@ -2122,7 +2122,7 @@
 			"por": {"official": "Rep\u00fablica dos Camar\u00f5es", "common": "Camar\u00f5es"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u043c\u0435\u0440\u0443\u043d", "common": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"},
 			"spa": {"official": "Rep\u00fablica de Camer\u00fan", "common": "Camer\u00fan"},
-			"idn": {"official": "Republik Kamerun", "common": "Kamerun"}
+			"ind": {"official": "Republik Kamerun", "common": "Kamerun"}
 		},
 		"latlng": [6, 12],
 		"demonym": "Cameroonian",
@@ -2186,7 +2186,7 @@
 			"por": {"official": "Rep\u00fablica Democr\u00e1tica do Congo", "common": "Rep\u00fablica Democr\u00e1tica do Congo"},
 			"rus": {"official": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e", "common": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"},
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica del Congo", "common": "Congo (Rep. Dem.)"},
-			"idn": {"official": "Republik Demokratik Kongo", "common": "Kongo, Republik Demokratik"}
+			"ind": {"official": "Republik Demokratik Kongo", "common": "Kongo, Republik Demokratik"}
 		},
 		"latlng": [0, 25],
 		"demonym": "Congolese",
@@ -2240,7 +2240,7 @@
 			"por": {"official": "Rep\u00fablica do Congo", "common": "Congo"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e", "common": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"},
 			"spa": {"official": "Rep\u00fablica del Congo", "common": "Congo"},
-			"idn": {"official": "Republik Kongo", "common": "Kongo, Republik"}
+			"ind": {"official": "Republik Kongo", "common": "Kongo, Republik"}
 		},
 		"latlng": [-1, 15],
 		"demonym": "Congolese",
@@ -2289,7 +2289,7 @@
 			"por": {"official": "Ilhas Cook", "common": "Ilhas Cook"},
 			"rus": {"official": "\u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0443\u043a\u0430", "common": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u041a\u0443\u043a\u0430"},
 			"spa": {"official": "Islas Cook", "common": "Islas Cook"},
-			"idn": {"official": "Kepulauan Cook", "common": "Cook, Kepulauan"}
+			"ind": {"official": "Kepulauan Cook", "common": "Cook, Kepulauan"}
 		},
 		"latlng": [-21.23333333, -159.76666666],
 		"demonym": "Cook Islander",
@@ -2333,7 +2333,7 @@
 			"por": {"official": "Rep\u00fablica da Col\u00f4mbia", "common": "Col\u00f4mbia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f", "common": "\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Colombia", "common": "Colombia"},
-			"idn": {"official": "Republik Kolombia", "common": "Kolombia"}
+			"ind": {"official": "Republik Kolombia", "common": "Kolombia"}
 		},
 		"latlng": [4, -72],
 		"demonym": "Colombian",
@@ -2387,7 +2387,7 @@
 			"por": {"official": "Uni\u00e3o das Comores", "common": "Comores"},
 			"rus": {"official": "\u0421\u043e\u044e\u0437 \u041a\u043e\u043c\u043e\u0440\u0441\u043a\u0438\u0445 \u041e\u0441\u0442\u0440\u043e\u0432\u043e\u0432", "common": "\u041a\u043e\u043c\u043e\u0440\u044b"},
 			"spa": {"official": "Uni\u00f3n de las Comoras", "common": "Comoras"},
-			"idn": {"official": "Perserikatan Komoro", "common": "Komoro"}
+			"ind": {"official": "Perserikatan Komoro", "common": "Komoro"}
 		},
 		"latlng": [-12.16666666, 44.25],
 		"demonym": "Comoran",
@@ -2431,7 +2431,7 @@
 			"por": {"official": "Rep\u00fablica de Cabo Verde", "common": "Cabo Verde"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0431\u043e -\u0412\u0435\u0440\u0434\u0435", "common": "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435"},
 			"spa": {"official": "Rep\u00fablica de Cabo Verde", "common": "Cabo Verde"},
-			"idn": {"official": "Republik Tanjung Verde", "common": "Tanjung Verde"}
+			"ind": {"official": "Republik Tanjung Verde", "common": "Tanjung Verde"}
 		},
 		"latlng": [16, -24],
 		"demonym": "Cape Verdian",
@@ -2475,7 +2475,7 @@
 			"por": {"official": "Rep\u00fablica da Costa Rica", "common": "Costa Rica"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430", "common": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"},
 			"spa": {"official": "Rep\u00fablica de Costa Rica", "common": "Costa Rica"},
-			"idn": {"official": "Republik Kosta Rika", "common": "Kosta Rika"}
+			"ind": {"official": "Republik Kosta Rika", "common": "Kosta Rika"}
 		},
 		"latlng": [10, -84],
 		"demonym": "Costa Rican",
@@ -2519,7 +2519,7 @@
 			"por": {"official": "Rep\u00fablica de Cuba", "common": "Cuba"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0443\u0431\u0430", "common": "\u041a\u0443\u0431\u0430"},
 			"spa": {"official": "Rep\u00fablica de Cuba", "common": "Cuba"},
-			"idn": {"official": "Republik Kuba", "common": "Kuba"}
+			"ind": {"official": "Republik Kuba", "common": "Kuba"}
 		},
 		"latlng": [21.5, -80],
 		"demonym": "Cuban",
@@ -2610,7 +2610,7 @@
 			"por": {"official": "Territ\u00f3rio da Ilha Christmas", "common": "Ilha do Natal"},
 			"rus": {"official": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430", "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u0430"},
 			"spa": {"official": "Territorio de la Isla de Navidad", "common": "Isla de Navidad"},
-			"idn": {"official": "Pulau Natal", "common": "Natal, Pulau"}
+			"ind": {"official": "Pulau Natal", "common": "Natal, Pulau"}
 		},
 		"latlng": [-10.5, 105.66666666],
 		"demonym": "Christmas Island",
@@ -2654,7 +2654,7 @@
 			"por": {"official": "Ilhas Cayman", "common": "Ilhas Caim\u00e3o"},
 			"rus": {"official": "\u041a\u0430\u0439\u043c\u0430\u043d\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u041a\u0430\u0439\u043c\u0430\u043d\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "Islas Caim\u00e1n", "common": "Islas Caim\u00e1n"},
-			"idn": {"official": "Kepulauan Cayman", "common": "Cayman, Kepulauan"}
+			"ind": {"official": "Kepulauan Cayman", "common": "Cayman, Kepulauan"}
 		},
 		"latlng": [19.5, -80.5],
 		"demonym": "Caymanian",
@@ -2703,7 +2703,7 @@
 			"por": {"official": "Rep\u00fablica de Chipre", "common": "Chipre"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0438\u043f\u0440", "common": "\u041a\u0438\u043f\u0440"},
 			"spa": {"official": "Rep\u00fablica de Chipre", "common": "Chipre"},
-			"idn": {"official": "Republik Siprus", "common": "Siprus"}
+			"ind": {"official": "Republik Siprus", "common": "Siprus"}
 		},
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
@@ -2752,7 +2752,7 @@
 			"por": {"official": "Rep\u00fablica Checa", "common": "Rep\u00fablica Checa"},
 			"rus": {"official": "\u0427\u0435\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0427\u0435\u0445\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica Checa", "common": "Rep\u00fablica Checa"},
-			"idn": {"official": "Republik Ceko", "common": "Ceko, Republik"}
+			"ind": {"official": "Republik Ceko", "common": "Ceko, Republik"}
 		},
 		"latlng": [49.75, 15.5],
 		"demonym": "Czech",
@@ -2795,7 +2795,7 @@
 			"por": {"official": "Rep\u00fablica Federal da Alemanha", "common": "Alemanha"},
 			"rus": {"official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f", "common": "\u0413\u0435\u0440\u043c\u0430\u043d\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica Federal de Alemania", "common": "Alemania"},
-			"idn": {"official": "Republik Federal Jerman", "common": "Jerman"}
+			"ind": {"official": "Republik Federal Jerman", "common": "Jerman"}
 		},
 		"latlng": [51, 9],
 		"demonym": "German",
@@ -2844,7 +2844,7 @@
 			"por": {"official": "Rep\u00fablica do Djibouti", "common": "Djibouti"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0414\u0436\u0438\u0431\u0443\u0442\u0438", "common": "\u0414\u0436\u0438\u0431\u0443\u0442\u0438"},
 			"spa": {"official": "Rep\u00fablica de Djibouti", "common": "Yibuti"},
-			"idn": {"official": "Republik Djibouti", "common": "Djibouti"}
+			"ind": {"official": "Republik Djibouti", "common": "Djibouti"}
 		},
 		"latlng": [11.5, 43],
 		"demonym": "Djibouti",
@@ -2888,7 +2888,7 @@
 			"por": {"official": "Comunidade da Dominica", "common": "Dominica"},
 			"rus": {"official": "\u0421\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e \u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0438", "common": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430"},
 			"spa": {"official": "Mancomunidad de Dominica", "common": "Dominica"},
-			"idn": {"official": "Persemakmuran Dominika", "common": "Dominika"}
+			"ind": {"official": "Persemakmuran Dominika", "common": "Dominika"}
 		},
 		"latlng": [15.41666666, -61.33333333],
 		"demonym": "Dominican",
@@ -2932,7 +2932,7 @@
 			"por": {"official": "Reino da Dinamarca", "common": "Dinamarca"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0414\u0430\u043d\u0438\u044f", "common": "\u0414\u0430\u043d\u0438\u044f"},
 			"spa": {"official": "Reino de Dinamarca", "common": "Dinamarca"},
-			"idn": {"official": "Kerajaan Denmark", "common": "Denmark"}
+			"ind": {"official": "Kerajaan Denmark", "common": "Denmark"}
 		},
 		"latlng": [56, 10],
 		"demonym": "Danish",
@@ -2976,7 +2976,7 @@
 			"por": {"official": "Rep\u00fablica Dominicana", "common": "Rep\u00fablica Dominicana"},
 			"rus": {"official": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0414\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"},
 			"spa": {"official": "Rep\u00fablica Dominicana", "common": "Rep\u00fablica Dominicana"},
-			"idn": {"official": "Republik Dominika", "common": "Dominika, Republik"}
+			"ind": {"official": "Republik Dominika", "common": "Dominika, Republik"}
 		},
 		"latlng": [19, -70.66666666],
 		"demonym": "Dominican",
@@ -3020,7 +3020,7 @@
 			"por": {"official": "Rep\u00fablica Democr\u00e1tica e Popular da Arg\u00e9lia", "common": "Alg\u00e9ria"},
 			"rus": {"official": "\u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0436\u0438\u0440", "common": "\u0410\u043b\u0436\u0438\u0440"},
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica Popular de Argelia", "common": "Argelia"},
-			"idn": {"official": "Republik Demokratik Aljazair", "common": "Aljazair"}
+			"ind": {"official": "Republik Demokratik Aljazair", "common": "Aljazair"}
 		},
 		"latlng": [28, 3],
 		"demonym": "Algerian",
@@ -3064,7 +3064,7 @@
 			"por": {"official": "Rep\u00fablica do Equador", "common": "Equador"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u043a\u0432\u0430\u0434\u043e\u0440", "common": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"},
 			"spa": {"official": "Rep\u00fablica del Ecuador", "common": "Ecuador"},
-			"idn": {"official": "Republik Ekuador", "common": "Ekuador"}
+			"ind": {"official": "Republik Ekuador", "common": "Ekuador"}
 		},
 		"latlng": [-2, -77.5],
 		"demonym": "Ecuadorean",
@@ -3108,7 +3108,7 @@
 			"por": {"official": "Rep\u00fablica \u00c1rabe do Egipto", "common": "Egito"},
 			"rus": {"official": "\u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0415\u0433\u0438\u043f\u0435\u0442", "common": "\u0415\u0433\u0438\u043f\u0435\u0442"},
 			"spa": {"official": "Rep\u00fablica \u00c1rabe de Egipto", "common": "Egipto"},
-			"idn": {"official": "Republik Arab Mesir", "common": "Mesir"}
+			"ind": {"official": "Republik Arab Mesir", "common": "Mesir"}
 		},
 		"latlng": [27, 30],
 		"demonym": "Egyptian",
@@ -3162,7 +3162,7 @@
 			"por": {"official": "Estado da Eritreia", "common": "Eritreia"},
 			"rus": {"official": "\u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u042d\u0440\u0438\u0442\u0440\u0435\u044f", "common": "\u042d\u0440\u0438\u0442\u0440\u0435\u044f"},
 			"spa": {"official": "Estado de Eritrea", "common": "Eritrea"},
-			"idn": {"official": "Negara Eritrea", "common": "Eritrea"}
+			"ind": {"official": "Negara Eritrea", "common": "Eritrea"}
 		},
 		"latlng": [15, 39],
 		"demonym": "Eritrean",
@@ -3215,7 +3215,7 @@
 			"por": {"official": "Rep\u00fablica \u00c1rabe Saharaui Democr\u00e1tica", "common": "Saara Ocidental"},
 			"rus": {"official": "Sahrawi \u0410\u0440\u0430\u0431\u0441\u043a\u0430\u044f \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0417\u0430\u043f\u0430\u0434\u043d\u0430\u044f \u0421\u0430\u0445\u0430\u0440\u0430"},
 			"spa": {"official": "Rep\u00fablica \u00c1rabe Saharaui Democr\u00e1tica", "common": "Sahara Occidental"},
-			"idn": {"official": "Republik Demokratik Arab Sahrawi", "common": "Sahara Barat"}
+			"ind": {"official": "Republik Demokratik Arab Sahrawi", "common": "Sahara Barat"}
 		},
 		"latlng": [24.5, -13],
 		"demonym": "Sahrawi",
@@ -3278,7 +3278,7 @@
 			"por": {"official": "Reino de Espanha", "common": "Espanha"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0418\u0441\u043f\u0430\u043d\u0438\u044f", "common": "\u0418\u0441\u043f\u0430\u043d\u0438\u044f"},
 			"spa": {"official": "Reino de Espa\u00f1a", "common": "Espa\u00f1a"},
-			"idn": {"official": "Kerajaan Spanyol", "common": "Spanyol"}
+			"ind": {"official": "Kerajaan Spanyol", "common": "Spanyol"}
 		},
 		"latlng": [40, -4],
 		"demonym": "Spanish",
@@ -3322,7 +3322,7 @@
 			"por": {"official": "Rep\u00fablica da Est\u00f3nia", "common": "Est\u00f3nia"},
 			"rus": {"official": "\u042d\u0441\u0442\u043e\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u042d\u0441\u0442\u043e\u043d\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Estonia", "common": "Estonia"},
-			"idn": {"official": "Republik Estonia", "common": "Estonia"}
+			"ind": {"official": "Republik Estonia", "common": "Estonia"}
 		},
 		"latlng": [59, 26],
 		"demonym": "Estonian",
@@ -3366,7 +3366,7 @@
 			"por": {"official": "Rep\u00fablica Federal Democr\u00e1tica da Eti\u00f3pia", "common": "Eti\u00f3pia"},
 			"rus": {"official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u0444\u0438\u043e\u043f\u0438\u044f", "common": "\u042d\u0444\u0438\u043e\u043f\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica Federal de Etiop\u00eda", "common": "Etiop\u00eda"},
-			"idn": {"official": "Republik Demokratik Federal Ethiopia", "common": "Ethiopia"}
+			"ind": {"official": "Republik Demokratik Federal Ethiopia", "common": "Ethiopia"}
 		},
 		"latlng": [8, 38],
 		"demonym": "Ethiopian",
@@ -3414,7 +3414,7 @@
 			"por": {"official": "Rep\u00fablica da Finl\u00e2ndia", "common": "Finl\u00e2ndia"},
 			"rus": {"official": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Finlandia", "common": "Finlandia"},
-			"idn": {"official": "Republik Finlandia", "common": "Finlandia"}
+			"ind": {"official": "Republik Finlandia", "common": "Finlandia"}
 		},
 		"latlng": [64, 26],
 		"demonym": "Finnish",
@@ -3467,7 +3467,7 @@
 			"por": {"official": "Rep\u00fablica de Fiji", "common": "Fiji"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0424\u0438\u0434\u0436\u0438", "common": "\u0424\u0438\u0434\u0436\u0438"},
 			"spa": {"official": "Rep\u00fablica de Fiji", "common": "Fiyi"},
-			"idn": {"official": "Republik Fiji", "common": "Fiji"}
+			"ind": {"official": "Republik Fiji", "common": "Fiji"}
 		},
 		"latlng": [-18, 175],
 		"demonym": "Fijian",
@@ -3510,7 +3510,7 @@
 			"por": {"official": "Ilhas Malvinas", "common": "Ilhas Malvinas"},
 			"rus": {"official": "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "islas Malvinas", "common": "Islas Malvinas"},
-			"idn": {"official": "Kepulauan Falkland", "common": "Falkland, Kepulauan"}
+			"ind": {"official": "Kepulauan Falkland", "common": "Falkland, Kepulauan"}
 		},
 		"latlng": [-51.75, -59],
 		"demonym": "Falkland Islander",
@@ -3553,7 +3553,7 @@
 			"por": {"official": "Rep\u00fablica Francesa", "common": "Fran\u00e7a"},
 			"rus": {"official": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0424\u0440\u0430\u043d\u0446\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica franc\u00e9s", "common": "Francia"},
-			"idn": {"official": "Republik Perancis", "common": "Perancis"}
+			"ind": {"official": "Republik Perancis", "common": "Perancis"}
 		},
 		"latlng": [46, 2],
 		"demonym": "French",
@@ -3601,7 +3601,7 @@
 			"por": {"official": "Ilhas Faroe", "common": "Ilhas Faro\u00e9"},
 			"rus": {"official": "\u0424\u0430\u0440\u0435\u0440\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u0424\u0430\u0440\u0435\u0440\u0441\u043a\u0438\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "Islas Feroe", "common": "Islas Faroe"},
-			"idn": {"official": "Kepulauan Faroe", "common": "Faroe, Kepulauan"}
+			"ind": {"official": "Kepulauan Faroe", "common": "Faroe, Kepulauan"}
 		},
 		"latlng": [62, -7],
 		"demonym": "Faroese",
@@ -3644,7 +3644,7 @@
 			"por": {"official": "Estados Federados da Micron\u00e9sia", "common": "Micron\u00e9sia"},
 			"rus": {"official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0438", "common": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u041c\u0438\u043a\u0440\u043e\u043d\u0435\u0437\u0438\u0438"},
 			"spa": {"official": "Estados Federados de Micronesia", "common": "Micronesia"},
-			"idn": {"official": "Federasi Mikronesia", "common": "Mikronesia, Federasi"}
+			"ind": {"official": "Federasi Mikronesia", "common": "Mikronesia, Federasi"}
 		},
 		"latlng": [6.91666666, 158.25],
 		"demonym": "Micronesian",
@@ -3687,7 +3687,7 @@
 			"por": {"official": "Rep\u00fablica do Gab\u00e3o", "common": "Gab\u00e3o"},
 			"rus": {"official": "\u0413\u0430\u0431\u043e\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0413\u0430\u0431\u043e\u043d"},
 			"spa": {"official": "Rep\u00fablica de Gab\u00f3n", "common": "Gab\u00f3n"},
-			"idn": {"official": "Republik Gabon", "common": "Gabon"}
+			"ind": {"official": "Republik Gabon", "common": "Gabon"}
 		},
 		"latlng": [-1, 11.75],
 		"demonym": "Gabonese",
@@ -3730,7 +3730,7 @@
 			"por": {"official": "Reino Unido da Gr\u00e3-Bretanha e Irlanda do Norte", "common": "Reino Unido"},
 			"rus": {"official": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0438 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0438", "common": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"},
 			"spa": {"official": "Reino Unido de Gran Breta\u00f1a e Irlanda del Norte", "common": "Reino Unido"},
-			"idn": {"official": "Kerajaan Bersatu Britania Raya dan Irlandia Utara", "common": "Britania Raya"}
+			"ind": {"official": "Kerajaan Bersatu Britania Raya dan Irlandia Utara", "common": "Britania Raya"}
 		},
 		"latlng": [54, -2],
 		"demonym": "British",
@@ -3773,7 +3773,7 @@
 			"por": {"official": "Georgia", "common": "Ge\u00f3rgia"},
 			"rus": {"official": "\u0413\u0440\u0443\u0437\u0438\u044f", "common": "\u0413\u0440\u0443\u0437\u0438\u044f"},
 			"spa": {"official": "Georgia", "common": "Georgia"},
-			"idn": {"official": "Georgia", "common": "Georgia"}
+			"ind": {"official": "Georgia", "common": "Georgia"}
 		},
 		"latlng": [42, 43.5],
 		"demonym": "Georgian",
@@ -3826,7 +3826,7 @@
 			"por": {"official": "Bailiado de Guernsey", "common": "Guernsey"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043d\u043d\u043e\u0435 \u0432\u043b\u0430\u0434\u0435\u043d\u0438\u0435 \u0413\u0435\u0440\u043d\u0441\u0438", "common": "\u0413\u0435\u0440\u043d\u0441\u0438"},
 			"spa": {"official": "Bail\u00eda de Guernsey", "common": "Guernsey"},
-			"idn": {"official": "Guernsey", "common": "Guernsey"}
+			"ind": {"official": "Guernsey", "common": "Guernsey"}
 		},
 		"latlng": [49.46666666, -2.58333333],
 		"demonym": "Channel Islander",
@@ -3869,7 +3869,7 @@
 			"por": {"official": "Rep\u00fablica do Gana", "common": "Gana"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u043d\u0430", "common": "\u0413\u0430\u043d\u0430"},
 			"spa": {"official": "Rep\u00fablica de Ghana", "common": "Ghana"},
-			"idn": {"official": "Republik Ghana", "common": "Ghana"},
+			"ind": {"official": "Republik Ghana", "common": "Ghana"},
 		},
 		"latlng": [8, -2],
 		"demonym": "Ghanaian",
@@ -3912,7 +3912,7 @@
 			"por": {"official": "Gibraltar", "common": "Gibraltar"},
 			"rus": {"official": "\u0413\u0438\u0431\u0440\u0430\u043b\u0442\u0430\u0440", "common": "\u0413\u0438\u0431\u0440\u0430\u043b\u0442\u0430\u0440"},
 			"spa": {"official": "Gibraltar", "common": "Gibraltar"},
-			"idn": {"official": "Gibraltar", "common": "Gibraltar"},
+			"ind": {"official": "Gibraltar", "common": "Gibraltar"}
 		},
 		"latlng": [36.13333333, -5.35],
 		"demonym": "Gibraltar",
@@ -3955,7 +3955,7 @@
 			"por": {"official": "Rep\u00fablica da Guin\u00e9", "common": "Guin\u00e9"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0432\u0438\u043d\u0435\u044f", "common": "\u0413\u0432\u0438\u043d\u0435\u044f"},
 			"spa": {"official": "Rep\u00fablica de Guinea", "common": "Guinea"},
-			"idn": {"official": "Republik Guinea", "common": "Guinea"}
+			"ind": {"official": "Republik Guinea", "common": "Guinea"}
 		},
 		"latlng": [11, -10],
 		"demonym": "Guinean",
@@ -3998,7 +3998,7 @@
 			"por": {"official": "Guadalupe", "common": "Guadalupe"},
 			"rus": {"official": "\u0413\u0432\u0430\u0434\u0435\u043b\u0443\u043f\u0430", "common": "\u0413\u0432\u0430\u0434\u0435\u043b\u0443\u043f\u0430"},
 			"spa": {"official": "Guadalupe", "common": "Guadalupe"},
-			"idn": {"official": "Guadeloupe", "common": "Guadeloupe"}
+			"ind": {"official": "Guadeloupe", "common": "Guadeloupe"}
 		},
 		"latlng": [16.25, -61.583333],
 		"demonym": "Guadeloupian",
@@ -4041,7 +4041,7 @@
 			"por": {"official": "Rep\u00fablica da G\u00e2mbia", "common": "G\u00e2mbia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u043c\u0431\u0438\u044f", "common": "\u0413\u0430\u043c\u0431\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Gambia", "common": "Gambia"},
-			"idn": {"official": "Republik Gambia", "common": "Gambia"}
+			"ind": {"official": "Republik Gambia", "common": "Gambia"}
 		},
 		"latlng": [13.46666666, -16.56666666],
 		"demonym": "Gambian",
@@ -4084,7 +4084,7 @@
 			"por": {"official": "Rep\u00fablica da Guin\u00e9-Bissau", "common": "Guin\u00e9-Bissau"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0432\u0438\u043d\u0435\u044f -\u0411\u0438\u0441\u0430\u0443", "common": "\u0413\u0432\u0438\u043d\u0435\u044f-\u0411\u0438\u0441\u0430\u0443"},
 			"spa": {"official": "Rep\u00fablica de Guinea- Bissau", "common": "Guinea-Bis\u00e1u"},
-			"idn": {"official": "Republik Guinea-Bissau", "common": "Guinea-Bissau"}
+			"ind": {"official": "Republik Guinea-Bissau", "common": "Guinea-Bissau"}
 		},
 		"latlng": [12, -15],
 		"demonym": "Guinea-Bissauan",
@@ -4138,7 +4138,7 @@
 			"por": {"official": "Rep\u00fablica da Guin\u00e9 Equatorial", "common": "Guin\u00e9 Equatorial"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f", "common": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f"},
 			"spa": {"official": "Rep\u00fablica de Guinea Ecuatorial", "common": "Guinea Ecuatorial"},
-			"idn": {"official": "Republik Guinea Khatulistiwa", "common": "Guinea Khatulistiwa"}
+			"ind": {"official": "Republik Guinea Khatulistiwa", "common": "Guinea Khatulistiwa"}
 		},
 		"latlng": [2, 10],
 		"demonym": "Equatorial Guinean",
@@ -4181,7 +4181,7 @@
 			"por": {"official": "Rep\u00fablica Hel\u00e9nica", "common": "Gr\u00e9cia"},
 			"rus": {"official": "\u0413\u0440\u0435\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0413\u0440\u0435\u0446\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica Hel\u00e9nica", "common": "Grecia"},
-			"idn": {"official": "Republik Yunani", "common": "Yunani"}
+			"ind": {"official": "Republik Yunani", "common": "Yunani"}
 		},
 		"latlng": [39, 22],
 		"demonym": "Greek",
@@ -4224,7 +4224,7 @@
 			"por": {"official": "Grenada", "common": "Granada"},
 			"rus": {"official": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430", "common": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430"},
 			"spa": {"official": "Granada", "common": "Grenada"},
-			"idn": {"official": "Grenada", "common": "Grenada"}
+			"ind": {"official": "Grenada", "common": "Grenada"}
 		},
 		"latlng": [12.11666666, -61.66666666],
 		"demonym": "Grenadian",
@@ -4267,7 +4267,7 @@
 			"por": {"official": "Groenl\u00e2ndia", "common": "Gronel\u00e2ndia"},
 			"rus": {"official": "\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f", "common": "\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f"},
 			"spa": {"official": "Groenlandia", "common": "Groenlandia"},
-			"idn": {"official": "Greenland", "common": "Greenland"}
+			"ind": {"official": "Greenland", "common": "Greenland"}
 		},
 		"latlng": [72, -40],
 		"demonym": "Greenlandic",
@@ -4310,7 +4310,7 @@
 			"por": {"official": "Rep\u00fablica da Guatemala", "common": "Guatemala"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430", "common": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"},
 			"spa": {"official": "Rep\u00fablica de Guatemala", "common": "Guatemala"},
-			"idn": {"official": "Republik Guatemala", "common": "Guatemala"}
+			"ind": {"official": "Republik Guatemala", "common": "Guatemala"}
 		},
 		"latlng": [15.5, -90.25],
 		"demonym": "Guatemalan",
@@ -4353,7 +4353,7 @@
 			"por": {"official": "Guiana", "common": "Guiana Francesa"},
 			"rus": {"official": "\u0413\u0432\u0438\u0430\u043d\u0430", "common": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0430\u044f \u0413\u0432\u0438\u0430\u043d\u0430"},
 			"spa": {"official": "Guayana", "common": "Guayana Francesa"},
-			"idn": {"official": "Guyana", "common": "Guyana Perancis"}
+			"ind": {"official": "Guyana", "common": "Guyana Perancis"}
 		},
 		"latlng": [4, -53],
 		"demonym": "",
@@ -4406,7 +4406,7 @@
 			"por": {"official": "Guam", "common": "Guam"},
 			"rus": {"official": "\u0413\u0443\u0430\u043c", "common": "\u0413\u0443\u0430\u043c"},
 			"spa": {"official": "Guam", "common": "Guam"},
-			"idn": {"official": "Guam", "common": "Guam"}
+			"ind": {"official": "Guam", "common": "Guam"}
 		},
 		"latlng": [13.46666666, 144.78333333],
 		"demonym": "Guamanian",
@@ -4449,7 +4449,7 @@
 			"por": {"official": "Co -operative Rep\u00fablica da Guiana", "common": "Guiana"},
 			"rus": {"official": "\u041a\u043e\u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u0439\u0430\u043d\u0430", "common": "\u0413\u0430\u0439\u0430\u043d\u0430"},
 			"spa": {"official": "Rep\u00fablica Cooperativa de Guyana", "common": "Guyana"},
-			"idn": {"official": "Republik Kooperatif Guyana", "common": "Guyana"}
+			"ind": {"official": "Republik Kooperatif Guyana", "common": "Guyana"}
 		},
 		"latlng": [5, -59],
 		"demonym": "Guyanese",
@@ -4497,7 +4497,7 @@
 			"por": {"official": "Hong Kong Regi\u00e3o Administrativa Especial da Rep\u00fablica Popular da China", "common": "Hong Kong"},
 			"rus": {"official": "Hong Kong \u0421\u043f\u0435\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d \u041a\u0438\u0442\u0430\u0439\u0441\u043a\u043e\u0439 \u041d\u0430\u0440\u043e\u0434\u043d\u043e\u0439 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438 \u041a\u0438\u0442\u0430\u044f", "common": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"},
 			"spa": {"official": "Hong Kong Regi\u00f3n Administrativa Especial de la Rep\u00fablica Popular China", "common": "Hong Kong"},
-			"idn": {"official": "Daerah Administratif Khusus Hong Kong", "common": "Hong Kong"}
+			"ind": {"official": "Daerah Administratif Khusus Hong Kong", "common": "Hong Kong"}
 		},
 		"latlng": [22.267, 114.188],
 		"demonym": "Hong Konger",
@@ -4540,7 +4540,7 @@
 			"por": {"official": "Ilha Heard e Ilhas McDonald", "common": "Ilha Heard e Ilhas McDonald"},
 			"rus": {"official": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0425\u0435\u0440\u0434 \u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434", "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0425\u0435\u0440\u0434 \u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434"},
 			"spa": {"official": "Islas Heard y McDonald", "common": "Islas Heard y McDonald"},
-			"idn": {"official": "Pulau Heard dan Kepulauan McDonald", "common": "Heard dan Kepulauan McDonald, Pulau"}
+			"ind": {"official": "Pulau Heard dan Kepulauan McDonald", "common": "Heard dan Kepulauan McDonald, Pulau"}
 		},
 		"latlng": [-53.1, 72.51666666],
 		"demonym": "Heard and McDonald Islander",
@@ -4583,7 +4583,7 @@
 			"por": {"official": "Rep\u00fablica de Honduras", "common": "Honduras"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441", "common": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"},
 			"spa": {"official": "Rep\u00fablica de Honduras", "common": "Honduras"},
-			"idn": {"official": "Republik Honduras", "common": "Honduras"}
+			"ind": {"official": "Republik Honduras", "common": "Honduras"}
 		},
 		"latlng": [15, -86.5],
 		"demonym": "Honduran",
@@ -4627,7 +4627,7 @@
 			"por": {"official": "Rep\u00fablica da Cro\u00e1cia", "common": "Cro\u00e1cia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f", "common": "\u0425\u043e\u0440\u0432\u0430\u0442\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Croacia", "common": "Croacia"},
-			"idn": {"official": "Republik Kroasia", "common": "Kroatia"}
+			"ind": {"official": "Republik Kroasia", "common": "Kroasia"}
 		},
 		"latlng": [45.16666666, 15.5],
 		"demonym": "Croatian",
@@ -4675,7 +4675,7 @@
 			"por": {"official": "Rep\u00fablica do Haiti", "common": "Haiti"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u0438\u0442\u0438", "common": "\u0413\u0430\u0438\u0442\u0438"},
 			"spa": {"official": "Rep\u00fablica de Hait\u00ed", "common": "Haiti"},
-			"idn": {"official": "Republik Haiti", "common": "Haiti"}
+			"ind": {"official": "Republik Haiti", "common": "Haiti"}
 		},
 		"latlng": [19, -72.41666666],
 		"demonym": "Haitian",
@@ -4718,7 +4718,7 @@
 			"por": {"official": "Hungria", "common": "Hungria"},
 			"rus": {"official": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f", "common": "\u0412\u0435\u043d\u0433\u0440\u0438\u044f"},
 			"spa": {"official": "Hungr\u00eda", "common": "Hungr\u00eda"},
-			"idn": {"official": "Hungaria", "common": "Hungaria"}
+			"ind": {"official": "Hungaria", "common": "Hungaria"}
 		},
 		"latlng": [47, 20],
 		"demonym": "Hungarian",
@@ -4761,7 +4761,7 @@
 			"por": {"official": "Rep\u00fablica da Indon\u00e9sia", "common": "Indon\u00e9sia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f", "common": "\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Indonesia", "common": "Indonesia"},
-			"idn": {"official": "Republik Indonesia", "common": "Indonesia"}
+			"ind": {"official": "Republik Indonesia", "common": "Indonesia"}
 		},
 		"latlng": [-5, 120],
 		"demonym": "Indonesian",
