@@ -1,3 +1,7 @@
+# Composer
 composer.phar
 composer.lock
 vendor/
+
+# Bower
+bower_components

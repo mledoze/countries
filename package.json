@@ -1,16 +1,9 @@
 {
 	"name": "world-countries",
 	"description": "List of world countries in JSON, CSV, XML and Yaml",
-	"version": "v1.7.0",
+	"version": "v1.7.2",
 	"main": "index.js",
-	"keywords": [
-		"countries",
-		"world",
-		"json",
-		"csv",
-		"xml",
-		"yaml"
-	],
+	"keywords": ["countries", "world", "json", "csv", "xml", "yaml"],
 	"maintainers": [
 		{
 			"name": "Mohammed Le Doze",
@@ -21,7 +14,7 @@
 		"https://mledoze.github.io/countries/#examples"
 	],
 	"bugs": {
-		"web": "https://github.com/mledoze/countries/issues"
+		"url": "https://github.com/mledoze/countries/issues"
 	},
 	"repository": {
 		"type": "git",
