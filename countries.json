@@ -918,51 +918,6 @@
 	},
 	{
 		"name": {
-			"common": "Bonaire",
-			"official": "Bonaire",
-			"native": {
-				"nld": {
-					"official": "Bonaire",
-					"common": "Bonaire"
-				},
-				"pap": {
-					"official": "Entidat p\u00fabliko Boneiru",
-					"common": "Boneiru"
-				},
-				"spa": {
-					"official": "Entidad p\u00FAblica Bonaire",
-					"common": "Bonaire"
-				}
-			}
-		},
-		"tld": [".an", ".nl"],
-		"cca2": "BQ",
-		"ccn3": "535",
-		"cca3": "BES",
-		"cioc": "",
-		"currency": ["USD"],
-		"callingCode": ["5997"],
-		"capital": "Kralendijk",
-		"altSpellings": ["BQ", "Bonaire, Sint Eustatius and Saba", "Boneiru"],
-		"region": "Americas",
-		"subregion": "Caribbean",
-		"languages": {
-			"nld": "Dutch"
-		},
-		"translations": {
-			"por": {"official": "Bonaire", "common": "Bonaire"},
-			"rus": {"official": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435", "common": "\u0411\u043e\u043d\u044d\u0439\u0440"},
-			"spa": {"official": "Entidad p\u00FAblica Bonaire", "common": "Bonaire"},
-			"fin": {"official": "Bonaire", "common": "Bonaire"}
-		},
-		"latlng": [12.15, -68.266667],
-		"demonym": "Dutch",
-		"landlocked": false,
-		"borders": [],
-		"area": 294
-	},
-	{
-		"name": {
 			"common": "Burkina Faso",
 			"official": "Burkina Faso",
 			"native": {
@@ -1600,9 +1555,9 @@
 		"translations": {
 			"cym": {"official": "Nation of Brunei, Abode of Peace", "common": "Brunei"},
 			"deu": {"official": "Nation von Brunei, Wohnung des Friedens", "common": "Brunei"},
-			"fra": {"official": "Nation de Brunei , demeure de la paix", "common": "Brunei"},
-			"hrv": {"official": "Nacija od Bruneja , Ku\u0107u Mira", "common": "Brunej"},
-			"ita": {"official": "Nazione di Brunei , Dimora della Pace", "common": "Brunei"},
+			"fra": {"official": "Nation de Brunei, demeure de la paix", "common": "Brunei"},
+			"hrv": {"official": "Nacija od Bruneja, Ku\u0107u Mira", "common": "Brunej"},
+			"ita": {"official": "Nazione di Brunei, Dimora della Pace", "common": "Brunei"},
 			"jpn": {"official": "\u30d6\u30eb\u30cd\u30a4\u3001\u5e73\u548c\u306e\u7cbe\u820e\u306e\u56fd\u5bb6", "common": "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30b5\u30e9\u30fc\u30e0"},
 			"nld": {"official": "Natie van Brunei, de verblijfplaats van de Vrede", "common": "Brunei"},
 			"por": {"official": "Na\u00e7\u00e3o do Brunei, Morada da Paz", "common": "Brunei"},
@@ -9123,49 +9078,6 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 3903
-	},
-	{
-		"name": {
-			"common": "Saint Helena, Ascension and Tristan da Cunha",
-			"official": "Saint Helena, Ascension and Tristan da Cunha",
-			"native": {
-				"eng": {
-					"official": "Saint Helena, Ascension and Tristan da Cunha",
-					"common": "Saint Helena, Ascension and Tristan da Cunha"
-				}
-			}
-		},
-		"tld": [".sh"],
-		"cca2": "SH",
-		"ccn3": "654",
-		"cca3": "SHN",
-		"cioc": "",
-		"currency": ["SHP"],
-		"callingCode": ["290"],
-		"capital": "Jamestown",
-		"altSpellings": ["SH"],
-		"region": "Africa",
-		"subregion": "Western Africa",
-		"languages": {
-			"eng": "English"
-		},
-		"translations": {
-			"deu": {"official": "St. Helena, Ascension und Tristan da Cunha", "common": "Sankt Helena"},
-			"fra": {"official": "Sainte-H\u00e9l\u00e8ne, Ascension et Tristan da Cunha", "common": "Sainte-H\u00e9l\u00e8ne"},
-			"hrv": {"official": "Sveta Helena , Ascension i Tristan da Cunha", "common": "Sveta Helena"},
-			"ita": {"official": "Sant'Elena, Ascensione e Tristan da Cunha", "common": "Sant'Elena"},
-			"jpn": {"official": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u3001\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u53ca\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u00b7\u30c0\u00b7\u30af\u30fc\u30cb\u30e3", "common": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3"},
-			"nld": {"official": "Sint-Helena, Ascension en Tristan da Cunha", "common": "Sint-Helena"},
-			"por": {"official": "Santa Helena , Ascens\u00e3o e Trist\u00e3o da Cunha", "common": "Santa Helena"},
-			"rus": {"official": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b , \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0438 \u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430- \u041a\u0443\u043d\u044c\u044f", "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b"},
-			"spa": {"official": "Santa Elena , Ascensi\u00f3n y Trist\u00e1n da Cunha", "common": "Santa Helena"},
-			"fin": {"official": "Saint Helena, Ascension ja Tristan da Cunha", "common": "Saint Helena, Ascension ja Tristan da Cunha"}
-		},
-		"latlng": [-15.95, -5.7],
-		"demonym": "Saint Helenian",
-		"landlocked": false,
-		"borders": [],
-		"area": 397
 	},
 	{
 		"name": {

@@ -1,0 +1,131 @@
+[
+	{
+		"name": {
+			"common": "Saint Helena",
+			"official": "Saint Helena",
+			"native": {
+				"eng": {
+					"official": "Saint Helena",
+					"common": "Saint Helena"
+				}
+			}
+		},
+		"tld": [".sh"],
+		"cca2": "SH",
+		"ccn3": "654",
+		"cca3": "SHN",
+		"cioc": "",
+		"currency": ["SHP"],
+		"callingCode": ["290"],
+		"capital": "Jamestown",
+		"altSpellings": ["SH"],
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"languages": {
+			"eng": "English"
+		},
+		"translations": {
+			"deu": {"official": "Sankt Helena", "common": "St. Helena"},
+			"fra": {"official": "Sainte-H\u00e9l\u00e8ne", "common": "Sainte-H\u00e9l\u00e8ne"},
+			"hrv": {"official": "Sveta Helena", "common": "Sveta Helena"},
+			"ita": {"official": "Sant'Elena", "common": "Sant'Elena"},
+			"jpn": {"official": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca", "common": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca"},
+			"nld": {"official": "Sint-Helena", "common": "Sint-Helena"},
+			"por": {"official": "Santa Helena", "common": "Santa Helena"},
+			"rus": {"official": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b", "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b"},
+			"spa": {"official": "Santa Elena", "common": "Santa Helena"},
+			"fin": {"official": "Saint Helena", "common": "Saint Helena"}
+		},
+		"latlng": [-15.95, -5.72],
+		"demonym": "Saint Helenian",
+		"landlocked": false,
+		"borders": [],
+		"area": 121
+	},
+	{
+		"name": {
+			"common": "Ascension",
+			"official": "Ascension Island",
+			"native": {
+				"eng": {
+					"official": "Ascension Island",
+					"common": "Ascension"
+				}
+			}
+		},
+		"tld": [".ac"],
+		"cca2": "SH",
+		"ccn3": "654",
+		"cca3": "SHN",
+		"cioc": "",
+		"currency": ["SHP"],
+		"callingCode": ["247"],
+		"capital": "Georgetown",
+		"altSpellings": [],
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"languages": {
+			"eng": "English"
+		},
+		"translations": {
+			"deu": {"official": "Ascension", "common": "Ascension"},
+			"fra": {"official": "\u00cele de l'Ascension", "common": "Ascension"},
+			"hrv": {"official": "Otok Ascension", "common": "Ascension"},
+			"ita": {"official": "Isola di Ascensione", "common": "Ascensione"},
+			"jpn": {"official": "\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u5cf6", "common": "\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u5cf6"},
+			"nld": {"official": "Ascension", "common": "Ascension"},
+			"por": {"official": "Ilha de Ascens\u00e3o", "common": "Ascens\u00e3o"},
+			"rus": {"official": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f", "common": "\u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f"},
+			"spa": {"official": "Isla Ascensi\u00f3n", "common": "Ascensi\u00f3n"},
+			"fin": {"official": "Ascension", "common": "Ascension"}
+		},
+		"latlng": [-7.93, -14.37],
+		"demonym": "",
+		"landlocked": false,
+		"borders": [],
+		"area": 10
+	},
+	{
+		"name": {
+			"common": "Tristan da Cunha",
+			"official": "Tristan da Cunha",
+			"native": {
+				"eng": {
+					"official": "Tristan da Cunha",
+					"common": "Tristan da Cunha"
+				}
+			}
+		},
+		"tld": [".sh"],
+		"cca2": "SH",
+		"ccn3": "654",
+		"cca3": "SHN",
+		"cioc": "",
+		"currency": ["GBP"],
+		"callingCode": ["290"],
+		"capital": "Edinburgh of the Seven Seas",
+		"altSpellings": [],
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"languages": {
+			"eng": "English"
+		},
+		"translations": {
+			"deu": {"official": "Tristan da Cunha", "common": "Tristan da Cunha"},
+			"fra": {"official": "Tristan da Cunha", "common": "Tristan da Cunha"},
+			"hrv": {"official": "Tristan da Cunha", "common": "Tristan da Cunha"},
+			"ita": {"official": "Tristan da Cunha", "common": "Tristan da Cunha"},
+			"jpn": {"official": "\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3", "common": "\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3"},
+			"nld": {"official": "Tristan da Cunha", "common": "Tristan da Cunha"},
+			"por": {"official": "Trist\u00e3o da Cunha", "common": "Trist\u00e3o da Cunha"},
+			"rus": {"official": "\u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430-\u041a\u0443\u043d\u044c\u044f", "common": "\u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430-\u041a\u0443\u043d\u044c\u044f"},
+			"spa": {"official": "Trist\u00e1n de Acu\u00f1a", "common": "Trist\u00e1n de Acu\u00f1a"},
+			"fin": {"official": "Tristan da Cunha", "common": "Tristan da Cunha"}
+		},
+		"latlng": [-37.12, -12.28],
+		"demonym": "Tristanian",
+		"landlocked": false,
+		"borders": [],
+		"area": 207
+	}
+]
