@@ -311,7 +311,7 @@
 			"por": {"official": "Principado de Andorra", "common": "Andorra"},
 			"rus": {"official": "\u041a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e \u0410\u043d\u0434\u043e\u0440\u0440\u0430", "common": "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"},
 			"spa": {"official": "Principado de Andorra", "common": "Andorra"},
-			"fin": {"official": "Andorran ruhtinaskunta", "common": "Andorra"} 
+			"fin": {"official": "Andorran ruhtinaskunta", "common": "Andorra"}
 		},
 		"latlng": [42.5, 1.5],
 		"demonym": "Andorran",
@@ -668,7 +668,7 @@
 			"por": {"official": "Comunidade da Austr\u00e1lia", "common": "Austr\u00e1lia"},
 			"rus": {"official": "\u0421\u043e\u0434\u0440\u0443\u0436\u0435\u0441\u0442\u0432\u043e \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u0438", "common": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f"},
 			"spa": {"official": "Mancomunidad de Australia", "common": "Australia"},
-			"fin": {"official": "Australian liittovaltio", "common": "Australia"} 
+			"fin": {"official": "Australian liittovaltio", "common": "Australia"}
 		},
 		"latlng": [-27, 133],
 		"demonym": "Australian",
@@ -951,7 +951,7 @@
 		},
 		"translations": {
 			"por": {"official": "Bonaire", "common": "Bonaire"},
-			"rus": {"official": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435", "common": "\u0411\u043e\u043d\u044d\u0439\u0440"}
+			"rus": {"official": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435", "common": "\u0411\u043e\u043d\u044d\u0439\u0440"},
 			"spa": {"official": "Entidad p\u00FAblica Bonaire", "common": "Bonaire"},
 			"fin": {"official": "Bonaire", "common": "Bonaire"}
 		},
@@ -4140,7 +4140,7 @@
 			"por": {"official": "Rep\u00fablica da Guin\u00e9 Equatorial", "common": "Guin\u00e9 Equatorial"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f", "common": "\u042d\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0430\u043b\u044c\u043d\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f"},
 			"spa": {"official": "Rep\u00fablica de Guinea Ecuatorial", "common": "Guinea Ecuatorial"},
-			"fin": {"official": "P\u00e4iv\u00e4ntasaajan Guinean tasavalta", "common": "P\u00e4iv\u00e4ntasaajan Guinea"} 
+			"fin": {"official": "P\u00e4iv\u00e4ntasaajan Guinean tasavalta", "common": "P\u00e4iv\u00e4ntasaajan Guinea"}
 		},
 		"latlng": [2, 10],
 		"demonym": "Equatorial Guinean",
@@ -4835,7 +4835,7 @@
 				"tam": {
 					"official": "\u0B87\u0BA8\u0BCD\u0BA4\u0BBF\u0BAF\u0B95\u0BCD \u0B95\u0BC1\u0B9F\u0BBF\u0BAF\u0BB0\u0B9A\u0BC1",
 					"common": "\u0B87\u0BA8\u0BCD\u0BA4\u0BBF\u0BAF\u0BBE"
-				}				
+				}
 			}
 		},
 		"tld": [".in"],
@@ -9116,7 +9116,7 @@
 			"por": {"official": "Ge\u00f3rgia do Sul e Sandwich do Sul", "common": "Ilhas Ge\u00f3rgia do Sul e Sandwich do Sul"},
 			"rus": {"official": "\u042e\u0436\u043d\u0430\u044f \u0413\u0435\u043e\u0440\u0433\u0438\u044f \u0438 \u042e\u0436\u043d\u044b\u0435 \u0421\u0430\u043d\u0434\u0432\u0438\u0447\u0435\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u042e\u0436\u043d\u0430\u044f \u0413\u0435\u043e\u0440\u0433\u0438\u044f \u0438 \u042e\u0436\u043d\u044b\u0435 \u0421\u0430\u043d\u0434\u0432\u0438\u0447\u0435\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "Georgia del Sur y las Islas Sandwich del Sur", "common": "Islas Georgias del Sur y Sandwich del Sur"},
-			"fin": {"official": "Etel\u00e4-Georgia ja Etel\u00e4iset Sandwichsaaret", "common": "Etel\u00e4-Georgia ja Etel\u00e4iset Sandwichsaaret"} 
+			"fin": {"official": "Etel\u00e4-Georgia ja Etel\u00e4iset Sandwichsaaret", "common": "Etel\u00e4-Georgia ja Etel\u00e4iset Sandwichsaaret"}
 		},
 		"latlng": [-54.5, -37],
 		"demonym": "South Georgian South Sandwich Islander",
@@ -9288,7 +9288,7 @@
 			"por": {"official": "Rep\u00fablica da Serra Leoa", "common": "Serra Leoa"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u044c\u0435\u0440\u0440\u0430- \u041b\u0435\u043e\u043d\u0435", "common": "\u0421\u044c\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"},
 			"spa": {"official": "Rep\u00fablica de Sierra Leona", "common": "Sierra Leone"},
-			"fin": {"official": "Sierra Leonen tasavalta", "common": "Sierra Leone"} 
+			"fin": {"official": "Sierra Leonen tasavalta", "common": "Sierra Leone"}
 		},
 		"latlng": [8.5, -11.5],
 		"demonym": "Sierra Leonean",
@@ -10879,7 +10879,7 @@
 			"por": {"official": "Estados Unidos da Am\u00e9rica", "common": "Estados Unidos"},
 			"rus": {"official": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0410\u043c\u0435\u0440\u0438\u043a\u0438", "common": "\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0410\u043c\u0435\u0440\u0438\u043a\u0438"},
 			"spa": {"official": "Estados Unidos de Am\u00e9rica", "common": "Estados Unidos"},
-			"fin": {"official": "Amerikan yhdysvallat", "common": "Yhdysvallat"} 
+			"fin": {"official": "Amerikan yhdysvallat", "common": "Yhdysvallat"}
 		},
 		"latlng": [38, -97],
 		"demonym": "American",

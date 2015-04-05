@@ -16,8 +16,8 @@
 	],
 	"require": {
 		"php": ">=5.4",
-		"symfony/console": "2.6.4",
-		"symfony/yaml": "2.6.4"
+		"symfony/console": "2.6.6",
+		"symfony/yaml": "2.6.6"
 	},
 	"dist": {
 		"url": "https://github.com/mledoze/countries/archive/master.zip",
