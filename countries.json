@@ -84,7 +84,7 @@
 		},
 		"translations": {
 			"cym": {"official": "Islamic Republic of Afghanistan", "common": "Affganistan"},
-			"deu": {"official": "Islamischen Republik Afghanistan", "common": "Afghanistan"},
+			"deu": {"official": "Islamische Republik Afghanistan", "common": "Afghanistan"},
 			"fra": {"official": "R\u00e9publique islamique d'Afghanistan", "common": "Afghanistan"},
 			"hrv": {"official": "Islamska Republika Afganistan", "common": "Afganistan"},
 			"ita": {"official": "Repubblica islamica dell'Afghanistan", "common": "Afghanistan"},
@@ -394,7 +394,7 @@
 		},
 		"translations": {
 			"cym": {"official": "Argentine Republic", "common": "Ariannin"},
-			"deu": {"official": "argentinische Republik", "common": "Argentinien"},
+			"deu": {"official": "Argentinische Republik", "common": "Argentinien"},
 			"fra": {"official": "R\u00e9publique argentine", "common": "Argentine"},
 			"hrv": {"official": "Argentinski Republika", "common": "Argentina"},
 			"ita": {"official": "Repubblica Argentina", "common": "Argentina"},
@@ -491,7 +491,7 @@
 			"smo": "Samoan"
 		},
 		"translations": {
-			"deu": {"official": "amerikanischen Samoa", "common": "Amerikanisch-Samoa"},
+			"deu": {"official": "Amerikanisch-Samoa", "common": "Amerikanisch-Samoa"},
 			"fra": {"official": "Samoa am\u00e9ricaines", "common": "Samoa am\u00e9ricaines"},
 			"hrv": {"official": "ameri\u010dka Samoa", "common": "Ameri\u010dka Samoa"},
 			"ita": {"official": "Samoa americane", "common": "Samoa Americane"},
@@ -659,7 +659,7 @@
 		},
 		"translations": {
 			"cym": {"official": "Commonwealth of Australia", "common": "Awstralia"},
-			"deu": {"official": "Commonwealth of Australia", "common": "Australien"},
+			"deu": {"official": "Commonwealth Australien", "common": "Australien"},
 			"fra": {"official": "Commonwealth d'Australie", "common": "Australie"},
 			"hrv": {"official": "Commonwealth of Australia", "common": "Australija"},
 			"ita": {"official": "Commonwealth of Australia", "common": "Australia"},
@@ -1466,7 +1466,7 @@
 		},
 		"translations": {
 			"cym": {"official": "Federative Republic of Brazil", "common": "Brasil"},
-			"deu": {"official": "F\u00f6derativen Republik Brasilien", "common": "Brasilien"},
+			"deu": {"official": "F\u00f6derative Republik Brasilien", "common": "Brasilien"},
 			"fra": {"official": "R\u00e9publique f\u00e9d\u00e9rative du Br\u00e9sil", "common": "Br\u00e9sil"},
 			"hrv": {"official": "Savezne Republike Brazil", "common": "Brazil"},
 			"ita": {"official": "Repubblica federativa del Brasile", "common": "Brasile"},
@@ -1889,7 +1889,7 @@
 			"roh": "Romansh"
 		},
 		"translations": {
-			"deu": {"official": "schweizerischen Eidgenossenschaft", "common": "Schweiz"},
+			"deu": {"official": "Schweizerische Eidgenossenschaft", "common": "Schweiz"},
 			"fra": {"official": "Conf\u00e9d\u00e9ration suisse", "common": "Suisse"},
 			"hrv": {"official": "\u0161vicarska Konfederacija", "common": "\u0160vicarska"},
 			"ita": {"official": "Confederazione svizzera", "common": "Svizzera"},
@@ -2236,7 +2236,7 @@
 		},
 		"translations": {
 			"cym": {"official": "Cook Islands", "common": "Ynysoedd Cook"},
-			"deu": {"official": "cook-Inseln", "common": "Cookinseln"},
+			"deu": {"official": "Cook-Inseln", "common": "Cookinseln"},
 			"fra": {"official": "Iles Cook", "common": "\u00celes Cook"},
 			"hrv": {"official": "Cook Islands", "common": "Cookovo Oto\u010dje"},
 			"ita": {"official": "Isole Cook", "common": "Isole Cook"},
@@ -2968,7 +2968,7 @@
 		},
 		"translations": {
 			"cym": {"official": "People's Democratic Republic of Algeria", "common": "Algeria"},
-			"deu": {"official": "Demokratischen Volksrepublik Algerien", "common": "Algerien"},
+			"deu": {"official": "Demokratische Volksrepublik Algerien", "common": "Algerien"},
 			"fra": {"official": "R\u00e9publique d\u00e9mocratique populaire d'Alg\u00e9rie", "common": "Alg\u00e9rie"},
 			"hrv": {"official": "Narodna Demokratska Republika Al\u017eir", "common": "Al\u017eir"},
 			"ita": {"official": "Repubblica popolare democratica di Algeria", "common": "Algeria"},
@@ -3314,7 +3314,7 @@
 		},
 		"translations": {
 			"cym": {"official": "Federal Democratic Republic of Ethiopia", "common": "Ethiopia"},
-			"deu": {"official": "Demokratischen Bundesrepublik \u00c4thiopien", "common": "\u00c4thiopien"},
+			"deu": {"official": "Demokratische Bundesrepublik \u00c4thiopien", "common": "\u00c4thiopien"},
 			"fra": {"official": "R\u00e9publique f\u00e9d\u00e9rale d\u00e9mocratique d'\u00c9thiopie", "common": "\u00c9thiopie"},
 			"hrv": {"official": "Savezna Demokratska Republika Etiopija", "common": "Etiopija"},
 			"ita": {"official": "Repubblica federale democratica di Etiopia", "common": "Etiopia"},
@@ -3501,7 +3501,7 @@
 			"fra": "French"
 		},
 		"translations": {
-			"deu": {"official": "Franz\u00f6sisch Republik", "common": "Frankreich"},
+			"deu": {"official": "Franz\u00f6sische Republik", "common": "Frankreich"},
 			"fra": {"official": "R\u00e9publique fran\u00e7aise", "common": "France"},
 			"hrv": {"official": "Francuska Republika", "common": "Francuska"},
 			"ita": {"official": "Repubblica francese", "common": "Francia"},
@@ -3592,7 +3592,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"deu": {"official": "F\u00f6derierten Staaten von Mikronesien", "common": "Mikronesien"},
+			"deu": {"official": "F\u00f6derierte Staaten von Mikronesien", "common": "Mikronesien"},
 			"fra": {"official": "\u00c9tats f\u00e9d\u00e9r\u00e9s de Micron\u00e9sie", "common": "Micron\u00e9sie"},
 			"hrv": {"official": "Savezne Dr\u017eave Mikronezije", "common": "Mikronezija"},
 			"ita": {"official": "Stati federati di Micronesia", "common": "Micronesia"},
@@ -3635,7 +3635,7 @@
 			"fra": "French"
 		},
 		"translations": {
-			"deu": {"official": "gabunischen Republik", "common": "Gabun"},
+			"deu": {"official": "Gabunische Republik", "common": "Gabun"},
 			"fra": {"official": "R\u00e9publique gabonaise", "common": "Gabon"},
 			"hrv": {"official": "Gabon Republika", "common": "Gabon"},
 			"ita": {"official": "Repubblica gabonese", "common": "Gabon"},
@@ -4032,7 +4032,7 @@
 			"por": "Portuguese"
 		},
 		"translations": {
-			"deu": {"official": "Republik Guinea- Bissau", "common": "Guinea-Bissau"},
+			"deu": {"official": "Republik Guinea-Bissau", "common": "Guinea-Bissau"},
 			"fra": {"official": "R\u00e9publique de Guin\u00e9e - Bissau", "common": "Guin\u00e9e-Bissau"},
 			"hrv": {"official": "Republika Gvineja Bisau", "common": "Gvineja Bisau"},
 			"ita": {"official": "Repubblica di Guinea - Bissau", "common": "Guinea-Bissau"},
@@ -4945,7 +4945,7 @@
 			"fas": "Persian"
 		},
 		"translations": {
-			"deu": {"official": "Islamischen Republik Iran", "common": "Iran"},
+			"deu": {"official": "Islamische Republik Iran", "common": "Iran"},
 			"fra": {"official": "R\u00e9publique islamique d'Iran", "common": "Iran"},
 			"hrv": {"official": "Islamska Republika Iran", "common": "Iran"},
 			"jpn": {"official": "\u30a4\u30e9\u30f3\u00b7\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd", "common": "\u30a4\u30e9\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd"},
@@ -5141,7 +5141,7 @@
 			"srd": "Sardinian"
 		},
 		"translations": {
-			"deu": {"official": "italienische Republik", "common": "Italien"},
+			"deu": {"official": "Italienische Republik", "common": "Italien"},
 			"fra": {"official": "R\u00e9publique italienne", "common": "Italie"},
 			"hrv": {"official": "talijanska Republika", "common": "Italija"},
 			"ita": {"official": "Repubblica italiana", "common": "Italia"},
@@ -5285,7 +5285,7 @@
 			"ara": "Arabic"
 		},
 		"translations": {
-			"deu": {"official": "Haschemitischen K\u00f6nigreich Jordanien", "common": "Jordanien"},
+			"deu": {"official": "Haschemitisches K\u00f6nigreich Jordanien", "common": "Jordanien"},
 			"fra": {"official": "Royaume hach\u00e9mite de Jordanie", "common": "Jordanie"},
 			"hrv": {"official": "Ha\u0161emitske Kraljevine Jordan", "common": "Jordan"},
 			"ita": {"official": "Regno hascemita di Giordania", "common": "Giordania"},
@@ -5564,7 +5564,7 @@
 			"gil": "Gilbertese"
 		},
 		"translations": {
-			"deu": {"official": "Unabh\u00e4ngigen und souver\u00e4nen Republik Kiribati", "common": "Kiribati"},
+			"deu": {"official": "Unabh\u00e4ngige und souver\u00e4ne Republik Kiribati", "common": "Kiribati"},
 			"fra": {"official": "R\u00e9publique ind\u00e9pendante et souveraine de Kiribati", "common": "Kiribati"},
 			"hrv": {"official": "Samostalne i suverene Republike Kiribati", "common": "Kiribati"},
 			"ita": {"official": "Repubblica indipendente e sovrano di Kiribati", "common": "Kiribati"},
@@ -5827,7 +5827,7 @@
 			"fra": "French"
 		},
 		"translations": {
-			"deu": {"official": "libanesischen Republik", "common": "Libanon"},
+			"deu": {"official": "Libanesische Republik", "common": "Libanon"},
 			"fra": {"official": "R\u00e9publique libanais", "common": "Liban"},
 			"hrv": {"official": "Libanonska Republika", "common": "Libanon"},
 			"ita": {"official": "Repubblica libanese", "common": "Libano"},
@@ -5913,7 +5913,7 @@
 			"ara": "Arabic"
 		},
 		"translations": {
-			"deu": {"official": "State of Libya", "common": "Libyen"},
+			"deu": {"official": "Staat Libyen", "common": "Libyen"},
 			"fra": {"official": "\u00c9tat de la Libye", "common": "Libye"},
 			"hrv": {"official": "Dr\u017eava Libiji", "common": "Libija"},
 			"ita": {"official": "Stato della Libia", "common": "Libia"},
@@ -6047,7 +6047,7 @@
 			"tam": "Tamil"
 		},
 		"translations": {
-			"deu": {"official": "Demokratischen Sozialistischen Republik Sri Lanka", "common": "Sri Lanka"},
+			"deu": {"official": "Demokratische Sozialistische Republik Sri Lanka", "common": "Sri Lanka"},
 			"fra": {"official": "R\u00e9publique socialiste d\u00e9mocratique de Sri Lanka", "common": "Sri Lanka"},
 			"hrv": {"official": "Demokratska Socijalisti\u010dke Republike \u0160ri Lanke", "common": "\u0160ri Lanka"},
 			"ita": {"official": "Repubblica democratica socialista dello Sri Lanka", "common": "Sri Lanka"},
@@ -6325,7 +6325,7 @@
 			"fra": "French"
 		},
 		"translations": {
-			"deu": {"official": "saint Martin", "common": "Saint Martin"},
+			"deu": {"official": "St. Martin", "common": "Saint Martin"},
 			"fra": {"official": "Saint Martin", "common": "Saint-Martin"},
 			"hrv": {"official": "Saint Martin", "common": "Sveti Martin"},
 			"ita": {"official": "saint Martin", "common": "Saint Martin"},
@@ -6593,7 +6593,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"deu": {"official": "Vereinigten Mexikanischen Staaten", "common": "Mexiko"},
+			"deu": {"official": "Vereinigte Mexikanische Staaten", "common": "Mexiko"},
 			"fra": {"official": "\u00c9tats-Unis mexicains", "common": "Mexique"},
 			"hrv": {"official": "Sjedinjene Meksi\u010dke Dr\u017eave", "common": "Meksiko"},
 			"ita": {"official": "Stati Uniti del Messico", "common": "Messico"},
@@ -7043,7 +7043,7 @@
 			"ara": "Arabic"
 		},
 		"translations": {
-			"deu": {"official": "Islamischen Republik Mauretanien", "common": "Mauretanien"},
+			"deu": {"official": "Islamische Republik Mauretanien", "common": "Mauretanien"},
 			"fra": {"official": "R\u00e9publique islamique de Mauritanie", "common": "Mauritanie"},
 			"hrv": {"official": "Islamska Republika Mauritanija", "common": "Mauritanija"},
 			"ita": {"official": "Repubblica islamica di Mauritania", "common": "Mauritania"},
@@ -7321,7 +7321,7 @@
 			"fra": "French"
 		},
 		"translations": {
-			"deu": {"official": "Department of Mayotte", "common": "Mayotte"},
+			"deu": {"official": "\u00dcbersee-D\u00e9partement Mayotte", "common": "Mayotte"},
 			"fra": {"official": "D\u00e9partement de Mayotte", "common": "Mayotte"},
 			"hrv": {"official": "Odjel Mayotte", "common": "Mayotte"},
 			"ita": {"official": "Dipartimento di Mayotte", "common": "Mayotte"},
@@ -8003,7 +8003,7 @@
 			"urd": "Urdu"
 		},
 		"translations": {
-			"deu": {"official": "Islamischen Republik Pakistan", "common": "Pakistan"},
+			"deu": {"official": "Islamische Republik Pakistan", "common": "Pakistan"},
 			"fra": {"official": "R\u00e9publique islamique du Pakistan", "common": "Pakistan"},
 			"hrv": {"official": "Islamska Republika Pakistan", "common": "Pakistan"},
 			"ita": {"official": "Repubblica islamica del Pakistan", "common": "Pakistan"},
@@ -8468,7 +8468,7 @@
 			"por": "Portuguese"
 		},
 		"translations": {
-			"deu": {"official": "portugiesische Republik", "common": "Portugal"},
+			"deu": {"official": "Portugiesische Republik", "common": "Portugal"},
 			"fra": {"official": "R\u00e9publique portugaise", "common": "Portugal"},
 			"hrv": {"official": "Portugalska Republika", "common": "Portugal"},
 			"ita": {"official": "Repubblica portoghese", "common": "Portogallo"},
@@ -8774,7 +8774,7 @@
 			"rus": "Russian"
 		},
 		"translations": {
-			"deu": {"official": "russische F\u00f6deration", "common": "Russland"},
+			"deu": {"official": "Russische F\u00f6deration", "common": "Russland"},
 			"fra": {"official": "F\u00e9d\u00e9ration de Russie", "common": "Russie"},
 			"hrv": {"official": "Ruska Federacija", "common": "Rusija"},
 			"ita": {"official": "Federazione russa", "common": "Russia"},
@@ -9105,7 +9105,7 @@
 			"nor": "Norwegian"
 		},
 		"translations": {
-			"deu": {"official": "Svalbard og Jan Mayen", "common": "Svalbard und Jan Mayen"},
+			"deu": {"official": "Inselgruppe Spitzbergen", "common": "Spitzbergen"},
 			"fra": {"official": "Jan Mayen Svalbard", "common": "Svalbard et Jan Mayen"},
 			"hrv": {"official": "Svalbard og Jan Mayen", "common": "Svalbard i Jan Mayen"},
 			"ita": {"official": "Svalbard og Jan Mayen", "common": "Svalbard e Jan Mayen"},
@@ -9278,7 +9278,7 @@
 			"ita": "Italian"
 		},
 		"translations": {
-			"deu": {"official": "Die meiste ruhige Republik San Marino", "common": "San Marino"},
+			"deu": {"official": "Republik San Marino", "common": "San Marino"},
 			"fra": {"official": "S\u00e9r\u00e9nissime R\u00e9publique de Saint-Marin", "common": "Saint-Marin"},
 			"hrv": {"official": "Ve\u0107ina Serene Republika San Marino", "common": "San Marino"},
 			"ita": {"official": "Serenissima Repubblica di San Marino", "common": "San Marino"},
@@ -9498,7 +9498,7 @@
 			"por": "Portuguese"
 		},
 		"translations": {
-			"deu": {"official": "Demokratischen Republik S\u00e3o Tom\u00e9 und Pr\u00edncipe", "common": "S\u00e3o Tom\u00e9 und Pr\u00edncipe"},
+			"deu": {"official": "Demokratische Republik S\u00e3o Tom\u00e9 und Pr\u00edncipe", "common": "S\u00e3o Tom\u00e9 und Pr\u00edncipe"},
 			"fra": {"official": "R\u00e9publique d\u00e9mocratique de S\u00e3o Tom\u00e9 et Pr\u00edncipe", "common": "Sao Tom\u00e9-et-Principe"},
 			"hrv": {"official": "Demokratska Republika S\u00e3o Tome i Principe", "common": "Sveti Toma i Princip"},
 			"ita": {"official": "Repubblica democratica di S\u00e3o Tom\u00e9 e Pr\u00edncipe", "common": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"},
@@ -9584,7 +9584,7 @@
 			"slk": "Slovak"
 		},
 		"translations": {
-			"deu": {"official": "slowakische Republik", "common": "Slowakei"},
+			"deu": {"official": "Slowakische Republik", "common": "Slowakei"},
 			"fra": {"official": "R\u00e9publique slovaque", "common": "Slovaquie"},
 			"hrv": {"official": "slova\u010dka", "common": "Slova\u010dka"},
 			"ita": {"official": "Repubblica slovacca", "common": "Slovacchia"},
@@ -10375,7 +10375,7 @@
 			"ara": "Arabic"
 		},
 		"translations": {
-			"deu": {"official": "tunesischen Republik", "common": "Tunesien"},
+			"deu": {"official": "Tunesische Republik", "common": "Tunesien"},
 			"fra": {"official": "R\u00e9publique tunisienne", "common": "Tunisie"},
 			"hrv": {"official": "Tuniski Republika", "common": "Tunis"},
 			"ita": {"official": "Repubblica tunisina", "common": "Tunisia"},
