@@ -1,5 +1,6 @@
 <?php
 namespace MLD\Converter;
+use DOMDocument;
 
 /**
  * Class XmlConverter

@@ -1,0 +1,139 @@
+[
+	{
+		"name": {
+			"common": "Bonaire",
+			"official": "Bonaire",
+			"native": {
+				"nld": {
+					"official": "Bonaire",
+					"common": "Bonaire"
+				},
+				"pap": {
+					"official": "Entidat p\u00fabliko Boneiru",
+					"common": "Boneiru"
+				},
+				"spa": {
+					"official": "Entidad p\u00FAblica Bonaire",
+					"common": "Bonaire"
+				}
+			}
+		},
+		"tld": [".an", ".bq", ".nl"],
+		"cca2": "BQ",
+		"ccn3": "535",
+		"cca3": "BES",
+		"cioc": "",
+		"currency": ["USD"],
+		"callingCode": ["5997"],
+		"capital": "Kralendijk",
+		"altSpellings": [],
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"languages": {
+			"nld": "Dutch"
+		},
+		"translations": {
+			"deu": {"official": "Bonaire", "common": "Bonaire"},
+			"fra": {"official": "Bonaire", "common": "Bonaire"},
+			"hrv": {"official": "Bonaire", "common": "Bonaire"},
+			"ita": {"official": "Bonaire", "common": "Bonaire"},
+			"jpn": {"official": "\u30dc\u30cd\u30fc\u30eb\u5cf6", "common": "\u30dc\u30cd\u30fc\u30eb\u5cf6"},
+			"nld": {"official": "Bonaire", "common": "Bonaire"},
+			"por": {"official": "Bonaire", "common": "Bonaire"},
+			"rus": {"official": "\u0411\u043e\u043d\u044d\u0439\u0440", "common": "\u0411\u043e\u043d\u044d\u0439\u0440"},
+			"spa": {"official": "Entidad p\u00FAblica Bonaire", "common": "Bonaire"},
+			"fin": {"official": "Bonaire", "common": "Bonaire"}
+		},
+		"latlng": [12.18, -68.25],
+		"demonym": "Dutch",
+		"landlocked": false,
+		"borders": [],
+		"area": 294
+	},
+	{
+		"name": {
+			"common": "Sint Eustatius",
+			"official": "Sint Eustatius",
+			"native": {
+				"nld": {
+					"official": "Sint Eustatius",
+					"common": "Sint Eustatius"
+				}
+			}
+		},
+		"tld": [".an", ".nl"],
+		"cca2": "BQ",
+		"ccn3": "535",
+		"cca3": "BES",
+		"cioc": "",
+		"currency": ["USD"],
+		"callingCode": ["5993"],
+		"capital": "Oranjestad",
+		"altSpellings": [],
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"languages": {
+			"nld": "Dutch"
+		},
+		"translations": {
+			"deu": {"official": "Sint Eustatius", "common": "Sint Eustatius"},
+			"fra": {"official": "Saint-Eustache", "common": "Saint-Eustache"},
+			"hrv": {"official": "Sint Eustatius", "common": "Sint Eustatius"},
+			"ita": {"official": "Sint Eustatius", "common": "Sint Eustatius"},
+			"jpn": {"official": "\u30b7\u30f3\u30c8\u30fb\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u5cf6", "common": "\u30b7\u30f3\u30c8\u30fb\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u5cf6"},
+			"nld": {"official": "Sint Eustatius", "common": "Sint Eustatius"},
+			"por": {"official": "Bonaire", "common": "Bonaire"},
+			"rus": {"official": "\u0421\u0438\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u0438\u0443\u0441", "common": "\u0421\u0438\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u0438\u0443\u0441"},
+			"spa": {"official": "San Eustaquio", "common": "San Eustaquio"},
+			"fin": {"official": "Sint Eustatius", "common": "Sint Eustatius"}
+		},
+		"latlng": [12.18, -68.25],
+		"demonym": "",
+		"landlocked": false,
+		"borders": [],
+		"area": 21
+	},
+	{
+		"name": {
+			"common": "Saba",
+			"official": "Saba",
+			"native": {
+				"nld": {
+					"official": "Saba",
+					"common": "Saba"
+				}
+			}
+		},
+		"tld": [".an", ".nl"],
+		"cca2": "BQ",
+		"ccn3": "535",
+		"cca3": "BES",
+		"cioc": "",
+		"currency": ["USD"],
+		"callingCode": ["5994"],
+		"capital": "The Bottom",
+		"altSpellings": [],
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"languages": {
+			"nld": "Dutch"
+		},
+		"translations": {
+			"deu": {"official": "Saba", "common": "Saba"},
+			"fra": {"official": "Saba", "common": "Saba"},
+			"hrv": {"official": "Saba", "common": "Saba"},
+			"ita": {"official": "Saba", "common": "Saba"},
+			"jpn": {"official": "\u30b5\u30d0\u5cf6", "common": "\u30b5\u30d0\u5cf6"},
+			"nld": {"official": "Saba", "common": "Saba"},
+			"por": {"official": "Saba", "common": "Saba"},
+			"rus": {"official": "\u0421\u0430\u0431\u0430", "common": "\u0421\u0430\u0431\u0430"},
+			"spa": {"official": "Isla de Saba", "common": "Saba"},
+			"fin": {"official": "Saba", "common": "Saba"}
+		},
+		"latlng": [12.18, -68.25],
+		"demonym": "",
+		"landlocked": false,
+		"borders": [],
+		"area": 13
+	}
+]
