@@ -215,7 +215,7 @@
 		},
 		"translations": {
 			"deu": {"official": "\u00c5land-Inseln", "common": "\u00c5land"},
-			"fra": {"official": "\u00eeles \u00c5land", "common": "\u00c5land"},
+			"fra": {"official": "Ahvenanmaa", "common": "Ahvenanmaa"},
 			"hrv": {"official": "Aland Islands", "common": "\u00c5landski otoci"},
 			"ita": {"official": "Isole \u00c5land", "common": "Isole Aland"},
 			"jpn": {"official": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6", "common": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6"},
@@ -261,7 +261,7 @@
 			"deu": {"official": "Republik Albanien", "common": "Albanien"},
 			"fra": {"official": "R\u00e9publique d'Albanie", "common": "Albanie"},
 			"hrv": {"official": "Republika Albanija", "common": "Albanija"},
-			"ita": {"official": "Repubblica d' Albania", "common": "Albania"},
+			"ita": {"official": "Repubblica d'Albania", "common": "Albania"},
 			"jpn": {"official": "\u30a2\u30eb\u30d0\u30cb\u30a2\u5171\u548c\u56fd", "common": "\u30a2\u30eb\u30d0\u30cb\u30a2"},
 			"nld": {"official": "Republiek Albani\u00eb", "common": "Albani\u00eb"},
 			"por": {"official": "Rep\u00fablica da Alb\u00e2nia", "common": "Alb\u00e2nia"},
@@ -660,7 +660,7 @@
 		"translations": {
 			"cym": {"official": "Commonwealth of Australia", "common": "Awstralia"},
 			"deu": {"official": "Commonwealth Australien", "common": "Australien"},
-			"fra": {"official": "Commonwealth d'Australie", "common": "Australie"},
+			"fra": {"official": "Australie", "common": "Australie"},
 			"hrv": {"official": "Commonwealth of Australia", "common": "Australija"},
 			"ita": {"official": "Commonwealth dell'Australia", "common": "Australia"},
 			"jpn": {"official": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u9023\u90a6", "common": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2"},
@@ -922,7 +922,7 @@
 			"official": "Burkina Faso",
 			"native": {
 				"fra": {
-					"official": "Burkina Faso",
+					"official": "R\u00e9publique du Burkina",
 					"common": "Burkina Faso"
 				}
 			}
@@ -944,7 +944,7 @@
 		"translations": {
 			"cym": {"official": "Burkina Faso", "common": "Burkina Faso"},
 			"deu": {"official": "Burkina Faso", "common": "Burkina Faso"},
-			"fra": {"official": "Burkina Faso", "common": "Burkina Faso"},
+			"fra": {"official": "R\u00e9publique du Burkina", "common": "Burkina Faso"},
 			"hrv": {"official": "Burkina Faso", "common": "Burkina Faso"},
 			"ita": {"official": "Burkina Faso", "common": "Burkina Faso"},
 			"jpn": {"official": "\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd", "common": "\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd"},
@@ -1174,7 +1174,7 @@
 		"translations": {
 			"cym": {"official": "Bosnia and Herzegovina", "common": "Bosnia a Hercegovina"},
 			"deu": {"official": "Bosnien und Herzegowina", "common": "Bosnien und Herzegowina"},
-			"fra": {"official": "Bosnie-Herz\u00e9govine", "common": "Bosnie-Herz\u00e9govine"},
+			"fra": {"official": "Bosnie-et-Herz\u00e9govine", "common": "Bosnie-Herz\u00e9govine"},
 			"hrv": {"official": "Bosna i Hercegovina", "common": "Bosna i Hercegovina"},
 			"ita": {"official": "Bosnia-Erzegovina", "common": "Bosnia ed Erzegovina"},
 			"jpn": {"official": "\u30dc\u30b9\u30cb\u30a2\u00b7\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca", "common": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca"},
@@ -1196,7 +1196,7 @@
 			"official": "Collectivity of Saint Barth\u00e9lemy",
 			"native": {
 				"fra": {
-					"official": "Collectivit\u00e9 de Saint Barth\u00e9lemy",
+					"official": "Collectivit\u00e9 de Saint-Barth\u00e9lemy",
 					"common": "Saint-Barth\u00e9lemy"
 				}
 			}
@@ -1217,7 +1217,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Gebietsk\u00f6rperschaft Saint -Barth\u00e9lemy", "common": "Saint-Barth\u00e9lemy"},
-			"fra": {"official": "Collectivit\u00e9 de Saint Barth\u00e9lemy", "common": "Saint-Barth\u00e9lemy"},
+			"fra": {"official": "Collectivit\u00e9 de Saint-Barth\u00e9lemy", "common": "Saint-Barth\u00e9lemy"},
 			"hrv": {"official": "Kolektivnost sv Barth\u00e9lemy", "common": "Saint Barth\u00e9lemy"},
 			"ita": {"official": "Collettivit\u00e0 di Saint Barth\u00e9lemy", "common": "Antille Francesi"},
 			"jpn": {"official": "\u30b5\u30f3\u00b7\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u5cf6\u306e\u96c6\u5408\u4f53", "common": "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc"},
@@ -1266,7 +1266,7 @@
 		"translations": {
 			"cym": {"official": "Republic of Belarus", "common": "Belarws"},
 			"deu": {"official": "Republik Belarus", "common": "Wei\u00dfrussland"},
-			"fra": {"official": "R\u00e9publique du B\u00e9larus", "common": "Bi\u00e9lorussie"},
+			"fra": {"official": "R\u00e9publique de Bi\u00e9lorussie", "common": "Bi\u00e9lorussie"},
 			"hrv": {"official": "Republika Bjelorusija", "common": "Bjelorusija"},
 			"ita": {"official": "Repubblica di Belarus", "common": "Bielorussia"},
 			"jpn": {"official": "\u30d9\u30e9\u30eb\u30fc\u30b7\u5171\u548c\u56fd", "common": "\u30d9\u30e9\u30eb\u30fc\u30b7"},
@@ -1555,7 +1555,7 @@
 		"translations": {
 			"cym": {"official": "Nation of Brunei, Abode of Peace", "common": "Brunei"},
 			"deu": {"official": "Nation von Brunei, Wohnung des Friedens", "common": "Brunei"},
-			"fra": {"official": "Nation de Brunei, demeure de la paix", "common": "Brunei"},
+			"fra": {"official": "\u00c9tat de Brunei Darussalam", "common": "Brunei"},
 			"hrv": {"official": "Nacija od Bruneja, Ku\u0107u Mira", "common": "Brunej"},
 			"ita": {"official": "Nazione di Brunei, Dimora della Pace", "common": "Brunei"},
 			"jpn": {"official": "\u30d6\u30eb\u30cd\u30a4\u3001\u5e73\u548c\u306e\u7cbe\u820e\u306e\u56fd\u5bb6", "common": "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30b5\u30e9\u30fc\u30e0"},
@@ -1832,11 +1832,11 @@
 		"translations": {
 			"cym": {"official": "Territory of the Cocos (Keeling) Islands", "common": "Ynysoedd Cocos"},
 			"deu": {"official": "Gebiet der Cocos (Keeling) Islands", "common": "Kokosinseln"},
-			"fra": {"official": "Territoire des (Keeling) \u00eeles Cocos", "common": "\u00celes Cocos"},
+			"fra": {"official": "Territoire des \u00eeles Cocos (Keeling)", "common": "\u00celes Cocos"},
 			"hrv": {"official": "Teritoriju Kokosovi (Keeling) Islands", "common": "Kokosovi Otoci"},
-			"ita": {"official": "Territorio della ( Keeling) Isole Cocos", "common": "Isole Cocos e Keeling"},
+			"ita": {"official": "Territorio della (Keeling) Isole Cocos", "common": "Isole Cocos e Keeling"},
 			"jpn": {"official": "\u30b3\u30b3\u30b9\u8af8\u5cf6\u306e\u9818\u571f", "common": "\u30b3\u30b3\u30b9\uff08\u30ad\u30fc\u30ea\u30f3\u30b0\uff09\u8af8\u5cf6"},
-			"nld": {"official": "Grondgebied van de Eilanden Cocos ( Keeling )", "common": "Cocoseilanden"},
+			"nld": {"official": "Grondgebied van de Eilanden Cocos (Keeling )", "common": "Cocoseilanden"},
 			"por": {"official": "Territ\u00f3rio dos Cocos (Keeling)", "common": "Ilhas Cocos (Keeling)"},
 			"rus": {"official": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 (\u041a\u0438\u043b\u0438\u043d\u0433) \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u044b\u0435 \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "Territorio de los (Keeling) Islas Cocos", "common": "Islas Cocos o Islas Keeling"},
@@ -1854,7 +1854,7 @@
 			"official": "Swiss Confederation",
 			"native": {
 				"fra": {
-					"official": "Conf\u00e9d\u00e9ration helv\u00e9tique",
+					"official": "Conf\u00e9d\u00e9ration suisse",
 					"common": "Suisse"
 				},
 				"gsw": {
@@ -1890,7 +1890,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Schweizerische Eidgenossenschaft", "common": "Schweiz"},
-			"fra": {"official": "Conf\u00e9d\u00e9ration helv\u00e9tique", "common": "Suisse"},
+			"fra": {"official": "Conf\u00e9d\u00e9ration suisse", "common": "Suisse"},
 			"hrv": {"official": "\u0161vicarska Konfederacija", "common": "\u0160vicarska"},
 			"ita": {"official": "Confederazione svizzera", "common": "Svizzera"},
 			"jpn": {"official": "\u30b9\u30a4\u30b9\u9023\u90a6", "common": "\u30b9\u30a4\u30b9"},
@@ -2022,13 +2022,13 @@
 		"translations": {
 			"deu": {"official": "Republik C\u00f4te d'Ivoire", "common": "Elfenbeink\u00fcste"},
 			"fra": {"official": "R\u00e9publique de C\u00f4te d' Ivoire", "common": "C\u00f4te d'Ivoire"},
-			"hrv": {"official": "Republika C\u00f4te d' Ivoire", "common": "Obala Bjelokosti"},
-			"ita": {"official": "Repubblica della Costa d' Avorio", "common": "Costa D'Avorio"},
+			"hrv": {"official": "Republika C\u00f4te d'Ivoire", "common": "Obala Bjelokosti"},
+			"ita": {"official": "Repubblica della Costa d'Avorio", "common": "Costa d'Avorio"},
 			"jpn": {"official": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb\u5171\u548c\u56fd", "common": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb"},
 			"nld": {"official": "Republiek Ivoorkust", "common": "Ivoorkust"},
-			"por": {"official": "Rep\u00fablica da C\u00f4te d' Ivoire", "common": "Costa do Marfim"},
+			"por": {"official": "Rep\u00fablica da C\u00f4te d'Ivoire", "common": "Costa do Marfim"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0442-\u0434'\u0418\u0432\u0443\u0430\u0440\u0435", "common": "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"},
-			"spa": {"official": "Rep\u00fablica de C\u00f4te d' Ivoire", "common": "Costa de Marfil"},
+			"spa": {"official": "Rep\u00fablica de C\u00f4te d'Ivoire", "common": "Costa de Marfil"},
 			"fin": {"official": "Norsunluurannikon tasavalta", "common": "Norsunluurannikko"}
 		},
 		"latlng": [8, -5],
@@ -2237,7 +2237,7 @@
 		"translations": {
 			"cym": {"official": "Cook Islands", "common": "Ynysoedd Cook"},
 			"deu": {"official": "Cook-Inseln", "common": "Cookinseln"},
-			"fra": {"official": "Iles Cook", "common": "\u00celes Cook"},
+			"fra": {"official": "\u00celes Cook", "common": "\u00celes Cook"},
 			"hrv": {"official": "Cook Islands", "common": "Cookovo Oto\u010dje"},
 			"ita": {"official": "Isole Cook", "common": "Isole Cook"},
 			"jpn": {"official": "\u30af\u30c3\u30af\u8af8\u5cf6", "common": "\u30af\u30c3\u30af\u8af8\u5cf6"},
@@ -2379,7 +2379,7 @@
 		"translations": {
 			"cym": {"official": "Republic of Cabo Verde", "common": "Cape Verde"},
 			"deu": {"official": "Republik Cabo Verde", "common": "Kap Verde"},
-			"fra": {"official": "R\u00e9publique du Cap -Vert", "common": "Cap Vert"},
+			"fra": {"official": "R\u00e9publique du Cap-Vert", "common": "\u00celes du Cap-Vert"},
 			"hrv": {"official": "Republika Cabo Verde", "common": "Zelenortska Republika"},
 			"ita": {"official": "Repubblica di Capo Verde", "common": "Capo Verde"},
 			"jpn": {"official": "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7\u5171\u548c\u56fd", "common": "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7"},
@@ -2701,7 +2701,7 @@
 		"translations": {
 			"cym": {"official": "Czech Republic", "common": "Y Weriniaeth Tsiec"},
 			"deu": {"official": "Tschechische Republik", "common": "Tschechische Republik"},
-			"fra": {"official": "R\u00e9publique Tch\u00e8que", "common": "R\u00e9publique tch\u00e8que"},
+			"fra": {"official": "R\u00e9publique tch\u00e8que", "common": "R\u00e9publique tch\u00e8que"},
 			"hrv": {"official": "\u010ce\u0161ka", "common": "\u010ce\u0161ka"},
 			"ita": {"official": "Repubblica Ceca", "common": "Repubblica Ceca"},
 			"jpn": {"official": "\u30c1\u30a7\u30b3\u5171\u548c\u56fd", "common": "\u30c1\u30a7\u30b3"},
@@ -2881,7 +2881,7 @@
 		"translations": {
 			"cym": {"official": "Kingdom of Denmark", "common": "Denmarc"},
 			"deu": {"official": "K\u00f6nigreich D\u00e4nemark", "common": "D\u00e4nemark"},
-			"fra": {"official": "Royaume de Danemark", "common": "Danemark"},
+			"fra": {"official": "Royaume du Danemark", "common": "Danemark"},
 			"hrv": {"official": "Kraljevina Danska", "common": "Danska"},
 			"ita": {"official": "Regno di Danimarca", "common": "Danimarca"},
 			"jpn": {"official": "\u30c7\u30f3\u30de\u30fc\u30af\u738b\u56fd", "common": "\u30c7\u30f3\u30de\u30fc\u30af"},
@@ -2969,14 +2969,14 @@
 		"translations": {
 			"cym": {"official": "People's Democratic Republic of Algeria", "common": "Algeria"},
 			"deu": {"official": "Demokratische Volksrepublik Algerien", "common": "Algerien"},
-			"fra": {"official": "R\u00e9publique d\u00e9mocratique populaire d'Alg\u00e9rie", "common": "Alg\u00e9rie"},
+			"fra": {"official": "R\u00e9publique d\u00e9mocratique et populaire d'Alg\u00e9rie", "common": "Alg\u00e9rie"},
 			"hrv": {"official": "Narodna Demokratska Republika Al\u017eir", "common": "Al\u017eir"},
 			"ita": {"official": "Repubblica popolare democratica di Algeria", "common": "Algeria"},
 			"jpn": {"official": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd", "common": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2"},
 			"nld": {"official": "Democratische Volksrepubliek Algerije", "common": "Algerije"},
-			"por": {"official": "Rep\u00fablica Democr\u00e1tica e Popular da Arg\u00e9lia", "common": "Alg\u00e9ria"},
+			"por": {"official": "Rep\u00fablica Argelina Democr\u00e1tica e Popular", "common": "Arg\u00e9lia"},
 			"rus": {"official": "\u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0436\u0438\u0440", "common": "\u0410\u043b\u0436\u0438\u0440"},
-			"spa": {"official": "Rep\u00fablica Democr\u00e1tica Popular de Argelia", "common": "Argelia"},
+			"spa": {"official": "Rep\u00fablica Argelina Democr\u00e1tica y Popular", "common": "Argelia"},
 			"fin": {"official": "Algerian demokraattinen kansantasavalta", "common": "Algeria"}
 		},
 		"latlng": [28, 3],
@@ -3459,7 +3459,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Falkland-Inseln", "common": "Falklandinseln"},
-			"fra": {"official": "\u00celes Falkland", "common": "\u00celes Malouines"},
+			"fra": {"official": "\u00celes Malouines", "common": "\u00celes Malouines"},
 			"hrv": {"official": "Falklandski otoci", "common": "Falklandski Otoci"},
 			"ita": {"official": "Isole Falkland", "common": "Isole Falkland o Isole Malvine"},
 			"jpn": {"official": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9", "common": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6"},
@@ -3722,7 +3722,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Georgia", "common": "Georgien"},
-			"fra": {"official": "G\u00e9orgie", "common": "G\u00e9orgie"},
+			"fra": {"official": "R\u00e9publique de G\u00e9orgie", "common": "G\u00e9orgie"},
 			"hrv": {"official": "Gruzija", "common": "Gruzija"},
 			"ita": {"official": "Georgia", "common": "Georgia"},
 			"jpn": {"official": "\u30b0\u30eb\u30b8\u30a2", "common": "\u30b0\u30eb\u30b8\u30a2"},
@@ -4086,8 +4086,8 @@
 		},
 		"translations": {
 			"cym": {"official": "Republic of Equatorial Guinea", "common": "Gini Gyhydeddol"},
-			"deu": {"official": "Republik \u00c4quatorialguinea", "common": "\u00c4quatorial-Guinea"},
-			"fra": {"official": "R\u00e9publique de Guin\u00e9e \u00e9quatoriale", "common": "Guin\u00e9e-\u00c9quatoriale"},
+			"deu": {"official": "Republik \u00c4quatorialguinea", "common": "\u00c4quatorialguinea"},
+			"fra": {"official": "R\u00e9publique de Guin\u00e9e \u00e9quatoriale", "common": "Guin\u00e9e \u00e9quatoriale"},
 			"hrv": {"official": "Republika Ekvatorska Gvineja", "common": "Ekvatorijalna Gvineja"},
 			"ita": {"official": "Repubblica della Guinea Equatoriale", "common": "Guinea Equatoriale"},
 			"jpn": {"official": "\u8d64\u9053\u30ae\u30cb\u30a2\u5171\u548c\u56fd", "common": "\u8d64\u9053\u30ae\u30cb\u30a2"},
@@ -4302,7 +4302,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Guayana", "common": "Franz\u00f6sisch Guyana"},
-			"fra": {"official": "Guyanes", "common": "Guayane"},
+			"fra": {"official": "Guyane", "common": "Guyane"},
 			"hrv": {"official": "Gijana", "common": "Francuska Gvajana"},
 			"ita": {"official": "Guiana", "common": "Guyana francese"},
 			"jpn": {"official": "\u30ae\u30a2\u30ca", "common": "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca"},
@@ -4398,7 +4398,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Kooperative Republik Guyana", "common": "Guyana"},
-			"fra": {"official": "R\u00e9publique coop\u00e9rative du Guyana", "common": "Guyane"},
+			"fra": {"official": "R\u00e9publique coop\u00e9rative de Guyana", "common": "Guyana"},
 			"hrv": {"official": "Zadruga Republika Gvajana", "common": "Gvajana"},
 			"ita": {"official": "Co -operative Republic of Guyana", "common": "Guyana"},
 			"jpn": {"official": "\u30ac\u30a4\u30a2\u30ca\u306e\u5354\u540c\u5171\u548c\u56fd", "common": "\u30ac\u30a4\u30a2\u30ca"},
@@ -5041,7 +5041,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Island", "common": "Island"},
-			"fra": {"official": "Islande", "common": "Islande"},
+			"fra": {"official": "R\u00e9publique d'Islande", "common": "Islande"},
 			"hrv": {"official": "Island", "common": "Island"},
 			"ita": {"official": "Islanda", "common": "Islanda"},
 			"jpn": {"official": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9", "common": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9"},
@@ -5565,7 +5565,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Unabh\u00e4ngige und souver\u00e4ne Republik Kiribati", "common": "Kiribati"},
-			"fra": {"official": "R\u00e9publique ind\u00e9pendante et souveraine de Kiribati", "common": "Kiribati"},
+			"fra": {"official": "R\u00e9publique de Kiribati", "common": "Kiribati"},
 			"hrv": {"official": "Samostalne i suverene Republike Kiribati", "common": "Kiribati"},
 			"ita": {"official": "Repubblica indipendente e sovrano di Kiribati", "common": "Kiribati"},
 			"jpn": {"official": "\u30ad\u30ea\u30d0\u30b9\u306e\u72ec\u7acb\u3068\u4e3b\u6a29\u5171\u548c\u56fd", "common": "\u30ad\u30ea\u30d0\u30b9"},
@@ -5828,7 +5828,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Libanesische Republik", "common": "Libanon"},
-			"fra": {"official": "R\u00e9publique libanais", "common": "Liban"},
+			"fra": {"official": "R\u00e9publique libanaise", "common": "Liban"},
 			"hrv": {"official": "Libanonska Republika", "common": "Libanon"},
 			"ita": {"official": "Repubblica libanese", "common": "Libano"},
 			"jpn": {"official": "\u30ec\u30d0\u30ce\u30f3\u5171\u548c\u56fd", "common": "\u30ec\u30d0\u30ce\u30f3"},
@@ -5914,7 +5914,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Staat Libyen", "common": "Libyen"},
-			"fra": {"official": "\u00c9tat de la Libye", "common": "Libye"},
+			"fra": {"official": "Grande R\u00e9publique arabe libyenne populaire et socialiste", "common": "Libye"},
 			"hrv": {"official": "Dr\u017eava Libiji", "common": "Libija"},
 			"ita": {"official": "Stato della Libia", "common": "Libia"},
 			"jpn": {"official": "\u30ea\u30d3\u30a2\u306e\u56fd\u5bb6", "common": "\u30ea\u30d3\u30a2"},
@@ -5957,7 +5957,7 @@
 		},
 		"translations": {
 			"deu": {"official": "St. Lucia", "common": "Saint Lucia"},
-			"fra": {"official": "Sainte-Lucie", "common": "Saint-Lucie"},
+			"fra": {"official": "Sainte-Lucie", "common": "Sainte-Lucie"},
 			"hrv": {"official": "Sveta Lucija", "common": "Sveta Lucija"},
 			"ita": {"official": "Santa Lucia", "common": "Santa Lucia"},
 			"jpn": {"official": "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2", "common": "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2"},
@@ -6000,7 +6000,7 @@
 		},
 		"translations": {
 			"deu": {"official": "F\u00fcrstentum Liechtenstein", "common": "Liechtenstein"},
-			"fra": {"official": "Principaut\u00e9 de Liechtenstein", "common": "Liechtenstein"},
+			"fra": {"official": "Principaut\u00e9 du Liechtenstein", "common": "Liechtenstein"},
 			"hrv": {"official": "Kne\u017eevina Lihten\u0161tajn", "common": "Lihten\u0161tajn"},
 			"ita": {"official": "Principato del Liechtenstein", "common": "Liechtenstein"},
 			"jpn": {"official": "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u516c\u56fd", "common": "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3"},
@@ -6048,7 +6048,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Demokratische Sozialistische Republik Sri Lanka", "common": "Sri Lanka"},
-			"fra": {"official": "R\u00e9publique socialiste d\u00e9mocratique de Sri Lanka", "common": "Sri Lanka"},
+			"fra": {"official": "R\u00e9publique d\u00e9mocratique socialiste du Sri Lanka", "common": "Sri Lanka"},
 			"hrv": {"official": "Demokratska Socijalisti\u010dke Republike \u0160ri Lanke", "common": "\u0160ri Lanka"},
 			"ita": {"official": "Repubblica democratica socialista dello Sri Lanka", "common": "Sri Lanka"},
 			"jpn": {"official": "\u30b9\u30ea\u30e9\u30f3\u30ab\u6c11\u4e3b\u793e\u4f1a\u4e3b\u7fa9\u5171\u548c\u56fd", "common": "\u30b9\u30ea\u30e9\u30f3\u30ab"},
@@ -6283,7 +6283,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Sonderverwaltungsregion Macau der Volksrepublik China", "common": "Macao"},
-			"fra": {"official": "Macao r\u00e9gion administrative sp\u00e9ciale de la R\u00e9publique populaire de Chine", "common": "Macao"},
+			"fra": {"official": "R\u00e9gion administrative sp\u00e9ciale de Macao de la R\u00e9publique populaire de Chine", "common": "Macao"},
 			"hrv": {"official": "Makao Posebnog upravnog podru\u010djaNarodne Republike Kine", "common": "Makao"},
 			"ita": {"official": "Macao Regione amministrativa speciale della Repubblica Popolare Cinese", "common": "Macao"},
 			"jpn": {"official": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u30de\u30ab\u30aa\u7279\u5225\u884c\u653f\u533a", "common": "\u30de\u30ab\u30aa"},
@@ -6326,7 +6326,7 @@
 		},
 		"translations": {
 			"deu": {"official": "St. Martin", "common": "Saint Martin"},
-			"fra": {"official": "Saint Martin", "common": "Saint-Martin"},
+			"fra": {"official": "Saint-Martin", "common": "Saint-Martin"},
 			"hrv": {"official": "Saint Martin", "common": "Sveti Martin"},
 			"ita": {"official": "saint Martin", "common": "Saint Martin"},
 			"jpn": {"official": "\u30b5\u30f3\u30de\u30eb\u30bf\u30f3\u5cf6", "common": "\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3\uff08\u30d5\u30e9\u30f3\u30b9\u9818\uff09"},
@@ -6460,7 +6460,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Republik Moldau", "common": "Moldawie"},
-			"fra": {"official": "R\u00e9publique de Moldova", "common": "Moldavie"},
+			"fra": {"official": "R\u00e9publique de Moldavie", "common": "Moldavie"},
 			"hrv": {"official": "Moldavija", "common": "Moldova"},
 			"ita": {"official": "Repubblica di Moldova", "common": "Moldavia"},
 			"jpn": {"official": "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd", "common": "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd"},
@@ -6594,7 +6594,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Vereinigte Mexikanische Staaten", "common": "Mexiko"},
-			"fra": {"official": "\u00c9tats-Unis mexicains", "common": "Mexique"},
+			"fra": {"official": "\u00c9tats-Unis du Mexique", "common": "Mexique"},
 			"hrv": {"official": "Sjedinjene Meksi\u010dke Dr\u017eave", "common": "Meksiko"},
 			"ita": {"official": "Stati Uniti del Messico", "common": "Messico"},
 			"jpn": {"official": "\u30e1\u30ad\u30b7\u30b3\u5408\u8846\u56fd", "common": "\u30e1\u30ad\u30b7\u30b3"},
@@ -6819,7 +6819,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Republik der Union von Myanmar", "common": "Myanmar"},
-			"fra": {"official": "R\u00e9publique de l'Union du Myanmar", "common": "Myanmar"},
+			"fra": {"official": "R\u00e9publique de l'Union du Myanmar", "common": "Birmanie"},
 			"hrv": {"official": "Republika Unije Mijanmar", "common": "Mijanmar"},
 			"ita": {"official": "Repubblica dell'Unione di Myanmar", "common": "Birmania"},
 			"jpn": {"official": "\u30df\u30e3\u30f3\u30de\u30fc\u9023\u90a6\u5171\u548c\u56fd", "common": "\u30df\u30e3\u30f3\u30de\u30fc"},
@@ -7279,7 +7279,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Malaysia", "common": "Malaysia"},
-			"fra": {"official": "Malaisie", "common": "Malaisie"},
+			"fra": {"official": "F\u00e9d\u00e9ration de Malaisie", "common": "Malaisie"},
 			"hrv": {"official": "Malezija", "common": "Malezija"},
 			"ita": {"official": "Malaysia", "common": "Malesia"},
 			"jpn": {"official": "\u30de\u30ec\u30fc\u30b7\u30a2", "common": "\u30de\u30ec\u30fc\u30b7\u30a2"},
@@ -7539,7 +7539,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Gebiet der Norfolk-Insel", "common": "Norfolkinsel"},
-			"fra": {"official": "Territoire de l'\u00eele Norfolk", "common": "\u00cele de Norfolk"},
+			"fra": {"official": "Territoire de l'\u00eele Norfolk", "common": "\u00cele Norfolk"},
 			"hrv": {"official": "Teritorij Norfolk Island", "common": "Otok Norfolk"},
 			"ita": {"official": "Territorio di Norfolk Island", "common": "Isola Norfolk"},
 			"jpn": {"official": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6\u306e\u9818\u571f", "common": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6"},
@@ -7812,7 +7812,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Demokratischen Bundesrepublik Nepal", "common": "N\u00e9pal"},
-			"fra": {"official": "R\u00e9publique d\u00e9mocratique f\u00e9d\u00e9rale du N\u00e9pal", "common": "N\u00e9pal"},
+			"fra": {"official": "R\u00e9publique du N\u00e9pal", "common": "N\u00e9pal"},
 			"hrv": {"official": "Savezna Demokratska Republika Nepal", "common": "Nepal"},
 			"ita": {"official": "Repubblica federale democratica del Nepal", "common": "Nepal"},
 			"jpn": {"official": "\u30cd\u30d1\u30fc\u30eb\u9023\u90a6\u6c11\u4e3b\u5171\u548c\u56fd", "common": "\u30cd\u30d1\u30fc\u30eb"},
@@ -8090,7 +8090,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Pitcairn Inselgruppe", "common": "Pitcairn"},
-			"fra": {"official": "Pitcairn groupe d'\u00eeles", "common": "\u00celes Pitcairn"},
+			"fra": {"official": "Groupe d'\u00eeles Pitcairn", "common": "\u00celes Pitcairn"},
 			"hrv": {"official": "Pitcairn skupine otoka", "common": "Pitcairnovo oto\u010dje"},
 			"ita": {"official": "Pitcairn gruppo di isole", "common": "Isole Pitcairn"},
 			"jpn": {"official": "\u5cf6\u306e\u30d4\u30c8\u30b1\u30a2\u30f3\u30b0\u30eb\u30fc\u30d7", "common": "\u30d4\u30c8\u30b1\u30a2\u30f3"},
@@ -8239,7 +8239,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Palau", "common": "Palau"},
-			"fra": {"official": "R\u00e9publique de Palau", "common": "Palaos"},
+			"fra": {"official": "R\u00e9publique des Palaos (Palau)", "common": "Palaos (Palau)"},
 			"hrv": {"official": "Republika Palau", "common": "Palau"},
 			"ita": {"official": "Repubblica di Palau", "common": "Palau"},
 			"jpn": {"official": "\u30d1\u30e9\u30aa\u5171\u548c\u56fd", "common": "\u30d1\u30e9\u30aa"},
@@ -8383,7 +8383,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Commonwealth von Puerto Rico", "common": "Puerto Rico"},
-			"fra": {"official": "Commonwealth de Porto Rico", "common": "Porto Rico"},
+			"fra": {"official": "Porto Rico", "common": "Porto Rico"},
 			"hrv": {"official": "Zajednica Puerto Rico", "common": "Portoriko"},
 			"ita": {"official": "Commonwealth di Porto Rico", "common": "Porto Rico"},
 			"jpn": {"official": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306e\u30b3\u30e2\u30f3\u30a6\u30a7\u30eb\u30b9", "common": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"},
@@ -8560,7 +8560,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Staat Pal\u00e4stina", "common": "Pal\u00e4stina"},
-			"fra": {"official": "Etat de Palestine", "common": "Palestine"},
+			"fra": {"official": "\u00c9tat de Palestine", "common": "Palestine"},
 			"hrv": {"official": "State of Palestine", "common": "Palestina"},
 			"ita": {"official": "Stato di Palestina", "common": "Palestina"},
 			"jpn": {"official": "\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u653f\u5e9c", "common": "\u30d1\u30ec\u30b9\u30c1\u30ca"},
@@ -8801,7 +8801,7 @@
 					"common": "Rwanda"
 				},
 				"fra": {
-					"official": "R\u00e9publique du Rwanda",
+					"official": "R\u00e9publique rwandaise",
 					"common": "Rwanda"
 				},
 				"kin": {
@@ -8828,7 +8828,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Republik Ruanda", "common": "Ruanda"},
-			"fra": {"official": "R\u00e9publique du Rwanda", "common": "Rwanda"},
+			"fra": {"official": "R\u00e9publique rwandaise", "common": "Rwanda"},
 			"hrv": {"official": "Republika Ruandi", "common": "Ruanda"},
 			"ita": {"official": "Repubblica del Ruanda", "common": "Ruanda"},
 			"jpn": {"official": "\u30eb\u30ef\u30f3\u30c0\u5171\u548c\u56fd", "common": "\u30eb\u30ef\u30f3\u30c0"},
@@ -9149,7 +9149,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Salomon-Inseln", "common": "Salomonen"},
-			"fra": {"official": "Iles Salomon", "common": "\u00celes Salomon"},
+			"fra": {"official": "\u00celes Salomon", "common": "\u00celes Salomon"},
 			"hrv": {"official": "Solomonski Otoci", "common": "Solomonski Otoci"},
 			"ita": {"official": "Isole Salomone", "common": "Isole Salomone"},
 			"jpn": {"official": "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6", "common": "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6"},
@@ -9236,7 +9236,7 @@
 		"translations": {
 			"cym": {"official": "Republic of El Salvador", "common": "El Salvador"},
 			"deu": {"official": "Republik El Salvador", "common": "El Salvador"},
-			"fra": {"official": "R\u00e9publique d'El Salvador", "common": "Salvador"},
+			"fra": {"official": "R\u00e9publique du Salvador", "common": "Salvador"},
 			"hrv": {"official": "Republika El Salvador", "common": "Salvador"},
 			"ita": {"official": "Repubblica di El Salvador", "common": "El Salvador"},
 			"jpn": {"official": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb\u5171\u548c\u56fd", "common": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb"},
@@ -9279,7 +9279,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Republik San Marino", "common": "San Marino"},
-			"fra": {"official": "S\u00e9r\u00e9nissime R\u00e9publique de Saint-Marin", "common": "Saint-Marin"},
+			"fra": {"official": "R\u00e9publique de Saint-Marin", "common": "Saint-Marin"},
 			"hrv": {"official": "Ve\u0107ina Serene Republika San Marino", "common": "San Marino"},
 			"ita": {"official": "Serenissima Repubblica di San Marino", "common": "San Marino"},
 			"jpn": {"official": "\u30b5\u30f3\u30de\u30ea\u30ce\u306e\u307b\u3068\u3093\u3069\u30bb\u30ea\u30fc\u30cc\u5171\u548c\u56fd", "common": "\u30b5\u30f3\u30de\u30ea\u30ce"},
@@ -9327,7 +9327,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Bundesrepublik Somalia", "common": "Somalia"},
-			"fra": {"official": "R\u00e9publique f\u00e9d\u00e9rale de la Somalie", "common": "Somalie"},
+			"fra": {"official": "R\u00e9publique f\u00e9d\u00e9rale de Somalie", "common": "Somalie"},
 			"hrv": {"official": "Savezna Republika Somaliji", "common": "Somalija"},
 			"ita": {"official": "Repubblica federale di Somalia", "common": "Somalia"},
 			"jpn": {"official": "\u30bd\u30de\u30ea\u30a2\u9023\u90a6\u5171\u548c\u56fd", "common": "\u30bd\u30de\u30ea\u30a2"},
@@ -9499,7 +9499,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Demokratische Republik S\u00e3o Tom\u00e9 und Pr\u00edncipe", "common": "S\u00e3o Tom\u00e9 und Pr\u00edncipe"},
-			"fra": {"official": "R\u00e9publique d\u00e9mocratique de S\u00e3o Tom\u00e9 et Pr\u00edncipe", "common": "Sao Tom\u00e9-et-Principe"},
+			"fra": {"official": "R\u00e9publique d\u00e9mocratique de S\u00e3o Tom\u00e9 et Pr\u00edncipe", "common": "S\u00e3o Tom\u00e9 et Pr\u00edncipe"},
 			"hrv": {"official": "Demokratska Republika S\u00e3o Tome i Principe", "common": "Sveti Toma i Princip"},
 			"ita": {"official": "Repubblica democratica di S\u00e3o Tom\u00e9 e Pr\u00edncipe", "common": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"},
 			"jpn": {"official": "\u30b5\u30f3\u30c8\u30e1\u00b7\u30d7\u30ea\u30f3\u30b7\u30da\u6c11\u4e3b\u5171\u548c\u56fd", "common": "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da"},
@@ -10146,7 +10146,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Tokelau", "common": "Tokelau"},
-			"fra": {"official": "Tok\u00e9laou", "common": "Tokelau"},
+			"fra": {"official": "\u00celes Tokelau", "common": "Tokelau"},
 			"hrv": {"official": "Tokelau", "common": "Tokelau"},
 			"ita": {"official": "Tokelau", "common": "Isole Tokelau"},
 			"jpn": {"official": "\u30c8\u30b1\u30e9\u30a6\u8af8\u5cf6", "common": "\u30c8\u30b1\u30e9\u30a6"},
@@ -10242,7 +10242,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Demokratische Republik Timor-Leste", "common": "Timor-Leste"},
-			"fra": {"official": "R\u00e9publique d\u00e9mocratique du Timor -Leste", "common": "Timor oriental"},
+			"fra": {"official": "R\u00e9publique d\u00e9mocratique du Timor oriental", "common": "Timor oriental"},
 			"hrv": {"official": "Demokratska Republika Timor-Leste", "common": "Isto\u010dni Timor"},
 			"ita": {"official": "Repubblica Democratica di Timor Est", "common": "Timor Est"},
 			"jpn": {"official": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb\u6c11\u4e3b\u5171\u548c\u56fd", "common": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb"},
@@ -10333,7 +10333,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Republik Trinidad und Tobago", "common": "Trinidad und Tobago"},
-			"fra": {"official": "R\u00e9publique de Trinit\u00e9 -et-Tobago", "common": "Trinit\u00e9 et Tobago"},
+			"fra": {"official": "R\u00e9publique de Trinit\u00e9-et-Tobago", "common": "Trinit\u00e9-et-Tobago"},
 			"hrv": {"official": "Republika Trinidad i Tobago", "common": "Trinidad i Tobago"},
 			"ita": {"official": "Repubblica di Trinidad e Tobago", "common": "Trinidad e Tobago"},
 			"jpn": {"official": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u00b7\u30c8\u30d0\u30b4\u5171\u548c\u56fd", "common": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4"},
@@ -10606,7 +10606,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Republik Uganda", "common": "Uganda"},
-			"fra": {"official": "R\u00e9publique de l'Ouganda", "common": "Uganda"},
+			"fra": {"official": "R\u00e9publique de l'Ouganda", "common": "Ouganda"},
 			"hrv": {"official": "Republika Uganda", "common": "Uganda"},
 			"ita": {"official": "Repubblica di Uganda", "common": "Uganda"},
 			"jpn": {"official": "\u30a6\u30ac\u30f3\u30c0\u5171\u548c\u56fd", "common": "\u30a6\u30ac\u30f3\u30c0"},
@@ -10785,7 +10785,7 @@
 			"deu": {"official": "Vereinigte Staaten von Amerika", "common": "Vereinigte Staaten von Amerika"},
 			"fra": {"official": "Les \u00e9tats-unis d'Am\u00e9rique", "common": "\u00c9tats-Unis"},
 			"hrv": {"official": "Sjedinjene Dr\u017eave Amerike", "common": "Sjedinjene Ameri\u010dke Dr\u017eave"},
-			"ita": {"official": "Stati Uniti d'America", "common": "Stati Uniti D'America"},
+			"ita": {"official": "Stati Uniti d'America", "common": "Stati Uniti d'America"},
 			"jpn": {"official": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd", "common": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd"},
 			"nld": {"official": "Verenigde Staten van Amerika", "common": "Verenigde Staten"},
 			"por": {"official": "Estados Unidos da Am\u00e9rica", "common": "Estados Unidos"},
@@ -11094,7 +11094,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Sozialistische Republik Vietnam", "common": "Vietnam"},
-			"fra": {"official": "R\u00e9publique socialiste du Vietnam", "common": "Vi\u00eat Nam"},
+			"fra": {"official": "R\u00e9publique socialiste du Vi\u00eat Nam", "common": "Vi\u00eat Nam"},
 			"hrv": {"official": "Socijalisti\u010dka Republika Vijetnam", "common": "Vijetnam"},
 			"ita": {"official": "Repubblica socialista del Vietnam", "common": "Vietnam"},
 			"jpn": {"official": "\u30d9\u30c8\u30ca\u30e0\u793e\u4f1a\u4e3b\u7fa9\u5171\u548c\u56fd", "common": "\u30d9\u30c8\u30ca\u30e0"},
@@ -11238,7 +11238,7 @@
 		},
 		"translations": {
 			"deu": {"official": "Unabh\u00e4ngige Staat Samoa", "common": "Samoa"},
-			"fra": {"official": "\u00c9tat ind\u00e9pendant du Samoa", "common": "Samoa"},
+			"fra": {"official": "Samoa", "common": "Samoa"},
 			"hrv": {"official": "Nezavisna Dr\u017eava Samoa", "common": "Samoa"},
 			"ita": {"official": "Stato indipendente di Samoa", "common": "Samoa"},
 			"jpn": {"official": "\u30b5\u30e2\u30a2\u72ec\u7acb\u56fd", "common": "\u30b5\u30e2\u30a2"},
