@@ -11,7 +11,7 @@ abstract class AbstractJsonConverter extends AbstractConverter {
 	 */
 	protected function processEmptyArrays() {
 		array_walk($this->aCountries, function (&$aCountry) {
-			if (empty($aCountry['languages'])) {
+			if (isset($aCountry['languages']) && empty($aCountry['languages'])) {
 				$aCountry['languages'] = new \stdClass();
 			}
 		});
