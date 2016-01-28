@@ -2519,6 +2519,7 @@
 			"pap": "Papiamento"
 		},
 		"translations": {
+			"fra": {"official": "Cura\u00e7ao", "common": "Cura\u00e7ao"},
 			"nld": {"official": "Land Cura\u00e7ao", "common": "Cura\u00e7ao"},
 			"por": {"official": "Pa\u00eds de Cura\u00e7ao", "common": "ilha da Cura\u00e7\u00e3o"},
 			"rus": {"official": "\u0421\u0442\u0440\u0430\u043d\u0430 \u041a\u044e\u0440\u0430\u0441\u0430\u043e", "common": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"},
@@ -5698,6 +5699,7 @@
 			"srp": "Serbian"
 		},
 		"translations": {
+			"fra": {"official": "R\u00E9publique du Kosovo", "common": "Kosovo"},
 			"hrv": {"official": "Republika Kosovo", "common": "Kosovo"},
 			"por": {"official": "Rep\u00fablica do Kosovo", "common": "Kosovo"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e", "common": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"},
