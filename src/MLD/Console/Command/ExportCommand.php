@@ -44,7 +44,7 @@ class ExportCommand extends Command {
 	 * @param string $outputDirectory Full path to output directory for converted files.
 	 * @param string|null $name
 	 */
-	public function __construct($inputFile, $outputDirectory, $name = null) {
+	public function __construct($inputFile, $outputDirectory, $name = 'convert') {
 		$this->inputFile = $inputFile;
 		$this->outputDirectory = $outputDirectory;
 
@@ -56,7 +56,6 @@ class ExportCommand extends Command {
 	 */
 	protected function configure() {
 		$this
-			->setName('convert')
 			->setDescription('Converts source country data to various output formats')
 			->addOption(
 				'exclude-field',
