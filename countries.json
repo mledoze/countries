@@ -272,7 +272,7 @@
 		"latlng": [41, 20],
 		"demonym": "Albanian",
 		"landlocked": false,
-		"borders": ["MNE", "GRC", "MKD", "KOS"],
+		"borders": ["MNE", "GRC", "MKD", "UNK"],
 		"area": 28748
 	},
 	{
@@ -6700,7 +6700,7 @@
 		"latlng": [41.83333333, 22],
 		"demonym": "Macedonian",
 		"landlocked": true,
-		"borders": ["ALB", "BGR", "GRC", "KOS", "SRB"],
+		"borders": ["ALB", "BGR", "GRC", "UNK", "SRB"],
 		"area": 25713
 	},
 	{
@@ -6877,7 +6877,7 @@
 		"latlng": [42.5, 19.3],
 		"demonym": "Montenegrin",
 		"landlocked": false,
-		"borders": ["ALB", "BIH", "HRV", "KOS", "SRB"],
+		"borders": ["ALB", "BIH", "HRV", "UNK", "SRB"],
 		"area": 13812
 	},
 	{
@@ -9428,7 +9428,7 @@
 		"latlng": [44, 21],
 		"demonym": "Serbian",
 		"landlocked": true,
-		"borders": ["BIH", "BGR", "HRV", "HUN", "KOS", "MKD", "MNE", "ROU"],
+		"borders": ["BIH", "BGR", "HRV", "HUN", "UNK", "MKD", "MNE", "ROU"],
 		"area": 88361
 	},
 	{
