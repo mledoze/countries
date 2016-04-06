@@ -41,7 +41,8 @@
 			"spa": {"official": "Aruba", "common": "Aruba"},
 			"fin": {"official": "Aruba", "common": "Aruba"},
 			"dan": {"common": "Aruba"},
-			"nob": {"common": "Aruba"}
+			"nob": {"common": "Aruba"},
+			"swe": {"common": "Aruba"}
 		},
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
@@ -97,7 +98,8 @@
 			"spa": {"official": "Rep\u00fablica Isl\u00e1mica de Afganist\u00e1n", "common": "Afganist\u00e1n"},
 			"fin": {"official": "Afganistanin islamilainen tasavalta", "common": "Afganistan"},
 			"dan": {"common": "Afghanistan"},
-			"nob": {"common": "Afghanistan"}
+			"nob": {"common": "Afghanistan"},
+			"swe": {"common": "Afghanistan"}
 		},
 		"latlng": [33, 65],
 		"demonym": "Afghan",
@@ -143,7 +145,8 @@
 			"spa": {"official": "Rep\u00fablica de Angola", "common": "Angola"},
 			"fin": {"official": "Angolan tasavalta", "common": "Angola"},
 			"dan": {"common": "Angola"},
-			"nob": {"common": "Angola"}
+			"nob": {"common": "Angola"},
+			"swe": {"common": "Angola"}
 		},
 		"latlng": [-12.5, 18.5],
 		"demonym": "Angolan",
@@ -188,7 +191,8 @@
 			"spa": {"official": "Anguila", "common": "Anguilla"},
 			"fin": {"official": "Anguilla", "common": "Anguilla"},
 			"dan": {"common": "Anguilla"},
-			"nob": {"common": "Anguilla"}
+			"nob": {"common": "Anguilla"},
+			"swe": {"common": "Anguilla"}
 		},
 		"latlng": [18.25, -63.16666666],
 		"demonym": "Anguillian",
@@ -233,7 +237,8 @@
 			"spa": {"official": "Islas \u00c5land", "common": "Alandia"},
 			"fin": {"official": "Ahvenanmaan maakunta", "common": "Ahvenanmaa"},
 			"dan": {"common": "\u00c5lands\u00f8erne"},
-			"nob": {"common": "\u00c5land"}
+			"nob": {"common": "\u00c5land"},
+			"swe": {"common": "\u00c5land"}
 		},
 		"latlng": [60.116667, 19.9],
 		"demonym": "\u00c5landish",
@@ -279,7 +284,8 @@
 			"spa": {"official": "Rep\u00fablica de Albania", "common": "Albania"},
 			"fin": {"official": "Albanian tasavalta", "common": "Albania"},
 			"dan": {"common": "Albanien"},
-			"nob": {"common": "Albania"}
+			"nob": {"common": "Albania"},
+			"swe": {"common": "Albanien"}
 		},
 		"latlng": [41, 20],
 		"demonym": "Albanian",
@@ -325,7 +331,8 @@
 			"spa": {"official": "Principado de Andorra", "common": "Andorra"},
 			"fin": {"official": "Andorran ruhtinaskunta", "common": "Andorra"},
 			"dan": {"common": "Andorra"},
-			"nob": {"common": "Andorra"}
+			"nob": {"common": "Andorra"},
+			"swe": {"common": "Andorra"}
 		},
 		"latlng": [42.5, 1.5],
 		"demonym": "Andorran",
@@ -370,7 +377,8 @@
 			"spa": {"official": "Emiratos \u00c1rabes Unidos", "common": "Emiratos \u00c1rabes Unidos"},
 			"fin": {"official": "Yhdistyneet arabiemiirikunnat", "common": "Arabiemiraatit"},
 			"dan": {"common": "Forenede Arabiske Emirater"},
-			"nob": {"common": "De forente arabiske emirater"}
+			"nob": {"common": "De forente arabiske emirater"},
+			"swe": {"common": "F\u00f6renade Arabemiraten"}
 		},
 		"latlng": [24, 54],
 		"demonym": "Emirati",
@@ -421,7 +429,8 @@
 			"spa": {"official": "Rep\u00fablica Argentina", "common": "Argentina"},
 			"fin": {"official": "Argentiinan tasavalta", "common": "Argentiina"},
 			"dan": {"common": "Argentina"},
-			"nob": {"common": "Argentina"}
+			"nob": {"common": "Argentina"},
+			"swe": {"common": "Argentina"}
 		},
 		"latlng": [-34, -64],
 		"demonym": "Argentinean",
@@ -472,7 +481,8 @@
 			"spa": {"official": "Rep\u00fablica de Armenia", "common": "Armenia"},
 			"fin": {"official": "Armenian tasavalta", "common": "Armenia"},
 			"dan": {"common": "Armenien"},
-			"nob": {"common": "Armenia"}
+			"nob": {"common": "Armenia"},
+			"swe": {"common": "Armenien"}
 		},
 		"latlng": [40, 45],
 		"demonym": "Armenian",
@@ -522,7 +532,8 @@
 			"spa": {"official": "Samoa Americana", "common": "Samoa Americana"},
 			"fin": {"official": "Amerikan Samoa", "common": "Amerikan Samoa"},
 			"dan": {"common": "Amerikansk Samoa"},
-			"nob": {"common": "Amerikansk Samoa"}
+			"nob": {"common": "Amerikansk Samoa"},
+			"swe": {"common": "Amerikanska Samoa"}
 		},
 		"latlng": [-14.33333333, -170],
 		"demonym": "American Samoan",
@@ -561,7 +572,8 @@
 			"spa": {"official": "Ant\u00e1rtida", "common": "Ant\u00e1rtida"},
 			"fin": {"official": "Etel\u00e4manner", "common": "Etel\u00e4manner"},
 			"dan": {"common": "Antarktis"},
-			"nob": {"common": "Antarktis"}
+			"nob": {"common": "Antarktis"},
+			"swe": {"common": "Antarktis"}
 		},
 		"latlng": [-90, 0],
 		"demonym": "Antarctican",
@@ -606,7 +618,8 @@
 			"spa": {"official": "Territorio del Franc\u00e9s Tierras australes y ant\u00e1rticas", "common": "Tierras Australes y Ant\u00e1rticas Francesas"},
 			"fin": {"official": "Ranskan etel\u00e4iset ja antarktiset alueet", "common": "Ranskan etel\u00e4iset ja antarktiset alueet"},
 			"dan": {"common": "Franske Sydterritorier"},
-			"nob": {"common": "De franske s\u00f8rterritorier"}
+			"nob": {"common": "De franske s\u00f8rterritorier"},
+			"swe": {"common": "Franska s\u00f6dra territorierna"}
 		},
 		"latlng": [-49.25, 69.167],
 		"demonym": "French",
@@ -652,7 +665,8 @@
 			"spa": {"official": "Antigua y Barbuda", "common": "Antigua y Barbuda"},
 			"fin": {"official": "Antigua ja Barbuda", "common": "Antigua ja Barbuda"},
 			"dan": {"common": "Antigua og Barbuda"},
-			"nob": {"common": "Antigua og Barbuda"}
+			"nob": {"common": "Antigua og Barbuda"},
+			"swe": {"common": "Antigua och Barbuda"}
 		},
 		"latlng": [17.05, -61.8],
 		"demonym": "Antiguan, Barbudan",
@@ -698,7 +712,8 @@
 			"spa": {"official": "Mancomunidad de Australia", "common": "Australia"},
 			"fin": {"official": "Australian liittovaltio", "common": "Australia"},
 			"dan": {"common": "Australien"},
-			"nob": {"common": "Australia"}
+			"nob": {"common": "Australia"},
+			"swe": {"common": "Australien"}
 		},
 		"latlng": [-27, 133],
 		"demonym": "Australian",
@@ -744,7 +759,8 @@
 			"spa": {"official": "Rep\u00fablica de Austria", "common": "Austria"},
 			"fin": {"official": "It\u00e4vallan tasavalta", "common": "It\u00e4valta"},
 			"dan": {"common": "\u00d8strig"},
-			"nob": {"common": "\u00d8sterrike"}
+			"nob": {"common": "\u00d8sterrike"},
+			"swe": {"common": "\u00d6sterrike"}
 		},
 		"latlng": [47.33333333, 13.33333333],
 		"demonym": "Austrian",
@@ -795,7 +811,8 @@
 			"spa": {"official": "Rep\u00fablica de Azerbaiy\u00e1n", "common": "Azerbaiy\u00e1n"},
 			"fin": {"official": "Azerbaidzanin tasavalta", "common": "Azerbaidzan"},
 			"dan": {"common": "Aserbajdsjan"},
-			"nob": {"common": "Aserbajdsjan"}
+			"nob": {"common": "Aserbajdsjan"},
+			"swe": {"common": "Azerbajdzjan"}
 		},
 		"latlng": [40.5, 47.5],
 		"demonym": "Azerbaijani",
@@ -846,7 +863,8 @@
 			"spa": {"official": "Rep\u00fablica de Burundi", "common": "Burundi"},
 			"fin": {"official": "Burundin tasavalta", "common": "Burundi"},
 			"dan": {"common": "Burundi"},
-			"nob": {"common": "Burundi"}
+			"nob": {"common": "Burundi"},
+			"swe": {"common": "Burundi"}
 		},
 		"latlng": [-3.5, 30],
 		"demonym": "Burundian",
@@ -902,7 +920,8 @@
 			"spa": {"official": "Reino de B\u00e9lgica", "common": "B\u00e9lgica"},
 			"fin": {"official": "Belgian kuningaskunta", "common": "Belgia"},
 			"dan": {"common": "Belgien"},
-			"nob": {"common": "Belgia"}
+			"nob": {"common": "Belgia"},
+			"swe": {"common": "Belgien"}
 		},
 		"latlng": [50.83333333, 4],
 		"demonym": "Belgian",
@@ -948,7 +967,8 @@
 			"spa": {"official": "Rep\u00fablica de Benin", "common": "Ben\u00edn"},
 			"fin": {"official": "Beninin tasavalta", "common": "Benin"},
 			"dan": {"common": "Benin"},
-			"nob": {"common": "Benin"}
+			"nob": {"common": "Benin"},
+			"swe": {"common": "Benin"}
 		},
 		"latlng": [9.5, 2.25],
 		"demonym": "Beninese",
@@ -994,7 +1014,8 @@
 			"spa": {"official": "Burkina Faso", "common": "Burkina Faso"},
 			"fin": {"official": "Burkina Faso", "common": "Burkina Faso"},
 			"dan": {"common": "Burkina Faso"},
-			"nob": {"common": "Burkina Faso"}
+			"nob": {"common": "Burkina Faso"},
+			"swe": {"common": "Burkina Faso"}
 		},
 		"latlng": [13, -2],
 		"demonym": "Burkinabe",
@@ -1040,7 +1061,8 @@
 			"spa": {"official": "Rep\u00fablica Popular de Bangladesh", "common": "Bangladesh"},
 			"fin": {"official": "Bangladeshin kansantasavalta", "common": "Bangladesh"},
 			"dan": {"common": "Bangladesh"},
-			"nob": {"common": "Bangladesh"}
+			"nob": {"common": "Bangladesh"},
+			"swe": {"common": "Bangladesh"}
 		},
 		"latlng": [24, 90],
 		"demonym": "Bangladeshi",
@@ -1086,7 +1108,8 @@
 			"spa": {"official": "Rep\u00fablica de Bulgaria", "common": "Bulgaria"},
 			"fin": {"official": "Bulgarian tasavalta", "common": "Bulgaria"},
 			"dan": {"common": "Bulgarien"},
-			"nob": {"common": "Bulgaria"}
+			"nob": {"common": "Bulgaria"},
+			"swe": {"common": "Bulgarien"}
 		},
 		"latlng": [43, 25],
 		"demonym": "Bulgarian",
@@ -1132,7 +1155,8 @@
 			"spa": {"official": "Reino de Bahrein", "common": "Bahrein"},
 			"fin": {"official": "Bahrainin kuningaskunta", "common": "Bahrain"},
 			"dan": {"common": "Bahrain"},
-			"nob": {"common": "Bahrain"}
+			"nob": {"common": "Bahrain"},
+			"swe": {"common": "Bahrain"}
 		},
 		"latlng": [26, 50.55],
 		"demonym": "Bahraini",
@@ -1178,7 +1202,8 @@
 			"spa": {"official": "Commonwealth de las Bahamas", "common": "Bahamas"},
 			"fin": {"official": "Bahaman liittovaltio", "common": "Bahamasaaret"},
 			"dan": {"common": "Bahamas"},
-			"nob": {"common": "Bahamas"}
+			"nob": {"common": "Bahamas"},
+			"swe": {"common": "Bahamas"}
 		},
 		"latlng": [24.25, -76],
 		"demonym": "Bahamian",
@@ -1234,7 +1259,8 @@
 			"spa": {"official": "Bosnia y Herzegovina", "common": "Bosnia y Herzegovina"},
 			"fin": {"official": "Bosnia ja Hertsegovina", "common": "Bosnia ja Hertsegovina"},
 			"dan": {"common": "Bosnien-Hercegovina"},
-			"nob": {"common": "Bosnia-Hercegovina"}
+			"nob": {"common": "Bosnia-Hercegovina"},
+			"swe": {"common": "Bosnien och Hercegovina"}
 		},
 		"latlng": [44, 18],
 		"demonym": "Bosnian, Herzegovinian",
@@ -1279,7 +1305,8 @@
 			"spa": {"official": "Colectividad de San Barth\u00e9lemy", "common": "San Bartolom\u00e9"},
 			"fin": {"official": "Saint-Barth\u00e9lemyn yhteis\u00f6", "common": "Saint-Barth\u00e9lemy"},
 			"dan": {"common": "Saint Barth\u00e9lemy"},
-			"nob": {"common": "Saint-Barth\u00e9lemy"}
+			"nob": {"common": "Saint-Barth\u00e9lemy"},
+			"swe": {"common": "Saint-Barth\u00e9lemy"}
 		},
 		"latlng": [18.5, -63.41666666],
 		"demonym": "Saint Barth\u00e9lemy Islander",
@@ -1330,7 +1357,8 @@
 			"spa": {"official": "Rep\u00fablica de Belar\u00fas", "common": "Bielorrusia"},
 			"fin": {"official": "Valko-Ven\u00e4j\u00e4n tasavalta", "common": "Valko-Ven\u00e4j\u00e4"},
 			"dan": {"common": "Hviderusland"},
-			"nob": {"common": "Hviterussland"}
+			"nob": {"common": "Hviterussland"},
+			"swe": {"common": "Vitryssland"}
 		},
 		"latlng": [53, 28],
 		"demonym": "Belarusian",
@@ -1386,7 +1414,8 @@
 			"spa": {"official": "Belice", "common": "Belice"},
 			"fin": {"official": "Belize", "common": "Belize"},
 			"dan": {"common": "Belize"},
-			"nob": {"common": "Belize"}
+			"nob": {"common": "Belize"},
+			"swe": {"common": "Belize"}
 		},
 		"latlng": [17.25, -88.75],
 		"demonym": "Belizean",
@@ -1432,7 +1461,8 @@
 			"spa": {"official": "Bermuda", "common": "Bermudas"},
 			"fin": {"official": "Bermuda", "common": "Bermuda"},
 			"dan": {"common": "Bermuda"},
-			"nob": {"common": "Bermuda"}
+			"nob": {"common": "Bermuda"},
+			"swe": {"common": "Bermuda"}
 		},
 		"latlng": [32.33333333, -64.75],
 		"demonym": "Bermudian",
@@ -1493,7 +1523,8 @@
 			"spa": {"official": "Estado Plurinacional de Bolivia", "common": "Bolivia"},
 			"fin": {"official": "Bolivian monikansainen valtio", "common": "Bolivia"},
 			"dan": {"common": "Bolivia"},
-			"nob": {"common": "Bolivia"}
+			"nob": {"common": "Bolivia"},
+			"swe": {"common": "Bolivia"}
 		},
 		"latlng": [-17, -65],
 		"demonym": "Bolivian",
@@ -1539,7 +1570,8 @@
 			"spa": {"official": "Rep\u00fablica Federativa del Brasil", "common": "Brasil"},
 			"fin": {"official": "Brasilian liittotasavalta", "common": "Brasilia"},
 			"dan": {"common": "Brasilien"},
-			"nob": {"common": "Brasil"}
+			"nob": {"common": "Brasil"},
+			"swe": {"common": "Brasilien"}
 		},
 		"latlng": [-10, -55],
 		"demonym": "Brazilian",
@@ -1585,7 +1617,8 @@
 			"spa": {"official": "Barbados", "common": "Barbados"},
 			"fin": {"official": "Barbados", "common": "Barbados"},
 			"dan": {"common": "Barbados"},
-			"nob": {"common": "Barbados"}
+			"nob": {"common": "Barbados"},
+			"swe": {"common": "Barbados"}
 		},
 		"latlng": [13.16666666, -59.53333333],
 		"demonym": "Barbadian",
@@ -1631,7 +1664,8 @@
 			"spa": {"official": "Naci\u00f3n de Brunei, Morada de la Paz", "common": "Brunei"},
 			"fin": {"official": "Brunei Darussalamin valtio", "common": "Brunei"},
 			"dan": {"common": "Brunei"},
-			"nob": {"common": "Brunei"}
+			"nob": {"common": "Brunei"},
+			"swe": {"common": "Brunei"}
 		},
 		"latlng": [4.5, 114.66666666],
 		"demonym": "Bruneian",
@@ -1677,7 +1711,8 @@
 			"spa": {"official": "Reino de But\u00e1n", "common": "But\u00e1n"},
 			"fin": {"official": "Bhutanin kuningaskunta", "common": "Bhutan"},
 			"dan": {"common": "Bhutan"},
-			"nob": {"common": "Bhutan"}
+			"nob": {"common": "Bhutan"},
+			"swe": {"common": "Bhutan"}
 		},
 		"latlng": [27.5, 90.5],
 		"demonym": "Bhutanese",
@@ -1722,7 +1757,8 @@
 			"spa": {"official": "Isla Bouvet", "common": "Isla Bouvet"},
 			"fin": {"official": "Bouvet'nsaari", "common": "Bouvet'nsaari"},
 			"dan": {"common": "Bouvet\u00f8en"},
-			"nob": {"common": "Bouvet\u00f8ya"}
+			"nob": {"common": "Bouvet\u00f8ya"},
+			"swe": {"common": "Bouvet\u00f6n"}
 		},
 		"latlng": [-54.43333333, 3.4],
 		"demonym": "",
@@ -1772,7 +1808,8 @@
 			"spa": {"official": "Rep\u00fablica de Botswana", "common": "Botswana"},
 			"fin": {"official": "Botswanan tasavalta", "common": "Botswana"},
 			"dan": {"common": "Botswana"},
-			"nob": {"common": "Botswana"}
+			"nob": {"common": "Botswana"},
+			"swe": {"common": "Botswana"}
 		},
 		"latlng": [-22, 24],
 		"demonym": "Motswana",
@@ -1823,7 +1860,8 @@
 			"spa": {"official": "Rep\u00fablica Centroafricana", "common": "Rep\u00fablica Centroafricana"},
 			"fin": {"official": "Keski-Afrikan tasavalta", "common": "Keski-Afrikan tasavalta"},
 			"dan": {"common": "Centralafrikanske Republik"},
-			"nob": {"common": "Den sentralafrikanske republikk"}
+			"nob": {"common": "Den sentralafrikanske republikk"},
+			"swe": {"common": "Centralafrikanska republiken"}
 		},
 		"latlng": [7, 21],
 		"demonym": "Central African",
@@ -1874,7 +1912,8 @@
 			"spa": {"official": "Canad\u00e1", "common": "Canad\u00e1"},
 			"fin": {"official": "Kanada", "common": "Kanada"},
 			"dan": {"common": "Canada"},
-			"nob": {"common": "Canada"}
+			"nob": {"common": "Canada"},
+			"swe": {"common": "Kanada"}
 		},
 		"latlng": [60, -95],
 		"demonym": "Canadian",
@@ -1920,7 +1959,8 @@
 			"spa": {"official": "Territorio de los (Keeling) Islas Cocos", "common": "Islas Cocos o Islas Keeling"},
 			"fin": {"official": "Kookossaaret", "common": "Kookossaaret"},
 			"dan": {"common": "Cocos\u00f8erne"},
-			"nob": {"common": "Kokos\u00f8yene"}
+			"nob": {"common": "Kokos\u00f8yene"},
+			"swe": {"common": "Kokos\u00f6arna"}
 		},
 		"latlng": [-12.5, 96.83333333],
 		"demonym": "Cocos Islander",
@@ -1980,7 +2020,8 @@
 			"spa": {"official": "Confederaci\u00f3n Suiza", "common": "Suiza"},
 			"fin": {"official": "Sveitsin valaliitto", "common": "Sveitsi"},
 			"dan": {"common": "Schweiz"},
-			"nob": {"common": "Sveits"}
+			"nob": {"common": "Sveits"},
+			"swe": {"common": "Schweiz"}
 		},
 		"latlng": [47, 8],
 		"demonym": "Swiss",
@@ -2026,7 +2067,8 @@
 			"spa": {"official": "Rep\u00fablica de Chile", "common": "Chile"},
 			"fin": {"official": "Chilen tasavalta", "common": "Chile"},
 			"dan": {"common": "Chile"},
-			"nob": {"common": "Chile"}
+			"nob": {"common": "Chile"},
+			"swe": {"common": "Chile"}
 		},
 		"latlng": [-30, -71],
 		"demonym": "Chilean",
@@ -2072,7 +2114,8 @@
 			"spa": {"official": "Rep\u00fablica Popular de China", "common": "China"},
 			"fin": {"official": "Kiinan kansantasavalta", "common": "Kiina"},
 			"dan": {"common": "Kina"},
-			"nob": {"common": "Kina"}
+			"nob": {"common": "Kina"},
+			"swe": {"common": "Kina"}
 		},
 		"latlng": [35, 105],
 		"demonym": "Chinese",
@@ -2117,7 +2160,8 @@
 			"spa": {"official": "Rep\u00fablica de C\u00f4te d'Ivoire", "common": "Costa de Marfil"},
 			"fin": {"official": "Norsunluurannikon tasavalta", "common": "Norsunluurannikko"},
 			"dan": {"common": "Elfenbenskysten"},
-			"nob": {"common": "Elfenbenskysten"}
+			"nob": {"common": "Elfenbenskysten"},
+			"swe": {"common": "Elfenbenskusten"}
 		},
 		"latlng": [8, -5],
 		"demonym": "Ivorian",
@@ -2168,7 +2212,8 @@
 			"spa": {"official": "Rep\u00fablica de Camer\u00fan", "common": "Camer\u00fan"},
 			"fin": {"official": "Kamerunin tasavalta", "common": "Kamerun"},
 			"dan": {"common": "Cameroun"},
-			"nob": {"common": "Kamerun"}
+			"nob": {"common": "Kamerun"},
+			"swe": {"common": "Kamerun"}
 		},
 		"latlng": [6, 12],
 		"demonym": "Cameroonian",
@@ -2234,7 +2279,8 @@
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica del Congo", "common": "Congo (Rep. Dem.)"},
 			"fin": {"official": "Kongon demokraattinen tasavalta", "common": "Kongon demokraattinen tasavalta"},
 			"dan": {"common": "Demokratiske Republik Congo"},
-			"nob": {"common": "Den demokratiske republikken Kongo"}
+			"nob": {"common": "Den demokratiske republikken Kongo"},
+			"swe": {"common": "Demokratiska republiken Kongo"}
 		},
 		"latlng": [0, 25],
 		"demonym": "Congolese",
@@ -2290,7 +2336,8 @@
 			"spa": {"official": "Rep\u00fablica del Congo", "common": "Congo"},
 			"fin": {"official": "Kongon tasavalta", "common": "Kongo-Brazzaville"},
 			"dan": {"common": "Congo"},
-			"nob": {"common": "Republikken Kongo"}
+			"nob": {"common": "Republikken Kongo"},
+			"swe": {"common": "Kongo-Brazzaville"}
 		},
 		"latlng": [-1, 15],
 		"demonym": "Congolese",
@@ -2341,7 +2388,8 @@
 			"spa": {"official": "Islas Cook", "common": "Islas Cook"},
 			"fin": {"official": "Cookinsaaret", "common": "Cookinsaaret"},
 			"dan": {"common": "Cook\u00f8erne"},
-			"nob": {"common": "Cook\u00f8yene"}
+			"nob": {"common": "Cook\u00f8yene"},
+			"swe": {"common": "Cook\u00f6arna"}
 		},
 		"latlng": [-21.23333333, -159.76666666],
 		"demonym": "Cook Islander",
@@ -2387,7 +2435,8 @@
 			"spa": {"official": "Rep\u00fablica de Colombia", "common": "Colombia"},
 			"fin": {"official": "Kolumbian tasavalta", "common": "Kolumbia"},
 			"dan": {"common": "Colombia"},
-			"nob": {"common": "Colombia"}
+			"nob": {"common": "Colombia"},
+			"swe": {"common": "Colombia"}
 		},
 		"latlng": [4, -72],
 		"demonym": "Colombian",
@@ -2443,7 +2492,8 @@
 			"spa": {"official": "Uni\u00f3n de las Comoras", "common": "Comoras"},
 			"fin": {"official": "Komorien liitto", "common": "Komorit"},
 			"dan": {"common": "Comorerne"},
-			"nob": {"common": "Komorene"}
+			"nob": {"common": "Komorene"},
+			"swe": {"common": "Komorerna"}
 		},
 		"latlng": [-12.16666666, 44.25],
 		"demonym": "Comoran",
@@ -2489,7 +2539,8 @@
 			"spa": {"official": "Rep\u00fablica de Cabo Verde", "common": "Cabo Verde"},
 			"fin": {"official": "Kap Verden tasavalta", "common": "Kap Verde"},
 			"dan": {"common": "Kap Verde"},
-			"nob": {"common": "Kapp Verde"}
+			"nob": {"common": "Kapp Verde"},
+			"swe": {"common": "Kap Verde"}
 		},
 		"latlng": [16, -24],
 		"demonym": "Cape Verdian",
@@ -2535,7 +2586,8 @@
 			"spa": {"official": "Rep\u00fablica de Costa Rica", "common": "Costa Rica"},
 			"fin": {"official": "Costa Rican tasavalta", "common": "Costa Rica"},
 			"dan": {"common": "Costa Rica"},
-			"nob": {"common": "Costa Rica"}
+			"nob": {"common": "Costa Rica"},
+			"swe": {"common": "Costa Rica"}
 		},
 		"latlng": [10, -84],
 		"demonym": "Costa Rican",
@@ -2581,7 +2633,8 @@
 			"spa": {"official": "Rep\u00fablica de Cuba", "common": "Cuba"},
 			"fin": {"official": "Kuuban tasavalta", "common": "Kuuba"},
 			"dan": {"common": "Cuba"},
-			"nob": {"common": "Cuba"}
+			"nob": {"common": "Cuba"},
+			"swe": {"common": "Kuba"}
 		},
 		"latlng": [21.5, -80],
 		"demonym": "Cuban",
@@ -2633,7 +2686,8 @@
 			"spa": {"official": "Pa\u00eds de Curazao", "common": "Curazao"},
 			"fin": {"official": "Cura\u00e7ao", "common": "Cura\u00e7ao"},
 			"dan": {"common": "Cura\u00e7ao"},
-			"nob": {"common": "Cura\u00e7ao"}
+			"nob": {"common": "Cura\u00e7ao"},
+			"swe": {"common": "Cura\u00e7ao"}
 		},
 		"latlng": [12.116667, -68.933333],
 		"demonym": "Dutch",
@@ -2679,7 +2733,8 @@
 			"spa": {"official": "Territorio de la Isla de Navidad", "common": "Isla de Navidad"},
 			"fin": {"official": "Joulusaaren alue", "common": "Joulusaari"},
 			"dan": {"common": "Jule\u00f8en"},
-			"nob": {"common": "Christmas\u00f8ya"}
+			"nob": {"common": "Christmas\u00f8ya"},
+			"swe": {"common": "Jul\u00f6n"}
 		},
 		"latlng": [-10.5, 105.66666666],
 		"demonym": "Christmas Island",
@@ -2725,7 +2780,8 @@
 			"spa": {"official": "Islas Caim\u00e1n", "common": "Islas Caim\u00e1n"},
 			"fin": {"official": "Caymansaaret", "common": "Caymansaaret"},
 			"dan": {"common": "Cayman\u00f8erne"},
-			"nob": {"common": "Cayman\u00f8yene"}
+			"nob": {"common": "Cayman\u00f8yene"},
+			"swe": {"common": "Cayman\u00f6arna"}
 		},
 		"latlng": [19.5, -80.5],
 		"demonym": "Caymanian",
@@ -2776,7 +2832,8 @@
 			"spa": {"official": "Rep\u00fablica de Chipre", "common": "Chipre"},
 			"fin": {"official": "Kyproksen tasavalta", "common": "Kypros"},
 			"dan": {"common": "Cypern"},
-			"nob": {"common": "Kypros"}
+			"nob": {"common": "Kypros"},
+			"swe": {"common": "Cypern"}
 		},
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
@@ -2827,7 +2884,8 @@
 			"spa": {"official": "Rep\u00fablica Checa", "common": "Rep\u00fablica Checa"},
 			"fin": {"official": "T\u0161ekin tasavalta", "common": "T\u0161ekki"},
 			"dan": {"common": "Tjekkiet"},
-			"nob": {"common": "Tsjekkia"}
+			"nob": {"common": "Tsjekkia"},
+			"swe": {"common": "Tjeckien"}
 		},
 		"latlng": [49.75, 15.5],
 		"demonym": "Czech",
@@ -2872,7 +2930,8 @@
 			"spa": {"official": "Rep\u00fablica Federal de Alemania", "common": "Alemania"},
 			"fin": {"official": "Saksan liittotasavalta", "common": "Saksa"},
 			"dan": {"common": "Tyskland"},
-			"nob": {"common": "Tyskland"}
+			"nob": {"common": "Tyskland"},
+			"swe": {"common": "Tyskland"}
 		},
 		"latlng": [51, 9],
 		"demonym": "German",
@@ -2923,7 +2982,8 @@
 			"spa": {"official": "Rep\u00fablica de Djibouti", "common": "Djibouti"},
 			"fin": {"official": "Dijiboutin tasavalta", "common": "Dijibouti"},
 			"dan": {"common": "Djibouti"},
-			"nob": {"common": "Djibouti"}
+			"nob": {"common": "Djibouti"},
+			"swe": {"common": "Djibouti"}
 		},
 		"latlng": [11.5, 43],
 		"demonym": "Djibouti",
@@ -2969,7 +3029,8 @@
 			"spa": {"official": "Mancomunidad de Dominica", "common": "Dominica"},
 			"fin": {"official": "Dominican liittovaltio", "common": "Dominica"},
 			"dan": {"common": "Dominica"},
-			"nob": {"common": "Dominica"}
+			"nob": {"common": "Dominica"},
+			"swe": {"common": "Dominica"}
 		},
 		"latlng": [15.41666666, -61.33333333],
 		"demonym": "Dominican",
@@ -3015,7 +3076,8 @@
 			"spa": {"official": "Reino de Dinamarca", "common": "Dinamarca"},
 			"fin": {"official": "Tanskan kuningaskunta", "common": "Tanska"},
 			"dan": {"common": "Danmark"},
-			"nob": {"common": "Danmark"}
+			"nob": {"common": "Danmark"},
+			"swe": {"common": "Danmark"}
 		},
 		"latlng": [56, 10],
 		"demonym": "Danish",
@@ -3061,7 +3123,8 @@
 			"spa": {"official": "Rep\u00fablica Dominicana", "common": "Rep\u00fablica Dominicana"},
 			"fin": {"official": "Dominikaaninen tasavalta", "common": "Dominikaaninen tasavalta"},
 			"dan": {"common": "Dominikanske Republik"},
-			"nob": {"common": "Den dominikanske republikk"}
+			"nob": {"common": "Den dominikanske republikk"},
+			"swe": {"common": "Dominikanska republiken"}
 		},
 		"latlng": [19, -70.66666666],
 		"demonym": "Dominican",
@@ -3107,7 +3170,8 @@
 			"spa": {"official": "Rep\u00fablica Argelina Democr\u00e1tica y Popular", "common": "Argelia"},
 			"fin": {"official": "Algerian demokraattinen kansantasavalta", "common": "Algeria"},
 			"dan": {"common": "Algeriet"},
-			"nob": {"common": "Algerie"}
+			"nob": {"common": "Algerie"},
+			"swe": {"common": "Algeriet"}
 		},
 		"latlng": [28, 3],
 		"demonym": "Algerian",
@@ -3153,7 +3217,8 @@
 			"spa": {"official": "Rep\u00fablica del Ecuador", "common": "Ecuador"},
 			"fin": {"official": "Ecuadorin tasavalta", "common": "Ecuador"},
 			"dan": {"common": "Ecuador"},
-			"nob": {"common": "Ecuador"}
+			"nob": {"common": "Ecuador"},
+			"swe": {"common": "Ecuador"}
 		},
 		"latlng": [-2, -77.5],
 		"demonym": "Ecuadorean",
@@ -3199,7 +3264,8 @@
 			"spa": {"official": "Rep\u00fablica \u00c1rabe de Egipto", "common": "Egipto"},
 			"fin": {"official": "Egyptin arabitasavalta", "common": "Egypti"},
 			"dan": {"common": "Egypten"},
-			"nob": {"common": "Egypt"}
+			"nob": {"common": "Egypt"},
+			"swe": {"common": "Egypten"}
 		},
 		"latlng": [27, 30],
 		"demonym": "Egyptian",
@@ -3255,7 +3321,8 @@
 			"spa": {"official": "Estado de Eritrea", "common": "Eritrea"},
 			"fin": {"official": "Eritrean valtio", "common": "Eritrea"},
 			"dan": {"common": "Eritrea"},
-			"nob": {"common": "Eritrea"}
+			"nob": {"common": "Eritrea"},
+			"swe": {"common": "Eritrea"}
 		},
 		"latlng": [15, 39],
 		"demonym": "Eritrean",
@@ -3310,7 +3377,8 @@
 			"spa": {"official": "Rep\u00fablica \u00c1rabe Saharaui Democr\u00e1tica", "common": "Sahara Occidental"},
 			"fin": {"official": "L\u00e4nsi-Sahara", "common": "L\u00e4nsi-Sahara"},
 			"dan": {"common": "Vestsahara"},
-			"nob": {"common": "Vest-Sahara"}
+			"nob": {"common": "Vest-Sahara"},
+			"swe": {"common": "V\u00e4stsahara"}
 		},
 		"latlng": [24.5, -13],
 		"demonym": "Sahrawi",
@@ -3375,7 +3443,8 @@
 			"spa": {"official": "Reino de Espa\u00f1a", "common": "Espa\u00f1a"},
 			"fin": {"official": "Espanjan kuningaskunta", "common": "Espanja"},
 			"dan": {"common": "Spanien"},
-			"nob": {"common": "Spania"}
+			"nob": {"common": "Spania"},
+			"swe": {"common": "Spanien"}
 		},
 		"latlng": [40, -4],
 		"demonym": "Spanish",
@@ -3421,7 +3490,8 @@
 			"spa": {"official": "Rep\u00fablica de Estonia", "common": "Estonia"},
 			"fin": {"official": "Viron tasavalta", "common": "Viro"},
 			"dan": {"common": "Estland"},
-			"nob": {"common": "Estland"}
+			"nob": {"common": "Estland"},
+			"swe": {"common": "Estland"}
 		},
 		"latlng": [59, 26],
 		"demonym": "Estonian",
@@ -3467,7 +3537,8 @@
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica Federal de Etiop\u00eda", "common": "Etiop\u00eda"},
 			"fin": {"official": "Etiopian demokraattinen liittotasavalta", "common": "Etiopia"},
 			"dan": {"common": "Etiopien"},
-			"nob": {"common": "Etiopia"}
+			"nob": {"common": "Etiopia"},
+			"swe": {"common": "Etiopien"}
 		},
 		"latlng": [8, 38],
 		"demonym": "Ethiopian",
@@ -3517,7 +3588,8 @@
 			"spa": {"official": "Rep\u00fablica de Finlandia", "common": "Finlandia"},
 			"fin": {"official": "Suomen tasavalta", "common": "Suomi"},
 			"dan": {"common": "Finland"},
-			"nob": {"common": "Finland"}
+			"nob": {"common": "Finland"},
+			"swe": {"common": "Finland"}
 		},
 		"latlng": [64, 26],
 		"demonym": "Finnish",
@@ -3572,7 +3644,8 @@
 			"spa": {"official": "Rep\u00fablica de Fiji", "common": "Fiyi"},
 			"fin": {"official": "Fid\u017ein tasavalta", "common": "Fid\u017ei"},
 			"dan": {"common": "Fiji"},
-			"nob": {"common": "Fiji"}
+			"nob": {"common": "Fiji"},
+			"swe": {"common": "Fiji"}
 		},
 		"latlng": [-18, 175],
 		"demonym": "Fijian",
@@ -3617,7 +3690,8 @@
 			"spa": {"official": "islas Malvinas", "common": "Islas Malvinas"},
 			"fin": {"official": "Falkandinsaaret", "common": "Falkandinsaaret"},
 			"dan": {"common": "Falklands\u00f8erne"},
-			"nob": {"common": "Falklands\u00f8yene"}
+			"nob": {"common": "Falklands\u00f8yene"},
+			"swe": {"common": "Falklands\u00f6arna"}
 		},
 		"latlng": [-51.75, -59],
 		"demonym": "Falkland Islander",
@@ -3662,7 +3736,8 @@
 			"spa": {"official": "Rep\u00fablica franc\u00e9s", "common": "Francia"},
 			"fin": {"official": "Ranskan tasavalta", "common": "Ranska"},
 			"dan": {"common": "Frankrig"},
-			"nob": {"common": "Frankrike"}
+			"nob": {"common": "Frankrike"},
+			"swe": {"common": "Frankrike"}
 		},
 		"latlng": [46, 2],
 		"demonym": "French",
@@ -3712,7 +3787,8 @@
 			"spa": {"official": "Islas Feroe", "common": "Islas Faroe"},
 			"fin": {"official": "F\u00e4rsaaret", "common": "F\u00e4rsaaret"},
 			"dan": {"common": "F\u00e6r\u00f8erne"},
-			"nob": {"common": "F\u00e6r\u00f8yene"}
+			"nob": {"common": "F\u00e6r\u00f8yene"},
+			"swe": {"common": "F\u00e4r\u00f6arna"}
 		},
 		"latlng": [62, -7],
 		"demonym": "Faroese",
@@ -3757,7 +3833,8 @@
 			"spa": {"official": "Estados Federados de Micronesia", "common": "Micronesia"},
 			"fin": {"official": "Mikronesian liittovaltio", "common": "Mikronesia"},
 			"dan": {"common": "Mikronesien"},
-			"nob": {"common": "Mikronesiaf\u00f8derasjonen"}
+			"nob": {"common": "Mikronesiaf\u00f8derasjonen"},
+			"swe": {"common": "Mikronesiens federerade stater"}
 		},
 		"latlng": [6.91666666, 158.25],
 		"demonym": "Micronesian",
@@ -3802,7 +3879,8 @@
 			"spa": {"official": "Rep\u00fablica de Gab\u00f3n", "common": "Gab\u00f3n"},
 			"fin": {"official": "Gabonin tasavalta", "common": "Gabon"},
 			"dan": {"common": "Gabon"},
-			"nob": {"common": "Gabon"}
+			"nob": {"common": "Gabon"},
+			"swe": {"common": "Gabon"}
 		},
 		"latlng": [-1, 11.75],
 		"demonym": "Gabonese",
@@ -3847,7 +3925,8 @@
 			"spa": {"official": "Reino Unido de Gran Breta\u00f1a e Irlanda del Norte", "common": "Reino Unido"},
 			"fin": {"official": "Ison-Britannian ja Pohjois-Irlannin yhdistynyt kuningaskunta", "common": "Yhdistynyt kuningaskunta"},
 			"dan": {"common": "Storbritannien"},
-			"nob": {"common": "Storbritannia"}
+			"nob": {"common": "Storbritannia"},
+			"swe": {"common": "Storbritannien"}
 		},
 		"latlng": [54, -2],
 		"demonym": "British",
@@ -3892,7 +3971,8 @@
 			"spa": {"official": "Georgia", "common": "Georgia"},
 			"fin": {"official": "Georgia", "common": "Georgia"},
 			"dan": {"common": "Georgien"},
-			"nob": {"common": "Georgia"}
+			"nob": {"common": "Georgia"},
+			"swe": {"common": "Georgien"}
 		},
 		"latlng": [42, 43.5],
 		"demonym": "Georgian",
@@ -3947,7 +4027,8 @@
 			"spa": {"official": "Bail\u00eda de Guernsey", "common": "Guernsey"},
 			"fin": {"official": "Guernsey", "common": "Guernsey"},
 			"dan": {"common": "Guernsey"},
-			"nob": {"common": "Guernsey"}
+			"nob": {"common": "Guernsey"},
+			"swe": {"common": "Guernsey"}
 		},
 		"latlng": [49.46666666, -2.58333333],
 		"demonym": "Channel Islander",
@@ -3992,7 +4073,8 @@
 			"spa": {"official": "Rep\u00fablica de Ghana", "common": "Ghana"},
 			"fin": {"official": "Ghanan tasavalta", "common": "Ghana"},
 			"dan": {"common": "Ghana"},
-			"nob": {"common": "Ghana"}
+			"nob": {"common": "Ghana"},
+			"swe": {"common": "Ghana"}
 		},
 		"latlng": [8, -2],
 		"demonym": "Ghanaian",
@@ -4037,7 +4119,8 @@
 			"spa": {"official": "Gibraltar", "common": "Gibraltar"},
 			"fin": {"official": "Gibraltar", "common": "Gibraltar"},
 			"dan": {"common": "Gibraltar"},
-			"nob": {"common": "Gibraltar"}
+			"nob": {"common": "Gibraltar"},
+			"swe": {"common": "Gibraltar"}
 		},
 		"latlng": [36.13333333, -5.35],
 		"demonym": "Gibraltar",
@@ -4082,7 +4165,8 @@
 			"spa": {"official": "Rep\u00fablica de Guinea", "common": "Guinea"},
 			"fin": {"official": "Guinean tasavalta", "common": "Guinea"},
 			"dan": {"common": "Guinea"},
-			"nob": {"common": "Guinea"}
+			"nob": {"common": "Guinea"},
+			"swe": {"common": "Guinea"}
 		},
 		"latlng": [11, -10],
 		"demonym": "Guinean",
@@ -4127,7 +4211,8 @@
 			"spa": {"official": "Guadalupe", "common": "Guadalupe"},
 			"fin": {"official": "Guadeloupen departmentti", "common": "Guadeloupe"},
 			"dan": {"common": "Guadeloupe"},
-			"nob": {"common": "Guadeloupe"}
+			"nob": {"common": "Guadeloupe"},
+			"swe": {"common": "Guadeloupe"}
 		},
 		"latlng": [16.25, -61.583333],
 		"demonym": "Guadeloupian",
@@ -4172,7 +4257,8 @@
 			"spa": {"official": "Rep\u00fablica de Gambia", "common": "Gambia"},
 			"fin": {"official": "Gambian tasavalta", "common": "Gambia"},
 			"dan": {"common": "Gambia"},
-			"nob": {"common": "Gambia"}
+			"nob": {"common": "Gambia"},
+			"swe": {"common": "Gambia"}
 		},
 		"latlng": [13.46666666, -16.56666666],
 		"demonym": "Gambian",
@@ -4217,7 +4303,8 @@
 			"spa": {"official": "Rep\u00fablica de Guinea-Bissau", "common": "Guinea-Bis\u00e1u"},
 			"fin": {"official": "Guinea-Bissaun tasavalta", "common": "Guinea-Bissau"},
 			"dan": {"common": "Guinea-Bissau"},
-			"nob": {"common": "Guinea-Bissau"}
+			"nob": {"common": "Guinea-Bissau"},
+			"swe": {"common": "Guinea Bissau"}
 		},
 		"latlng": [12, -15],
 		"demonym": "Guinea-Bissauan",
@@ -4273,7 +4360,8 @@
 			"spa": {"official": "Rep\u00fablica de Guinea Ecuatorial", "common": "Guinea Ecuatorial"},
 			"fin": {"official": "P\u00e4iv\u00e4ntasaajan Guinean tasavalta", "common": "P\u00e4iv\u00e4ntasaajan Guinea"},
 			"dan": {"common": "\u00c6kvatorialguinea"},
-			"nob": {"common": "Ekvatorial-Guinea"}
+			"nob": {"common": "Ekvatorial-Guinea"},
+			"swe": {"common": "Ekvatorialguinea"}
 		},
 		"latlng": [2, 10],
 		"demonym": "Equatorial Guinean",
@@ -4318,7 +4406,8 @@
 			"spa": {"official": "Rep\u00fablica Hel\u00e9nica", "common": "Grecia"},
 			"fin": {"official": "Helleenien tasavalta", "common": "Kreikka"},
 			"dan": {"common": "Gr\u00e6kenland"},
-			"nob": {"common": "Hellas"}
+			"nob": {"common": "Hellas"},
+			"swe": {"common": "Grekland"}
 		},
 		"latlng": [39, 22],
 		"demonym": "Greek",
@@ -4363,7 +4452,8 @@
 			"spa": {"official": "Granada", "common": "Grenada"},
 			"fin": {"official": "Grenada", "common": "Grenada"},
 			"dan": {"common": "Grenada"},
-			"nob": {"common": "Grenada"}
+			"nob": {"common": "Grenada"},
+			"swe": {"common": "Grenada"}
 		},
 		"latlng": [12.11666666, -61.66666666],
 		"demonym": "Grenadian",
@@ -4408,7 +4498,8 @@
 			"spa": {"official": "Groenlandia", "common": "Groenlandia"},
 			"fin": {"official": "Gro\u00f6nlanti", "common": "Gro\u00f6nlanti"},
 			"dan": {"common": "Gr\u00f8nland"},
-			"nob": {"common": "Gr\u00f8nland"}
+			"nob": {"common": "Gr\u00f8nland"},
+			"swe": {"common": "Gr\u00f6nland"}
 		},
 		"latlng": [72, -40],
 		"demonym": "Greenlandic",
@@ -4453,7 +4544,8 @@
 			"spa": {"official": "Rep\u00fablica de Guatemala", "common": "Guatemala"},
 			"fin": {"official": "Guatemalan tasavalta", "common": "Guatemala"},
 			"dan": {"common": "Guatemala"},
-			"nob": {"common": "Guatemala"}
+			"nob": {"common": "Guatemala"},
+			"swe": {"common": "Guatemala"}
 		},
 		"latlng": [15.5, -90.25],
 		"demonym": "Guatemalan",
@@ -4498,7 +4590,8 @@
 			"spa": {"official": "Guayana", "common": "Guayana Francesa"},
 			"fin": {"official": "Ranskan Guayana", "common": "Ranskan Guayana"},
 			"dan": {"common": "Fransk Guiana"},
-			"nob": {"common": "Fransk Guyana"}
+			"nob": {"common": "Fransk Guyana"},
+			"swe": {"common": "Franska Guyana"}
 		},
 		"latlng": [4, -53],
 		"demonym": "",
@@ -4553,7 +4646,8 @@
 			"spa": {"official": "Guam", "common": "Guam"},
 			"fin": {"official": "Guam", "common": "Guam"},
 			"dan": {"common": "Guam"},
-			"nob": {"common": "Guam"}
+			"nob": {"common": "Guam"},
+			"swe": {"common": "Guam"}
 		},
 		"latlng": [13.46666666, 144.78333333],
 		"demonym": "Guamanian",
@@ -4598,7 +4692,8 @@
 			"spa": {"official": "Rep\u00fablica Cooperativa de Guyana", "common": "Guyana"},
 			"fin": {"official": "Guayanan osuustoiminnallinen tasavalta", "common": "Guayana"},
 			"dan": {"common": "Guyana"},
-			"nob": {"common": "Guyana"}
+			"nob": {"common": "Guyana"},
+			"swe": {"common": "Guyana"}
 		},
 		"latlng": [5, -59],
 		"demonym": "Guyanese",
@@ -4648,7 +4743,8 @@
 			"spa": {"official": "Hong Kong Regi\u00f3n Administrativa Especial de la Rep\u00fablica Popular China", "common": "Hong Kong"},
 			"fin": {"official": "Hong Kongin erityishallintoalue", "common": "Hongkong"},
 			"dan": {"common": "Hongkong"},
-			"nob": {"common": "Hongkong"}
+			"nob": {"common": "Hongkong"},
+			"swe": {"common": "Hongkong"}
 		},
 		"latlng": [22.267, 114.188],
 		"demonym": "Hong Konger",
@@ -4693,7 +4789,8 @@
 			"spa": {"official": "Islas Heard y McDonald", "common": "Islas Heard y McDonald"},
 			"fin": {"official": "Heard ja McDonaldinsaaret", "common": "Heard ja McDonaldinsaaret"},
 			"dan": {"common": "Heard-\u00f8en og McDonald-\u00f8erne"},
-			"nob": {"common": "Heard- og McDonald\u00f8yene"}
+			"nob": {"common": "Heard- og McDonald\u00f8yene"},
+			"swe": {"common": "Heard- och McDonalds\u00f6arna"}
 		},
 		"latlng": [-53.1, 72.51666666],
 		"demonym": "Heard and McDonald Islander",
@@ -4738,7 +4835,8 @@
 			"spa": {"official": "Rep\u00fablica de Honduras", "common": "Honduras"},
 			"fin": {"official": "Hondurasin tasavalta", "common": "Honduras"},
 			"dan": {"common": "Honduras"},
-			"nob": {"common": "Honduras"}
+			"nob": {"common": "Honduras"},
+			"swe": {"common": "Honduras"}
 		},
 		"latlng": [15, -86.5],
 		"demonym": "Honduran",
@@ -4784,7 +4882,8 @@
 			"spa": {"official": "Rep\u00fablica de Croacia", "common": "Croacia"},
 			"fin": {"official": "Kroatian tasavalta", "common": "Kroatia"},
 			"dan": {"common": "Kroatien"},
-			"nob": {"common": "Kroatia"}
+			"nob": {"common": "Kroatia"},
+			"swe": {"common": "Kroatien"}
 		},
 		"latlng": [45.16666666, 15.5],
 		"demonym": "Croatian",
@@ -4834,7 +4933,8 @@
 			"spa": {"official": "Rep\u00fablica de Hait\u00ed", "common": "Haiti"},
 			"fin": {"official": "Haitin tasavalta", "common": "Haiti"},
 			"dan": {"common": "Haiti"},
-			"nob": {"common": "Haiti"}
+			"nob": {"common": "Haiti"},
+			"swe": {"common": "Haiti"}
 		},
 		"latlng": [19, -72.41666666],
 		"demonym": "Haitian",
@@ -4879,7 +4979,8 @@
 			"spa": {"official": "Hungr\u00eda", "common": "Hungr\u00eda"},
 			"fin": {"official": "Unkari", "common": "Unkari"},
 			"dan": {"common": "Ungarn"},
-			"nob": {"common": "Ungarn"}
+			"nob": {"common": "Ungarn"},
+			"swe": {"common": "Ungern"}
 		},
 		"latlng": [47, 20],
 		"demonym": "Hungarian",
@@ -4924,7 +5025,8 @@
 			"spa": {"official": "Rep\u00fablica de Indonesia", "common": "Indonesia"},
 			"fin": {"official": "Indonesian tasavalta", "common": "Indonesia"},
 			"dan": {"common": "Indonesien"},
-			"nob": {"common": "Indonesia"}
+			"nob": {"common": "Indonesia"},
+			"swe": {"common": "Indonesien"}
 		},
 		"latlng": [-5, 120],
 		"demonym": "Indonesian",
@@ -4974,7 +5076,8 @@
 			"spa": {"official": "Isla de Man", "common": "Isla de Man"},
 			"fin": {"official": "Mansaari", "common": "Mansaari"},
 			"dan": {"common": "Isle of Man"},
-			"nob": {"common": "Man"}
+			"nob": {"common": "Man"},
+			"swe": {"common": "Isle of Man"}
 		},
 		"latlng": [54.25, -4.5],
 		"demonym": "Manx",
@@ -5029,7 +5132,8 @@
 			"spa": {"official": "Rep\u00fablica de la India", "common": "India"},
 			"fin": {"official": "Intian tasavalta", "common": "Intia"},
 			"dan": {"common": "Indien"},
-			"nob": {"common": "India"}
+			"nob": {"common": "India"},
+			"swe": {"common": "Indien"}
 		},
 		"latlng": [20, 77],
 		"demonym": "Indian",
@@ -5075,7 +5179,8 @@
 			"spa": {"official": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico", "common": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico"},
 			"fin": {"official": "Brittil\u00e4inen Intian valtameren alue", "common": "Brittil\u00e4inen Intian valtameren alue"},
 			"dan": {"common": "British Indian Ocean Territory"},
-			"nob": {"common": "Det britiske territoriet i Indiahavet"}
+			"nob": {"common": "Det britiske territoriet i Indiahavet"},
+			"swe": {"common": "Brittiska territoriet i Indiska Oceanen"}
 		},
 		"latlng": [-6, 71.5],
 		"demonym": "Indian",
@@ -5125,7 +5230,8 @@
 			"spa": {"official": "Rep\u00fablica de Irlanda", "common": "Irlanda"},
 			"fin": {"official": "Irlannin tasavalta", "common": "Irlanti"},
 			"dan": {"common": "Irland"},
-			"nob": {"common": "Irland"}
+			"nob": {"common": "Irland"},
+			"swe": {"common": "Irland"}
 		},
 		"latlng": [53, -8],
 		"demonym": "Irish",
@@ -5169,7 +5275,8 @@
 			"spa": {"official": "Rep\u00fablica Isl\u00e1mica de Ir\u00e1n", "common": "Iran"},
 			"fin": {"official": "Iranin islamilainen tasavalta", "common": "Iran"},
 			"dan": {"common": "Iran"},
-			"nob": {"common": "Iran"}
+			"nob": {"common": "Iran"},
+			"swe": {"common": "Iran"}
 		},
 		"latlng": [32, 53],
 		"demonym": "Iranian",
@@ -5224,7 +5331,8 @@
 			"spa": {"official": "Rep\u00fablica de Irak", "common": "Irak"},
 			"fin": {"official": "Irakin tasavalta", "common": "Irak"},
 			"dan": {"common": "Irak"},
-			"nob": {"common": "Irak"}
+			"nob": {"common": "Irak"},
+			"swe": {"common": "Irak"}
 		},
 		"latlng": [33, 44],
 		"demonym": "Iraqi",
@@ -5269,7 +5377,8 @@
 			"spa": {"official": "Islandia", "common": "Islandia"},
 			"fin": {"official": "Islanti", "common": "Islanti"},
 			"dan": {"common": "Island"},
-			"nob": {"common": "Island"}
+			"nob": {"common": "Island"},
+			"swe": {"common": "Island"}
 		},
 		"latlng": [65, -18],
 		"demonym": "Icelander",
@@ -5319,7 +5428,8 @@
 			"spa": {"official": "Estado de Israel", "common": "Israel"},
 			"fin": {"official": "Israelin valtio", "common": "Israel"},
 			"dan": {"common": "Israel"},
-			"nob": {"common": "Israel"}
+			"nob": {"common": "Israel"},
+			"swe": {"common": "Israel"}
 		},
 		"latlng": [31.47, 35.13],
 		"demonym": "Israeli",
@@ -5374,7 +5484,8 @@
 			"spa": {"official": "Rep\u00fablica Italiana", "common": "Italia"},
 			"fin": {"official": "Italian tasavalta", "common": "Italia"},
 			"dan": {"common": "Italien"},
-			"nob": {"common": "Italia"}
+			"nob": {"common": "Italia"},
+			"swe": {"common": "Italien"}
 		},
 		"latlng": [42.83333333, 12.83333333],
 		"demonym": "Italian",
@@ -5424,7 +5535,8 @@
 			"spa": {"official": "Jamaica", "common": "Jamaica"},
 			"fin": {"official": "Jamaika", "common": "Jamaika"},
 			"dan": {"common": "Jamaica"},
-			"nob": {"common": "Jamaica"}
+			"nob": {"common": "Jamaica"},
+			"swe": {"common": "Jamaica"}
 		},
 		"latlng": [18.25, -77.5],
 		"demonym": "Jamaican",
@@ -5479,7 +5591,8 @@
 			"spa": {"official": "Bail\u00eda de Jersey", "common": "Jersey"},
 			"fin": {"official": "Jersey", "common": "Jersey"},
 			"dan": {"common": "Jersey"},
-			"nob": {"common": "Jersey"}
+			"nob": {"common": "Jersey"},
+			"swe": {"common": "Jersey"}
 		},
 		"latlng": [49.25, -2.16666666],
 		"demonym": "Channel Islander",
@@ -5524,7 +5637,8 @@
 			"spa": {"official": "Reino Hachemita de Jordania", "common": "Jordania"},
 			"fin": {"official": "Jordanian ha\u0161emiittinen kunigaskunta", "common": "Jordania"},
 			"dan": {"common": "Jordan"},
-			"nob": {"common": "Jordan"}
+			"nob": {"common": "Jordan"},
+			"swe": {"common": "Jordanien"}
 		},
 		"latlng": [31, 36],
 		"demonym": "Jordanian",
@@ -5569,7 +5683,8 @@
 			"spa": {"official": "Jap\u00f3n", "common": "Jap\u00f3n"},
 			"fin": {"official": "Japani", "common": "Japani"},
 			"dan": {"common": "Japan"},
-			"nob": {"common": "Japan"}
+			"nob": {"common": "Japan"},
+			"swe": {"common": "Japan"}
 		},
 		"latlng": [36, 138],
 		"demonym": "Japanese",
@@ -5619,7 +5734,8 @@
 			"spa": {"official": "Rep\u00fablica de Kazajst\u00e1n", "common": "Kazajist\u00e1n"},
 			"fin": {"official": "Kazakstanin tasavalta", "common": "Kazakstan"},
 			"dan": {"common": "Kasakhstan"},
-			"nob": {"common": "Kasakhstan"}
+			"nob": {"common": "Kasakhstan"},
+			"swe": {"common": "Kazakstan"}
 		},
 		"latlng": [48, 68],
 		"demonym": "Kazakhstani",
@@ -5669,7 +5785,8 @@
 			"spa": {"official": "Rep\u00fablica de Kenya", "common": "Kenia"},
 			"fin": {"official": "Kenian tasavalta", "common": "Kenia"},
 			"dan": {"common": "Kenya"},
-			"nob": {"common": "Kenya"}
+			"nob": {"common": "Kenya"},
+			"swe": {"common": "Kenya"}
 		},
 		"latlng": [1, 38],
 		"demonym": "Kenyan",
@@ -5719,7 +5836,8 @@
 			"spa": {"official": "Rep\u00fablica Kirguisa", "common": "Kirguizist\u00e1n"},
 			"fin": {"official": "Kirgisian tasavalta", "common": "Kirgisia"},
 			"dan": {"common": "Kirgisistan"},
-			"nob": {"common": "Kirgisistan"}
+			"nob": {"common": "Kirgisistan"},
+			"swe": {"common": "Kirgizistan"}
 		},
 		"latlng": [41, 75],
 		"demonym": "Kirghiz",
@@ -5765,7 +5883,8 @@
 			"spa": {"official": "Reino de Camboya", "common": "Camboya"},
 			"fin": {"official": "Kambod\u017ean kuningaskunta", "common": "Kambod\u017ea"},
 			"dan": {"common": "Cambodja"},
-			"nob": {"common": "Kambodsja"}
+			"nob": {"common": "Kambodsja"},
+			"swe": {"common": "Kambodja"}
 		},
 		"latlng": [13, 105],
 		"demonym": "Cambodian",
@@ -5815,7 +5934,8 @@
 			"spa": {"official": "Rep\u00fablica Independiente y Soberano de Kiribati", "common": "Kiribati"},
 			"fin": {"official": "Kiribatin tasavalta", "common": "Kiribati"},
 			"dan": {"common": "Kiribati"},
-			"nob": {"common": "Kiribati"}
+			"nob": {"common": "Kiribati"},
+			"swe": {"common": "Kiribati"}
 		},
 		"latlng": [1.41666666, 173],
 		"demonym": "I-Kiribati",
@@ -5860,7 +5980,8 @@
 			"spa": {"official": "Federaci\u00f3n de San Crist\u00f3bal y Nevisa", "common": "San Crist\u00f3bal y Nieves"},
 			"fin": {"official": "Saint Christopherin ja Nevisin federaatio", "common": "Saint Kitts ja Nevis"},
 			"dan": {"common": "Saint Kitts og Nevis"},
-			"nob": {"common": "Saint Kitts og Nevis"}
+			"nob": {"common": "Saint Kitts og Nevis"},
+			"swe": {"common": "Saint Kitts och Nevis"}
 		},
 		"latlng": [17.33333333, -62.75],
 		"demonym": "Kittitian or Nevisian",
@@ -5905,7 +6026,8 @@
 			"spa": {"official": "Rep\u00fablica de Corea", "common": "Corea del Sur"},
 			"fin": {"official": "Korean tasavalta", "common": "Etel\u00e4-Korea"},
 			"dan": {"common": "Sydkorea"},
-			"nob": {"common": "S\u00f8r-Korea"}
+			"nob": {"common": "S\u00f8r-Korea"},
+			"swe": {"common": "Sydkorea"}
 		},
 		"latlng": [37, 127.5],
 		"demonym": "South Korean",
@@ -5952,7 +6074,8 @@
 			"spa": {"official": "Rep\u00fablica de Kosovo", "common": "Kosovo"},
 			"fin": {"official": "Kosovon tasavalta", "common": "Kosovo"},
 			"dan": {"common": "Kosovo"},
-			"nob": {"common": "Kosovo"}
+			"nob": {"common": "Kosovo"},
+			"swe": {"common": "Kosovo"}
 		},
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
@@ -5997,7 +6120,8 @@
 			"spa": {"official": "Estado de Kuwait", "common": "Kuwait"},
 			"fin": {"official": "Kuwaitin valtio", "common": "Kuwait"},
 			"dan": {"common": "Kuwait"},
-			"nob": {"common": "Kuwait"}
+			"nob": {"common": "Kuwait"},
+			"swe": {"common": "Kuwait"}
 		},
 		"latlng": [29.5, 45.75],
 		"demonym": "Kuwaiti",
@@ -6042,7 +6166,8 @@
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica Popular Lao", "common": "Laos"},
 			"fin": {"official": "Laosin demokraattinen kansantasavalta", "common": "Laos"},
 			"dan": {"common": "Laos"},
-			"nob": {"common": "Laos"}
+			"nob": {"common": "Laos"},
+			"swe": {"common": "Laos"}
 		},
 		"latlng": [18, 105],
 		"demonym": "Laotian",
@@ -6092,7 +6217,8 @@
 			"spa": {"official": "Rep\u00fablica Libanesa", "common": "L\u00edbano"},
 			"fin": {"official": "Libanonin tasavalta", "common": "Libanon"},
 			"dan": {"common": "Libanon"},
-			"nob": {"common": "Libanon"}
+			"nob": {"common": "Libanon"},
+			"swe": {"common": "Libanon"}
 		},
 		"latlng": [33.83333333, 35.83333333],
 		"demonym": "Lebanese",
@@ -6137,7 +6263,8 @@
 			"spa": {"official": "Rep\u00fablica de Liberia", "common": "Liberia"},
 			"fin": {"official": "Liberian tasavalta", "common": "Liberia"},
 			"dan": {"common": "Liberia"},
-			"nob": {"common": "Liberia"}
+			"nob": {"common": "Liberia"},
+			"swe": {"common": "Liberia"}
 		},
 		"latlng": [6.5, -9.5],
 		"demonym": "Liberian",
@@ -6182,7 +6309,8 @@
 			"spa": {"official": "Estado de Libia", "common": "Libia"},
 			"fin": {"official": "Libyan valtio", "common": "Libya"},
 			"dan": {"common": "Libyen"},
-			"nob": {"common": "Libya"}
+			"nob": {"common": "Libya"},
+			"swe": {"common": "Libyen"}
 		},
 		"latlng": [25, 17],
 		"demonym": "Libyan",
@@ -6227,7 +6355,8 @@
 			"spa": {"official": "Santa Luc\u00eda", "common": "Santa Luc\u00eda"},
 			"fin": {"official": "Saint Lucia", "common": "Saint Lucia"},
 			"dan": {"common": "Saint Lucia"},
-			"nob": {"common": "Saint Lucia"}
+			"nob": {"common": "Saint Lucia"},
+			"swe": {"common": "Saint Lucia"}
 		},
 		"latlng": [13.88333333, -60.96666666],
 		"demonym": "Saint Lucian",
@@ -6272,7 +6401,8 @@
 			"spa": {"official": "Principado de Liechtenstein", "common": "Liechtenstein"},
 			"fin": {"official": "Liechensteinin ruhtinaskunta", "common": "Liechenstein"},
 			"dan": {"common": "Liechtenstein"},
-			"nob": {"common": "Liechtenstein"}
+			"nob": {"common": "Liechtenstein"},
+			"swe": {"common": "Liechtenstein"}
 		},
 		"latlng": [47.26666666, 9.53333333],
 		"demonym": "Liechtensteiner",
@@ -6322,7 +6452,8 @@
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica Socialista de Sri Lanka", "common": "Sri Lanka"},
 			"fin": {"official": "Sri Lankan demokraattinen sosialistinen tasavalta", "common": "Sri Lanka"},
 			"dan": {"common": "Sri Lanka"},
-			"nob": {"common": "Sri Lanka"}
+			"nob": {"common": "Sri Lanka"},
+			"swe": {"common": "Sri Lanka"}
 		},
 		"latlng": [7, 81],
 		"demonym": "Sri Lankan",
@@ -6372,7 +6503,8 @@
 			"spa": {"official": "Reino de Lesotho", "common": "Lesotho"},
 			"fin": {"official": "Lesothon kuningaskunta", "common": "Lesotho"},
 			"dan": {"common": "Lesotho"},
-			"nob": {"common": "Lesotho"}
+			"nob": {"common": "Lesotho"},
+			"swe": {"common": "Lesotho"}
 		},
 		"latlng": [-29.5, 28.5],
 		"demonym": "Mosotho",
@@ -6417,7 +6549,8 @@
 			"spa": {"official": "Rep\u00fablica de Lituania", "common": "Lituania"},
 			"fin": {"official": "Liettuan tasavalta", "common": "Liettua"},
 			"dan": {"common": "Litauen"},
-			"nob": {"common": "Litauen"}
+			"nob": {"common": "Litauen"},
+			"swe": {"common": "Litauen"}
 		},
 		"latlng": [56, 24],
 		"demonym": "Lithuanian",
@@ -6472,7 +6605,8 @@
 			"spa": {"official": "Gran Ducado de Luxemburgo", "common": "Luxemburgo"},
 			"fin": {"official": "Luxemburgin suurherttuakunta", "common": "Luxemburg"},
 			"dan": {"common": "Luxembourg"},
-			"nob": {"common": "Luxembourg"}
+			"nob": {"common": "Luxembourg"},
+			"swe": {"common": "Luxemburg"}
 		},
 		"latlng": [49.75, 6.16666666],
 		"demonym": "Luxembourger",
@@ -6517,7 +6651,8 @@
 			"spa": {"official": "Rep\u00fablica de Letonia", "common": "Letonia"},
 			"fin": {"official": "Latvian tasavalta", "common": "Latvia"},
 			"dan": {"common": "Letland"},
-			"nob": {"common": "Latvia"}
+			"nob": {"common": "Latvia"},
+			"swe": {"common": "Lettland"}
 		},
 		"latlng": [57, 25],
 		"demonym": "Latvian",
@@ -6567,7 +6702,8 @@
 			"spa": {"official": "Macao, Regi\u00f3n Administrativa Especial de la Rep\u00fablica Popular China", "common": "Macao"},
 			"fin": {"official": "Macaon Kiinan kansantasavallan erityishallintoalue", "common": "Macao"},
 			"dan": {"common": "Macao"},
-			"nob": {"common": "Macao"}
+			"nob": {"common": "Macao"},
+			"swe": {"common": "Macau"}
 		},
 		"latlng": [22.16666666, 113.55],
 		"demonym": "Chinese",
@@ -6612,7 +6748,8 @@
 			"spa": {"official": "Saint Martin", "common": "Saint Martin"},
 			"fin": {"official": "Saint-Martin", "common": "Saint-Martin"},
 			"dan": {"common": "Saint Martin"},
-			"nob": {"common": "Saint-Martin"}
+			"nob": {"common": "Saint-Martin"},
+			"swe": {"common": "Saint Martin"}
 		},
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
@@ -6662,7 +6799,8 @@
 			"spa": {"official": "Reino de Marruecos", "common": "Marruecos"},
 			"fin": {"official": "Marokon kuningaskunta", "common": "Marokko"},
 			"dan": {"common": "Marokko"},
-			"nob": {"common": "Marokko"}
+			"nob": {"common": "Marokko"},
+			"swe": {"common": "Marocko"}
 		},
 		"latlng": [32, -5],
 		"demonym": "Moroccan",
@@ -6707,7 +6845,8 @@
 			"spa": {"official": "Principado de M\u00f3naco", "common": "M\u00f3naco"},
 			"fin": {"official": "Monacon ruhtinaskunta", "common": "Monaco"},
 			"dan": {"common": "Monaco"},
-			"nob": {"common": "Monaco"}
+			"nob": {"common": "Monaco"},
+			"swe": {"common": "Monaco"}
 		},
 		"latlng": [43.73333333, 7.4],
 		"demonym": "Monegasque",
@@ -6752,7 +6891,8 @@
 			"spa": {"official": "Rep\u00fablica de Moldova", "common": "Moldavia"},
 			"fin": {"official": "Moldovan tasavalta", "common": "Moldova"},
 			"dan": {"common": "Moldova"},
-			"nob": {"common": "Moldova"}
+			"nob": {"common": "Moldova"},
+			"swe": {"common": "Moldavien"}
 		},
 		"latlng": [47, 29],
 		"demonym": "Moldovan",
@@ -6802,7 +6942,8 @@
 			"spa": {"official": "Rep\u00fablica de Madagascar", "common": "Madagascar"},
 			"fin": {"official": "Madagaskarin tasavalta", "common": "Madagaskar"},
 			"dan": {"common": "Madagaskar"},
-			"nob": {"common": "Madagaskar"}
+			"nob": {"common": "Madagaskar"},
+			"swe": {"common": "Madagaskar"}
 		},
 		"latlng": [-20, 47],
 		"demonym": "Malagasy",
@@ -6847,7 +6988,8 @@
 			"spa": {"official": "Rep\u00fablica de las Maldivas", "common": "Maldivas"},
 			"fin": {"official": "Malediivien tasavalta", "common": "Malediivit"},
 			"dan": {"common": "Maldiverne"},
-			"nob": {"common": "Maldivene"}
+			"nob": {"common": "Maldivene"},
+			"swe": {"common": "Maldiverna"}
 		},
 		"latlng": [3.25, 73],
 		"demonym": "Maldivan",
@@ -6892,7 +7034,8 @@
 			"spa": {"official": "Estados Unidos Mexicanos", "common": "M\u00e9xico"},
 			"fin": {"official": "Meksikon yhdysvallat", "common": "Meksiko"},
 			"dan": {"common": "Mexico"},
-			"nob": {"common": "Mexico"}
+			"nob": {"common": "Mexico"},
+			"swe": {"common": "Mexiko"}
 		},
 		"latlng": [23, -102],
 		"demonym": "Mexican",
@@ -6942,7 +7085,8 @@
 			"spa": {"official": "Rep\u00fablica de las Islas Marshall", "common": "Islas Marshall"},
 			"fin": {"official": "Marshallinsaarten tasavalta", "common": "Marshallinsaaret"},
 			"dan": {"common": "Marshall\u00f8erne"},
-			"nob": {"common": "Marshall\u00f8yene"}
+			"nob": {"common": "Marshall\u00f8yene"},
+			"swe": {"common": "Marshall\u00f6arna"}
 		},
 		"latlng": [9, 168],
 		"demonym": "Marshallese",
@@ -6987,7 +7131,8 @@
 			"spa": {"official": "Rep\u00fablica de Macedonia", "common": "Macedonia"},
 			"fin": {"official": "Makedonian tasavalta", "common": "Makedonia"},
 			"dan": {"common": "Makedonien"},
-			"nob": {"common": "Republikken Makedonia"}
+			"nob": {"common": "Republikken Makedonia"},
+			"swe": {"common": "Makedonien"}
 		},
 		"latlng": [41.83333333, 22],
 		"demonym": "Macedonian",
@@ -7032,7 +7177,8 @@
 			"spa": {"official": "Rep\u00fablica de Mal\u00ed", "common": "Mali"},
 			"fin": {"official": "Malin tasavalta", "common": "Mali"},
 			"dan": {"common": "Mali"},
-			"nob": {"common": "Mali"}
+			"nob": {"common": "Mali"},
+			"swe": {"common": "Mali"}
 		},
 		"latlng": [17, -4],
 		"demonym": "Malian",
@@ -7082,7 +7228,8 @@
 			"spa": {"official": "Rep\u00fablica de Malta", "common": "Malta"},
 			"fin": {"official": "Maltan tasavalta", "common": "Malta"},
 			"dan": {"common": "Malta"},
-			"nob": {"common": "Malta"}
+			"nob": {"common": "Malta"},
+			"swe": {"common": "Malta"}
 		},
 		"latlng": [35.83333333, 14.58333333],
 		"demonym": "Maltese",
@@ -7127,7 +7274,8 @@
 			"spa": {"official": "Rep\u00fablica de la Uni\u00f3n de Myanmar", "common": "Myanmar"},
 			"fin": {"official": "Myanmarin liiton tasavalta", "common": "Myanmar"},
 			"dan": {"common": "Burma"},
-			"nob": {"common": "Myanmar"}
+			"nob": {"common": "Myanmar"},
+			"swe": {"common": "Burma"}
 		},
 		"latlng": [22, 98],
 		"demonym": "Bamar",
@@ -7172,7 +7320,8 @@
 			"spa": {"official": "Montenegro", "common": "Montenegro"},
 			"fin": {"official": "Montenegro", "common": "Montenegro"},
 			"dan": {"common": "Montenegro"},
-			"nob": {"common": "Montenegro"}
+			"nob": {"common": "Montenegro"},
+			"swe": {"common": "Montenegro"}
 		},
 		"latlng": [42.5, 19.3],
 		"demonym": "Montenegrin",
@@ -7217,7 +7366,8 @@
 			"spa": {"official": "Mongolia", "common": "Mongolia"},
 			"fin": {"official": "Mongolian tasavalta", "common": "Mongolia"},
 			"dan": {"common": "Mongoliet"},
-			"nob": {"common": "Mongolia"}
+			"nob": {"common": "Mongolia"},
+			"swe": {"common": "Mongoliet"}
 		},
 		"latlng": [46, 105],
 		"demonym": "Mongolian",
@@ -7272,7 +7422,8 @@
 			"spa": {"official": "Mancomunidad de las Islas Marianas del Norte", "common": "Islas Marianas del Norte"},
 			"fin": {"official": "Pohjois-Mariaanit", "common": "Pohjois-Mariaanit"},
 			"dan": {"common": "Nordmarianerne"},
-			"nob": {"common": "Nord-Marianene"}
+			"nob": {"common": "Nord-Marianene"},
+			"swe": {"common": "Nordmarianerna"}
 		},
 		"latlng": [15.2, 145.75],
 		"demonym": "American",
@@ -7317,7 +7468,8 @@
 			"spa": {"official": "Rep\u00fablica de Mozambique", "common": "Mozambique"},
 			"fin": {"official": "Mosambikin tasavalta", "common": "Mosambik"},
 			"dan": {"common": "Mozambique"},
-			"nob": {"common": "Mosambik"}
+			"nob": {"common": "Mosambik"},
+			"swe": {"common": "Mo\u00e7ambique"}
 		},
 		"latlng": [-18.25, 35],
 		"demonym": "Mozambican",
@@ -7362,7 +7514,8 @@
 			"spa": {"official": "Rep\u00fablica Isl\u00e1mica de Mauritania", "common": "Mauritania"},
 			"fin": {"official": "Mauritanian islamilainen tasavalta", "common": "Mauritania"},
 			"dan": {"common": "Mauretanien"},
-			"nob": {"common": "Mauritania"}
+			"nob": {"common": "Mauritania"},
+			"swe": {"common": "Mauretanien"}
 		},
 		"latlng": [20, -12],
 		"demonym": "Mauritanian",
@@ -7407,7 +7560,8 @@
 			"spa": {"official": "Montserrat", "common": "Montserrat"},
 			"fin": {"official": "Montserrat", "common": "Montserrat"},
 			"dan": {"common": "Montserrat"},
-			"nob": {"common": "Montserrat"}
+			"nob": {"common": "Montserrat"},
+			"swe": {"common": "Montserrat"}
 		},
 		"latlng": [16.75, -62.2],
 		"demonym": "Montserratian",
@@ -7452,7 +7606,8 @@
 			"spa": {"official": "Martinica", "common": "Martinica"},
 			"fin": {"official": "Martinique", "common": "Martinique"},
 			"dan": {"common": "Martinique"},
-			"nob": {"common": "Martinique"}
+			"nob": {"common": "Martinique"},
+			"swe": {"common": "Martinique"}
 		},
 		"latlng": [14.666667, -61],
 		"demonym": "French",
@@ -7507,7 +7662,8 @@
 			"spa": {"official": "Rep\u00fablica de Mauricio", "common": "Mauricio"},
 			"fin": {"official": "Mauritiuksen tasavalta", "common": "Mauritius"},
 			"dan": {"common": "Mauritius"},
-			"nob": {"common": "Mauritius"}
+			"nob": {"common": "Mauritius"},
+			"swe": {"common": "Mauritius"}
 		},
 		"latlng": [-20.28333333, 57.55],
 		"demonym": "Mauritian",
@@ -7557,7 +7713,8 @@
 			"spa": {"official": "Rep\u00fablica de Malawi", "common": "Malawi"},
 			"fin": {"official": "Malawin tasavalta", "common": "Malawi"},
 			"dan": {"common": "Malawi"},
-			"nob": {"common": "Malawi"}
+			"nob": {"common": "Malawi"},
+			"swe": {"common": "Malawi"}
 		},
 		"latlng": [-13.5, 34],
 		"demonym": "Malawian",
@@ -7607,7 +7764,8 @@
 			"spa": {"official": "Malasia", "common": "Malasia"},
 			"fin": {"official": "Malesia", "common": "Malesia"},
 			"dan": {"common": "Malaysia"},
-			"nob": {"common": "Malaysia"}
+			"nob": {"common": "Malaysia"},
+			"swe": {"common": "Malaysia"}
 		},
 		"latlng": [2.5, 112.5],
 		"demonym": "Malaysian",
@@ -7652,7 +7810,8 @@
 			"spa": {"official": "Departamento de Mayotte", "common": "Mayotte"},
 			"fin": {"official": "Mayotte", "common": "Mayotte"},
 			"dan": {"common": "Mayotte"},
-			"nob": {"common": "Mayotte"}
+			"nob": {"common": "Mayotte"},
+			"swe": {"common": "Mayotte"}
 		},
 		"latlng": [-12.83333333, 45.16666666],
 		"demonym": "Mahoran",
@@ -7737,7 +7896,8 @@
 			"spa": {"official": "Rep\u00fablica de Namibia", "common": "Namibia"},
 			"fin": {"official": "Namibian tasavalta", "common": "Namibia"},
 			"dan": {"common": "Namibia"},
-			"nob": {"common": "Namibia"}
+			"nob": {"common": "Namibia"},
+			"swe": {"common": "Namibia"}
 		},
 		"latlng": [-22, 17],
 		"demonym": "Namibian",
@@ -7782,7 +7942,8 @@
 			"spa": {"official": "nueva Caledonia", "common": "Nueva Caledonia"},
 			"fin": {"official": "Uusi-Kaledonia", "common": "Uusi-Kaledonia"},
 			"dan": {"common": "Ny Kaledonien"},
-			"nob": {"common": "Ny-Caledonia"}
+			"nob": {"common": "Ny-Caledonia"},
+			"swe": {"common": "Nya Kaledonien"}
 		},
 		"latlng": [-21.5, 165.5],
 		"demonym": "New Caledonian",
@@ -7827,7 +7988,8 @@
 			"spa": {"official": "Rep\u00fablica de N\u00edger", "common": "N\u00edger"},
 			"fin": {"official": "Nigerin tasavalta", "common": "Niger"},
 			"dan": {"common": "Niger"},
-			"nob": {"common": "Niger"}
+			"nob": {"common": "Niger"},
+			"swe": {"common": "Niger"}
 		},
 		"latlng": [16, 8],
 		"demonym": "Nigerien",
@@ -7877,7 +8039,8 @@
 			"spa": {"official": "Territorio de la Isla Norfolk", "common": "Isla de Norfolk"},
 			"fin": {"official": "Norfolkinsaaren territorio", "common": "Norfolkinsaari"},
 			"dan": {"common": "Norfolk Island"},
-			"nob": {"common": "Norfolk\u00f8ya"}
+			"nob": {"common": "Norfolk\u00f8ya"},
+			"swe": {"common": "Norfolk\u00f6n"}
 		},
 		"latlng": [-29.03333333, 167.95],
 		"demonym": "Norfolk Islander",
@@ -7922,7 +8085,8 @@
 			"spa": {"official": "Rep\u00fablica Federal de Nigeria", "common": "Nigeria"},
 			"fin": {"official": "Nigerian liittotasavalta", "common": "Nigeria"},
 			"dan": {"common": "Nigeria"},
-			"nob": {"common": "Nigeria"}
+			"nob": {"common": "Nigeria"},
+			"swe": {"common": "Nigeria"}
 		},
 		"latlng": [10, 8],
 		"demonym": "Nigerian",
@@ -7967,7 +8131,8 @@
 			"spa": {"official": "Rep\u00fablica de Nicaragua", "common": "Nicaragua"},
 			"fin": {"official": "Nicaraguan tasavalta", "common": "Nicaragua"},
 			"dan": {"common": "Nicaragua"},
-			"nob": {"common": "Nicaragua"}
+			"nob": {"common": "Nicaragua"},
+			"swe": {"common": "Nicaragua"}
 		},
 		"latlng": [13, -85],
 		"demonym": "Nicaraguan",
@@ -8017,7 +8182,8 @@
 			"spa": {"official": "Niue", "common": "Niue"},
 			"fin": {"official": "Niue", "common": "Niue"},
 			"dan": {"common": "Niue"},
-			"nob": {"common": "Niue"}
+			"nob": {"common": "Niue"},
+			"swe": {"common": "Niue"}
 		},
 		"latlng": [-19.03333333, -169.86666666],
 		"demonym": "Niuean",
@@ -8062,7 +8228,8 @@
 			"spa": {"official": "Pa\u00edses Bajos", "common": "Pa\u00edses Bajos"},
 			"fin": {"official": "Alankomaat", "common": "Alankomaat"},
 			"dan": {"common": "Holland"},
-			"nob": {"common": "Nederland"}
+			"nob": {"common": "Nederland"},
+			"swe": {"common": "Nederl\u00e4nderna"}
 		},
 		"latlng": [52.5, 5.75],
 		"demonym": "Dutch",
@@ -8117,7 +8284,8 @@
 			"spa": {"official": "Reino de Noruega", "common": "Noruega"},
 			"fin": {"official": "Norjan kuningaskunta", "common": "Norja"},
 			"dan": {"common": "Norge"},
-			"nob": {"common": "Norge"}
+			"nob": {"common": "Norge"},
+			"swe": {"common": "Norge"}
 		},
 		"latlng": [62, 10],
 		"demonym": "Norwegian",
@@ -8162,7 +8330,8 @@
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica Federal de Nepal", "common": "Nepal"},
 			"fin": {"official": "Nepalin demokraattinen liittotasavalta", "common": "Nepal"},
 			"dan": {"common": "Nepal"},
-			"nob": {"common": "Nepal"}
+			"nob": {"common": "Nepal"},
+			"swe": {"common": "Nepal"}
 		},
 		"latlng": [28, 84],
 		"demonym": "Nepalese",
@@ -8212,7 +8381,8 @@
 			"spa": {"official": "Rep\u00fablica de Nauru", "common": "Nauru"},
 			"fin": {"official": "Naurun tasavalta", "common": "Nauru"},
 			"dan": {"common": "Nauru"},
-			"nob": {"common": "Nauru"}
+			"nob": {"common": "Nauru"},
+			"swe": {"common": "Nauru"}
 		},
 		"latlng": [-0.53333333, 166.91666666],
 		"demonym": "Nauruan",
@@ -8267,7 +8437,8 @@
 			"spa": {"official": "nueva Zelanda", "common": "Nueva Zelanda"},
 			"fin": {"official": "Uusi-Seelanti", "common": "Uusi-Seelanti"},
 			"dan": {"common": "New Zealand"},
-			"nob": {"common": "New Zealand"}
+			"nob": {"common": "New Zealand"},
+			"swe": {"common": "Nya Zeeland"}
 		},
 		"latlng": [-41, 174],
 		"demonym": "New Zealander",
@@ -8312,7 +8483,8 @@
 			"spa": {"official": "Sultanato de Om\u00e1n", "common": "Om\u00e1n"},
 			"fin": {"official": "Omanin sulttaanikunta", "common": "Oman"},
 			"dan": {"common": "Oman"},
-			"nob": {"common": "Oman"}
+			"nob": {"common": "Oman"},
+			"swe": {"common": "Oman"}
 		},
 		"latlng": [21, 57],
 		"demonym": "Omani",
@@ -8362,7 +8534,8 @@
 			"spa": {"official": "Rep\u00fablica Isl\u00e1mica de Pakist\u00e1n", "common": "Pakist\u00e1n"},
 			"fin": {"official": "Pakistanin islamilainen tasavalta", "common": "Pakistan"},
 			"dan": {"common": "Pakistan"},
-			"nob": {"common": "Pakistan"}
+			"nob": {"common": "Pakistan"},
+			"swe": {"common": "Pakistan"}
 		},
 		"latlng": [30, 70],
 		"demonym": "Pakistani",
@@ -8407,7 +8580,8 @@
 			"spa": {"official": "Rep\u00fablica de Panam\u00e1", "common": "Panam\u00e1"},
 			"fin": {"official": "Panaman tasavalta", "common": "Panama"},
 			"dan": {"common": "Panama"},
-			"nob": {"common": "Panama"}
+			"nob": {"common": "Panama"},
+			"swe": {"common": "Panama"}
 		},
 		"latlng": [9, -80],
 		"demonym": "Panamanian",
@@ -8452,7 +8626,8 @@
 			"spa": {"official": "Grupo de Islas Pitcairn", "common": "Islas Pitcairn"},
 			"fin": {"official": "Pitcairn", "common": "Pitcairn"},
 			"dan": {"common": "Pitcairn"},
-			"nob": {"common": "Pitcairn\u00f8yene"}
+			"nob": {"common": "Pitcairn\u00f8yene"},
+			"swe": {"common": "Pitcairn\u00f6arna"}
 		},
 		"latlng": [-25.06666666, -130.1],
 		"demonym": "Pitcairn Islander",
@@ -8507,7 +8682,8 @@
 			"spa": {"official": "Rep\u00fablica de Per\u00fa", "common": "Per\u00fa"},
 			"fin": {"official": "Perun tasavalta", "common": "Peru"},
 			"dan": {"common": "Peru"},
-			"nob": {"common": "Peru"}
+			"nob": {"common": "Peru"},
+			"swe": {"common": "Peru"}
 		},
 		"latlng": [-10, -76],
 		"demonym": "Peruvian",
@@ -8557,7 +8733,8 @@
 			"spa": {"official": "Rep\u00fablica de las Filipinas", "common": "Filipinas"},
 			"fin": {"official": "Filippiinien tasavalta", "common": "Filippiinit"},
 			"dan": {"common": "Filippinerne"},
-			"nob": {"common": "Filippinene"}
+			"nob": {"common": "Filippinene"},
+			"swe": {"common": "Filippinerna"}
 		},
 		"latlng": [13, 122],
 		"demonym": "Filipino",
@@ -8607,7 +8784,8 @@
 			"spa": {"official": "Rep\u00fablica de Palau", "common": "Palau"},
 			"fin": {"official": "Palaun tasavalta", "common": "Palau"},
 			"dan": {"common": "Palau"},
-			"nob": {"common": "Palau"}
+			"nob": {"common": "Palau"},
+			"swe": {"common": "Palau"}
 		},
 		"latlng": [7.5, 134.5],
 		"demonym": "Palauan",
@@ -8662,7 +8840,8 @@
 			"spa": {"official": "Estado Independiente de Pap\u00faa Nueva Guinea", "common": "Pap\u00faa Nueva Guinea"},
 			"fin": {"official": "Papua-Uuden-Guinean Itsen\u00e4inen valtio", "common": "Papua-Uusi-Guinea"},
 			"dan": {"common": "Papua Ny Guinea"},
-			"nob": {"common": "Papua Ny-Guinea"}
+			"nob": {"common": "Papua Ny-Guinea"},
+			"swe": {"common": "Papua Nya Guinea"}
 		},
 		"latlng": [-6, 147],
 		"demonym": "Papua New Guinean",
@@ -8707,7 +8886,8 @@
 			"spa": {"official": "Rep\u00fablica de Polonia", "common": "Polonia"},
 			"fin": {"official": "Puolan tasavalta", "common": "Puola"},
 			"dan": {"common": "Polen"},
-			"nob": {"common": "Polen"}
+			"nob": {"common": "Polen"},
+			"swe": {"common": "Polen"}
 		},
 		"latlng": [52, 20],
 		"demonym": "Polish",
@@ -8757,7 +8937,8 @@
 			"spa": {"official": "Asociado de Puerto Rico", "common": "Puerto Rico"},
 			"fin": {"official": "Puerto Rico", "common": "Puerto Rico"},
 			"dan": {"common": "Puerto Rico"},
-			"nob": {"common": "Puerto Rico"}
+			"nob": {"common": "Puerto Rico"},
+			"swe": {"common": "Puerto Rico"}
 		},
 		"latlng": [18.25, -66.5],
 		"demonym": "Puerto Rican",
@@ -8802,7 +8983,8 @@
 			"spa": {"official": "Rep\u00fablica Popular Democr\u00e1tica de Corea", "common": "Corea del Norte"},
 			"fin": {"official": "Korean demokraattinen kansantasavalta", "common": "Pohjois-Korea"},
 			"dan": {"common": "Nordkorea"},
-			"nob": {"common": "Nord-Korea"}
+			"nob": {"common": "Nord-Korea"},
+			"swe": {"common": "Nordkorea"}
 		},
 		"latlng": [40, 127],
 		"demonym": "North Korean",
@@ -8847,7 +9029,8 @@
 			"spa": {"official": "Rep\u00fablica Portuguesa", "common": "Portugal"},
 			"fin": {"official": "Portugalin tasavalta", "common": "Portugali"},
 			"dan": {"common": "Portugal"},
-			"nob": {"common": "Portugal"}
+			"nob": {"common": "Portugal"},
+			"swe": {"common": "Portugal"}
 		},
 		"latlng": [39.5, -8],
 		"demonym": "Portuguese",
@@ -8897,7 +9080,8 @@
 			"spa": {"official": "Rep\u00fablica de Paraguay", "common": "Paraguay"},
 			"fin": {"official": "Paraguayn tasavalta", "common": "Paraguay"},
 			"dan": {"common": "Paraguay"},
-			"nob": {"common": "Paraguay"}
+			"nob": {"common": "Paraguay"},
+			"swe": {"common": "Paraguay"}
 		},
 		"latlng": [-23, -58],
 		"demonym": "Paraguayan",
@@ -8942,7 +9126,8 @@
 			"spa": {"official": "Estado de Palestina", "common": "Palestina"},
 			"fin": {"official": "Palestiinan valtio", "common": "Palestiina"},
 			"dan": {"common": "Pal\u00e6stina"},
-			"nob": {"common": "Palestina"}
+			"nob": {"common": "Palestina"},
+			"swe": {"common": "Palestina"}
 		},
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
@@ -8987,7 +9172,8 @@
 			"spa": {"official": "Polinesia franc\u00e9s", "common": "Polinesia Francesa"},
 			"fin": {"official": "Ranskan Polynesia", "common": "Ranskan Polynesia"},
 			"dan": {"common": "Fransk Polynesien"},
-			"nob": {"common": "Fransk Polynesia"}
+			"nob": {"common": "Fransk Polynesia"},
+			"swe": {"common": "Franska Polynesien"}
 		},
 		"latlng": [-15, -140],
 		"demonym": "French Polynesian",
@@ -9032,7 +9218,8 @@
 			"spa": {"official": "Estado de Qatar", "common": "Catar"},
 			"fin": {"official": "Qatarin valtio", "common": "Qatar"},
 			"dan": {"common": "Qatar"},
-			"nob": {"common": "Qatar"}
+			"nob": {"common": "Qatar"},
+			"swe": {"common": "Qatar"}
 		},
 		"latlng": [25.5, 51.25],
 		"demonym": "Qatari",
@@ -9077,7 +9264,8 @@
 			"spa": {"official": "Isla de la Reuni\u00f3n", "common": "Reuni\u00f3n"},
 			"fin": {"official": "R\u00e9union", "common": "R\u00e9union"},
 			"dan": {"common": "R\u00e9union"},
-			"nob": {"common": "R\u00e9union"}
+			"nob": {"common": "R\u00e9union"},
+			"swe": {"common": "R\u00e9union"}
 		},
 		"latlng": [-21.15, 55.5],
 		"demonym": "French",
@@ -9122,7 +9310,8 @@
 			"spa": {"official": "Rumania", "common": "Rumania"},
 			"fin": {"official": "Romania", "common": "Romania"},
 			"dan": {"common": "Rum\u00e6nien"},
-			"nob": {"common": "Romania"}
+			"nob": {"common": "Romania"},
+			"swe": {"common": "Rum\u00e4nien"}
 		},
 		"latlng": [46, 25],
 		"demonym": "Romanian",
@@ -9167,7 +9356,8 @@
 			"spa": {"official": "Federaci\u00f3n de Rusia", "common": "Rusia"},
 			"fin": {"official": "Ven\u00e4j\u00e4n federaatio", "common": "Ven\u00e4j\u00e4"},
 			"dan": {"common": "Rusland"},
-			"nob": {"common": "Russland"}
+			"nob": {"common": "Russland"},
+			"swe": {"common": "Ryssland"}
 		},
 		"latlng": [60, 100],
 		"demonym": "Russian",
@@ -9222,7 +9412,8 @@
 			"spa": {"official": "Rep\u00fablica de Rwanda", "common": "Ruanda"},
 			"fin": {"official": "Ruandan tasavalta", "common": "Ruanda"},
 			"dan": {"common": "Rwanda"},
-			"nob": {"common": "Rwanda"}
+			"nob": {"common": "Rwanda"},
+			"swe": {"common": "Rwanda"}
 		},
 		"latlng": [-2, 30],
 		"demonym": "Rwandan",
@@ -9267,7 +9458,8 @@
 			"spa": {"official": "Reino de Arabia Saudita", "common": "Arabia Saud\u00ed"},
 			"fin": {"official": "Saudi-Arabian kuningaskunta", "common": "Saudi-Arabia"},
 			"dan": {"common": "Saudi-Arabien"},
-			"nob": {"common": "Saudi-Arabia"}
+			"nob": {"common": "Saudi-Arabia"},
+			"swe": {"common": "Saudiarabien"}
 		},
 		"latlng": [25, 45],
 		"demonym": "Saudi Arabian",
@@ -9317,7 +9509,8 @@
 			"spa": {"official": "Rep\u00fablica de Sud\u00e1n", "common": "Sud\u00e1n"},
 			"fin": {"official": "Sudanin tasavalta", "common": "Sudan"},
 			"dan": {"common": "Sudan"},
-			"nob": {"common": "Sudan"}
+			"nob": {"common": "Sudan"},
+			"swe": {"common": "Sudan"}
 		},
 		"latlng": [15, 30],
 		"demonym": "Sudanese",
@@ -9362,7 +9555,8 @@
 			"spa": {"official": "Rep\u00fablica de Senegal", "common": "Senegal"},
 			"fin": {"official": "Senegalin tasavalta", "common": "Senegal"},
 			"dan": {"common": "Senegal"},
-			"nob": {"common": "Senegal"}
+			"nob": {"common": "Senegal"},
+			"swe": {"common": "Senegal"}
 		},
 		"latlng": [14, -14],
 		"demonym": "Senegalese",
@@ -9422,7 +9616,8 @@
 			"spa": {"official": "Rep\u00fablica de Singapur", "common": "Singapur"},
 			"fin": {"official": "Singaporen tasavalta", "common": "Singapore"},
 			"dan": {"common": "Singapore"},
-			"nob": {"common": "Singapore"}
+			"nob": {"common": "Singapore"},
+			"swe": {"common": "Singapore"}
 		},
 		"latlng": [1.36666666, 103.8],
 		"demonym": "Singaporean",
@@ -9467,7 +9662,8 @@
 			"spa": {"official": "Georgia del Sur y las Islas Sandwich del Sur", "common": "Islas Georgias del Sur y Sandwich del Sur"},
 			"fin": {"official": "Etel\u00e4-Georgia ja Etel\u00e4iset Sandwichsaaret", "common": "Etel\u00e4-Georgia ja Etel\u00e4iset Sandwichsaaret"},
 			"dan": {"common": "South Georgia og South Sandwich Islands"},
-			"nob": {"common": "S\u00f8r-Georgia og S\u00f8r-Sandwich\u00f8yene"}
+			"nob": {"common": "S\u00f8r-Georgia og S\u00f8r-Sandwich\u00f8yene"},
+			"swe": {"common": "Sydgeorgien"}
 		},
 		"latlng": [-54.5, -37],
 		"demonym": "South Georgian South Sandwich Islander",
@@ -9512,7 +9708,8 @@
 			"spa": {"official": "Svalbard og Jan Mayen", "common": "Islas Svalbard y Jan Mayen"},
 			"fin": {"official": "Huippuvuoret", "common": "Huippuvuoret"},
 			"dan": {"common": "Norge"},
-			"nob": {"common": "Svalbard og Jan Mayen"}
+			"nob": {"common": "Svalbard og Jan Mayen"},
+			"swe": {"common": "Jan Mayen"}
 		},
 		"latlng": [78, 20],
 		"demonym": "Norwegian",
@@ -9557,7 +9754,8 @@
 			"spa": {"official": "islas Salom\u00f3n", "common": "Islas Salom\u00f3n"},
 			"fin": {"official": "Salomonsaaret", "common": "Salomonsaaret"},
 			"dan": {"common": "Salomon\u00f8erne"},
-			"nob": {"common": "Salomon\u00f8yene"}
+			"nob": {"common": "Salomon\u00f8yene"},
+			"swe": {"common": "Salomon\u00f6arna"}
 		},
 		"latlng": [-8, 159],
 		"demonym": "Solomon Islander",
@@ -9602,7 +9800,8 @@
 			"spa": {"official": "Rep\u00fablica de Sierra Leona", "common": "Sierra Leone"},
 			"fin": {"official": "Sierra Leonen tasavalta", "common": "Sierra Leone"},
 			"dan": {"common": "Sierra Leone"},
-			"nob": {"common": "Sierra Leone"}
+			"nob": {"common": "Sierra Leone"},
+			"swe": {"common": "Sierra Leone"}
 		},
 		"latlng": [8.5, -11.5],
 		"demonym": "Sierra Leonean",
@@ -9648,7 +9847,8 @@
 			"spa": {"official": "Rep\u00fablica de El Salvador", "common": "El Salvador"},
 			"fin": {"official": "El Salvadorin tasavalta", "common": "El Salvador"},
 			"dan": {"common": "El Salvador"},
-			"nob": {"common": "El Salvador"}
+			"nob": {"common": "El Salvador"},
+			"swe": {"common": "El Salvador"}
 		},
 		"latlng": [13.83333333, -88.91666666],
 		"demonym": "Salvadoran",
@@ -9693,7 +9893,8 @@
 			"spa": {"official": "Seren\u00edsima Rep\u00fablica de San Marino", "common": "San Marino"},
 			"fin": {"official": "San Marinon seesteinen tasavalta", "common": "San Marino"},
 			"dan": {"common": "San Marino"},
-			"nob": {"common": "San Marino"}
+			"nob": {"common": "San Marino"},
+			"swe": {"common": "San Marino"}
 		},
 		"latlng": [43.76666666, 12.41666666],
 		"demonym": "Sammarinese",
@@ -9743,7 +9944,8 @@
 			"spa": {"official": "Rep\u00fablica Federal de Somalia", "common": "Somalia"},
 			"fin": {"official": "Somalian liittotasavalta", "common": "Somalia"},
 			"dan": {"common": "Somalia"},
-			"nob": {"common": "Somalia"}
+			"nob": {"common": "Somalia"},
+			"swe": {"common": "Somalia"}
 		},
 		"latlng": [10, 49],
 		"demonym": "Somali",
@@ -9788,7 +9990,8 @@
 			"spa": {"official": "San Pedro y Miquel\u00f3n", "common": "San Pedro y Miquel\u00f3n"},
 			"fin": {"official": "Saint-Pierre ja Miquelon", "common": "Saint-Pierre ja Miquelon"},
 			"dan": {"common": "Saint-Pierre og Miquelon"},
-			"nob": {"common": "Saint-Pierre og Miquelon"}
+			"nob": {"common": "Saint-Pierre og Miquelon"},
+			"swe": {"common": "Saint-Pierre och Miquelon"}
 		},
 		"latlng": [46.83333333, -56.33333333],
 		"demonym": "French",
@@ -9833,7 +10036,8 @@
 			"spa": {"official": "Rep\u00fablica de Serbia", "common": "Serbia"},
 			"fin": {"official": "Serbian tasavalta", "common": "Serbia"},
 			"dan": {"common": "Serbien"},
-			"nob": {"common": "Serbia"}
+			"nob": {"common": "Serbia"},
+			"swe": {"common": "Serbien"}
 		},
 		"latlng": [44, 21],
 		"demonym": "Serbian",
@@ -9878,7 +10082,8 @@
 			"spa": {"official": "Rep\u00fablica de Sud\u00e1n del Sur", "common": "Sud\u00e1n del Sur"},
 			"fin": {"official": "Etel\u00e4-Sudanin tasavalta", "common": "Etel\u00e4-Sudan"},
 			"dan": {"common": "Sydsudan"},
-			"nob": {"common": "S\u00f8r-Sudan"}
+			"nob": {"common": "S\u00f8r-Sudan"},
+			"dan": {"common": "Sydsudan"}
 		},
 		"latlng": [7, 30],
 		"demonym": "South Sudanese",
@@ -9923,7 +10128,8 @@
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica de Santo Tom\u00e9 y Pr\u00edncipe", "common": "Santo Tom\u00e9 y Pr\u00edncipe"},
 			"fin": {"official": "S\u00e3o Tom\u00e9 ja Pr\u00edncipen demokraattinen tasavalta", "common": "S\u00e3o T\u00e9me ja Pr\u00edncipe"},
 			"dan": {"common": "S\u00e3o Tom\u00e9 og Pr\u00edncipe"},
-			"nob": {"common": "S\u00e3o Tom\u00e9 og Pr\u00edncipe"}
+			"nob": {"common": "S\u00e3o Tom\u00e9 og Pr\u00edncipe"},
+			"swe": {"common": "S\u00e3o Tom\u00e9 och Pr\u00edncipe"}
 		},
 		"latlng": [1, 7],
 		"demonym": "Sao Tomean",
@@ -9968,7 +10174,8 @@
 			"spa": {"official": "Rep\u00fablica de Suriname", "common": "Surinam"},
 			"fin": {"official": "Surinamen tasavalta", "common": "Suriname"},
 			"dan": {"common": "Surinam"},
-			"nob": {"common": "Surinam"}
+			"nob": {"common": "Surinam"},
+			"swe": {"common": "Surinam"}
 		},
 		"latlng": [4, -56],
 		"demonym": "Surinamer",
@@ -10013,7 +10220,8 @@
 			"spa": {"official": "Rep\u00fablica Eslovaca", "common": "Rep\u00fablica Eslovaca"},
 			"fin": {"official": "Slovakian tasavalta", "common": "Slovakia"},
 			"dan": {"common": "Slovakiet"},
-			"nob": {"common": "Slovakia"}
+			"nob": {"common": "Slovakia"},
+			"swe": {"common": "Slovakien"}
 		},
 		"latlng": [48.66666666, 19.5],
 		"demonym": "Slovak",
@@ -10058,7 +10266,8 @@
 			"spa": {"official": "Rep\u00fablica de Eslovenia", "common": "Eslovenia"},
 			"fin": {"official": "Slovenian tasavalta", "common": "Slovenia"},
 			"dan": {"common": "Slovenien"},
-			"nob": {"common": "Slovenia"}
+			"nob": {"common": "Slovenia"},
+			"swe": {"common": "Slovenien"}
 		},
 		"latlng": [46.11666666, 14.81666666],
 		"demonym": "Slovene",
@@ -10103,7 +10312,8 @@
 			"spa": {"official": "Reino de Suecia", "common": "Suecia"},
 			"fin": {"official": "Ruotsin kuningaskunta", "common": "Ruotsi"},
 			"dan": {"common": "Sverige"},
-			"nob": {"common": "Sverige"}
+			"nob": {"common": "Sverige"},
+			"swe": {"common": "Sverige"}
 		},
 		"latlng": [62, 15],
 		"demonym": "Swedish",
@@ -10153,7 +10363,8 @@
 			"spa": {"official": "Reino de Swazilandia", "common": "Suazilandia"},
 			"fin": {"official": "Swazimaan kuningaskunta", "common": "Swazimaa"},
 			"dan": {"common": "Swaziland"},
-			"nob": {"common": "Swaziland"}
+			"nob": {"common": "Swaziland"},
+			"swe": {"common": "Swaziland"}
 		},
 		"latlng": [-26.5, 31.5],
 		"demonym": "Swazi",
@@ -10207,7 +10418,8 @@
 			"spa": {"official": "Sint Maarten", "common": "Sint Maarten"},
 			"fin": {"official": "Sint Maarten", "common": "Sint Maarten"},
 			"dan": {"common": "Sint Maarten"},
-			"nob": {"common": "Sint Maarten"}
+			"nob": {"common": "Sint Maarten"},
+			"swe": {"common": "Sint Maarten"}
 		},
 		"latlng": [18.033333, -63.05],
 		"demonym": "St. Maartener",
@@ -10262,7 +10474,8 @@
 			"spa": {"official": "Rep\u00fablica de las Seychelles", "common": "Seychelles"},
 			"fin": {"official": "Seychellien tasavalta", "common": "Seychellit"},
 			"dan": {"common": "Seychellerne"},
-			"nob": {"common": "Seychellene"}
+			"nob": {"common": "Seychellene"},
+			"swe": {"common": "Seychellerna"}
 		},
 		"latlng": [-4.58333333, 55.66666666],
 		"demonym": "Seychellois",
@@ -10307,7 +10520,8 @@
 			"spa": {"official": "Rep\u00fablica \u00c1rabe Siria", "common": "Siria"},
 			"fin": {"official": "Syyrian arabitasavalta", "common": "Syyria"},
 			"dan": {"common": "Syrien"},
-			"nob": {"common": "Syria"}
+			"nob": {"common": "Syria"},
+			"swe": {"common": "Syrien"}
 		},
 		"latlng": [35, 38],
 		"demonym": "Syrian",
@@ -10352,7 +10566,8 @@
 			"spa": {"official": "Islas Turcas y Caicos", "common": "Islas Turks y Caicos"},
 			"fin": {"official": "Turks-ja Caicossaaret", "common": "Turks-ja Caicossaaret"},
 			"dan": {"common": "Turks- og Caicos\u00f8erne"},
-			"nob": {"common": "Turks- og Caicos\u00f8yene"}
+			"nob": {"common": "Turks- og Caicos\u00f8yene"},
+			"swe": {"common": "Turks- och Caicos\u00f6arna"}
 		},
 		"latlng": [21.75, -71.58333333],
 		"demonym": "Turks and Caicos Islander",
@@ -10403,7 +10618,8 @@
 			"spa": {"official": "Rep\u00fablica de Chad", "common": "Chad"},
 			"fin": {"official": "T\u0161adin tasavalta", "common": "T\u0161ad"},
 			"dan": {"common": "Tchad"},
-			"nob": {"common": "Tsjad"}
+			"nob": {"common": "Tsjad"},
+			"swe": {"common": "Tchad"}
 		},
 		"latlng": [15, 19],
 		"demonym": "Chadian",
@@ -10448,7 +10664,8 @@
 			"spa": {"official": "Rep\u00fablica de Togo", "common": "Togo"},
 			"fin": {"official": "Togon tasavalta", "common": "Togo"},
 			"dan": {"common": "Togo"},
-			"nob": {"common": "Togo"}
+			"nob": {"common": "Togo"},
+			"swe": {"common": "Togo"}
 		},
 		"latlng": [8, 1.16666666],
 		"demonym": "Togolese",
@@ -10493,7 +10710,8 @@
 			"spa": {"official": "Reino de Tailandia", "common": "Tailandia"},
 			"fin": {"official": "Thaimaan kuningaskunta", "common": "Thaimaa"},
 			"dan": {"common": "Thailand"},
-			"nob": {"common": "Thailand"}
+			"nob": {"common": "Thailand"},
+			"swe": {"common": "Thailand"}
 		},
 		"latlng": [15, 100],
 		"demonym": "Thai",
@@ -10543,7 +10761,8 @@
 			"spa": {"official": "Rep\u00fablica de Tayikist\u00e1n", "common": "Tayikist\u00e1n"},
 			"fin": {"official": "Tad\u017eikistanin tasavalta", "common": "Tad\u017eikistan"},
 			"dan": {"common": "Tadsjikistan"},
-			"nob": {"common": "Tadsjikistan"}
+			"nob": {"common": "Tadsjikistan"},
+			"swe": {"common": "Tadzjikistan"}
 		},
 		"latlng": [39, 71],
 		"demonym": "Tadzhik",
@@ -10598,7 +10817,8 @@
 			"spa": {"official": "Tokelau", "common": "Islas Tokelau"},
 			"fin": {"official": "Tokelau", "common": "Tokelau"},
 			"dan": {"common": "Tokelau"},
-			"nob": {"common": "Tokelau"}
+			"nob": {"common": "Tokelau"},
+			"swe": {"common": "Tokelau\u00f6arna"}
 		},
 		"latlng": [-9, -172],
 		"demonym": "Tokelauan",
@@ -10648,7 +10868,8 @@
 			"spa": {"official": "Turkmenist\u00e1n", "common": "Turkmenist\u00e1n"},
 			"fin": {"official": "Turkmenistan", "common": "Turkmenistan"},
 			"dan": {"common": "Turkmenistan"},
-			"nob": {"common": "Turkmenistan"}
+			"nob": {"common": "Turkmenistan"},
+			"swe": {"common": "Turkmenistan"}
 		},
 		"latlng": [40, 60],
 		"demonym": "Turkmen",
@@ -10698,7 +10919,8 @@
 			"spa": {"official": "Rep\u00fablica Democr\u00e1tica de Timor-Leste", "common": "Timor Oriental"},
 			"fin": {"official": "It\u00e4-Timorin demokraattinen tasavalta", "common": "It\u00e4-Timor"},
 			"dan": {"common": "\u00d8sttimor"},
-			"nob": {"common": "\u00d8st-Timor"}
+			"nob": {"common": "\u00d8st-Timor"},
+			"nob": {"common": "\u00d6sttimor"}
 		},
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
@@ -10748,7 +10970,8 @@
 			"spa": {"official": "Reino de Tonga", "common": "Tonga"},
 			"fin": {"official": "Tongan kuningaskunta", "common": "Tonga"},
 			"dan": {"common": "Tonga"},
-			"nob": {"common": "Tonga"}
+			"nob": {"common": "Tonga"},
+			"swe": {"common": "Tonga"}
 		},
 		"latlng": [-20, -175],
 		"demonym": "Tongan",
@@ -10793,7 +11016,8 @@
 			"spa": {"official": "Rep\u00fablica de Trinidad y Tobago", "common": "Trinidad y Tobago"},
 			"fin": {"official": "Trinidadin ja Tobagon tasavalta", "common": "Trinidad ja Tobago"},
 			"dan": {"common": "Trinidad og Tobago"},
-			"nob": {"common": "Trinidad og Tobago"}
+			"nob": {"common": "Trinidad og Tobago"},
+			"swe": {"common": "Trinidad och Tobago"}
 		},
 		"latlng": [11, -61],
 		"demonym": "Trinidadian",
@@ -10838,7 +11062,8 @@
 			"spa": {"official": "Rep\u00fablica de T\u00fanez", "common": "T\u00fanez"},
 			"fin": {"official": "Tunisian tasavalta", "common": "Tunisia"},
 			"dan": {"common": "Tunesien"},
-			"nob": {"common": "Tunisia"}
+			"nob": {"common": "Tunisia"},
+			"swe": {"common": "Tunisien"}
 		},
 		"latlng": [34, 9],
 		"demonym": "Tunisian",
@@ -10883,7 +11108,8 @@
 			"spa": {"official": "Rep\u00fablica de Turqu\u00eda", "common": "Turqu\u00eda"},
 			"fin": {"official": "Turkin tasavalta", "common": "Turkki"},
 			"dan": {"common": "Tyrkiet"},
-			"nob": {"common": "Tyrkia"}
+			"nob": {"common": "Tyrkia"},
+			"swe": {"common": "Turkiet"}
 		},
 		"latlng": [39, 35],
 		"demonym": "Turkish",
@@ -10933,7 +11159,8 @@
 			"spa": {"official": "Tuvalu", "common": "Tuvalu"},
 			"fin": {"official": "Tuvalu", "common": "Tuvalu"},
 			"dan": {"common": "Tuvalu"},
-			"nob": {"common": "Tuvalu"}
+			"nob": {"common": "Tuvalu"},
+			"swe": {"common": "Tuvalu"}
 		},
 		"latlng": [-8, 178],
 		"demonym": "Tuvaluan",
@@ -10978,7 +11205,8 @@
 			"spa": {"official": "Rep\u00fablica de China en Taiw\u00e1n", "common": "Taiw\u00e1n"},
 			"fin": {"official": "Kiinan tasavalta", "common": "Taiwan"},
 			"dan": {"common": "Republikken Kina"},
-			"nob": {"common": "Taiwan"}
+			"nob": {"common": "Taiwan"},
+			"swe": {"common": "Taiwan"}
 		},
 		"latlng": [23.5, 121],
 		"demonym": "Taiwanese",
@@ -11028,7 +11256,8 @@
 			"spa": {"official": "Rep\u00fablica Unida de Tanzania", "common": "Tanzania"},
 			"fin": {"official": "Tansanian yhdistynyt tasavalta", "common": "Tansania"},
 			"dan": {"common": "Tanzania"},
-			"nob": {"common": "Tanzania"}
+			"nob": {"common": "Tanzania"},
+			"swe": {"common": "Tanzania"}
 		},
 		"latlng": [-6, 35],
 		"demonym": "Tanzanian",
@@ -11078,7 +11307,8 @@
 			"spa": {"official": "Rep\u00fablica de Uganda", "common": "Uganda"},
 			"fin": {"official": "Ugandan tasavalta", "common": "Uganda"},
 			"dan": {"common": "Uganda"},
-			"nob": {"common": "Uganda"}
+			"nob": {"common": "Uganda"},
+			"swe": {"common": "Uganda"}
 		},
 		"latlng": [1, 32],
 		"demonym": "Ugandan",
@@ -11128,7 +11358,8 @@
 			"spa": {"official": "Ucrania", "common": "Ucrania"},
 			"fin": {"official": "Ukraina", "common": "Ukraina"},
 			"dan": {"common": "Ukraine"},
-			"nob": {"common": "Ukraina"}
+			"nob": {"common": "Ukraina"},
+			"swe": {"common": "Ukraina"}
 		},
 		"latlng": [49, 32],
 		"demonym": "Ukrainian",
@@ -11173,7 +11404,8 @@
 			"spa": {"official": "Estados Unidos Islas menores alejadas de", "common": "Islas Ultramarinas Menores de Estados Unidos"},
 			"fin": {"official": "Yhdysvaltain asumattomat saaret", "common": "Yhdysvaltain asumattomat saaret"},
 			"dan": {"common": "USA's ydre sm\u00e5\u00f8er"},
-			"nob": {"common": "USAs ytre sm\u00e5\u00f8yer"}
+			"nob": {"common": "USAs ytre sm\u00e5\u00f8yer"},
+			"swe": {"common": "USA:s yttre \u00f6ar"}
 		},
 		"latlng": [],
 		"demonym": "American",
@@ -11218,7 +11450,8 @@
 			"spa": {"official": "Rep\u00fablica Oriental del Uruguay", "common": "Uruguay"},
 			"fin": {"official": "Uruguayn it\u00e4inen tasavalta", "common": "Uruguay"},
 			"dan": {"common": "Uruguay"},
-			"nob": {"common": "Uruguay"}
+			"nob": {"common": "Uruguay"},
+			"swe": {"common": "Uruguay"}
 		},
 		"latlng": [-33, -56],
 		"demonym": "Uruguayan",
@@ -11263,7 +11496,8 @@
 			"spa": {"official": "Estados Unidos de Am\u00e9rica", "common": "Estados Unidos"},
 			"fin": {"official": "Amerikan yhdysvallat", "common": "Yhdysvallat"},
 			"dan": {"common": "USA"},
-			"nob": {"common": "USA"}
+			"nob": {"common": "USA"},
+			"swe": {"common": "USA"}
 		},
 		"latlng": [38, -97],
 		"demonym": "American",
@@ -11313,7 +11547,8 @@
 			"spa": {"official": "Rep\u00fablica de Uzbekist\u00e1n", "common": "Uzbekist\u00e1n"},
 			"fin": {"official": "Uzbekistanin tasavalta", "common": "Uzbekistan"},
 			"dan": {"common": "Usbekistan"},
-			"nob": {"common": "Usbekistan"}
+			"nob": {"common": "Usbekistan"},
+			"swe": {"common": "Uzbekistan"}
 		},
 		"latlng": [41, 64],
 		"demonym": "Uzbekistani",
@@ -11363,7 +11598,8 @@
 			"spa": {"official": "Ciudad del Vaticano", "common": "Ciudad del Vaticano"},
 			"fin": {"official": "Vatikaanin kaupunkivaltio", "common": "Vatikaani"},
 			"dan": {"common": "Vatikanstaten"},
-			"nob": {"common": "Vatikanstaten"}
+			"nob": {"common": "Vatikanstaten"},
+			"swe": {"common": "Vatikanstaten"}
 		},
 		"latlng": [41.9, 12.45],
 		"demonym": "Italian",
@@ -11408,7 +11644,8 @@
 			"spa": {"official": "San Vicente y las Granadinas", "common": "San Vicente y Granadinas"},
 			"fin": {"official": "Saint Vincent ja Grenadiinit", "common": "Saint Vincent ja Grenadiinit"},
 			"dan": {"common": "Saint Vincent og Grenadinerne"},
-			"nob": {"common": "Saint Vincent og Grenadinene"}
+			"nob": {"common": "Saint Vincent og Grenadinene"},
+			"swe": {"common": "Saint Vincent och Grenadinerna"}
 		},
 		"latlng": [13.25, -61.2],
 		"demonym": "Saint Vincentian",
@@ -11453,7 +11690,8 @@
 			"spa": {"official": "Rep\u00fablica Bolivariana de Venezuela", "common": "Venezuela"},
 			"fin": {"official": "Venezuelan bolivariaainen tasavalta", "common": "Venezuela"},
 			"dan": {"common": "Venezuela"},
-			"nob": {"common": "Venezuela"}
+			"nob": {"common": "Venezuela"},
+			"swe": {"common": "Venezuela"}
 		},
 		"latlng": [8, -66],
 		"demonym": "Venezuelan",
@@ -11498,7 +11736,8 @@
 			"spa": {"official": "Islas V\u00edrgenes", "common": "Islas V\u00edrgenes del Reino Unido"},
 			"fin": {"official": "Brittil\u00e4iset Neitsytsaaret", "common": "Neitsytsaaret"},
 			"dan": {"common": "Britiske Jomfru\u00f8er"},
-			"nob": {"common": "De britiske jomfru\u00f8yene"}
+			"nob": {"common": "De britiske jomfru\u00f8yene"},
+			"swe": {"common": "Brittiska Jungfru\u00f6arna"}
 		},
 		"latlng": [18.431383, -64.62305],
 		"demonym": "Virgin Islander",
@@ -11543,7 +11782,8 @@
 			"spa": {"official": "Islas V\u00edrgenes de los Estados Unidos", "common": "Islas V\u00edrgenes de los Estados Unidos"},
 			"fin": {"official": "Yhdysvaltain Neitsytsaaret", "common": "Neitsytsaaret"},
 			"dan": {"common": "Amerikanske Jomfru\u00f8er"},
-			"nob": {"common": "De amerikanske jomfru\u00f8yene"}
+			"nob": {"common": "De amerikanske jomfru\u00f8yene"},
+			"swe": {"common": "Amerikanska Jungfru\u00f6arna"}
 		},
 		"latlng": [18.35, -64.933333],
 		"demonym": "Virgin Islander",
@@ -11588,7 +11828,8 @@
 			"spa": {"official": "Rep\u00fablica Socialista de Vietnam", "common": "Vietnam"},
 			"fin": {"official": "Vietnamin sosialistinen tasavalta", "common": "Vietnam"},
 			"dan": {"common": "Vietnam"},
-			"nob": {"common": "Vietnam"}
+			"nob": {"common": "Vietnam"},
+			"swe": {"common": "Vietnam"}
 		},
 		"latlng": [16.16666666, 107.83333333],
 		"demonym": "Vietnamese",
@@ -11643,7 +11884,8 @@
 			"spa": {"official": "Rep\u00fablica de Vanuatu", "common": "Vanuatu"},
 			"fin": {"official": "Vanuatun tasavalta", "common": "Vanuatu"},
 			"dan": {"common": "Vanuatu"},
-			"nob": {"common": "Vanuatu"}
+			"nob": {"common": "Vanuatu"},
+			"swe": {"common": "Vanuatu"}
 		},
 		"latlng": [-16, 167],
 		"demonym": "Ni-Vanuatu",
@@ -11688,7 +11930,8 @@
 			"spa": {"official": "Territorio de las Islas Wallis y Futuna", "common": "Wallis y Futuna"},
 			"fin": {"official": "Wallisin ja Futunan yhteis\u00f6", "common": "Wallis ja Futuna"},
 			"dan": {"common": "Wallis og Futuna"},
-			"nob": {"common": "Wallis og Futuna"}
+			"nob": {"common": "Wallis og Futuna"},
+			"swe": {"common": "Wallis- och Futuna\u00f6arna"}
 		},
 		"latlng": [-13.3, -176.2],
 		"demonym": "Wallis and Futuna Islander",
@@ -11738,7 +11981,8 @@
 			"spa": {"official": "Estado Independiente de Samoa", "common": "Samoa"},
 			"fin": {"official": "Samoan itsen\u00e4inen valtio", "common": "Samoa"},
 			"dan": {"common": "Samoa"},
-			"nob": {"common": "Samoa"}
+			"nob": {"common": "Samoa"},
+			"swe": {"common": "Samoa"}
 		},
 		"latlng": [-13.58333333, -172.33333333],
 		"demonym": "Samoan",
@@ -11783,7 +12027,8 @@
 			"spa": {"official": "Rep\u00fablica de Yemen", "common": "Yemen"},
 			"fin": {"official": "Jemenin tasavalta", "common": "Jemen"},
 			"dan": {"common": "Yemen"},
-			"nob": {"common": "Jemen"}
+			"nob": {"common": "Jemen"},
+			"swe": {"common": "Jemen"}
 		},
 		"latlng": [15, 48],
 		"demonym": "Yemeni",
@@ -11878,7 +12123,8 @@
 			"spa": {"official": "Rep\u00fablica de Sud\u00e1frica", "common": "Rep\u00fablica de Sud\u00e1frica"},
 			"fin": {"official": "Etel\u00e4-Afrikan tasavalta", "common": "Etel\u00e4-Afrikka"},
 			"dan": {"common": "Sydafrika"},
-			"nob": {"common": "S\u00f8r-Afrika"}
+			"nob": {"common": "S\u00f8r-Afrika"},
+			"swe": {"common": "Sydafrika"}
 		},
 		"latlng": [-29, 24],
 		"demonym": "South African",
@@ -11923,7 +12169,8 @@
 			"spa": {"official": "Rep\u00fablica de Zambia", "common": "Zambia"},
 			"fin": {"official": "Sambian tasavalta", "common": "Sambia"},
 			"dan": {"common": "Zambia"},
-			"nob": {"common": "Zambia"}
+			"nob": {"common": "Zambia"},
+			"swe": {"common": "Zambia"}
 		},
 		"latlng": [-15, 30],
 		"demonym": "Zambian",
@@ -12038,7 +12285,8 @@
 			"spa": {"official": "Rep\u00fablica de Zimbabue", "common": "Zimbabue"},
 			"fin": {"official": "Zimbabwen tasavalta", "common": "Zimbabwe"},
 			"dan": {"common": "Zimbabwe"},
-			"nob": {"common": "Zimbabwe"}
+			"nob": {"common": "Zimbabwe"},
+			"swe": {"common": "Zimbabwe"}
 		},
 		"latlng": [-20, 30],
 		"demonym": "Zimbabwean",
