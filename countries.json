@@ -5951,7 +5951,8 @@
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e", "common": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"},
 			"spa": {"official": "Rep\u00fablica de Kosovo", "common": "Kosovo"},
 			"fin": {"official": "Kosovon tasavalta", "common": "Kosovo"},
-			"dan": {"common": "Kosovo"}
+			"dan": {"common": "Kosovo"},
+			"nob": {"common": "Kosovo"}
 		},
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
