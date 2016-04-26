@@ -272,7 +272,7 @@
 		"latlng": [41, 20],
 		"demonym": "Albanian",
 		"landlocked": false,
-		"borders": ["MNE", "GRC", "MKD", "KOS"],
+		"borders": ["MNE", "GRC", "MKD", "UNK"],
 		"area": 28748
 	},
 	{
@@ -2570,6 +2570,7 @@
 			"pap": "Papiamento"
 		},
 		"translations": {
+			"deu": {"official": "Land Cura\u00e7ao", "common": "Cura\u00e7ao"},
 			"fra": {"official": "Cura\u00e7ao", "common": "Cura\u00e7ao"},
 			"nld": {"official": "Land Cura\u00e7ao", "common": "Cura\u00e7ao"},
 			"por": {"official": "Pa\u00eds de Cura\u00e7ao", "common": "ilha da Cura\u00e7\u00e3o"},
@@ -5738,7 +5739,7 @@
 		"cca2": "XK",
 		"ccn3": "",
 		"cca3": "UNK",
-		"cioc": "KOS",
+		"cioc": "UNK",
 		"currency": ["EUR"],
 		"callingCode": ["383"],
 		"capital": "Pristina",
@@ -5750,6 +5751,7 @@
 			"srp": "Serbian"
 		},
 		"translations": {
+			"deu": {"official": "Republik Kosovo", "common":"Kosovo"},
 			"fra": {"official": "R\u00E9publique du Kosovo", "common": "Kosovo"},
 			"hrv": {"official": "Republika Kosovo", "common": "Kosovo"},
 			"por": {"official": "Rep\u00fablica do Kosovo", "common": "Kosovo"},
@@ -6751,7 +6753,7 @@
 		"latlng": [41.83333333, 22],
 		"demonym": "Macedonian",
 		"landlocked": true,
-		"borders": ["ALB", "BGR", "GRC", "KOS", "SRB"],
+		"borders": ["ALB", "BGR", "GRC", "UNK", "SRB"],
 		"area": 25713
 	},
 	{
@@ -6928,7 +6930,7 @@
 		"latlng": [42.5, 19.3],
 		"demonym": "Montenegrin",
 		"landlocked": false,
-		"borders": ["ALB", "BIH", "HRV", "KOS", "SRB"],
+		"borders": ["ALB", "BIH", "HRV", "UNK", "SRB"],
 		"area": 13812
 	},
 	{
@@ -9151,7 +9153,7 @@
 		"currency": ["GBP"],
 		"callingCode": ["500"],
 		"capital": "King Edward Point",
-		"altSpellings": ["GS", "South Georgia and the South Sandwich Islands"], et,i,e
+		"altSpellings": ["GS", "South Georgia and the South Sandwich Islands"],
 		"region": "Americas",
 		"subregion": "South America",
 		"languages": {
@@ -9522,7 +9524,7 @@
 		"latlng": [44, 21],
 		"demonym": "Serbian",
 		"landlocked": true,
-		"borders": ["BIH", "BGR", "HRV", "HUN", "KOS", "MKD", "MNE", "ROU"],
+		"borders": ["BIH", "BGR", "HRV", "HUN", "UNK", "MKD", "MNE", "ROU"],
 		"area": 88361
 	},
 	{
