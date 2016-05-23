@@ -40,7 +40,7 @@
 			"rus": {"official": "\u0410\u0440\u0443\u0431\u0430", "common": "\u0410\u0440\u0443\u0431\u0430"},
 			"spa": {"official": "Aruba", "common": "Aruba"},
 			"fin": {"official": "Aruba", "common": "Aruba"},
-			"zho": {"official": "\u963F\u9C81\u5DF4", "\u963F\u9C81\u5DF4"}
+			"zho": {"official": "\u963F\u9C81\u5DF4", "common": "\u963F\u9C81\u5DF4"}
 		},
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
