@@ -183,7 +183,7 @@ Thanks to:
  - @frederik-jacques for the capital cities
  - @fayer for the population, geolocation, demonym and area data
  - @ancosen for his help with the borders data
- - @herrniemand for country names and various fixes
+ - @herrjemand for country names and various fixes
  - all the contributors: https://github.com/mledoze/countries/graphs/contributors
 
 ## License
