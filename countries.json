@@ -3254,22 +3254,6 @@
 			"common": "Spain",
 			"official": "Kingdom of Spain",
 			"native": {
-				"cat": {
-					"official": "Regne d'Espanya",
-					"common": "Espanya"
-				},
-				"eus": {
-					"official": "Espainiako Erresuma",
-					"common": "Espainia"
-				},
-				"glg": {
-					"official": "Reino de Espa\u00f1a",
-					"common": ""
-				},
-				"oci": {
-					"official": "Reialme d'Espanha",
-					"common": "Espanha"
-				},
 				"spa": {
 					"official": "Reino de Espa\u00f1a",
 					"common": "Espa\u00f1a"
@@ -3288,10 +3272,6 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"cat": "Catalan",
-			"eus": "Basque",
-			"glg": "Galician",
-			"oci": "Occitan",
 			"spa": "Spanish"
 		},
 		"translations": {
@@ -4101,6 +4081,10 @@
 				"por": {
 					"official": "Rep\u00fablica da Guin\u00e9-Bissau",
 					"common": "Guin\u00e9-Bissau"
+				},
+				"pov": {
+					"official": "Rep\u00fablica da Guin\u00e9-Bissau",
+					"common": "Guin\u00e9-Bissau"
 				}
 			}
 		},
@@ -4116,7 +4100,8 @@
 		"region": "Africa",
 		"subregion": "Western Africa",
 		"languages": {
-			"por": "Portuguese"
+			"por": "Portuguese",
+			"pov": "Upper Guinea Creole"
 		},
 		"translations": {
 			"deu": {"official": "Republik Guinea-Bissau", "common": "Guinea-Bissau"},
@@ -5221,16 +5206,8 @@
 			"common": "Italy",
 			"official": "Italian Republic",
 			"native": {
-				"bar": {
-					"official": "Italienische Republik",
-					"common": "Italien"
-				},
 				"ita": {
 					"official": "Repubblica italiana",
-					"common": "Italia"
-				},
-				"srd": {
-					"official": "Repubbricanu Italia",
 					"common": "Italia"
 				}
 			}
@@ -5247,9 +5224,7 @@
 		"region": "Europe",
 		"subregion": "Southern Europe",
 		"languages": {
-			"bar": "Austro-Bavarian German",
-			"ita": "Italian",
-			"srd": "Sardinian"
+			"ita": "Italian"
 		},
 		"translations": {
 			"deu": {"official": "Italienische Republik", "common": "Italien"},
@@ -8959,7 +8934,7 @@
 		"currency": ["RUB"],
 		"callingCode": ["7"],
 		"capital": "Moscow",
-		"altSpellings": ["RU", "Rossiya", "Russian Federation", "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f", "Rossiyskaya Federatsiya"],
+		"altSpellings": ["RU", "Russian Federation", "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f"],
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
