@@ -8930,7 +8930,7 @@
 			"por": {"official": "Rom\u00eania", "common": "Rom\u00e9nia"},
 			"rus": {"official": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f", "common": "\u0420\u0443\u043c\u044b\u043d\u0438\u044f"},
 			"spa": {"official": "Rumania", "common": "Rumania"},
-			"svk": {"official": " Rumunsko", "common": "Rumunsko"},
+			"svk": {"official": "Rumunsko", "common": "Rumunsko"},
 			"fin": {"official": "Romania", "common": "Romania"}
 		},
 		"latlng": [46, 25],
@@ -8974,7 +8974,7 @@
 			"por": {"official": "Federa\u00e7\u00e3o Russa", "common": "R\u00fassia"},
 			"rus": {"official": "\u0420\u043e\u0441\u0441\u0438\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f", "common": "\u0420\u043e\u0441\u0441\u0438\u044f"},
 			"spa": {"official": "Federaci\u00f3n de Rusia", "common": "Rusia"},
-			"svk": {"official": " Rusk\u00e1 feder\u00e1cia", "common": "Rusko"},
+			"svk": {"official": "Rusk\u00e1 feder\u00e1cia", "common": "Rusko"},
 			"fin": {"official": "Ven\u00e4j\u00e4n federaatio", "common": "Ven\u00e4j\u00e4"}
 		},
 		"latlng": [60, 100],
@@ -9028,7 +9028,7 @@
 			"por": {"official": "Rep\u00fablica do Ruanda", "common": "Ruanda"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0420\u0443\u0430\u043d\u0434\u0430", "common": "\u0420\u0443\u0430\u043d\u0434\u0430"},
 			"spa": {"official": "Rep\u00fablica de Rwanda", "common": "Ruanda"},
-			"svk": {"official": " Rwandsk\u00e1 republika", "common": "Rwanda"},
+			"svk": {"official": "Rwandsk\u00e1 republika", "common": "Rwanda"},
 			"fin": {"official": "Ruandan tasavalta", "common": "Ruanda"}
 		},
 		"latlng": [-2, 30],
@@ -9268,7 +9268,7 @@
 			"por": {"official": "Ge\u00f3rgia do Sul e Sandwich do Sul", "common": "Ilhas Ge\u00f3rgia do Sul e Sandwich do Sul"},
 			"rus": {"official": "\u042e\u0436\u043d\u0430\u044f \u0413\u0435\u043e\u0440\u0433\u0438\u044f \u0438 \u042e\u0436\u043d\u044b\u0435 \u0421\u0430\u043d\u0434\u0432\u0438\u0447\u0435\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u042e\u0436\u043d\u0430\u044f \u0413\u0435\u043e\u0440\u0433\u0438\u044f \u0438 \u042e\u0436\u043d\u044b\u0435 \u0421\u0430\u043d\u0434\u0432\u0438\u0447\u0435\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430"},
 			"spa": {"official": "Georgia del Sur y las Islas Sandwich del Sur", "common": "Islas Georgias del Sur y Sandwich del Sur"},
-			 "svk": {"official": "Ju\u017en\u00e1 Georgia a Ju\u017en\u00e9 Sandwichove ostrovy", "common": "Ju\u017en\u00e1 Georgia a Ju\u017en\u00e9 Sandwichove ostrovy"},
+			"svk": {"official": "Ju\u017en\u00e1 Georgia a Ju\u017en\u00e9 Sandwichove ostrovy", "common": "Ju\u017en\u00e1 Georgia a Ju\u017en\u00e9 Sandwichove ostrovy"},
 			"fin": {"official": "Etel\u00e4-Georgia ja Etel\u00e4iset Sandwichsaaret", "common": "Etel\u00e4-Georgia ja Etel\u00e4iset Sandwichsaaret"}
 		},
 		"latlng": [-54.5, -37],
@@ -9355,7 +9355,7 @@
 			"nld": {"official": "Solomon eilanden", "common": "Salomonseilanden"},
 			"por": {"official": "Ilhas Salom\u00e3o", "common": "Ilhas Salom\u00e3o"},
 			"rus": {"official": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u043e\u0441\u0442\u0440\u043e\u0432\u0430", "common": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u044b \u041e\u0441\u0442\u0440\u043e\u0432\u0430"},
-			"spa": {"official": "islas Salom\u00f3n", "common": "Islas Salom\u00f3n"},
+			"spa": {"official": "Islas Salom\u00f3n", "common": "Islas Salom\u00f3n"},
 			"svk": {"official": "Salomonove ostrovy", "common": "Salomonove ostrovy"},
 			"fin": {"official": "Salomonsaaret", "common": "Salomonsaaret"}
 		},
