@@ -39,7 +39,7 @@
 			"por": {"official": "Aruba", "common": "Aruba"},
 			"rus": {"official": "\u0410\u0440\u0443\u0431\u0430", "common": "\u0410\u0440\u0443\u0431\u0430"},
 			"spa": {"official": "Aruba", "common": "Aruba"},
-			"svk": {"official": "Aruba","common": "Aruba"},
+			"svk": {"official": "Aruba", "common": "Aruba"},
 			"fin": {"official": "Aruba", "common": "Aruba"},
 			"zho": {"official": "\u963F\u9C81\u5DF4", "common": "\u963F\u9C81\u5DF4"}
 		},
@@ -186,7 +186,7 @@
 			"por": {"official": "Anguilla", "common": "Anguilla"},
 			"rus": {"official": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f", "common": "\u0410\u043d\u0433\u0438\u043b\u044c\u044f"},
 			"spa": {"official": "Anguila", "common": "Anguilla"},
-			"svk": {"official": "Anguilla" ,"common": "Anguilla"},
+			"svk": {"official": "Anguilla", "common": "Anguilla"},
 			"fin": {"official": "Anguilla", "common": "Anguilla"},
 			"zho": {"official": "\u5B89\u572D\u62C9", "common": "\u5B89\u572D\u62C9"}
 		},
@@ -323,7 +323,7 @@
 			"por": {"official": "Principado de Andorra", "common": "Andorra"},
 			"rus": {"official": "\u041a\u043d\u044f\u0436\u0435\u0441\u0442\u0432\u043e \u0410\u043d\u0434\u043e\u0440\u0440\u0430", "common": "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"},
 			"spa": {"official": "Principado de Andorra", "common": "Andorra"},
-		  	"svk": {"official": "Andorrsk\u00e9 knie\u017eatstvo", "common": "Andorra"},
+			"svk": {"official": "Andorrsk\u00e9 knie\u017eatstvo", "common": "Andorra"},
 			"fin": {"official": "Andorran ruhtinaskunta", "common": "Andorra"},
 			"zho": {"official": "\u5B89\u9053\u5C14\u516C\u56FD", "common": "\u5B89\u9053\u5C14"}
 		},
@@ -368,7 +368,7 @@
 			"por": {"official": "Emirados \u00c1rabes Unidos", "common": "Emirados \u00c1rabes Unidos"},
 			"rus": {"official": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u042d\u043c\u0438\u0440\u0430\u0442\u044b", "common": "\u041e\u0431\u044a\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u0410\u0440\u0430\u0431\u0441\u043a\u0438\u0435 \u042d\u043c\u0438\u0440\u0430\u0442\u044b"},
 			"spa": {"official": "Emiratos \u00c1rabes Unidos", "common": "Emiratos \u00c1rabes Unidos"},
-		  	"svk": {"official": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty", "common": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty"},
+			"svk": {"official": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty", "common": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty"},
 			"fin": {"official": "Yhdistyneet arabiemiirikunnat", "common": "Arabiemiraatit"},
 			"zho": {"official": "\u963F\u62C9\u4F2F\u8054\u5408\u914B\u957F\u56FD", "common": "\u963F\u62C9\u4F2F\u8054\u5408\u914B\u957F\u56FD"}
 		},
@@ -419,7 +419,7 @@
 			"por": {"official": "Rep\u00fablica Argentina", "common": "Argentina"},
 			"rus": {"official": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"},
 			"spa": {"official": "Rep\u00fablica Argentina", "common": "Argentina"},
-		  	"svk": {"official": " Argent\u00ednska republika", "common": "Argent\u00edna"},
+			"svk": {"official": " Argent\u00ednska republika", "common": "Argent\u00edna"},
 			"fin": {"official": "Argentiinan tasavalta", "common": "Argentiina"},
 			"zho": {"official": "\u963F\u6839\u5EF7\u5171\u548C\u56FD", "common": "\u963F\u6839\u5EF7"}
 		},
@@ -470,7 +470,7 @@
 			"por": {"official": "Rep\u00fablica da Arm\u00e9nia", "common": "Arm\u00e9nia"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0440\u043c\u0435\u043d\u0438\u044f", "common": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"},
 			"spa": {"official": "Rep\u00fablica de Armenia", "common": "Armenia"},
-		  	"svk": {"official": "Arm\u00e9nska republika", "common": "Arm\u00e9nsko"},
+			"svk": {"official": "Arm\u00e9nska republika", "common": "Arm\u00e9nsko"},
 			"fin": {"official": "Armenian tasavalta", "common": "Armenia"},
 			"zho": {"official": "\u4E9A\u7F8E\u5C3C\u4E9A\u5171\u548C\u56FD", "common": "\u4E9A\u7F8E\u5C3C\u4E9A"}
 		},
@@ -520,7 +520,7 @@
 			"por": {"official": "Samoa americana", "common": "Samoa Americana"},
 			"rus": {"official": "\u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430", "common": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430"},
 			"spa": {"official": "Samoa Americana", "common": "Samoa Americana"},
-		  	"svk": {"official": "Americk\u00e1 Samoa", "common": "Americk\u00e1 Samoa"},
+			"svk": {"official": "Americk\u00e1 Samoa", "common": "Americk\u00e1 Samoa"},
 			"fin": {"official": "Amerikan Samoa", "common": "Amerikan Samoa"},
 			"zho": {"official": "\u7F8E\u5C5E\u8428\u6469\u4E9A", "common": "\u7F8E\u5C5E\u8428\u6469\u4E9A"}
 		},
@@ -559,7 +559,7 @@
 			"por": {"official": "Ant\u00e1rtica", "common": "Ant\u00e1rtida"},
 			"rus": {"official": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430", "common": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0430"},
 			"spa": {"official": "Ant\u00e1rtida", "common": "Ant\u00e1rtida"},
-		  	"svk": {"official": "Antarkt\u00edda", "common": "Antarkt\u00edda"},
+			"svk": {"official": "Antarkt\u00edda", "common": "Antarkt\u00edda"},
 			"fin": {"official": "Etel\u00e4manner", "common": "Etel\u00e4manner"},
 			"zho": {"official": "\u5357\u6781\u6D32", "common": "\u5357\u6781\u6D32"}
 		},
@@ -604,7 +604,7 @@
 			"por": {"official": "Territ\u00f3rio do Sul e Ant\u00e1rtica Francesa", "common": "Terras Austrais e Ant\u00e1rticas Francesas"},
 			"rus": {"official": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0438 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0435\u043c\u043b\u0438", "common": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0438 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438"},
 			"spa": {"official": "Territorio del Franc\u00e9s Tierras australes y ant\u00e1rticas", "common": "Tierras Australes y Ant\u00e1rticas Francesas"},
-			"svk": {"official": "Franc\u00fazske ju\u017dn\u00e9 a antarktick\u00e9 \u00fazemia","common": "Franc\u00fazske ju\u017dn\u00e9 a antarktick\u00e9 \u00fazemia"},
+			"svk": {"official": "Franc\u00fazske ju\u017dn\u00e9 a antarktick\u00e9 \u00fazemia", "common": "Franc\u00fazske ju\u017dn\u00e9 a antarktick\u00e9 \u00fazemia"},
 			"fin": {"official": "Ranskan etel\u00e4iset ja antarktiset alueet", "common": "Ranskan etel\u00e4iset ja antarktiset alueet"},
 			"zho": {"official": "\u6CD5\u56FD\u5357\u90E8\u548C\u5357\u6781\u571F\u5730", "common": "\u6CD5\u56FD\u5357\u90E8\u548C\u5357\u6781\u571F\u5730"}
 		},
@@ -4360,9 +4360,9 @@
 			"por": {"official": "Grenada", "common": "Granada"},
 			"rus": {"official": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430", "common": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430"},
 			"spa": {"official": "Granada", "common": "Grenada"},
+			"svk": {"official": "Grenada", "common": "Grenada"},
 			"fin": {"official": "Grenada", "common": "Grenada"},
 			"zho": {"official": "\u683C\u6797\u7EB3\u8FBE", "common": "\u683C\u6797\u7EB3\u8FBE"}
-			"svk": {"official": "Grenada", "common": "Grenada"},
 		},
 		"latlng": [12.11666666, -61.66666666],
 		"demonym": "Grenadian",
@@ -5942,7 +5942,7 @@
 			"srp": "Serbian"
 		},
 		"translations": {
-			"deu": {"official": "Republik Kosovo", "common":"Kosovo"},
+			"deu": {"official": "Republik Kosovo", "common": "Kosovo"},
 			"fra": {"official": "R\u00E9publique du Kosovo", "common": "Kosovo"},
 			"hrv": {"official": "Republika Kosovo", "common": "Kosovo"},
 			"ita": {"official": "Repubblica del Kosovo", "common": "Kosovo"},
@@ -8893,7 +8893,7 @@
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439", "common": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439"},
 			"spa": {"official": "Rep\u00fablica de Paraguay", "common": "Paraguay"},
 			"svk": {"official": "Paraguajsk\u00e1 republika", "common": "Paraguaj"},
-			"fin": {"official": "Paraguayn tasavalta", "common": "Paraguay"}
+			"fin": {"official": "Paraguayn tasavalta", "common": "Paraguay"},
 			"zho": {"official": "\u5DF4\u62C9\u572D\u5171\u548C\u56FD", "common": "\u5DF4\u62C9\u572D"}
 		},
 		"latlng": [-23, -58],
