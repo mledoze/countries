@@ -1,6 +1,5 @@
 # Composer
 composer.phar
-composer.lock
 vendor/
 
 # Bower
