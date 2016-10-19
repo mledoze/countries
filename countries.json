@@ -1298,7 +1298,7 @@
 				},
 				"rus": {
 					"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
-					"common": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f"
+					"common": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"
 				}
 			}
 		},
@@ -1307,10 +1307,10 @@
 		"ccn3": "112",
 		"cca3": "BLR",
 		"cioc": "BLR",
-		"currency": ["BYR"],
+		"currency": ["BYN"],
 		"callingCode": ["375"],
 		"capital": "Minsk",
-		"altSpellings": ["BY", "Bielaru\u015b", "Republic of Belarus", "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f", "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c", "Belorussiya", "Respublika Belarus\u2019"],
+		"altSpellings": ["BY", "Bielaru\u015b", "Republic of Belarus", "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c", "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"],
 		"region": "Europe",
 		"subregion": "Eastern Europe",
 		"languages": {
@@ -1326,7 +1326,7 @@
 			"jpn": {"official": "\u30d9\u30e9\u30eb\u30fc\u30b7\u5171\u548c\u56fd", "common": "\u30d9\u30e9\u30eb\u30fc\u30b7"},
 			"nld": {"official": "Republiek Belarus", "common": "Wit-Rusland"},
 			"por": {"official": "Rep\u00fablica da Bielorr\u00fassia", "common": "Bielor\u00fassia"},
-			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c", "common": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f"},
+			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c", "common": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c"},
 			"spa": {"official": "Rep\u00fablica de Belar\u00fas", "common": "Bielorrusia"},
 			"svk": {"official": "Bielorusk\u00e1 republika", "common": "Bielorusko"},
 			"fin": {"official": "Valko-Ven\u00e4j\u00e4n tasavalta", "common": "Valko-Ven\u00e4j\u00e4"},
