@@ -604,7 +604,7 @@
 			"por": {"official": "Territ\u00f3rio do Sul e Ant\u00e1rtica Francesa", "common": "Terras Austrais e Ant\u00e1rticas Francesas"},
 			"rus": {"official": "\u0422\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f \u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0438 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0437\u0435\u043c\u043b\u0438", "common": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0435 \u042e\u0436\u043d\u044b\u0435 \u0438 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u0438"},
 			"spa": {"official": "Territorio del Franc\u00e9s Tierras australes y ant\u00e1rticas", "common": "Tierras Australes y Ant\u00e1rticas Francesas"},
-			"svk": {"official": "Franc\u00fazske ju\u017dn\u00e9 a antarktick\u00e9 \u00fazemia", "common": "Franc\u00fazske ju\u017dn\u00e9 a antarktick\u00e9 \u00fazemia"},
+			"svk": {"official": "Franc\u00fazske ju\u017en\u00e9 a antarktick\u00e9 \u00fazemia", "common": "Franc\u00fazske ju\u017dn\u00e9 a antarktick\u00e9 \u00fazemia"},
 			"fin": {"official": "Ranskan etel\u00e4iset ja antarktiset alueet", "common": "Ranskan etel\u00e4iset ja antarktiset alueet"},
 			"zho": {"official": "\u6CD5\u56FD\u5357\u90E8\u548C\u5357\u6781\u571F\u5730", "common": "\u6CD5\u56FD\u5357\u90E8\u548C\u5357\u6781\u571F\u5730"}
 		},
@@ -793,7 +793,7 @@
 			"por": {"official": "Rep\u00fablica do Azerbaij\u00e3o", "common": "Azerbeij\u00e3o"},
 			"rus": {"official": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"},
 			"spa": {"official": "Rep\u00fablica de Azerbaiy\u00e1n", "common": "Azerbaiy\u00e1n"},
-			"svk": {"official": "Azerbaj\u01c6ansk\u00e1 republika", "common": "Azerbaj\u01c6an"},
+			"svk": {"official": "Azerbaj\u01c6ansk\u00e1 republika", "common": "Azerbaj\u01c7an"},
 			"fin": {"official": "Azerbaidzanin tasavalta", "common": "Azerbaidzan"},
 			"zho": {"official": "\u963F\u585E\u62DC\u7586\u5171\u548C\u56FD", "common": "\u963F\u585E\u62DC\u7586"}
 		},
@@ -1491,7 +1491,7 @@
 			"por": {"official": "Estado Plurinacional da Bol\u00edvia", "common": "Bol\u00edvia"},
 			"rus": {"official": "\u041c\u043d\u043e\u0433\u043e\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u0411\u043e\u043b\u0438\u0432\u0438\u044f", "common": "\u0411\u043e\u043b\u0438\u0432\u0438\u044f"},
 			"spa": {"official": "Estado Plurinacional de Bolivia", "common": "Bolivia"},
-			"svk": {"official": "Bol\u00edvijsk\u00e1 republika", "common": "Bol\u00edvija"},
+			"svk": {"official": "Bol\u00edvijsk\u00e1 republika", "common": "Bol\u00edvia"},
 			"fin": {"official": "Bolivian monikansainen valtio", "common": "Bolivia"},
 			"zho": {"official": "\u591A\u6C11\u65CF\u73BB\u5229\u7EF4\u4E9A\u56FD", "common": "\u73BB\u5229\u7EF4\u4E9A"}
 		},
@@ -2114,7 +2114,7 @@
 			"por": {"official": "Rep\u00fablica da C\u00f4te d'Ivoire", "common": "Costa do Marfim"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0442-\u0434'\u0418\u0432\u0443\u0430\u0440\u0435", "common": "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"},
 			"spa": {"official": "Rep\u00fablica de C\u00f4te d'Ivoire", "common": "Costa de Marfil"},
-			"svk": {"official": "Republika Pobr\u017eie Slonoviny", "common": "Pobr\u017eie Slonoviny"},
+			"svk": {"official": "Republika Pobre\u017eie Slonoviny", "common": "Pobr\u017eie Slonoviny"},
 			"fin": {"official": "Norsunluurannikon tasavalta", "common": "Norsunluurannikko"},
 			"zho": {"official": "\u79D1\u7279\u8FEA\u74E6\u5171\u548C\u56FD", "common": "\u79D1\u7279\u8FEA\u74E6"}
 		},
@@ -2630,7 +2630,7 @@
 			"por": {"official": "Pa\u00eds de Cura\u00e7ao", "common": "ilha da Cura\u00e7\u00e3o"},
 			"rus": {"official": "\u0421\u0442\u0440\u0430\u043d\u0430 \u041a\u044e\u0440\u0430\u0441\u0430\u043e", "common": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"},
 			"spa": {"official": "Pa\u00eds de Curazao", "common": "Curazao"},
-			"svk": {"official": "Cura\u00c7ao", "common": "Cura\u00c7ao"},
+			"svk": {"official": "Curacao", "common": "Curacao"},
 			"fin": {"official": "Cura\u00e7ao", "common": "Cura\u00e7ao"},
 			"zho": {"official": "\u5E93\u62C9\u7D22", "common": "\u5E93\u62C9\u7D22"}
 		},
@@ -6610,7 +6610,7 @@
 			"por": {"official": "saint Martin", "common": "S\u00e3o Martinho"},
 			"rus": {"official": "\u0421\u0435\u043d-\u041c\u0430\u0440\u0442\u0435\u043d", "common": "\u0421\u0435\u043d-\u041c\u0430\u0440\u0442\u0435\u043d"},
 			"spa": {"official": "Saint Martin", "common": "Saint Martin"},
-			"svk": {"official": "Sv\u00e4t\u00fd Martin", "common": "Sv\u00e4t\u00fd Martin"},
+			"svk": {"official": "Sv\u00e4t\u00fd Martin", "common": "Sv\u00e4t\u00fd Martin, FR"},
 			"fin": {"official": "Saint-Martin", "common": "Saint-Martin"},
 			"zho": {"official": "\u5723\u9A6C\u4E01", "common": "\u5723\u9A6C\u4E01"}
 		},
@@ -8800,7 +8800,7 @@
 			"por": {"official": "Rep\u00fablica Popular Democr\u00e1tica da Coreia", "common": "Coreia do Norte"},
 			"rus": {"official": "\u041a\u043e\u0440\u0435\u0439\u0441\u043a\u0430\u044f \u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f", "common": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f"},
 			"spa": {"official": "Rep\u00fablica Popular Democr\u00e1tica de Corea", "common": "Corea del Norte"},
-			"svk": {"official": "K\u00f3rejsk\u00e1 \u013eudovodemokratick\u00e1 republika", "common": "K\u00f3rejsk\u00e1 \u013eudovodemokratick\u00e1 republika (K\u013dR, Severn\u00e1 K\u00f3)"},
+			"svk": {"official": "K\u00f3rejsk\u00e1 \u013eudovodemokratick\u00e1 republika", "common": "K\u00f3rejsk\u00e1 \u013eudovodemokratick\u00e1 republika (K\u013dR, Severn\u00e1 K\u00f3rea)"},
 			"fin": {"official": "Korean demokraattinen kansantasavalta", "common": "Pohjois-Korea"},
 			"zho": {"official": "\u671D\u9C9C\u4EBA\u6C11\u6C11\u4E3B\u5171\u548C\u56FD", "common": "\u671D\u9C9C"}
 		},
@@ -10100,7 +10100,7 @@
 			"por": {"official": "Reino da Su\u00e9cia", "common": "Su\u00e9cia"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0438\u044f", "common": "\u0428\u0432\u0435\u0446\u0438\u044f"},
 			"spa": {"official": "Reino de Suecia", "common": "Suecia"},
-			"svk": {"official": "\u0161v\u00e9dske kr\u00e1\u013eovstvo", "common": "\u0161ve\u00e9dsko"},
+			"svk": {"official": "\u0160v\u00e9dske kr\u00e1\u013eovstvo", "common": "\u0160v\u00e9dsko"},
 			"fin": {"official": "Ruotsin kuningaskunta", "common": "Ruotsi"},
 			"zho": {"official": "\u745E\u5178\u738B\u56FD", "common": "\u745E\u5178"}
 		},
@@ -10204,7 +10204,7 @@
 			"por": {"official": "Sint Maarten", "common": "S\u00e3o Martinho"},
 			"rus": {"official": "\u0421\u0438\u043d\u0442-\u041c\u0430\u0430\u0440\u0442\u0435\u043d", "common": "\u0421\u0438\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"},
 			"spa": {"official": "Sint Maarten", "common": "Sint Maarten"},
-			"svk": {"official": "Sv\u00e4t\u00fd Martin", "common": "Sv\u00e4t\u00fd Martin"},
+			"svk": {"official": "Sv\u00e4t\u00fd Martin", "common": "Sv\u00e4t\u00fd Martin, NL"},
 			"fin": {"official": "Sint Maarten", "common": "Sint Maarten"},
 			"zho": {"official": "\u5723\u9A6C\u4E01\u5C9B", "common": "\u5723\u9A6C\u4E01\u5C9B"}
 		},
@@ -11259,7 +11259,7 @@
 			"por": {"official": "Estados Unidos da Am\u00e9rica", "common": "Estados Unidos"},
 			"rus": {"official": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0410\u043c\u0435\u0440\u0438\u043a\u0438", "common": "\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u044b\u0435 \u0428\u0442\u0430\u0442\u044b \u0410\u043c\u0435\u0440\u0438\u043a\u0438"},
 			"spa": {"official": "Estados Unidos de Am\u00e9rica", "common": "Estados Unidos"},
-			"svk": {"official": "Spojen\u00e9 \u0161t\u00e1ty Americk\u00e9", "common": "Spojen\u00e9 \u0161t\u00e1ty"},
+			"svk": {"official": "Spojen\u00e9 \u0161t\u00e1ty Americk\u00e9", "common": "Spojen\u00e9 \u0161t\u00e1ty americk\u00e9"},
 			"fin": {"official": "Amerikan yhdysvallat", "common": "Yhdysvallat"},
 			"zho": {"official": "\u7F8E\u5229\u575A\u5408\u4F17\u56FD", "common": "\u7F8E\u56FD"}
 		},
