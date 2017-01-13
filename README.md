@@ -93,8 +93,8 @@ GeoJSON outlines and flags in SVG format.
 }
 ```
 
-#####GeoJSON outline
-See an example for [Germany](https://github.com/mledoze/countries/blob/bb61a1cddfefd09ad5c92ad0a1effbfceba39930/data/deu.geo.json).
+#####GeoJSON and TopoJSON outlines
+See an example for Germany: [GeoJSON](https://github.com/mledoze/countries/blob/bb61a1cddfefd09ad5c92ad0a1effbfceba39930/data/deu.geo.json) or [TopoJSON](https://github.com/mledoze/countries/blob/442472de98e80f4a44f1028960dbb0dfb1d942fe/data/deu.topo.json).
 
 #####CSV
 ```csv
