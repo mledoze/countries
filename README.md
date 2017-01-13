@@ -167,6 +167,7 @@ Please refer to [CONTRIBUTING](https://github.com/mledoze/countries/blob/master/
 ## To do
  - add the type of the country (country, sovereign state, public body, territory, etc.)
  - add missing translations
+ - pull in data automatically from CLDR at build time (idea from @Munter, see #108) 
 
 ## Sources
 http://www.currency-iso.org/ for currency codes.
