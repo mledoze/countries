@@ -1,7 +1,3 @@
-#
-# setup continuous integration to validate the countries dataset and code.
-#
-
 language: php
 
 php:
@@ -13,4 +9,4 @@ install:
   - npm install -g jsonlint
 
 script:
-  - jsonlint -q -c countries.json
+  - jsonlint --quiet --compact countries.json
