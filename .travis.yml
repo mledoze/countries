@@ -1,0 +1,12 @@
+#
+# setup continuous integration to validate the countries dataset and code.
+#
+
+language: node_js
+node_js: node
+
+install:
+  - npm install jsonlint -g
+
+script:
+  - jsonlint -q -c countries.json
