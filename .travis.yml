@@ -10,6 +10,8 @@ php:
 
 install:
   - npm install -g jsonlint
+  - composer install
 
 script:
   - ./test.sh
+  - php countries.php convert
