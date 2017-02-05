@@ -1,14 +1,14 @@
-function lintalljson() {
+function lintAllJSON() {
   for f in $1
   do
-    lintjson $f
+    lintJSON $f
   done
 }
 
-function lintjson() {
+function lintJSON() {
   echo "--> lint json file $f"
   jsonlint --quiet --compact $1
 }
 
-lintalljson "*.json"
-lintalljson "data/*.json"
+lintAllJSON "*.json"
+lintAllJSON "data/*.json"
