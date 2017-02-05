@@ -13,5 +13,5 @@ install:
   - composer install
 
 script:
-  - ./test.sh
+  - ./ci/test.sh
   - php countries.php convert
