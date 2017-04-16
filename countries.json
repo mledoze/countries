@@ -1222,7 +1222,7 @@
 			"srp": "Serbian"
 		},
 		"translations": {
-			"cym": {"official": "Bosnia and Herzegovina", "common": "Bosnia a Hercegovina"},
+			"cym": {"official": "Bosnia a Hercegovina", "common": "Bosnia a Hercegovina"},
 			"deu": {"official": "Bosnien und Herzegowina", "common": "Bosnien und Herzegowina"},
 			"fra": {"official": "Bosnie-et-Herz\u00e9govine", "common": "Bosnie-Herz\u00e9govine"},
 			"hrv": {"official": "Bosna i Hercegovina", "common": "Bosna i Hercegovina"},
@@ -2060,7 +2060,7 @@
 			"zho": "Chinese"
 		},
 		"translations": {
-			"cym": {"official": "People's Republic of China", "common": "Tsieina"},
+			"cym": {"official": "Gweriniaeth Pobl Tsieina", "common": "Tsieina"},
 			"deu": {"official": "Volksrepublik China", "common": "China"},
 			"fra": {"official": "R\u00e9publique populaire de Chine", "common": "Chine"},
 			"hrv": {"official": "Narodna Republika Kina", "common": "Kina"},
@@ -2155,7 +2155,7 @@
 			"fra": "French"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Cameroon", "common": "Camer\u0175n"},
+			"cym": {"official": "Gweriniaeth Camer\u0175n", "common": "Camer\u0175n"},
 			"deu": {"official": "Republik Kamerun", "common": "Kamerun"},
 			"fra": {"official": "R\u00e9publique du Cameroun", "common": "Cameroun"},
 			"hrv": {"official": "Republika Kamerun", "common": "Kamerun"},
@@ -2221,7 +2221,7 @@
 			"swa": "Swahili"
 		},
 		"translations": {
-			"cym": {"official": "Democratic Republic of the Congo", "common": "Gweriniaeth Ddemocrataidd Congo"},
+			"cym": {"official": "Gweriniaeth Ddemocrataidd Congo", "common": "Gweriniaeth Ddemocrataidd Congo"},
 			"deu": {"official": "Demokratische Republik Kongo", "common": "Kongo (Dem. Rep.)"},
 			"fra": {"official": "R\u00e9publique d\u00e9mocratique du Congo", "common": "Congo (R\u00e9p. d\u00e9m.)"},
 			"hrv": {"official": "Demokratska Republika Kongo", "common": "Kongo, Demokratska Republika"},
@@ -2277,7 +2277,7 @@
 			"lin": "Lingala"
 		},
 		"translations": {
-			"cym": {"official": "Republic of the Congo", "common": "Gweriniaeth y Congo"},
+			"cym": {"official": "Gweriniaeth y Congo", "common": "Gweriniaeth y Congo"},
 			"deu": {"official": "Republik Kongo", "common": "Kongo"},
 			"fra": {"official": "R\u00e9publique du Congo", "common": "Congo"},
 			"hrv": {"official": "Republika Kongo", "common": "Kongo"},
@@ -2328,7 +2328,7 @@
 			"rar": "Cook Islands M\u0101ori"
 		},
 		"translations": {
-			"cym": {"official": "Cook Islands", "common": "Ynysoedd Cook"},
+			"cym": {"official": "Ynysoedd Cook", "common": "Ynysoedd Cook"},
 			"deu": {"official": "Cook-Inseln", "common": "Cookinseln"},
 			"fra": {"official": "\u00celes Cook", "common": "\u00celes Cook"},
 			"hrv": {"official": "Cook Islands", "common": "Cookovo Oto\u010dje"},
@@ -2374,7 +2374,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Colombia", "common": "Colombia"},
+			"cym": {"official": "Gweriniaeth Colombia", "common": "Colombia"},
 			"deu": {"official": "Republik Kolumbien", "common": "Kolumbien"},
 			"fra": {"official": "R\u00e9publique de Colombie", "common": "Colombie"},
 			"hrv": {"official": "Republika Kolumbija", "common": "Kolumbija"},
@@ -2430,7 +2430,7 @@
 			"zdj": "Comorian"
 		},
 		"translations": {
-			"cym": {"official": "Union of the Comoros", "common": "Comoros"},
+			"cym": {"official": "Undeb y Comoros", "common": "Y Comoros"},
 			"deu": {"official": "Union der Komoren", "common": "Union der Komoren"},
 			"fra": {"official": "Union des Comores", "common": "Comores"},
 			"hrv": {"official": "Savez Komori", "common": "Komori"},
@@ -2476,7 +2476,7 @@
 			"por": "Portuguese"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Cabo Verde", "common": "Cape Verde"},
+			"cym": {"official": "Gweriniaeth Cabo Verde", "common": "Penrhyn Verde"},
 			"deu": {"official": "Republik Cabo Verde", "common": "Kap Verde"},
 			"fra": {"official": "R\u00e9publique du Cap-Vert", "common": "\u00celes du Cap-Vert"},
 			"hrv": {"official": "Republika Cabo Verde", "common": "Zelenortska Republika"},
@@ -2522,7 +2522,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Costa Rica", "common": "Costa Rica"},
+			"cym": {"official": "Gweriniaeth Costa Rica", "common": "Costa Rica"},
 			"deu": {"official": "Republik Costa Rica", "common": "Costa Rica"},
 			"fra": {"official": "R\u00e9publique du Costa Rica", "common": "Costa Rica"},
 			"hrv": {"official": "Republika Kostarika", "common": "Kostarika"},
@@ -2568,7 +2568,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Cuba", "common": "Ciwba"},
+			"cym": {"official": "Gweriniaeth Ciwba", "common": "Ciwba"},
 			"deu": {"official": "Republik Kuba", "common": "Kuba"},
 			"fra": {"official": "R\u00e9publique de Cuba", "common": "Cuba"},
 			"hrv": {"official": "Republika Kuba", "common": "Kuba"},
@@ -2666,7 +2666,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"cym": {"official": "Territory of Christmas Island", "common": "Ynys y Nadolig"},
+			"cym": {"official": "Tiriogaeth yr Ynys y Nadolig", "common": "Ynys y Nadolig"},
 			"deu": {"official": "Gebiet der Weihnachtsinsel", "common": "Weihnachtsinsel"},
 			"fra": {"official": "Territoire de l'\u00eele Christmas", "common": "\u00cele Christmas"},
 			"hrv": {"official": "Teritorij Bo\u017ei\u0107ni otok", "common": "Bo\u017ei\u0107ni otok"},
@@ -2712,7 +2712,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"cym": {"official": "Cayman Islands", "common": "Ynysoedd_Cayman"},
+			"cym": {"official": "Ynysoedd Cayman", "common": "Ynysoedd Cayman"},
 			"deu": {"official": "Cayman-Inseln", "common": "Kaimaninseln"},
 			"fra": {"official": "\u00celes Ca\u00efmans", "common": "\u00celes Ca\u00efmans"},
 			"hrv": {"official": "Kajmanski otoci", "common": "Kajmanski otoci"},
@@ -2763,7 +2763,7 @@
 			"tur": "Turkish"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Cyprus", "common": "Cyprus"},
+			"cym": {"official": "Gweriniaeth Cyprus", "common": "Cyprus"},
 			"deu": {"official": "Republik Zypern", "common": "Zypern"},
 			"fra": {"official": "R\u00e9publique de Chypre", "common": "Chypre"},
 			"hrv": {"official": "Republika Cipar", "common": "Cipar"},
@@ -2814,7 +2814,7 @@
 			"slk": "Slovak"
 		},
 		"translations": {
-			"cym": {"official": "Czech Republic", "common": "Y Weriniaeth Tsiec"},
+			"cym": {"official": "Y Weriniaeth Tsiec", "common": "Y Weriniaeth Tsiec"},
 			"deu": {"official": "Tschechische Republik", "common": "Tschechien"},
 			"fra": {"official": "R\u00e9publique tch\u00e8que", "common": "Tch\u00e9quie"},
 			"hrv": {"official": "\u010ce\u0161ka", "common": "\u010ce\u0161ka"},
@@ -2910,7 +2910,7 @@
 			"fra": "French"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Djibouti", "common": "Djibouti"},
+			"cym": {"official": "Gweriniaeth Jibwti", "common": "Jibwti"},
 			"deu": {"official": "Republik Dschibuti", "common": "Dschibuti"},
 			"fra": {"official": "R\u00e9publique de Djibouti", "common": "Djibouti"},
 			"hrv": {"official": "Republika D\u017eibuti", "common": "D\u017eibuti"},
@@ -2956,7 +2956,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"cym": {"official": "Commonwealth of Dominica", "common": "Dominica"},
+			"cym": {"official": "Cymanwlad Dominica", "common": "Dominica"},
 			"deu": {"official": "Commonwealth von Dominica", "common": "Dominica"},
 			"fra": {"official": "Commonwealth de la Dominique", "common": "Dominique"},
 			"hrv": {"official": "Zajednica Dominika", "common": "Dominika"},
@@ -3002,7 +3002,7 @@
 			"dan": "Danish"
 		},
 		"translations": {
-			"cym": {"official": "Kingdom of Denmark", "common": "Denmarc"},
+			"cym": {"official": "Teyrnas Denmarc", "common": "Denmarc"},
 			"deu": {"official": "K\u00f6nigreich D\u00e4nemark", "common": "D\u00e4nemark"},
 			"fra": {"official": "Royaume du Danemark", "common": "Danemark"},
 			"hrv": {"official": "Kraljevina Danska", "common": "Danska"},
@@ -3048,7 +3048,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Dominican Republic", "common": "Gweriniaeth_Dominica"},
+			"cym": {"official": "Gweriniaeth Dominica", "common": "Gweriniaeth Dominica"},
 			"deu": {"official": "Dominikanische Republik", "common": "Dominikanische Republik"},
 			"fra": {"official": "R\u00e9publique Dominicaine", "common": "R\u00e9publique dominicaine"},
 			"hrv": {"official": "Dominikanska Republika", "common": "Dominikanska Republika"},
@@ -3094,7 +3094,7 @@
 			"ara": "Arabic"
 		},
 		"translations": {
-			"cym": {"official": "People's Democratic Republic of Algeria", "common": "Algeria"},
+			"cym": {"official": "Gweriniaeth Ddemocrataidd Pobl Algeria", "common": "Algeria"},
 			"deu": {"official": "Demokratische Volksrepublik Algerien", "common": "Algerien"},
 			"fra": {"official": "R\u00e9publique d\u00e9mocratique et populaire d'Alg\u00e9rie", "common": "Alg\u00e9rie"},
 			"hrv": {"official": "Narodna Demokratska Republika Al\u017eir", "common": "Al\u017eir"},
@@ -3140,7 +3140,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Ecuador", "common": "Ecwador"},
+			"cym": {"official": "Gweriniaeth Ecwador", "common": "Ecwador"},
 			"deu": {"official": "Republik Ecuador", "common": "Ecuador"},
 			"fra": {"official": "R\u00e9publique de l'\u00c9quateur", "common": "\u00c9quateur"},
 			"hrv": {"official": "Republika Ekvador", "common": "Ekvador"},
@@ -3186,7 +3186,7 @@
 			"ara": "Arabic"
 		},
 		"translations": {
-			"cym": {"official": "Arab Republic of Egypt", "common": "Yr Aifft"},
+			"cym": {"official": "Gweriniaeth Arabaidd yr Aifft", "common": "Yr Aifft"},
 			"deu": {"official": "Arabische Republik \u00c4gypten", "common": "\u00c4gypten"},
 			"fra": {"official": "R\u00e9publique arabe d'\u00c9gypte", "common": "\u00c9gypte"},
 			"hrv": {"official": "Arapska Republika Egipat", "common": "Egipat"},
@@ -3242,7 +3242,7 @@
 			"tir": "Tigrinya"
 		},
 		"translations": {
-			"cym": {"official": "State of Eritrea", "common": "Eritrea"},
+			"cym": {"official": "Gwladwriaeth Eritrea", "common": "Eritrea"},
 			"deu": {"official": "Staat Eritrea", "common": "Eritrea"},
 			"fra": {"official": "\u00c9tat d'\u00c9rythr\u00e9e", "common": "\u00c9rythr\u00e9e"},
 			"hrv": {"official": "Dr\u017eava Eritreji", "common": "Eritreja"},
@@ -3408,7 +3408,7 @@
 			"est": "Estonian"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Estonia", "common": "Estonia"},
+			"cym": {"official": "Gweriniaeth Estonia", "common": "Estonia"},
 			"deu": {"official": "Republik Estland", "common": "Estland"},
 			"fra": {"official": "R\u00e9publique d'Estonie", "common": "Estonie"},
 			"hrv": {"official": "Republika Estonija", "common": "Estonija"},
@@ -3454,7 +3454,7 @@
 			"amh": "Amharic"
 		},
 		"translations": {
-			"cym": {"official": "Federal Democratic Republic of Ethiopia", "common": "Ethiopia"},
+			"cym": {"official": "Gweriniaeth Ddemocrataidd Ffederal Ethiopia", "common": "Ethiopia"},
 			"deu": {"official": "Demokratische Bundesrepublik \u00c4thiopien", "common": "\u00c4thiopien"},
 			"fra": {"official": "R\u00e9publique f\u00e9d\u00e9rale d\u00e9mocratique d'\u00c9thiopie", "common": "\u00c9thiopie"},
 			"hrv": {"official": "Savezna Demokratska Republika Etiopija", "common": "Etiopija"},
@@ -4260,7 +4260,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Equatorial Guinea", "common": "Gini Gyhydeddol"},
+			"cym": {"official": "Gweriniaeth Gini Gyhydeddol", "common": "Gini Gyhydeddol"},
 			"deu": {"official": "Republik \u00c4quatorialguinea", "common": "\u00c4quatorialguinea"},
 			"fra": {"official": "R\u00e9publique de Guin\u00e9e \u00e9quatoriale", "common": "Guin\u00e9e \u00e9quatoriale"},
 			"hrv": {"official": "Republika Ekvatorska Gvineja", "common": "Ekvatorijalna Gvineja"},
@@ -4770,7 +4770,7 @@
 			"hrv": "Croatian"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Croatia", "common": "Croatia"},
+			"cym": {"official": "Gweriniaeth Croatia", "common": "Croatia"},
 			"deu": {"official": "Republik Kroatien", "common": "Kroatien"},
 			"fra": {"official": "R\u00e9publique de Croatie", "common": "Croatie"},
 			"hrv": {"official": "Republika Hrvatska", "common": "Hrvatska"},
@@ -5061,7 +5061,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"cym": {"official": "British Indian Ocean Territory", "common": "Tiriogaeth Brydeinig Cefnfor India"},
+			"cym": {"official": "Tiriogaeth Brydeinig Cefnfor India", "common": "Tiriogaeth Brydeinig Cefnfor India"},
 			"deu": {"official": "Britisch-Indischer Ozean", "common": "Britisches Territorium im Indischen Ozean"},
 			"fra": {"official": "Territoire britannique de l' oc\u00e9an Indien", "common": "Territoire britannique de l'oc\u00e9an Indien"},
 			"hrv": {"official": "British Indian Ocean Territory", "common": "Britanski Indijskooceanski teritorij"},
@@ -5752,7 +5752,7 @@
 			"khm": "Khmer"
 		},
 		"translations": {
-			"cym": {"official": "Kingdom of Cambodia", "common": "Cambodia"},
+			"cym": {"official": "Teyrnas Cambodia", "common": "Cambodia"},
 			"deu": {"official": "K\u00f6nigreich Kambodscha", "common": "Kambodscha"},
 			"fra": {"official": "Royaume du Cambodge", "common": "Cambodge"},
 			"hrv": {"official": "Kraljevina Kambod\u017ea", "common": "Kambod\u017ea"},
@@ -9635,7 +9635,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Republic of El Salvador", "common": "El Salvador"},
+			"cym": {"official": "Gweriniaeth El Salfador", "common": "El Salfador"},
 			"deu": {"official": "Republik El Salvador", "common": "El Salvador"},
 			"fra": {"official": "R\u00e9publique du Salvador", "common": "Salvador"},
 			"hrv": {"official": "Republika El Salvador", "common": "Salvador"},
@@ -10390,7 +10390,7 @@
 			"fra": "French"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Chad", "common": "Tsiad"},
+			"cym": {"official": "Gweriniaeth Tsiad", "common": "Tsiad"},
 			"deu": {"official": "Republik Tschad", "common": "Tschad"},
 			"fra": {"official": "R\u00e9publique du Tchad", "common": "Tchad"},
 			"hrv": {"official": "\u010cadu", "common": "\u010cad"},
