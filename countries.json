@@ -85,7 +85,7 @@
 			"tuk": "Turkmen"
 		},
 		"translations": {
-			"cym": {"official": "Islamic Republic of Afghanistan", "common": "Affganistan"},
+			"cym": {"official": "Gweriniaeth Islamaidd Affganistan", "common": "Affganistan"},
 			"deu": {"official": "Islamische Republik Afghanistan", "common": "Afghanistan"},
 			"fra": {"official": "R\u00e9publique islamique d'Afghanistan", "common": "Afghanistan"},
 			"hrv": {"official": "Islamska Republika Afganistan", "common": "Afganistan"},
@@ -131,7 +131,7 @@
 			"por": "Portuguese"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Angola", "common": "Angola"},
+			"cym": {"official": "Gweriniaeth Angola", "common": "Angola"},
 			"deu": {"official": "Republik Angola", "common": "Angola"},
 			"fra": {"official": "R\u00e9publique d'Angola", "common": "Angola"},
 			"hrv": {"official": "Republika Angola", "common": "Angola"},
@@ -267,7 +267,7 @@
 			"sqi": "Albanian"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Albania", "common": "Albania"},
+			"cym": {"official": "Gweriniaeth Albania", "common": "Albania"},
 			"deu": {"official": "Republik Albanien", "common": "Albanien"},
 			"fra": {"official": "R\u00e9publique d'Albanie", "common": "Albanie"},
 			"hrv": {"official": "Republika Albanija", "common": "Albanija"},
@@ -313,7 +313,7 @@
 			"cat": "Catalan"
 		},
 		"translations": {
-			"cym": {"official": "Principality of Andorra", "common": "Andorra"},
+			"cym": {"official": "Tywysogaeth Andorra", "common": "Andorra"},
 			"deu": {"official": "F\u00fcrstentum Andorra", "common": "Andorra"},
 			"fra": {"official": "Principaut\u00e9 d'Andorre", "common": "Andorre"},
 			"hrv": {"official": "Kne\u017eevina Andora", "common": "Andora"},
@@ -409,7 +409,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Argentine Republic", "common": "Ariannin"},
+			"cym": {"official": "Gweriniaeth yr Ariannin", "common": "Ariannin"},
 			"deu": {"official": "Argentinische Republik", "common": "Argentinien"},
 			"fra": {"official": "R\u00e9publique argentine", "common": "Argentine"},
 			"hrv": {"official": "Argentinski Republika", "common": "Argentina"},
@@ -460,7 +460,7 @@
 			"rus": "Russian"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Armenia", "common": "Armenia"},
+			"cym": {"official": "Gweriniaeth Armenia", "common": "Armenia"},
 			"deu": {"official": "Republik Armenien", "common": "Armenien"},
 			"fra": {"official": "R\u00e9publique d'Arm\u00e9nie", "common": "Arm\u00e9nie"},
 			"hrv": {"official": "Republika Armenija", "common": "Armenija"},
@@ -549,7 +549,7 @@
 		"subregion": "",
 		"languages": {},
 		"translations": {
-			"cym": {"official": "Antarctica", "common": "Antarctica"},
+			"cym": {"official": "Yr Antarctig", "common": "Yr Antarctig"},
 			"deu": {"official": "Antarktika", "common": "Antarktis"},
 			"fra": {"official": "Antarctique", "common": "Antarctique"},
 			"hrv": {"official": "Antarktika", "common": "Antarktika"},
@@ -640,7 +640,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"cym": {"official": "Antigua and Barbuda", "common": "Antigwa a Barbiwda"},
+			"cym": {"official": "Antigwa a Barbiwda", "common": "Antigwa a Barbiwda"},
 			"deu": {"official": "Antigua und Barbuda", "common": "Antigua und Barbuda"},
 			"fra": {"official": "Antigua -et-Barbuda", "common": "Antigua-et-Barbuda"},
 			"hrv": {"official": "Antigva i Barbuda", "common": "Antigva i Barbuda"},
@@ -686,7 +686,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"cym": {"official": "Commonwealth of Australia", "common": "Awstralia"},
+			"cym": {"official": "Cymanwlad Awstralia", "common": "Awstralia"},
 			"deu": {"official": "Commonwealth Australien", "common": "Australien"},
 			"fra": {"official": "Australie", "common": "Australie"},
 			"hrv": {"official": "Commonwealth of Australia", "common": "Australija"},
@@ -732,7 +732,7 @@
 			"bar": "Austro-Bavarian German"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Austria", "common": "Awstria"},
+			"cym": {"official": "Gweriniaeth Awstria", "common": "Awstria"},
 			"deu": {"official": "Republik \u00d6sterreich", "common": "\u00d6sterreich"},
 			"fra": {"official": "R\u00e9publique d'Autriche", "common": "Autriche"},
 			"hrv": {"official": "Republika Austrija", "common": "Austrija"},
@@ -783,7 +783,7 @@
 			"rus": "Russian"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Azerbaijan", "common": "Aserbaijan"},
+			"cym": {"official": "Gweriniaeth Aserbaijan", "common": "Aserbaijan"},
 			"deu": {"official": "Republik Aserbaidschan", "common": "Aserbaidschan"},
 			"fra": {"official": "R\u00e9publique d'Azerba\u00efdjan", "common": "Azerba\u00efdjan"},
 			"hrv": {"official": "Republika Azerbajd\u017ean", "common": "Azerbajd\u017ean"},
@@ -834,7 +834,7 @@
 			"run": "Kirundi"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Burundi", "common": "Bwrwndi"},
+			"cym": {"official": "Gweriniaeth Bwrwndi", "common": "Bwrwndi"},
 			"deu": {"official": "Republik Burundi", "common": "Burundi"},
 			"fra": {"official": "R\u00e9publique du Burundi", "common": "Burundi"},
 			"hrv": {"official": "Burundi", "common": "Burundi"},
@@ -890,7 +890,7 @@
 			"nld": "Dutch"
 		},
 		"translations": {
-			"cym": {"official": "Kingdom of Belgium", "common": "Gwlad Belg"},
+			"cym": {"official": "Teyrnas Gwlad Belg", "common": "Gwlad Belg"},
 			"deu": {"official": "K\u00f6nigreich Belgien", "common": "Belgien"},
 			"fra": {"official": "Royaume de Belgique", "common": "Belgique"},
 			"hrv": {"official": "Kraljevina Belgija", "common": "Belgija"},
@@ -936,7 +936,7 @@
 			"fra": "French"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Benin", "common": "Benin"},
+			"cym": {"official": "Gweriniaeth Benin", "common": "Benin"},
 			"deu": {"official": "Republik Benin", "common": "Benin"},
 			"fra": {"official": "R\u00e9publique du B\u00e9nin", "common": "B\u00e9nin"},
 			"hrv": {"official": "Republika Benin", "common": "Benin"},
@@ -1028,7 +1028,7 @@
 			"ben": "Bengali"
 		},
 		"translations": {
-			"cym": {"official": "People's Republic of Bangladesh", "common": "Bangladesh"},
+			"cym": {"official": "Gweriniaeth Pobl Bangladesh", "common": "Bangladesh"},
 			"deu": {"official": "Volksrepublik Bangladesch", "common": "Bangladesch"},
 			"fra": {"official": "La R\u00e9publique populaire du Bangladesh", "common": "Bangladesh"},
 			"hrv": {"official": "Narodna Republika Banglade\u0161", "common": "Banglade\u0161"},
@@ -1074,7 +1074,7 @@
 			"bul": "Bulgarian"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Bulgaria", "common": "Bwlgaria"},
+			"cym": {"official": "Gweriniaeth Bwlgaria", "common": "Bwlgaria"},
 			"deu": {"official": "Republik Bulgarien", "common": "Bulgarien"},
 			"fra": {"official": "R\u00e9publique de Bulgarie", "common": "Bulgarie"},
 			"hrv": {"official": "Republika Bugarska", "common": "Bugarska"},
@@ -1120,7 +1120,7 @@
 			"ara": "Arabic"
 		},
 		"translations": {
-			"cym": {"official": "Kingdom of Bahrain", "common": "Bahrain"},
+			"cym": {"official": "Teyrnas Bahrein", "common": "Bahrain"},
 			"deu": {"official": "K\u00f6nigreich Bahrain", "common": "Bahrain"},
 			"fra": {"official": "Royaume de Bahre\u00efn", "common": "Bahre\u00efn"},
 			"hrv": {"official": "Kraljevina Bahrein", "common": "Bahrein"},
@@ -1166,7 +1166,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"cym": {"official": "Commonwealth of the Bahamas", "common": "Bahamas"},
+			"cym": {"official": "Cymanwlad y Bahamas", "common": "Bahamas"},
 			"deu": {"official": "Commonwealth der Bahamas", "common": "Bahamas"},
 			"fra": {"official": "Commonwealth des Bahamas", "common": "Bahamas"},
 			"hrv": {"official": "Zajednica Bahama", "common": "Bahami"},
@@ -1318,7 +1318,7 @@
 			"rus": "Russian"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Belarus", "common": "Belarws"},
+			"cym": {"official": "Gweriniaeth Belarws", "common": "Belarws"},
 			"deu": {"official": "Republik Belarus", "common": "Wei\u00dfrussland"},
 			"fra": {"official": "R\u00e9publique de Bi\u00e9lorussie", "common": "Bi\u00e9lorussie"},
 			"hrv": {"official": "Republika Bjelorusija", "common": "Bjelorusija"},
@@ -1374,7 +1374,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Belize", "common": "Belîs"},
+			"cym": {"official": "Belîs", "common": "Belîs"},
 			"deu": {"official": "Belize", "common": "Belize"},
 			"fra": {"official": "Belize", "common": "Belize"},
 			"hrv": {"official": "Belize", "common": "Belize"},
@@ -1420,7 +1420,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"cym": {"official": "Bermuda", "common": "Bermiwda"},
+			"cym": {"official": "Bermiwda", "common": "Bermiwda"},
 			"deu": {"official": "Bermuda", "common": "Bermuda"},
 			"fra": {"official": "Bermudes", "common": "Bermudes"},
 			"hrv": {"official": "Bermuda", "common": "Bermudi"},
@@ -1481,7 +1481,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Plurinational State of Bolivia", "common": "Bolifia"},
+			"cym": {"official": "Gweriniaeth Bolifia", "common": "Bolifia"},
 			"deu": {"official": "Multinationaler Staat von Bolivien", "common": "Bolivien"},
 			"fra": {"official": "\u00c9tat plurinational de Bolivie", "common": "Bolivie"},
 			"hrv": {"official": "Plurinational State of Bolivia", "common": "Bolivija"},
@@ -1527,7 +1527,7 @@
 			"por": "Portuguese"
 		},
 		"translations": {
-			"cym": {"official": "Federative Republic of Brazil", "common": "Brasil"},
+			"cym": {"official": "Gweriniaeth Ffederal Brasil", "common": "Brasil"},
 			"deu": {"official": "F\u00f6derative Republik Brasilien", "common": "Brasilien"},
 			"fra": {"official": "R\u00e9publique f\u00e9d\u00e9rative du Br\u00e9sil", "common": "Br\u00e9sil"},
 			"hrv": {"official": "Savezne Republike Brazil", "common": "Brazil"},
@@ -1619,7 +1619,7 @@
 			"msa": "Malay"
 		},
 		"translations": {
-			"cym": {"official": "Nation of Brunei, Abode of Peace", "common": "Brunei"},
+			"cym": {"official": "Teyrnas Brwnei", "common": "Brunei"},
 			"deu": {"official": "Nation von Brunei, Wohnung des Friedens", "common": "Brunei"},
 			"fra": {"official": "\u00c9tat de Brunei Darussalam", "common": "Brunei"},
 			"hrv": {"official": "Nacija od Bruneja, Ku\u0107u Mira", "common": "Brunej"},
@@ -1665,7 +1665,7 @@
 			"dzo": "Dzongkha"
 		},
 		"translations": {
-			"cym": {"official": "Kingdom of Bhutan", "common": "Bhwtan"},
+			"cym": {"official": "Teyrnas Bhwtan", "common": "Bhwtan"},
 			"deu": {"official": "K\u00f6nigreich Bhutan", "common": "Bhutan"},
 			"fra": {"official": "Royaume du Bhoutan", "common": "Bhoutan"},
 			"hrv": {"official": "Kraljevina Butan", "common": "Butan"},
@@ -1811,7 +1811,7 @@
 			"sag": "Sango"
 		},
 		"translations": {
-			"cym": {"official": "Central African Republic", "common": "Gweriniaeth Canolbarth Affrica"},
+			"cym": {"official": "Gweriniaeth Canolbarth Affrica", "common": "Gweriniaeth Canolbarth Affrica"},
 			"deu": {"official": "Zentralafrikanische Republik", "common": "Zentralafrikanische Republik"},
 			"fra": {"official": "R\u00e9publique centrafricaine", "common": "R\u00e9publique centrafricaine"},
 			"hrv": {"official": "Centralna Afri\u010dka Republika", "common": "Srednjoafri\u010dka Republika"},
@@ -1908,7 +1908,7 @@
 			"eng": "English"
 		},
 		"translations": {
-			"cym": {"official": "Territory of the Cocos (Keeling) Islands", "common": "Ynysoedd Cocos"},
+			"cym": {"official": "Tiriogaeth yr Ynysoedd Cocos (Keeling)", "common": "Ynysoedd Cocos"},
 			"deu": {"official": "Gebiet der Cocos (Keeling) Islands", "common": "Kokosinseln"},
 			"fra": {"official": "Territoire des \u00eeles Cocos (Keeling)", "common": "\u00celes Cocos"},
 			"hrv": {"official": "Teritoriju Kokosovi (Keeling) Islands", "common": "Kokosovi Otoci"},
@@ -2014,7 +2014,7 @@
 			"spa": "Spanish"
 		},
 		"translations": {
-			"cym": {"official": "Republic of Chile", "common": "Chile"},
+			"cym": {"official": "Gweriniaeth Chile", "common": "Chile"},
 			"deu": {"official": "Republik Chile", "common": "Chile"},
 			"fra": {"official": "R\u00e9publique du Chili", "common": "Chili"},
 			"hrv": {"official": "Republika \u010cile", "common": "\u010cile"},
