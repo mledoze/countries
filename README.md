@@ -159,7 +159,7 @@ Projects using this dataset:
 - [Country Prefix Codes For Go](https://github.com/relops/prefixes)
 - [Country Info Mapper in Go](https://github.com/pirsquare/country-mapper)
 - [Visa requirements in JSON](https://github.com/herrniemand/visas)
-- [Counter picker modal for React Native](https://github.com/xcarpentier/react-native-country-picker-modal)
+- [Country picker modal for React Native](https://github.com/xcarpentier/react-native-country-picker-modal)
 - [Agnostic Virtual Assistant](https://github.com/ava-ia/core)
 
 ## How to contribute?
