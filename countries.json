@@ -1503,6 +1503,57 @@
 	},
 	{
 		"name": {
+			"common": "Bonaire, Sint Eustatius and Saba",
+			"official": "Bonaire, Sint Eustatius and Saba",
+			"native": {
+				"nld": {
+					"official": "Bonaire, Sint Eustatius en Saba",
+					"common": "Bonaire, Sint Eustatius en Saba"
+				},
+				"pap": {
+					"official": "Entidat p\u00fabliko Boneiru",
+					"common": "Boneiru, Sint Eustatius y Saba"
+				},
+				"spa": {
+					"official": "Entidad p\u00FAblica Bonaire, San Eustaquio y la Isla de Saba",
+					"common": "Bonaire, San Eustaquio y Saba"
+				}
+			}
+		},
+		"tld": [".an", ".bq", ".nl"],
+		"cca2": "BQ",
+		"ccn3": "535",
+		"cca3": "BES",
+		"cioc": "",
+		"currency": ["USD"],
+		"callingCode": ["5997"],
+		"capital": "",
+		"altSpellings": ["Caribbean Netherlands", "BES Islands", "Caribisch Nederland", "BES-eilanden", "Isole BES", "Paesi Bassi caraibici", "Pays-Bas carib\u00e9ens", "\u00CEles BES", "BES-Inseln", "Caribe Neerland\u00e9s", "Islas BES", "Pa\u00edses Baixos Caribenhos", "Cara\u00edbas Neerlandesas", "BES\u8AF8\u5CF6", "\u30AB\u30EA\u30D6\u30FB\u30AA\u30E9\u30F3\u30C0", "Hulanda Karibe", "\u041A\u0430\u0440\u0438\u0301\u0431\u0441\u043A\u0438\u0435 \u041D\u0438\u0434\u0435\u0440\u043B\u0430\u0301\u043D\u0434\u044B"],
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"languages": {
+			"nld": "Dutch"
+		},
+		"translations": {
+			"deu": {"official": "Bonaire, Sint Eustatius und Saba", "common": "Bonaire, Sint Eustatius und Saba"},
+			"fra": {"official": "Bonaire, Saint-Eustache et Saba", "common": "Bonaire, Saint-Eustache et Saba"},
+			"hrv": {"official": "Bonaire, Sint Eustatius i Saba", "common": "Bonaire, Sint Eustatius i Saba"},
+			"ita": {"official": "Bonaire, Sint Eustatius e Saba", "common": "Bonaire, Sint Eustatius e Saba"},
+			"jpn": {"official": "\u30dc\u30cd\u30fc\u30eb\u3001\u30b7\u30f3\u30c8\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u304a\u3088\u3073\u30b5\u30d0", "common": "\u30dc\u30cd\u30fc\u30eb\u3001\u30b7\u30f3\u30c8\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u304a\u3088\u3073\u30b5\u30d0"},
+			"nld": {"official": "Bonaire, Sint Eustatius en Saba", "common": "Bonaire, Sint Eustatius en Saba"},
+			"por": {"official": "Bonaire, Sint Eustatius e Saba", "common": "Bonaire, Sint Eustatius e Saba"},
+			"rus": {"official": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435, \u0421\u0438\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u0438\u0443\u0441 \u0438 \u0421\u0430\u0431\u0430 - \u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u0410\u043d\u0442\u0438\u043b\u044c\u0441\u043a\u0438\u0435", "common": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435, \u0421\u0438\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u0438\u0443\u0441 \u0438 \u0421\u0430\u0431\u0430 - \u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0435 \u0410\u043d\u0442\u0438\u043b\u044c\u0441\u043a\u0438\u0435"},
+			"spa": {"official": "Entidad p\u00FAblica Bonaire, San Eustaquio y la Isla de Saba", "common": "Bonaire, San Eustaquio y Saba"},
+			"fin": {"official": "Bonaire, Sint Eustatius ja Saba", "common": "Bonaire, Sint Eustatius ja Saba"}
+		},
+		"latlng": [12.194274, -68.249092],
+		"demonym": "Dutch",
+		"landlocked": false,
+		"borders": [],
+		"area": 328
+	},
+	{
+		"name": {
 			"common": "Brazil",
 			"official": "Federative Republic of Brazil",
 			"native": {
@@ -9369,6 +9420,49 @@
 		"landlocked": false,
 		"borders": ["GMB", "GIN", "GNB", "MLI", "MRT"],
 		"area": 196722
+	},
+	{
+		"name": {
+			"common": "Saint Helena, Ascension and Tristan da Cunha",
+			"official": "Saint Helena, Ascension Island and Tristan da Cunha",
+			"native": {
+				"eng": {
+					"official": "Saint Helena, Ascension Island and Tristan da Cunha",
+					"common": "Saint Helena, Ascension and Tristan da Cunha"
+				}
+			}
+		},
+		"tld": [".sh"],
+		"cca2": "SH",
+		"ccn3": "654",
+		"cca3": "SHN",
+		"cioc": "",
+		"currency": ["SHP"],
+		"callingCode": ["290"],
+		"capital": "Jamestown",
+		"altSpellings": ["SH"],
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"languages": {
+			"eng": "English"
+		},
+		"translations": {
+			"deu": {"official": "Sankt Helena, Ascension und Tristan da Cunha", "common": "St. Helena, Ascension und Tristan da Cunha"},
+			"fra": {"official": "Sainte-H\u00e9l\u00e8ne, \u00cele de l'Ascension et Tristan da Cunha", "common": "Sainte-H\u00e9l\u00e8ne, Ascension et Tristan da Cunha"},
+			"hrv": {"official": "Sveta Helena, Otok Ascension i Tristan da Cunha", "common": "Sveta Helena, Ascension i Tristan da Cunha"},
+			"ita": {"official": "Sant'Elena, Isola di Ascensione e Tristan da Cunha", "common": "Sant'Elena, Ascensione e Tristan da Cunha"},
+			"jpn": {"official": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u5cf6\u3001\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30fb\u30c0\u30fb\u30af\u30fc\u30cb\u30e3", "common": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u5cf6\u3001\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30fb\u30c0\u30fb\u30af\u30fc\u30cb\u30e3"},
+			"nld": {"official": "Sint-Helena, Ascension en Tristan da Cunha", "common": "Sint-Helena, Ascension en Tristan da Cunha"},
+			"por": {"official": "Santa Helena, Ilha de Ascens\u00e3o e Trist\u00e3o da Cunha", "common": "Santa Helena, Ascens\u00e3o e Trist\u00e3o da Cunha"},
+			"rus": {"official": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b, \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0438 \u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430-\u041a\u0443\u043d\u044c\u044f", "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b, \u043e\u0441\u0442\u0440\u043e\u0432\u0430 \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0438 \u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430-\u041a\u0443\u043d\u044c\u044f"},
+			"spa": {"official": "Santa Elena, Isla Ascensi\u00f3n y Trist\u00e1n de Acu\u00f1a", "common": "Santa Helena, Ascensi\u00f3n y Trist\u00e1n de Acu\u00f1a"},
+			"fin": {"official": "Saint Helena, Ascension ja Tristan da Cunha", "common": "Saint Helena, Ascension ja Tristan da Cunha"}
+		},
+		"latlng": [-15.961264, -5.708248],
+		"demonym": "Saint Helenian",
+		"landlocked": false,
+		"borders": [],
+		"area": 438
 	},
 	{
 		"name": {
