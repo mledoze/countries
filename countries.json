@@ -103,7 +103,8 @@
 		"demonym": "Afghan",
 		"landlocked": true,
 		"borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"],
-		"area": 652230
+		"area": 652230,
+		"flag": "🇦🇫"
 	},
 	{
 		"name": {
@@ -149,7 +150,8 @@
 		"demonym": "Angolan",
 		"landlocked": false,
 		"borders": ["COG", "COD", "ZMB", "NAM"],
-		"area": 1246700
+		"area": 1246700,
+		"flag": "🇦🇴"
 	},
 	{
 		"name": {
@@ -194,7 +196,8 @@
 		"demonym": "Anguillian",
 		"landlocked": false,
 		"borders": [],
-		"area": 91
+		"area": 91,
+		"flag": "🇦🇮"
 	},
 	{
 		"name": {
@@ -239,7 +242,8 @@
 		"demonym": "\u00c5landish",
 		"landlocked": false,
 		"borders": [],
-		"area": 1580
+		"area": 1580,
+		"flag": "🇦🇽"
 	},
 	{
 		"name": {
@@ -285,7 +289,8 @@
 		"demonym": "Albanian",
 		"landlocked": false,
 		"borders": ["MNE", "GRC", "MKD", "UNK"],
-		"area": 28748
+		"area": 28748,
+		"flag": "🇦🇱"
 	},
 	{
 		"name": {
@@ -331,7 +336,8 @@
 		"demonym": "Andorran",
 		"landlocked": true,
 		"borders": ["FRA", "ESP"],
-		"area": 468
+		"area": 468,
+		"flag": "🇦🇩"
 	},
 	{
 		"name": {
@@ -376,7 +382,8 @@
 		"demonym": "Emirati",
 		"landlocked": false,
 		"borders": ["OMN", "SAU"],
-		"area": 83600
+		"area": 83600,
+		"flag": "🇦🇪"
 	},
 	{
 		"name": {
@@ -427,7 +434,8 @@
 		"demonym": "Argentine",
 		"landlocked": false,
 		"borders": ["BOL", "BRA", "CHL", "PRY", "URY"],
-		"area": 2780400
+		"area": 2780400,
+		"flag": "🇦🇷"
 	},
 	{
 		"name": {
@@ -478,7 +486,8 @@
 		"demonym": "Armenian",
 		"landlocked": true,
 		"borders": ["AZE", "GEO", "IRN", "TUR"],
-		"area": 29743
+		"area": 29743,
+		"flag": "🇦🇲"
 	},
 	{
 		"name": {
@@ -528,7 +537,8 @@
 		"demonym": "American Samoan",
 		"landlocked": false,
 		"borders": [],
-		"area": 199
+		"area": 199,
+		"flag": "🇦🇸"
 	},
 	{
 		"name": {
@@ -567,7 +577,8 @@
 		"demonym": "Antarctican",
 		"landlocked": false,
 		"borders": [],
-		"area": 14000000
+		"area": 14000000,
+		"flag": "🇦🇶"
 	},
 	{
 		"name": {
@@ -612,7 +623,8 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": [],
-		"area": 7747
+		"area": 7747,
+		"flag": "🇹🇫"
 	},
 	{
 		"name": {
@@ -658,7 +670,8 @@
 		"demonym": "Antiguan, Barbudan",
 		"landlocked": false,
 		"borders": [],
-		"area": 442
+		"area": 442,
+		"flag": "🇦🇬"
 	},
 	{
 		"name": {
@@ -704,7 +717,8 @@
 		"demonym": "Australian",
 		"landlocked": false,
 		"borders": [],
-		"area": 7692024
+		"area": 7692024,
+		"flag": "🇦🇺"
 	},
 	{
 		"name": {
@@ -750,7 +764,8 @@
 		"demonym": "Austrian",
 		"landlocked": true,
 		"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
-		"area": 83871
+		"area": 83871,
+		"flag": "🇦🇹"
 	},
 	{
 		"name": {
@@ -801,7 +816,8 @@
 		"demonym": "Azerbaijani",
 		"landlocked": true,
 		"borders": ["ARM", "GEO", "IRN", "RUS", "TUR"],
-		"area": 86600
+		"area": 86600,
+		"flag": "🇦🇿"
 	},
 	{
 		"name": {
@@ -852,7 +868,8 @@
 		"demonym": "Burundian",
 		"landlocked": true,
 		"borders": ["COD", "RWA", "TZA"],
-		"area": 27834
+		"area": 27834,
+		"flag": "🇧🇮"
 	},
 	{
 		"name": {
@@ -908,7 +925,8 @@
 		"demonym": "Belgian",
 		"landlocked": false,
 		"borders": ["FRA", "DEU", "LUX", "NLD"],
-		"area": 30528
+		"area": 30528,
+		"flag": "🇧🇪"
 	},
 	{
 		"name": {
@@ -954,7 +972,8 @@
 		"demonym": "Beninese",
 		"landlocked": false,
 		"borders": ["BFA", "NER", "NGA", "TGO"],
-		"area": 112622
+		"area": 112622,
+		"flag": "🇧🇯"
 	},
 	{
 		"name": {
@@ -1000,7 +1019,8 @@
 		"demonym": "Burkinabe",
 		"landlocked": true,
 		"borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"],
-		"area": 272967
+		"area": 272967,
+		"flag": "🇧🇫"
 	},
 	{
 		"name": {
@@ -1046,7 +1066,8 @@
 		"demonym": "Bangladeshi",
 		"landlocked": false,
 		"borders": ["MMR", "IND"],
-		"area": 147570
+		"area": 147570,
+		"flag": "🇧🇩"
 	},
 	{
 		"name": {
@@ -1092,7 +1113,8 @@
 		"demonym": "Bulgarian",
 		"landlocked": false,
 		"borders": ["GRC", "MKD", "ROU", "SRB", "TUR"],
-		"area": 110879
+		"area": 110879,
+		"flag": "🇧🇬"
 	},
 	{
 		"name": {
@@ -1138,7 +1160,8 @@
 		"demonym": "Bahraini",
 		"landlocked": false,
 		"borders": [],
-		"area": 765
+		"area": 765,
+		"flag": "🇧🇭"
 	},
 	{
 		"name": {
@@ -1184,7 +1207,8 @@
 		"demonym": "Bahamian",
 		"landlocked": false,
 		"borders": [],
-		"area": 13943
+		"area": 13943,
+		"flag": "🇧🇸"
 	},
 	{
 		"name": {
@@ -1240,7 +1264,8 @@
 		"demonym": "Bosnian, Herzegovinian",
 		"landlocked": false,
 		"borders": ["HRV", "MNE", "SRB"],
-		"area": 51209
+		"area": 51209,
+		"flag": "🇧🇦"
 	},
 	{
 		"name": {
@@ -1285,7 +1310,8 @@
 		"demonym": "Saint Barth\u00e9lemy Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 21
+		"area": 21,
+		"flag": "🇧🇱"
 	},
 	{
 		"name": {
@@ -1336,7 +1362,8 @@
 		"demonym": "Belarusian",
 		"landlocked": true,
 		"borders": ["LVA", "LTU", "POL", "RUS", "UKR"],
-		"area": 207600
+		"area": 207600,
+		"flag": "🇧🇾"
 	},
 	{
 		"name": {
@@ -1392,7 +1419,8 @@
 		"demonym": "Belizean",
 		"landlocked": false,
 		"borders": ["GTM", "MEX"],
-		"area": 22966
+		"area": 22966,
+		"country": "🇧🇿"
 	},
 	{
 		"name": {
@@ -1438,7 +1466,8 @@
 		"demonym": "Bermudian",
 		"landlocked": false,
 		"borders": [],
-		"area": 54
+		"area": 54,
+		"flag": "🇧🇲"
 	},
 	{
 		"name": {
@@ -1499,7 +1528,8 @@
 		"demonym": "Bolivian",
 		"landlocked": true,
 		"borders": ["ARG", "BRA", "CHL", "PRY", "PER"],
-		"area": 1098581
+		"area": 1098581,
+		"flag": "🇧🇴"
 	},
 	{
 		"name": {
@@ -1545,7 +1575,8 @@
 		"demonym": "Brazilian",
 		"landlocked": false,
 		"borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
-		"area": 8515767
+		"area": 8515767,
+		"flag": "🇧🇷"
 	},
 	{
 		"name": {
@@ -1591,7 +1622,8 @@
 		"demonym": "Barbadian",
 		"landlocked": false,
 		"borders": [],
-		"area": 430
+		"area": 430,
+		"flag": "🇧🇧"
 	},
 	{
 		"name": {
@@ -1637,7 +1669,8 @@
 		"demonym": "Bruneian",
 		"landlocked": false,
 		"borders": ["MYS"],
-		"area": 5765
+		"area": 5765,
+		"flag": "🇧🇳"
 	},
 	{
 		"name": {
@@ -1683,7 +1716,8 @@
 		"demonym": "Bhutanese",
 		"landlocked": true,
 		"borders": ["CHN", "IND"],
-		"area": 38394
+		"area": 38394,
+		"flag": "🇧🇹"
 	},
 	{
 		"name": {
@@ -1728,7 +1762,8 @@
 		"demonym": "",
 		"landlocked": false,
 		"borders": [],
-		"area": 49
+		"area": 49,
+		"flag": "🇧🇻"
 	},
 	{
 		"name": {
@@ -1778,7 +1813,8 @@
 		"demonym": "Motswana",
 		"landlocked": true,
 		"borders": ["NAM", "ZAF", "ZMB", "ZWE"],
-		"area": 582000
+		"area": 582000,
+		"flag": "🇧🇼"
 	},
 	{
 		"name": {
@@ -1829,7 +1865,8 @@
 		"demonym": "Central African",
 		"landlocked": true,
 		"borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"],
-		"area": 622984
+		"area": 622984,
+		"flag": "🇨🇫"
 	},
 	{
 		"name": {
@@ -1880,7 +1917,8 @@
 		"demonym": "Canadian",
 		"landlocked": false,
 		"borders": ["USA"],
-		"area": 9984670
+		"area": 9984670,
+		"flag": "🇨🇦"
 	},
 	{
 		"name": {
@@ -1926,7 +1964,8 @@
 		"demonym": "Cocos Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 14
+		"area": 14,
+		"flag": "🇨🇨"
 	},
 	{
 		"name": {
@@ -1986,7 +2025,8 @@
 		"demonym": "Swiss",
 		"landlocked": true,
 		"borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
-		"area": 41284
+		"area": 41284,
+		"flag": "🇨🇭"
 	},
 	{
 		"name": {
@@ -2032,7 +2072,8 @@
 		"demonym": "Chilean",
 		"landlocked": false,
 		"borders": ["ARG", "BOL", "PER"],
-		"area": 756102
+		"area": 756102,
+		"flag": "🇨🇱"
 	},
 	{
 		"name": {
@@ -2077,7 +2118,8 @@
 		"demonym": "Chinese",
 		"landlocked": false,
 		"borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"],
-		"area": 9706961
+		"area": 9706961,
+		"flag": "🇨🇳"
 	},
 	{
 		"name": {
@@ -2122,7 +2164,8 @@
 		"demonym": "Ivorian",
 		"landlocked": false,
 		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"],
-		"area": 322463
+		"area": 322463,
+		"flag": "🇨🇮"
 	},
 	{
 		"name": {
@@ -2173,7 +2216,8 @@
 		"demonym": "Cameroonian",
 		"landlocked": false,
 		"borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"],
-		"area": 475442
+		"area": 475442,
+		"flag": "🇨🇲"
 	},
 	{
 		"name": {
@@ -2239,7 +2283,8 @@
 		"demonym": "Congolese",
 		"landlocked": false,
 		"borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"],
-		"area": 2344858
+		"area": 2344858,
+		"flag": "🇨🇩"
 	},
 	{
 		"name": {
@@ -2295,7 +2340,8 @@
 		"demonym": "Congolese",
 		"landlocked": false,
 		"borders": ["AGO", "CMR", "CAF", "COD", "GAB"],
-		"area": 342000
+		"area": 342000,
+		"flag": "🇨🇬"
 	},
 	{
 		"name": {
@@ -2346,7 +2392,8 @@
 		"demonym": "Cook Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 236
+		"area": 236,
+		"flag": "🇨🇰"
 	},
 	{
 		"name": {
@@ -2392,7 +2439,8 @@
 		"demonym": "Colombian",
 		"landlocked": false,
 		"borders": ["BRA", "ECU", "PAN", "PER", "VEN"],
-		"area": 1141748
+		"area": 1141748,
+		"flag": "🇨🇴"
 	},
 	{
 		"name": {
@@ -2448,7 +2496,8 @@
 		"demonym": "Comoran",
 		"landlocked": false,
 		"borders": [],
-		"area": 1862
+		"area": 1862,
+		"flag": "🇰🇲"
 	},
 	{
 		"name": {
@@ -2494,7 +2543,8 @@
 		"demonym": "Cape Verdian",
 		"landlocked": false,
 		"borders": [],
-		"area": 4033
+		"area": 4033,
+		"flag": "🇨🇻"
 	},
 	{
 		"name": {
@@ -2540,7 +2590,8 @@
 		"demonym": "Costa Rican",
 		"landlocked": false,
 		"borders": ["NIC", "PAN"],
-		"area": 51100
+		"area": 51100,
+		"flag": "🇨🇷"
 	},
 	{
 		"name": {
@@ -2586,7 +2637,8 @@
 		"demonym": "Cuban",
 		"landlocked": false,
 		"borders": [],
-		"area": 109884
+		"area": 109884,
+		"flag": "🇨🇺"
 	},
 	{
 		"name": {
@@ -2638,7 +2690,8 @@
 		"demonym": "Dutch",
 		"landlocked": false,
 		"borders": [],
-		"area": 444
+		"area": 444,
+		"flag": "🇨🇼"
 	},
 	{
 		"name": {
@@ -2684,7 +2737,8 @@
 		"demonym": "Christmas Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 135
+		"area": 135,
+		"flag": "🇨🇽"
 	},
 	{
 		"name": {
@@ -2730,7 +2784,8 @@
 		"demonym": "Caymanian",
 		"landlocked": false,
 		"borders": [],
-		"area": 264
+		"area": 264,
+		"flag": "🇰🇾"
 	},
 	{
 		"name": {
@@ -2781,7 +2836,8 @@
 		"demonym": "Cypriot",
 		"landlocked": false,
 		"borders": ["GBR"],
-		"area": 9251
+		"area": 9251,
+		"flag": "🇨🇾"
 	},
 	{
 		"name": {
@@ -2832,7 +2888,8 @@
 		"demonym": "Czech",
 		"landlocked": true,
 		"borders": ["AUT", "DEU", "POL", "SVK"],
-		"area": 78865
+		"area": 78865,
+		"flag": "🇨🇿"
 	},
 	{
 		"name": {
@@ -2877,7 +2934,8 @@
 		"demonym": "German",
 		"landlocked": false,
 		"borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
-		"area": 357114
+		"area": 357114,
+		"flag": "🇩🇪"
 	},
 	{
 		"name": {
@@ -2928,7 +2986,8 @@
 		"demonym": "Djibouti",
 		"landlocked": false,
 		"borders": ["ERI", "ETH", "SOM"],
-		"area": 23200
+		"area": 23200,
+		"flag": "🇩🇯"
 	},
 	{
 		"name": {
@@ -2974,7 +3033,8 @@
 		"demonym": "Dominican",
 		"landlocked": false,
 		"borders": [],
-		"area": 751
+		"area": 751,
+		"flag": "🇩🇲"
 	},
 	{
 		"name": {
@@ -3020,7 +3080,8 @@
 		"demonym": "Danish",
 		"landlocked": false,
 		"borders": ["DEU"],
-		"area": 43094
+		"area": 43094,
+		"flag": "🇩🇰"
 	},
 	{
 		"name": {
@@ -3066,7 +3127,8 @@
 		"demonym": "Dominican",
 		"landlocked": false,
 		"borders": ["HTI"],
-		"area": 48671
+		"area": 48671,
+		"flag": "🇩🇴"
 	},
 	{
 		"name": {
@@ -3112,7 +3174,8 @@
 		"demonym": "Algerian",
 		"landlocked": false,
 		"borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"],
-		"area": 2381741
+		"area": 2381741,
+		"flag": "🇩🇿"
 	},
 	{
 		"name": {
@@ -3158,7 +3221,8 @@
 		"demonym": "Ecuadorean",
 		"landlocked": false,
 		"borders": ["COL", "PER"],
-		"area": 276841
+		"area": 276841,
+		"flag": "🇪🇨"
 	},
 	{
 		"name": {
@@ -3204,7 +3268,8 @@
 		"demonym": "Egyptian",
 		"landlocked": false,
 		"borders": ["ISR", "LBY", "SDN"],
-		"area": 1002450
+		"area": 1002450,
+		"flag": "🇪🇬"
 	},
 	{
 		"name": {
@@ -3260,7 +3325,8 @@
 		"demonym": "Eritrean",
 		"landlocked": false,
 		"borders": ["DJI", "ETH", "SDN"],
-		"area": 117600
+		"area": 117600,
+		"flag": "🇪🇷"
 	},
 	{
 		"name": {
@@ -3315,7 +3381,8 @@
 		"demonym": "Sahrawi",
 		"landlocked": false,
 		"borders": ["DZA", "MRT", "MAR"],
-		"area": 266000
+		"area": 266000,
+		"flag": "🇪🇭"
 	},
 	{
 		"name": {
@@ -3380,7 +3447,8 @@
 		"demonym": "Spanish",
 		"landlocked": false,
 		"borders": ["AND", "FRA", "GIB", "PRT", "MAR"],
-		"area": 505992
+		"area": 505992,
+		"flag": "🇪🇸"
 	},
 	{
 		"name": {
@@ -3426,7 +3494,8 @@
 		"demonym": "Estonian",
 		"landlocked": false,
 		"borders": ["LVA", "RUS"],
-		"area": 45227
+		"area": 45227,
+		"flag": "🇪🇪"
 	},
 	{
 		"name": {
@@ -3472,7 +3541,8 @@
 		"demonym": "Ethiopian",
 		"landlocked": true,
 		"borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"],
-		"area": 1104300
+		"area": 1104300,
+		"flag": "🇪🇹"
 	},
 	{
 		"name": {
@@ -3522,7 +3592,8 @@
 		"demonym": "Finnish",
 		"landlocked": false,
 		"borders": ["NOR", "SWE", "RUS"],
-		"area": 338424
+		"area": 338424,
+		"flag": "🇫🇮"
 	},
 	{
 		"name": {
@@ -3577,7 +3648,8 @@
 		"demonym": "Fijian",
 		"landlocked": false,
 		"borders": [],
-		"area": 18272
+		"area": 18272,
+		"flag": "🇫🇯"
 	},
 	{
 		"name": {
@@ -3622,7 +3694,8 @@
 		"demonym": "Falkland Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 12173
+		"area": 12173,
+		"flag": "🇫🇰"
 	},
 	{
 		"name": {
@@ -3667,7 +3740,8 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
-		"area": 551695
+		"area": 551695,
+		"flag": "🇫🇷"
 	},
 	{
 		"name": {
@@ -3717,7 +3791,8 @@
 		"demonym": "Faroese",
 		"landlocked": false,
 		"borders": [],
-		"area": 1393
+		"area": 1393,
+		"flag": "🇫🇴"
 	},
 	{
 		"name": {
@@ -3762,7 +3837,8 @@
 		"demonym": "Micronesian",
 		"landlocked": false,
 		"borders": [],
-		"area": 702
+		"area": 702,
+		"flag": "🇫🇲"
 	},
 	{
 		"name": {
@@ -3807,7 +3883,8 @@
 		"demonym": "Gabonese",
 		"landlocked": false,
 		"borders": ["CMR", "COG", "GNQ"],
-		"area": 267668
+		"area": 267668,
+		"flag": "🇬🇦"
 	},
 	{
 		"name": {
@@ -3852,7 +3929,8 @@
 		"demonym": "British",
 		"landlocked": false,
 		"borders": ["IRL"],
-		"area": 242900
+		"area": 242900,
+		"flag": "🇬🇧"
 	},
 	{
 		"name": {
@@ -3897,7 +3975,8 @@
 		"demonym": "Georgian",
 		"landlocked": false,
 		"borders": ["ARM", "AZE", "RUS", "TUR"],
-		"area": 69700
+		"area": 69700,
+		"flag": "🇬🇪"
 	},
 	{
 		"name": {
@@ -3952,7 +4031,8 @@
 		"demonym": "Channel Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 78
+		"area": 78,
+		"flag": "🇬🇬"
 	},
 	{
 		"name": {
@@ -3997,7 +4077,8 @@
 		"demonym": "Ghanaian",
 		"landlocked": false,
 		"borders": ["BFA", "CIV", "TGO"],
-		"area": 238533
+		"area": 238533,
+		"flag": "🇬🇭"
 	},
 	{
 		"name": {
@@ -4042,7 +4123,8 @@
 		"demonym": "Gibraltar",
 		"landlocked": false,
 		"borders": ["ESP"],
-		"area": 6
+		"area": 6,
+		"flag": "🇬🇮"
 	},
 	{
 		"name": {
@@ -4087,7 +4169,8 @@
 		"demonym": "Guinean",
 		"landlocked": false,
 		"borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"],
-		"area": 245857
+		"area": 245857,
+		"flag": "🇬🇳"
 	},
 	{
 		"name": {
@@ -4132,7 +4215,8 @@
 		"demonym": "Guadeloupian",
 		"landlocked": false,
 		"borders": [],
-		"area": 1628
+		"area": 1628,
+		"flag": "🇬🇵"
 	},
 	{
 		"name": {
@@ -4177,7 +4261,8 @@
 		"demonym": "Gambian",
 		"landlocked": false,
 		"borders": ["SEN"],
-		"area": 10689
+		"area": 10689,
+		"flag": "🇬🇲"
 	},
 	{
 		"name": {
@@ -4222,7 +4307,8 @@
 		"demonym": "Guinea-Bissauan",
 		"landlocked": false,
 		"borders": ["GIN", "SEN"],
-		"area": 36125
+		"area": 36125,
+		"flag": "🇬🇼"
 	},
 	{
 		"name": {
@@ -4278,7 +4364,8 @@
 		"demonym": "Equatorial Guinean",
 		"landlocked": false,
 		"borders": ["CMR", "GAB"],
-		"area": 28051
+		"area": 28051,
+		"flag": "🇬🇶"
 	},
 	{
 		"name": {
@@ -4323,7 +4410,8 @@
 		"demonym": "Greek",
 		"landlocked": false,
 		"borders": ["ALB", "BGR", "TUR", "MKD"],
-		"area": 131990
+		"area": 131990,
+		"flag": "🇬🇷"
 	},
 	{
 		"name": {
@@ -4368,7 +4456,8 @@
 		"demonym": "Grenadian",
 		"landlocked": false,
 		"borders": [],
-		"area": 344
+		"area": 344,
+		"flag": "🇬🇩"
 	},
 	{
 		"name": {
@@ -4413,7 +4502,8 @@
 		"demonym": "Greenlandic",
 		"landlocked": false,
 		"borders": [],
-		"area": 2166086
+		"area": 2166086,
+		"flag": "🇬🇱"
 	},
 	{
 		"name": {
@@ -4458,7 +4548,8 @@
 		"demonym": "Guatemalan",
 		"landlocked": false,
 		"borders": ["BLZ", "SLV", "HND", "MEX"],
-		"area": 108889
+		"area": 108889,
+		"flag": "🇬🇹"
 	},
 	{
 		"name": {
@@ -4503,7 +4594,8 @@
 		"demonym": "",
 		"landlocked": false,
 		"borders": ["BRA", "SUR"],
-		"area": 83534
+		"area": 83534,
+		"flag": "🇬🇫"
 	},
 	{
 		"name": {
@@ -4558,7 +4650,8 @@
 		"demonym": "Guamanian",
 		"landlocked": false,
 		"borders": [],
-		"area": 549
+		"area": 549,
+		"flag": "🇬🇺"
 	},
 	{
 		"name": {
@@ -4603,7 +4696,8 @@
 		"demonym": "Guyanese",
 		"landlocked": false,
 		"borders": ["BRA", "SUR", "VEN"],
-		"area": 214969
+		"area": 214969,
+		"flag": "🇬🇾"
 	},
 	{
 		"name": {
@@ -4652,7 +4746,8 @@
 		"demonym": "Hong Konger",
 		"landlocked": false,
 		"borders": ["CHN"],
-		"area": 1104
+		"area": 1104,
+		"flag": "🇭🇰"
 	},
 	{
 		"name": {
@@ -4697,7 +4792,8 @@
 		"demonym": "Heard and McDonald Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 412
+		"area": 412,
+		"flag": "🇭🇲"
 	},
 	{
 		"name": {
@@ -4742,7 +4838,8 @@
 		"demonym": "Honduran",
 		"landlocked": false,
 		"borders": ["GTM", "SLV", "NIC"],
-		"area": 112492
+		"area": 112492,
+		"flag": "🇭🇳"
 	},
 	{
 		"name": {
@@ -4788,7 +4885,8 @@
 		"demonym": "Croatian",
 		"landlocked": false,
 		"borders": ["BIH", "HUN", "MNE", "SRB", "SVN"],
-		"area": 56594
+		"area": 56594,
+		"flag": "🇭🇷"
 	},
 	{
 		"name": {
@@ -4838,7 +4936,8 @@
 		"demonym": "Haitian",
 		"landlocked": false,
 		"borders": ["DOM"],
-		"area": 27750
+		"area": 27750,
+		"flag": "🇭🇹"
 	},
 	{
 		"name": {
@@ -4883,7 +4982,8 @@
 		"demonym": "Hungarian",
 		"landlocked": true,
 		"borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"],
-		"area": 93028
+		"area": 93028,
+		"flag": "🇭🇺"
 	},
 	{
 		"name": {
@@ -4928,7 +5028,8 @@
 		"demonym": "Indonesian",
 		"landlocked": false,
 		"borders": ["TLS", "MYS", "PNG"],
-		"area": 1904569
+		"area": 1904569,
+		"flag": "🇮🇩"
 	},
 	{
 		"name": {
@@ -4978,7 +5079,8 @@
 		"demonym": "Manx",
 		"landlocked": false,
 		"borders": [],
-		"area": 572
+		"area": 572,
+		"flag": "🇮🇲"
 	},
 	{
 		"name": {
@@ -5033,7 +5135,8 @@
 		"demonym": "Indian",
 		"landlocked": false,
 		"borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
-		"area": 3287590
+		"area": 3287590,
+		"flag": "🇮🇳"
 	},
 	{
 		"name": {
@@ -5079,7 +5182,8 @@
 		"demonym": "Indian",
 		"landlocked": false,
 		"borders": [],
-		"area": 60
+		"area": 60,
+		"flag": "🇮🇴"
 	},
 	{
 		"name": {
@@ -5129,7 +5233,8 @@
 		"demonym": "Irish",
 		"landlocked": false,
 		"borders": ["GBR"],
-		"area": 70273
+		"area": 70273,
+		"flag": "🇮🇪"
 	},
 	{
 		"name": {
@@ -5174,7 +5279,8 @@
 		"demonym": "Iranian",
 		"landlocked": false,
 		"borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"],
-		"area": 1648195
+		"area": 1648195,
+		"flag": "🇮🇷"
 	},
 	{
 		"name": {
@@ -5229,7 +5335,8 @@
 		"demonym": "Iraqi",
 		"landlocked": false,
 		"borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"],
-		"area": 438317
+		"area": 438317,
+		"flag": "🇮🇶"
 	},
 	{
 		"name": {
@@ -5274,7 +5381,8 @@
 		"demonym": "Icelander",
 		"landlocked": false,
 		"borders": [],
-		"area": 103000
+		"area": 103000,
+		"flag": "🇮🇸"
 	},
 	{
 		"name": {
@@ -5324,7 +5432,8 @@
 		"demonym": "Israeli",
 		"landlocked": false,
 		"borders": ["EGY", "JOR", "LBN", "SYR"],
-		"area": 20770
+		"area": 20770,
+		"flag": "🇮🇱"
 	},
 	{
 		"name": {
@@ -5379,7 +5488,8 @@
 		"demonym": "Italian",
 		"landlocked": false,
 		"borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
-		"area": 301336
+		"area": 301336,
+		"flag": "🇮🇹"
 	},
 	{
 		"name": {
@@ -5429,7 +5539,8 @@
 		"demonym": "Jamaican",
 		"landlocked": false,
 		"borders": [],
-		"area": 10991
+		"area": 10991,
+		"flag": "🇯🇲"
 	},
 	{
 		"name": {
@@ -5484,7 +5595,8 @@
 		"demonym": "Channel Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 116
+		"area": 116,
+		"flag": "🇯🇪"
 	},
 	{
 		"name": {
@@ -5529,7 +5641,8 @@
 		"demonym": "Jordanian",
 		"landlocked": false,
 		"borders": ["IRQ", "ISR", "SAU", "SYR"],
-		"area": 89342
+		"area": 89342,
+		"flag": "🇯🇴"
 	},
 	{
 		"name": {
@@ -5574,7 +5687,8 @@
 		"demonym": "Japanese",
 		"landlocked": false,
 		"borders": [],
-		"area": 377930
+		"area": 377930,
+		"flag": "🇯🇵"
 	},
 	{
 		"name": {
@@ -5624,7 +5738,8 @@
 		"demonym": "Kazakhstani",
 		"landlocked": true,
 		"borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"],
-		"area": 2724900
+		"area": 2724900,
+		"flag": "🇰🇿"
 	},
 	{
 		"name": {
@@ -5674,7 +5789,8 @@
 		"demonym": "Kenyan",
 		"landlocked": false,
 		"borders": ["ETH", "SOM", "SSD", "TZA", "UGA"],
-		"area": 580367
+		"area": 580367,
+		"flag": "🇰🇪"
 	},
 	{
 		"name": {
@@ -5724,7 +5840,8 @@
 		"demonym": "Kirghiz",
 		"landlocked": true,
 		"borders": ["CHN", "KAZ", "TJK", "UZB"],
-		"area": 199951
+		"area": 199951,
+		"flag": "🇰🇬"
 	},
 	{
 		"name": {
@@ -5770,7 +5887,8 @@
 		"demonym": "Cambodian",
 		"landlocked": false,
 		"borders": ["LAO", "THA", "VNM"],
-		"area": 181035
+		"area": 181035,
+		"flag": "🇰🇭"
 	},
 	{
 		"name": {
@@ -5820,7 +5938,8 @@
 		"demonym": "I-Kiribati",
 		"landlocked": false,
 		"borders": [],
-		"area": 811
+		"area": 811,
+		"flag": "🇰🇮"
 	},
 	{
 		"name": {
@@ -5865,7 +5984,8 @@
 		"demonym": "Kittitian or Nevisian",
 		"landlocked": false,
 		"borders": [],
-		"area": 261
+		"area": 261,
+		"flag": "🇰🇳"
 	},
 	{
 		"name": {
@@ -5910,7 +6030,8 @@
 		"demonym": "South Korean",
 		"landlocked": false,
 		"borders": ["PRK"],
-		"area": 100210
+		"area": 100210,
+		"flag": "🇰🇷"
 	},
 	{
 		"name": {
@@ -5959,7 +6080,8 @@
 		"demonym": "Kosovar",
 		"landlocked": true,
 		"borders": ["ALB", "MKD", "MNE", "SRB"],
-		"area": 10908
+		"area": 10908,
+		"flag": "🇽🇰"
 	},
 	{
 		"name": {
@@ -6004,7 +6126,8 @@
 		"demonym": "Kuwaiti",
 		"landlocked": false,
 		"borders": ["IRQ", "SAU"],
-		"area": 17818
+		"area": 17818,
+		"flag": "🇰🇼"
 	},
 	{
 		"name": {
@@ -6049,7 +6172,8 @@
 		"demonym": "Laotian",
 		"landlocked": true,
 		"borders": ["MMR", "KHM", "CHN", "THA", "VNM"],
-		"area": 236800
+		"area": 236800,
+		"flag": "🇱🇦"
 	},
 	{
 		"name": {
@@ -6099,7 +6223,8 @@
 		"demonym": "Lebanese",
 		"landlocked": false,
 		"borders": ["ISR", "SYR"],
-		"area": 10452
+		"area": 10452,
+		"flag": "🇱🇧"
 	},
 	{
 		"name": {
@@ -6144,7 +6269,8 @@
 		"demonym": "Liberian",
 		"landlocked": false,
 		"borders": ["GIN", "CIV", "SLE"],
-		"area": 111369
+		"area": 111369,
+		"flag": "🇱🇷"
 	},
 	{
 		"name": {
@@ -6189,7 +6315,8 @@
 		"demonym": "Libyan",
 		"landlocked": false,
 		"borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"],
-		"area": 1759540
+		"area": 1759540,
+		"flag": "🇱🇾"
 	},
 	{
 		"name": {
@@ -6234,7 +6361,8 @@
 		"demonym": "Saint Lucian",
 		"landlocked": false,
 		"borders": [],
-		"area": 616
+		"area": 616,
+		"flag": "🇱🇨"
 	},
 	{
 		"name": {
@@ -6279,7 +6407,8 @@
 		"demonym": "Liechtensteiner",
 		"landlocked": true,
 		"borders": ["AUT", "CHE"],
-		"area": 160
+		"area": 160,
+		"flag": "🇱🇮"
 	},
 	{
 		"name": {
@@ -6329,7 +6458,8 @@
 		"demonym": "Sri Lankan",
 		"landlocked": false,
 		"borders": ["IND"],
-		"area": 65610
+		"area": 65610,
+		"flag": "🇱🇰"
 	},
 	{
 		"name": {
@@ -6379,7 +6509,8 @@
 		"demonym": "Mosotho",
 		"landlocked": true,
 		"borders": ["ZAF"],
-		"area": 30355
+		"area": 30355,
+		"flag": "🇱🇸"
 	},
 	{
 		"name": {
@@ -6424,7 +6555,8 @@
 		"demonym": "Lithuanian",
 		"landlocked": false,
 		"borders": ["BLR", "LVA", "POL", "RUS"],
-		"area": 65300
+		"area": 65300,
+		"flag": "🇱🇹"
 	},
 	{
 		"name": {
@@ -6479,7 +6611,8 @@
 		"demonym": "Luxembourger",
 		"landlocked": true,
 		"borders": ["BEL", "FRA", "DEU"],
-		"area": 2586
+		"area": 2586,
+		"flag": "🇱🇺"
 	},
 	{
 		"name": {
@@ -6524,7 +6657,8 @@
 		"demonym": "Latvian",
 		"landlocked": false,
 		"borders": ["BLR", "EST", "LTU", "RUS"],
-		"area": 64559
+		"area": 64559,
+		"flag": "🇱🇻"
 	},
 	{
 		"name": {
@@ -6573,7 +6707,8 @@
 		"demonym": "Chinese",
 		"landlocked": false,
 		"borders": ["CHN"],
-		"area": 30
+		"area": 30,
+		"flag": "🇲🇴"
 	},
 	{
 		"name": {
@@ -6618,7 +6753,8 @@
 		"demonym": "Saint Martin Islander",
 		"landlocked": false,
 		"borders": ["SXM"],
-		"area": 53
+		"area": 53,
+		"flag": "🇲🇫"
 	},
 	{
 		"name": {
@@ -6668,7 +6804,8 @@
 		"demonym": "Moroccan",
 		"landlocked": false,
 		"borders": ["DZA", "ESH", "ESP"],
-		"area": 446550
+		"area": 446550,
+		"flag": "🇲🇦"
 	},
 	{
 		"name": {
@@ -6713,7 +6850,8 @@
 		"demonym": "Monegasque",
 		"landlocked": false,
 		"borders": ["FRA"],
-		"area": 2.02
+		"area": 2.02,
+		"flag": "🇲🇨"
 	},
 	{
 		"name": {
@@ -6758,7 +6896,8 @@
 		"demonym": "Moldovan",
 		"landlocked": true,
 		"borders": ["ROU", "UKR"],
-		"area": 33846
+		"area": 33846,
+		"flag": "🇲🇩"
 	},
 	{
 		"name": {
@@ -6808,7 +6947,8 @@
 		"demonym": "Malagasy",
 		"landlocked": false,
 		"borders": [],
-		"area": 587041
+		"area": 587041,
+		"flag": "🇲🇬"
 	},
 	{
 		"name": {
@@ -6853,7 +6993,8 @@
 		"demonym": "Maldivan",
 		"landlocked": false,
 		"borders": [],
-		"area": 300
+		"area": 300,
+		"flag": "🇲🇻"
 	},
 	{
 		"name": {
@@ -6898,7 +7039,8 @@
 		"demonym": "Mexican",
 		"landlocked": false,
 		"borders": ["BLZ", "GTM", "USA"],
-		"area": 1964375
+		"area": 1964375,
+		"flag": "🇲🇽"
 	},
 	{
 		"name": {
@@ -6948,7 +7090,8 @@
 		"demonym": "Marshallese",
 		"landlocked": false,
 		"borders": [],
-		"area": 181
+		"area": 181,
+		"flag": "🇲🇭"
 	},
 	{
 		"name": {
@@ -6993,7 +7136,8 @@
 		"demonym": "Macedonian",
 		"landlocked": true,
 		"borders": ["ALB", "BGR", "GRC", "UNK", "SRB"],
-		"area": 25713
+		"area": 25713,
+		"flag": "🇲🇰"
 	},
 	{
 		"name": {
@@ -7038,7 +7182,8 @@
 		"demonym": "Malian",
 		"landlocked": true,
 		"borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"],
-		"area": 1240192
+		"area": 1240192,
+		"flag": "🇲🇱"
 	},
 	{
 		"name": {
@@ -7088,7 +7233,8 @@
 		"demonym": "Maltese",
 		"landlocked": false,
 		"borders": [],
-		"area": 316
+		"area": 316,
+		"flag": "🇲🇹"
 	},
 	{
 		"name": {
@@ -7133,7 +7279,8 @@
 		"demonym": "Bamar",
 		"landlocked": false,
 		"borders": ["BGD", "CHN", "IND", "LAO", "THA"],
-		"area": 676578
+		"area": 676578,
+		"flag": "🇲🇲"
 	},
 	{
 		"name": {
@@ -7178,7 +7325,8 @@
 		"demonym": "Montenegrin",
 		"landlocked": false,
 		"borders": ["ALB", "BIH", "HRV", "UNK", "SRB"],
-		"area": 13812
+		"area": 13812,
+		"flag": "🇲🇪"
 	},
 	{
 		"name": {
@@ -7223,7 +7371,8 @@
 		"demonym": "Mongolian",
 		"landlocked": true,
 		"borders": ["CHN", "RUS"],
-		"area": 1564110
+		"area": 1564110,
+		"flag": "🇲🇳"
 	},
 	{
 		"name": {
@@ -7278,7 +7427,8 @@
 		"demonym": "American",
 		"landlocked": false,
 		"borders": [],
-		"area": 464
+		"area": 464,
+		"flag": "🇲🇵"
 	},
 	{
 		"name": {
@@ -7323,7 +7473,8 @@
 		"demonym": "Mozambican",
 		"landlocked": false,
 		"borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"],
-		"area": 801590
+		"area": 801590,
+		"flag": "🇲🇿"
 	},
 	{
 		"name": {
@@ -7368,7 +7519,8 @@
 		"demonym": "Mauritanian",
 		"landlocked": false,
 		"borders": ["DZA", "MLI", "SEN", "ESH"],
-		"area": 1030700
+		"area": 1030700,
+		"flag": "🇲🇷"
 	},
 	{
 		"name": {
@@ -7413,7 +7565,8 @@
 		"demonym": "Montserratian",
 		"landlocked": false,
 		"borders": [],
-		"area": 102
+		"area": 102,
+		"flag": "🇲🇸"
 	},
 	{
 		"name": {
@@ -7458,7 +7611,8 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": [],
-		"area": 1128
+		"area": 1128,
+		"flag": "🇲🇶"
 	},
 	{
 		"name": {
@@ -7513,7 +7667,8 @@
 		"demonym": "Mauritian",
 		"landlocked": false,
 		"borders": [],
-		"area": 2040
+		"area": 2040,
+		"flag": "🇲🇺"
 	},
 	{
 		"name": {
@@ -7563,7 +7718,8 @@
 		"demonym": "Malawian",
 		"landlocked": true,
 		"borders": ["MOZ", "TZA", "ZMB"],
-		"area": 118484
+		"area": 118484,
+		"flag": "🇲🇼"
 	},
 	{
 		"name": {
@@ -7613,7 +7769,8 @@
 		"demonym": "Malaysian",
 		"landlocked": false,
 		"borders": ["BRN", "IDN", "THA"],
-		"area": 330803
+		"area": 330803,
+		"flag": "🇲🇾"
 	},
 	{
 		"name": {
@@ -7658,7 +7815,8 @@
 		"demonym": "Mahoran",
 		"landlocked": false,
 		"borders": [],
-		"area": 374
+		"area": 374,
+		"flag": "🇾🇹"
 	},
 	{
 		"name": {
@@ -7743,7 +7901,8 @@
 		"demonym": "Namibian",
 		"landlocked": false,
 		"borders": ["AGO", "BWA", "ZAF", "ZMB"],
-		"area": 825615
+		"area": 825615,
+		"flag": "🇳🇦"
 	},
 	{
 		"name": {
@@ -7788,7 +7947,8 @@
 		"demonym": "New Caledonian",
 		"landlocked": false,
 		"borders": [],
-		"area": 18575
+		"area": 18575,
+		"flag": "🇳🇨"
 	},
 	{
 		"name": {
@@ -7833,7 +7993,8 @@
 		"demonym": "Nigerien",
 		"landlocked": true,
 		"borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
-		"area": 1267000
+		"area": 1267000,
+		"flag": "🇳🇪"
 	},
 	{
 		"name": {
@@ -7883,7 +8044,8 @@
 		"demonym": "Norfolk Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 36
+		"area": 36,
+		"flag": "🇳🇫"
 	},
 	{
 		"name": {
@@ -7928,7 +8090,8 @@
 		"demonym": "Nigerian",
 		"landlocked": false,
 		"borders": ["BEN", "CMR", "TCD", "NER"],
-		"area": 923768
+		"area": 923768,
+		"flag": "🇳🇬"
 	},
 	{
 		"name": {
@@ -7973,7 +8136,8 @@
 		"demonym": "Nicaraguan",
 		"landlocked": false,
 		"borders": ["CRI", "HND"],
-		"area": 130373
+		"area": 130373,
+		"flag": "🇳🇮"
 	},
 	{
 		"name": {
@@ -8023,7 +8187,8 @@
 		"demonym": "Niuean",
 		"landlocked": false,
 		"borders": [],
-		"area": 260
+		"area": 260,
+		"flag": "🇳🇺"
 	},
 	{
 		"name": {
@@ -8068,7 +8233,8 @@
 		"demonym": "Dutch",
 		"landlocked": false,
 		"borders": ["BEL", "DEU"],
-		"area": 41850
+		"area": 41850,
+		"flag": "🇳🇱"
 	},
 	{
 		"name": {
@@ -8123,7 +8289,8 @@
 		"demonym": "Norwegian",
 		"landlocked": false,
 		"borders": ["FIN", "SWE", "RUS"],
-		"area": 323802
+		"area": 323802,
+		"flag": "🇳🇴"
 	},
 	{
 		"name": {
@@ -8168,7 +8335,8 @@
 		"demonym": "Nepalese",
 		"landlocked": true,
 		"borders": ["CHN", "IND"],
-		"area": 147181
+		"area": 147181,
+		"flag": "🇳🇵"
 	},
 	{
 		"name": {
@@ -8218,7 +8386,8 @@
 		"demonym": "Nauruan",
 		"landlocked": false,
 		"borders": [],
-		"area": 21
+		"area": 21,
+		"flag": "🇳🇷"
 	},
 	{
 		"name": {
@@ -8273,7 +8442,8 @@
 		"demonym": "New Zealander",
 		"landlocked": false,
 		"borders": [],
-		"area": 270467
+		"area": 270467,
+		"flag": "🇳🇿"
 	},
 	{
 		"name": {
@@ -8318,7 +8488,8 @@
 		"demonym": "Omani",
 		"landlocked": false,
 		"borders": ["SAU", "ARE", "YEM"],
-		"area": 309500
+		"area": 309500,
+		"flag": "🇴🇲"
 	},
 	{
 		"name": {
@@ -8368,7 +8539,8 @@
 		"demonym": "Pakistani",
 		"landlocked": false,
 		"borders": ["AFG", "CHN", "IND", "IRN"],
-		"area": 881912
+		"area": 881912,
+		"flag": "🇵🇰"
 	},
 	{
 		"name": {
@@ -8413,7 +8585,8 @@
 		"demonym": "Panamanian",
 		"landlocked": false,
 		"borders": ["COL", "CRI"],
-		"area": 75417
+		"area": 75417,
+		"flag": "🇵🇦"
 	},
 	{
 		"name": {
@@ -8458,7 +8631,8 @@
 		"demonym": "Pitcairn Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 47
+		"area": 47,
+		"flag": "🇵🇳"
 	},
 	{
 		"name": {
@@ -8513,7 +8687,8 @@
 		"demonym": "Peruvian",
 		"landlocked": false,
 		"borders": ["BOL", "BRA", "CHL", "COL", "ECU"],
-		"area": 1285216
+		"area": 1285216,
+		"flag": "🇵🇪"
 	},
 	{
 		"name": {
@@ -8563,7 +8738,8 @@
 		"demonym": "Filipino",
 		"landlocked": false,
 		"borders": [],
-		"area": 342353
+		"area": 342353,
+		"flag": "🇵🇭"
 	},
 	{
 		"name": {
@@ -8613,7 +8789,8 @@
 		"demonym": "Palauan",
 		"landlocked": false,
 		"borders": [],
-		"area": 459
+		"area": 459,
+		"flag": "🇵🇼"
 	},
 	{
 		"name": {
@@ -8668,7 +8845,8 @@
 		"demonym": "Papua New Guinean",
 		"landlocked": false,
 		"borders": ["IDN"],
-		"area": 462840
+		"area": 462840,
+		"flag": "🇵🇬"
 	},
 	{
 		"name": {
@@ -8713,7 +8891,8 @@
 		"demonym": "Polish",
 		"landlocked": false,
 		"borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"],
-		"area": 312679
+		"area": 312679,
+		"flag": "🇵🇱"
 	},
 	{
 		"name": {
@@ -8763,7 +8942,8 @@
 		"demonym": "Puerto Rican",
 		"landlocked": false,
 		"borders": [],
-		"area": 8870
+		"area": 8870,
+		"flag": "🇵🇷"
 	},
 	{
 		"name": {
@@ -8808,7 +8988,8 @@
 		"demonym": "North Korean",
 		"landlocked": false,
 		"borders": ["CHN", "KOR", "RUS"],
-		"area": 120538
+		"area": 120538,
+		"flag": "🇰🇵"
 	},
 	{
 		"name": {
@@ -8853,7 +9034,8 @@
 		"demonym": "Portuguese",
 		"landlocked": false,
 		"borders": ["ESP"],
-		"area": 92090
+		"area": 92090,
+		"flag": "🇵🇹"
 	},
 	{
 		"name": {
@@ -8903,7 +9085,8 @@
 		"demonym": "Paraguayan",
 		"landlocked": true,
 		"borders": ["ARG", "BOL", "BRA"],
-		"area": 406752
+		"area": 406752,
+		"flag": "🇵🇾"
 	},
 	{
 		"name": {
@@ -8948,7 +9131,8 @@
 		"demonym": "Palestinian",
 		"landlocked": false,
 		"borders": ["ISR", "EGY", "JOR"],
-		"area": 6220
+		"area": 6220,
+		"flag": "🇵🇸"
 	},
 	{
 		"name": {
@@ -8993,7 +9177,8 @@
 		"demonym": "French Polynesian",
 		"landlocked": false,
 		"borders": [],
-		"area": 4167
+		"area": 4167,
+		"flag": "🇵🇫"
 	},
 	{
 		"name": {
@@ -9038,7 +9223,8 @@
 		"demonym": "Qatari",
 		"landlocked": false,
 		"borders": ["SAU"],
-		"area": 11586
+		"area": 11586,
+		"flag": "🇶🇦"
 	},
 	{
 		"name": {
@@ -9083,7 +9269,8 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": [],
-		"area": 2511
+		"area": 2511,
+		"flag": "🇷🇪"
 	},
 	{
 		"name": {
@@ -9128,7 +9315,8 @@
 		"demonym": "Romanian",
 		"landlocked": false,
 		"borders": ["BGR", "HUN", "MDA", "SRB", "UKR"],
-		"area": 238391
+		"area": 238391,
+		"flag": "🇷🇴"
 	},
 	{
 		"name": {
@@ -9173,7 +9361,8 @@
 		"demonym": "Russian",
 		"landlocked": false,
 		"borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"],
-		"area": 17098242
+		"area": 17098242,
+		"flag": "🇷🇺"
 	},
 	{
 		"name": {
@@ -9228,7 +9417,8 @@
 		"demonym": "Rwandan",
 		"landlocked": true,
 		"borders": ["BDI", "COD", "TZA", "UGA"],
-		"area": 26338
+		"area": 26338,
+		"flag": "🇷🇼"
 	},
 	{
 		"name": {
@@ -9273,7 +9463,8 @@
 		"demonym": "Saudi Arabian",
 		"landlocked": false,
 		"borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"],
-		"area": 2149690
+		"area": 2149690,
+		"flag": "🇸🇦"
 	},
 	{
 		"name": {
@@ -9323,7 +9514,8 @@
 		"demonym": "Sudanese",
 		"landlocked": false,
 		"borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"],
-		"area": 1886068
+		"area": 1886068,
+		"flag": "🇸🇩"
 	},
 	{
 		"name": {
@@ -9368,7 +9560,8 @@
 		"demonym": "Senegalese",
 		"landlocked": false,
 		"borders": ["GMB", "GIN", "GNB", "MLI", "MRT"],
-		"area": 196722
+		"area": 196722,
+		"flag": "🇸🇳"
 	},
 	{
 		"name": {
@@ -9427,7 +9620,8 @@
 		"demonym": "Singaporean",
 		"landlocked": false,
 		"borders": [],
-		"area": 710
+		"area": 710,
+		"flag": "🇸🇬"
 	},
 	{
 		"name": {
@@ -9472,7 +9666,8 @@
 		"demonym": "South Georgian South Sandwich Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 3903
+		"area": 3903,
+		"flag": "🇬🇸"
 	},
 	{
 		"name": {
@@ -9517,7 +9712,8 @@
 		"demonym": "Norwegian",
 		"landlocked": false,
 		"borders": [],
-		"area": -1
+		"area": -1,
+		"flag": "🇸🇯"
 	},
 	{
 		"name": {
@@ -9562,7 +9758,8 @@
 		"demonym": "Solomon Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 28896
+		"area": 28896,
+		"flag": "🇸🇧"
 	},
 	{
 		"name": {
@@ -9607,7 +9804,8 @@
 		"demonym": "Sierra Leonean",
 		"landlocked": false,
 		"borders": ["GIN", "LBR"],
-		"area": 71740
+		"area": 71740,
+		"flag": "🇸🇱"
 	},
 	{
 		"name": {
@@ -9653,7 +9851,8 @@
 		"demonym": "Salvadoran",
 		"landlocked": false,
 		"borders": ["GTM", "HND"],
-		"area": 21041
+		"area": 21041,
+		"flag": "🇸🇻"
 	},
 	{
 		"name": {
@@ -9698,7 +9897,8 @@
 		"demonym": "Sammarinese",
 		"landlocked": true,
 		"borders": ["ITA"],
-		"area": 61
+		"area": 61,
+		"flag": "🇸🇲"
 	},
 	{
 		"name": {
@@ -9748,7 +9948,8 @@
 		"demonym": "Somali",
 		"landlocked": false,
 		"borders": ["DJI", "ETH", "KEN"],
-		"area": 637657
+		"area": 637657,
+		"flag": "🇸🇴"
 	},
 	{
 		"name": {
@@ -9793,7 +9994,8 @@
 		"demonym": "French",
 		"landlocked": false,
 		"borders": [],
-		"area": 242
+		"area": 242,
+		"flag": "🇵🇲"
 	},
 	{
 		"name": {
@@ -9838,7 +10040,8 @@
 		"demonym": "Serbian",
 		"landlocked": true,
 		"borders": ["BIH", "BGR", "HRV", "HUN", "UNK", "MKD", "MNE", "ROU"],
-		"area": 88361
+		"area": 88361,
+		"flag": "🇷🇸"
 	},
 	{
 		"name": {
@@ -9883,7 +10086,8 @@
 		"demonym": "South Sudanese",
 		"landlocked": true,
 		"borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"],
-		"area": 619745
+		"area": 619745,
+		"flag": "🇸🇸"
 	},
 	{
 		"name": {
@@ -9928,7 +10132,8 @@
 		"demonym": "Sao Tomean",
 		"landlocked": false,
 		"borders": [],
-		"area": 964
+		"area": 964,
+		"flag": "🇸🇹"
 	},
 	{
 		"name": {
@@ -9973,7 +10178,8 @@
 		"demonym": "Surinamer",
 		"landlocked": false,
 		"borders": ["BRA", "GUF", "GUY"],
-		"area": 163820
+		"area": 163820,
+		"flag": "🇸🇷"
 	},
 	{
 		"name": {
@@ -10018,7 +10224,8 @@
 		"demonym": "Slovak",
 		"landlocked": true,
 		"borders": ["AUT", "CZE", "HUN", "POL", "UKR"],
-		"area": 49037
+		"area": 49037,
+		"flag": "🇸🇰"
 	},
 	{
 		"name": {
@@ -10063,7 +10270,8 @@
 		"demonym": "Slovene",
 		"landlocked": false,
 		"borders": ["AUT", "HRV", "ITA", "HUN"],
-		"area": 20273
+		"area": 20273,
+		"flag": "🇸🇮"
 	},
 	{
 		"name": {
@@ -10108,7 +10316,8 @@
 		"demonym": "Swedish",
 		"landlocked": false,
 		"borders": ["FIN", "NOR"],
-		"area": 450295
+		"area": 450295,
+		"flag": "🇸🇪"
 	},
 	{
 		"name": {
@@ -10158,7 +10367,8 @@
 		"demonym": "Swazi",
 		"landlocked": true,
 		"borders": ["MOZ", "ZAF"],
-		"area": 17364
+		"area": 17364,
+		"flag": "🇸🇿"
 	},
 	{
 		"name": {
@@ -10212,7 +10422,8 @@
 		"demonym": "St. Maartener",
 		"landlocked": false,
 		"borders": ["MAF"],
-		"area": 34
+		"area": 34,
+		"flag": "🇸🇽"
 	},
 	{
 		"name": {
@@ -10267,7 +10478,8 @@
 		"demonym": "Seychellois",
 		"landlocked": false,
 		"borders": [],
-		"area": 452
+		"area": 452,
+		"flag": "🇸🇨"
 	},
 	{
 		"name": {
@@ -10312,7 +10524,8 @@
 		"demonym": "Syrian",
 		"landlocked": false,
 		"borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"],
-		"area": 185180
+		"area": 185180,
+		"flag": "🇸🇾"
 	},
 	{
 		"name": {
@@ -10357,7 +10570,8 @@
 		"demonym": "Turks and Caicos Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 948
+		"area": 948,
+		"flag": "🇹🇨"
 	},
 	{
 		"name": {
@@ -10408,7 +10622,8 @@
 		"demonym": "Chadian",
 		"landlocked": true,
 		"borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SSD"],
-		"area": 1284000
+		"area": 1284000,
+		"flag": "🇹🇩"
 	},
 	{
 		"name": {
@@ -10453,7 +10668,8 @@
 		"demonym": "Togolese",
 		"landlocked": false,
 		"borders": ["BEN", "BFA", "GHA"],
-		"area": 56785
+		"area": 56785,
+		"flag": "🇹🇬"
 	},
 	{
 		"name": {
@@ -10498,7 +10714,8 @@
 		"demonym": "Thai",
 		"landlocked": false,
 		"borders": ["MMR", "KHM", "LAO", "MYS"],
-		"area": 513120
+		"area": 513120,
+		"flag": "🇹🇭"
 	},
 	{
 		"name": {
@@ -10548,7 +10765,8 @@
 		"demonym": "Tadzhik",
 		"landlocked": true,
 		"borders": ["AFG", "CHN", "KGZ", "UZB"],
-		"area": 143100
+		"area": 143100,
+		"flag": "🇹🇯"
 	},
 	{
 		"name": {
@@ -10603,7 +10821,8 @@
 		"demonym": "Tokelauan",
 		"landlocked": false,
 		"borders": [],
-		"area": 12
+		"area": 12,
+		"flag": "🇹🇰"
 	},
 	{
 		"name": {
@@ -10653,7 +10872,8 @@
 		"demonym": "Turkmen",
 		"landlocked": true,
 		"borders": ["AFG", "IRN", "KAZ", "UZB"],
-		"area": 488100
+		"area": 488100,
+		"flag": "🇹🇲"
 	},
 	{
 		"name": {
@@ -10703,7 +10923,8 @@
 		"demonym": "East Timorese",
 		"landlocked": false,
 		"borders": ["IDN"],
-		"area": 14874
+		"area": 14874,
+		"flag": "🇹🇱"
 	},
 	{
 		"name": {
@@ -10753,7 +10974,8 @@
 		"demonym": "Tongan",
 		"landlocked": false,
 		"borders": [],
-		"area": 747
+		"area": 747,
+		"flag": "🇹🇴"
 	},
 	{
 		"name": {
@@ -10798,7 +11020,8 @@
 		"demonym": "Trinidadian",
 		"landlocked": false,
 		"borders": [],
-		"area": 5130
+		"area": 5130,
+		"flag": "🇹🇹"
 	},
 	{
 		"name": {
@@ -10843,7 +11066,8 @@
 		"demonym": "Tunisian",
 		"landlocked": false,
 		"borders": ["DZA", "LBY"],
-		"area": 163610
+		"area": 163610,
+		"flag": "🇹🇳"
 	},
 	{
 		"name": {
@@ -10888,7 +11112,8 @@
 		"demonym": "Turkish",
 		"landlocked": false,
 		"borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"],
-		"area": 783562
+		"area": 783562,
+		"flag": "🇹🇷"
 	},
 	{
 		"name": {
@@ -10938,7 +11163,8 @@
 		"demonym": "Tuvaluan",
 		"landlocked": false,
 		"borders": [],
-		"area": 26
+		"area": 26,
+		"flag": "🇹🇻"
 	},
 	{
 		"name": {
@@ -10982,7 +11208,8 @@
 		"demonym": "Taiwanese",
 		"landlocked": false,
 		"borders": [],
-		"area": 36193
+		"area": 36193,
+		"flag": "🇹🇼"
 	},
 	{
 		"name": {
@@ -11032,7 +11259,8 @@
 		"demonym": "Tanzanian",
 		"landlocked": false,
 		"borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"],
-		"area": 945087
+		"area": 945087,
+		"flag": "🇹🇿"
 	},
 	{
 		"name": {
@@ -11082,7 +11310,8 @@
 		"demonym": "Ugandan",
 		"landlocked": true,
 		"borders": ["COD", "KEN", "RWA", "SSD", "TZA"],
-		"area": 241550
+		"area": 241550,
+		"flag": "🇺🇬"
 	},
 	{
 		"name": {
@@ -11132,7 +11361,8 @@
 		"demonym": "Ukrainian",
 		"landlocked": false,
 		"borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"],
-		"area": 603500
+		"area": 603500,
+		"flag": "🇺🇦"
 	},
 	{
 		"name": {
@@ -11177,7 +11407,8 @@
 		"demonym": "American",
 		"landlocked": false,
 		"borders": [],
-		"area": 34.2
+		"area": 34.2,
+		"flag": "🇺🇲"
 	},
 	{
 		"name": {
@@ -11222,7 +11453,8 @@
 		"demonym": "Uruguayan",
 		"landlocked": false,
 		"borders": ["ARG", "BRA"],
-		"area": 181034
+		"area": 181034,
+		"flag": "🇺🇾"
 	},
 	{
 		"name": {
@@ -11267,7 +11499,8 @@
 		"demonym": "American",
 		"landlocked": false,
 		"borders": ["CAN", "MEX"],
-		"area": 9372610
+		"area": 9372610,
+		"flag": "🇺🇸"
 	},
 	{
 		"name": {
@@ -11317,7 +11550,8 @@
 		"demonym": "Uzbekistani",
 		"landlocked": true,
 		"borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"],
-		"area": 447400
+		"area": 447400,
+		"flag": "🇺🇿"
 	},
 	{
 		"name": {
@@ -11367,7 +11601,8 @@
 		"demonym": "Italian",
 		"landlocked": true,
 		"borders": ["ITA"],
-		"area": 0.44
+		"area": 0.44,
+		"flag": "🇻🇦"
 	},
 	{
 		"name": {
@@ -11412,7 +11647,8 @@
 		"demonym": "Saint Vincentian",
 		"landlocked": false,
 		"borders": [],
-		"area": 389
+		"area": 389,
+		"flag": "🇻🇨"
 	},
 	{
 		"name": {
@@ -11457,7 +11693,8 @@
 		"demonym": "Venezuelan",
 		"landlocked": false,
 		"borders": ["BRA", "COL", "GUY"],
-		"area": 916445
+		"area": 916445,
+		"flag": "🇻🇪"
 	},
 	{
 		"name": {
@@ -11502,7 +11739,8 @@
 		"demonym": "Virgin Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 151
+		"area": 151,
+		"flag": "🇻🇬"
 	},
 	{
 		"name": {
@@ -11547,7 +11785,8 @@
 		"demonym": "Virgin Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 347
+		"area": 347,
+		"flag": "🇻🇮"
 	},
 	{
 		"name": {
@@ -11592,7 +11831,8 @@
 		"demonym": "Vietnamese",
 		"landlocked": false,
 		"borders": ["KHM", "CHN", "LAO"],
-		"area": 331212
+		"area": 331212,
+		"flag": "🇻🇳"
 	},
 	{
 		"name": {
@@ -11647,7 +11887,8 @@
 		"demonym": "Ni-Vanuatu",
 		"landlocked": false,
 		"borders": [],
-		"area": 12189
+		"area": 12189,
+		"flag": "🇻🇺"
 	},
 	{
 		"name": {
@@ -11692,7 +11933,8 @@
 		"demonym": "Wallis and Futuna Islander",
 		"landlocked": false,
 		"borders": [],
-		"area": 142
+		"area": 142,
+		"flag": "🇼🇫"
 	},
 	{
 		"name": {
@@ -11742,7 +11984,8 @@
 		"demonym": "Samoan",
 		"landlocked": false,
 		"borders": [],
-		"area": 2842
+		"area": 2842,
+		"flag": "🇼🇸"
 	},
 	{
 		"name": {
@@ -11787,7 +12030,8 @@
 		"demonym": "Yemeni",
 		"landlocked": false,
 		"borders": ["OMN", "SAU"],
-		"area": 527968
+		"area": 527968,
+		"flag": "🇾🇪"
 	},
 	{
 		"name": {
@@ -11882,7 +12126,8 @@
 		"demonym": "South African",
 		"landlocked": false,
 		"borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"],
-		"area": 1221037
+		"area": 1221037,
+		"flag": "🇿🇦"
 	},
 	{
 		"name": {
@@ -11927,7 +12172,8 @@
 		"demonym": "Zambian",
 		"landlocked": true,
 		"borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"],
-		"area": 752612
+		"area": 752612,
+		"flag": "🇿🇲"
 	},
 	{
 		"name": {
@@ -12042,6 +12288,7 @@
 		"demonym": "Zimbabwean",
 		"landlocked": true,
 		"borders": ["BWA", "MOZ", "ZAF", "ZMB"],
-		"area": 390757
+		"area": 390757,
+		"flag": "🇿🇼"
 	}
 ]
