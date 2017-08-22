@@ -41,7 +41,7 @@ class ExportCommand extends Command {
 
 	/**
 	 * @param string $inputFile Full path and filename of the input country data JSON file.
-	 * @param string $outputDirectory Full path to output directory for converted files.
+	 * @param string $defaultOutputDirectory Full path to output directory for converted files.
 	 * @param string|null $name
 	 */
 	public function __construct($inputFile, $defaultOutputDirectory, $name = 'convert') {
@@ -135,7 +135,6 @@ class ExportCommand extends Command {
 		} else {
 			$this->outputFieldsCache = $baseFields;
 		}
-		var_dump($excludeFields, $includeFields, $this->outputFieldsCache);
 
 		return $this->outputFieldsCache;
 	}
