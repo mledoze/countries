@@ -137,17 +137,44 @@ composer install
 After this finishes, run the following command (here we will exclude the `tld` field from the output, but you can exclude any field you want):
 
 ```sh
-php countries.php convert --exclude-field=tld
+composer exec countries.php convert --exclude-field=tld
 ```
 
 You can also exclude multiple fields:
 
 ```sh
-php countries.php convert --exclude-field=tld --exclude-field=cca2
+composer exec countries.php convert --exclude-field=tld --exclude-field=cca2
 
 # Or using the shorter `-x` syntax:
-php countries.php convert -x tld -x cca2
+composer exec countries.php convert -x tld -x cca2
 ```
+
+If you prefer to include only some fields (this can not be combined with `--exclude-field`):
+
+```sh
+composer exec countries.php convert --include-field=name --include-field=area
+
+# or using the shorter `-i` syntax:
+composer exec countries.php convert -i=name -i=area
+```
+
+The generated files are put into the `dist` directory, but you can change this to another existing directory:
+
+```sh
+mkdir foobar
+composer exec countries.php convert --output-dir=foobar
+```
+
+You can also choose to only generate some of the output formats:
+
+```sh
+mkdir foobar
+composer exec countries.php convert --format=json_unescaped --format=csv
+
+# or using the shorter `-f` syntax:
+composer exec countries.php convert -f json_unescaped -f csv
+```
+
 
 ## Showcase
 Projects using this dataset:
