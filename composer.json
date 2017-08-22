@@ -1,6 +1,6 @@
 {
 	"name": "mledoze/countries",
-	"version": "1.8.1",
+	"version": "1.9.0",
 	"description": "World countries in JSON, CSV, XML and Yaml",
 	"keywords": ["world", "countries", "json", "csv", "xml", "yaml"],
 	"homepage": "https://mledoze.github.io/countries/",
@@ -18,7 +18,7 @@
 		"php": ">=5.5.9",
 		"symfony/console": "^2.8|^3.0",
 		"symfony/yaml": "^2.8|^3.0"
-	},	
+	},
 	"dist": {
 		"url": "https://github.com/mledoze/countries/archive/master.zip",
 		"type": "zip"
