@@ -2119,7 +2119,7 @@
 		"latlng": [35, 105],
 		"demonym": "Chinese",
 		"landlocked": false,
-		"borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"],
+		"borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "NPL", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"],
 		"area": 9706961
 	},
 	{
@@ -2837,7 +2837,7 @@
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
 		"landlocked": false,
-		"borders": ["GBR"],
+		"borders": [],
 		"area": 9251
 	},
 	{
@@ -3269,7 +3269,7 @@
 		"latlng": [27, 30],
 		"demonym": "Egyptian",
 		"landlocked": false,
-		"borders": ["ISR", "LBY", "SDN"],
+		"borders": ["ISR", "LBY", "PSE", "SDN"],
 		"area": 1002450
 	},
 	{
@@ -5137,7 +5137,7 @@
 		"latlng": [20, 77],
 		"demonym": "Indian",
 		"landlocked": false,
-		"borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
+		"borders": ["BGD", "BTN", "MMR", "CHN", "NPL", "PAK"],
 		"area": 3287590
 	},
 	{
@@ -5434,7 +5434,7 @@
 		"latlng": [31.47, 35.13],
 		"demonym": "Israeli",
 		"landlocked": false,
-		"borders": ["EGY", "JOR", "LBN", "SYR"],
+		"borders": ["EGY", "JOR", "LBN", "PSE", "SYR"],
 		"area": 20770
 	},
 	{
@@ -5643,7 +5643,7 @@
 		"latlng": [31, 36],
 		"demonym": "Jordanian",
 		"landlocked": false,
-		"borders": ["IRQ", "ISR", "SAU", "SYR"],
+		"borders": ["IRQ", "ISR", "PSE", "SAU", "SYR"],
 		"area": 89342
 	},
 	{
@@ -10624,7 +10624,7 @@
 		"latlng": [15, 19],
 		"demonym": "Chadian",
 		"landlocked": true,
-		"borders": ["CMR", "CAF", "LBY", "NER", "NGA"],
+		"borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SDN"],
 		"area": 1284000
 	},
 	{
