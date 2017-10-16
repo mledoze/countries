@@ -75,7 +75,7 @@ class ExportCommand extends Command {
 				'format',
 				'f',
 				InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
-				'Formats to output.',
+				'Output formats',
 				array_keys($this->converters)
 			)
 			->addOption(
