@@ -11174,12 +11174,12 @@
 			"official": "Republic of China (Taiwan)",
 			"native": {
 				"zho": {
-					"official": "\u4e2d\u534e\u6c11\u56fd",
-					"common": "\u81fa\u7063"
+					"official": "\u4e2d\u83ef\u6c11\u570b",
+					"common": "\u53f0\u7063"
 				}
 			}
 		},
-		"tld": [".tw", ".\u53f0\u6e7e", ".\u53f0\u7063"],
+		"tld": [".tw", ".\u53f0\u7063", ".\u53f0\u6e7e"],
 		"cca2": "TW",
 		"ccn3": "158",
 		"cca3": "TWN",
@@ -11187,7 +11187,7 @@
 		"currency": ["TWD"],
 		"callingCode": ["886"],
 		"capital": "Taipei",
-		"altSpellings": ["TW", "T\u00e1iw\u0101n", "Republic of China", "\u4e2d\u83ef\u6c11\u570b", "Zh\u014dnghu\u00e1 M\u00edngu\u00f3", "Chinese Taipei for IOC", "Taiwan, Province of China"],
+		"altSpellings": ["TW", "T\u00e1iw\u0101n", "Republic of China", "\u4e2d\u83ef\u6c11\u570b", "Zh\u014dnghu\u00e1 M\u00edngu\u00f3", "Chinese Taipei"],
 		"region": "Asia",
 		"subregion": "Eastern Asia",
 		"languages": {
@@ -11198,14 +11198,14 @@
 			"fra": {"official": "R\u00e9publique de Chine (Ta\u00efwan)", "common": "Ta\u00efwan"},
 			"hrv": {"official": "Republika Kina", "common": "Tajvan"},
 			"ita": {"official": "Repubblica cinese (Taiwan)", "common": "Taiwan"},
-			"jpn": {"official": "\u4e2d\u83ef\u6c11\u56fd", "common": "\u53f0\u6e7e\uff08\u53f0\u6e7e\u7701/\u4e2d\u83ef\u6c11\u56fd\uff09"},
+			"jpn": {"official": "\u4e2d\u83ef\u6c11\u56fd", "common": "\u53f0\u6e7e"},
 			"nld": {"official": "Republiek China (Taiwan)", "common": "Taiwan"},
 			"por": {"official": "Rep\u00fablica da China", "common": "Ilha Formosa"},
 			"rus": {"official": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c"},
 			"slk": {"official": "\u010c\u00ednska republika", "common": "Taiwan"},
 			"spa": {"official": "Rep\u00fablica de China en Taiw\u00e1n", "common": "Taiw\u00e1n"},
 			"fin": {"official": "Kiinan tasavalta", "common": "Taiwan"},
-			"est": {"official": "Taiwani provints", "common": "Taiwan"}
+			"est": {"official": "Taiwani", "common": "Taiwan"}
 		},
 		"latlng": [23.5, 121],
 		"demonym": "Taiwanese",
