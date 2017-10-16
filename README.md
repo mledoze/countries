@@ -149,6 +149,33 @@ php countries.php convert --exclude-field=tld --exclude-field=cca2
 php countries.php convert -x tld -x cca2
 ```
 
+If you prefer to include only some fields (this can not be combined with `--exclude-field`):
+
+```sh
+php countries.php convert --include-field=name --include-field=area
+
+# or using the shorter `-i` syntax:
+php countries.php convert -i=name -i=area
+```
+
+The generated files are put into the `dist` directory, but you can change this to another existing directory:
+
+```sh
+mkdir foobar
+php countries.php convert --output-dir=foobar
+```
+
+You can also choose to only generate some of the output formats:
+
+```sh
+mkdir foobar
+php countries.php convert --format=json_unescaped --format=csv
+
+# or using the shorter `-f` syntax:
+php countries.php convert -f json_unescaped -f csv
+```
+
+
 ## Showcase
 Projects using this dataset:
 

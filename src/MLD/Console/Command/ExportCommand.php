@@ -21,7 +21,7 @@ class ExportCommand extends Command {
 	/**
 	 * @var string
 	 */
-	private $outputDirectory;
+	private $defaultOutputDirectory;
 
 	/**
 	 * @var array
@@ -41,12 +41,12 @@ class ExportCommand extends Command {
 
 	/**
 	 * @param string $inputFile Full path and filename of the input country data JSON file.
-	 * @param string $outputDirectory Full path to output directory for converted files.
+	 * @param string $defaultOutputDirectory Full path to output directory for converted files.
 	 * @param string|null $name
 	 */
-	public function __construct($inputFile, $outputDirectory, $name = 'convert') {
+	public function __construct($inputFile, $defaultOutputDirectory, $name = 'convert') {
 		$this->inputFile = $inputFile;
-		$this->outputDirectory = $outputDirectory;
+		$this->defaultOutputDirectory = $defaultOutputDirectory;
 
 		parent::__construct($name);
 	}
@@ -61,8 +61,29 @@ class ExportCommand extends Command {
 				'exclude-field',
 				'x',
 				InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
-				'If set, excludes top-level field with the given name from the output',
+				'If set, excludes top-level field with the given name from the output. Cannot be used with --include-field',
 				[]
+			)
+			->addOption(
+				'include-field',
+				'i',
+				InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
+				'If set, include only these top-level fields with the given name from the output. Cannot be used with --exclude-field',
+				[]
+			)
+			->addOption(
+				'format',
+				'f',
+				InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
+				'Output formats',
+				array_keys($this->converters)
+			)
+			->addOption(
+				'output-dir',
+				null,
+				InputOption::VALUE_OPTIONAL | InputOption::VALUE_REQUIRED,
+				'Directory where you want to put output files',
+				$this->defaultOutputDirectory
 			);
 	}
 
@@ -74,18 +95,22 @@ class ExportCommand extends Command {
 	protected function execute(InputInterface $input, OutputInterface $output) {
 		$countries = json_decode(file_get_contents($this->inputFile), true);
 		$excludeFields = $input->getOption('exclude-field');
+		$includeFields = $input->getOption('include-field');
+		$formats = $input->getOption('format');
+		$outputDirectory = $input->getOption('output-dir');
 
-		foreach ($this->converters as $format => $c) {
+		foreach ($formats as $format) {
+			$c = $this->converters[$format];
 			if ($output->isVerbose()) {
 				$output->writeln('Converting to ' . $format);
 			}
 
 			/** @var AbstractConverter $converter */
 			$converter = new $c['class']($countries);
-			$fields = $this->getOutputFields($converter->getFields(), $excludeFields);
+			$fields = $this->getOutputFields($converter->getFields(), $excludeFields, $includeFields);
 
 			$converter
-				->setOutputDirectory($this->outputDirectory)
+				->setOutputDirectory($outputDirectory)
 				->setFields($fields)
 				->save($c['output_file']);
 		}
@@ -98,12 +123,18 @@ class ExportCommand extends Command {
 	 * @param $excludeFields
 	 * @return array
 	 */
-	private function getOutputFields($baseFields, $excludeFields) {
+	private function getOutputFields($baseFields, $excludeFields, $includeFields) {
 		if ($this->outputFieldsCache) {
 			return $this->outputFieldsCache;
 		}
 
-		$this->outputFieldsCache = array_diff($baseFields, $excludeFields);
+		if (!empty($excludeFields)) {
+			$this->outputFieldsCache = array_diff($baseFields, $excludeFields);
+		} elseif (!empty($includeFields)) {
+			$this->outputFieldsCache = array_intersect($baseFields, $includeFields);
+		} else {
+			$this->outputFieldsCache = $baseFields;
+		}
 
 		return $this->outputFieldsCache;
 	}
