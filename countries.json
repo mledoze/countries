@@ -446,10 +446,6 @@
 				"hye": {
 					"official": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576",
 					"common": "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576"
-				},
-				"rus": {
-					"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u0440\u043c\u0435\u043d\u0438\u044f",
-					"common": "\u0410\u0440\u043c\u0435\u043d\u0438\u044f"
 				}
 			}
 		},
@@ -465,8 +461,7 @@
 		"region": "Asia",
 		"subregion": "Western Asia",
 		"languages": {
-			"hye": "Armenian",
-			"rus": "Russian"
+			"hye": "Armenian"
 		},
 		"translations": {
 			"cym": {"official": "Gweriniaeth Armenia", "common": "Armenia"},
