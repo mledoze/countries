@@ -179,13 +179,13 @@ php countries.php convert -f json_unescaped -f csv
 ## Showcase
 Projects using this dataset:
 
-- [REST Countries](http://restcountries.eu/)
-- [International Telephone Input](http://jackocnr.com/intl-tel-input.html)
+- [REST Countries](https://restcountries.eu/)
+- [International Telephone Input](https://intl-tel-input.com/)
 - [Telephone JS](https://github.com/lukaswhite/telephones-js)
 - [Countries of the World](http://countries.petethompson.net/)
 - [Country Prefix Codes For Go](https://github.com/relops/prefixes)
 - [Country Info Mapper in Go](https://github.com/pirsquare/country-mapper)
-- [Visa requirements in JSON](https://github.com/herrniemand/visas)
+- [Visa requirements in JSON](https://github.com/StrudelInc/visas2)
 - [Country picker modal for React Native](https://github.com/xcarpentier/react-native-country-picker-modal)
 - [Agnostic Virtual Assistant](https://github.com/ava-ia/core)
 
