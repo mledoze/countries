@@ -9,7 +9,7 @@ class CsvConverter extends AbstractConverter {
 	/**
 	 * @var
 	 */
-	private $sGlue = '";"';
+	private $sGlue = '","';
 
 	/**
 	 * @var string
