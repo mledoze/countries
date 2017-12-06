@@ -104,7 +104,7 @@
 		"landlocked": true,
 		"borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"],
 		"area": 652230,
-		"flag": "🇦🇫"
+		"flag": "\ud83c\udde6\ud83c\uddeb"
 	},
 	{
 		"name": {
@@ -151,7 +151,7 @@
 		"landlocked": false,
 		"borders": ["COG", "COD", "ZMB", "NAM"],
 		"area": 1246700,
-		"flag": "🇦🇴"
+		"flag": "\ud83c\udde6\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -197,7 +197,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 91,
-		"flag": "🇦🇮"
+		"flag": "\ud83c\udde6\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -243,7 +243,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 1580,
-		"flag": "🇦🇽"
+		"flag": "\ud83c\udde6\ud83c\uddfd"
 	},
 	{
 		"name": {
@@ -290,7 +290,7 @@
 		"landlocked": false,
 		"borders": ["MNE", "GRC", "MKD", "UNK"],
 		"area": 28748,
-		"flag": "🇦🇱"
+		"flag": "\ud83c\udde6\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -337,7 +337,7 @@
 		"landlocked": true,
 		"borders": ["FRA", "ESP"],
 		"area": 468,
-		"flag": "🇦🇩"
+		"flag": "\ud83c\udde6\ud83c\udde9"
 	},
 	{
 		"name": {
@@ -383,7 +383,7 @@
 		"landlocked": false,
 		"borders": ["OMN", "SAU"],
 		"area": 83600,
-		"flag": "🇦🇪"
+		"flag": "\ud83c\udde6\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -435,7 +435,7 @@
 		"landlocked": false,
 		"borders": ["BOL", "BRA", "CHL", "PRY", "URY"],
 		"area": 2780400,
-		"flag": "🇦🇷"
+		"flag": "\ud83c\udde6\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -487,7 +487,7 @@
 		"landlocked": true,
 		"borders": ["AZE", "GEO", "IRN", "TUR"],
 		"area": 29743,
-		"flag": "🇦🇲"
+		"flag": "\ud83c\udde6\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -538,7 +538,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 199,
-		"flag": "🇦🇸"
+		"flag": "\ud83c\udde6\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -578,7 +578,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 14000000,
-		"flag": "🇦🇶"
+		"flag": "\ud83c\udde6\ud83c\uddf6"
 	},
 	{
 		"name": {
@@ -624,7 +624,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 7747,
-		"flag": "🇹🇫"
+		"flag": "\ud83c\uddf9\ud83c\uddeb"
 	},
 	{
 		"name": {
@@ -671,7 +671,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 442,
-		"flag": "🇦🇬"
+		"flag": "\ud83c\udde6\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -718,7 +718,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 7692024,
-		"flag": "🇦🇺"
+		"flag": "\ud83c\udde6\ud83c\uddfa"
 	},
 	{
 		"name": {
@@ -765,7 +765,7 @@
 		"landlocked": true,
 		"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
 		"area": 83871,
-		"flag": "🇦🇹"
+		"flag": "\ud83c\udde6\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -817,7 +817,7 @@
 		"landlocked": true,
 		"borders": ["ARM", "GEO", "IRN", "RUS", "TUR"],
 		"area": 86600,
-		"flag": "🇦🇿"
+		"flag": "\ud83c\udde6\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -869,7 +869,7 @@
 		"landlocked": true,
 		"borders": ["COD", "RWA", "TZA"],
 		"area": 27834,
-		"flag": "🇧🇮"
+		"flag": "\ud83c\udde7\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -926,7 +926,7 @@
 		"landlocked": false,
 		"borders": ["FRA", "DEU", "LUX", "NLD"],
 		"area": 30528,
-		"flag": "🇧🇪"
+		"flag": "\ud83c\udde7\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -973,7 +973,7 @@
 		"landlocked": false,
 		"borders": ["BFA", "NER", "NGA", "TGO"],
 		"area": 112622,
-		"flag": "🇧🇯"
+		"flag": "\ud83c\udde7\ud83c\uddef"
 	},
 	{
 		"name": {
@@ -1020,7 +1020,7 @@
 		"landlocked": true,
 		"borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"],
 		"area": 272967,
-		"flag": "🇧🇫"
+		"flag": "\ud83c\udde7\ud83c\uddeb"
 	},
 	{
 		"name": {
@@ -1067,7 +1067,7 @@
 		"landlocked": false,
 		"borders": ["MMR", "IND"],
 		"area": 147570,
-		"flag": "🇧🇩"
+		"flag": "\ud83c\udde7\ud83c\udde9"
 	},
 	{
 		"name": {
@@ -1114,7 +1114,7 @@
 		"landlocked": false,
 		"borders": ["GRC", "MKD", "ROU", "SRB", "TUR"],
 		"area": 110879,
-		"flag": "🇧🇬"
+		"flag": "\ud83c\udde7\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -1161,7 +1161,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 765,
-		"flag": "🇧🇭"
+		"flag": "\ud83c\udde7\ud83c\udded"
 	},
 	{
 		"name": {
@@ -1208,7 +1208,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 13943,
-		"flag": "🇧🇸"
+		"flag": "\ud83c\udde7\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -1265,7 +1265,7 @@
 		"landlocked": false,
 		"borders": ["HRV", "MNE", "SRB"],
 		"area": 51209,
-		"flag": "🇧🇦"
+		"flag": "\ud83c\udde7\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -1311,7 +1311,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 21,
-		"flag": "🇧🇱"
+		"flag": "\ud83c\udde7\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -1363,7 +1363,7 @@
 		"landlocked": true,
 		"borders": ["LVA", "LTU", "POL", "RUS", "UKR"],
 		"area": 207600,
-		"flag": "🇧🇾"
+		"flag": "\ud83c\udde7\ud83c\uddfe"
 	},
 	{
 		"name": {
@@ -1420,7 +1420,7 @@
 		"landlocked": false,
 		"borders": ["GTM", "MEX"],
 		"area": 22966,
-		"country": "🇧🇿"
+		"country": "\ud83c\udde7\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -1467,7 +1467,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 54,
-		"flag": "🇧🇲"
+		"flag": "\ud83c\udde7\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -1529,7 +1529,7 @@
 		"landlocked": true,
 		"borders": ["ARG", "BRA", "CHL", "PRY", "PER"],
 		"area": 1098581,
-		"flag": "🇧🇴"
+		"flag": "\ud83c\udde7\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -1576,7 +1576,7 @@
 		"landlocked": false,
 		"borders": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
 		"area": 8515767,
-		"flag": "🇧🇷"
+		"flag": "\ud83c\udde7\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -1623,7 +1623,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 430,
-		"flag": "🇧🇧"
+		"flag": "\ud83c\udde7\ud83c\udde7"
 	},
 	{
 		"name": {
@@ -1670,7 +1670,7 @@
 		"landlocked": false,
 		"borders": ["MYS"],
 		"area": 5765,
-		"flag": "🇧🇳"
+		"flag": "\ud83c\udde7\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -1717,7 +1717,7 @@
 		"landlocked": true,
 		"borders": ["CHN", "IND"],
 		"area": 38394,
-		"flag": "🇧🇹"
+		"flag": "\ud83c\udde7\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -1763,7 +1763,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 49,
-		"flag": "🇧🇻"
+		"flag": "\ud83c\udde7\ud83c\uddfb"
 	},
 	{
 		"name": {
@@ -1814,7 +1814,7 @@
 		"landlocked": true,
 		"borders": ["NAM", "ZAF", "ZMB", "ZWE"],
 		"area": 582000,
-		"flag": "🇧🇼"
+		"flag": "\ud83c\udde7\ud83c\uddfc"
 	},
 	{
 		"name": {
@@ -1866,7 +1866,7 @@
 		"landlocked": true,
 		"borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"],
 		"area": 622984,
-		"flag": "🇨🇫"
+		"flag": "\ud83c\udde8\ud83c\uddeb"
 	},
 	{
 		"name": {
@@ -1918,7 +1918,7 @@
 		"landlocked": false,
 		"borders": ["USA"],
 		"area": 9984670,
-		"flag": "🇨🇦"
+		"flag": "\ud83c\udde8\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -1965,7 +1965,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 14,
-		"flag": "🇨🇨"
+		"flag": "\ud83c\udde8\ud83c\udde8"
 	},
 	{
 		"name": {
@@ -2026,7 +2026,7 @@
 		"landlocked": true,
 		"borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
 		"area": 41284,
-		"flag": "🇨🇭"
+		"flag": "\ud83c\udde8\ud83c\udded"
 	},
 	{
 		"name": {
@@ -2073,7 +2073,7 @@
 		"landlocked": false,
 		"borders": ["ARG", "BOL", "PER"],
 		"area": 756102,
-		"flag": "🇨🇱"
+		"flag": "\ud83c\udde8\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -2119,7 +2119,7 @@
 		"landlocked": false,
 		"borders": ["AFG", "BTN", "MMR", "HKG", "IND", "KAZ", "PRK", "KGZ", "LAO", "MAC", "MNG", "PAK", "RUS", "TJK", "VNM"],
 		"area": 9706961,
-		"flag": "🇨🇳"
+		"flag": "\ud83c\udde8\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -2165,7 +2165,7 @@
 		"landlocked": false,
 		"borders": ["BFA", "GHA", "GIN", "LBR", "MLI"],
 		"area": 322463,
-		"flag": "🇨🇮"
+		"flag": "\ud83c\udde8\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -2217,7 +2217,7 @@
 		"landlocked": false,
 		"borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"],
 		"area": 475442,
-		"flag": "🇨🇲"
+		"flag": "\ud83c\udde8\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -2284,7 +2284,7 @@
 		"landlocked": false,
 		"borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"],
 		"area": 2344858,
-		"flag": "🇨🇩"
+		"flag": "\ud83c\udde8\ud83c\udde9"
 	},
 	{
 		"name": {
@@ -2341,7 +2341,7 @@
 		"landlocked": false,
 		"borders": ["AGO", "CMR", "CAF", "COD", "GAB"],
 		"area": 342000,
-		"flag": "🇨🇬"
+		"flag": "\ud83c\udde8\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -2393,7 +2393,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 236,
-		"flag": "🇨🇰"
+		"flag": "\ud83c\udde8\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -2440,7 +2440,7 @@
 		"landlocked": false,
 		"borders": ["BRA", "ECU", "PAN", "PER", "VEN"],
 		"area": 1141748,
-		"flag": "🇨🇴"
+		"flag": "\ud83c\udde8\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -2497,7 +2497,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 1862,
-		"flag": "🇰🇲"
+		"flag": "\ud83c\uddf0\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -2544,7 +2544,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 4033,
-		"flag": "🇨🇻"
+		"flag": "\ud83c\udde8\ud83c\uddfb"
 	},
 	{
 		"name": {
@@ -2591,7 +2591,7 @@
 		"landlocked": false,
 		"borders": ["NIC", "PAN"],
 		"area": 51100,
-		"flag": "🇨🇷"
+		"flag": "\ud83c\udde8\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -2638,7 +2638,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 109884,
-		"flag": "🇨🇺"
+		"flag": "\ud83c\udde8\ud83c\uddfa"
 	},
 	{
 		"name": {
@@ -2691,7 +2691,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 444,
-		"flag": "🇨🇼"
+		"flag": "\ud83c\udde8\ud83c\uddfc"
 	},
 	{
 		"name": {
@@ -2738,7 +2738,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 135,
-		"flag": "🇨🇽"
+		"flag": "\ud83c\udde8\ud83c\uddfd"
 	},
 	{
 		"name": {
@@ -2785,7 +2785,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 264,
-		"flag": "🇰🇾"
+		"flag": "\ud83c\uddf0\ud83c\uddfe"
 	},
 	{
 		"name": {
@@ -2837,7 +2837,7 @@
 		"landlocked": false,
 		"borders": ["GBR"],
 		"area": 9251,
-		"flag": "🇨🇾"
+		"flag": "\ud83c\udde8\ud83c\uddfe"
 	},
 	{
 		"name": {
@@ -2889,7 +2889,7 @@
 		"landlocked": true,
 		"borders": ["AUT", "DEU", "POL", "SVK"],
 		"area": 78865,
-		"flag": "🇨🇿"
+		"flag": "\ud83c\udde8\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -2935,7 +2935,7 @@
 		"landlocked": false,
 		"borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
 		"area": 357114,
-		"flag": "🇩🇪"
+		"flag": "\ud83c\udde9\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -2987,7 +2987,7 @@
 		"landlocked": false,
 		"borders": ["ERI", "ETH", "SOM"],
 		"area": 23200,
-		"flag": "🇩🇯"
+		"flag": "\ud83c\udde9\ud83c\uddef"
 	},
 	{
 		"name": {
@@ -3034,7 +3034,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 751,
-		"flag": "🇩🇲"
+		"flag": "\ud83c\udde9\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -3081,7 +3081,7 @@
 		"landlocked": false,
 		"borders": ["DEU"],
 		"area": 43094,
-		"flag": "🇩🇰"
+		"flag": "\ud83c\udde9\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -3128,7 +3128,7 @@
 		"landlocked": false,
 		"borders": ["HTI"],
 		"area": 48671,
-		"flag": "🇩🇴"
+		"flag": "\ud83c\udde9\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -3166,7 +3166,7 @@
 			"por": {"official": "Rep\u00fablica Argelina Democr\u00e1tica e Popular", "common": "Arg\u00e9lia"},
 			"rus": {"official": "\u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0436\u0438\u0440", "common": "\u0410\u043b\u0436\u0438\u0440"},
 			"spa": {"official": "Rep\u00fablica Argelina Democr\u00e1tica y Popular", "common": "Argelia"},
-			"svk": {"official": "Al\u017e\u00edrska demokratick\u00e1 \u013eudová republika", "common": "Al\u017e\u00edrsko"},
+			"svk": {"official": "Al\u017e\u00edrska demokratick\u00e1 \u013eudov\u00e1 republika", "common": "Al\u017e\u00edrsko"},
 			"fin": {"official": "Algerian demokraattinen kansantasavalta", "common": "Algeria"},
 			"zho": {"official": "\u963F\u5C14\u53CA\u5229\u4E9A\u4EBA\u6C11\u6C11\u4E3B\u5171\u548C\u56FD", "common": "\u963F\u5C14\u53CA\u5229\u4E9A"}
 		},
@@ -3175,7 +3175,7 @@
 		"landlocked": false,
 		"borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"],
 		"area": 2381741,
-		"flag": "🇩🇿"
+		"flag": "\ud83c\udde9\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -3222,7 +3222,7 @@
 		"landlocked": false,
 		"borders": ["COL", "PER"],
 		"area": 276841,
-		"flag": "🇪🇨"
+		"flag": "\ud83c\uddea\ud83c\udde8"
 	},
 	{
 		"name": {
@@ -3269,7 +3269,7 @@
 		"landlocked": false,
 		"borders": ["ISR", "LBY", "SDN"],
 		"area": 1002450,
-		"flag": "🇪🇬"
+		"flag": "\ud83c\uddea\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -3326,7 +3326,7 @@
 		"landlocked": false,
 		"borders": ["DJI", "ETH", "SDN"],
 		"area": 117600,
-		"flag": "🇪🇷"
+		"flag": "\ud83c\uddea\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -3382,7 +3382,7 @@
 		"landlocked": false,
 		"borders": ["DZA", "MRT", "MAR"],
 		"area": 266000,
-		"flag": "🇪🇭"
+		"flag": "\ud83c\uddea\ud83c\udded"
 	},
 	{
 		"name": {
@@ -3448,7 +3448,7 @@
 		"landlocked": false,
 		"borders": ["AND", "FRA", "GIB", "PRT", "MAR"],
 		"area": 505992,
-		"flag": "🇪🇸"
+		"flag": "\ud83c\uddea\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -3495,7 +3495,7 @@
 		"landlocked": false,
 		"borders": ["LVA", "RUS"],
 		"area": 45227,
-		"flag": "🇪🇪"
+		"flag": "\ud83c\uddea\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -3542,7 +3542,7 @@
 		"landlocked": true,
 		"borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"],
 		"area": 1104300,
-		"flag": "🇪🇹"
+		"flag": "\ud83c\uddea\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -3593,7 +3593,7 @@
 		"landlocked": false,
 		"borders": ["NOR", "SWE", "RUS"],
 		"area": 338424,
-		"flag": "🇫🇮"
+		"flag": "\ud83c\uddeb\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -3649,7 +3649,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 18272,
-		"flag": "🇫🇯"
+		"flag": "\ud83c\uddeb\ud83c\uddef"
 	},
 	{
 		"name": {
@@ -3695,7 +3695,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 12173,
-		"flag": "🇫🇰"
+		"flag": "\ud83c\uddeb\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -3741,7 +3741,7 @@
 		"landlocked": false,
 		"borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
 		"area": 551695,
-		"flag": "🇫🇷"
+		"flag": "\ud83c\uddeb\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -3792,7 +3792,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 1393,
-		"flag": "🇫🇴"
+		"flag": "\ud83c\uddeb\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -3838,7 +3838,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 702,
-		"flag": "🇫🇲"
+		"flag": "\ud83c\uddeb\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -3884,7 +3884,7 @@
 		"landlocked": false,
 		"borders": ["CMR", "COG", "GNQ"],
 		"area": 267668,
-		"flag": "🇬🇦"
+		"flag": "\ud83c\uddec\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -3930,7 +3930,7 @@
 		"landlocked": false,
 		"borders": ["IRL"],
 		"area": 242900,
-		"flag": "🇬🇧"
+		"flag": "\ud83c\uddec\ud83c\udde7"
 	},
 	{
 		"name": {
@@ -3976,7 +3976,7 @@
 		"landlocked": false,
 		"borders": ["ARM", "AZE", "RUS", "TUR"],
 		"area": 69700,
-		"flag": "🇬🇪"
+		"flag": "\ud83c\uddec\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -4032,7 +4032,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 78,
-		"flag": "🇬🇬"
+		"flag": "\ud83c\uddec\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -4078,7 +4078,7 @@
 		"landlocked": false,
 		"borders": ["BFA", "CIV", "TGO"],
 		"area": 238533,
-		"flag": "🇬🇭"
+		"flag": "\ud83c\uddec\ud83c\udded"
 	},
 	{
 		"name": {
@@ -4124,7 +4124,7 @@
 		"landlocked": false,
 		"borders": ["ESP"],
 		"area": 6,
-		"flag": "🇬🇮"
+		"flag": "\ud83c\uddec\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -4170,7 +4170,7 @@
 		"landlocked": false,
 		"borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"],
 		"area": 245857,
-		"flag": "🇬🇳"
+		"flag": "\ud83c\uddec\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -4216,7 +4216,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 1628,
-		"flag": "🇬🇵"
+		"flag": "\ud83c\uddec\ud83c\uddf5"
 	},
 	{
 		"name": {
@@ -4262,7 +4262,7 @@
 		"landlocked": false,
 		"borders": ["SEN"],
 		"area": 10689,
-		"flag": "🇬🇲"
+		"flag": "\ud83c\uddec\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -4308,7 +4308,7 @@
 		"landlocked": false,
 		"borders": ["GIN", "SEN"],
 		"area": 36125,
-		"flag": "🇬🇼"
+		"flag": "\ud83c\uddec\ud83c\uddfc"
 	},
 	{
 		"name": {
@@ -4365,7 +4365,7 @@
 		"landlocked": false,
 		"borders": ["CMR", "GAB"],
 		"area": 28051,
-		"flag": "🇬🇶"
+		"flag": "\ud83c\uddec\ud83c\uddf6"
 	},
 	{
 		"name": {
@@ -4411,7 +4411,7 @@
 		"landlocked": false,
 		"borders": ["ALB", "BGR", "TUR", "MKD"],
 		"area": 131990,
-		"flag": "🇬🇷"
+		"flag": "\ud83c\uddec\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -4457,7 +4457,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 344,
-		"flag": "🇬🇩"
+		"flag": "\ud83c\uddec\ud83c\udde9"
 	},
 	{
 		"name": {
@@ -4503,7 +4503,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 2166086,
-		"flag": "🇬🇱"
+		"flag": "\ud83c\uddec\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -4549,7 +4549,7 @@
 		"landlocked": false,
 		"borders": ["BLZ", "SLV", "HND", "MEX"],
 		"area": 108889,
-		"flag": "🇬🇹"
+		"flag": "\ud83c\uddec\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -4595,7 +4595,7 @@
 		"landlocked": false,
 		"borders": ["BRA", "SUR"],
 		"area": 83534,
-		"flag": "🇬🇫"
+		"flag": "\ud83c\uddec\ud83c\uddeb"
 	},
 	{
 		"name": {
@@ -4651,7 +4651,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 549,
-		"flag": "🇬🇺"
+		"flag": "\ud83c\uddec\ud83c\uddfa"
 	},
 	{
 		"name": {
@@ -4697,7 +4697,7 @@
 		"landlocked": false,
 		"borders": ["BRA", "SUR", "VEN"],
 		"area": 214969,
-		"flag": "🇬🇾"
+		"flag": "\ud83c\uddec\ud83c\uddfe"
 	},
 	{
 		"name": {
@@ -4747,7 +4747,7 @@
 		"landlocked": false,
 		"borders": ["CHN"],
 		"area": 1104,
-		"flag": "🇭🇰"
+		"flag": "\ud83c\udded\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -4793,7 +4793,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 412,
-		"flag": "🇭🇲"
+		"flag": "\ud83c\udded\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -4838,7 +4838,7 @@
 		"landlocked": false,
 		"borders": ["GTM", "SLV", "NIC"],
 		"area": 112492,
-		"flag": "🇭🇳"
+		"flag": "\ud83c\udded\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -4885,7 +4885,7 @@
 		"landlocked": false,
 		"borders": ["BIH", "HUN", "MNE", "SRB", "SVN"],
 		"area": 56594,
-		"flag": "🇭🇷"
+		"flag": "\ud83c\udded\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -4936,7 +4936,7 @@
 		"landlocked": false,
 		"borders": ["DOM"],
 		"area": 27750,
-		"flag": "🇭🇹"
+		"flag": "\ud83c\udded\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -4982,7 +4982,7 @@
 		"landlocked": true,
 		"borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"],
 		"area": 93028,
-		"flag": "🇭🇺"
+		"flag": "\ud83c\udded\ud83c\uddfa"
 	},
 	{
 		"name": {
@@ -5028,7 +5028,7 @@
 		"landlocked": false,
 		"borders": ["TLS", "MYS", "PNG"],
 		"area": 1904569,
-		"flag": "🇮🇩"
+		"flag": "\ud83c\uddee\ud83c\udde9"
 	},
 	{
 		"name": {
@@ -5079,7 +5079,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 572,
-		"flag": "🇮🇲"
+		"flag": "\ud83c\uddee\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -5135,7 +5135,7 @@
 		"landlocked": false,
 		"borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
 		"area": 3287590,
-		"flag": "🇮🇳"
+		"flag": "\ud83c\uddee\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -5182,7 +5182,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 60,
-		"flag": "🇮🇴"
+		"flag": "\ud83c\uddee\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -5233,7 +5233,7 @@
 		"landlocked": false,
 		"borders": ["GBR"],
 		"area": 70273,
-		"flag": "🇮🇪"
+		"flag": "\ud83c\uddee\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -5279,7 +5279,7 @@
 		"landlocked": false,
 		"borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"],
 		"area": 1648195,
-		"flag": "🇮🇷"
+		"flag": "\ud83c\uddee\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -5335,7 +5335,7 @@
 		"landlocked": false,
 		"borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"],
 		"area": 438317,
-		"flag": "🇮🇶"
+		"flag": "\ud83c\uddee\ud83c\uddf6"
 	},
 	{
 		"name": {
@@ -5381,7 +5381,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 103000,
-		"flag": "🇮🇸"
+		"flag": "\ud83c\uddee\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -5432,7 +5432,7 @@
 		"landlocked": false,
 		"borders": ["EGY", "JOR", "LBN", "SYR"],
 		"area": 20770,
-		"flag": "🇮🇱"
+		"flag": "\ud83c\uddee\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -5488,7 +5488,7 @@
 		"landlocked": false,
 		"borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
 		"area": 301336,
-		"flag": "🇮🇹"
+		"flag": "\ud83c\uddee\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -5539,7 +5539,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 10991,
-		"flag": "🇯🇲"
+		"flag": "\ud83c\uddef\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -5595,7 +5595,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 116,
-		"flag": "🇯🇪"
+		"flag": "\ud83c\uddef\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -5641,7 +5641,7 @@
 		"landlocked": false,
 		"borders": ["IRQ", "ISR", "SAU", "SYR"],
 		"area": 89342,
-		"flag": "🇯🇴"
+		"flag": "\ud83c\uddef\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -5687,7 +5687,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 377930,
-		"flag": "🇯🇵"
+		"flag": "\ud83c\uddef\ud83c\uddf5"
 	},
 	{
 		"name": {
@@ -5738,7 +5738,7 @@
 		"landlocked": true,
 		"borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"],
 		"area": 2724900,
-		"flag": "🇰🇿"
+		"flag": "\ud83c\uddf0\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -5789,7 +5789,7 @@
 		"landlocked": false,
 		"borders": ["ETH", "SOM", "SSD", "TZA", "UGA"],
 		"area": 580367,
-		"flag": "🇰🇪"
+		"flag": "\ud83c\uddf0\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -5840,7 +5840,7 @@
 		"landlocked": true,
 		"borders": ["CHN", "KAZ", "TJK", "UZB"],
 		"area": 199951,
-		"flag": "🇰🇬"
+		"flag": "\ud83c\uddf0\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -5887,7 +5887,7 @@
 		"landlocked": false,
 		"borders": ["LAO", "THA", "VNM"],
 		"area": 181035,
-		"flag": "🇰🇭"
+		"flag": "\ud83c\uddf0\ud83c\udded"
 	},
 	{
 		"name": {
@@ -5938,7 +5938,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 811,
-		"flag": "🇰🇮"
+		"flag": "\ud83c\uddf0\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -5984,7 +5984,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 261,
-		"flag": "🇰🇳"
+		"flag": "\ud83c\uddf0\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -6030,7 +6030,7 @@
 		"landlocked": false,
 		"borders": ["PRK"],
 		"area": 100210,
-		"flag": "🇰🇷"
+		"flag": "\ud83c\uddf0\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -6080,7 +6080,7 @@
 		"landlocked": true,
 		"borders": ["ALB", "MKD", "MNE", "SRB"],
 		"area": 10908,
-		"flag": "🇽🇰"
+		"flag": "\ud83c\uddfd\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -6126,7 +6126,7 @@
 		"landlocked": false,
 		"borders": ["IRQ", "SAU"],
 		"area": 17818,
-		"flag": "🇰🇼"
+		"flag": "\ud83c\uddf0\ud83c\uddfc"
 	},
 	{
 		"name": {
@@ -6172,7 +6172,7 @@
 		"landlocked": true,
 		"borders": ["MMR", "KHM", "CHN", "THA", "VNM"],
 		"area": 236800,
-		"flag": "🇱🇦"
+		"flag": "\ud83c\uddf1\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -6223,7 +6223,7 @@
 		"landlocked": false,
 		"borders": ["ISR", "SYR"],
 		"area": 10452,
-		"flag": "🇱🇧"
+		"flag": "\ud83c\uddf1\ud83c\udde7"
 	},
 	{
 		"name": {
@@ -6269,7 +6269,7 @@
 		"landlocked": false,
 		"borders": ["GIN", "CIV", "SLE"],
 		"area": 111369,
-		"flag": "🇱🇷"
+		"flag": "\ud83c\uddf1\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -6315,7 +6315,7 @@
 		"landlocked": false,
 		"borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"],
 		"area": 1759540,
-		"flag": "🇱🇾"
+		"flag": "\ud83c\uddf1\ud83c\uddfe"
 	},
 	{
 		"name": {
@@ -6361,7 +6361,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 616,
-		"flag": "🇱🇨"
+		"flag": "\ud83c\uddf1\ud83c\udde8"
 	},
 	{
 		"name": {
@@ -6407,7 +6407,7 @@
 		"landlocked": true,
 		"borders": ["AUT", "CHE"],
 		"area": 160,
-		"flag": "🇱🇮"
+		"flag": "\ud83c\uddf1\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -6458,7 +6458,7 @@
 		"landlocked": false,
 		"borders": ["IND"],
 		"area": 65610,
-		"flag": "🇱🇰"
+		"flag": "\ud83c\uddf1\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -6509,7 +6509,7 @@
 		"landlocked": true,
 		"borders": ["ZAF"],
 		"area": 30355,
-		"flag": "🇱🇸"
+		"flag": "\ud83c\uddf1\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -6555,7 +6555,7 @@
 		"landlocked": false,
 		"borders": ["BLR", "LVA", "POL", "RUS"],
 		"area": 65300,
-		"flag": "🇱🇹"
+		"flag": "\ud83c\uddf1\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -6611,7 +6611,7 @@
 		"landlocked": true,
 		"borders": ["BEL", "FRA", "DEU"],
 		"area": 2586,
-		"flag": "🇱🇺"
+		"flag": "\ud83c\uddf1\ud83c\uddfa"
 	},
 	{
 		"name": {
@@ -6657,7 +6657,7 @@
 		"landlocked": false,
 		"borders": ["BLR", "EST", "LTU", "RUS"],
 		"area": 64559,
-		"flag": "🇱🇻"
+		"flag": "\ud83c\uddf1\ud83c\uddfb"
 	},
 	{
 		"name": {
@@ -6706,7 +6706,7 @@
 		"landlocked": false,
 		"borders": ["CHN"],
 		"area": 30,
-		"flag": "🇲🇴"
+		"flag": "\ud83c\uddf2\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -6752,7 +6752,7 @@
 		"landlocked": false,
 		"borders": ["SXM"],
 		"area": 53,
-		"flag": "🇲🇫"
+		"flag": "\ud83c\uddf2\ud83c\uddeb"
 	},
 	{
 		"name": {
@@ -6803,7 +6803,7 @@
 		"landlocked": false,
 		"borders": ["DZA", "ESH", "ESP"],
 		"area": 446550,
-		"flag": "🇲🇦"
+		"flag": "\ud83c\uddf2\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -6849,7 +6849,7 @@
 		"landlocked": false,
 		"borders": ["FRA"],
 		"area": 2.02,
-		"flag": "🇲🇨"
+		"flag": "\ud83c\uddf2\ud83c\udde8"
 	},
 	{
 		"name": {
@@ -6895,7 +6895,7 @@
 		"landlocked": true,
 		"borders": ["ROU", "UKR"],
 		"area": 33846,
-		"flag": "🇲🇩"
+		"flag": "\ud83c\uddf2\ud83c\udde9"
 	},
 	{
 		"name": {
@@ -6946,7 +6946,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 587041,
-		"flag": "🇲🇬"
+		"flag": "\ud83c\uddf2\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -6992,7 +6992,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 300,
-		"flag": "🇲🇻"
+		"flag": "\ud83c\uddf2\ud83c\uddfb"
 	},
 	{
 		"name": {
@@ -7038,7 +7038,7 @@
 		"landlocked": false,
 		"borders": ["BLZ", "GTM", "USA"],
 		"area": 1964375,
-		"flag": "🇲🇽"
+		"flag": "\ud83c\uddf2\ud83c\uddfd"
 	},
 	{
 		"name": {
@@ -7089,7 +7089,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 181,
-		"flag": "🇲🇭"
+		"flag": "\ud83c\uddf2\ud83c\udded"
 	},
 	{
 		"name": {
@@ -7135,7 +7135,7 @@
 		"landlocked": true,
 		"borders": ["ALB", "BGR", "GRC", "UNK", "SRB"],
 		"area": 25713,
-		"flag": "🇲🇰"
+		"flag": "\ud83c\uddf2\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -7181,7 +7181,7 @@
 		"landlocked": true,
 		"borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"],
 		"area": 1240192,
-		"flag": "🇲🇱"
+		"flag": "\ud83c\uddf2\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -7232,7 +7232,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 316,
-		"flag": "🇲🇹"
+		"flag": "\ud83c\uddf2\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -7278,7 +7278,7 @@
 		"landlocked": false,
 		"borders": ["BGD", "CHN", "IND", "LAO", "THA"],
 		"area": 676578,
-		"flag": "🇲🇲"
+		"flag": "\ud83c\uddf2\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -7324,7 +7324,7 @@
 		"landlocked": false,
 		"borders": ["ALB", "BIH", "HRV", "UNK", "SRB"],
 		"area": 13812,
-		"flag": "🇲🇪"
+		"flag": "\ud83c\uddf2\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -7370,7 +7370,7 @@
 		"landlocked": true,
 		"borders": ["CHN", "RUS"],
 		"area": 1564110,
-		"flag": "🇲🇳"
+		"flag": "\ud83c\uddf2\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -7426,7 +7426,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 464,
-		"flag": "🇲🇵"
+		"flag": "\ud83c\uddf2\ud83c\uddf5"
 	},
 	{
 		"name": {
@@ -7472,7 +7472,7 @@
 		"landlocked": false,
 		"borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"],
 		"area": 801590,
-		"flag": "🇲🇿"
+		"flag": "\ud83c\uddf2\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -7518,7 +7518,7 @@
 		"landlocked": false,
 		"borders": ["DZA", "MLI", "SEN", "ESH"],
 		"area": 1030700,
-		"flag": "🇲🇷"
+		"flag": "\ud83c\uddf2\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -7564,7 +7564,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 102,
-		"flag": "🇲🇸"
+		"flag": "\ud83c\uddf2\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -7610,7 +7610,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 1128,
-		"flag": "🇲🇶"
+		"flag": "\ud83c\uddf2\ud83c\uddf6"
 	},
 	{
 		"name": {
@@ -7666,7 +7666,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 2040,
-		"flag": "🇲🇺"
+		"flag": "\ud83c\uddf2\ud83c\uddfa"
 	},
 	{
 		"name": {
@@ -7717,7 +7717,7 @@
 		"landlocked": true,
 		"borders": ["MOZ", "TZA", "ZMB"],
 		"area": 118484,
-		"flag": "🇲🇼"
+		"flag": "\ud83c\uddf2\ud83c\uddfc"
 	},
 	{
 		"name": {
@@ -7768,7 +7768,7 @@
 		"landlocked": false,
 		"borders": ["BRN", "IDN", "THA"],
 		"area": 330803,
-		"flag": "🇲🇾"
+		"flag": "\ud83c\uddf2\ud83c\uddfe"
 	},
 	{
 		"name": {
@@ -7814,7 +7814,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 374,
-		"flag": "🇾🇹"
+		"flag": "\ud83c\uddfe\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -7900,7 +7900,7 @@
 		"landlocked": false,
 		"borders": ["AGO", "BWA", "ZAF", "ZMB"],
 		"area": 825615,
-		"flag": "🇳🇦"
+		"flag": "\ud83c\uddf3\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -7946,7 +7946,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 18575,
-		"flag": "🇳🇨"
+		"flag": "\ud83c\uddf3\ud83c\udde8"
 	},
 	{
 		"name": {
@@ -7992,7 +7992,7 @@
 		"landlocked": true,
 		"borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
 		"area": 1267000,
-		"flag": "🇳🇪"
+		"flag": "\ud83c\uddf3\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -8043,7 +8043,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 36,
-		"flag": "🇳🇫"
+		"flag": "\ud83c\uddf3\ud83c\uddeb"
 	},
 	{
 		"name": {
@@ -8089,7 +8089,7 @@
 		"landlocked": false,
 		"borders": ["BEN", "CMR", "TCD", "NER"],
 		"area": 923768,
-		"flag": "🇳🇬"
+		"flag": "\ud83c\uddf3\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -8135,7 +8135,7 @@
 		"landlocked": false,
 		"borders": ["CRI", "HND"],
 		"area": 130373,
-		"flag": "🇳🇮"
+		"flag": "\ud83c\uddf3\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -8186,7 +8186,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 260,
-		"flag": "🇳🇺"
+		"flag": "\ud83c\uddf3\ud83c\uddfa"
 	},
 	{
 		"name": {
@@ -8232,7 +8232,7 @@
 		"landlocked": false,
 		"borders": ["BEL", "DEU"],
 		"area": 41850,
-		"flag": "🇳🇱"
+		"flag": "\ud83c\uddf3\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -8288,7 +8288,7 @@
 		"landlocked": false,
 		"borders": ["FIN", "SWE", "RUS"],
 		"area": 323802,
-		"flag": "🇳🇴"
+		"flag": "\ud83c\uddf3\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -8334,7 +8334,7 @@
 		"landlocked": true,
 		"borders": ["CHN", "IND"],
 		"area": 147181,
-		"flag": "🇳🇵"
+		"flag": "\ud83c\uddf3\ud83c\uddf5"
 	},
 	{
 		"name": {
@@ -8385,7 +8385,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 21,
-		"flag": "🇳🇷"
+		"flag": "\ud83c\uddf3\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -8441,7 +8441,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 270467,
-		"flag": "🇳🇿"
+		"flag": "\ud83c\uddf3\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -8487,7 +8487,7 @@
 		"landlocked": false,
 		"borders": ["SAU", "ARE", "YEM"],
 		"area": 309500,
-		"flag": "🇴🇲"
+		"flag": "\ud83c\uddf4\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -8538,7 +8538,7 @@
 		"landlocked": false,
 		"borders": ["AFG", "CHN", "IND", "IRN"],
 		"area": 881912,
-		"flag": "🇵🇰"
+		"flag": "\ud83c\uddf5\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -8584,7 +8584,7 @@
 		"landlocked": false,
 		"borders": ["COL", "CRI"],
 		"area": 75417,
-		"flag": "🇵🇦"
+		"flag": "\ud83c\uddf5\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -8630,7 +8630,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 47,
-		"flag": "🇵🇳"
+		"flag": "\ud83c\uddf5\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -8686,7 +8686,7 @@
 		"landlocked": false,
 		"borders": ["BOL", "BRA", "CHL", "COL", "ECU"],
 		"area": 1285216,
-		"flag": "🇵🇪"
+		"flag": "\ud83c\uddf5\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -8737,7 +8737,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 342353,
-		"flag": "🇵🇭"
+		"flag": "\ud83c\uddf5\ud83c\udded"
 	},
 	{
 		"name": {
@@ -8788,7 +8788,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 459,
-		"flag": "🇵🇼"
+		"flag": "\ud83c\uddf5\ud83c\uddfc"
 	},
 	{
 		"name": {
@@ -8844,7 +8844,7 @@
 		"landlocked": false,
 		"borders": ["IDN"],
 		"area": 462840,
-		"flag": "🇵🇬"
+		"flag": "\ud83c\uddf5\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -8890,7 +8890,7 @@
 		"landlocked": false,
 		"borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"],
 		"area": 312679,
-		"flag": "🇵🇱"
+		"flag": "\ud83c\uddf5\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -8941,7 +8941,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 8870,
-		"flag": "🇵🇷"
+		"flag": "\ud83c\uddf5\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -8987,7 +8987,7 @@
 		"landlocked": false,
 		"borders": ["CHN", "KOR", "RUS"],
 		"area": 120538,
-		"flag": "🇰🇵"
+		"flag": "\ud83c\uddf0\ud83c\uddf5"
 	},
 	{
 		"name": {
@@ -9033,7 +9033,7 @@
 		"landlocked": false,
 		"borders": ["ESP"],
 		"area": 92090,
-		"flag": "🇵🇹"
+		"flag": "\ud83c\uddf5\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -9084,7 +9084,7 @@
 		"landlocked": true,
 		"borders": ["ARG", "BOL", "BRA"],
 		"area": 406752,
-		"flag": "🇵🇾"
+		"flag": "\ud83c\uddf5\ud83c\uddfe"
 	},
 	{
 		"name": {
@@ -9130,7 +9130,7 @@
 		"landlocked": false,
 		"borders": ["ISR", "EGY", "JOR"],
 		"area": 6220,
-		"flag": "🇵🇸"
+		"flag": "\ud83c\uddf5\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -9176,7 +9176,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 4167,
-		"flag": "🇵🇫"
+		"flag": "\ud83c\uddf5\ud83c\uddeb"
 	},
 	{
 		"name": {
@@ -9222,7 +9222,7 @@
 		"landlocked": false,
 		"borders": ["SAU"],
 		"area": 11586,
-		"flag": "🇶🇦"
+		"flag": "\ud83c\uddf6\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -9268,7 +9268,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 2511,
-		"flag": "🇷🇪"
+		"flag": "\ud83c\uddf7\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -9314,7 +9314,7 @@
 		"landlocked": false,
 		"borders": ["BGR", "HUN", "MDA", "SRB", "UKR"],
 		"area": 238391,
-		"flag": "🇷🇴"
+		"flag": "\ud83c\uddf7\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -9360,7 +9360,7 @@
 		"landlocked": false,
 		"borders": ["AZE", "BLR", "CHN", "EST", "FIN", "GEO", "KAZ", "PRK", "LVA", "LTU", "MNG", "NOR", "POL", "UKR"],
 		"area": 17098242,
-		"flag": "🇷🇺"
+		"flag": "\ud83c\uddf7\ud83c\uddfa"
 	},
 	{
 		"name": {
@@ -9416,7 +9416,7 @@
 		"landlocked": true,
 		"borders": ["BDI", "COD", "TZA", "UGA"],
 		"area": 26338,
-		"flag": "🇷🇼"
+		"flag": "\ud83c\uddf7\ud83c\uddfc"
 	},
 	{
 		"name": {
@@ -9462,7 +9462,7 @@
 		"landlocked": false,
 		"borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"],
 		"area": 2149690,
-		"flag": "🇸🇦"
+		"flag": "\ud83c\uddf8\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -9513,7 +9513,7 @@
 		"landlocked": false,
 		"borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"],
 		"area": 1886068,
-		"flag": "🇸🇩"
+		"flag": "\ud83c\uddf8\ud83c\udde9"
 	},
 	{
 		"name": {
@@ -9559,7 +9559,7 @@
 		"landlocked": false,
 		"borders": ["GMB", "GIN", "GNB", "MLI", "MRT"],
 		"area": 196722,
-		"flag": "🇸🇳"
+		"flag": "\ud83c\uddf8\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -9619,7 +9619,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 710,
-		"flag": "🇸🇬"
+		"flag": "\ud83c\uddf8\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -9665,7 +9665,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 3903,
-		"flag": "🇬🇸"
+		"flag": "\ud83c\uddec\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -9711,7 +9711,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": -1,
-		"flag": "🇸🇯"
+		"flag": "\ud83c\uddf8\ud83c\uddef"
 	},
 	{
 		"name": {
@@ -9757,7 +9757,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 28896,
-		"flag": "🇸🇧"
+		"flag": "\ud83c\uddf8\ud83c\udde7"
 	},
 	{
 		"name": {
@@ -9803,7 +9803,7 @@
 		"landlocked": false,
 		"borders": ["GIN", "LBR"],
 		"area": 71740,
-		"flag": "🇸🇱"
+		"flag": "\ud83c\uddf8\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -9850,7 +9850,7 @@
 		"landlocked": false,
 		"borders": ["GTM", "HND"],
 		"area": 21041,
-		"flag": "🇸🇻"
+		"flag": "\ud83c\uddf8\ud83c\uddfb"
 	},
 	{
 		"name": {
@@ -9896,7 +9896,7 @@
 		"landlocked": true,
 		"borders": ["ITA"],
 		"area": 61,
-		"flag": "🇸🇲"
+		"flag": "\ud83c\uddf8\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -9947,7 +9947,7 @@
 		"landlocked": false,
 		"borders": ["DJI", "ETH", "KEN"],
 		"area": 637657,
-		"flag": "🇸🇴"
+		"flag": "\ud83c\uddf8\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -9993,7 +9993,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 242,
-		"flag": "🇵🇲"
+		"flag": "\ud83c\uddf5\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -10039,7 +10039,7 @@
 		"landlocked": true,
 		"borders": ["BIH", "BGR", "HRV", "HUN", "UNK", "MKD", "MNE", "ROU"],
 		"area": 88361,
-		"flag": "🇷🇸"
+		"flag": "\ud83c\uddf7\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -10085,7 +10085,7 @@
 		"landlocked": true,
 		"borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"],
 		"area": 619745,
-		"flag": "🇸🇸"
+		"flag": "\ud83c\uddf8\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -10131,7 +10131,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 964,
-		"flag": "🇸🇹"
+		"flag": "\ud83c\uddf8\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -10177,7 +10177,7 @@
 		"landlocked": false,
 		"borders": ["BRA", "GUF", "GUY"],
 		"area": 163820,
-		"flag": "🇸🇷"
+		"flag": "\ud83c\uddf8\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -10223,7 +10223,7 @@
 		"landlocked": true,
 		"borders": ["AUT", "CZE", "HUN", "POL", "UKR"],
 		"area": 49037,
-		"flag": "🇸🇰"
+		"flag": "\ud83c\uddf8\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -10269,7 +10269,7 @@
 		"landlocked": false,
 		"borders": ["AUT", "HRV", "ITA", "HUN"],
 		"area": 20273,
-		"flag": "🇸🇮"
+		"flag": "\ud83c\uddf8\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -10315,7 +10315,7 @@
 		"landlocked": false,
 		"borders": ["FIN", "NOR"],
 		"area": 450295,
-		"flag": "🇸🇪"
+		"flag": "\ud83c\uddf8\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -10366,7 +10366,7 @@
 		"landlocked": true,
 		"borders": ["MOZ", "ZAF"],
 		"area": 17364,
-		"flag": "🇸🇿"
+		"flag": "\ud83c\uddf8\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -10421,7 +10421,7 @@
 		"landlocked": false,
 		"borders": ["MAF"],
 		"area": 34,
-		"flag": "🇸🇽"
+		"flag": "\ud83c\uddf8\ud83c\uddfd"
 	},
 	{
 		"name": {
@@ -10477,7 +10477,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 452,
-		"flag": "🇸🇨"
+		"flag": "\ud83c\uddf8\ud83c\udde8"
 	},
 	{
 		"name": {
@@ -10523,7 +10523,7 @@
 		"landlocked": false,
 		"borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"],
 		"area": 185180,
-		"flag": "🇸🇾"
+		"flag": "\ud83c\uddf8\ud83c\uddfe"
 	},
 	{
 		"name": {
@@ -10569,7 +10569,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 948,
-		"flag": "🇹🇨"
+		"flag": "\ud83c\uddf9\ud83c\udde8"
 	},
 	{
 		"name": {
@@ -10621,7 +10621,7 @@
 		"landlocked": true,
 		"borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SSD"],
 		"area": 1284000,
-		"flag": "🇹🇩"
+		"flag": "\ud83c\uddf9\ud83c\udde9"
 	},
 	{
 		"name": {
@@ -10667,7 +10667,7 @@
 		"landlocked": false,
 		"borders": ["BEN", "BFA", "GHA"],
 		"area": 56785,
-		"flag": "🇹🇬"
+		"flag": "\ud83c\uddf9\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -10713,7 +10713,7 @@
 		"landlocked": false,
 		"borders": ["MMR", "KHM", "LAO", "MYS"],
 		"area": 513120,
-		"flag": "🇹🇭"
+		"flag": "\ud83c\uddf9\ud83c\udded"
 	},
 	{
 		"name": {
@@ -10764,7 +10764,7 @@
 		"landlocked": true,
 		"borders": ["AFG", "CHN", "KGZ", "UZB"],
 		"area": 143100,
-		"flag": "🇹🇯"
+		"flag": "\ud83c\uddf9\ud83c\uddef"
 	},
 	{
 		"name": {
@@ -10820,7 +10820,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 12,
-		"flag": "🇹🇰"
+		"flag": "\ud83c\uddf9\ud83c\uddf0"
 	},
 	{
 		"name": {
@@ -10871,7 +10871,7 @@
 		"landlocked": true,
 		"borders": ["AFG", "IRN", "KAZ", "UZB"],
 		"area": 488100,
-		"flag": "🇹🇲"
+		"flag": "\ud83c\uddf9\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -10922,7 +10922,7 @@
 		"landlocked": false,
 		"borders": ["IDN"],
 		"area": 14874,
-		"flag": "🇹🇱"
+		"flag": "\ud83c\uddf9\ud83c\uddf1"
 	},
 	{
 		"name": {
@@ -10973,7 +10973,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 747,
-		"flag": "🇹🇴"
+		"flag": "\ud83c\uddf9\ud83c\uddf4"
 	},
 	{
 		"name": {
@@ -11019,7 +11019,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 5130,
-		"flag": "🇹🇹"
+		"flag": "\ud83c\uddf9\ud83c\uddf9"
 	},
 	{
 		"name": {
@@ -11065,7 +11065,7 @@
 		"landlocked": false,
 		"borders": ["DZA", "LBY"],
 		"area": 163610,
-		"flag": "🇹🇳"
+		"flag": "\ud83c\uddf9\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -11111,7 +11111,7 @@
 		"landlocked": false,
 		"borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"],
 		"area": 783562,
-		"flag": "🇹🇷"
+		"flag": "\ud83c\uddf9\ud83c\uddf7"
 	},
 	{
 		"name": {
@@ -11162,7 +11162,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 26,
-		"flag": "🇹🇻"
+		"flag": "\ud83c\uddf9\ud83c\uddfb"
 	},
 	{
 		"name": {
@@ -11207,7 +11207,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 36193,
-		"flag": "🇹🇼"
+		"flag": "\ud83c\uddf9\ud83c\uddfc"
 	},
 	{
 		"name": {
@@ -11258,7 +11258,7 @@
 		"landlocked": false,
 		"borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"],
 		"area": 945087,
-		"flag": "🇹🇿"
+		"flag": "\ud83c\uddf9\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -11309,7 +11309,7 @@
 		"landlocked": true,
 		"borders": ["COD", "KEN", "RWA", "SSD", "TZA"],
 		"area": 241550,
-		"flag": "🇺🇬"
+		"flag": "\ud83c\uddfa\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -11360,7 +11360,7 @@
 		"landlocked": false,
 		"borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"],
 		"area": 603500,
-		"flag": "🇺🇦"
+		"flag": "\ud83c\uddfa\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -11406,7 +11406,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 34.2,
-		"flag": "🇺🇲"
+		"flag": "\ud83c\uddfa\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -11452,7 +11452,7 @@
 		"landlocked": false,
 		"borders": ["ARG", "BRA"],
 		"area": 181034,
-		"flag": "🇺🇾"
+		"flag": "\ud83c\uddfa\ud83c\uddfe"
 	},
 	{
 		"name": {
@@ -11498,7 +11498,7 @@
 		"landlocked": false,
 		"borders": ["CAN", "MEX"],
 		"area": 9372610,
-		"flag": "🇺🇸"
+		"flag": "\ud83c\uddfa\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -11549,7 +11549,7 @@
 		"landlocked": true,
 		"borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"],
 		"area": 447400,
-		"flag": "🇺🇿"
+		"flag": "\ud83c\uddfa\ud83c\uddff"
 	},
 	{
 		"name": {
@@ -11600,7 +11600,7 @@
 		"landlocked": true,
 		"borders": ["ITA"],
 		"area": 0.44,
-		"flag": "🇻🇦"
+		"flag": "\ud83c\uddfb\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -11646,7 +11646,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 389,
-		"flag": "🇻🇨"
+		"flag": "\ud83c\uddfb\ud83c\udde8"
 	},
 	{
 		"name": {
@@ -11692,7 +11692,7 @@
 		"landlocked": false,
 		"borders": ["BRA", "COL", "GUY"],
 		"area": 916445,
-		"flag": "🇻🇪"
+		"flag": "\ud83c\uddfb\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -11738,7 +11738,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 151,
-		"flag": "🇻🇬"
+		"flag": "\ud83c\uddfb\ud83c\uddec"
 	},
 	{
 		"name": {
@@ -11784,7 +11784,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 347,
-		"flag": "🇻🇮"
+		"flag": "\ud83c\uddfb\ud83c\uddee"
 	},
 	{
 		"name": {
@@ -11830,7 +11830,7 @@
 		"landlocked": false,
 		"borders": ["KHM", "CHN", "LAO"],
 		"area": 331212,
-		"flag": "🇻🇳"
+		"flag": "\ud83c\uddfb\ud83c\uddf3"
 	},
 	{
 		"name": {
@@ -11886,7 +11886,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 12189,
-		"flag": "🇻🇺"
+		"flag": "\ud83c\uddfb\ud83c\uddfa"
 	},
 	{
 		"name": {
@@ -11932,7 +11932,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 142,
-		"flag": "🇼🇫"
+		"flag": "\ud83c\uddfc\ud83c\uddeb"
 	},
 	{
 		"name": {
@@ -11982,7 +11982,7 @@
 		"landlocked": false,
 		"borders": [],
 		"area": 2842,
-		"flag": "🇼🇸"
+		"flag": "\ud83c\uddfc\ud83c\uddf8"
 	},
 	{
 		"name": {
@@ -12028,7 +12028,7 @@
 		"landlocked": false,
 		"borders": ["OMN", "SAU"],
 		"area": 527968,
-		"flag": "🇾🇪"
+		"flag": "\ud83c\uddfe\ud83c\uddea"
 	},
 	{
 		"name": {
@@ -12124,7 +12124,7 @@
 		"landlocked": false,
 		"borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"],
 		"area": 1221037,
-		"flag": "🇿🇦"
+		"flag": "\ud83c\uddff\ud83c\udde6"
 	},
 	{
 		"name": {
@@ -12170,7 +12170,7 @@
 		"landlocked": true,
 		"borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"],
 		"area": 752612,
-		"flag": "🇿🇲"
+		"flag": "\ud83c\uddff\ud83c\uddf2"
 	},
 	{
 		"name": {
@@ -12286,6 +12286,6 @@
 		"landlocked": true,
 		"borders": ["BWA", "MOZ", "ZAF", "ZMB"],
 		"area": 390757,
-		"flag": "🇿🇼"
+		"flag": "\ud83c\uddff\ud83c\uddfc"
 	}
 ]
