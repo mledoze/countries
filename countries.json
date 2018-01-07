@@ -551,7 +551,7 @@
 		"callingCode": [],
 		"capital": "",
 		"altSpellings": ["AQ"],
-		"region": "",
+		"region": "Antarctic",
 		"subregion": "",
 		"languages": {},
 		"translations": {
@@ -596,7 +596,7 @@
 		"callingCode": [],
 		"capital": "Port-aux-Fran\u00e7ais",
 		"altSpellings": ["TF", "French Southern Territories"],
-		"region": "",
+		"region": "Antarctic",
 		"subregion": "",
 		"languages": {
 			"fra": "French"
@@ -1735,7 +1735,7 @@
 		"callingCode": [],
 		"capital": "",
 		"altSpellings": ["BV", "Bouvet\u00f8ya", "Bouvet-\u00f8ya"],
-		"region": "",
+		"region": "Antarctic",
 		"subregion": "",
 		"languages": {
 			"nor": "Norwegian"
@@ -4751,7 +4751,7 @@
 		"callingCode": [],
 		"capital": "",
 		"altSpellings": ["HM", "Heard Island and McDonald Islands"],
-		"region": "",
+		"region": "Antarctic",
 		"subregion": "",
 		"languages": {
 			"eng": "English"
@@ -9615,8 +9615,8 @@
 		"callingCode": ["500"],
 		"capital": "King Edward Point",
 		"altSpellings": ["GS", "South Georgia and the South Sandwich Islands"],
-		"region": "Americas",
-		"subregion": "South America",
+		"region": "Antarctic",
+		"subregion": "",
 		"languages": {
 			"eng": "English"
 		},
