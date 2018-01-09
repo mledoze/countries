@@ -3,7 +3,14 @@
 	"description": "List of world countries in JSON, CSV, XML and Yaml",
 	"version": "v1.8.1",
 	"main": "index.js",
-	"keywords": ["countries", "world", "json", "csv", "xml", "yaml"],
+	"keywords": [
+		"countries",
+		"world",
+		"json",
+		"csv",
+		"xml",
+		"yaml"
+	],
 	"maintainers": [
 		{
 			"name": "Mohammed Le Doze",
@@ -26,5 +33,11 @@
 			"url": "http://opendatacommons.org/licenses/odbl/1.0/"
 		}
 	],
-	"homepage": "https://mledoze.github.io/countries/"
+	"homepage": "https://mledoze.github.io/countries/",
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"exphbs": "^1.1.0",
+		"express": "^4.16.2",
+		"express-handlebars": "^3.0.0"
+	}
 }
