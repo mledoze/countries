@@ -1,12 +1,22 @@
-<h1>Country : {{country}}</h1>
+<h2>Common : {{common}}</h2>
+<h2>Official : {{official}}</h2>
 <hr>
-<h1 style="color:#6D8896">Arabic</h1>
-<form action="/" method="post">
-  <h1>Common: <input name="arCommon"></h1>
-  <h1>Official: <input name="arOfficial"></h1>
+<form action="/pp" method="post">
+  <h2 style="color:#6D8896">Persian</h2>
+
+  <h4>translation</h4>
+  <h4>{{translateFarsi}}</h4>
+  <h4>{{translateFarsi1}}</h4>
+
+  <h2>Common: <input name="prCommon"></h2>
+  <h2>Official: <input name="prOfficial"></h2>
+  <button class="btn btn-info center-block btn-lg">Send</button><br>
+
   <hr>
-  <h1 style="color:#6D8896">Persian</h1>
-  <h1>Common: <input name="prCommon"></h1>
-  <h1>Official: <input name="prOfficial"></h1>
-  <button class="btn btn-info center-block btn-lg">Send</button>
+  <h2 style="color:#6D8896">Arabic</h2>
+
+    <h4>translation</h4>
+    <h4 id="tarb" value={{translateArabic}}>{{translateArabic}}</h4>
+    <h2>Common: <input name="arCommon" value={{arabicCommon}}></h2>
+    <h2>Official: <input name="arOfficial" value="{{arabicOfficial}}"></h2>
 </form>

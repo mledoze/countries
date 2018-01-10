@@ -1,6 +1,8 @@
 var fs = require('fs');
 var app = require('express')();
 var exphbs  = require('express-handlebars');
+var translate = require('google-translate-api');
+
 
 /* rendering engine, with change extension to .hbs */
 //app.engine('handlebars',exphbs({defaultLayout: 'main.hbs'}));
@@ -9,7 +11,7 @@ app.engine('.hbs', exphbs({
         extname: '.hbs'
 }));
 
-var bodyParser = require('body-parser')
+var bodyParser = require('body-parser');
 app.use( bodyParser.json() );       // to support JSON-encoded bodies
 app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
   extended: true
@@ -19,26 +21,72 @@ app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
 app.set('view engine', 'hbs');
 /* views directory to search */
 app.set('views', 'views');
-var i = 0;
+var currentIndex = 0;
+var json = JSON.parse(fs.readFileSync('rawJSON.json', 'utf8'));
 
 /* home path */
 app.get("/", function (req, res) {
-    var json = JSON.parse(fs.readFileSync('../countries.json', 'utf8'));
-    for (var i in json) {
-      res.render('home', {country: json[i].name.common});
-      break;
+  var translatedArabic='';
+  var translatedFarsi='';
+  var translatedFarsi2='';
+    for (var i = 0; i < json.length; i++) {
+      if(json[i].translations.per == undefined){
+        currentIndex = i;
+        translate(json[i].name.common, {to: 'ar'})
+          .then(res => {
+            translatedArabic = res.text;
+          }).catch(err => {
+            translatedArabic = err;
+          });
+          translate(json[i].name.common, {to: 'fa'})
+            .then(res => {
+              translatedFarsi = res.text;
+            }).catch(err => {
+              translatedFarsi = err;
+            });
+          translate(json[i].name.official, {to: 'fa'})
+            .then(res => {
+              translatedFarsi2 = res.text;
+            }).catch(err => {
+              translatedFarsi2 = err;
+            });
+
+        setTimeout(function () {
+          res.render('home', {common: json[i].name.common + ' ('+ (currentIndex+1) + '/248)',
+                              official: json[i].name.official,
+                              arabicCommon:json[i].translations.ara.common,
+                              arabicOfficial:json[i].translations.ara.official,
+                              translateArabic: translatedArabic,
+                              translateFarsi: translatedFarsi,
+                              translateFarsi1: translatedFarsi2});
+        }, 800);
+
+        break;
+      }
+      if(i == 248) res.render('end');
     }
+
 });
-app.post("/", function (req, res) {
+
+
+app.post("/pp", function (req, res) {
   var arC = req.body.arCommon;
   var arO = req.body.arOfficial;
   var prC = req.body.prCommon;
   var prO = req.body.prOfficial;
-  //mystring.replace(/,/g , "newchar");
-  console.log(arC);
-  console.log(escape(arC).replace(/%/g, "/"));
-  //res.render('home');
-  res.end();
+
+  var inputC = escape(prC).replace(/%/g, '\\');
+  var inputO = escape(prO).replace(/%/g, '\\');
+  json[currentIndex].translations.per={
+    official:inputO,
+    common:inputC
+  };
+
+
+  fs.unlinkSync('rawJSON.json');
+  fs.writeFileSync('rawJSON.json', JSON.stringify(json,null,4));
+  res.render('home');
+
 
 });
 
