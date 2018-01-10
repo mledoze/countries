@@ -63,11 +63,13 @@ app.get("/", function (req, res) {
 
         break;
       }
-      if(i == 248) res.render('end');
+
     }
 
 });
-
+app.get('/end',(req,res)=>{
+  res.render('end');
+});
 
 app.post("/pp", function (req, res) {
   var arC = req.body.arCommon;

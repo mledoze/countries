@@ -38,6 +38,7 @@
 		"body-parser": "^1.18.2",
 		"exphbs": "^1.1.0",
 		"express": "^4.16.2",
-		"express-handlebars": "^3.0.0"
+		"express-handlebars": "^3.0.0",
+		"google-translate-api": "^2.3.0"
 	}
 }
