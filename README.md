@@ -22,7 +22,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - code ISO 3166-1 numeric (`ccn3`)
  - code ISO 3166-1 alpha-3 (`cca3`)
  - code International Olympic Committee (`cioc`)
- - Independent or not in ISO 3166 (`independent`)
+ - independence status from ISO 3166-1 (`independent`) (denotes the country is considered a sovereign state)
  - ISO 4217 currency code(s) (`currency`)
  - calling code(s) (`callingCode`)
  - capital city (`capital`)
