@@ -24,7 +24,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - code International Olympic Committee (`cioc`)
  - ISO 4217 currency code(s) (`currency`)
  - calling code(s) (`callingCode`)
- - capital city (`capital`)
+ - capital city(ies) (`capital`)
  - alternative spellings (`altSpellings`)
  - region
  - subregion
@@ -68,7 +68,7 @@ GeoJSON outlines and flags in SVG format.
 	"cioc": "AUT",
 	"currency": ["EUR"],
 	"callingCode": ["43"],
-	"capital": "Vienna",
+	"capital": ["Vienna"],
 	"altSpellings": ["AT", "Osterreich", "Oesterreich"],
 	"region": "Europe",
 	"subregion": "Western Europe",
