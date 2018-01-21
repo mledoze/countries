@@ -4,7 +4,7 @@
 	"description": "World countries in JSON, CSV, XML and Yaml",
 	"keywords": ["world", "countries", "json", "csv", "xml", "yaml"],
 	"homepage": "https://mledoze.github.io/countries/",
-	"license": "ODC Open Database License v1.0",
+	"license": "ODbL-1.0",
 	"authors": [
 		{"name": "Mohammed Le Doze"}
 	],
