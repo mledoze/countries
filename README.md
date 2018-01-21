@@ -22,6 +22,7 @@ This repository contains lists of world countries in JSON, CSV and XML. Each lin
  - code ISO 3166-1 numeric (`ccn3`)
  - code ISO 3166-1 alpha-3 (`cca3`)
  - code International Olympic Committee (`cioc`)
+ - independence status from ISO 3166-1 (`independent`) (denotes the country is considered a sovereign state)
  - ISO 4217 currency code(s) (`currency`)
  - calling code(s) (`callingCode`)
  - capital city(ies) (`capital`)
@@ -66,6 +67,7 @@ GeoJSON outlines and flags in SVG format.
 	"ccn3": "040",
 	"cca3": "AUT",
 	"cioc": "AUT",
+	"independent": true,
 	"currency": ["EUR"],
 	"callingCode": ["43"],
 	"capital": ["Vienna"],
