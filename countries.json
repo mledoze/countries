@@ -1392,6 +1392,55 @@
 	},
 	{
 		"name": {
+			"common": "Saint Helena, Ascension and Tristan da Cunha",
+			"official": "Saint Helena, Ascension and Tristan da Cunha",
+			"native": {
+				"eng": {
+					"official": "Saint Helena, Ascension and Tristan da Cunha",
+					"common": "Saint Helena, Ascension and Tristan da Cunha"
+				}
+			}
+		},
+		"tld": [".sh", ".ac"],
+		"cca2": "SH",
+		"ccn3": "654",
+		"cca3": "SHN",
+		"cioc": "",
+		"independent": false,
+		"status": "officially-assigned",
+		"currency": ["SHP", "GBP"],
+		"callingCode": ["290", "247"],
+		"capital": ["Jamestown"],
+		"altSpellings": ["Saint Helena", "St. Helena, Ascension and Tristan da Cunha"],
+		"region": "Africa",
+		"subregion": "Western Africa",
+		"languages": {
+			"eng": "English"
+		},
+		"translations": {
+			"deu": {"official": "Sankt Helena, Ascension und Tristan da Cunha", "common": "St. Helena, Ascension und Tristan da Cunha"},
+			"fra": {"official": "Sainte-H\u00e9l\u00e8ne, Ascension et Tristan da Cunha", "common": "Sainte-H\u00e9l\u00e8ne, Ascension et Tristan da Cunha"},
+			"hrv": {"official": "Sveta Helena", "common": "Sveta Helena"},
+			"ita": {"official": "Sant'Elena, Ascensione e Tristan da Cunha", "common": "Sant'Elena, Ascensione e Tristan da Cunha"},
+			"jpn": {"official": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3", "common": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3"},
+			"nld": {"official": "Sint-Helena, Ascension en Tristan da Cunha", "common": "Sint-Helena, Ascension en Tristan da Cunha"},
+			"por": {"official": "Santa Helena, Ascens\u00e3o e Trist\u00e3o da Cunha", "common": "Santa Helena, Ascens\u00e3o e Trist\u00e3o da Cunha"},
+			"rus": {"official": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b, \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0438 \u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430-\u041a\u0443\u043d\u044c\u044f", "common": "\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0421\u0432\u044f\u0442\u043e\u0439 \u0415\u043b\u0435\u043d\u044b, \u0412\u043e\u0437\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0438 \u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430-\u041a\u0443\u043d\u044c\u044f"},
+			"slk": {"official": "Sv\u00e4t\u00e1 Helena (z\u00e1morsk\u00e9 \u00fazemie)", "common": "Sv\u00e4t\u00e1 Helena (z\u00e1morsk\u00e9 \u00fazemie)"},
+			"spa": {"official": "Santa Elena, Ascensi\u00f3n y Trist\u00e1n de Acu\u00f1a", "common": "Santa Elena, Ascensi\u00f3n y Trist\u00e1n de Acu\u00f1a"},
+			"fin": {"official": "Saint Helena, Ascension ja Tristan da Cunha", "common": "Saint Helena, Ascension ja Tristan da Cunha"},
+			"est": {"official": "Saint Helena (meretagune ala)", "common": "Saint Helena (meretagune ala)"},
+			"zho": {"official": "\u5723\u8d6b\u52d2\u62ff\u3001\u963f\u68ee\u677e\u548c\u7279\u91cc\u65af\u5766-\u8fbe\u5e93\u5c3c\u4e9a", "common": "\u5723\u8d6b\u52d2\u62ff\u3001\u963f\u68ee\u677e\u548c\u7279\u91cc\u65af\u5766-\u8fbe\u5e93\u5c3c\u4e9a"}
+		},
+		"latlng": [-15.95, -5.72],
+		"demonym": "Saint Helenian",
+		"landlocked": false,
+		"borders": [],
+		"area": 394,
+		"flag": "\ud83c\uddf8\ud83c\udded"
+	},
+	{
+		"name": {
 			"common": "Belarus",
 			"official": "Republic of Belarus",
 			"native": {
@@ -1619,6 +1668,61 @@
 		"borders": ["ARG", "BRA", "CHL", "PRY", "PER"],
 		"area": 1098581,
 		"flag": "\ud83c\udde7\ud83c\uddf4"
+	},
+	{
+		"name": {
+			"common": "Caribbean Netherlands",
+			"official": "Bonaire, Sint Eustatius and Saba",
+			"native": {
+				"nld": {
+					"official": "Bonaire, Sint Eustatius en Saba",
+					"common": "Caribisch Nederland"
+				},
+				"pap": {
+					"official": "Boneiru, Sint Eustatius y Saba",
+					"common": "Boneiru, Sint Eustatius y Saba"
+				}
+			}
+		},
+		"tld": [".bq", ".nl"],
+		"cca2": "BQ",
+		"ccn3": "535",
+		"cca3": "BES",
+		"cioc": "",
+		"independent": false,
+		"status": "officially-assigned",
+		"currency": ["USD"],
+		"callingCode": ["599"],
+		"capital": [],
+		"altSpellings": ["Caribbean Netherlands"],
+		"region": "Americas",
+		"subregion": "Caribbean",
+		"languages": {
+			"eng": "English",
+			"nld": "Dutch",
+			"pap": "Papiamento"
+		},
+		"translations": {
+			"deu": {"official": "Besonderen Gemeinden der Niederlande", "common": "Karibische Niederlande"},
+			"fra": {"official": "Bonaire, Saint-Eustache et Saba", "common": "Pays-Bas carib\u00e9ens"},
+			"hrv": {"official": "", "common": ""},
+			"ita": {"official": "Bonaire, Sint Eustatius e Saba", "common": "Paesi Bassi caraibici"},
+			"jpn": {"official": "\u30dc\u30cd\u30fc\u30eb\u3001\u30b7\u30f3\u30c8\u30fb\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u304a\u3088\u3073\u30b5\u30d0", "common": "\u30dc\u30cd\u30fc\u30eb\u3001\u30b7\u30f3\u30c8\u30fb\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u304a\u3088\u3073\u30b5\u30d0"},
+			"nld": {"official": "Bonaire, Sint Eustatius en Saba", "common": "Caribisch Nederland"},
+			"por": {"official": "Bonaire, Saba e Santo Eust\u00e1quio", "common": "Pa\u00edses Baixos Caribenhos"},
+			"rus": {"official": "\u0411\u043e\u043d\u044d\u0439\u0440, \u0421\u0438\u043d\u0442-\u042d\u0441\u0442\u0430\u0442\u0438\u0443\u0441 \u0438 \u0421\u0430\u0431\u0430", "common": "\u041a\u0430\u0440\u0438\u0431\u0441\u043a\u0438\u0435 \u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b"},
+			"slk": {"official": "", "common": ""},
+			"spa": {"official": "Bonaire, San Eustaquio y Saba", "common": "Caribe Neerland\u00e9s"},
+			"fin": {"official": "", "common": ""},
+			"est": {"official": "", "common": ""},
+			"zho": {"official": "\u8377\u862d\u52a0\u52d2\u6bd4\u5340", "common": "\u8377\u862d\u52a0\u52d2\u6bd4\u5340"}
+		},
+		"latlng": [12.18, -68.25],
+		"demonym": "Dutch",
+		"landlocked": false,
+		"borders": [],
+		"area": 328,
+		"flag": ""
 	},
 	{
 		"name": {
