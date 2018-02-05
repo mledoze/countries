@@ -2,7 +2,7 @@ title: World countries in JSON, CSV and XML and Yaml
 description: Any help is welcome!
 google_analytics: UA-50761151-1
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
