@@ -4,7 +4,7 @@
 [![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 [![Latest Stable Version](https://img.shields.io/npm/v/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 [![Latest Stable Version](https://img.shields.io/packagist/v/mledoze/countries.svg?style=flat)](https://packagist.org/packages/mledoze/countries)
-[![License](https://img.shields.io/packagist/l/mledoze/countries.svg?style=flat)](http://opendatacommons.org/licenses/odbl/1.0/)
+[![License](https://img.shields.io/packagist/l/mledoze/countries.svg?style=flat)](https://opendatacommons.org/licenses/odbl/1.0/)
 
 ## Countries data
 This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:
@@ -204,7 +204,7 @@ Please refer to [CONTRIBUTING](https://github.com/mledoze/countries/blob/master/
  - pull in data automatically from CLDR at build time (idea from @Munter, see #108) 
 
 ## Sources
-http://www.currency-iso.org/ for currency codes.
+https://www.currency-iso.org/ for currency codes.
 
 Region and subregion are taken from https://github.com/hexorx/countries.
 
