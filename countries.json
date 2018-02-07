@@ -4918,7 +4918,7 @@
 			"official": "Guiana",
 			"native": {
 				"fra": {
-					"official": "Guyanes",
+					"official": "Guyane",
 					"common": "Guyane fran\u00e7aise"
 				}
 			}
@@ -4955,7 +4955,7 @@
 			"zho": {"official": "\u6CD5\u5C5E\u572D\u4E9A\u90A3", "common": "\u6CD5\u5C5E\u572D\u4E9A\u90A3"}
 		},
 		"latlng": [4, -53],
-		"demonym": "",
+		"demonym": "Guianan",
 		"landlocked": false,
 		"borders": ["BRA", "SUR"],
 		"area": 83534,
