@@ -1,10 +1,11 @@
 # World countries in JSON, CSV, XML and YAML.
 
-[![Build Status](https://travis-ci.org/mledoze/countries.svg?branch=master)](https://travis-ci.org/mledoze/countries)
-[![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 [![Latest Stable Version](https://img.shields.io/npm/v/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 [![Latest Stable Version](https://img.shields.io/packagist/v/mledoze/countries.svg?style=flat)](https://packagist.org/packages/mledoze/countries)
 [![License](https://img.shields.io/packagist/l/mledoze/countries.svg?style=flat)](https://opendatacommons.org/licenses/odbl/1.0/)
+[![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
+[![Build Status](https://travis-ci.org/mledoze/countries.svg?branch=master)](https://travis-ci.org/mledoze/countries)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/mledoze/countries.svg)](https://packagist.org/packages/mledoze/countries)
 
 ## Countries data
 This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:
