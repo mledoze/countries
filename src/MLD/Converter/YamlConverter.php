@@ -14,6 +14,6 @@ class YamlConverter extends AbstractConverter {
 		$dumper = new Dumper();
 		$inlineLevel = 1;
 
-		return $dumper->dump($this->aCountries, $inlineLevel);
+		return $dumper->dump($this->countries, $inlineLevel);
 	}
 }

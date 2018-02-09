@@ -7,53 +7,55 @@ use DOMDocument;
  */
 class XmlConverter extends AbstractConverter {
 
-	/** @var DOMDocument $oDom */
-	private $oDom;
+	/**
+	 * @var DOMDocument
+	 */
+	private $domDocument;
 
 	/**
-	 * @param array $aCountries
+	 * @param array $countries
 	 */
-	public function __construct(array $aCountries) {
-		$this->oDom = new \DOMDocument('1.0', 'UTF-8');
+	public function __construct(array $countries) {
+		$this->domDocument = new \DOMDocument('1.0', 'UTF-8');
 		$this->formatOutput();
 		$this->preserveWhiteSpace();
-		$this->oDom->appendChild($this->oDom->createElement('countries'));
-		parent::__construct($aCountries);
+		$this->domDocument->appendChild($this->domDocument->createElement('countries'));
+		parent::__construct($countries);
 	}
 
 	/**
 	 * @return string data converted into XML
 	 */
 	public function convert() {
-		array_walk($this->aCountries, array($this, 'processCountry'));
-		return $this->oDom->saveXML();
+		array_walk($this->countries, array($this, 'processCountry'));
+		return $this->domDocument->saveXML();
 	}
 
 	/**
-	 * @param bool $bFormatOutput
+	 * @param bool $formatOutput
 	 * @see \DOMDocument::$formatOutput
 	 */
-	public function formatOutput($bFormatOutput = true) {
-		$this->oDom->formatOutput = $bFormatOutput;
+	public function formatOutput($formatOutput = true) {
+		$this->domDocument->formatOutput = $formatOutput;
 	}
 
 	/**
-	 * @param bool $bPreserveWhiteSpace
+	 * @param bool $preserveWhiteSpace
 	 * @see \DOMDocument::$preserveWhiteSpace
 	 */
-	public function preserveWhiteSpace($bPreserveWhiteSpace = false) {
-		$this->oDom->preserveWhiteSpace = $bPreserveWhiteSpace;
+	public function preserveWhiteSpace($preserveWhiteSpace = false) {
+		$this->domDocument->preserveWhiteSpace = $preserveWhiteSpace;
 	}
 
 	/**
 	 * @param $array
 	 */
 	private function processCountry(&$array) {
-		$oCountryNode = $this->oDom->createElement('country');
+		$countryNode = $this->domDocument->createElement('country');
 		$array = $this->convertArrays($array);
-		array_walk($array, function ($value, $key) use ($oCountryNode) {
-			$oCountryNode->setAttribute($key, $value);
+		array_walk($array, function ($value, $key) use ($countryNode) {
+			$countryNode->setAttribute($key, $value);
 		});
-		$this->oDom->documentElement->appendChild($oCountryNode);
+		$this->domDocument->documentElement->appendChild($countryNode);
 	}
 }

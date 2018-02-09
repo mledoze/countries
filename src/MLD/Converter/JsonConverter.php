@@ -11,6 +11,6 @@ class JsonConverter extends AbstractJsonConverter {
 	 */
 	public function convert() {
 		$this->processEmptyArrays();
-		return preg_replace("@},{@", "},\n{", json_encode($this->aCountries) . "\n");
+		return preg_replace("@},{@", "},\n{", json_encode($this->countries) . "\n");
 	}
 }
