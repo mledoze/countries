@@ -2,7 +2,7 @@
 
 namespace MLD\Console\Command;
 
-use MLD\Converter\AbstractConverter;
+use MLD\Converter\Factory;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
@@ -30,16 +30,14 @@ class ExportCommand extends Command
      */
     private $converters = [
         'json' => ['class' => '\MLD\Converter\JsonConverter', 'output_file' => 'countries.json'],
-        'json_unescaped' => ['class' => '\MLD\Converter\JsonConverterUnicode', 'output_file' => 'countries-unescaped.json'],
+        'json_unescaped' => [
+            'class' => '\MLD\Converter\JsonConverterUnicode',
+            'output_file' => 'countries-unescaped.json'
+        ],
         'csv' => ['class' => '\MLD\Converter\CsvConverter', 'output_file' => 'countries.csv'],
         'xml' => ['class' => '\MLD\Converter\XmlConverter', 'output_file' => 'countries.xml'],
         'yml' => ['class' => '\MLD\Converter\YamlConverter', 'output_file' => 'countries.yml'],
     ];
-
-    /**
-     * @var
-     */
-    private $outputFieldsCache;
 
     /**
      * @param string $inputFile Full path and filename of the input country data JSON file.
@@ -94,33 +92,63 @@ class ExportCommand extends Command
     /**
      * @param InputInterface $input
      * @param OutputInterface $output
-     * @return int|null|void
+     * @throws \InvalidArgumentException
      */
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $countries = json_decode(file_get_contents($this->inputFile), true);
-        $excludeFields = $input->getOption('exclude-field');
-        $includeFields = $input->getOption('include-field');
+        $factory = $this->createConverterFactory();
+
+        $countries = $this->decodeInputFile();
+        $countries = $this->filterFields($countries, $input);
+
+        /** @var array $formats */
         $formats = $input->getOption('format');
         $outputDirectory = $input->getOption('output-dir');
 
         foreach ($formats as $format) {
-            $c = $this->converters[$format];
             if ($output->isVerbose()) {
                 $output->writeln('Converting to ' . $format);
             }
 
-            /** @var AbstractConverter $converter */
-            $converter = new $c['class']($countries);
-            $fields = $this->getOutputFields($converter->getFields(), $excludeFields, $includeFields);
+            $converter = $factory->create($format);
 
-            $converter
-                ->setOutputDirectory($outputDirectory)
-                ->setFields($fields)
-                ->save($c['output_file']);
+            $conversionResult = $converter->convert($countries);
+            // TODO save the result of the conversion
         }
 
-        $output->writeln('Converted data for <info>' . count($countries) . '</info> countries into <info>' . count($this->converters) . '</info> formats.');
+        // TODO move this to another method
+        $output->writeln(
+            sprintf(
+                '<info>Converted data for %d countries into %d formats.</info>',
+                count($countries), count($this->converters)
+            )
+        );
+    }
+
+    /**
+     * @param array $countries
+     * @param InputInterface $input
+     * @return array
+     * @throws \Symfony\Component\Console\Exception\InvalidArgumentException
+     */
+    private function filterFields(array $countries, InputInterface $input)
+    {
+        $baseFields = array_keys(reset($countries));
+        $excludeFields = $input->getOption('exclude-field');
+        $includeFields = $input->getOption('include-field');
+
+        $outputFields = $this->getOutputFields($baseFields, $excludeFields, $includeFields);
+
+        if (empty($outputFields)) {
+            return $countries;
+        }
+
+        return array_map(
+            function ($country) use ($outputFields) {
+                return array_intersect_key($country, array_flip($outputFields));
+            },
+            $countries
+        );
     }
 
     /**
@@ -131,18 +159,30 @@ class ExportCommand extends Command
      */
     private function getOutputFields($baseFields, $excludeFields, $includeFields)
     {
-        if ($this->outputFieldsCache) {
-            return $this->outputFieldsCache;
-        }
+        $outputFields = $baseFields;
 
         if (!empty($excludeFields)) {
-            $this->outputFieldsCache = array_diff($baseFields, $excludeFields);
+            $outputFields = array_diff($baseFields, $excludeFields);
         } elseif (!empty($includeFields)) {
-            $this->outputFieldsCache = array_intersect($baseFields, $includeFields);
-        } else {
-            $this->outputFieldsCache = $baseFields;
+            $outputFields = array_intersect($baseFields, $includeFields);
         }
 
-        return $this->outputFieldsCache;
+        return $outputFields;
+    }
+
+    /**
+     * @return Factory
+     */
+    private function createConverterFactory()
+    {
+        return new Factory();
+    }
+
+    /**
+     * @return array
+     */
+    private function decodeInputFile()
+    {
+        return json_decode(file_get_contents($this->inputFile), true);
     }
 }

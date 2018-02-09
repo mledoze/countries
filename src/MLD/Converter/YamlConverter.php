@@ -9,15 +9,17 @@ use Symfony\Component\Yaml\Dumper;
  */
 class YamlConverter extends AbstractConverter
 {
+    const INLINE_LEVEL = 1;
 
     /**
+     * @param array $countries
      * @return string data converted to Yaml
+     * @throws \InvalidArgumentException
      */
-    public function convert()
+    public function convert(array $countries)
     {
         $dumper = new Dumper();
-        $inlineLevel = 1;
 
-        return $dumper->dump($this->countries, $inlineLevel);
+        return $dumper->dump($countries, self::INLINE_LEVEL);
     }
 }

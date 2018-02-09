@@ -3,16 +3,17 @@
 namespace MLD\Converter;
 
 /**
- * Interface Converter
+ * Interface for all converters
  */
 interface ConverterInterface
 {
 
     /**
-     * Convert into a new format
+     * Convert countries into a new format
+     * @param array $countries
      * @return string
      */
-    public function convert();
+    public function convert(array $countries);
 
     /**
      * Save the converted data to the disk

@@ -19,12 +19,13 @@ class CsvConverter extends AbstractConverter
     private $body = '';
 
     /**
+     * @param array $countries
      * @return string data converted into CSV
      */
-    public function convert()
+    public function convert(array $countries)
     {
-        array_walk($this->countries, [$this, 'processCountry']);
-        $headers = '"' . implode($this->glue, array_keys($this->countries[0])) . '"';
+        array_walk($countries, [$this, 'processCountry']);
+        $headers = '"' . implode($this->glue, array_keys($countries[0])) . '"';
         return $headers . "\n" . $this->body;
     }
 

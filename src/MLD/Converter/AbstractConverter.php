@@ -45,12 +45,6 @@ abstract class AbstractConverter implements ConverterInterface
             $outputFile = date('Ymd-His', time()) . '-countries';
         }
 
-        // keep only the specified fields
-        if (!empty($this->fields)) {
-            array_walk($this->countries, function (&$country) {
-                $country = array_intersect_key($country, array_flip($this->fields));
-            });
-        }
         return file_put_contents($this->outputDirectory . $outputFile, $this->convert());
     }
 

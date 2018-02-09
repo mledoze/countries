@@ -28,11 +28,12 @@ class XmlConverter extends AbstractConverter
     }
 
     /**
+     * @param array $countries
      * @return string data converted into XML
      */
-    public function convert()
+    public function convert(array $countries)
     {
-        array_walk($this->countries, array($this, 'processCountry'));
+        array_walk($countries, array($this, 'processCountry'));
         return $this->domDocument->saveXML();
     }
 
