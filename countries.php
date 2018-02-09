@@ -1,12 +1,11 @@
 #!/usr/bin/env php
 <?php
-require_once "vendor/autoload.php";
+require_once 'vendor/autoload.php';
 
 /**
  * Tools to convert countries in different formats
  * @author mledoze
  * @see https://github.com/mledoze/countries
- * @require PHP 5.4+
  */
 
 use MLD\Console\Command\ExportCommand;

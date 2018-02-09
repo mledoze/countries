@@ -7,36 +7,36 @@ namespace MLD\Converter;
 class CsvConverter extends AbstractConverter {
 
 	/**
-	 * @var
+	 * @var string
 	 */
-	private $sGlue = '","';
+	private $glue = '","';
 
 	/**
 	 * @var string
 	 */
-	private $sBody = '';
+	private $body = '';
 
 	/**
 	 * @return string data converted into CSV
 	 */
 	public function convert() {
-		array_walk($this->aCountries, [$this, 'processCountry']);
-		$sHeaders = '"' . implode($this->sGlue, array_keys($this->aCountries[0])) . '"';
-		return $sHeaders . "\n" . $this->sBody;
+		array_walk($this->countries, [$this, 'processCountry']);
+		$headers = '"' . implode($this->glue, array_keys($this->countries[0])) . '"';
+		return $headers . "\n" . $this->body;
 	}
 
 	/**
 	 * @return string
 	 */
 	public function getGlue() {
-		return $this->sGlue;
+		return $this->glue;
 	}
 
 	/**
-	 * @param string $sGlue
+	 * @param string $glue
 	 */
-	public function setGlue($sGlue) {
-		$this->sGlue = $sGlue;
+	public function setGlue($glue) {
+		$this->glue = $glue;
 	}
 
 	/**
@@ -44,6 +44,6 @@ class CsvConverter extends AbstractConverter {
 	 * @param $array
 	 */
 	private function processCountry(&$array) {
-		$this->sBody .= '"' . implode($this->sGlue, $this->convertArrays($array)) . "\"\n";
+		$this->body .= '"' . implode($this->glue, $this->convertArrays($array)) . "\"\n";
 	}
 }

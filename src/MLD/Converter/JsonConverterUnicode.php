@@ -11,6 +11,6 @@ class JsonConverterUnicode extends JsonConverter {
 	 */
 	public function convert() {
 		$this->processEmptyArrays();
-		return preg_replace("@},{@", "},\n{", json_encode($this->aCountries, JSON_UNESCAPED_UNICODE) . "\n");
+		return preg_replace("@},{@", "},\n{", json_encode($this->countries, JSON_UNESCAPED_UNICODE) . "\n");
 	}
 }
