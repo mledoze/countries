@@ -120,7 +120,8 @@ class ExportCommand extends Command
                 ->save($c['output_file']);
         }
 
-        $output->writeln('Converted data for <info>' . count($countries) . '</info> countries into <info>' . count($this->converters) . '</info> formats.');
+        $count = count($formats);
+        $output->writeln('Converted data for <info>' . count($countries) . '</info> countries into <info>' . $count . '</info> ' . ($count == 1 ? 'format.' : 'formats.'));
     }
 
     /**
