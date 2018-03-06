@@ -15,10 +15,12 @@
 	}
   ],
   "require": {
-	"roave/security-advisories": "dev-master",
 	"php": ">=5.6.33",
 	"symfony/console": "^2.8|^3.4|~4.0",
 	"symfony/yaml": "^2.8|^3.4|~4.0"
+  },
+  "require-dev": {
+	"roave/security-advisories": "dev-master"
   },
   "dist": {
 	"url": "https://github.com/mledoze/countries/archive/master.zip",
