@@ -1607,7 +1607,7 @@
 		"capital": ["Hamilton"],
 		"altSpellings": ["BM", "The Islands of Bermuda", "The Bermudas", "Somers Isles"],
 		"region": "Americas",
-		"subregion": "Northern America",
+		"subregion": "North America",
 		"languages": {
 			"eng": "English"
 		},
@@ -2149,7 +2149,7 @@
 		"capital": ["Ottawa"],
 		"altSpellings": ["CA"],
 		"region": "Americas",
-		"subregion": "Northern America",
+		"subregion": "North America",
 		"languages": {
 			"eng": "English",
 			"fra": "French"
@@ -4929,7 +4929,7 @@
 		"capital": ["Nuuk"],
 		"altSpellings": ["GL", "Gr\u00f8nland"],
 		"region": "Americas",
-		"subregion": "Northern America",
+		"subregion": "North America",
 		"languages": {
 			"kal": "Greenlandic"
 		},
@@ -7665,7 +7665,7 @@
 		"capital": ["Mexico City"],
 		"altSpellings": ["MX", "Mexicanos", "United Mexican States", "Estados Unidos Mexicanos"],
 		"region": "Americas",
-		"subregion": "Northern America",
+		"subregion": "North America",
 		"languages": {
 			"spa": "Spanish"
 		},
@@ -10860,7 +10860,7 @@
 		"capital": ["Saint-Pierre"],
 		"altSpellings": ["PM", "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"],
 		"region": "Americas",
-		"subregion": "Northern America",
+		"subregion": "North America",
 		"languages": {
 			"fra": "French"
 		},
@@ -12384,7 +12384,7 @@
 		"capital": [""],
 		"altSpellings": ["UM"],
 		"region": "Americas",
-		"subregion": "Northern America",
+		"subregion": "North America",
 		"languages": {
 			"eng": "English"
 		},
@@ -12484,7 +12484,7 @@
 		"capital": ["Washington D.C."],
 		"altSpellings": ["US", "USA", "United States of America"],
 		"region": "Americas",
-		"subregion": "Northern America",
+		"subregion": "North America",
 		"languages": {
 			"eng": "English"
 		},
