@@ -11239,16 +11239,16 @@
 	},
 	{
 		"name": {
-			"common": "Swaziland",
-			"official": "Kingdom of Swaziland",
+			"common": "Eswatini",
+			"official": "Kingdom of Eswatini",
 			"native": {
 				"eng": {
-					"official": "Kingdom of Swaziland",
-					"common": "Swaziland"
+					"official": "Kingdom of Eswatini",
+					"common": "Eswatini"
 				},
 				"ssw": {
-					"official": "Kingdom of Swaziland",
-					"common": "Swaziland"
+					"official": "Umbuso weSwatini",
+					"common": "eSwatini"
 				}
 			}
 		},
@@ -11262,7 +11262,7 @@
 		"currency": ["SZL"],
 		"callingCode": ["268"],
 		"capital": ["Lobamba"],
-		"altSpellings": ["SZ", "weSwatini", "Swatini", "Ngwane", "Kingdom of Swaziland", "Umbuso waseSwatini"],
+		"altSpellings": ["SZ", "Swaziland", "weSwatini", "Swatini", "Ngwane", "Kingdom of Eswatini", "Umbuso weSwatini"],
 		"region": "Africa",
 		"subregion": "Southern Africa",
 		"languages": {
@@ -11271,18 +11271,18 @@
 		},
 		"translations": {
 			"ces": {"official": "Svazijsk\u00e9 kr\u00e1lovstv\u00ed", "common": "Svazijsko"},
-			"deu": {"official": "K\u00f6nigreich Swasiland", "common": "Swasiland"},
-			"fra": {"official": "Royaume du Swaziland", "common": "Swaziland"},
-			"hrv": {"official": "Kraljevina Svazi", "common": "Svazi"},
-			"ita": {"official": "Regno dello Swaziland", "common": "Swaziland"},
+			"deu": {"official": "K\u00f6nigreich Eswatini", "common": "Swasiland"},
+			"fra": {"official": "Royaume d’Eswatini", "common": "Swaziland"},
+			"hrv": {"official": "Kraljevina eSwatini", "common": "Svazi"},
+			"ita": {"official": "Regno di eSwatini", "common": "Swaziland"},
 			"jpn": {"official": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9\u738b\u56fd", "common": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9"},
-			"nld": {"official": "Koninkrijk Swaziland", "common": "Swaziland"},
-			"por": {"official": "Reino da Suazil\u00e2ndia", "common": "Suazil\u00e2ndia"},
+			"nld": {"official": "Koninkrijk eSwatini", "common": "Swaziland"},
+			"por": {"official": "Reino de eSwatini", "common": "Suazil\u00e2ndia"},
 			"rus": {"official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434", "common": "\u0421\u0432\u0430\u0437\u0438\u043b\u0435\u043d\u0434"},
 			"slk": {"official": "Svazijsk\u00e9 kr\u00e1\u013eovstvo", "common": "Svazijsko"},
-			"spa": {"official": "Reino de Swazilandia", "common": "Suazilandia"},
+			"spa": {"official": "Reino de eSwatini", "common": "Suazilandia"},
 			"fin": {"official": "Swazimaan kuningaskunta", "common": "Swazimaa"},
-			"est": {"official": "Svaasimaa Kuningriik", "common": "Svaasimaa"},
+			"est": {"official": "eSwatini Kuningriik", "common": "Svaasimaa"},
 			"zho": {"official": "\u65AF\u5A01\u58EB\u5170\u738B\u56FD", "common": "\u65AF\u5A01\u58EB\u5170"}
 		},
 		"latlng": [-26.5, 31.5],
