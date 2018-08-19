@@ -653,7 +653,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Teritorium Francouzsk\u00e1 ji\u017en\u00ed a antarktick\u00e1 \u00fazem\u00ed", "common": "Francouzsk\u00e1 ji\u017en\u00ed a antarktick\u00e1 \u00fazem\u00ed"},
-			"deu": {"official": "Gebiet der Franz\u00f6sisch S\u00fcd-und Antarktisgebiete", "common": "Franz\u00f6sische S\u00fcd-und Antarktisgebiete"},
+			"deu": {"official": "Gebiet der Franz\u00f6sisch S\u00fcd- und Antarktisgebiete", "common": "Franz\u00f6sische S\u00fcd- und Antarktisgebiete"},
 			"fra": {"official": "Territoire des Terres australes et antarctiques fran\u00e7aises", "common": "Terres australes et antarctiques fran\u00e7aises"},
 			"hrv": {"official": "Teritoriju Francuski ju\u017eni i antarkti\u010dki teritoriji", "common": "Francuski ju\u017eni i antarkti\u010dki teritoriji"},
 			"ita": {"official": "Territorio della australi e antartiche francesi Terre", "common": "Territori Francesi del Sud"},
@@ -1396,7 +1396,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Svat\u00fd Bartolom\u011bj", "common": "Svat\u00fd Bartolom\u011bj"},
-			"deu": {"official": "Gebietsk\u00f6rperschaft Saint -Barth\u00e9lemy", "common": "Saint-Barth\u00e9lemy"},
+			"deu": {"official": "Gebietsk\u00f6rperschaft Saint-Barth\u00e9lemy", "common": "Saint-Barth\u00e9lemy"},
 			"fra": {"official": "Collectivit\u00e9 de Saint-Barth\u00e9lemy", "common": "Saint-Barth\u00e9lemy"},
 			"hrv": {"official": "Kolektivnost sv Barth\u00e9lemy", "common": "Saint Barth\u00e9lemy"},
 			"ita": {"official": "Collettivit\u00e0 di Saint Barth\u00e9lemy", "common": "Antille Francesi"},
@@ -1680,7 +1680,7 @@
 		"translations": {
 			"ces": {"official": "Mnohon\u00e1rodnostn\u00ed st\u00e1t Bol\u00edvie", "common": "Bol\u00edvie"},
 			"cym": {"official": "Gweriniaeth Bolifia", "common": "Bolifia"},
-			"deu": {"official": "Multinationaler Staat von Bolivien", "common": "Bolivien"},
+			"deu": {"official": "Plurinationaler Staat Bolivien", "common": "Bolivien"},
 			"fra": {"official": "\u00c9tat plurinational de Bolivie", "common": "Bolivie"},
 			"hrv": {"official": "Plurinational State of Bolivia", "common": "Bolivija"},
 			"ita": {"official": "Stato Plurinazionale della Bolivia", "common": "Bolivia"},
@@ -1736,7 +1736,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Karibsk\u00e9 Nizozemsko", "common": "Karibsk\u00e9 Nizozemsko"},
-			"deu": {"official": "Besonderen Gemeinden der Niederlande", "common": "Karibische Niederlande"},
+			"deu": {"official": "Bonaire, Sint Eustatius und Saba", "common": "Karibische Niederlande"},
 			"fra": {"official": "Bonaire, Saint-Eustache et Saba", "common": "Pays-Bas carib\u00e9ens"},
 			"hrv": {"official": "Bonaire, Sint Eustatius i Saba", "common": "Bonaire, Sint Eustatius i Saba"},
 			"ita": {"official": "Bonaire, Sint Eustatius e Saba", "common": "Paesi Bassi caraibici"},
@@ -1889,7 +1889,7 @@
 		"translations": {
 			"ces": {"official": "Sultan\u00e1t Brunej", "common": "Brunej"},
 			"cym": {"official": "Teyrnas Brwnei", "common": "Brunei"},
-			"deu": {"official": "Nation von Brunei, Wohnung des Friedens", "common": "Brunei"},
+			"deu": {"official": "Sultanat Brunei Darussalam", "common": "Brunei"},
 			"fra": {"official": "\u00c9tat de Brunei Darussalam", "common": "Brunei"},
 			"hrv": {"official": "Nacija od Bruneja, Ku\u0107u Mira", "common": "Brunej"},
 			"ita": {"official": "Nazione di Brunei, Dimora della Pace", "common": "Brunei"},
@@ -1990,7 +1990,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Bouvet\u016fv ostrov", "common": "Bouvet\u016fv ostrov"},
-			"deu": {"official": "Bouvet-Insel", "common": "Bouvetinsel"},
+			"deu": {"official": "Bouvetinsel", "common": "Bouvetinsel"},
 			"fra": {"official": "\u00cele Bouvet", "common": "\u00cele Bouvet"},
 			"hrv": {"official": "Bouvet Island", "common": "Otok Bouvet"},
 			"ita": {"official": "Isola Bouvet", "common": "Isola Bouvet"},
@@ -2208,7 +2208,7 @@
 		"translations": {
 			"ces": {"official": "Kokosov\u00e9 ostrovy", "common": "Kokosov\u00e9 ostrovy"},
 			"cym": {"official": "Tiriogaeth yr Ynysoedd Cocos (Keeling)", "common": "Ynysoedd Cocos"},
-			"deu": {"official": "Gebiet der Cocos (Keeling) Islands", "common": "Kokosinseln"},
+			"deu": {"official": "Gebiet der Kokos- (Keeling-) Inseln", "common": "Kokosinseln"},
 			"fra": {"official": "Territoire des \u00eeles Cocos (Keeling)", "common": "\u00celes Cocos"},
 			"hrv": {"official": "Teritoriju Kokosovi (Keeling) Islands", "common": "Kokosovi Otoci"},
 			"ita": {"official": "Territorio della (Keeling) Isole Cocos", "common": "Isole Cocos e Keeling"},
@@ -2668,7 +2668,7 @@
 		"translations": {
 			"ces": {"official": "Cookovy ostrovy", "common": "Cookovy ostrovy"},
 			"cym": {"official": "Ynysoedd Cook", "common": "Ynysoedd Cook"},
-			"deu": {"official": "Cook-Inseln", "common": "Cookinseln"},
+			"deu": {"official": "Cookinseln", "common": "Cookinseln"},
 			"fra": {"official": "\u00celes Cook", "common": "\u00celes Cook"},
 			"hrv": {"official": "Cook Islands", "common": "Cookovo Oto\u010dje"},
 			"ita": {"official": "Isole Cook", "common": "Isole Cook"},
@@ -2780,7 +2780,7 @@
 		"translations": {
 			"ces": {"official": "Komorsk\u00fd svaz", "common": "Komory"},
 			"cym": {"official": "Undeb y Comoros", "common": "Y Comoros"},
-			"deu": {"official": "Union der Komoren", "common": "Union der Komoren"},
+			"deu": {"official": "Union der Komoren", "common": "Komoren"},
 			"fra": {"official": "Union des Comores", "common": "Comores"},
 			"hrv": {"official": "Savez Komori", "common": "Komori"},
 			"ita": {"official": "Unione delle Comore", "common": "Comore"},
@@ -4054,7 +4054,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Falklandsk\u00e9 ostrovy", "common": "Falklandy"},
-			"deu": {"official": "Falkland-Inseln", "common": "Falklandinseln"},
+			"deu": {"official": "Falklandinseln", "common": "Falklandinseln"},
 			"fra": {"official": "\u00celes Malouines", "common": "\u00celes Malouines"},
 			"hrv": {"official": "Falklandski otoci", "common": "Falklandski Otoci"},
 			"ita": {"official": "Isole Falkland", "common": "Isole Falkland o Isole Malvine"},
@@ -4359,7 +4359,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Gruzie", "common": "Gruzie"},
-			"deu": {"official": "Georgia", "common": "Georgien"},
+			"deu": {"official": "Georgien", "common": "Georgien"},
 			"fra": {"official": "R\u00e9publique de G\u00e9orgie", "common": "G\u00e9orgie"},
 			"hrv": {"official": "Gruzija", "common": "Gruzija"},
 			"ita": {"official": "Georgia", "common": "Georgia"},
@@ -4419,7 +4419,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Rycht\u00e1\u0159stv\u00ed Guernsey", "common": "Guernsey"},
-			"deu": {"official": "Guernsey", "common": "Guernsey"},
+			"deu": {"official": "Vogtei Guernsey", "common": "Guernsey"},
 			"fra": {"official": "Bailliage de Guernesey", "common": "Guernesey"},
 			"hrv": {"official": "Struka Guernsey", "common": "Guernsey"},
 			"ita": {"official": "Baliato di Guernsey", "common": "Guernsey"},
@@ -5035,7 +5035,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Francouzsk\u00e1 Guyana", "common": "Francouzsk\u00e1 Guyana"},
-			"deu": {"official": "Guayana", "common": "Franz\u00f6sisch Guyana"},
+			"deu": {"official": "Franz\u00F6sisch-Guayana", "common": "Franz\u00F6sisch-Guayana"},
 			"fra": {"official": "Guyane", "common": "Guyane"},
 			"hrv": {"official": "Gijana", "common": "Francuska Gvajana"},
 			"ita": {"official": "Guiana", "common": "Guyana francese"},
@@ -5200,7 +5200,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Zvl\u00e1\u0161tn\u00ed administrativn\u00ed oblast \u010c\u00ednsk\u00e9 lidov\u00e9 republiky Hongkong", "common": "Hongkong"},
-			"deu": {"official": "Sonderverwaltungszone der Volksrepublik China", "common": "Hongkong"},
+			"deu": {"official": "Sonderverwaltungszone Hongkong der Volksrepublik China", "common": "Hongkong"},
 			"fra": {"official": "R\u00e9gion administrative sp\u00e9ciale de Hong Kong de la R\u00e9publique populaire de Chine", "common": "Hong Kong"},
 			"hrv": {"official": "Hong Kong Posebnog upravnog podru\u010djaNarodne Republike Kine", "common": "Hong Kong"},
 			"ita": {"official": "Hong Kong Regione amministrativa speciale della Repubblica Popolare Cinese", "common": "Hong Kong"},
@@ -5672,7 +5672,7 @@
 		"translations": {
 			"ces": {"official": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed", "common": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed"},
 			"cym": {"official": "Tiriogaeth Brydeinig Cefnfor India", "common": "Tiriogaeth Brydeinig Cefnfor India"},
-			"deu": {"official": "Britisch-Indischer Ozean", "common": "Britisches Territorium im Indischen Ozean"},
+			"deu": {"official": "Britisches Territorium im Indischen Ozean", "common": "Britisches Territorium im Indischen Ozean"},
 			"fra": {"official": "Territoire britannique de l' oc\u00e9an Indien", "common": "Territoire britannique de l'oc\u00e9an Indien"},
 			"hrv": {"official": "British Indian Ocean Territory", "common": "Britanski Indijskooceanski teritorij"},
 			"ita": {"official": "Territorio britannico dell'Oceano Indiano", "common": "Territorio britannico dell'oceano indiano"},
@@ -6478,7 +6478,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Republika Kiribati", "common": "Kiribati"},
-			"deu": {"official": "Unabh\u00e4ngige und souver\u00e4ne Republik Kiribati", "common": "Kiribati"},
+			"deu": {"official": "Republik Kiribati", "common": "Kiribati"},
 			"fra": {"official": "R\u00e9publique de Kiribati", "common": "Kiribati"},
 			"hrv": {"official": "Samostalne i suverene Republike Kiribati", "common": "Kiribati"},
 			"ita": {"official": "Repubblica indipendente e sovrano di Kiribati", "common": "Kiribati"},
@@ -6528,7 +6528,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Federace Sv. Kry\u0161tof a Nevis", "common": "Svat\u00fd Kry\u0161tof a Nevis"},
-			"deu": {"official": "F\u00f6deration von Saint Kitts und Nevisa", "common": "Saint Christopher und Nevis"},
+			"deu": {"official": "F\u00f6deration von St. Kitts und Nevis", "common": "St. Kitts und Nevis"},
 			"fra": {"official": "F\u00e9d\u00e9ration de Saint -Christophe-et Nevisa", "common": "Saint-Christophe-et-Ni\u00e9v\u00e8s"},
 			"hrv": {"official": "Federacija Sv.Kristofora i Nevisa", "common": "Sveti Kristof i Nevis"},
 			"ita": {"official": "Federazione di Saint Christopher e Nevisa", "common": "Saint Kitts e Nevis"},
@@ -6732,7 +6732,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Laosk\u00e1 lidov\u011b demokratick\u00e1 republika", "common": "Laos"},
-			"deu": {"official": "Laos, Demokratische Volksrepublik", "common": "Laos"},
+			"deu": {"official": "Demokratische Volksrepublik Laos", "common": "Laos"},
 			"fra": {"official": "R\u00e9publique d\u00e9mocratique populaire lao", "common": "Laos"},
 			"hrv": {"official": "Narodna Demokratska Republika", "common": "Laos"},
 			"ita": {"official": "Repubblica democratica popolare del Laos", "common": "Laos"},
@@ -6937,7 +6937,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Svat\u00e1 Lucie", "common": "Svat\u00e1 Lucie"},
-			"deu": {"official": "St. Lucia", "common": "Saint Lucia"},
+			"deu": {"official": "St. Lucia", "common": "St. Lucia"},
 			"fra": {"official": "Sainte-Lucie", "common": "Sainte-Lucie"},
 			"hrv": {"official": "Sveta Lucija", "common": "Sveta Lucija"},
 			"ita": {"official": "Santa Lucia", "common": "Santa Lucia"},
@@ -7361,7 +7361,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Svat\u00fd Martin", "common": "Svat\u00fd Martin (Francie)"},
-			"deu": {"official": "St. Martin", "common": "Saint Martin"},
+			"deu": {"official": "Saint-Martin", "common": "Saint-Martin"},
 			"fra": {"official": "Saint-Martin", "common": "Saint-Martin"},
 			"hrv": {"official": "Saint Martin", "common": "Sveti Martin"},
 			"ita": {"official": "saint Martin", "common": "Saint Martin"},
@@ -7516,7 +7516,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Moldavsk\u00e1 republika", "common": "Moldavsko"},
-			"deu": {"official": "Republik Moldau", "common": "Moldawie"},
+			"deu": {"official": "Republik Moldau", "common": "Moldawien"},
 			"fra": {"official": "R\u00e9publique de Moldavie", "common": "Moldavie"},
 			"hrv": {"official": "Moldavija", "common": "Moldova"},
 			"ita": {"official": "Repubblica di Moldova", "common": "Moldavia"},
@@ -7726,7 +7726,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Republika Marshallovy ostrovy", "common": "Marshallovy ostrovy"},
-			"deu": {"official": "Republik der Marshall-Inseln", "common": "Marshallinseln"},
+			"deu": {"official": "Republik Marshallinseln", "common": "Marshallinseln"},
 			"fra": {"official": "R\u00e9publique des \u00celes Marshall", "common": "\u00celes Marshall"},
 			"hrv": {"official": "Republika Mar\u0161alovi Otoci", "common": "Mar\u0161alovi Otoci"},
 			"ita": {"official": "Repubblica delle Isole Marshall", "common": "Isole Marshall"},
@@ -7931,7 +7931,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Republika Myanmarsk\u00fd svaz", "common": "Myanmar"},
-			"deu": {"official": "Republik der Union von Myanmar", "common": "Myanmar"},
+			"deu": {"official": "Republik der Union Myanmar", "common": "Myanmar"},
 			"fra": {"official": "R\u00e9publique de l'Union du Myanmar", "common": "Birmanie"},
 			"hrv": {"official": "Republika Unije Mijanmar", "common": "Mijanmar"},
 			"ita": {"official": "Repubblica dell'Unione di Myanmar", "common": "Birmania"},
@@ -8756,7 +8756,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Teritorium ostrova Norfolk", "common": "Norfolk"},
-			"deu": {"official": "Gebiet der Norfolk-Insel", "common": "Norfolkinsel"},
+			"deu": {"official": "Gebiet der Norfolkinsel", "common": "Norfolkinsel"},
 			"fra": {"official": "Territoire de l'\u00eele Norfolk", "common": "\u00cele Norfolk"},
 			"hrv": {"official": "Teritorij Norfolk Island", "common": "Otok Norfolk"},
 			"ita": {"official": "Territorio di Norfolk Island", "common": "Isola Norfolk"},
@@ -9071,7 +9071,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Federativn\u00ed demokratick\u00e1 republika Nep\u00e1l", "common": "Nep\u00e1l"},
-			"deu": {"official": "Demokratischen Bundesrepublik Nepal", "common": "N\u00e9pal"},
+			"deu": {"official": "Demokratischen Bundesrepublik Nepal", "common": "Nepal"},
 			"fra": {"official": "R\u00e9publique du N\u00e9pal", "common": "N\u00e9pal"},
 			"hrv": {"official": "Savezna Demokratska Republika Nepal", "common": "Nepal"},
 			"ita": {"official": "Repubblica federale democratica del Nepal", "common": "Nepal"},
@@ -9391,7 +9391,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Pitcairnovy ostrovy", "common": "Pitcairnovy ostrovy"},
-			"deu": {"official": "Pitcairn Inselgruppe", "common": "Pitcairn"},
+			"deu": {"official": "Pitcairninseln", "common": "Pitcairninseln"},
 			"fra": {"official": "Groupe d'\u00eeles Pitcairn", "common": "\u00celes Pitcairn"},
 			"hrv": {"official": "Pitcairn skupine otoka", "common": "Pitcairnovo oto\u010dje"},
 			"ita": {"official": "Pitcairn gruppo di isole", "common": "Isole Pitcairn"},
@@ -9561,7 +9561,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Republika Palau", "common": "Palau"},
-			"deu": {"official": "Palau", "common": "Palau"},
+			"deu": {"official": "Republik Palau", "common": "Palau"},
 			"fra": {"official": "R\u00e9publique des Palaos (Palau)", "common": "Palaos (Palau)"},
 			"hrv": {"official": "Republika Palau", "common": "Palau"},
 			"ita": {"official": "Repubblica di Palau", "common": "Palau"},
@@ -9621,7 +9621,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Nez\u00e1visl\u00fd st\u00e1t Papua Nov\u00e1 Guinea", "common": "Papua-Nov\u00e1 Guinea"},
-			"deu": {"official": "Unabh\u00e4ngige Staat Papua-Neuguinea", "common": "Papua-Neuguinea"},
+			"deu": {"official": "Unabh\u00e4ngiger Staat Papua-Neuguinea", "common": "Papua-Neuguinea"},
 			"fra": {"official": "\u00c9tat ind\u00e9pendant de Papouasie-Nouvelle-Guin\u00e9e", "common": "Papouasie-Nouvelle-Guin\u00e9e"},
 			"hrv": {"official": "Nezavisna Dr\u017eava Papui Novoj Gvineji", "common": "Papua Nova Gvineja"},
 			"ita": {"official": "Stato indipendente di Papua Nuova Guinea", "common": "Papua Nuova Guinea"},
@@ -9726,7 +9726,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Portoriko", "common": "Portoriko"},
-			"deu": {"official": "Commonwealth von Puerto Rico", "common": "Puerto Rico"},
+			"deu": {"official": "Freistaat Puerto Rico", "common": "Puerto Rico"},
 			"fra": {"official": "Porto Rico", "common": "Porto Rico"},
 			"hrv": {"official": "Zajednica Puerto Rico", "common": "Portoriko"},
 			"ita": {"official": "Commonwealth di Porto Rico", "common": "Porto Rico"},
@@ -10560,7 +10560,7 @@
 		},
 		"translations": {
 			"ces": {"official": "\u0160picberky a Jan Mayen", "common": "\u0160picberky a Jan Mayen"},
-			"deu": {"official": "Inselgruppe Spitzbergen", "common": "Spitzbergen"},
+			"deu": {"official": "Spitzbergen und Jan Mayen", "common": "Spitzbergen und Jan Mayen"},
 			"fra": {"official": "Jan Mayen Svalbard", "common": "Svalbard et Jan Mayen"},
 			"hrv": {"official": "Svalbard og Jan Mayen", "common": "Svalbard i Jan Mayen"},
 			"ita": {"official": "Svalbard og Jan Mayen", "common": "Svalbard e Jan Mayen"},
@@ -10610,7 +10610,7 @@
 		},
 		"translations": {
 			"ces": {"official": "\u0160alamounovy ostrovy", "common": "\u0160alamounovy ostrovy"},
-			"deu": {"official": "Salomon-Inseln", "common": "Salomonen"},
+			"deu": {"official": "Salomonen", "common": "Salomonen"},
 			"fra": {"official": "\u00celes Salomon", "common": "\u00celes Salomon"},
 			"hrv": {"official": "Solomonski Otoci", "common": "Solomonski Otoci"},
 			"ita": {"official": "Isole Salomone", "common": "Isole Salomone"},
@@ -10866,7 +10866,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Saint-Pierre a Miquelon", "common": "Saint-Pierre a Miquelon"},
-			"deu": {"official": "St. Pierre und Miquelon", "common": "Saint-Pierre und Miquelon"},
+			"deu": {"official": "St. Pierre und Miquelon", "common": "St. Pierre und Miquelon"},
 			"fra": {"official": "Saint-Pierre-et-Miquelon", "common": "Saint-Pierre-et-Miquelon"},
 			"hrv": {"official": "Saint Pierre i Miquelon", "common": "Sveti Petar i Mikelon"},
 			"ita": {"official": "Saint Pierre e Miquelon", "common": "Saint-Pierre e Miquelon"},
@@ -11871,7 +11871,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Demokratick\u00e1 republika V\u00fdchodn\u00ed Timor", "common": "V\u00fdchodn\u00ed Timor"},
-			"deu": {"official": "Demokratische Republik Timor-Leste", "common": "Timor-Leste"},
+			"deu": {"official": "Demokratische Republik Timor-Leste", "common": "Osttimor"},
 			"fra": {"official": "R\u00e9publique d\u00e9mocratique du Timor oriental", "common": "Timor oriental"},
 			"hrv": {"official": "Demokratska Republika Timor-Leste", "common": "Isto\u010dni Timor"},
 			"ita": {"official": "Repubblica Democratica di Timor Est", "common": "Timor Est"},
@@ -12490,7 +12490,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Spojen\u00e9 st\u00e1ty americk\u00e9", "common": "Spojen\u00e9 st\u00e1ty"},
-			"deu": {"official": "Vereinigte Staaten von Amerika", "common": "Vereinigte Staaten von Amerika"},
+			"deu": {"official": "Vereinigte Staaten von Amerika", "common": "Vereinigte Staaten"},
 			"fra": {"official": "Les \u00e9tats-unis d'Am\u00e9rique", "common": "\u00c9tats-Unis"},
 			"hrv": {"official": "Sjedinjene Dr\u017eave Amerike", "common": "Sjedinjene Ameri\u010dke Dr\u017eave"},
 			"ita": {"official": "Stati Uniti d'America", "common": "Stati Uniti d'America"},
@@ -12650,7 +12650,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Svat\u00fd Vincenc a Grenadiny", "common": "Svat\u00fd Vincenc a Grenadiny"},
-			"deu": {"official": "St. Vincent und die Grenadinen", "common": "Saint Vincent und die Grenadinen"},
+			"deu": {"official": "St. Vincent und die Grenadinen", "common": "St. Vincent und die Grenadinen"},
 			"fra": {"official": "Saint-Vincent-et-les Grenadines", "common": "Saint-Vincent-et-les-Grenadines"},
 			"hrv": {"official": "Sveti Vincent i Grenadini", "common": "Sveti Vincent i Grenadini"},
 			"ita": {"official": "Saint Vincent e Grenadine", "common": "Saint Vincent e Grenadine"},
@@ -12800,7 +12800,7 @@
 		},
 		"translations": {
 			"ces": {"official": "Americk\u00e9 Panensk\u00e9 ostrovy", "common": "Americk\u00e9 Panensk\u00e9 ostrovy"},
-			"deu": {"official": "Jungferninseln der Vereinigten Staaten", "common": "Amerikanische Jungferninseln"},
+			"deu": {"official": "Amerikanische Jungferninseln", "common": "Amerikanische Jungferninseln"},
 			"fra": {"official": "\u00celes Vierges des \u00c9tats-Unis", "common": "\u00celes Vierges des \u00c9tats-Unis"},
 			"hrv": {"official": "Djevi\u010danski Otoci SAD", "common": "Ameri\u010dki Djevi\u010danski Otoci"},
 			"ita": {"official": "Isole Vergini degli Stati Uniti", "common": "Isole Vergini americane"},
@@ -13165,12 +13165,12 @@
 		},
 		"translations": {
 			"ces": {"official": "Jihoafrick\u00e1 republika", "common": "Jihoafrick\u00e1 republika"},
-			"deu": {"official": "Republik S\u00fcdafrika", "common": "Republik S\u00fcdafrika"},
+			"deu": {"official": "Republik S\u00fcdafrika", "common": "S\u00fcdafrika"},
 			"fra": {"official": "R\u00e9publique d'Afrique du Sud", "common": "Afrique du Sud"},
 			"hrv": {"official": "Ju\u017enoafri\u010dka Republika", "common": "Ju\u017enoafri\u010dka Republika"},
 			"ita": {"official": "Repubblica del Sud Africa", "common": "Sud Africa"},
 			"jpn": {"official": "\u5357\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd", "common": "\u5357\u30a2\u30d5\u30ea\u30ab"},
-			"nld": {"official": "Zuid -Afrika", "common": "Zuid-Afrika"},
+			"nld": {"official": "Republiek Zuid-Afrika", "common": "Zuid-Afrika"},
 			"por": {"official": "Rep\u00fablica da \u00c1frica do Sul", "common": "\u00c1frica do Sul"},
 			"rus": {"official": "\u042e\u0436\u043d\u043e-\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430", "common": "\u042e\u0436\u043d\u043e-\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"},
 			"slk": {"official": "Juhoafrick\u00e1 republika", "common": "Juhoafrick\u00e1 republika"},
