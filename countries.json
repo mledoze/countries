@@ -21,7 +21,9 @@
 		"cioc": "ARU",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["AWG"],
+		"currency": {
+			"AWG": "Aruban Florin"
+		},
 		"callingCode": ["297"],
 		"capital": ["Oranjestad"],
 		"altSpellings": ["AW"],
@@ -80,7 +82,9 @@
 		"cioc": "AFG",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["AFN"],
+		"currency": {
+			"AFN": "Afghan Afghani"
+		},
 		"callingCode": ["93"],
 		"capital": ["Kabul"],
 		"altSpellings": ["AF", "Af\u0121\u0101nist\u0101n"],
@@ -133,7 +137,9 @@
 		"cioc": "ANG",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["AOA"],
+		"currency": {
+			"AOA": "Angolan Kwanza"
+		},
 		"callingCode": ["244"],
 		"capital": ["Luanda"],
 		"altSpellings": ["AO", "Rep\u00fablica de Angola", "\u0281\u025bpublika de an'\u0261\u0254la"],
@@ -184,7 +190,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["XCD"],
+		"currency": {
+			"XCD": "East Caribbean Dollar"
+		},
 		"callingCode": ["1264"],
 		"capital": ["The Valley"],
 		"altSpellings": ["AI"],
@@ -234,7 +242,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["358"],
 		"capital": ["Mariehamn"],
 		"altSpellings": ["AX", "Aaland", "Aland", "Ahvenanmaa"],
@@ -284,7 +294,9 @@
 		"cioc": "ALB",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["ALL"],
+		"currency": {
+			"ALL": "Albanian Lek"
+		},
 		"callingCode": ["355"],
 		"capital": ["Tirana"],
 		"altSpellings": ["AL", "Shqip\u00ebri", "Shqip\u00ebria", "Shqipnia"],
@@ -335,7 +347,9 @@
 		"cioc": "AND",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["376"],
 		"capital": ["Andorra la Vella"],
 		"altSpellings": ["AD", "Principality of Andorra", "Principat d'Andorra"],
@@ -386,7 +400,9 @@
 		"cioc": "UAE",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["AED"],
+		"currency": {
+			"AED": "United Arab Emirates dirham"
+		},
 		"callingCode": ["971"],
 		"capital": ["Abu Dhabi"],
 		"altSpellings": ["AE", "UAE", "Emirates"],
@@ -440,7 +456,9 @@
 		"cioc": "ARG",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["ARS"],
+		"currency": {
+			"ARS": "Argentine Peso"
+		},
 		"callingCode": ["54"],
 		"capital": ["Buenos Aires"],
 		"altSpellings": ["AR", "Argentine Republic", "Rep\u00fablica Argentina"],
@@ -492,7 +510,9 @@
 		"cioc": "ARM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["AMD"],
+		"currency": {
+			"AMD": "Armenian Dram"
+		},
 		"callingCode": ["374"],
 		"capital": ["Yerevan"],
 		"altSpellings": ["AM", "Hayastan", "Republic of Armenia", "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"],
@@ -547,7 +567,9 @@
 		"cioc": "ASA",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["1684"],
 		"capital": ["Pago Pago"],
 		"altSpellings": ["AS", "Amerika S\u0101moa", "Amelika S\u0101moa", "S\u0101moa Amelika"],
@@ -593,7 +615,7 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": [],
+		"currency": {},
 		"callingCode": [],
 		"capital": [""],
 		"altSpellings": ["AQ"],
@@ -642,7 +664,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": [],
 		"capital": ["Port-aux-Fran\u00e7ais"],
 		"altSpellings": ["TF", "French Southern Territories"],
@@ -692,7 +716,9 @@
 		"cioc": "ANT",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XCD"],
+		"currency": {
+			"XCD": "East Caribbean Dollar"
+		},
 		"callingCode": ["1268"],
 		"capital": ["Saint John's"],
 		"altSpellings": ["AG"],
@@ -743,7 +769,9 @@
 		"cioc": "AUS",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["AUD"],
+		"currency": {
+			"AUD": "Australian Dollar"
+		},
 		"callingCode": ["61"],
 		"capital": ["Canberra"],
 		"altSpellings": ["AU"],
@@ -794,7 +822,9 @@
 		"cioc": "AUT",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["43"],
 		"capital": ["Vienna"],
 		"altSpellings": ["AT", "Osterreich", "Oesterreich"],
@@ -849,7 +879,9 @@
 		"cioc": "AZE",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["AZN"],
+		"currency": {
+			"AZN": "Azerbaijan Manat"
+		},
 		"callingCode": ["994"],
 		"capital": ["Baku"],
 		"altSpellings": ["AZ", "Republic of Azerbaijan", "Az\u0259rbaycan Respublikas\u0131"],
@@ -905,7 +937,9 @@
 		"cioc": "BDI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BIF"],
+		"currency": {
+			"BIF": "Burundi Franc"
+		},
 		"callingCode": ["257"],
 		"capital": ["Bujumbura"],
 		"altSpellings": ["BI", "Republic of Burundi", "Republika y'Uburundi", "R\u00e9publique du Burundi"],
@@ -965,7 +999,9 @@
 		"cioc": "BEL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["32"],
 		"capital": ["Brussels"],
 		"altSpellings": ["BE", "Belgi\u00eb", "Belgie", "Belgien", "Belgique", "Kingdom of Belgium", "Koninkrijk Belgi\u00eb", "Royaume de Belgique", "K\u00f6nigreich Belgien"],
@@ -1018,7 +1054,9 @@
 		"cioc": "BEN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XOF"],
+		"currency": {
+			"XOF": "West African CFA Franc"
+		},
 		"callingCode": ["229"],
 		"capital": ["Porto-Novo"],
 		"altSpellings": ["BJ", "Republic of Benin", "R\u00e9publique du B\u00e9nin"],
@@ -1069,7 +1107,9 @@
 		"cioc": "BUR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XOF"],
+		"currency": {
+			"XOF": "West African CFA franc"
+		},
 		"callingCode": ["226"],
 		"capital": ["Ouagadougou"],
 		"altSpellings": ["BF"],
@@ -1120,7 +1160,9 @@
 		"cioc": "BAN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BDT"],
+		"currency": {
+			"BDT": "Bangladeshi Taka"
+		},
 		"callingCode": ["880"],
 		"capital": ["Dhaka"],
 		"altSpellings": ["BD", "People's Republic of Bangladesh", "G\u00f4n\u00f4pr\u00f4jat\u00f4ntri Bangladesh"],
@@ -1171,7 +1213,9 @@
 		"cioc": "BUL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BGN"],
+		"currency": {
+			"BGN": "Bulgarian Lev"
+		},
 		"callingCode": ["359"],
 		"capital": ["Sofia"],
 		"altSpellings": ["BG", "Republic of Bulgaria", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"],
@@ -1222,7 +1266,9 @@
 		"cioc": "BRN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BHD"],
+		"currency": {
+			"BHD": "Bahraini Dinar"
+		},
 		"callingCode": ["973"],
 		"capital": ["Manama"],
 		"altSpellings": ["BH", "Kingdom of Bahrain", "Mamlakat al-Ba\u1e25rayn"],
@@ -1273,7 +1319,9 @@
 		"cioc": "BAH",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BSD"],
+		"currency": {
+			"BSD": "Bahamian Dollar"
+		},
 		"callingCode": ["1242"],
 		"capital": ["Nassau"],
 		"altSpellings": ["BS", "Commonwealth of the Bahamas"],
@@ -1332,7 +1380,9 @@
 		"cioc": "BIH",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BAM"],
+		"currency": {
+			"BAM": "Bosnia and Herzegovina Convertible Mark"
+		},
 		"callingCode": ["387"],
 		"capital": ["Sarajevo"],
 		"altSpellings": ["BA", "Bosnia-Herzegovina", "\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"],
@@ -1385,7 +1435,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["590"],
 		"capital": ["Gustavia"],
 		"altSpellings": ["BL", "St. Barthelemy", "Collectivity of Saint Barth\u00e9lemy", "Collectivit\u00e9 de Saint-Barth\u00e9lemy"],
@@ -1435,7 +1487,10 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["SHP", "GBP"],
+		"currency": {
+			"SHP": "Saint Helena Pound",
+			"GBP": "Pound Sterling"
+		},
 		"callingCode": ["290", "247"],
 		"capital": ["Jamestown"],
 		"altSpellings": ["Saint Helena", "St. Helena, Ascension and Tristan da Cunha"],
@@ -1489,7 +1544,9 @@
 		"cioc": "BLR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BYN"],
+		"currency": {
+			"BYN": "Belarusian Ruble"
+		},
 		"callingCode": ["375"],
 		"capital": ["Minsk"],
 		"altSpellings": ["BY", "Bielaru\u015b", "Republic of Belarus", "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f", "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f"],
@@ -1549,7 +1606,9 @@
 		"cioc": "BIZ",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BZD"],
+		"currency": {
+			"BZD": "Belize Dollar"
+		},
 		"callingCode": ["501"],
 		"capital": ["Belmopan"],
 		"altSpellings": ["BZ"],
@@ -1602,7 +1661,9 @@
 		"cioc": "BER",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["BMD"],
+		"currency": {
+			"BMD": "Bermudian Dollar"
+		},
 		"callingCode": ["1441"],
 		"capital": ["Hamilton"],
 		"altSpellings": ["BM", "The Islands of Bermuda", "The Bermudas", "Somers Isles"],
@@ -1665,7 +1726,9 @@
 		"cioc": "BOL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BOB"],
+		"currency": {
+			"BOB": "Bolivian boliviano"
+		},
 		"callingCode": ["591"],
 		"capital": ["Sucre"],
 		"altSpellings": ["BO", "Buliwya", "Wuliwya", "Bolivia, Plurinational State of", "Plurinational State of Bolivia", "Estado Plurinacional de Bolivia", "Buliwya Mamallaqta", "Wuliwya Suyu", "Tet\u00e3 Vol\u00edvia"],
@@ -1723,7 +1786,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["599"],
 		"capital": [],
 		"altSpellings": ["BES islands"],
@@ -1775,7 +1840,9 @@
 		"cioc": "BRA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BRL"],
+		"currency": {
+			"BRL": "Brazilian Real"
+		},
 		"callingCode": ["55"],
 		"capital": ["Bras\u00edlia"],
 		"altSpellings": ["BR", "Brasil", "Federative Republic of Brazil", "Rep\u00fablica Federativa do Brasil"],
@@ -1826,7 +1893,9 @@
 		"cioc": "BAR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BBD"],
+		"currency": {
+			"BBD": "Barbados Dollar"
+		},
 		"callingCode": ["1246"],
 		"capital": ["Bridgetown"],
 		"altSpellings": ["BB"],
@@ -1877,7 +1946,9 @@
 		"cioc": "BRU",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BND"],
+		"currency": {
+			"BND": "Brunei Dollar"
+		},
 		"callingCode": ["673"],
 		"capital": ["Bandar Seri Begawan"],
 		"altSpellings": ["BN", "Brunei Darussalam", "Nation of Brunei", "the Abode of Peace"],
@@ -1928,7 +1999,10 @@
 		"cioc": "BHU",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BTN", "INR"],
+		"currency": {
+			"BTN": "Bhutanese Ngultrum",
+			"INR": "Indian Rupee"
+		},
 		"callingCode": ["975"],
 		"capital": ["Thimphu"],
 		"altSpellings": ["BT", "Kingdom of Bhutan"],
@@ -1979,7 +2053,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["NOK"],
+		"currency": {
+			"NOK": "Norwegian Krone"
+		},
 		"callingCode": [],
 		"capital": [""],
 		"altSpellings": ["BV", "Bouvet\u00f8ya", "Bouvet-\u00f8ya"],
@@ -2033,7 +2109,9 @@
 		"cioc": "BOT",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["BWP"],
+		"currency": {
+			"BWP": "Botswana Pula"
+		},
 		"callingCode": ["267"],
 		"capital": ["Gaborone"],
 		"altSpellings": ["BW", "Republic of Botswana", "Lefatshe la Botswana"],
@@ -2088,7 +2166,9 @@
 		"cioc": "CAF",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XAF"],
+		"currency": {
+			"XAF": "Central African CFA franc"
+		},
 		"callingCode": ["236"],
 		"capital": ["Bangui"],
 		"altSpellings": ["CF", "Central African Republic", "R\u00e9publique centrafricaine"],
@@ -2144,7 +2224,9 @@
 		"cioc": "CAN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CAD"],
+		"currency": {
+			"CAD": "Canadian Dollar"
+		},
 		"callingCode": ["1"],
 		"capital": ["Ottawa"],
 		"altSpellings": ["CA"],
@@ -2196,7 +2278,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["AUD"],
+		"currency": {
+			"AUD": "Australian Dollar"
+		},
 		"callingCode": ["61"],
 		"capital": ["West Island"],
 		"altSpellings": ["CC", "Keeling Islands", "Cocos Islands"],
@@ -2259,7 +2343,9 @@
 		"cioc": "SUI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CHF"],
+		"currency": {
+			"CHF": "Swiss Franc"
+		},
 		"callingCode": ["41"],
 		"capital": ["Bern"],
 		"altSpellings": ["CH", "Swiss Confederation", "Schweiz", "Suisse", "Svizzera", "Svizra"],
@@ -2312,7 +2398,9 @@
 		"cioc": "CHI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CLP"],
+		"currency": {
+			"CLP": "Chilean Peso"
+		},
 		"callingCode": ["56"],
 		"capital": ["Santiago"],
 		"altSpellings": ["CL", "Republic of Chile", "Rep\u00fablica de Chile"],
@@ -2363,7 +2451,9 @@
 		"cioc": "CHN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CNY"],
+		"currency": {
+			"CNY": "Yuan Renminbi"
+		},
 		"callingCode": ["86"],
 		"capital": ["Beijing"],
 		"altSpellings": ["CN", "Zh\u014dnggu\u00f3", "Zhongguo", "Zhonghua", "People's Republic of China", "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd", "Zh\u014dnghu\u00e1 R\u00e9nm\u00edn G\u00f2ngh\u00e9gu\u00f3"],
@@ -2413,7 +2503,9 @@
 		"cioc": "CIV",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XOF"],
+		"currency": {
+			"XOF": "West African CFA franc"
+		},
 		"callingCode": ["225"],
 		"capital": ["Yamoussoukro"],
 		"altSpellings": ["CI", "C\u00f4te d'Ivoire", "Ivory Coast", "Republic of C\u00f4te d'Ivoire", "R\u00e9publique de C\u00f4te d'Ivoire"],
@@ -2467,7 +2559,9 @@
 		"cioc": "CMR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XAF"],
+		"currency": {
+			"XAF": "Central African CFA franc"
+		},
 		"callingCode": ["237"],
 		"capital": ["Yaound\u00e9"],
 		"altSpellings": ["CM", "Republic of Cameroon", "R\u00e9publique du Cameroun"],
@@ -2535,7 +2629,9 @@
 		"cioc": "COD",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CDF"],
+		"currency": {
+			"CDF": "Congolese Franc"
+		},
 		"callingCode": ["243"],
 		"capital": ["Kinshasa"],
 		"altSpellings": ["CD", "DR Congo", "Congo-Kinshasa", "Congo, the Democratic Republic of the", "DRC"],
@@ -2598,7 +2694,9 @@
 		"cioc": "CGO",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XAF"],
+		"currency": {
+			"XAF": "Central African CFA franc"
+		},
 		"callingCode": ["242"],
 		"capital": ["Brazzaville"],
 		"altSpellings": ["CG", "Congo", "Congo-Brazzaville"],
@@ -2655,7 +2753,10 @@
 		"cioc": "COK",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["NZD", "CKD"],
+		"currency": {
+			"NZD": "New Zealand Dollar",
+			"CKD": "Cook Islands Dollar"
+		},
 		"callingCode": ["682"],
 		"capital": ["Avarua"],
 		"altSpellings": ["CK", "K\u016bki '\u0100irani"],
@@ -2707,7 +2808,9 @@
 		"cioc": "COL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["COP"],
+		"currency": {
+			"COP": "Colombian Peso"
+		},
 		"callingCode": ["57"],
 		"capital": ["Bogot\u00e1"],
 		"altSpellings": ["CO", "Republic of Colombia", "Rep\u00fablica de Colombia"],
@@ -2766,7 +2869,9 @@
 		"cioc": "COM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["KMF"],
+		"currency": {
+			"KMF": "Comorian Franc"
+		},
 		"callingCode": ["269"],
 		"capital": ["Moroni"],
 		"altSpellings": ["KM", "Union of the Comoros", "Union des Comores", "Udzima wa Komori", "al-Itti\u1e25\u0101d al-Qumur\u012b"],
@@ -2819,7 +2924,9 @@
 		"cioc": "CPV",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CVE"],
+		"currency": {
+			"CVE": "Cabo Verde Escudo"
+		},
 		"callingCode": ["238"],
 		"capital": ["Praia"],
 		"altSpellings": ["CV", "Republic of Cabo Verde", "Rep\u00fablica de Cabo Verde"],
@@ -2870,7 +2977,9 @@
 		"cioc": "CRC",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CRC"],
+		"currency": {
+			"CRC": "Costa Rican Colon"
+		},
 		"callingCode": ["506"],
 		"capital": ["San Jos\u00e9"],
 		"altSpellings": ["CR", "Republic of Costa Rica", "Rep\u00fablica de Costa Rica"],
@@ -2921,7 +3030,10 @@
 		"cioc": "CUB",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CUC", "CUP"],
+		"currency": {
+			"CUC": "Peso Convertible",
+			"CUP": "Cuban Peso"
+		},
 		"callingCode": ["53"],
 		"capital": ["Havana"],
 		"altSpellings": ["CU", "Republic of Cuba", "Rep\u00fablica de Cuba"],
@@ -2980,7 +3092,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["ANG"],
+		"currency": {
+			"ANG": "Netherlands Antillean Guilder"
+		},
 		"callingCode": ["5999"],
 		"capital": ["Willemstad"],
 		"altSpellings": ["CW", "Curacao", "K\u00f2rsou", "Country of Cura\u00e7ao", "Land Cura\u00e7ao", "Pais K\u00f2rsou"],
@@ -3029,7 +3143,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["AUD"],
+		"currency": {
+			"AUD": "Australian Dollar"
+		},
 		"callingCode": ["61"],
 		"capital": ["Flying Fish Cove"],
 		"altSpellings": ["CX", "Territory of Christmas Island"],
@@ -3080,7 +3196,9 @@
 		"cioc": "CAY",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["KYD"],
+		"currency": {
+			"KYD": "Cayman Islands Dollar"
+		},
 		"callingCode": ["1345"],
 		"capital": ["George Town"],
 		"altSpellings": ["KY"],
@@ -3135,7 +3253,9 @@
 		"cioc": "CYP",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["357"],
 		"capital": ["Nicosia"],
 		"altSpellings": ["CY", "K\u00fdpros", "K\u0131br\u0131s", "Republic of Cyprus", "\u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1", "K\u0131br\u0131s Cumhuriyeti"],
@@ -3191,7 +3311,9 @@
 		"cioc": "CZE",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CZK"],
+		"currency": {
+			"CZK": "Czech Koruna"
+		},
 		"callingCode": ["420"],
 		"capital": ["Prague"],
 		"altSpellings": ["CZ", "\u010cesk\u00e1 republika", "\u010cesko"],
@@ -3243,7 +3365,9 @@
 		"cioc": "GER",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["49"],
 		"capital": ["Berlin"],
 		"altSpellings": ["DE", "Federal Republic of Germany", "Bundesrepublik Deutschland"],
@@ -3297,7 +3421,9 @@
 		"cioc": "DJI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["DJF"],
+		"currency": {
+			"DJF": "Djibouti Franc"
+		},
 		"callingCode": ["253"],
 		"capital": ["Djibouti"],
 		"altSpellings": ["DJ", "Jabuuti", "Gabuuti", "Republic of Djibouti", "R\u00e9publique de Djibouti", "Gabuutih Ummuuno", "Jamhuuriyadda Jabuuti"],
@@ -3349,7 +3475,9 @@
 		"cioc": "DMA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XCD"],
+		"currency": {
+			"XCD": "East Caribbean Dollar"
+		},
 		"callingCode": ["1767"],
 		"capital": ["Roseau"],
 		"altSpellings": ["DM", "Dominique", "Wai\u2018tu kubuli", "Commonwealth of Dominica"],
@@ -3400,7 +3528,9 @@
 		"cioc": "DEN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["DKK"],
+		"currency": {
+			"DKK": "Danish Krone"
+		},
 		"callingCode": ["45"],
 		"capital": ["Copenhagen"],
 		"altSpellings": ["DK", "Danmark", "Kingdom of Denmark", "Kongeriget Danmark"],
@@ -3451,7 +3581,9 @@
 		"cioc": "DOM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["DOP"],
+		"currency": {
+			"DOP": "Dominican Peso"
+		},
 		"callingCode": ["1809", "1829", "1849"],
 		"capital": ["Santo Domingo"],
 		"altSpellings": ["DO"],
@@ -3502,7 +3634,9 @@
 		"cioc": "ALG",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["DZD"],
+		"currency": {
+			"DZD": "Algerian Dinar"
+		},
 		"callingCode": ["213"],
 		"capital": ["Algiers"],
 		"altSpellings": ["DZ", "Dzayer", "Alg\u00e9rie"],
@@ -3553,7 +3687,9 @@
 		"cioc": "ECU",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["593"],
 		"capital": ["Quito"],
 		"altSpellings": ["EC", "Republic of Ecuador", "Rep\u00fablica del Ecuador"],
@@ -3604,7 +3740,9 @@
 		"cioc": "EGY",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EGP"],
+		"currency": {
+			"EGP": "Egyptian Pound"
+		},
 		"callingCode": ["20"],
 		"capital": ["Cairo"],
 		"altSpellings": ["EG", "Arab Republic of Egypt"],
@@ -3663,7 +3801,9 @@
 		"cioc": "ERI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["ERN"],
+		"currency": {
+			"ERN": "Eritrean Nakfa"
+		},
 		"callingCode": ["291"],
 		"capital": ["Asmara"],
 		"altSpellings": ["ER", "State of Eritrea", "\u1203\u1308\u1228 \u12a4\u122d\u1275\u122b", "Dawlat Iritriy\u00e1", "\u02beErtr\u0101", "Iritriy\u0101"],
@@ -3724,7 +3864,11 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["MAD", "DZD", "MRO"],
+		"currency": {
+			"MAD": "Moroccan Dirham",
+			"DZD": "Algerian Dinar",
+			"MRO": "Mauritanian ouguiya"
+		},
 		"callingCode": ["212"],
 		"capital": ["El Aai\u00fan"],
 		"altSpellings": ["EH", "Tane\u1e93roft Tutrimt"],
@@ -3776,7 +3920,9 @@
 		"cioc": "ESP",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["34"],
 		"capital": ["Madrid"],
 		"altSpellings": ["ES", "Kingdom of Spain", "Reino de Espa\u00f1a"],
@@ -3826,7 +3972,9 @@
 		"cioc": "EST",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["372"],
 		"capital": ["Tallinn"],
 		"altSpellings": ["EE", "Eesti", "Republic of Estonia", "Eesti Vabariik"],
@@ -3877,7 +4025,9 @@
 		"cioc": "ETH",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["ETB"],
+		"currency": {
+			"ETB": "Ethiopian Birr"
+		},
 		"callingCode": ["251"],
 		"capital": ["Addis Ababa"],
 		"altSpellings": ["ET", "\u02be\u012aty\u014d\u1e57\u1e57y\u0101", "Federal Democratic Republic of Ethiopia", "\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u134c\u12f4\u122b\u120b\u12ca \u12f2\u121e\u12ad\u122b\u1232\u12eb\u12ca \u122a\u1350\u1265\u120a\u12ad"],
@@ -3932,7 +4082,9 @@
 		"cioc": "FIN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["358"],
 		"capital": ["Helsinki"],
 		"altSpellings": ["FI", "Suomi", "Republic of Finland", "Suomen tasavalta", "Republiken Finland"],
@@ -3991,7 +4143,9 @@
 		"cioc": "FIJ",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["FJD"],
+		"currency": {
+			"FJD": "Fiji Dollar"
+		},
 		"callingCode": ["679"],
 		"capital": ["Suva"],
 		"altSpellings": ["FJ", "Viti", "Republic of Fiji", "Matanitu ko Viti", "Fij\u012b Ga\u1e47ar\u0101jya"],
@@ -4043,7 +4197,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["FKP"],
+		"currency": {
+			"FKP": "Falkland Islands Pound"
+		},
 		"callingCode": ["500"],
 		"capital": ["Stanley"],
 		"altSpellings": ["FK", "Islas Malvinas", "Falkland Islands (Malvinas)"],
@@ -4093,7 +4249,9 @@
 		"cioc": "FRA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["33"],
 		"capital": ["Paris"],
 		"altSpellings": ["FR", "French Republic", "R\u00e9publique fran\u00e7aise"],
@@ -4147,7 +4305,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["DKK"],
+		"currency": {
+			"DKK": "Danish Krone"
+		},
 		"callingCode": ["298"],
 		"capital": ["T\u00f3rshavn"],
 		"altSpellings": ["FO", "F\u00f8royar", "F\u00e6r\u00f8erne"],
@@ -4198,7 +4358,9 @@
 		"cioc": "FSM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["691"],
 		"capital": ["Palikir"],
 		"altSpellings": ["FM", "Federated States of Micronesia", "Micronesia, Federated States of"],
@@ -4248,7 +4410,9 @@
 		"cioc": "GAB",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XAF"],
+		"currency": {
+			"XAF": "Central African CFA franc"
+		},
 		"callingCode": ["241"],
 		"capital": ["Libreville"],
 		"altSpellings": ["GA", "Gabonese Republic", "R\u00e9publique Gabonaise"],
@@ -4298,7 +4462,9 @@
 		"cioc": "GBR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["GBP"],
+		"currency": {
+			"GBP": "Pound Sterling"
+		},
 		"callingCode": ["44"],
 		"capital": ["London"],
 		"altSpellings": ["GB", "UK", "Great Britain"],
@@ -4348,7 +4514,9 @@
 		"cioc": "GEO",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["GEL"],
+		"currency": {
+			"GEL": "Georgian Lari"
+		},
 		"callingCode": ["995"],
 		"capital": ["Tbilisi"],
 		"altSpellings": ["GE", "Sakartvelo"],
@@ -4406,7 +4574,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["GBP"],
+		"currency": {
+			"GBP": "Pound Sterling"
+		},
 		"callingCode": ["44"],
 		"capital": ["St. Peter Port"],
 		"altSpellings": ["GG", "Bailiwick of Guernsey", "Bailliage de Guernesey"],
@@ -4458,7 +4628,9 @@
 		"cioc": "GHA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["GHS"],
+		"currency": {
+			"GHS": "Ghana Cedi"
+		},
 		"callingCode": ["233"],
 		"capital": ["Accra"],
 		"altSpellings": ["GH"],
@@ -4508,7 +4680,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["GIP"],
+		"currency": {
+			"GIP": "Gibraltar Pound"
+		},
 		"callingCode": ["350"],
 		"capital": ["Gibraltar"],
 		"altSpellings": ["GI"],
@@ -4558,7 +4732,9 @@
 		"cioc": "GUI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["GNF"],
+		"currency": {
+			"GNF": "Guinean Franc"
+		},
 		"callingCode": ["224"],
 		"capital": ["Conakry"],
 		"altSpellings": ["GN", "Republic of Guinea", "R\u00e9publique de Guin\u00e9e"],
@@ -4608,7 +4784,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["590"],
 		"capital": ["Basse-Terre"],
 		"altSpellings": ["GP", "Gwadloup"],
@@ -4658,7 +4836,9 @@
 		"cioc": "GAM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["GMD"],
+		"currency": {
+			"GMD": "Gambian Dalasi"
+		},
 		"callingCode": ["220"],
 		"capital": ["Banjul"],
 		"altSpellings": ["GM", "Republic of the Gambia"],
@@ -4712,7 +4892,9 @@
 		"cioc": "GBS",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XOF"],
+		"currency": {
+			"XOF": "West African CFA franc"
+		},
 		"callingCode": ["245"],
 		"capital": ["Bissau"],
 		"altSpellings": ["GW", "Republic of Guinea-Bissau", "Rep\u00fablica da Guin\u00e9-Bissau"],
@@ -4771,7 +4953,9 @@
 		"cioc": "GEQ",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XAF"],
+		"currency": {
+			"XAF": "Central African CFA franc"
+		},
 		"callingCode": ["240"],
 		"capital": ["Malabo"],
 		"altSpellings": ["GQ", "Republic of Equatorial Guinea", "Rep\u00fablica de Guinea Ecuatorial", "R\u00e9publique de Guin\u00e9e \u00e9quatoriale", "Rep\u00fablica da Guin\u00e9 Equatorial"],
@@ -4824,7 +5008,9 @@
 		"cioc": "GRE",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["30"],
 		"capital": ["Athens"],
 		"altSpellings": ["GR", "Ell\u00e1da", "Hellenic Republic", "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"],
@@ -4874,7 +5060,9 @@
 		"cioc": "GRN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XCD"],
+		"currency": {
+			"XCD": "East Caribbean Dollar"
+		},
 		"callingCode": ["1473"],
 		"capital": ["St. George's"],
 		"altSpellings": ["GD"],
@@ -4924,7 +5112,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["DKK"],
+		"currency": {
+			"DKK": "Danish Krone"
+		},
 		"callingCode": ["299"],
 		"capital": ["Nuuk"],
 		"altSpellings": ["GL", "Gr\u00f8nland"],
@@ -4974,7 +5164,9 @@
 		"cioc": "GUA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["GTQ"],
+		"currency": {
+			"GTQ": "Guatemalan Quetzal"
+		},
 		"callingCode": ["502"],
 		"capital": ["Guatemala City"],
 		"altSpellings": ["GT"],
@@ -5024,7 +5216,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["594"],
 		"capital": ["Cayenne"],
 		"altSpellings": ["GF", "Guiana", "Guyane"],
@@ -5082,7 +5276,9 @@
 		"cioc": "GUM",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["1671"],
 		"capital": ["Hag\u00e5t\u00f1a"],
 		"altSpellings": ["GU", "Gu\u00e5h\u00e5n"],
@@ -5134,7 +5330,9 @@
 		"cioc": "GUY",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["GYD"],
+		"currency": {
+			"GYD": "Guyana Dollar"
+		},
 		"callingCode": ["592"],
 		"capital": ["Georgetown"],
 		"altSpellings": ["GY", "Co-operative Republic of Guyana"],
@@ -5188,7 +5386,9 @@
 		"cioc": "HKG",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["HKD"],
+		"currency": {
+			"HKD": "Hong Kong Dollar"
+		},
 		"callingCode": ["852"],
 		"capital": ["City of Victoria"],
 		"altSpellings": ["HK"],
@@ -5239,7 +5439,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["AUD"],
+		"currency": {
+			"AUD": "Australian Dollar"
+		},
 		"callingCode": [],
 		"capital": [""],
 		"altSpellings": ["HM", "Heard Island and McDonald Islands"],
@@ -5289,7 +5491,9 @@
 		"cioc": "HON",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["HNL"],
+		"currency": {
+			"HNL": "Honduran Lempira"
+		},
 		"callingCode": ["504"],
 		"capital": ["Tegucigalpa"],
 		"altSpellings": ["HN", "Republic of Honduras", "Rep\u00fablica de Honduras"],
@@ -5339,7 +5543,9 @@
 		"cioc": "CRO",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["HRK"],
+		"currency": {
+			"HRK": "Croatian Kuna"
+		},
 		"callingCode": ["385"],
 		"capital": ["Zagreb"],
 		"altSpellings": ["HR", "Hrvatska", "Republic of Croatia", "Republika Hrvatska"],
@@ -5394,7 +5600,10 @@
 		"cioc": "HAI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["HTG", "USD"],
+		"currency": {
+			"HTG": "Haitian Gourde",
+			"USD": "United States dollar"
+		},
 		"callingCode": ["509"],
 		"capital": ["Port-au-Prince"],
 		"altSpellings": ["HT", "Republic of Haiti", "R\u00e9publique d'Ha\u00efti", "Repiblik Ayiti"],
@@ -5445,7 +5654,9 @@
 		"cioc": "HUN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["HUF"],
+		"currency": {
+			"HUF": "Hungarian Forint"
+		},
 		"callingCode": ["36"],
 		"capital": ["Budapest"],
 		"altSpellings": ["HU"],
@@ -5495,7 +5706,9 @@
 		"cioc": "INA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["IDR"],
+		"currency": {
+			"IDR": "Indonesian Rupiah"
+		},
 		"callingCode": ["62"],
 		"capital": ["Jakarta"],
 		"altSpellings": ["ID", "Republic of Indonesia", "Republik Indonesia"],
@@ -5549,7 +5762,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["GBP"],
+		"currency": {
+			"GBP": "Pound Sterling"
+		},
 		"callingCode": ["44"],
 		"capital": ["Douglas"],
 		"altSpellings": ["IM", "Ellan Vannin", "Mann", "Mannin"],
@@ -5608,7 +5823,9 @@
 		"cioc": "IND",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["INR"],
+		"currency": {
+			"INR": "Indian Rupee"
+		},
 		"callingCode": ["91"],
 		"capital": ["New Delhi"],
 		"altSpellings": ["IN", "Bh\u0101rat", "Republic of India", "Bharat Ganrajya", "\u0B87\u0BA8\u0BCD\u0BA4\u0BBF\u0BAF\u0BBE"],
@@ -5660,7 +5877,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["246"],
 		"capital": ["Diego Garcia"],
 		"altSpellings": ["IO"],
@@ -5715,7 +5934,9 @@
 		"cioc": "IRL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["353"],
 		"capital": ["Dublin"],
 		"altSpellings": ["IE", "\u00c9ire", "Republic of Ireland", "Poblacht na h\u00c9ireann"],
@@ -5766,7 +5987,9 @@
 		"cioc": "IRI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["IRR"],
+		"currency": {
+			"IRR": "Iranian Rial"
+		},
 		"callingCode": ["98"],
 		"capital": ["Tehran"],
 		"altSpellings": ["IR", "Islamic Republic of Iran", "Iran, Islamic Republic of", "Jomhuri-ye Esl\u0101mi-ye Ir\u0101n"],
@@ -5824,7 +6047,9 @@
 		"cioc": "IRQ",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["IQD"],
+		"currency": {
+			"IQD": "Iraqi Dinar"
+		},
 		"callingCode": ["964"],
 		"capital": ["Baghdad"],
 		"altSpellings": ["IQ", "Republic of Iraq", "Jumh\u016briyyat al-\u2018Ir\u0101q"],
@@ -5876,7 +6101,9 @@
 		"cioc": "ISL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["ISK"],
+		"currency": {
+			"ISK": "Iceland Krona"
+		},
 		"callingCode": ["354"],
 		"capital": ["Reykjavik"],
 		"altSpellings": ["IS", "Island", "Republic of Iceland", "L\u00fd\u00f0veldi\u00f0 \u00cdsland"],
@@ -5930,7 +6157,9 @@
 		"cioc": "ISR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["ILS"],
+		"currency": {
+			"ILS": "New Israeli Sheqel"
+		},
 		"callingCode": ["972"],
 		"capital": ["Jerusalem"],
 		"altSpellings": ["IL", "State of Israel", "Med\u012bnat Yisr\u0101'el"],
@@ -5981,7 +6210,9 @@
 		"cioc": "ITA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["39"],
 		"capital": ["Rome"],
 		"altSpellings": ["IT", "Italian Republic", "Repubblica italiana"],
@@ -6035,7 +6266,9 @@
 		"cioc": "JAM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["JMD"],
+		"currency": {
+			"JMD": "Jamaican Dollar"
+		},
 		"callingCode": ["1876"],
 		"capital": ["Kingston"],
 		"altSpellings": ["JM"],
@@ -6094,7 +6327,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["GBP"],
+		"currency": {
+			"GBP": "Pound Sterling"
+		},
 		"callingCode": ["44"],
 		"capital": ["Saint Helier"],
 		"altSpellings": ["JE", "Bailiwick of Jersey", "Bailliage de Jersey", "Bailliage d\u00e9 J\u00e8rri"],
@@ -6146,7 +6381,9 @@
 		"cioc": "JOR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["JOD"],
+		"currency": {
+			"JOD": "Jordanian Dinar"
+		},
 		"callingCode": ["962"],
 		"capital": ["Amman"],
 		"altSpellings": ["JO", "Hashemite Kingdom of Jordan", "al-Mamlakah al-Urdun\u012byah al-H\u0101shim\u012byah"],
@@ -6196,7 +6433,9 @@
 		"cioc": "JPN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["JPY"],
+		"currency": {
+			"JPY": "Japanese Yen"
+		},
 		"callingCode": ["81"],
 		"capital": ["Tokyo"],
 		"altSpellings": ["JP", "Nippon", "Nihon"],
@@ -6250,7 +6489,9 @@
 		"cioc": "KAZ",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["KZT"],
+		"currency": {
+			"KZT": "Kazakhstani Tenge"
+		},
 		"callingCode": ["76", "77"],
 		"capital": ["Astana"],
 		"altSpellings": ["KZ", "Qazaqstan", "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d", "Republic of Kazakhstan", "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b", "Qazaqstan Respubl\u00efkas\u0131", "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d", "Respublika Kazakhstan"],
@@ -6305,7 +6546,9 @@
 		"cioc": "KEN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["KES"],
+		"currency": {
+			"KES": "Kenyan Shilling"
+		},
 		"callingCode": ["254"],
 		"capital": ["Nairobi"],
 		"altSpellings": ["KE", "Republic of Kenya", "Jamhuri ya Kenya"],
@@ -6360,7 +6603,9 @@
 		"cioc": "KGZ",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["KGS"],
+		"currency": {
+			"KGS": "Kyrgyzstani Som"
+		},
 		"callingCode": ["996"],
 		"capital": ["Bishkek"],
 		"altSpellings": ["KG", "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f", "Kyrgyz Republic", "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b", "Kyrgyz Respublikasy"],
@@ -6411,7 +6656,9 @@
 		"cioc": "CAM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["KHR"],
+		"currency": {
+			"KHR": "Cambodian Riel"
+		},
 		"callingCode": ["855"],
 		"capital": ["Phnom Penh"],
 		"altSpellings": ["KH", "Kingdom of Cambodia"],
@@ -6466,7 +6713,9 @@
 		"cioc": "KIR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["AUD"],
+		"currency": {
+			"AUD": "Australian Dollar"
+		},
 		"callingCode": ["686"],
 		"capital": ["South Tarawa"],
 		"altSpellings": ["KI", "Republic of Kiribati", "Ribaberiki Kiribati"],
@@ -6517,7 +6766,9 @@
 		"cioc": "SKN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XCD"],
+		"currency": {
+			"XCD": "East Caribbean Dollar"
+		},
 		"callingCode": ["1869"],
 		"capital": ["Basseterre"],
 		"altSpellings": ["KN", "Federation of Saint Christopher and Nevis"],
@@ -6567,7 +6818,9 @@
 		"cioc": "KOR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["KRW"],
+		"currency": {
+			"KRW": "South Korean Won"
+		},
 		"callingCode": ["82"],
 		"capital": ["Seoul"],
 		"altSpellings": ["KR", "Korea, Republic of", "Republic of Korea"],
@@ -6621,7 +6874,9 @@
 		"cioc": "KOS",
 		"independent": null,
 		"status": "user-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["383"],
 		"capital": ["Pristina"],
 		"altSpellings": ["XK", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"],
@@ -6671,7 +6926,9 @@
 		"cioc": "KUW",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["KWD"],
+		"currency": {
+			"KWD": "Kuwaiti Dinar"
+		},
 		"callingCode": ["965"],
 		"capital": ["Kuwait City"],
 		"altSpellings": ["KW", "State of Kuwait", "Dawlat al-Kuwait"],
@@ -6721,7 +6978,9 @@
 		"cioc": "LAO",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["LAK"],
+		"currency": {
+			"LAK": "Lao Kip"
+		},
 		"callingCode": ["856"],
 		"capital": ["Vientiane"],
 		"altSpellings": ["LA", "Lao", "Lao People's Democratic Republic", "Sathalanalat Paxathipatai Paxaxon Lao"],
@@ -6775,7 +7034,9 @@
 		"cioc": "LIB",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["LBP"],
+		"currency": {
+			"LBP": "Lebanese Pound"
+		},
 		"callingCode": ["961"],
 		"capital": ["Beirut"],
 		"altSpellings": ["LB", "Lebanese Republic", "Al-Jumh\u016br\u012byah Al-Libn\u0101n\u012byah"],
@@ -6826,7 +7087,9 @@
 		"cioc": "LBR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["LRD"],
+		"currency": {
+			"LRD": "Liberian Dollar"
+		},
 		"callingCode": ["231"],
 		"capital": ["Monrovia"],
 		"altSpellings": ["LR", "Republic of Liberia"],
@@ -6876,7 +7139,9 @@
 		"cioc": "LBA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["LYD"],
+		"currency": {
+			"LYD": "Libyan Dinar"
+		},
 		"callingCode": ["218"],
 		"capital": ["Tripoli"],
 		"altSpellings": ["LY", "State of Libya", "Dawlat Libya"],
@@ -6926,7 +7191,9 @@
 		"cioc": "LCA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XCD"],
+		"currency": {
+			"XCD": "East Caribbean Dollar"
+		},
 		"callingCode": ["1758"],
 		"capital": ["Castries"],
 		"altSpellings": ["LC"],
@@ -6976,7 +7243,9 @@
 		"cioc": "LIE",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["CHF"],
+		"currency": {
+			"CHF": "Swiss Franc"
+		},
 		"callingCode": ["423"],
 		"capital": ["Vaduz"],
 		"altSpellings": ["LI", "Principality of Liechtenstein", "F\u00fcrstentum Liechtenstein"],
@@ -7030,7 +7299,9 @@
 		"cioc": "SRI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["LKR"],
+		"currency": {
+			"LKR": "Sri Lanka Rupee"
+		},
 		"callingCode": ["94"],
 		"capital": ["Colombo"],
 		"altSpellings": ["LK", "ila\u1e45kai", "Democratic Socialist Republic of Sri Lanka"],
@@ -7085,7 +7356,10 @@
 		"cioc": "LES",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["LSL", "ZAR"],
+		"currency": {
+			"LSL": "Lesotho Loti",
+			"ZAR": "South African Rand"
+		},
 		"callingCode": ["266"],
 		"capital": ["Maseru"],
 		"altSpellings": ["LS", "Kingdom of Lesotho", "Muso oa Lesotho"],
@@ -7136,7 +7410,9 @@
 		"cioc": "LTU",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["370"],
 		"capital": ["Vilnius"],
 		"altSpellings": ["LT", "Republic of Lithuania", "Lietuvos Respublika"],
@@ -7194,7 +7470,9 @@
 		"cioc": "LUX",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["352"],
 		"capital": ["Luxembourg"],
 		"altSpellings": ["LU", "Grand Duchy of Luxembourg", "Grand-Duch\u00e9 de Luxembourg", "Gro\u00dfherzogtum Luxemburg", "Groussherzogtum L\u00ebtzebuerg"],
@@ -7246,7 +7524,9 @@
 		"cioc": "LAT",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["371"],
 		"capital": ["Riga"],
 		"altSpellings": ["LV", "Republic of Latvia", "Latvijas Republika"],
@@ -7300,7 +7580,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["MOP"],
+		"currency": {
+			"MOP": "Macanese Pataca"
+		},
 		"callingCode": ["853"],
 		"capital": [""],
 		"altSpellings": ["MO", "\u6fb3\u95e8", "Macao", "Macao Special Administrative Region of the People's Republic of China", "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340", "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China"],
@@ -7350,7 +7632,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["590"],
 		"capital": ["Marigot"],
 		"altSpellings": ["MF", "Collectivity of Saint Martin", "Collectivit\u00e9 de Saint-Martin", "Saint Martin (French part)"],
@@ -7404,7 +7688,9 @@
 		"cioc": "MAR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MAD"],
+		"currency": {
+			"MAD": "Moroccan Dirham"
+		},
 		"callingCode": ["212"],
 		"capital": ["Rabat"],
 		"altSpellings": ["MA", "Kingdom of Morocco", "Al-Mamlakah al-Ma\u0121ribiyah"],
@@ -7455,7 +7741,9 @@
 		"cioc": "MON",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["377"],
 		"capital": ["Monaco"],
 		"altSpellings": ["MC", "Principality of Monaco", "Principaut\u00e9 de Monaco"],
@@ -7505,7 +7793,9 @@
 		"cioc": "MDA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MDL"],
+		"currency": {
+			"MDL": "Moldovan Leu"
+		},
 		"callingCode": ["373"],
 		"capital": ["Chi\u0219in\u0103u"],
 		"altSpellings": ["MD", "Moldova, Republic of", "Republic of Moldova", "Republica Moldova"],
@@ -7559,7 +7849,9 @@
 		"cioc": "MAD",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MGA"],
+		"currency": {
+			"MGA": "Malagasy Ariary"
+		},
 		"callingCode": ["261"],
 		"capital": ["Antananarivo"],
 		"altSpellings": ["MG", "Republic of Madagascar", "Repoblikan'i Madagasikara", "R\u00e9publique de Madagascar"],
@@ -7610,7 +7902,9 @@
 		"cioc": "MDV",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MVR"],
+		"currency": {
+			"MVR": "Maldivian Rufiyaa"
+		},
 		"callingCode": ["960"],
 		"capital": ["Mal\u00e9"],
 		"altSpellings": ["MV", "Maldive Islands", "Republic of the Maldives", "Dhivehi Raajjeyge Jumhooriyya"],
@@ -7660,7 +7954,9 @@
 		"cioc": "MEX",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MXN"],
+		"currency": {
+			"MXN": "Mexican Peso"
+		},
 		"callingCode": ["52"],
 		"capital": ["Mexico City"],
 		"altSpellings": ["MX", "Mexicanos", "United Mexican States", "Estados Unidos Mexicanos"],
@@ -7714,7 +8010,9 @@
 		"cioc": "MHL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["692"],
 		"capital": ["Majuro"],
 		"altSpellings": ["MH", "Republic of the Marshall Islands", "Aolep\u0101n Aor\u014dkin M\u0327aje\u013c"],
@@ -7765,7 +8063,9 @@
 		"cioc": "MKD",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MKD"],
+		"currency": {
+			"MKD": "Macedonian Denar"
+		},
 		"callingCode": ["389"],
 		"capital": ["Skopje"],
 		"altSpellings": ["MK", "Macedonia, the Former Yugoslav Republic of", "Republic of Macedonia", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"],
@@ -7815,7 +8115,9 @@
 		"cioc": "MLI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XOF"],
+		"currency": {
+			"XOF": "West African CFA franc"
+		},
 		"callingCode": ["223"],
 		"capital": ["Bamako"],
 		"altSpellings": ["ML", "Republic of Mali", "R\u00e9publique du Mali"],
@@ -7869,7 +8171,9 @@
 		"cioc": "MLT",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["356"],
 		"capital": ["Valletta"],
 		"altSpellings": ["MT", "Republic of Malta", "Repubblika ta' Malta"],
@@ -7920,7 +8224,9 @@
 		"cioc": "MYA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MMK"],
+		"currency": {
+			"MMK": "Burmese Kyat"
+		},
 		"callingCode": ["95"],
 		"capital": ["Naypyidaw"],
 		"altSpellings": ["MM", "Burma", "Republic of the Union of Myanmar", "Pyidaunzu Thanm\u0103da My\u0103ma Nainngandaw"],
@@ -7970,7 +8276,9 @@
 		"cioc": "MNE",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["382"],
 		"capital": ["Podgorica"],
 		"altSpellings": ["ME", "Crna Gora"],
@@ -8020,7 +8328,9 @@
 		"cioc": "MGL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MNT"],
+		"currency": {
+			"MNT": "Mongolian Tugrik"
+		},
 		"callingCode": ["976"],
 		"capital": ["Ulan Bator"],
 		"altSpellings": ["MN"],
@@ -8078,7 +8388,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["1670"],
 		"capital": ["Saipan"],
 		"altSpellings": ["MP", "Commonwealth of the Northern Mariana Islands", "Sankattan Siha Na Islas Mari\u00e5nas"],
@@ -8130,7 +8442,9 @@
 		"cioc": "MOZ",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MZN"],
+		"currency": {
+			"MZN": "Mozambique Metical"
+		},
 		"callingCode": ["258"],
 		"capital": ["Maputo"],
 		"altSpellings": ["MZ", "Republic of Mozambique", "Rep\u00fablica de Mo\u00e7ambique"],
@@ -8180,7 +8494,9 @@
 		"cioc": "MTN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MRO"],
+		"currency": {
+			"MRO": "Mauritanian ouguiya"
+		},
 		"callingCode": ["222"],
 		"capital": ["Nouakchott"],
 		"altSpellings": ["MR", "Islamic Republic of Mauritania", "al-Jumh\u016briyyah al-\u02beIsl\u0101miyyah al-M\u016br\u012bt\u0101niyyah"],
@@ -8230,7 +8546,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["XCD"],
+		"currency": {
+			"XCD": "East Caribbean Dollar"
+		},
 		"callingCode": ["1664"],
 		"capital": ["Plymouth"],
 		"altSpellings": ["MS"],
@@ -8280,7 +8598,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["596"],
 		"capital": ["Fort-de-France"],
 		"altSpellings": ["MQ"],
@@ -8338,7 +8658,9 @@
 		"cioc": "MRI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MUR"],
+		"currency": {
+			"MUR": "Mauritius Rupee"
+		},
 		"callingCode": ["230"],
 		"capital": ["Port Louis"],
 		"altSpellings": ["MU", "Republic of Mauritius", "R\u00e9publique de Maurice"],
@@ -8394,7 +8716,9 @@
 		"cioc": "MAW",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MWK"],
+		"currency": {
+			"MWK": "Malawi Kwacha"
+		},
 		"callingCode": ["265"],
 		"capital": ["Lilongwe"],
 		"altSpellings": ["MW", "Republic of Malawi"],
@@ -8449,7 +8773,9 @@
 		"cioc": "MAS",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["MYR"],
+		"currency": {
+			"MYR": "Malaysian Ringgit"
+		},
 		"callingCode": ["60"],
 		"capital": ["Kuala Lumpur"],
 		"altSpellings": ["MY"],
@@ -8500,7 +8826,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["262"],
 		"capital": ["Mamoudzou"],
 		"altSpellings": ["YT", "Department of Mayotte", "D\u00e9partement de Mayotte"],
@@ -8582,7 +8910,10 @@
 		"cioc": "NAM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["NAD", "ZAR"],
+		"currency": {
+			"NAD": "Namibia Dollar",
+			"ZAR": "South African Rand"
+		},
 		"callingCode": ["264"],
 		"capital": ["Windhoek"],
 		"altSpellings": ["NA", "Namibi\u00eb", "Republic of Namibia"],
@@ -8640,7 +8971,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["XPF"],
+		"currency": {
+			"XPF": "CFP Franc"
+		},
 		"callingCode": ["687"],
 		"capital": ["Noum\u00e9a"],
 		"altSpellings": ["NC"],
@@ -8690,7 +9023,9 @@
 		"cioc": "NIG",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XOF"],
+		"currency": {
+			"XOF": "West African CFA franc"
+		},
 		"callingCode": ["227"],
 		"capital": ["Niamey"],
 		"altSpellings": ["NE", "Nijar"],
@@ -8744,7 +9079,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["AUD"],
+		"currency": {
+			"AUD": "Australian Dollar"
+		},
 		"callingCode": ["672"],
 		"capital": ["Kingston"],
 		"altSpellings": ["NF", "Territory of Norfolk Island", "Teratri of Norf'k Ailen"],
@@ -8795,7 +9132,9 @@
 		"cioc": "NGR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["NGN"],
+		"currency": {
+			"NGN": "Nigerian Naira"
+		},
 		"callingCode": ["234"],
 		"capital": ["Abuja"],
 		"altSpellings": ["NG", "Nijeriya", "Na\u00edj\u00edr\u00ed\u00e0", "Federal Republic of Nigeria"],
@@ -8845,7 +9184,9 @@
 		"cioc": "NCA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["NIO"],
+		"currency": {
+			"NIO": "Cordoba Oro"
+		},
 		"callingCode": ["505"],
 		"capital": ["Managua"],
 		"altSpellings": ["NI", "Republic of Nicaragua", "Rep\u00fablica de Nicaragua"],
@@ -8899,7 +9240,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["NZD"],
+		"currency": {
+			"NZD": "New Zealand Dollar"
+		},
 		"callingCode": ["683"],
 		"capital": ["Alofi"],
 		"altSpellings": ["NU"],
@@ -8950,7 +9293,9 @@
 		"cioc": "NED",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["31"],
 		"capital": ["Amsterdam"],
 		"altSpellings": ["NL", "Holland", "Nederland", "The Netherlands"],
@@ -9008,7 +9353,9 @@
 		"cioc": "NOR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["NOK"],
+		"currency": {
+			"NOK": "Norwegian Krone"
+		},
 		"callingCode": ["47"],
 		"capital": ["Oslo"],
 		"altSpellings": ["NO", "Norge", "Noreg", "Kingdom of Norway", "Kongeriket Norge", "Kongeriket Noreg"],
@@ -9060,7 +9407,9 @@
 		"cioc": "NEP",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["NPR"],
+		"currency": {
+			"NPR": "Nepalese Rupee"
+		},
 		"callingCode": ["977"],
 		"capital": ["Kathmandu"],
 		"altSpellings": ["NP", "Federal Democratic Republic of Nepal", "Lokt\u0101ntrik Ganatantra Nep\u0101l"],
@@ -9114,7 +9463,9 @@
 		"cioc": "NRU",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["AUD"],
+		"currency": {
+			"AUD": "Australian Dollar"
+		},
 		"callingCode": ["674"],
 		"capital": ["Yaren"],
 		"altSpellings": ["NR", "Naoero", "Pleasant Island", "Republic of Nauru", "Ripublik Naoero"],
@@ -9173,7 +9524,9 @@
 		"cioc": "NZL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["NZD"],
+		"currency": {
+			"NZD": "New Zealand Dollar"
+		},
 		"callingCode": ["64"],
 		"capital": ["Wellington"],
 		"altSpellings": ["NZ", "Aotearoa"],
@@ -9225,7 +9578,9 @@
 		"cioc": "OMA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["OMR"],
+		"currency": {
+			"OMR": "Rial Omani"
+		},
 		"callingCode": ["968"],
 		"capital": ["Muscat"],
 		"altSpellings": ["OM", "Sultanate of Oman", "Sal\u1e6danat \u02bbUm\u0101n"],
@@ -9279,7 +9634,9 @@
 		"cioc": "PAK",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["PKR"],
+		"currency": {
+			"PKR": "Pakistan Rupee"
+		},
 		"callingCode": ["92"],
 		"capital": ["Islamabad"],
 		"altSpellings": ["PK", "P\u0101kist\u0101n", "Islamic Republic of Pakistan", "Isl\u0101m\u012b Jumh\u016briya'eh P\u0101kist\u0101n"],
@@ -9330,7 +9687,10 @@
 		"cioc": "PAN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["PAB", "USD"],
+		"currency": {
+			"PAB": "Panamanian Balboa",
+			"USD": "United States dollar"
+		},
 		"callingCode": ["507"],
 		"capital": ["Panama City"],
 		"altSpellings": ["PA", "Republic of Panama", "Rep\u00fablica de Panam\u00e1"],
@@ -9380,7 +9740,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["NZD"],
+		"currency": {
+			"NZD": "New Zealand Dollar"
+		},
 		"callingCode": ["64"],
 		"capital": ["Adamstown"],
 		"altSpellings": ["PN", "Pitcairn", "Pitcairn Henderson Ducie and Oeno Islands"],
@@ -9438,7 +9800,9 @@
 		"cioc": "PER",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["PEN"],
+		"currency": {
+			"PEN": "Peruvian Sol"
+		},
 		"callingCode": ["51"],
 		"capital": ["Lima"],
 		"altSpellings": ["PE", "Republic of Peru", "Rep\u00fablica del Per\u00fa"],
@@ -9494,7 +9858,9 @@
 		"cioc": "PHI",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["PHP"],
+		"currency": {
+			"PHP": "Philippine Piso"
+		},
 		"callingCode": ["63"],
 		"capital": ["Manila"],
 		"altSpellings": ["PH", "Republic of the Philippines", "Rep\u00fablika ng Pilipinas"],
@@ -9549,7 +9915,9 @@
 		"cioc": "PLW",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["680"],
 		"capital": ["Ngerulmud"],
 		"altSpellings": ["PW", "Republic of Palau", "Beluu er a Belau"],
@@ -9608,7 +9976,9 @@
 		"cioc": "PNG",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["PGK"],
+		"currency": {
+			"PGK": "Papua New Guinean Kina"
+		},
 		"callingCode": ["675"],
 		"capital": ["Port Moresby"],
 		"altSpellings": ["PG", "Independent State of Papua New Guinea", "Independen Stet bilong Papua Niugini"],
@@ -9660,7 +10030,9 @@
 		"cioc": "POL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["PLN"],
+		"currency": {
+			"PLN": "Polish Zloty"
+		},
 		"callingCode": ["48"],
 		"capital": ["Warsaw"],
 		"altSpellings": ["PL", "Republic of Poland", "Rzeczpospolita Polska"],
@@ -9714,7 +10086,9 @@
 		"cioc": "PUR",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["1787", "1939"],
 		"capital": ["San Juan"],
 		"altSpellings": ["PR", "Commonwealth of Puerto Rico", "Estado Libre Asociado de Puerto Rico"],
@@ -9765,7 +10139,9 @@
 		"cioc": "PRK",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["KPW"],
+		"currency": {
+			"KPW": "North Korean Won"
+		},
 		"callingCode": ["850"],
 		"capital": ["Pyongyang"],
 		"altSpellings": ["KP", "Democratic People's Republic of Korea", "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d", "Chos\u014fn Minjuju\u016di Inmin Konghwaguk", "Korea, Democratic People's Republic of"],
@@ -9815,7 +10191,9 @@
 		"cioc": "POR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["351"],
 		"capital": ["Lisbon"],
 		"altSpellings": ["PT", "Portuguesa", "Portuguese Republic", "Rep\u00fablica Portuguesa"],
@@ -9869,7 +10247,9 @@
 		"cioc": "PAR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["PYG"],
+		"currency": {
+			"PYG": "Paraguayan Guarani"
+		},
 		"callingCode": ["595"],
 		"capital": ["Asunci\u00f3n"],
 		"altSpellings": ["PY", "Republic of Paraguay", "Rep\u00fablica del Paraguay", "Tet\u00e3 Paragu\u00e1i"],
@@ -9920,7 +10300,9 @@
 		"cioc": "PLE",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["ILS"],
+		"currency": {
+			"ILS": "New Israeli Sheqel"
+		},
 		"callingCode": ["970"],
 		"capital": ["Ramallah"],
 		"altSpellings": ["PS", "Palestine, State of", "State of Palestine", "Dawlat Filas\u1e6din"],
@@ -9970,7 +10352,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["XPF"],
+		"currency": {
+			"XPF": "CFP Franc"
+		},
 		"callingCode": ["689"],
 		"capital": ["Papeet\u0113"],
 		"altSpellings": ["PF", "Polyn\u00e9sie fran\u00e7aise", "French Polynesia", "P\u014dr\u012bnetia Far\u0101ni"],
@@ -10020,7 +10404,9 @@
 		"cioc": "QAT",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["QAR"],
+		"currency": {
+			"QAR": "Qatari Rial"
+		},
 		"callingCode": ["974"],
 		"capital": ["Doha"],
 		"altSpellings": ["QA", "State of Qatar", "Dawlat Qa\u1e6dar"],
@@ -10070,7 +10456,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["262"],
 		"capital": ["Saint-Denis"],
 		"altSpellings": ["RE", "Reunion"],
@@ -10120,7 +10508,9 @@
 		"cioc": "ROU",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["RON"],
+		"currency": {
+			"RON": "Romanian Leu"
+		},
 		"callingCode": ["40"],
 		"capital": ["Bucharest"],
 		"altSpellings": ["RO", "Rumania", "Roumania", "Rom\u00e2nia"],
@@ -10170,7 +10560,9 @@
 		"cioc": "RUS",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["RUB"],
+		"currency": {
+			"RUB": "Russian Ruble"
+		},
 		"callingCode": ["7"],
 		"capital": ["Moscow"],
 		"altSpellings": ["RU", "Russian Federation", "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f"],
@@ -10228,7 +10620,9 @@
 		"cioc": "RWA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["RWF"],
+		"currency": {
+			"RWF": "Rwanda Franc"
+		},
 		"callingCode": ["250"],
 		"capital": ["Kigali"],
 		"altSpellings": ["RW", "Republic of Rwanda", "Repubulika y'u Rwanda", "R\u00e9publique du Rwanda"],
@@ -10280,7 +10674,9 @@
 		"cioc": "KSA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SAR"],
+		"currency": {
+			"SAR": "Saudi Riyal"
+		},
 		"callingCode": ["966"],
 		"capital": ["Riyadh"],
 		"altSpellings": ["Saudi", "SA", "Kingdom of Saudi Arabia", "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"],
@@ -10334,7 +10730,9 @@
 		"cioc": "SUD",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SDG"],
+		"currency": {
+			"SDG": "Sudanese Pound"
+		},
 		"callingCode": ["249"],
 		"capital": ["Khartoum"],
 		"altSpellings": ["SD", "Republic of the Sudan", "Jumh\u016br\u012byat as-S\u016bd\u0101n"],
@@ -10385,7 +10783,9 @@
 		"cioc": "SEN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XOF"],
+		"currency": {
+			"XOF": "West African CFA franc"
+		},
 		"callingCode": ["221"],
 		"capital": ["Dakar"],
 		"altSpellings": ["SN", "Republic of Senegal", "R\u00e9publique du S\u00e9n\u00e9gal"],
@@ -10447,7 +10847,9 @@
 		"cioc": "SIN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SGD"],
+		"currency": {
+			"SGD": "Singapore Dollar"
+		},
 		"callingCode": ["65"],
 		"capital": ["Singapore"],
 		"altSpellings": ["SG", "Singapura", "Republik Singapura", "\u65b0\u52a0\u5761\u5171\u548c\u56fd"],
@@ -10499,7 +10901,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["GBP"],
+		"currency": {
+			"GBP": "Pound Sterling"
+		},
 		"callingCode": ["500"],
 		"capital": ["King Edward Point"],
 		"altSpellings": ["GS", "South Georgia and the South Sandwich Islands"],
@@ -10549,7 +10953,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["NOK"],
+		"currency": {
+			"NOK": "Norwegian Krone"
+		},
 		"callingCode": ["4779"],
 		"capital": ["Longyearbyen"],
 		"altSpellings": ["SJ", "Svalbard and Jan Mayen Islands"],
@@ -10599,7 +11005,9 @@
 		"cioc": "SOL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SBD"],
+		"currency": {
+			"SBD": "Solomon Islands Dollar"
+		},
 		"callingCode": ["677"],
 		"capital": ["Honiara"],
 		"altSpellings": ["SB"],
@@ -10649,7 +11057,9 @@
 		"cioc": "SLE",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SLL"],
+		"currency": {
+			"SLL": "Sierra Leonean Leone"
+		},
 		"callingCode": ["232"],
 		"capital": ["Freetown"],
 		"altSpellings": ["SL", "Republic of Sierra Leone"],
@@ -10699,7 +11109,10 @@
 		"cioc": "ESA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SVC", "USD"],
+		"currency": {
+			"SVC": "El Salvador Colon",
+			"USD": "United States dollar"
+		},
 		"callingCode": ["503"],
 		"capital": ["San Salvador"],
 		"altSpellings": ["SV", "Republic of El Salvador", "Rep\u00fablica de El Salvador"],
@@ -10750,7 +11163,9 @@
 		"cioc": "SMR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["378"],
 		"capital": ["City of San Marino"],
 		"altSpellings": ["SM", "Republic of San Marino", "Repubblica di San Marino"],
@@ -10804,7 +11219,9 @@
 		"cioc": "SOM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SOS"],
+		"currency": {
+			"SOS": "Somali Shilling"
+		},
 		"callingCode": ["252"],
 		"capital": ["Mogadishu"],
 		"altSpellings": ["SO", "a\u1e63-\u1e62\u016bm\u0101l", "Federal Republic of Somalia", "Jamhuuriyadda Federaalka Soomaaliya", "Jumh\u016briyyat a\u1e63-\u1e62\u016bm\u0101l al-Fider\u0101liyya"],
@@ -10855,7 +11272,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["508"],
 		"capital": ["Saint-Pierre"],
 		"altSpellings": ["PM", "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"],
@@ -10905,7 +11324,9 @@
 		"cioc": "SRB",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["RSD"],
+		"currency": {
+			"RSD": "Serbian Dinar"
+		},
 		"callingCode": ["381"],
 		"capital": ["Belgrade"],
 		"altSpellings": ["RS", "Srbija", "Republic of Serbia", "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430", "Republika Srbija"],
@@ -10955,7 +11376,9 @@
 		"cioc": "",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SSP"],
+		"currency": {
+			"SSP": "South Sudanese Pound"
+		},
 		"callingCode": ["211"],
 		"capital": ["Juba"],
 		"altSpellings": ["SS"],
@@ -11005,7 +11428,9 @@
 		"cioc": "STP",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["STD"],
+		"currency": {
+			"STD": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra"
+		},
 		"callingCode": ["239"],
 		"capital": ["S\u00e3o Tom\u00e9"],
 		"altSpellings": ["ST", "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe", "Sao Tome and Principe", "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"],
@@ -11055,7 +11480,9 @@
 		"cioc": "SUR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SRD"],
+		"currency": {
+			"SRD": "Surinam Dollar"
+		},
 		"callingCode": ["597"],
 		"capital": ["Paramaribo"],
 		"altSpellings": ["SR", "Sarnam", "Sranangron", "Republic of Suriname", "Republiek Suriname"],
@@ -11105,7 +11532,9 @@
 		"cioc": "SVK",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["421"],
 		"capital": ["Bratislava"],
 		"altSpellings": ["SK", "Slovak Republic", "Slovensk\u00e1 republika"],
@@ -11155,7 +11584,9 @@
 		"cioc": "SLO",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["386"],
 		"capital": ["Ljubljana"],
 		"altSpellings": ["SI", "Republic of Slovenia", "Republika Slovenija"],
@@ -11205,7 +11636,9 @@
 		"cioc": "SWE",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SEK"],
+		"currency": {
+			"SEK": "Swedish Krona"
+		},
 		"callingCode": ["46"],
 		"capital": ["Stockholm"],
 		"altSpellings": ["SE", "Kingdom of Sweden", "Konungariket Sverige"],
@@ -11259,7 +11692,9 @@
 		"cioc": "SWZ",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SZL"],
+		"currency": {
+			"SZL": "Swazi Lilangeni"
+		},
 		"callingCode": ["268"],
 		"capital": ["Lobamba"],
 		"altSpellings": ["SZ", "weSwatini", "Swatini", "Ngwane", "Kingdom of Swaziland", "Umbuso waseSwatini"],
@@ -11318,7 +11753,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["ANG"],
+		"currency": {
+			"ANG": "Netherlands Antillean Guilder"
+		},
 		"callingCode": ["1721"],
 		"capital": ["Philipsburg"],
 		"altSpellings": ["SX", "Sint Maarten (Dutch part)"],
@@ -11377,7 +11814,9 @@
 		"cioc": "SEY",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SCR"],
+		"currency": {
+			"SCR": "Seychelles Rupee"
+		},
 		"callingCode": ["248"],
 		"capital": ["Victoria"],
 		"altSpellings": ["SC", "Republic of Seychelles", "Repiblik Sesel", "R\u00e9publique des Seychelles"],
@@ -11429,7 +11868,9 @@
 		"cioc": "SYR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SYP"],
+		"currency": {
+			"SYP": "Syrian Pound"
+		},
 		"callingCode": ["963"],
 		"capital": ["Damascus"],
 		"altSpellings": ["SY", "Syrian Arab Republic", "Al-Jumh\u016br\u012byah Al-\u02bbArab\u012byah As-S\u016br\u012byah"],
@@ -11479,7 +11920,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["1649"],
 		"capital": ["Cockburn Town"],
 		"altSpellings": ["TC"],
@@ -11533,7 +11976,9 @@
 		"cioc": "CHA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XAF"],
+		"currency": {
+			"XAF": "Central African CFA franc"
+		},
 		"callingCode": ["235"],
 		"capital": ["N'Djamena"],
 		"altSpellings": ["TD", "Tchad", "Republic of Chad", "R\u00e9publique du Tchad"],
@@ -11585,7 +12030,9 @@
 		"cioc": "TOG",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XOF"],
+		"currency": {
+			"XOF": "West African CFA franc"
+		},
 		"callingCode": ["228"],
 		"capital": ["Lom\u00e9"],
 		"altSpellings": ["TG", "Togolese", "Togolese Republic", "R\u00e9publique Togolaise"],
@@ -11635,7 +12082,9 @@
 		"cioc": "THA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["THB"],
+		"currency": {
+			"THB": "Thai Baht"
+		},
 		"callingCode": ["66"],
 		"capital": ["Bangkok"],
 		"altSpellings": ["TH", "Prathet", "Thai", "Kingdom of Thailand", "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22", "Ratcha Anachak Thai"],
@@ -11689,7 +12138,9 @@
 		"cioc": "TJK",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["TJS"],
+		"currency": {
+			"TJS": "Tajikistani Somoni"
+		},
 		"callingCode": ["992"],
 		"capital": ["Dushanbe"],
 		"altSpellings": ["TJ", "To\u00e7ikiston", "Republic of Tajikistan", "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d", "\u00c7umhuriyi To\u00e7ikiston"],
@@ -11748,7 +12199,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["NZD"],
+		"currency": {
+			"NZD": "New Zealand Dollar"
+		},
 		"callingCode": ["690"],
 		"capital": ["Fakaofo"],
 		"altSpellings": ["TK"],
@@ -11804,7 +12257,9 @@
 		"cioc": "TKM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["TMT"],
+		"currency": {
+			"TMT": "Turkmenistan New Manat"
+		},
 		"callingCode": ["993"],
 		"capital": ["Ashgabat"],
 		"altSpellings": ["TM"],
@@ -11859,7 +12314,9 @@
 		"cioc": "TLS",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["670"],
 		"capital": ["Dili"],
 		"altSpellings": ["TL", "East Timor", "Democratic Republic of Timor-Leste", "Rep\u00fablica Democr\u00e1tica de Timor-Leste", "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste", "Tim\u00f3r Lorosa'e", "Timor Lorosae"],
@@ -11914,7 +12371,9 @@
 		"cioc": "TGA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["TOP"],
+		"currency": {
+			"TOP": "Tongan Pa'anga"
+		},
 		"callingCode": ["676"],
 		"capital": ["Nuku'alofa"],
 		"altSpellings": ["TO"],
@@ -11965,7 +12424,9 @@
 		"cioc": "TTO",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["TTD"],
+		"currency": {
+			"TTD": "Trinidad and Tobago Dollar"
+		},
 		"callingCode": ["1868"],
 		"capital": ["Port of Spain"],
 		"altSpellings": ["TT", "Republic of Trinidad and Tobago"],
@@ -12015,7 +12476,9 @@
 		"cioc": "TUN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["TND"],
+		"currency": {
+			"TND": "Tunisian Dinar"
+		},
 		"callingCode": ["216"],
 		"capital": ["Tunis"],
 		"altSpellings": ["TN", "Republic of Tunisia", "al-Jumh\u016briyyah at-T\u016bnisiyyah"],
@@ -12065,7 +12528,9 @@
 		"cioc": "TUR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["TRY"],
+		"currency": {
+			"TRY": "Turkish Lira"
+		},
 		"callingCode": ["90"],
 		"capital": ["Ankara"],
 		"altSpellings": ["TR", "Turkiye", "Republic of Turkey", "T\u00fcrkiye Cumhuriyeti"],
@@ -12119,7 +12584,9 @@
 		"cioc": "TUV",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["AUD"],
+		"currency": {
+			"AUD": "Australian Dollar"
+		},
 		"callingCode": ["688"],
 		"capital": ["Funafuti"],
 		"altSpellings": ["TV"],
@@ -12170,7 +12637,9 @@
 		"cioc": "TPE",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["TWD"],
+		"currency": {
+			"TWD": "New Taiwan Dollar"
+		},
 		"callingCode": ["886"],
 		"capital": ["Taipei"],
 		"altSpellings": ["TW", "T\u00e1iw\u0101n", "Republic of China", "\u4e2d\u83ef\u6c11\u570b", "Zh\u014dnghu\u00e1 M\u00edngu\u00f3", "Chinese Taipei"],
@@ -12223,7 +12692,9 @@
 		"cioc": "TAN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["TZS"],
+		"currency": {
+			"TZS": "Tanzanian Shilling"
+		},
 		"callingCode": ["255"],
 		"capital": ["Dodoma"],
 		"altSpellings": ["TZ", "Tanzania, United Republic of", "United Republic of Tanzania", "Jamhuri ya Muungano wa Tanzania"],
@@ -12278,7 +12749,9 @@
 		"cioc": "UGA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["UGX"],
+		"currency": {
+			"UGX": "Uganda Shilling"
+		},
 		"callingCode": ["256"],
 		"capital": ["Kampala"],
 		"altSpellings": ["UG", "Republic of Uganda", "Jamhuri ya Uganda"],
@@ -12329,7 +12802,9 @@
 		"cioc": "UKR",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["UAH"],
+		"currency": {
+			"UAH": "Ukrainian Hryvnia"
+		},
 		"callingCode": ["380"],
 		"capital": ["Kyiv"],
 		"altSpellings": ["UA", "Ukrayina"],
@@ -12379,7 +12854,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": [],
 		"capital": [""],
 		"altSpellings": ["UM"],
@@ -12429,7 +12906,9 @@
 		"cioc": "URU",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["UYU"],
+		"currency": {
+			"UYU": "Uruguayan Peso"
+		},
 		"callingCode": ["598"],
 		"capital": ["Montevideo"],
 		"altSpellings": ["UY", "Oriental Republic of Uruguay", "Rep\u00fablica Oriental del Uruguay"],
@@ -12479,7 +12958,9 @@
 		"cioc": "USA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["1"],
 		"capital": ["Washington D.C."],
 		"altSpellings": ["US", "USA", "United States of America"],
@@ -12533,7 +13014,9 @@
 		"cioc": "UZB",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["UZS"],
+		"currency": {
+			"UZS": "Uzbekistan Sum"
+		},
 		"callingCode": ["998"],
 		"capital": ["Tashkent"],
 		"altSpellings": ["UZ", "Republic of Uzbekistan", "O\u2018zbekiston Respublikasi", "\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u0438"],
@@ -12588,7 +13071,9 @@
 		"cioc": "",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["EUR"],
+		"currency": {
+			"EUR": "Euro"
+		},
 		"callingCode": ["3906698", "379"],
 		"capital": ["Vatican City"],
 		"altSpellings": ["VA", "Holy See (Vatican City State)", "Vatican City State", "Stato della Citt\u00e0 del Vaticano"],
@@ -12639,7 +13124,9 @@
 		"cioc": "VIN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["XCD"],
+		"currency": {
+			"XCD": "East Caribbean Dollar"
+		},
 		"callingCode": ["1784"],
 		"capital": ["Kingstown"],
 		"altSpellings": ["VC"],
@@ -12689,7 +13176,9 @@
 		"cioc": "VEN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["VEF"],
+		"currency": {
+			"VEF": "Venezuelan Bol\u00edvar"
+		},
 		"callingCode": ["58"],
 		"capital": ["Caracas"],
 		"altSpellings": ["VE", "Bolivarian Republic of Venezuela", "Venezuela, Bolivarian Republic of", "Rep\u00fablica Bolivariana de Venezuela"],
@@ -12739,7 +13228,9 @@
 		"cioc": "IVB",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["1284"],
 		"capital": ["Road Town"],
 		"altSpellings": ["VG", "Virgin Islands, British"],
@@ -12789,7 +13280,9 @@
 		"cioc": "ISV",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["USD"],
+		"currency": {
+			"USD": "United States dollar"
+		},
 		"callingCode": ["1340"],
 		"capital": ["Charlotte Amalie"],
 		"altSpellings": ["VI", "Virgin Islands, U.S."],
@@ -12839,7 +13332,9 @@
 		"cioc": "VIE",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["VND"],
+		"currency": {
+			"VND": "Vietnamese Dong"
+		},
 		"callingCode": ["84"],
 		"capital": ["Hanoi"],
 		"altSpellings": ["VN", "Socialist Republic of Vietnam", "C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam", "Viet Nam"],
@@ -12897,7 +13392,9 @@
 		"cioc": "VAN",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["VUV"],
+		"currency": {
+			"VUV": "Vanuatu Vatu"
+		},
 		"callingCode": ["678"],
 		"capital": ["Port Vila"],
 		"altSpellings": ["VU", "Republic of Vanuatu", "Ripablik blong Vanuatu", "R\u00e9publique de Vanuatu"],
@@ -12949,7 +13446,9 @@
 		"cioc": "",
 		"independent": false,
 		"status": "officially-assigned",
-		"currency": ["XPF"],
+		"currency": {
+			"XPF": "CFP Franc"
+		},
 		"callingCode": ["681"],
 		"capital": ["Mata-Utu"],
 		"altSpellings": ["WF", "Territory of the Wallis and Futuna Islands", "Territoire des \u00eeles Wallis et Futuna"],
@@ -13003,7 +13502,9 @@
 		"cioc": "SAM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["WST"],
+		"currency": {
+			"WST": "Samoan Tala"
+		},
 		"callingCode": ["685"],
 		"capital": ["Apia"],
 		"altSpellings": ["WS", "Independent State of Samoa", "Malo Sa\u02bboloto Tuto\u02bbatasi o S\u0101moa"],
@@ -13054,7 +13555,9 @@
 		"cioc": "YEM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["YER"],
+		"currency": {
+			"YER": "Yemeni Rial"
+		},
 		"callingCode": ["967"],
 		"capital": ["Sana'a"],
 		"altSpellings": ["YE", "Yemeni Republic", "al-Jumh\u016briyyah al-Yamaniyyah"],
@@ -13144,7 +13647,9 @@
 		"cioc": "RSA",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["ZAR"],
+		"currency": {
+			"ZAR": "South African Rand"
+		},
 		"callingCode": ["27"],
 		"capital": ["Pretoria", "Bloemfontein", "Cape Town"],
 		"altSpellings": ["ZA", "RSA", "Suid-Afrika", "Republic of South Africa"],
@@ -13204,7 +13709,9 @@
 		"cioc": "ZAM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["ZMW"],
+		"currency": {
+			"ZMW": "Zambian Kwacha"
+		},
 		"callingCode": ["260"],
 		"capital": ["Lusaka"],
 		"altSpellings": ["ZM", "Republic of Zambia"],
@@ -13310,7 +13817,9 @@
 		"cioc": "ZIM",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["ZWL"],
+		"currency": {
+			"ZWL": "Zimbabwe Dollar"
+		},
 		"callingCode": ["263"],
 		"capital": ["Harare"],
 		"altSpellings": ["ZW", "Republic of Zimbabwe"],
