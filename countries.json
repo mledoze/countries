@@ -11495,7 +11495,8 @@
 			"spa": {"official": "Reino de eSwatini", "common": "Suazilandia"},
 			"fin": {"official": "Swazimaan kuningaskunta", "common": "Swazimaa"},
 			"est": {"official": "eSwatini Kuningriik", "common": "Svaasimaa"},
-      "pol": {"official": "Kr\u00F3lestwo Suazi", "common": "Suazi"}
+			"pol": {"official": "Kr\u00F3lestwo Suazi", "common": "Suazi"},
+			"zho": {"official": "\u65AF\u5A01\u58EB\u5170\u738B\u56FD", "common": "\u65AF\u5A01\u58EB\u5170"}
 		},
 		"latlng": [-26.5, 31.5],
 		"demonym": "Swazi",
