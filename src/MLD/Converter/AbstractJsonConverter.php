@@ -12,10 +12,11 @@ abstract class AbstractJsonConverter extends AbstractConverter
 
     /**
      * Special case for empty arrays that should be encoded as empty JSON objects
+     * @param array $countries
      */
-    protected function processEmptyArrays()
+    protected function processEmptyArrays(array $countries)
     {
-        array_walk($this->countries, function (&$country) {
+        array_walk($countries, function (&$country) {
             if (isset($country[Fields::LANGUAGES]) && empty($country[Fields::LANGUAGES])) {
                 $country[Fields::LANGUAGES] = new \stdClass();
             }

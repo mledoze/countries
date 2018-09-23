@@ -15,7 +15,7 @@ class JsonConverter extends AbstractJsonConverter
     public function convert(array $countries)
     {
         // TODO move this method in the parent class and create an abstract protected method to JSON encode the countries
-        $this->processEmptyArrays();
+        $this->processEmptyArrays($countries);
         return preg_replace('@},{@', "},\n{", json_encode($countries) . "\n");
     }
 }

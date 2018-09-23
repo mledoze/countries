@@ -17,23 +17,21 @@ class Factory
      */
     public function create($format)
     {
-        $countries = [];
-        // TODO remove this $countries variables from all converters constructors
         switch ($format) {
             case Formats::CSV:
-                $converter = new CsvConverter($countries);
+                $converter = new CsvConverter();
                 break;
             case Formats::JSON:
-                $converter = new JsonConverter($countries);
+                $converter = new JsonConverter();
                 break;
             case Formats::JSON_UNESCAPED:
-                $converter = new JsonConverterUnicode($countries);
+                $converter = new JsonConverterUnicode();
                 break;
             case Formats::XML:
-                $converter = new XmlConverter($countries);
+                $converter = new XmlConverter();
                 break;
             case Formats::YAML:
-                $converter = new YamlConverter($countries);
+                $converter = new YamlConverter();
                 break;
             default:
                 throw new \InvalidArgumentException(sprintf('Unsupported format %s', $format));

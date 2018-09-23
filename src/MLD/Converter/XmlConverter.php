@@ -15,16 +15,12 @@ class XmlConverter extends AbstractConverter
      */
     private $domDocument;
 
-    /**
-     * @param array $countries
-     */
-    public function __construct(array $countries)
+    public function __construct()
     {
         $this->domDocument = new \DOMDocument('1.0', 'UTF-8');
         $this->formatOutput();
         $this->preserveWhiteSpace();
         $this->domDocument->appendChild($this->domDocument->createElement('countries'));
-        parent::__construct($countries);
     }
 
     /**

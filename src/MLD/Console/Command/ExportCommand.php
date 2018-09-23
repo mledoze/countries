@@ -40,7 +40,7 @@ class ExportCommand extends Command
     /**
      * @param string $inputFile Full path and filename of the input country data JSON file.
      * @param string $defaultOutputDirectory Full path to output directory for converted files.
-     * @param string|null $name
+     * @param string|null $name Name of the export command
      * @throws \Symfony\Component\Console\Exception\LogicException
      */
     public function __construct($inputFile, $defaultOutputDirectory, $name = 'convert')
@@ -129,8 +129,7 @@ class ExportCommand extends Command
             $this->saveConversion($filename, $conversionResult);
         }
 
-        $count = count($formats);
-        $output->writeln('Converted data for <info>' . count($countries) . '</info> countries into <info>' . $count . '</info> ' . ($count == 1 ? 'format.' : 'formats.'));
+        $this->printResult($output, $countries, $formats);
     }
 
     /**
