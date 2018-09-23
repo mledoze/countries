@@ -109,13 +109,13 @@ class ExportCommand extends Command
 
         foreach ($formats as $format) {
             if ($output->isVerbose()) {
-                $output->writeln('Converting to ' . $format);
+                $output->writeln(sprintf('Converting to %s', $format));
             }
 
             try {
                 $converter = $this->converterFactory->create($format);
             } catch (\InvalidArgumentException $exception) {
-                $output->writeln(sprintf("Skipping format '%s': %s", $format, $exception->getMessage()));
+                $output->writeln(sprintf('Skipping %s format: %s', $format, $exception->getMessage()));
                 continue;
             }
 
@@ -227,10 +227,9 @@ class ExportCommand extends Command
                 $output->writeln('Creating directory %s', $this->outputDirectory);
             }
             mkdir($this->outputDirectory);
-
-            // TODO maybe move this line after the if?
-            $this->outputDirectory = realpath($this->outputDirectory);
         }
+
+        $this->outputDirectory = realpath($this->outputDirectory);
     }
 
     /**

@@ -25,6 +25,26 @@ abstract class AbstractConverter implements ConverterInterface
     }
 
     /**
+     * @param array $input
+     * @param string $prefix
+     * @param string $keySeparator
+     * @return array
+     * TODO: handle single element arrays
+     */
+    protected function flatten(array $input, $prefix = '', $keySeparator = '.')
+    {
+        $result = [];
+        foreach ($input as $key => $value) {
+            if (is_array($value)) {
+                $result += $this->flatten($value, $prefix . $key . $keySeparator);
+            } else {
+                $result[$prefix . $key] = $value;
+            }
+        }
+        return $result;
+    }
+
+    /**
      * Recursively implode elements
      * @param array $input
      * @param string $glue

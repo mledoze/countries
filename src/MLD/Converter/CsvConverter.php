@@ -46,7 +46,8 @@ class CsvConverter extends AbstractConverter
      */
     private function buildHeadersLine(array $countries)
     {
-        return sprintf('"%s"', implode($this->glue, array_keys($countries[0])));
+        $firstEntry = $this->flatten($countries[0]);
+        return sprintf('"%s"', implode($this->glue, array_keys($firstEntry)));
     }
 
     /**
@@ -57,7 +58,7 @@ class CsvConverter extends AbstractConverter
     {
         $lines = array_map(
             function ($country) {
-                return sprintf('"%s"', implode($this->glue, $this->convertArrays($country)));
+                return sprintf('"%s"', implode($this->glue, $this->flatten($country)));
             },
             $countries
         );
