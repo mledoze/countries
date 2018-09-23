@@ -3,6 +3,7 @@
 namespace MLD\Console\Command;
 
 use MLD\Converter\Factory;
+use MLD\Enum\ExportCommandOptions;
 use MLD\Enum\Formats;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -16,11 +17,6 @@ use Symfony\Component\Console\Output\OutputInterface;
 class ExportCommand extends Command
 {
     const BASE_OUTPUT_FILENAME = 'countries';
-
-    const OPTION_EXCLUDE_FIELD = 'exclude-field';
-    const OPTION_INCLUDE_FIELD = 'include-field';
-    const OPTION_FORMAT = 'format';
-    const OPTION_OUTPUT_DIR = 'output-dir';
 
     /**
      * @var string
@@ -60,28 +56,28 @@ class ExportCommand extends Command
         $this
             ->setDescription('Converts source country data to various output formats')
             ->addOption(
-                self::OPTION_EXCLUDE_FIELD,
+                ExportCommandOptions::EXCLUDE_FIELD,
                 'x',
                 InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
                 'If set, excludes top-level field with the given name from the output. Cannot be used with --include-field',
                 []
             )
             ->addOption(
-                self::OPTION_INCLUDE_FIELD,
+                ExportCommandOptions::INCLUDE_FIELD,
                 'i',
                 InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
                 'If set, include only these top-level fields with the given name from the output. Cannot be used with --exclude-field',
                 []
             )
             ->addOption(
-                self::OPTION_FORMAT,
+                ExportCommandOptions::FORMAT,
                 'f',
                 InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
                 'Output formats',
                 Formats::getAll()
             )
             ->addOption(
-                self::OPTION_OUTPUT_DIR,
+                ExportCommandOptions::OUTPUT_DIR,
                 null,
                 InputOption::VALUE_OPTIONAL | InputOption::VALUE_REQUIRED,
                 'Directory where you want to put output files',
@@ -109,7 +105,7 @@ class ExportCommand extends Command
         $countries = $this->filterFields($countries, $outputFields);
 
         /** @var array $formats */
-        $formats = $input->getOption(self::OPTION_FORMAT);
+        $formats = $input->getOption(ExportCommandOptions::FORMAT);
 
         foreach ($formats as $format) {
             if ($output->isVerbose()) {
@@ -161,8 +157,8 @@ class ExportCommand extends Command
     private function getOutputFields(InputInterface $input, array $countries)
     {
         $baseFields = array_keys(reset($countries));
-        $excludeFields = $input->getOption(self::OPTION_EXCLUDE_FIELD);
-        $includeFields = $input->getOption(self::OPTION_INCLUDE_FIELD);
+        $excludeFields = $input->getOption(ExportCommandOptions::EXCLUDE_FIELD);
+        $includeFields = $input->getOption(ExportCommandOptions::INCLUDE_FIELD);
 
         $outputFields = $baseFields;
         if (!empty($excludeFields)) {
@@ -260,6 +256,6 @@ class ExportCommand extends Command
      */
     private function setOutputDirectory(InputInterface $input)
     {
-        $this->outputDirectory = trim($input->getOption(self::OPTION_OUTPUT_DIR)) ?: $this->outputDirectory;
+        $this->outputDirectory = trim($input->getOption(ExportCommandOptions::OUTPUT_DIR)) ?: $this->outputDirectory;
     }
 }
