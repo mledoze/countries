@@ -3,7 +3,7 @@
 namespace MLD\Converter;
 
 /**
- * Class CsvConverter
+ * Converts countries data to CSV format
  */
 class CsvConverter extends AbstractConverter
 {
@@ -14,19 +14,14 @@ class CsvConverter extends AbstractConverter
     private $glue = '","';
 
     /**
-     * @var string
-     */
-    private $body = '';
-
-    /**
      * @param array $countries
      * @return string data converted into CSV
      */
     public function convert(array $countries)
     {
-        array_walk($countries, [$this, 'processCountry']);
-        $headers = '"' . implode($this->glue, array_keys($countries[0])) . '"';
-        return $headers . "\n" . $this->body;
+        $headers = $this->buildHeadersLine($countries);
+        $body = $this->buildBody($countries);
+        return $headers . PHP_EOL . $body;
     }
 
     /**
@@ -46,11 +41,26 @@ class CsvConverter extends AbstractConverter
     }
 
     /**
-     * Processes a country.
-     * @param $array
+     * @param array $countries
+     * @return string
      */
-    private function processCountry(&$array)
+    private function buildHeadersLine(array $countries)
     {
-        $this->body .= '"' . implode($this->glue, $this->convertArrays($array)) . "\"\n";
+        return sprintf('"%s"', implode($this->glue, array_keys($countries[0])));
+    }
+
+    /**
+     * @param array $countries
+     * @return string
+     */
+    private function buildBody(array $countries)
+    {
+        $lines = array_map(
+            function ($country) {
+                return sprintf('"%s"', implode($this->glue, $this->convertArrays($country)));
+            },
+            $countries
+        );
+        return implode(PHP_EOL, $lines) . PHP_EOL;
     }
 }
