@@ -52,13 +52,13 @@ class XmlConverter extends AbstractConverter
     }
 
     /**
-     * @param $array
+     * @param array $country
      */
-    private function processCountry(&$array)
+    private function processCountry(array $country)
     {
         $countryNode = $this->domDocument->createElement('country');
-        $array = $this->convertArrays($array);
-        array_walk($array, function ($value, $key) use ($countryNode) {
+        $country = $this->convertArrays($country);
+        array_walk($country, function ($value, $key) use ($countryNode) {
             $countryNode->setAttribute($key, $value);
         });
         $this->domDocument->documentElement->appendChild($countryNode);

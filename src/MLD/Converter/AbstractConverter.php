@@ -14,11 +14,14 @@ abstract class AbstractConverter implements ConverterInterface
      * @param string $glue
      * @return array
      */
-    protected function convertArrays(array &$input, $glue = ',')
+    protected function convertArrays(array $input, $glue = ',')
     {
-        return array_map(function ($value) use ($glue) {
-            return is_array($value) ? $this->recursiveImplode($value, $glue) : $value;
-        }, $input);
+        return array_map(
+            function ($value) use ($glue) {
+                return is_array($value) ? $this->recursiveImplode($value, $glue) : $value;
+            },
+            $input
+        );
     }
 
     /**
@@ -33,11 +36,15 @@ abstract class AbstractConverter implements ConverterInterface
         $input = array_filter($input, function ($entry) {
             return $entry !== '';
         });
-        array_walk($input, function (&$value) use ($glue) {
-            if (is_array($value)) {
-                $value = $this->recursiveImplode($value, $glue);
-            }
-        });
+        $input = array_map(
+            function ($value) use ($glue) {
+                if (is_array($value)) {
+                    $value = $this->recursiveImplode($value, $glue);
+                }
+                return $value;
+            },
+            $input
+        );
         return implode($glue, $input);
     }
 }
