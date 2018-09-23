@@ -3,19 +3,15 @@
 namespace MLD\Converter;
 
 /**
- * Class JsonConverter
+ * Convert countries data to JSON format
  */
 class JsonConverter extends AbstractJsonConverter
 {
-
     /**
-     * @param array $countries
-     * @return string minified JSON, one country per line
+     * @inheritDoc
      */
-    public function convert(array $countries)
+    protected function jsonEncode(array $countries)
     {
-        // TODO move this method in the parent class and create an abstract protected method to JSON encode the countries
-        $this->processEmptyArrays($countries);
-        return preg_replace('@},{@', "},\n{", json_encode($countries) . "\n");
+        return json_encode($countries);
     }
 }

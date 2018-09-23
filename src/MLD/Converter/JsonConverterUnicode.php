@@ -3,18 +3,15 @@
 namespace MLD\Converter;
 
 /**
- * Class JsonConverterUnicode
+ * Convert countries data to JSON format with unescaped characters
  */
-class JsonConverterUnicode extends JsonConverter
+class JsonConverterUnicode extends AbstractJsonConverter
 {
-
     /**
-     * @param array $countries
-     * @return string minified JSON with unescaped characters
+     * @inheritdoc
      */
-    public function convert(array $countries)
+    protected function jsonEncode(array $countries)
     {
-        $this->processEmptyArrays($countries);
-        return preg_replace('@},{@', "},\n{", json_encode($countries, JSON_UNESCAPED_UNICODE) . "\n");
+        return json_encode($countries, JSON_UNESCAPED_UNICODE);
     }
 }
