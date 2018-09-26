@@ -8,7 +8,8 @@
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/mledoze/countries.svg)](https://packagist.org/packages/mledoze/countries)
 
 ## Countries data
-This repository contains lists of world countries in JSON, CSV and XML. Each line contains the country:
+This repository contains lists of world countries, as defined by [ISO Standard 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1),
+in JSON, CSV and XML. Each line contains the country:
 
  - `name`
  	 - `common` - common name in english
