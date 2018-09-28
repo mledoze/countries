@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Console\Command;
 
 use MLD\Converter\Factory;
@@ -16,7 +18,7 @@ use Symfony\Component\Console\Output\OutputInterface;
  */
 class ExportCommand extends Command
 {
-    const BASE_OUTPUT_FILENAME = 'countries';
+    private const BASE_OUTPUT_FILENAME = 'countries';
 
     /**
      * @var string
@@ -133,7 +135,7 @@ class ExportCommand extends Command
      * @param array $outputFields
      * @return array
      */
-    private function filterFields(array $countries, array $outputFields)
+    private function filterFields(array $countries, array $outputFields): array
     {
         if (empty($outputFields)) {
             return $countries;
@@ -154,7 +156,7 @@ class ExportCommand extends Command
      * @return array
      * @throws \Symfony\Component\Console\Exception\InvalidArgumentException
      */
-    private function getOutputFields(InputInterface $input, array $countries)
+    private function getOutputFields(InputInterface $input, array $countries): array
     {
         $baseFields = array_keys(reset($countries));
         $excludeFields = $input->getOption(ExportCommandOptions::EXCLUDE_FIELD);
@@ -173,7 +175,7 @@ class ExportCommand extends Command
     /**
      * @return Factory
      */
-    private function createConverterFactory()
+    private function createConverterFactory(): Factory
     {
         return new Factory();
     }
@@ -181,7 +183,7 @@ class ExportCommand extends Command
     /**
      * @return array
      */
-    private function decodeInputFile()
+    private function decodeInputFile(): array
     {
         return json_decode(file_get_contents($this->inputFile), true);
     }
@@ -191,7 +193,7 @@ class ExportCommand extends Command
      * @param array $countries
      * @param array $formats
      */
-    private function printResult(OutputInterface $output, array $countries, array $formats)
+    private function printResult(OutputInterface $output, array $countries, array $formats): void
     {
         $formatsCount = count($formats);
         $output->writeln(
@@ -211,7 +213,7 @@ class ExportCommand extends Command
      * @param string $filename
      * @param string $conversionResult
      */
-    private function saveConversion($filename, $conversionResult)
+    private function saveConversion($filename, $conversionResult): void
     {
         $outputFile = $this->outputDirectory . DIRECTORY_SEPARATOR . $filename;
         file_put_contents($outputFile, $conversionResult);
@@ -220,7 +222,7 @@ class ExportCommand extends Command
     /**
      * @param OutputInterface $output
      */
-    private function createOutputDirectory(OutputInterface $output)
+    private function createOutputDirectory(OutputInterface $output): void
     {
         if (is_dir($this->outputDirectory) === false) {
             if ($output->isVerbose()) {
@@ -236,7 +238,7 @@ class ExportCommand extends Command
      * @param string $format
      * @return string
      */
-    private function generateFilename($format)
+    private function generateFilename($format): string
     {
         $baseFilename = self::BASE_OUTPUT_FILENAME;
 
@@ -253,8 +255,8 @@ class ExportCommand extends Command
      * @param InputInterface $input
      * @throws \Symfony\Component\Console\Exception\InvalidArgumentException
      */
-    private function setOutputDirectory(InputInterface $input)
+    private function setOutputDirectory(InputInterface $input): void
     {
-        $this->outputDirectory = trim($input->getOption(ExportCommandOptions::OUTPUT_DIR)) ?: $this->outputDirectory;
+        $this->outputDirectory = trim($input->getOption(ExportCommandOptions::OUTPUT_DIR) ?? $this->outputDirectory);
     }
 }

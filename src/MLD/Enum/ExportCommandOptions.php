@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Enum;
 
 /**
@@ -8,8 +10,8 @@ namespace MLD\Enum;
 class ExportCommandOptions
 {
 
-    const OUTPUT_DIR = 'output-dir';
-    const INCLUDE_FIELD = 'include-field';
-    const EXCLUDE_FIELD = 'exclude-field';
-    const FORMAT = 'format';
+    public const OUTPUT_DIR = 'output-dir';
+    public const INCLUDE_FIELD = 'include-field';
+    public const EXCLUDE_FIELD = 'exclude-field';
+    public const FORMAT = 'format';
 }

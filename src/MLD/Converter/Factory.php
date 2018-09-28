@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Converter;
 
 use MLD\Enum\Formats;
@@ -15,7 +17,7 @@ class Factory
      * @return ConverterInterface
      * @throws \InvalidArgumentException
      */
-    public function create($format)
+    public function create($format): ConverterInterface
     {
         switch ($format) {
             case Formats::CSV:

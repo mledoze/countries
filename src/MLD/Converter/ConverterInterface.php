@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Converter;
 
 /**
@@ -13,5 +15,5 @@ interface ConverterInterface
      * @param array $countries
      * @return string
      */
-    public function convert(array $countries);
+    public function convert(array $countries): string;
 }

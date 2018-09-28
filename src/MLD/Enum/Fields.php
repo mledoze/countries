@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Enum;
 
 /**
@@ -7,26 +9,26 @@ namespace MLD\Enum;
  */
 class Fields
 {
-    const ALT_SPELLINGS = 'altSpellings';
-    const AREA = 'area';
-    const BORDERS = 'borders';
-    const CALLING_CODE = 'callingCode';
-    const CAPITAL = 'capital';
-    const CCA2 = 'cca2';
-    const CCA3 = 'cca3';
-    const CCN3 = 'ccn3';
-    const CIOC = 'cioc';
-    const CURRENCY = 'currency';
-    const DEMONYM = 'demonym';
-    const FLAG = 'flag';
-    const INDEPENDENT = 'independent';
-    const LANDLOCKED = 'landlocked';
-    const LANGUAGES = 'languages';
-    const LAT_LNG = 'latlng';
-    const NAME = 'name';
-    const REGION = 'region';
-    const STATUS = 'status';
-    const SUBREGION = 'subregion';
-    const TLD = 'tld';
-    const TRANSLATIONS = 'translations';
+    public const ALT_SPELLINGS = 'altSpellings';
+    public const AREA = 'area';
+    public const BORDERS = 'borders';
+    public const CALLING_CODE = 'callingCode';
+    public const CAPITAL = 'capital';
+    public const CCA2 = 'cca2';
+    public const CCA3 = 'cca3';
+    public const CCN3 = 'ccn3';
+    public const CIOC = 'cioc';
+    public const CURRENCY = 'currency';
+    public const DEMONYM = 'demonym';
+    public const FLAG = 'flag';
+    public const INDEPENDENT = 'independent';
+    public const LANDLOCKED = 'landlocked';
+    public const LANGUAGES = 'languages';
+    public const LAT_LNG = 'latlng';
+    public const NAME = 'name';
+    public const REGION = 'region';
+    public const STATUS = 'status';
+    public const SUBREGION = 'subregion';
+    public const TLD = 'tld';
+    public const TRANSLATIONS = 'translations';
 }

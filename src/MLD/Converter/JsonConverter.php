@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Converter;
 
 /**
@@ -10,7 +12,7 @@ class JsonConverter extends AbstractJsonConverter
     /**
      * @inheritDoc
      */
-    protected function jsonEncode(array $countries)
+    protected function jsonEncode(array $countries): string
     {
         return json_encode($countries);
     }

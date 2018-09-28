@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Converter;
 
 /**
@@ -14,10 +16,9 @@ class CsvConverter extends AbstractConverter
     private $glue = '","';
 
     /**
-     * @param array $countries
-     * @return string data converted into CSV
+     * @inheritdoc
      */
-    public function convert(array $countries)
+    public function convert(array $countries): string
     {
         $headers = $this->buildHeadersLine($countries);
         $body = $this->buildBody($countries);
@@ -28,7 +29,7 @@ class CsvConverter extends AbstractConverter
      * @param array $countries
      * @return string
      */
-    private function buildHeadersLine(array $countries)
+    private function buildHeadersLine(array $countries): string
     {
         $firstEntry = $this->flatten($countries[0]);
         return sprintf('"%s"', implode($this->glue, array_keys($firstEntry)));
@@ -38,7 +39,7 @@ class CsvConverter extends AbstractConverter
      * @param array $countries
      * @return string
      */
-    private function buildBody(array $countries)
+    private function buildBody(array $countries): string
     {
         $lines = array_map(
             function ($country) {

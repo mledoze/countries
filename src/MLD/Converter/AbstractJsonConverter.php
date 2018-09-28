@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Converter;
 
 use MLD\Enum\Fields;
@@ -11,10 +13,9 @@ abstract class AbstractJsonConverter extends AbstractConverter
 {
 
     /**
-     * @param array $countries
-     * @return string
+     * @inheritdoc
      */
-    public function convert(array $countries)
+    public function convert(array $countries): string
     {
         $countries = $this->processEmptyArrays($countries);
         return preg_replace(
@@ -29,14 +30,14 @@ abstract class AbstractJsonConverter extends AbstractConverter
      * @param array $countries
      * @return string
      */
-    abstract protected function jsonEncode(array $countries);
+    abstract protected function jsonEncode(array $countries): string;
 
     /**
      * Special case for empty arrays that should be encoded as empty JSON objects
      * @param array $countries
      * @return array
      */
-    protected function processEmptyArrays(array $countries)
+    protected function processEmptyArrays(array $countries): array
     {
         return array_map(
             function ($country) {
