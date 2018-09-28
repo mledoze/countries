@@ -25,22 +25,6 @@ class CsvConverter extends AbstractConverter
     }
 
     /**
-     * @return string
-     */
-    public function getGlue()
-    {
-        return $this->glue;
-    }
-
-    /**
-     * @param string $glue
-     */
-    public function setGlue($glue)
-    {
-        $this->glue = $glue;
-    }
-
-    /**
      * @param array $countries
      * @return string
      */

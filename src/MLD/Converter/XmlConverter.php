@@ -17,10 +17,7 @@ class XmlConverter extends AbstractConverter
 
     public function __construct()
     {
-        $this->domDocument = new \DOMDocument('1.0', 'UTF-8');
-        $this->formatOutput();
-        $this->preserveWhiteSpace();
-        $this->domDocument->appendChild($this->domDocument->createElement('countries'));
+        $this->_initializeDomDocument();
     }
 
     /**
@@ -33,22 +30,12 @@ class XmlConverter extends AbstractConverter
         return $this->domDocument->saveXML();
     }
 
-    /**
-     * @param bool $formatOutput
-     * @see \DOMDocument::$formatOutput
-     */
-    public function formatOutput($formatOutput = true)
+    private function _initializeDomDocument()
     {
-        $this->domDocument->formatOutput = $formatOutput;
-    }
-
-    /**
-     * @param bool $preserveWhiteSpace
-     * @see \DOMDocument::$preserveWhiteSpace
-     */
-    public function preserveWhiteSpace($preserveWhiteSpace = false)
-    {
-        $this->domDocument->preserveWhiteSpace = $preserveWhiteSpace;
+        $this->domDocument = new \DOMDocument('1.0', 'UTF-8');
+        $this->domDocument->formatOutput = true;
+        $this->domDocument->preserveWhiteSpace = false;
+        $this->domDocument->appendChild($this->domDocument->createElement('countries'));
     }
 
     /**
@@ -57,7 +44,7 @@ class XmlConverter extends AbstractConverter
     private function processCountry(array $country)
     {
         $countryNode = $this->domDocument->createElement('country');
-        $country = $this->convertArrays($country);
+        $country = $this->flatten($country);
         array_walk($country, function ($value, $key) use ($countryNode) {
             $countryNode->setAttribute($key, $value);
         });
