@@ -1,12 +1,12 @@
 function lintJsonFiles() {
-  for file in $1
+  for f in $1
   do
-    lintJson ${file}
+    lintJson ${f}
   done
 }
 
 function lintJson() {
-  echo "--> linting JSON file $file"
+  echo "--> linting JSON file $1"
   jsonlint --quiet --compact $1
 }
 
