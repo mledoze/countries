@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 function lintJsonFiles() {
   for file in $1
   do
