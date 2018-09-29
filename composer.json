@@ -27,5 +27,9 @@
   "autoload": {
 	"psr-4": {"MLD\\": "src/MLD"}
   },
-  "bin": ["countries.php"]
+  "bin": ["countries.php"],
+  "scripts": {
+	"run": "php countries.php convert",
+	"test": "phpunit"
+  }
 }
