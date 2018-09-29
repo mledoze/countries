@@ -1,14 +1,15 @@
-function lintAllJSON() {
-  for f in $1
+#!/usr/bin/env bash
+function lintJsonFiles() {
+  for file in $1
   do
-    lintJSON $f
+    lintJson ${file}
   done
 }
 
-function lintJSON() {
-  echo "--> lint json file $f"
+function lintJson() {
+  echo "--> linting JSON file $file"
   jsonlint --quiet --compact $1
 }
 
-lintAllJSON "*.json"
-lintAllJSON "data/*.json"
+lintJsonFiles "*.json"
+lintJsonFiles "data/*.json"
