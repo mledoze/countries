@@ -1,15 +1,18 @@
 language: php
 
-sudo: false
-
 php:
   - 7.2
 
 install:
-  - npm install -g jsonlint
-  - composer install
+  - travis_retry npm install --global jsonlint
+  - travis_retry composer self-update
+  - travis_retry composer install --no-interaction --no-suggest
 
 script:
-  - ./ci/test.sh
-  - php countries.php convert
+  - ./ci/lint.sh
+  - composer run
+  - composer test -- --coverage-clover=coverage.xml
   - ./vendor/bin/phpunit
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)

@@ -29,7 +29,7 @@
   },
   "bin": ["countries.php"],
   "scripts": {
-	"run": "php countries.php convert",
+	"run": "@php countries.php convert",
 	"test": "phpunit"
   }
 }
