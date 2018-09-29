@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLDTests\Converter;
 
 use MLD\Converter\CsvConverter;
@@ -38,6 +40,14 @@ class FactoryTest extends TestCase
     {
         $converter = $this->_factory->create($format);
         $this->assertInstanceOf($expectedConverterClass, $converter);
+    }
+
+    /**
+     * @expectedException \InvalidArgumentException
+     */
+    public function testCreateThrowsInvalidArgumentExceptionWhenFormatIsInvalid(): void
+    {
+        $this->_factory->create('invalid_format');
     }
 
     /**
