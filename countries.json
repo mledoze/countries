@@ -5622,7 +5622,7 @@
 			"est": {"official": "Haiti Vabariik", "common": "Haiti"},
 			"zho": {"official": "\u6D77\u5730\u5171\u548C\u56FD", "common": "\u6D77\u5730"},
 			"pol": {"official": "Republika Haiti", "common": "Haiti"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0679\u06cc", "common": "\u06c1\u06cc\u0679\u06cc"}
 		},
 		"latlng": [19, -72.41666666],
 		"demonym": "Haitian",
@@ -5674,7 +5674,7 @@
 			"est": {"official": "Ungari", "common": "Ungari"},
 			"zho": {"official": "\u5308\u7259\u5229", "common": "\u5308\u7259\u5229"},
 			"pol": {"official": "W\u0119gry", "common": "W\u0119gry"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646", "common": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"}
 		},
 		"latlng": [47, 20],
 		"demonym": "Hungarian",
@@ -5726,7 +5726,7 @@
 			"est": {"official": "Indoneesia Vabariik", "common": "Indoneesia"},
 			"zho": {"official": "\u5370\u5EA6\u5C3C\u897F\u4E9A\u5171\u548C\u56FD", "common": "\u5370\u5EA6\u5C3C\u897F\u4E9A"},
 			"pol": {"official": "Republika Indonezji", "common": "Indonezja"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627", "common": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627"}
 		},
 		"latlng": [-5, 120],
 		"demonym": "Indonesian",
@@ -5783,7 +5783,7 @@
 			"est": {"official": "Mani saar", "common": "Mani saar"},
 			"zho": {"official": "\u9A6C\u6069\u5C9B", "common": "\u9A6C\u6069\u5C9B"},
 			"pol": {"official": "Wyspa Man", "common": "Wyspa Man"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646", "common": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646"}
 		},
 		"latlng": [54.25, -4.5],
 		"demonym": "Manx",
@@ -5845,7 +5845,7 @@
 			"est": {"official": "India Vabariik", "common": "India"},
 			"zho": {"official": "\u5370\u5EA6\u5171\u548C\u56FD", "common": "\u5370\u5EA6"},
 			"pol": {"official": "Republika Indii", "common": "Indie"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06be\u0627\u0631\u062a", "common": "\u0628\u06be\u0627\u0631\u062a"}
 		},
 		"latlng": [20, 77],
 		"demonym": "Indian",
@@ -5898,7 +5898,7 @@
 			"est": {"official": "Briti India ookeani ala", "common": "Briti India ookeani ala"},
 			"zho": {"official": "\u82F1\u5C5E\u5370\u5EA6\u6D0B\u9886\u5730", "common": "\u82F1\u5C5E\u5370\u5EA6\u6D0B\u9886\u5730"},
 			"pol": {"official": "Brytyjskie Terytorium Oceanu Indyjskiego", "common": "Brytyjskie Terytorium Oceanu Indyjskiego"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1", "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1"}
 		},
 		"latlng": [-6, 71.5],
 		"demonym": "Indian",
@@ -5955,7 +5955,7 @@
 			"est": {"official": "Iirimaa", "common": "Iirimaa"},
 			"zho": {"official": "\u7231\u5C14\u5170\u5171\u548C\u56FD", "common": "\u7231\u5C14\u5170"},
 			"pol": {"official": "Republika Irlandii", "common": "Irlandia"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688"}
 		},
 		"latlng": [53, -8],
 		"demonym": "Irish",
@@ -6007,7 +6007,7 @@
 			"est": {"official": "Iraani Islamivabariik", "common": "Iraan"},
 			"zho": {"official": "\u4F0A\u6717\u4F0A\u65AF\u5170\u5171\u548C\u56FD", "common": "\u4F0A\u6717"},
 			"pol": {"official": "Islamska Republika Iranu", "common": "Iran"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0631\u0627\u0646", "common": "\u0627\u06cc\u0631\u0627\u0646"}
 		},
 		"latlng": [32, 53],
 		"demonym": "Iranian",
@@ -6069,7 +6069,7 @@
 			"est": {"official": "Iraagi Vabariik", "common": "Iraak"},
 			"zho": {"official": "\u4F0A\u62C9\u514B\u5171\u548C\u56FD", "common": "\u4F0A\u62C9\u514B"},
 			"pol": {"official": "Republika Iraku", "common": "Irak"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0639\u0631\u0627\u0642", "common": "\u0639\u0631\u0627\u0642"}
 		},
 		"latlng": [33, 44],
 		"demonym": "Iraqi",
@@ -6121,7 +6121,7 @@
 			"est": {"official": "Islandi Vabariik", "common": "Island"},
 			"zho": {"official": "\u51B0\u5C9B", "common": "\u51B0\u5C9B"},
 			"pol": {"official": "Republika Islandii", "common": "Islandia"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688", "common": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688"}
 		},
 		"latlng": [65, -18],
 		"demonym": "Icelander",
@@ -6178,7 +6178,7 @@
 			"est": {"official": "Iisraeli Riik", "common": "Iisrael"},
 			"zho": {"official": "\u4EE5\u8272\u5217\u56FD", "common": "\u4EE5\u8272\u5217"},
 			"pol": {"official": "Pa\u0144stwo Izrael", "common": "Izrael"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644", "common": "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"}
 		},
 		"latlng": [31.47, 35.13],
 		"demonym": "Israeli",
@@ -6230,7 +6230,7 @@
 			"est": {"official": "Itaalia Vabariik", "common": "Itaalia"},
 			"zho": {"official": "\u610F\u5927\u5229\u5171\u548C\u56FD", "common": "\u610F\u5927\u5229"},
 			"pol": {"official": "Republika W\u0142oska", "common": "W\u0142ochy"},
-			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"}
+			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0637\u0627\u0644\u06cc\u06c1", "common": "\u0627\u0637\u0627\u0644\u06cc\u06c1"}
 		},
 		"latlng": [42.83333333, 12.83333333],
 		"demonym": "Italian",
