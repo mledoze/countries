@@ -3,6 +3,9 @@
   "description": "List of world countries in JSON, CSV, XML and Yaml",
   "version": "2.0.0",
   "main": "index.js",
+  "files": [
+    "countries.json"
+  ],
   "keywords": ["countries", "world", "json", "csv", "xml", "yaml"],
   "author": {
 	"name": "Mohammed Le Doze",
