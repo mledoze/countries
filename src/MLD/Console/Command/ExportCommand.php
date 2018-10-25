@@ -195,15 +195,15 @@ class ExportCommand extends Command
      */
     private function printResult(OutputInterface $output, array $countries, array $formats): void
     {
-        $formatsCount = count($formats);
+        $formatsCount = \count($formats);
         $output->writeln(
             sprintf(
                 ngettext(
-                    '<info>Converted data for %d countries into %d format.</info>',
-                    '<info>Converted data for %d countries into %d formats.</info>',
+                    'Converted data for <info>%d</info> countries into <info>%d</info> format.',
+                    'Converted data for <info>%d</info> countries into <info>%d</info> formats.',
                     $formatsCount
                 ),
-                count($countries),
+                \count($countries),
                 $formatsCount
             )
         );
