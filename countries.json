@@ -6678,8 +6678,8 @@
 			"official": "Republic of Korea",
 			"native": {
 				"kor": {
-					"official": "\ud55c\uad6d",
-					"common": "\ub300\ud55c\ubbfc\uad6d"
+					"official": "\ub300\ud55c\ubbfc\uad6d",
+					"common": "\ud55c\uad6d"
 				}
 			}
 		},
@@ -6705,7 +6705,7 @@
 			"fra": {"official": "R\u00e9publique de Cor\u00e9e", "common": "Cor\u00e9e du Sud"},
 			"hrv": {"official": "Republika Koreja", "common": "Ju\u017ena Koreja"},
 			"ita": {"official": "Repubblica di Corea", "common": "Corea del Sud"},
-			"jpn": {"official": "\u5927\u97d3\u6c11\u56fd", "common": "\u5927\u97d3\u6c11\u56fd"},
+			"jpn": {"official": "\u5927\u97d3\u6c11\u56fd", "common": "\u97d3\u56fd"},
 			"nld": {"official": "Republiek Korea", "common": "Zuid-Korea"},
 			"por": {"official": "Rep\u00fablica da Coreia", "common": "Coreia do Sul"},
 			"rus": {"official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0440\u0435\u044f", "common": "\u042e\u0436\u043d\u0430\u044f \u041a\u043e\u0440\u0435\u044f"},
