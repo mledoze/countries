@@ -3,9 +3,11 @@
 [![Latest Stable Version](https://img.shields.io/npm/v/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 [![Latest Stable Version](https://img.shields.io/packagist/v/mledoze/countries.svg?style=flat)](https://packagist.org/packages/mledoze/countries)
 [![License](https://img.shields.io/packagist/l/mledoze/countries.svg?style=flat)](https://opendatacommons.org/licenses/odbl/1.0/)
-[![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
-[![Build Status](https://travis-ci.org/mledoze/countries.svg?branch=master)](https://travis-ci.org/mledoze/countries)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/mledoze/countries.svg)](https://packagist.org/packages/mledoze/countries)
+
+[![Build Status](https://travis-ci.org/mledoze/countries.svg?branch=master)](https://travis-ci.org/mledoze/countries)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mledoze/countries/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mledoze/countries/?branch=master)
+[![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 
 ## Countries data
 This repository contains lists of world countries, as defined by [ISO Standard 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1),
