@@ -1,4 +1,5 @@
 [
+
 	{
 		"name": {
 			"common": "Aruba",
@@ -16,7 +17,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AWG"],
-		"callingCode": ["297"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["97"]
+		},
 		"capital": ["Oranjestad"],
 		"altSpellings": ["AW"],
 		"region": "Americas",
@@ -76,7 +80,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AFN"],
-		"callingCode": ["93"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["3"]
+		},
 		"capital": ["Kabul"],
 		"altSpellings": ["AF", "Af\u0121\u0101nist\u0101n"],
 		"region": "Asia",
@@ -126,7 +133,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AOA"],
-		"callingCode": ["244"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["44"]
+		},
 		"capital": ["Luanda"],
 		"altSpellings": [
 			"AO",
@@ -178,7 +188,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1264"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["264"]
+		},
 		"capital": ["The Valley"],
 		"altSpellings": ["AI"],
 		"region": "Americas",
@@ -227,7 +240,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["358"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["5818"]
+		},
 		"capital": ["Mariehamn"],
 		"altSpellings": ["AX", "Aaland", "Aland", "Ahvenanmaa"],
 		"region": "Europe",
@@ -279,7 +295,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ALL"],
-		"callingCode": ["355"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["55"]
+		},
 		"capital": ["Tirana"],
 		"altSpellings": ["AL", "Shqip\u00ebri", "Shqip\u00ebria", "Shqipnia"],
 		"region": "Europe",
@@ -329,7 +348,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["376"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["76"]
+		},
 		"capital": ["Andorra la Vella"],
 		"altSpellings": ["AD", "Principality of Andorra", "Principat d'Andorra"],
 		"region": "Europe",
@@ -382,7 +404,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AED"],
-		"callingCode": ["971"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["71"]
+		},
 		"capital": ["Abu Dhabi"],
 		"altSpellings": ["AE", "UAE", "Emirates"],
 		"region": "Asia",
@@ -432,7 +457,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ARS"],
-		"callingCode": ["54"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["4"]
+		},
 		"capital": ["Buenos Aires"],
 		"altSpellings": ["AR", "Argentine Republic", "Rep\u00fablica Argentina"],
 		"region": "Americas",
@@ -485,7 +513,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AMD"],
-		"callingCode": ["374"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["74"]
+		},
 		"capital": ["Yerevan"],
 		"altSpellings": [
 			"AM",
@@ -544,7 +575,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1684"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["684"]
+		},
 		"capital": ["Pago Pago"],
 		"altSpellings": [
 			"AS",
@@ -592,7 +626,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": [],
-		"callingCode": [],
+		"idd": {
+			"root": "",
+			"suffixes": []
+		},
 		"capital": [""],
 		"altSpellings": ["AQ"],
 		"region": "Antarctic",
@@ -645,7 +682,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": [],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["62"]
+		},
 		"capital": ["Port-aux-Fran\u00e7ais"],
 		"altSpellings": ["TF", "French Southern Territories"],
 		"region": "Antarctic",
@@ -697,7 +737,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1268"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["268"]
+		},
 		"capital": ["Saint John's"],
 		"altSpellings": ["AG"],
 		"region": "Americas",
@@ -750,7 +793,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["61"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["1"]
+		},
 		"capital": ["Canberra"],
 		"altSpellings": ["AU"],
 		"region": "Oceania",
@@ -803,7 +849,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["43"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["3"]
+		},
 		"capital": ["Vienna"],
 		"altSpellings": ["AT", "Osterreich", "Oesterreich"],
 		"region": "Europe",
@@ -859,7 +908,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AZN"],
-		"callingCode": ["994"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["94"]
+		},
 		"capital": ["Baku"],
 		"altSpellings": [
 			"AZ",
@@ -917,7 +969,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BIF"],
-		"callingCode": ["257"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["57"]
+		},
 		"capital": ["Bujumbura"],
 		"altSpellings": [
 			"BI",
@@ -974,7 +1029,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["32"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["2"]
+		},
 		"capital": ["Brussels"],
 		"altSpellings": [
 			"BE",
@@ -1037,7 +1095,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["229"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["29"]
+		},
 		"capital": ["Porto-Novo"],
 		"altSpellings": [
 			"BJ",
@@ -1094,7 +1155,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["226"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["26"]
+		},
 		"capital": ["Ouagadougou"],
 		"altSpellings": ["BF"],
 		"region": "Africa",
@@ -1147,7 +1211,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BDT"],
-		"callingCode": ["880"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["80"]
+		},
 		"capital": ["Dhaka"],
 		"altSpellings": [
 			"BD",
@@ -1204,7 +1271,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BGN"],
-		"callingCode": ["359"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["59"]
+		},
 		"capital": ["Sofia"],
 		"altSpellings": [
 			"BG",
@@ -1261,7 +1331,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BHD"],
-		"callingCode": ["973"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["73"]
+		},
 		"capital": ["Manama"],
 		"altSpellings": ["BH", "Kingdom of Bahrain", "Mamlakat al-Ba\u1e25rayn"],
 		"region": "Asia",
@@ -1314,7 +1387,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BSD"],
-		"callingCode": ["1242"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["242"]
+		},
 		"capital": ["Nassau"],
 		"altSpellings": ["BS", "Commonwealth of the Bahamas"],
 		"region": "Americas",
@@ -1375,7 +1451,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BAM"],
-		"callingCode": ["387"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["87"]
+		},
 		"capital": ["Sarajevo"],
 		"altSpellings": [
 			"BA",
@@ -1432,7 +1511,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["590"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["90"]
+		},
 		"capital": ["Gustavia"],
 		"altSpellings": [
 			"BL",
@@ -1547,7 +1629,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BYN"],
-		"callingCode": ["375"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["75"]
+		},
 		"capital": ["Minsk"],
 		"altSpellings": [
 			"BY",
@@ -1605,7 +1690,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BZD"],
-		"callingCode": ["501"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["01"]
+		},
 		"capital": ["Belmopan"],
 		"altSpellings": ["BZ"],
 		"region": "Americas",
@@ -1657,7 +1745,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["BMD"],
-		"callingCode": ["1441"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["441"]
+		},
 		"capital": ["Hamilton"],
 		"altSpellings": [
 			"BM",
@@ -1721,7 +1812,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BOB"],
-		"callingCode": ["591"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["91"]
+		},
 		"capital": ["Sucre"],
 		"altSpellings": [
 			"BO",
@@ -1843,7 +1937,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BRL"],
-		"callingCode": ["55"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["5"]
+		},
 		"capital": ["Bras\u00edlia"],
 		"altSpellings": [
 			"BR",
@@ -1907,7 +2004,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BBD"],
-		"callingCode": ["1246"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["246"]
+		},
 		"capital": ["Bridgetown"],
 		"altSpellings": ["BB"],
 		"region": "Americas",
@@ -1960,7 +2060,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BND"],
-		"callingCode": ["673"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["73"]
+		},
 		"capital": ["Bandar Seri Begawan"],
 		"altSpellings": [
 			"BN",
@@ -2018,7 +2121,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BTN", "INR"],
-		"callingCode": ["975"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["75"]
+		},
 		"capital": ["Thimphu"],
 		"altSpellings": ["BT", "Kingdom of Bhutan"],
 		"region": "Asia",
@@ -2068,7 +2174,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NOK"],
-		"callingCode": [],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["7"]
+		},
 		"capital": [""],
 		"altSpellings": ["BV", "Bouvet\u00f8ya", "Bouvet-\u00f8ya"],
 		"region": "Antarctic",
@@ -2118,7 +2227,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BWP"],
-		"callingCode": ["267"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["67"]
+		},
 		"capital": ["Gaborone"],
 		"altSpellings": ["BW", "Republic of Botswana", "Lefatshe la Botswana"],
 		"region": "Africa",
@@ -2174,7 +2286,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["236"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["36"]
+		},
 		"capital": ["Bangui"],
 		"altSpellings": [
 			"CF",
@@ -2229,7 +2344,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CAD"],
-		"callingCode": ["1"],
+		"idd": {
+			"root": "+1",
+			"suffixes": [""]
+		},
 		"capital": ["Ottawa"],
 		"altSpellings": ["CA"],
 		"region": "Americas",
@@ -2282,7 +2400,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["61"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["1"]
+		},
 		"capital": ["West Island"],
 		"altSpellings": ["CC", "Keeling Islands", "Cocos Islands"],
 		"region": "Oceania",
@@ -2341,7 +2462,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CHF"],
-		"callingCode": ["41"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["1"]
+		},
 		"capital": ["Bern"],
 		"altSpellings": [
 			"CH",
@@ -2402,7 +2526,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CLP"],
-		"callingCode": ["56"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["6"]
+		},
 		"capital": ["Santiago"],
 		"altSpellings": ["CL", "Republic of Chile", "Rep\u00fablica de Chile"],
 		"region": "Americas",
@@ -2460,7 +2587,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CNY"],
-		"callingCode": ["86"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["6"]
+		},
 		"capital": ["Beijing"],
 		"altSpellings": [
 			"CN",
@@ -2537,7 +2667,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["225"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["25"]
+		},
 		"capital": ["Yamoussoukro"],
 		"altSpellings": [
 			"CI",
@@ -2596,7 +2729,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["237"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["37"]
+		},
 		"capital": ["Yaound\u00e9"],
 		"altSpellings": [
 			"CM",
@@ -2669,7 +2805,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CDF"],
-		"callingCode": ["243"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["43"]
+		},
 		"capital": ["Kinshasa"],
 		"altSpellings": [
 			"CD",
@@ -2742,7 +2881,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["242"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["42"]
+		},
 		"capital": ["Brazzaville"],
 		"altSpellings": ["CG", "Congo", "Congo-Brazzaville"],
 		"region": "Africa",
@@ -2796,7 +2938,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NZD", "CKD"],
-		"callingCode": ["682"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["82"]
+		},
 		"capital": ["Avarua"],
 		"altSpellings": ["CK", "K\u016bki '\u0100irani"],
 		"region": "Oceania",
@@ -2849,7 +2994,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["COP"],
-		"callingCode": ["57"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["7"]
+		},
 		"capital": ["Bogot\u00e1"],
 		"altSpellings": [
 			"CO",
@@ -2908,7 +3056,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KMF"],
-		"callingCode": ["269"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["69"]
+		},
 		"capital": ["Moroni"],
 		"altSpellings": [
 			"KM",
@@ -2966,7 +3117,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CVE"],
-		"callingCode": ["238"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["38"]
+		},
 		"capital": ["Praia"],
 		"altSpellings": [
 			"CV",
@@ -3023,7 +3177,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CRC"],
-		"callingCode": ["506"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["06"]
+		},
 		"capital": ["San Jos\u00e9"],
 		"altSpellings": [
 			"CR",
@@ -3077,7 +3234,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CUC", "CUP"],
-		"callingCode": ["53"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["3"]
+		},
 		"capital": ["Havana"],
 		"altSpellings": ["CU", "Republic of Cuba", "Rep\u00fablica de Cuba"],
 		"region": "Americas",
@@ -3138,7 +3298,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["ANG"],
-		"callingCode": ["5999"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["999"]
+		},
 		"capital": ["Willemstad"],
 		"altSpellings": [
 			"CW",
@@ -3195,7 +3358,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["61"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["1"]
+		},
 		"capital": ["Flying Fish Cove"],
 		"altSpellings": ["CX", "Territory of Christmas Island"],
 		"region": "Oceania",
@@ -3245,7 +3411,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["KYD"],
-		"callingCode": ["1345"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["345"]
+		},
 		"capital": ["George Town"],
 		"altSpellings": ["KY"],
 		"region": "Americas",
@@ -3302,7 +3471,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["357"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["57"]
+		},
 		"capital": ["Nicosia"],
 		"altSpellings": [
 			"CY",
@@ -3364,7 +3536,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CZK"],
-		"callingCode": ["420"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["20"]
+		},
 		"capital": ["Prague"],
 		"altSpellings": ["CZ", "\u010cesk\u00e1 republika", "\u010cesko"],
 		"region": "Europe",
@@ -3417,7 +3592,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["49"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["9"]
+		},
 		"capital": ["Berlin"],
 		"altSpellings": [
 			"DE",
@@ -3477,7 +3655,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["DJF"],
-		"callingCode": ["253"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["53"]
+		},
 		"capital": ["Djibouti"],
 		"altSpellings": [
 			"DJ",
@@ -3535,7 +3716,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1767"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["767"]
+		},
 		"capital": ["Roseau"],
 		"altSpellings": [
 			"DM",
@@ -3590,7 +3774,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["DKK"],
-		"callingCode": ["45"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["5"]
+		},
 		"capital": ["Copenhagen"],
 		"altSpellings": [
 			"DK",
@@ -3648,7 +3835,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["DOP"],
-		"callingCode": ["1809", "1829", "1849"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["809", "829", "849"]
+		},
 		"capital": ["Santo Domingo"],
 		"altSpellings": ["DO"],
 		"region": "Americas",
@@ -3701,7 +3891,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["DZD"],
-		"callingCode": ["213"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["13"]
+		},
 		"capital": ["Algiers"],
 		"altSpellings": ["DZ", "Dzayer", "Alg\u00e9rie"],
 		"region": "Africa",
@@ -3751,7 +3944,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["593"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["93"]
+		},
 		"capital": ["Quito"],
 		"altSpellings": ["EC", "Republic of Ecuador", "Rep\u00fablica del Ecuador"],
 		"region": "Americas",
@@ -3804,7 +4000,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EGP"],
-		"callingCode": ["20"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["0"]
+		},
 		"capital": ["Cairo"],
 		"altSpellings": ["EG", "Arab Republic of Egypt"],
 		"region": "Africa",
@@ -3862,7 +4061,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ERN"],
-		"callingCode": ["291"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["91"]
+		},
 		"capital": ["Asmara"],
 		"altSpellings": [
 			"ER",
@@ -3930,7 +4132,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["MAD", "DZD", "MRO"],
-		"callingCode": ["212"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["125288", "125289"]
+		},
 		"capital": ["El Aai\u00fan"],
 		"altSpellings": ["EH", "Tane\u1e93roft Tutrimt"],
 		"region": "Africa",
@@ -3979,7 +4184,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["34"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["4"]
+		},
 		"capital": ["Madrid"],
 		"altSpellings": ["ES", "Kingdom of Spain", "Reino de Espa\u00f1a"],
 		"region": "Europe",
@@ -4026,7 +4234,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["372"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["72"]
+		},
 		"capital": ["Tallinn"],
 		"altSpellings": ["EE", "Eesti", "Republic of Estonia", "Eesti Vabariik"],
 		"region": "Europe",
@@ -4079,7 +4290,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ETB"],
-		"callingCode": ["251"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["51"]
+		},
 		"capital": ["Addis Ababa"],
 		"altSpellings": [
 			"ET",
@@ -4135,7 +4349,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["358"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["58"]
+		},
 		"capital": ["Helsinki"],
 		"altSpellings": [
 			"FI",
@@ -4195,7 +4412,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["FJD"],
-		"callingCode": ["679"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["79"]
+		},
 		"capital": ["Suva"],
 		"altSpellings": [
 			"FJ",
@@ -4250,7 +4470,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["FKP"],
-		"callingCode": ["500"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["00"]
+		},
 		"capital": ["Stanley"],
 		"altSpellings": ["FK", "Islas Malvinas", "Falkland Islands (Malvinas)"],
 		"region": "Americas",
@@ -4302,7 +4525,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["33"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["3"]
+		},
 		"capital": ["Paris"],
 		"altSpellings": ["FR", "French Republic", "R\u00e9publique fran\u00e7aise"],
 		"region": "Europe",
@@ -4355,7 +4581,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["DKK"],
-		"callingCode": ["298"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["98"]
+		},
 		"capital": ["T\u00f3rshavn"],
 		"altSpellings": ["FO", "F\u00f8royar", "F\u00e6r\u00f8erne"],
 		"region": "Europe",
@@ -4407,7 +4636,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["691"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["91"]
+		},
 		"capital": ["Palikir"],
 		"altSpellings": [
 			"FM",
@@ -4460,7 +4692,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["241"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["41"]
+		},
 		"capital": ["Libreville"],
 		"altSpellings": ["GA", "Gabonese Republic", "R\u00e9publique Gabonaise"],
 		"region": "Africa",
@@ -4512,7 +4747,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["44"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["4"]
+		},
 		"capital": ["London"],
 		"altSpellings": ["GB", "UK", "Great Britain"],
 		"region": "Europe",
@@ -4564,7 +4802,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GEL"],
-		"callingCode": ["995"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["95"]
+		},
 		"capital": ["Tbilisi"],
 		"altSpellings": ["GE", "Sakartvelo"],
 		"region": "Asia",
@@ -4618,7 +4859,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["44"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["4"]
+		},
 		"capital": ["St. Peter Port"],
 		"altSpellings": ["GG", "Bailiwick of Guernsey", "Bailliage de Guernesey"],
 		"region": "Europe",
@@ -4671,7 +4915,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GHS"],
-		"callingCode": ["233"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["33"]
+		},
 		"capital": ["Accra"],
 		"altSpellings": ["GH"],
 		"region": "Africa",
@@ -4718,7 +4965,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GIP"],
-		"callingCode": ["350"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["50"]
+		},
 		"capital": ["Gibraltar"],
 		"altSpellings": ["GI"],
 		"region": "Europe",
@@ -4770,7 +5020,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GNF"],
-		"callingCode": ["224"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["24"]
+		},
 		"capital": ["Conakry"],
 		"altSpellings": [
 			"GN",
@@ -4821,7 +5074,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["590"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["90"]
+		},
 		"capital": ["Basse-Terre"],
 		"altSpellings": ["GP", "Gwadloup"],
 		"region": "Americas",
@@ -4870,7 +5126,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GMD"],
-		"callingCode": ["220"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["20"]
+		},
 		"capital": ["Banjul"],
 		"altSpellings": ["GM", "Republic of the Gambia"],
 		"region": "Africa",
@@ -4925,7 +5184,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["245"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["45"]
+		},
 		"capital": ["Bissau"],
 		"altSpellings": [
 			"GW",
@@ -4988,7 +5250,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["240"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["40"]
+		},
 		"capital": ["Malabo"],
 		"altSpellings": [
 			"GQ",
@@ -5047,7 +5312,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["30"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["0"]
+		},
 		"capital": ["Athens"],
 		"altSpellings": [
 			"GR",
@@ -5099,7 +5367,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1473"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["473"]
+		},
 		"capital": ["St. George's"],
 		"altSpellings": ["GD"],
 		"region": "Americas",
@@ -5148,7 +5419,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["DKK"],
-		"callingCode": ["299"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["99"]
+		},
 		"capital": ["Nuuk"],
 		"altSpellings": ["GL", "Gr\u00f8nland"],
 		"region": "Americas",
@@ -5200,7 +5474,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GTQ"],
-		"callingCode": ["502"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["02"]
+		},
 		"capital": ["Guatemala City"],
 		"altSpellings": ["GT"],
 		"region": "Americas",
@@ -5249,7 +5526,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["594"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["94"]
+		},
 		"capital": ["Cayenne"],
 		"altSpellings": ["GF", "Guiana", "Guyane"],
 		"region": "Americas",
@@ -5300,7 +5580,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1671"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["671"]
+		},
 		"capital": ["Hag\u00e5t\u00f1a"],
 		"altSpellings": ["GU", "Gu\u00e5h\u00e5n"],
 		"region": "Oceania",
@@ -5352,7 +5635,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GYD"],
-		"callingCode": ["592"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["92"]
+		},
 		"capital": ["Georgetown"],
 		"altSpellings": ["GY", "Co-operative Republic of Guyana"],
 		"region": "Americas",
@@ -5407,7 +5693,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["HKD"],
-		"callingCode": ["852"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["52"]
+		},
 		"capital": ["City of Victoria"],
 		"altSpellings": ["HK"],
 		"region": "Asia",
@@ -5458,7 +5747,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": [],
+		"idd": {
+			"root": "",
+			"suffixes": [""]
+		},
 		"capital": [""],
 		"altSpellings": ["HM", "Heard Island and McDonald Islands"],
 		"region": "Antarctic",
@@ -5510,7 +5802,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["HNL"],
-		"callingCode": ["504"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["04"]
+		},
 		"capital": ["Tegucigalpa"],
 		"altSpellings": [
 			"HN",
@@ -5563,7 +5858,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["HRK"],
-		"callingCode": ["385"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["85"]
+		},
 		"capital": ["Zagreb"],
 		"altSpellings": [
 			"HR",
@@ -5622,7 +5920,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["HTG", "USD"],
-		"callingCode": ["509"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["09"]
+		},
 		"capital": ["Port-au-Prince"],
 		"altSpellings": [
 			"HT",
@@ -5679,7 +5980,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["HUF"],
-		"callingCode": ["36"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["6"]
+		},
 		"capital": ["Budapest"],
 		"altSpellings": ["HU"],
 		"region": "Europe",
@@ -5728,7 +6032,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["IDR"],
-		"callingCode": ["62"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["2"]
+		},
 		"capital": ["Jakarta"],
 		"altSpellings": ["ID", "Republic of Indonesia", "Republik Indonesia"],
 		"region": "Asia",
@@ -5778,7 +6085,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["44"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["4"]
+		},
 		"capital": ["Douglas"],
 		"altSpellings": ["IM", "Ellan Vannin", "Mann", "Mannin"],
 		"region": "Europe",
@@ -5835,7 +6145,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["INR"],
-		"callingCode": ["91"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["1"]
+		},
 		"capital": ["New Delhi"],
 		"altSpellings": [
 			"IN",
@@ -5893,7 +6206,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["246"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["46"]
+		},
 		"capital": ["Diego Garcia"],
 		"altSpellings": ["IO"],
 		"region": "Africa",
@@ -5947,7 +6263,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["353"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["53"]
+		},
 		"capital": ["Dublin"],
 		"altSpellings": [
 			"IE",
@@ -6004,7 +6323,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["IRR"],
-		"callingCode": ["98"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["8"]
+		},
 		"capital": ["Tehran"],
 		"altSpellings": [
 			"IR",
@@ -6069,7 +6391,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["IQD"],
-		"callingCode": ["964"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["64"]
+		},
 		"capital": ["Baghdad"],
 		"altSpellings": [
 			"IQ",
@@ -6122,7 +6447,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ISK"],
-		"callingCode": ["354"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["54"]
+		},
 		"capital": ["Reykjavik"],
 		"altSpellings": [
 			"IS",
@@ -6183,7 +6511,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ILS"],
-		"callingCode": ["972"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["72"]
+		},
 		"capital": ["Jerusalem"],
 		"altSpellings": ["IL", "State of Israel", "Med\u012bnat Yisr\u0101'el"],
 		"region": "Asia",
@@ -6232,7 +6563,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["39"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["9"]
+		},
 		"capital": ["Rome"],
 		"altSpellings": ["IT", "Italian Republic", "Repubblica italiana"],
 		"region": "Europe",
@@ -6282,7 +6616,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["JMD"],
-		"callingCode": ["1876"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["876"]
+		},
 		"capital": ["Kingston"],
 		"altSpellings": ["JM"],
 		"region": "Americas",
@@ -6336,7 +6673,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["44"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["4"]
+		},
 		"capital": ["Saint Helier"],
 		"altSpellings": [
 			"JE",
@@ -6393,7 +6733,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["JOD"],
-		"callingCode": ["962"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["62"]
+		},
 		"capital": ["Amman"],
 		"altSpellings": [
 			"JO",
@@ -6446,7 +6789,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["JPY"],
-		"callingCode": ["81"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["1"]
+		},
 		"capital": ["Tokyo"],
 		"altSpellings": ["JP", "Nippon", "Nihon"],
 		"region": "Asia",
@@ -6501,18 +6847,21 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KZT"],
-		"callingCode": ["7"],
-		"capital": ["Astana"],
-		"altSpellings": [
-			"KZ",
-			"Qazaqstan",
-			"\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
-			"Republic of Kazakhstan",
-			"\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
-			"Qazaqstan Respubl\u00efkas\u0131",
-			"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
-			"Respublika Kazakhstan"
-		],
+        "idd": {
+            "root": "+7",
+            "suffixes": ["6XX", "7XX"]
+        },
+        "capital": ["Astana"],
+        "altSpellings": [
+            "KZ",
+            "Qazaqstan",
+            "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "Republic of Kazakhstan",
+            "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+            "Qazaqstan Respubl\u00efkas\u0131",
+            "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "Respublika Kazakhstan"
+        ],
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {"kaz": "Kazakh", "rus": "Russian"},
@@ -6560,7 +6909,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KES"],
-		"callingCode": ["254"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["54"]
+		},
 		"capital": ["Nairobi"],
 		"altSpellings": ["KE", "Republic of Kenya", "Jamhuri ya Kenya"],
 		"region": "Africa",
@@ -6615,7 +6967,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KGS"],
-		"callingCode": ["996"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["96"]
+		},
 		"capital": ["Bishkek"],
 		"altSpellings": [
 			"KG",
@@ -6673,7 +7028,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KHR"],
-		"callingCode": ["855"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["55"]
+		},
 		"capital": ["Phnom Penh"],
 		"altSpellings": ["KH", "Kingdom of Cambodia"],
 		"region": "Asia",
@@ -6727,7 +7085,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["686"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["86"]
+		},
 		"capital": ["South Tarawa"],
 		"altSpellings": ["KI", "Republic of Kiribati", "Ribaberiki Kiribati"],
 		"region": "Oceania",
@@ -6779,7 +7140,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1869"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["869"]
+		},
 		"capital": ["Basseterre"],
 		"altSpellings": ["KN", "Federation of Saint Christopher and Nevis"],
 		"region": "Americas",
@@ -6830,7 +7194,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KRW"],
-		"callingCode": ["82"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["2"]
+		},
 		"capital": ["Seoul"],
 		"altSpellings": [
 			"KR",
@@ -6860,7 +7227,6 @@
 			"pol": {"official": "Republika Korei", "common": "Korea Po\u0142udniowa"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627 ", "common": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
 			"kor": {"official": "\ub300\ud55c\ubbfc\uad6d", "common": "\ud55c\uad6d"}
-
 		},
 		"latlng": [37, 127.5],
 		"demonym": "South Korean",
@@ -6889,7 +7255,10 @@
 		"independent": null,
 		"status": "user-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["383"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["83"]
+		},
 		"capital": ["Pristina"],
 		"altSpellings": [
 			"XK",
@@ -6943,7 +7312,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KWD"],
-		"callingCode": ["965"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["65"]
+		},
 		"capital": ["Kuwait City"],
 		"altSpellings": ["KW", "State of Kuwait", "Dawlat al-Kuwait"],
 		"region": "Asia",
@@ -6995,7 +7367,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LAK"],
-		"callingCode": ["856"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["56"]
+		},
 		"capital": ["Vientiane"],
 		"altSpellings": [
 			"LA",
@@ -7053,7 +7428,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LBP"],
-		"callingCode": ["961"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["61"]
+		},
 		"capital": ["Beirut"],
 		"altSpellings": [
 			"LB",
@@ -7106,7 +7484,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LRD"],
-		"callingCode": ["231"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["31"]
+		},
 		"capital": ["Monrovia"],
 		"altSpellings": ["LR", "Republic of Liberia"],
 		"region": "Africa",
@@ -7158,7 +7539,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LYD"],
-		"callingCode": ["218"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["18"]
+		},
 		"capital": ["Tripoli"],
 		"altSpellings": ["LY", "State of Libya", "Dawlat Libya"],
 		"region": "Africa",
@@ -7207,7 +7591,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1758"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["758"]
+		},
 		"capital": ["Castries"],
 		"altSpellings": ["LC"],
 		"region": "Americas",
@@ -7259,7 +7646,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CHF"],
-		"callingCode": ["423"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["23"]
+		},
 		"capital": ["Vaduz"],
 		"altSpellings": [
 			"LI",
@@ -7323,7 +7713,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LKR"],
-		"callingCode": ["94"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["4"]
+		},
 		"capital": ["Colombo"],
 		"altSpellings": [
 			"LK",
@@ -7377,7 +7770,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LSL", "ZAR"],
-		"callingCode": ["266"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["66"]
+		},
 		"capital": ["Maseru"],
 		"altSpellings": ["LS", "Kingdom of Lesotho", "Muso oa Lesotho"],
 		"region": "Africa",
@@ -7426,7 +7822,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["370"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["70"]
+		},
 		"capital": ["Vilnius"],
 		"altSpellings": ["LT", "Republic of Lithuania", "Lietuvos Respublika"],
 		"region": "Europe",
@@ -7486,7 +7885,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["352"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["52"]
+		},
 		"capital": ["Luxembourg"],
 		"altSpellings": [
 			"LU",
@@ -7541,7 +7943,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["371"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["71"]
+		},
 		"capital": ["Riga"],
 		"altSpellings": ["LV", "Republic of Latvia", "Latvijas Republika"],
 		"region": "Europe",
@@ -7595,7 +8000,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["MOP"],
-		"callingCode": ["853"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["53"]
+		},
 		"capital": [""],
 		"altSpellings": [
 			"MO",
@@ -7650,7 +8058,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["590"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["90"]
+		},
 		"capital": ["Marigot"],
 		"altSpellings": [
 			"MF",
@@ -7711,7 +8122,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MAD"],
-		"callingCode": ["212"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["12"]
+		},
 		"capital": ["Rabat"],
 		"altSpellings": [
 			"MA",
@@ -7764,7 +8178,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["377"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["77"]
+		},
 		"capital": ["Monaco"],
 		"altSpellings": [
 			"MC",
@@ -7817,7 +8234,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MDL"],
-		"callingCode": ["373"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["73"]
+		},
 		"capital": ["Chi\u0219in\u0103u"],
 		"altSpellings": [
 			"MD",
@@ -7878,7 +8298,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MGA"],
-		"callingCode": ["261"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["61"]
+		},
 		"capital": ["Antananarivo"],
 		"altSpellings": [
 			"MG",
@@ -7935,7 +8358,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MVR"],
-		"callingCode": ["960"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["60"]
+		},
 		"capital": ["Mal\u00e9"],
 		"altSpellings": [
 			"MV",
@@ -7992,7 +8418,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MXN"],
-		"callingCode": ["52"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["2"]
+		},
 		"capital": ["Mexico City"],
 		"altSpellings": [
 			"MX",
@@ -8053,7 +8482,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["692"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["92"]
+		},
 		"capital": ["Majuro"],
 		"altSpellings": [
 			"MH",
@@ -8109,7 +8541,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MKD"],
-		"callingCode": ["389"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["89"]
+		},
 		"capital": ["Skopje"],
 		"altSpellings": [
 			"MK",
@@ -8163,7 +8598,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["223"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["23"]
+		},
 		"capital": ["Bamako"],
 		"altSpellings": ["ML", "Republic of Mali", "R\u00e9publique du Mali"],
 		"region": "Africa",
@@ -8213,7 +8651,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["356"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["56"]
+		},
 		"capital": ["Valletta"],
 		"altSpellings": ["MT", "Republic of Malta", "Repubblika ta' Malta"],
 		"region": "Europe",
@@ -8265,7 +8706,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MMK"],
-		"callingCode": ["95"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["5"]
+		},
 		"capital": ["Naypyidaw"],
 		"altSpellings": [
 			"MM",
@@ -8322,7 +8766,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["382"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["82"]
+		},
 		"capital": ["Podgorica"],
 		"altSpellings": ["ME", "Crna Gora"],
 		"region": "Europe",
@@ -8374,7 +8821,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MNT"],
-		"callingCode": ["976"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["76"]
+		},
 		"capital": ["Ulan Bator"],
 		"altSpellings": ["MN"],
 		"region": "Asia",
@@ -8434,7 +8884,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1670"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["670"]
+		},
 		"capital": ["Saipan"],
 		"altSpellings": [
 			"MP",
@@ -8489,7 +8942,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MZN"],
-		"callingCode": ["258"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["58"]
+		},
 		"capital": ["Maputo"],
 		"altSpellings": [
 			"MZ",
@@ -8545,7 +9001,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MRO"],
-		"callingCode": ["222"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["22"]
+		},
 		"capital": ["Nouakchott"],
 		"altSpellings": [
 			"MR",
@@ -8596,7 +9055,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1664"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["664"]
+		},
 		"capital": ["Plymouth"],
 		"altSpellings": ["MS"],
 		"region": "Americas",
@@ -8643,7 +9105,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["596"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["96"]
+		},
 		"capital": ["Fort-de-France"],
 		"altSpellings": ["MQ"],
 		"region": "Americas",
@@ -8697,7 +9162,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MUR"],
-		"callingCode": ["230"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["30"]
+		},
 		"capital": ["Port Louis"],
 		"altSpellings": [
 			"MU",
@@ -8758,7 +9226,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MWK"],
-		"callingCode": ["265"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["65"]
+		},
 		"capital": ["Lilongwe"],
 		"altSpellings": ["MW", "Republic of Malawi"],
 		"region": "Africa",
@@ -8811,7 +9282,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MYR"],
-		"callingCode": ["60"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["0"]
+		},
 		"capital": ["Kuala Lumpur"],
 		"altSpellings": ["MY"],
 		"region": "Asia",
@@ -8863,7 +9337,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["262"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["62"]
+		},
 		"capital": ["Mamoudzou"],
 		"altSpellings": [
 			"YT",
@@ -8927,7 +9404,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NAD", "ZAR"],
-		"callingCode": ["264"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["64"]
+		},
 		"capital": ["Windhoek"],
 		"altSpellings": ["NA", "Namibi\u00eb", "Republic of Namibia"],
 		"region": "Africa",
@@ -8989,7 +9469,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XPF"],
-		"callingCode": ["687"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["87"]
+		},
 		"capital": ["Noum\u00e9a"],
 		"altSpellings": ["NC"],
 		"region": "Oceania",
@@ -9038,7 +9521,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["227"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["27"]
+		},
 		"capital": ["Niamey"],
 		"altSpellings": ["NE", "Nijar"],
 		"region": "Africa",
@@ -9094,7 +9580,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["672"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["72"]
+		},
 		"capital": ["Kingston"],
 		"altSpellings": [
 			"NF",
@@ -9150,7 +9639,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NGN"],
-		"callingCode": ["234"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["34"]
+		},
 		"capital": ["Abuja"],
 		"altSpellings": [
 			"NG",
@@ -9207,7 +9699,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NIO"],
-		"callingCode": ["505"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["05"]
+		},
 		"capital": ["Managua"],
 		"altSpellings": [
 			"NI",
@@ -9261,7 +9756,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NZD"],
-		"callingCode": ["683"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["83"]
+		},
 		"capital": ["Alofi"],
 		"altSpellings": ["NU"],
 		"region": "Oceania",
@@ -9312,7 +9810,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["31"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["1"]
+		},
 		"capital": ["Amsterdam"],
 		"altSpellings": ["NL", "Holland", "Nederland", "The Netherlands"],
 		"region": "Europe",
@@ -9363,7 +9864,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NOK"],
-		"callingCode": ["47"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["7"]
+		},
 		"capital": ["Oslo"],
 		"altSpellings": [
 			"NO",
@@ -9426,7 +9930,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NPR"],
-		"callingCode": ["977"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["77"]
+		},
 		"capital": ["Kathmandu"],
 		"altSpellings": [
 			"NP",
@@ -9480,7 +9987,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["674"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["74"]
+		},
 		"capital": ["Yaren"],
 		"altSpellings": [
 			"NR",
@@ -9537,7 +10047,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NZD"],
-		"callingCode": ["64"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["4"]
+		},
 		"capital": ["Wellington"],
 		"altSpellings": ["NZ", "Aotearoa"],
 		"region": "Oceania",
@@ -9593,7 +10106,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["OMR"],
-		"callingCode": ["968"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["68"]
+		},
 		"capital": ["Muscat"],
 		"altSpellings": [
 			"OM",
@@ -9653,7 +10169,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PKR"],
-		"callingCode": ["92"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["2"]
+		},
 		"capital": ["Islamabad"],
 		"altSpellings": [
 			"PK",
@@ -9710,7 +10229,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PAB", "USD"],
-		"callingCode": ["507"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["07"]
+		},
 		"capital": ["Panama City"],
 		"altSpellings": [
 			"PA",
@@ -9766,7 +10288,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NZD"],
-		"callingCode": ["64"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["4"]
+		},
 		"capital": ["Adamstown"],
 		"altSpellings": [
 			"PN",
@@ -9824,7 +10349,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PEN"],
-		"callingCode": ["51"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["1"]
+		},
 		"capital": ["Lima"],
 		"altSpellings": ["PE", "Republic of Peru", "Rep\u00fablica del Per\u00fa"],
 		"region": "Americas",
@@ -9880,7 +10408,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PHP"],
-		"callingCode": ["63"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["3"]
+		},
 		"capital": ["Manila"],
 		"altSpellings": [
 			"PH",
@@ -9934,7 +10465,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["680"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["80"]
+		},
 		"capital": ["Ngerulmud"],
 		"altSpellings": ["PW", "Republic of Palau", "Beluu er a Belau"],
 		"region": "Oceania",
@@ -9994,7 +10528,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PGK"],
-		"callingCode": ["675"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["75"]
+		},
 		"capital": ["Port Moresby"],
 		"altSpellings": [
 			"PG",
@@ -10047,7 +10584,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PLN"],
-		"callingCode": ["48"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["8"]
+		},
 		"capital": ["Warsaw"],
 		"altSpellings": ["PL", "Republic of Poland", "Rzeczpospolita Polska"],
 		"region": "Europe",
@@ -10103,7 +10643,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1787", "1939"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["787", "939"]
+		},
 		"capital": ["San Juan"],
 		"altSpellings": [
 			"PR",
@@ -10158,7 +10701,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KPW"],
-		"callingCode": ["850"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["50"]
+		},
 		"capital": ["Pyongyang"],
 		"altSpellings": [
 			"KP",
@@ -10217,7 +10763,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["351"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["51"]
+		},
 		"capital": ["Lisbon"],
 		"altSpellings": [
 			"PT",
@@ -10278,7 +10827,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PYG"],
-		"callingCode": ["595"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["95"]
+		},
 		"capital": ["Asunci\u00f3n"],
 		"altSpellings": [
 			"PY",
@@ -10335,7 +10887,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["ILS"],
-		"callingCode": ["970"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["70"]
+		},
 		"capital": ["Ramallah"],
 		"altSpellings": [
 			"PS",
@@ -10392,7 +10947,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XPF"],
-		"callingCode": ["689"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["89"]
+		},
 		"capital": ["Papeet\u0113"],
 		"altSpellings": [
 			"PF",
@@ -10449,7 +11007,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["QAR"],
-		"callingCode": ["974"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["74"]
+		},
 		"capital": ["Doha"],
 		"altSpellings": ["QA", "State of Qatar", "Dawlat Qa\u1e6dar"],
 		"region": "Asia",
@@ -10501,7 +11062,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["262"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["62"]
+		},
 		"capital": ["Saint-Denis"],
 		"altSpellings": ["RE", "Reunion"],
 		"region": "Africa",
@@ -10550,7 +11114,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["RON"],
-		"callingCode": ["40"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["0"]
+		},
 		"capital": ["Bucharest"],
 		"altSpellings": ["RO", "Rumania", "Roumania", "Rom\u00e2nia"],
 		"region": "Europe",
@@ -10601,7 +11168,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["RUB"],
-		"callingCode": ["7"],
+		"idd": {
+			"root": "+7",
+			"suffixes": ["3XX", "4XX", "5XX", "8XX", "9XX"]
+		},
 		"capital": ["Moscow"],
 		"altSpellings": [
 			"RU",
@@ -10671,7 +11241,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["RWF"],
-		"callingCode": ["250"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["50"]
+		},
 		"capital": ["Kigali"],
 		"altSpellings": [
 			"RW",
@@ -10728,7 +11301,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SAR"],
-		"callingCode": ["966"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["66"]
+		},
 		"capital": ["Riyadh"],
 		"altSpellings": [
 			"Saudi",
@@ -10786,7 +11362,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SDG"],
-		"callingCode": ["249"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["49"]
+		},
 		"capital": ["Khartoum"],
 		"altSpellings": [
 			"SD",
@@ -10842,7 +11421,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["221"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["21"]
+		},
 		"capital": ["Dakar"],
 		"altSpellings": [
 			"SN",
@@ -10907,7 +11489,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SGD"],
-		"callingCode": ["65"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["5"]
+		},
 		"capital": ["Singapore"],
 		"altSpellings": [
 			"SG",
@@ -10968,7 +11553,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["500"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["00"]
+		},
 		"capital": ["King Edward Point"],
 		"altSpellings": ["GS", "South Georgia and the South Sandwich Islands"],
 		"region": "Antarctic",
@@ -11020,7 +11608,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NOK"],
-		"callingCode": ["4779"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["779"]
+		},
 		"capital": ["Longyearbyen"],
 		"altSpellings": ["SJ", "Svalbard and Jan Mayen Islands"],
 		"region": "Europe",
@@ -11068,8 +11659,11 @@
 		"cioc": "SOL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SBD"],
-		"callingCode": ["677"],
+		"currency": ["SDB"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["77"]
+		},
 		"capital": ["Honiara"],
 		"altSpellings": ["SB"],
 		"region": "Oceania",
@@ -11121,7 +11715,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SLL"],
-		"callingCode": ["232"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["32"]
+		},
 		"capital": ["Freetown"],
 		"altSpellings": ["SL", "Republic of Sierra Leone"],
 		"region": "Africa",
@@ -11173,7 +11770,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SVC", "USD"],
-		"callingCode": ["503"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["03"]
+		},
 		"capital": ["San Salvador"],
 		"altSpellings": [
 			"SV",
@@ -11230,7 +11830,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["378"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["78"]
+		},
 		"capital": ["City of San Marino"],
 		"altSpellings": [
 			"SM",
@@ -11290,7 +11893,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SOS"],
-		"callingCode": ["252"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["52"]
+		},
 		"capital": ["Mogadishu"],
 		"altSpellings": [
 			"SO",
@@ -11348,7 +11954,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["508"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["08"]
+		},
 		"capital": ["Saint-Pierre"],
 		"altSpellings": [
 			"PM",
@@ -11403,7 +12012,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["RSD"],
-		"callingCode": ["381"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["81"]
+		},
 		"capital": ["Belgrade"],
 		"altSpellings": [
 			"RS",
@@ -11461,7 +12073,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SSP"],
-		"callingCode": ["211"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["11"]
+		},
 		"capital": ["Juba"],
 		"altSpellings": ["SS"],
 		"region": "Africa",
@@ -11512,7 +12127,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["STD"],
-		"callingCode": ["239"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["39"]
+		},
 		"capital": ["S\u00e3o Tom\u00e9"],
 		"altSpellings": [
 			"ST",
@@ -11566,7 +12184,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SRD"],
-		"callingCode": ["597"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["97"]
+		},
 		"capital": ["Paramaribo"],
 		"altSpellings": [
 			"SR",
@@ -11621,7 +12242,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["421"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["21"]
+		},
 		"capital": ["Bratislava"],
 		"altSpellings": ["SK", "Slovak Republic", "Slovensk\u00e1 republika"],
 		"region": "Europe",
@@ -11670,7 +12294,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["386"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["86"]
+		},
 		"capital": ["Ljubljana"],
 		"altSpellings": ["SI", "Republic of Slovenia", "Republika Slovenija"],
 		"region": "Europe",
@@ -11719,7 +12346,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SEK"],
-		"callingCode": ["46"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["6"]
+		},
 		"capital": ["Stockholm"],
 		"altSpellings": ["SE", "Kingdom of Sweden", "Konungariket Sverige"],
 		"region": "Europe",
@@ -11769,7 +12399,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SZL"],
-		"callingCode": ["268"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["68"]
+		},
 		"capital": ["Lobamba"],
 		"altSpellings": [
 			"SZ",
@@ -11828,7 +12461,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["ANG"],
-		"callingCode": ["1721"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["721"]
+		},
 		"capital": ["Philipsburg"],
 		"altSpellings": ["SX", "Sint Maarten (Dutch part)"],
 		"region": "Americas",
@@ -11882,7 +12518,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SCR"],
-		"callingCode": ["248"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["48"]
+		},
 		"capital": ["Victoria"],
 		"altSpellings": [
 			"SC",
@@ -11943,7 +12582,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SYP"],
-		"callingCode": ["963"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["63"]
+		},
 		"capital": ["Damascus"],
 		"altSpellings": [
 			"SY",
@@ -11999,7 +12641,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1649"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["649"]
+		},
 		"capital": ["Cockburn Town"],
 		"altSpellings": ["TC"],
 		"region": "Americas",
@@ -12052,7 +12697,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["235"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["35"]
+		},
 		"capital": ["N'Djamena"],
 		"altSpellings": [
 			"TD",
@@ -12107,7 +12755,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["228"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["28"]
+		},
 		"capital": ["Lom\u00e9"],
 		"altSpellings": [
 			"TG",
@@ -12164,7 +12815,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["THB"],
-		"callingCode": ["66"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["6"]
+		},
 		"capital": ["Bangkok"],
 		"altSpellings": [
 			"TH",
@@ -12226,7 +12880,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TJS"],
-		"callingCode": ["992"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["92"]
+		},
 		"capital": ["Dushanbe"],
 		"altSpellings": [
 			"TJ",
@@ -12283,7 +12940,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NZD"],
-		"callingCode": ["690"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["90"]
+		},
 		"capital": ["Fakaofo"],
 		"altSpellings": ["TK"],
 		"region": "Oceania",
@@ -12338,7 +12998,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TMT"],
-		"callingCode": ["993"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["93"]
+		},
 		"capital": ["Ashgabat"],
 		"altSpellings": ["TM"],
 		"region": "Asia",
@@ -12393,7 +13056,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["670"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["70"]
+		},
 		"capital": ["Dili"],
 		"altSpellings": [
 			"TL",
@@ -12451,7 +13117,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TOP"],
-		"callingCode": ["676"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["76"]
+		},
 		"capital": ["Nuku'alofa"],
 		"altSpellings": ["TO"],
 		"region": "Oceania",
@@ -12503,7 +13172,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TTD"],
-		"callingCode": ["1868"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["868"]
+		},
 		"capital": ["Port of Spain"],
 		"altSpellings": ["TT", "Republic of Trinidad and Tobago"],
 		"region": "Americas",
@@ -12555,7 +13227,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TND"],
-		"callingCode": ["216"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["16"]
+		},
 		"capital": ["Tunis"],
 		"altSpellings": [
 			"TN",
@@ -12611,7 +13286,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TRY"],
-		"callingCode": ["90"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["0"]
+		},
 		"capital": ["Ankara"],
 		"altSpellings": [
 			"TR",
@@ -12666,7 +13344,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["688"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["88"]
+		},
 		"capital": ["Funafuti"],
 		"altSpellings": ["TV"],
 		"region": "Oceania",
@@ -12717,7 +13398,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["TWD"],
-		"callingCode": ["886"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["86"]
+		},
 		"capital": ["Taipei"],
 		"altSpellings": [
 			"TW",
@@ -12779,7 +13463,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TZS"],
-		"callingCode": ["255"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["55"]
+		},
 		"capital": ["Dodoma"],
 		"altSpellings": [
 			"TZ",
@@ -12834,7 +13521,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["UGX"],
-		"callingCode": ["256"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["56"]
+		},
 		"capital": ["Kampala"],
 		"altSpellings": ["UG", "Republic of Uganda", "Jamhuri ya Uganda"],
 		"region": "Africa",
@@ -12886,7 +13576,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["UAH"],
-		"callingCode": ["380"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["80"]
+		},
 		"capital": ["Kyiv"],
 		"altSpellings": ["UA", "Ukrayina"],
 		"region": "Europe",
@@ -12938,7 +13631,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": [],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["68"]
+		},
 		"capital": [""],
 		"altSpellings": ["UM"],
 		"region": "Americas",
@@ -12990,7 +13686,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["UYU"],
-		"callingCode": ["598"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["98"]
+		},
 		"capital": ["Montevideo"],
 		"altSpellings": [
 			"UY",
@@ -13046,7 +13745,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["201", "202", "203", "205", "206", "207", "208", "209", "210", "212", "213", "214", "215", "216", "217", "218", "219", "220", "224", "225", "227", "228", "229", "231", "234", "239", "240", "248", "251", "252", "253", "254", "256", "260", "262", "267", "269", "270", "272", "274", "276", "281", "283", "301", "302", "303", "304", "305", "307", "308", "309", "310", "312", "313", "314", "315", "316", "317", "318", "319", "320", "321", "323", "325", "327", "330", "331", "334", "336", "337", "339", "346", "347", "351", "352", "360", "361", "364", "380", "385", "386", "401", "402", "404", "405", "406", "407", "408", "409", "410", "412", "413", "414", "415", "417", "419", "423", "424", "425", "430", "432", "434", "435", "440", "442", "443", "447", "458", "463", "464", "469", "470", "475", "478", "479", "480", "484", "501", "502", "503", "504", "505", "507", "508", "509", "510", "512", "513", "515", "516", "517", "518", "520", "530", "531", "534", "539", "540", "541", "551", "559", "561", "562", "563", "564", "567", "570", "571", "573", "574", "575", "580", "585", "586", "601", "602", "603", "605", "606", "607", "608", "609", "610", "612", "614", "615", "616", "617", "618", "619", "620", "623", "626", "628", "629", "630", "631", "636", "641", "646", "650", "651", "657", "660", "661", "662", "667", "669", "678", "681", "682", "701", "702", "703", "704", "706", "707", "708", "712", "713", "714", "715", "716", "717", "718", "719", "720", "724", "725", "727", "730", "731", "732", "734", "737", "740", "743", "747", "754", "757", "760", "762", "763", "765", "769", "770", "772", "773", "774", "775", "779", "781", "785", "786", "801", "802", "803", "804", "805", "806", "808", "810", "812", "813", "814", "815", "816", "817", "818", "828", "830", "831", "832", "843", "845", "847", "848", "850", "854", "856", "857", "858", "859", "860", "862", "863", "864", "865", "870", "872", "878", "901", "903", "904", "906", "907", "908", "909", "910", "912", "913", "914", "915", "916", "917", "918", "919", "920", "925", "928", "929", "930", "931", "934", "936", "937", "938", "940", "941", "947", "949", "951", "952", "954", "956", "959", "970", "971", "972", "973", "975", "978", "979", "980", "984", "985", "989"]
+		},
 		"capital": ["Washington D.C."],
 		"altSpellings": ["US", "USA", "United States of America"],
 		"region": "Americas",
@@ -13101,7 +13803,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["UZS"],
-		"callingCode": ["998"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["98"]
+		},
 		"capital": ["Tashkent"],
 		"altSpellings": [
 			"UZ",
@@ -13162,7 +13867,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["3906698", "379"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["906698", "79"]
+		},
 		"capital": ["Vatican City"],
 		"altSpellings": [
 			"VA",
@@ -13219,7 +13927,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1784"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["784"]
+		},
 		"capital": ["Kingstown"],
 		"altSpellings": ["VC"],
 		"region": "Americas",
@@ -13271,7 +13982,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["VEF"],
-		"callingCode": ["58"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["8"]
+		},
 		"capital": ["Caracas"],
 		"altSpellings": [
 			"VE",
@@ -13328,7 +14042,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1284"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["284"]
+		},
 		"capital": ["Road Town"],
 		"altSpellings": ["VG", "Virgin Islands, British"],
 		"region": "Americas",
@@ -13380,7 +14097,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1340"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["340"]
+		},
 		"capital": ["Charlotte Amalie"],
 		"altSpellings": ["VI", "Virgin Islands, U.S."],
 		"region": "Americas",
@@ -13432,7 +14152,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["VND"],
-		"callingCode": ["84"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["4"]
+		},
 		"capital": ["Hanoi"],
 		"altSpellings": [
 			"VN",
@@ -13488,7 +14211,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["VUV"],
-		"callingCode": ["678"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["78"]
+		},
 		"capital": ["Port Vila"],
 		"altSpellings": [
 			"VU",
@@ -13545,7 +14271,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XPF"],
-		"callingCode": ["681"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["81"]
+		},
 		"capital": ["Mata-Utu"],
 		"altSpellings": [
 			"WF",
@@ -13602,7 +14331,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["WST"],
-		"callingCode": ["685"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["85"]
+		},
 		"capital": ["Apia"],
 		"altSpellings": [
 			"WS",
@@ -13658,7 +14390,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["YER"],
-		"callingCode": ["967"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["67"]
+		},
 		"capital": ["Sana'a"],
 		"altSpellings": [
 			"YE",
@@ -13754,7 +14489,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ZAR"],
-		"callingCode": ["27"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["7"]
+		},
 		"capital": ["Pretoria", "Bloemfontein", "Cape Town"],
 		"altSpellings": ["ZA", "RSA", "Suid-Afrika", "Republic of South Africa"],
 		"region": "Africa",
@@ -13815,7 +14553,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ZMW"],
-		"callingCode": ["260"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["60"]
+		},
 		"capital": ["Lusaka"],
 		"altSpellings": ["ZM", "Republic of Zambia"],
 		"region": "Africa",
@@ -13878,7 +14619,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ZWL"],
-		"callingCode": ["263"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["63"]
+		},
 		"capital": ["Harare"],
 		"altSpellings": ["ZW", "Republic of Zimbabwe"],
 		"region": "Africa",
