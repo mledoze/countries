@@ -1,5 +1,4 @@
 [
-
 	{
 		"name": {
 			"common": "Aruba",
@@ -44,7 +43,6 @@
 			"pol": {"official": "Aruba", "common": "Aruba"},
 			"urd": {"official": "\u0627\u0631\u0648\u0628\u0627", "common": "\u0627\u0631\u0648\u0628\u0627"},
 			"kor": {"official": "\uc544\ub8e8\ubc14", "common": "\uc544\ub8e8\ubc14"}
-
 		},
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
@@ -108,7 +106,6 @@
 			"pol": {"official": "Islamska Republika Afganistanu", "common": "Afganistan"},
 			"urd": {"official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646", "common": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d", "common": "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4"}
-
 		},
 		"latlng": [33, 65],
 		"demonym": "Afghan",
@@ -165,7 +162,6 @@
 			"pol": {"official": "Republika Angoli", "common": "Angola"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u06af\u0648\u0644\u06c1", "common": "\u0627\u0646\u06af\u0648\u0644\u06c1"},
 			"kor": {"official": "\uc559\uace8\ub77c \uacf5\ud654\uad6d", "common": "\uc559\uace8\ub77c"}
-
 		},
 		"latlng": [-12.5, 18.5],
 		"demonym": "Angolan",
@@ -215,7 +211,6 @@
 			"pol": {"official": "Anguilla", "common": "Anguilla"},
 			"urd": {"official": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627", "common": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627"},
 			"kor": {"official": "\uc575\uadc8\ub77c", "common": "\uc575\uadc8\ub77c"}
-
 		},
 		"latlng": [18.25, -63.16666666],
 		"demonym": "Anguillian",
@@ -267,7 +262,6 @@
 			"pol": {"official": "Wyspy Alandzkie", "common": "Wyspy Alandzkie"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u0627\u0648\u0644\u0646\u062f", "common": "\u062c\u0632\u0627\u0626\u0631 \u0627\u0648\u0644\u0646\u062f"},
 			"kor": {"official": "\uc62c\ub780\ub4dc \uc81c\ub3c4", "common": "\uc62c\ub780\ub4dc \uc81c\ub3c4"}
-
 		},
 		"latlng": [60.116667, 19.9],
 		"demonym": "\u00c5landish",
@@ -323,7 +317,6 @@
 			"pol": {"official": "Republika Albanii", "common": "Albania"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u0628\u0627\u0646\u06cc\u0627", "common": "\u0627\u0644\u0628\u0627\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc54c\ubc14\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\uc54c\ubc14\ub2c8\uc544"}
-
 		},
 		"latlng": [41, 20],
 		"demonym": "Albanian",
@@ -376,7 +369,6 @@
 			"pol": {"official": "Ksi\u0119stwo Andory", "common": "Andora"},
 			"urd": {"official": "\u0627\u0645\u0627\u0631\u0627\u062a\u0650 \u0627\u0646\u0688\u0648\u0631\u0627", "common": "\u0627\u0646\u0688\u0648\u0631\u0627"},
 			"kor": {"official": "\uc548\ub3c4\ub77c \uacf5\uad6d", "common": "\uc548\ub3c4\ub77c"}
-
 		},
 		"latlng": [42.5, 1.5],
 		"demonym": "Andorran",
@@ -431,7 +423,6 @@
 			"pol": {"official": "Zjednoczone Emiraty Arabskie", "common": "Zjednoczone Emiraty Arabskie"},
 			"urd": {"official": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a", "common": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a"},
 			"kor": {"official": "\uc544\ub78d \ud1a0\ud6c4\uad6d \uc5f0\ubc29", "common": "\uc544\ub78d\uc5d0\ubbf8\ub9ac\ud2b8"}
-
 		},
 		"latlng": [24, 54],
 		"demonym": "Emirati",
@@ -485,7 +476,6 @@
 			"pol": {"official": "Republika Argenty\u0144ska", "common": "Argentyna"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646", "common": "\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"},
 			"kor": {"official": "\uc544\ub974\ud5e8\ud2f0\ub098 \uacf5\ud654\uad6d", "common": "\uc544\ub974\ud5e8\ud2f0\ub098"}
-
 		},
 		"latlng": [-34, -64],
 		"demonym": "Argentine",
@@ -546,7 +536,6 @@
 			"pol": {"official": "Republika Armenii", "common": "Armenia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0631\u0645\u06cc\u0646\u06cc\u0627", "common": "\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc544\ub974\uba54\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\uc544\ub974\uba54\ub2c8\uc544"}
-
 		},
 		"latlng": [40, 45],
 		"demonym": "Armenian",
@@ -607,7 +596,6 @@
 			"pol": {"official": "Samoa Ameryka\u0144skie", "common": "Samoa Ameryka\u0144skie"},
 			"urd": {"official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627", "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627"},
 			"kor": {"official": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544", "common": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544"}
-
 		},
 		"latlng": [-14.33333333, -170],
 		"demonym": "American Samoan",
@@ -654,7 +642,6 @@
 			"pol": {"official": "Antarktyka", "common": "Antarktyka"},
 			"urd": {"official": "\u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06a9\u0627", "common": "\u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06a9\u0627"},
 			"kor": {"official": "\ub0a8\uadf9", "common": "\ub0a8\uadf9"}
-
 		},
 		"latlng": [-90, 0],
 		"demonym": "Antarctican",
@@ -709,7 +696,6 @@
 			"pol": {"official": "Francuskie Terytoria Po\u0142udniowe i Antarktyczne", "common": "Francuskie Terytoria Po\u0142udniowe i Antarktyczne"},
 			"urd": {"official": "\u0633\u0631\u0632\u0645\u06cc\u0646\u0650 \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc\u06c1 \u0648 \u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06cc\u06a9\u06c1", "common": "\u0633\u0631\u0632\u0645\u06cc\u0646 \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc\u06c1 \u0648 \u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06cc\u06a9\u0627"},
 			"kor": {"official": "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed", "common": "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed"}
-
 		},
 		"latlng": [-49.25, 69.167],
 		"demonym": "French",
@@ -765,7 +751,6 @@
 			"pol": {"official": "Antigua i Barbuda", "common": "Antigua i Barbuda"},
 			"urd": {"official": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627", "common": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"},
 			"kor": {"official": "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4", "common": "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4"}
-
 		},
 		"latlng": [17.05, -61.8],
 		"demonym": "Antiguan, Barbudan",
@@ -821,7 +806,6 @@
 			"pol": {"official": "Zwi\u0105zek Australijski", "common": "Australia"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627", "common": "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"},
 			"kor": {"official": "\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544 \uc5f0\ubc29", "common": "\ud638\uc8fc"}
-
 		},
 		"latlng": [-27, 133],
 		"demonym": "Australian",
@@ -877,7 +861,6 @@
 			"pol": {"official": "Republika Austrii", "common": "Austria"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0627", "common": "\u0622\u0633\u0679\u0631\u06cc\u0627"},
 			"kor": {"official": "\uc624\uc2a4\ud2b8\ub9ac\uc544 \uacf5\ud654\uad6d", "common": "\uc624\uc2a4\ud2b8\ub9ac\uc544"}
-
 		},
 		"latlng": [47.33333333, 13.33333333],
 		"demonym": "Austrian",
@@ -940,7 +923,6 @@
 			"pol": {"official": "Republika Azerbejd\u017Canu", "common": "Azerbejd\u017Can"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646", "common": "\u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646"},
 			"kor": {"official": "\uc544\uc81c\ub974\ubc14\uc774\uc794 \uacf5\ud654\uad6d", "common": "\uc544\uc81c\ub974\ubc14\uc774\uc794"}
-
 		},
 		"latlng": [40.5, 47.5],
 		"demonym": "Azerbaijani",
@@ -1002,7 +984,6 @@
 			"pol": {"official": "Republika Burundi", "common": "Burundi"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0631\u0648\u0646\u0688\u06cc", "common": "\u0628\u0631\u0648\u0646\u0688\u06cc"},
 			"kor": {"official": "\ubd80\ub8ec\ub514", "common": "\ubd80\ub8ec\ub514"}
-
 		},
 		"latlng": [-3.5, 30],
 		"demonym": "Burundian",
@@ -1067,7 +1048,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Belgii", "common": "Belgia"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u0644\u062c\u0626\u06cc\u0645", "common": "\u0628\u0644\u062c\u0626\u06cc\u0645"},
 			"kor": {"official": "\ubca8\uae30\uc5d0 \uc655\uad6d", "common": "\ubca8\uae30\uc5d0"}
-
 		},
 		"latlng": [50.83333333, 4],
 		"demonym": "Belgian",
@@ -1127,7 +1107,6 @@
 			"pol": {"official": "Benin", "common": "Benin"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0646\u0646", "common": "\u0628\u06cc\u0646\u0646"},
 			"kor": {"official": "\ubca0\ub0c9 \uacf5\ud654\uad6d", "common": "\ubca0\ub0c9"}
-
 		},
 		"latlng": [9.5, 2.25],
 		"demonym": "Beninese",
@@ -1183,7 +1162,6 @@
 			"pol": {"official": "Burkina Faso", "common": "Burkina Faso"},
 			"urd": {"official": "\u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648", "common": "\u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648"},
 			"kor": {"official": "\ubd80\ub974\ud0a4\ub098\ud30c\uc18c", "common": "\ubd80\ub974\ud0a4\ub098\ud30c\uc18c"}
-
 		},
 		"latlng": [13, -2],
 		"demonym": "Burkinabe",
@@ -1243,7 +1221,6 @@
 			"pol": {"official": "Ludowa Republika Bangladeszu", "common": "Bangladesz"},
 			"urd": {"official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634", "common": "\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634"},
 			"kor": {"official": "\ubc29\uae00\ub77c\ub370\uc2dc \uc778\ubbfc \uacf5\ud654\uad6d", "common": "\ubc29\uae00\ub77c\ub370\uc2dc"}
-
 		},
 		"latlng": [24, 90],
 		"demonym": "Bangladeshi",
@@ -1303,7 +1280,6 @@
 			"pol": {"official": "Republika Bu\u0142garii", "common": "Bu\u0142garia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0644\u063a\u0627\u0631\u06cc\u06c1", "common": "\u0628\u0644\u063a\u0627\u0631\u06cc\u06c1"},
 			"kor": {"official": "\ubd88\uac00\ub9ac\uc544 \uacf5\ud654\uad6d", "common": "\ubd88\uac00\ub9ac\uc544"}
-
 		},
 		"latlng": [43, 25],
 		"demonym": "Bulgarian",
@@ -1359,7 +1335,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Bahrajnu", "common": "Bahrajn"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u062d\u0631\u06cc\u0646", "common": "\u0628\u062d\u0631\u06cc\u0646"},
 			"kor": {"official": "\ubc14\ub808\uc778 \uc655\uad6d", "common": "\ubc14\ub808\uc778"}
-
 		},
 		"latlng": [26, 50.55],
 		"demonym": "Bahraini",
@@ -1415,7 +1390,6 @@
 			"pol": {"official": "Bahamy", "common": "Bahamy"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0628\u06c1\u0627\u0645\u0627\u0633", "common": "\u0628\u06c1\u0627\u0645\u0627\u0633"},
 			"kor": {"official": "\ubc14\ud558\ub9c8 \uc5f0\ubc29", "common": "\ubc14\ud558\ub9c8"}
-
 		},
 		"latlng": [24.25, -76],
 		"demonym": "Bahamian",
@@ -1483,7 +1457,6 @@
 			"pol": {"official": "Bo\u015Bnia i Hercegowina", "common": "Bo\u015Bnia i Hercegowina"},
 			"urd": {"official": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627", "common": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627"},
 			"kor": {"official": "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098", "common": "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"}
-
 		},
 		"latlng": [44, 18],
 		"demonym": "Bosnian, Herzegovinian",
@@ -1543,7 +1516,6 @@
 			"pol": {"official": "Saint-Barth\u00E9lemy", "common": "Saint-Barth\u00E9lemy"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2", "common": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2"},
 			"kor": {"official": "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8", "common": "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"}
-
 		},
 		"latlng": [18.5, -63.41666666],
 		"demonym": "Saint Barth\u00e9lemy Islander",
@@ -1598,7 +1570,6 @@
 			"pol": {"official": "Wyspa \u015Awi\u0119tej Heleny, Wyspa Wniebowst\u0105pienia i Tristan da Cunha", "common": "Wyspa \u015Awi\u0119tej Heleny, Wyspa Wniebowst\u0105pienia i Tristan da Cunha"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u06c1\u0644\u06cc\u0646\u0627\u060c \u0627\u0633\u06cc\u0646\u0634\u0646 \u0648 \u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627", "common": "\u0633\u06cc\u0646\u0679 \u06c1\u0644\u06cc\u0646\u0627\u060c \u0627\u0633\u06cc\u0646\u0634\u0646 \u0648 \u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc138\uc778\ud2b8\ud5ec\ub808\ub098", "common": "\uc138\uc778\ud2b8\ud5ec\ub808\ub098"}
-
 		},
 		"latlng": [-15.95, -5.72],
 		"demonym": "Saint Helenian",
@@ -1663,7 +1634,6 @@
 			"pol": {"official": "Republika Bia\u0142orusi", "common": "Bia\u0142oru\u015B"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0644\u0627\u0631\u0648\u0633", "common": "\u0628\u06cc\u0644\u0627\u0631\u0648\u0633"},
 			"kor": {"official": "\ubca8\ub77c\ub8e8\uc2a4 \uacf5\ud654\uad6d", "common": "\ubca8\ub77c\ub8e8\uc2a4"}
-
 		},
 		"latlng": [53, 28],
 		"demonym": "Belarusian",
@@ -1722,7 +1692,6 @@
 			"pol": {"official": "Belize", "common": "Belize"},
 			"urd": {"official": "\u0628\u06cc\u0644\u06cc\u0632", "common": "\u0628\u06cc\u0644\u06cc\u0632"},
 			"kor": {"official": "\ubca8\ub9ac\uc988", "common": "\ubca8\ub9ac\uc988"}
-
 		},
 		"latlng": [17.25, -88.75],
 		"demonym": "Belizean",
@@ -1778,7 +1747,6 @@
 			"pol": {"official": "Bermudy", "common": "Bermudy"},
 			"urd": {"official": "\u0628\u0631\u0645\u0648\u062f\u0627", "common": "\u0628\u0631\u0645\u0648\u062f\u0627"},
 			"kor": {"official": "\ubc84\ubba4\ub2e4", "common": "\ubc84\ubba4\ub2e4"}
-
 		},
 		"latlng": [32.33333333, -64.75],
 		"demonym": "Bermudian",
@@ -1855,7 +1823,6 @@
 			"pol": {"official": "Wielonarodowe Pa\u0144stwo Boliwia", "common": "Boliwia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0644\u06cc\u0648\u06cc\u0627", "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc\u0627"},
 			"kor": {"official": "\ubcfc\ub9ac\ube44\uc544 \ub2e4\ubbfc\uc871\uad6d", "common": "\ubcfc\ub9ac\ube44\uc544"}
-
 		},
 		"latlng": [-17, -65],
 		"demonym": "Bolivian",
@@ -1910,7 +1877,6 @@
 			"pol": {"official": "Bonaire, Sint Eustatius i Saba", "common": "Antyle Holenderskie"},
 			"urd": {"official": "\u0628\u0648\u0646\u0627\u06cc\u0631\u060c \u0633\u06cc\u0646\u0679 \u0627\u06cc\u0648\u0633\u0679\u0627\u0626\u06cc\u0633 \u0627\u0648\u0631 \u0633\u0627\u0628\u0627", "common": "\u06a9\u06cc\u0631\u06cc\u0628\u06cc\u0646 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"},
 			"kor": {"official": "\ubcf4\ub124\ub974, \uc2e0\ud2b8\uc678\uc2a4\ud0c0\ud2f0\uc704\uc2a4, \uc0ac\ubc14", "common": "\uce74\ub9ac\ube0c \ub124\ub35c\ub780\ub4dc"}
-
 		},
 		"latlng": [12.18, -68.25],
 		"demonym": "Dutch",
@@ -1970,7 +1936,6 @@
 			"pol": {"official": "Federacyjna Republika Brazylii", "common": "Brazylia"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0631\u0627\u0632\u06cc\u0644", "common": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
 			"kor": {"official": "\ube0c\ub77c\uc9c8 \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\ube0c\ub77c\uc9c8"}
-
 		},
 		"latlng": [-10, -55],
 		"demonym": "Brazilian",
@@ -2032,7 +1997,6 @@
 			"pol": {"official": "Barbados", "common": "Barbados"},
 			"urd": {"official": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633", "common": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"},
 			"kor": {"official": "\ubc14\ubca0\uc774\ub3c4\uc2a4", "common": "\ubc14\ubca0\uc774\ub3c4\uc2a4"}
-
 		},
 		"latlng": [13.16666666, -59.53333333],
 		"demonym": "Barbadian",
@@ -2093,7 +2057,6 @@
 			"pol": {"official": "Pa\u0144stwo Brunei Darussalam", "common": "Brunei"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0628\u0631\u0648\u0646\u0627\u0626\u06cc \u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645", "common": "\u0628\u0631\u0648\u0646\u0627\u0626\u06cc"},
 			"kor": {"official": "\ube0c\ub8e8\ub098\uc774 \ub2e4\ub8e8\uc0b4\ub78c\uad6d", "common": "\ube0c\ub8e8\ub098\uc774"}
-
 		},
 		"latlng": [4.5, 114.66666666],
 		"demonym": "Bruneian",
@@ -2149,7 +2112,6 @@
 			"pol": {"official": "Bhutan", "common": "Bhutan"},
 			"urd": {"official": "\u0633\u0644\u0637\u0646\u062a \u0628\u06be\u0648\u0679\u0627\u0646", "common": "\u0628\u06be\u0648\u0679\u0627\u0646"},
 			"kor": {"official": "\ubd80\ud0c4 \uc655\uad6d", "common": "\ubd80\ud0c4"}
-
 		},
 		"latlng": [27.5, 90.5],
 		"demonym": "Bhutanese",
@@ -2201,7 +2163,6 @@
 			"pol": {"official": "Wyspa Bouveta", "common": "Wyspa Bouveta"},
 			"urd": {"official": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1"},
 			"kor": {"official": "\ubd80\ubca0 \uc12c", "common": "\ubd80\ubca0 \uc12c"}
-
 		},
 		"latlng": [-54.43333333, 3.4],
 		"demonym": "",
@@ -2254,7 +2215,6 @@
 			"pol": {"official": "Republika Botswany", "common": "Botswana"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0679\u0633\u0648\u0627\u0646\u0627", "common": "\u0628\u0648\u0679\u0633\u0648\u0627\u0646\u0627"},
 			"kor": {"official": "\ubcf4\uce20\uc640\ub098 \uacf5\ud654\uad6d", "common": "\ubcf4\uce20\uc640\ub098"}
-
 		},
 		"latlng": [-22, 24],
 		"demonym": "Motswana",
@@ -2318,7 +2278,6 @@
 			"pol": {"official": "Republika \u015Arodkowoafryka\u0144ska", "common": "Republika \u015Arodkowoafryka\u0144ska"},
 			"urd": {"official": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1", "common": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"},
 			"kor": {"official": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d", "common": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"}
-
 		},
 		"latlng": [7, 21],
 		"demonym": "Central African",
@@ -2372,7 +2331,6 @@
 			"pol": {"official": "Kanada", "common": "Kanada"},
 			"urd": {"official": "\u06a9\u06cc\u0646\u06cc\u0688\u0627", "common": "\u06a9\u06cc\u0646\u06cc\u0688\u0627"},
 			"kor": {"official": "\uce90\ub098\ub2e4", "common": "\uce90\ub098\ub2e4"}
-
 		},
 		"latlng": [60, -95],
 		"demonym": "Canadian",
@@ -2428,7 +2386,6 @@
 			"pol": {"official": "Wyspy Kokosowe", "common": "Wyspy Kokosowe"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 (\u06a9\u06cc\u0644\u0646\u06af) \u06a9\u0648\u06a9\u0648\u0633", "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u0648\u06a9\u0648\u0633"},
 			"kor": {"official": "\ucf54\ucf54\uc2a4 \uc81c\ub3c4", "common": "\ucf54\ucf54\uc2a4 \uc81c\ub3c4"}
-
 		},
 		"latlng": [-12.5, 96.83333333],
 		"demonym": "Cocos Islander",
@@ -2501,7 +2458,6 @@
 			"pol": {"official": "Konfederacja Szwajcarska", "common": "Szwajcaria"},
 			"urd": {"official": "\u0633\u0648\u0626\u06cc\u0633  \u0645\u062a\u062d\u062f\u06c1", "common": "\u0633\u0648\u06cc\u0679\u0630\u0631\u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uc2a4\uc704\uc2a4 \uc5f0\ubc29", "common": "\uc2a4\uc704\uc2a4"}
-
 		},
 		"latlng": [47, 8],
 		"demonym": "Swiss",
@@ -2554,7 +2510,6 @@
 			"pol": {"official": "Republika Chile", "common": "Chile"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0644\u06cc", "common": "\u0686\u0644\u06cc"},
 			"kor": {"official": "\uce60\ub808 \uacf5\ud654\uad6d", "common": "\uce60\ub808"}
-
 		},
 		"latlng": [-30, -71],
 		"demonym": "Chilean",
@@ -2622,7 +2577,6 @@
 			"pol": {"official": "Chi\u0144ska Republika Ludowa", "common": "Chiny"},
 			"urd": {"official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646", "common": "\u0686\u06cc\u0646"},
 			"kor": {"official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d", "common": "\uc911\uad6d"}
-
 		},
 		"latlng": [35, 105],
 		"demonym": "Chinese",
@@ -2700,7 +2654,6 @@
 			"pol": {"official": "Republika Wybrze\u017Ba Ko\u015Bci S\u0142oniowej", "common": "Wybrze\u017Be Ko\u015Bci S\u0142oniowej"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u062a \u062f\u06cc\u0648\u0627\u063a", "common": "\u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"},
 			"kor": {"official": "\ucf54\ud2b8\ub514\ubd80\uc544\ub974 \uacf5\ud654\uad6d", "common": "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"}
-
 		},
 		"latlng": [8, -5],
 		"demonym": "Ivorian",
@@ -2761,7 +2714,6 @@
 			"pol": {"official": "Republika Wybrze\u017Ba Ko\u015Bci S\u0142oniowej", "common": "Wybrze\u017Be Ko\u015Bci S\u0142oniowej"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0645\u0631\u0648\u0646", "common": "\u06a9\u06cc\u0645\u0631\u0648\u0646"},
 			"kor": {"official": "\uce74\uba54\ub8ec \uacf5\ud654\uad6d", "common": "\uce74\uba54\ub8ec"}
-
 		},
 		"latlng": [6, 12],
 		"demonym": "Cameroonian",
@@ -2845,7 +2797,6 @@
 			"pol": {"official": "Demokratyczna Republika Konga", "common": "Demokratyczna Republika Konga"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648", "common": "\n\u06a9\u0627\u0646\u06af\u0648"},
 			"kor": {"official": "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d"}
-
 		},
 		"latlng": [0, 25],
 		"demonym": "Congolese",
@@ -2909,7 +2860,6 @@
 			"pol": {"official": "Republika Konga", "common": "Kongo"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648", "common": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648"},
 			"kor": {"official": "\ucf69\uace0", "common": "\ucf69\uace0"}
-
 		},
 		"latlng": [-1, 15],
 		"demonym": "Congolese",
@@ -2966,7 +2916,6 @@
 			"pol": {"official": "Wyspy Cooka", "common": "Wyspy Cooka"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9", "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9"},
 			"kor": {"official": "\ucfe1 \uc81c\ub3c4", "common": "\ucfe1 \uc81c\ub3c4"}
-
 		},
 		"latlng": [-21.23333333, -159.76666666],
 		"demonym": "Cook Islander",
@@ -3026,7 +2975,6 @@
 			"pol": {"official": "Republika Kolumbii", "common": "Kolumbia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627", "common": "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"},
 			"kor": {"official": "\ucf5c\ub86c\ube44\uc544 \uacf5\ud654\uad6d", "common": "\ucf5c\ub86c\ube44\uc544"}
-
 		},
 		"latlng": [4, -72],
 		"demonym": "Colombian",
@@ -3090,7 +3038,6 @@
 			"pol": {"official": "Związek Komor\u00F3w", "common": "Komory"},
 			"urd": {"official": "\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0642\u0645\u0631\u06cc", "common": "\u0627\u0644\u0642\u0645\u0631\u06cc"},
 			"kor": {"official": "\ucf54\ubaa8\ub85c \uc5f0\ubc29", "common": "\ucf54\ubaa8\ub85c"}
-
 		},
 		"latlng": [-12.16666666, 44.25],
 		"demonym": "Comoran",
@@ -3149,7 +3096,6 @@
 			"pol": {"official": "Republika Zielonego Przyl\u0105dka", "common": "Republika Zielonego Przyl\u0105dka"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc", "common": "\u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc"},
 			"kor": {"official": "\uce74\ubcf4\ubca0\ub974\ub370 \uacf5\ud654\uad6d", "common": "\uce74\ubcf4\ubca0\ub974\ub370"}
-
 		},
 		"latlng": [16, -24],
 		"demonym": "Cape Verdian",
@@ -3209,7 +3155,6 @@
 			"pol": {"official": "Republika Kostaryki", "common": "Kostaryka"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627", "common": "\u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627"},
 			"kor": {"official": "\ucf54\uc2a4\ud0c0\ub9ac\uce74 \uacf5\ud654\uad6d", "common": "\ucf54\uc2a4\ud0c0\ub9ac\uce74"}
-
 		},
 		"latlng": [10, -84],
 		"demonym": "Costa Rican",
@@ -3262,7 +3207,6 @@
 			"pol": {"official": "Republika Kuby", "common": "Kuba"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0648\u0628\u0627", "common": "\u06a9\u06cc\u0648\u0628\u0627"},
 			"kor": {"official": "\ucfe0\ubc14 \uacf5\ud654\uad6d", "common": "\ucfe0\ubc14"}
-
 		},
 		"latlng": [21.5, -80],
 		"demonym": "Cuban",
@@ -3330,7 +3274,6 @@
 			"pol": {"official": "Cura\u00E7ao", "common": "Cura\u00E7ao"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624", "common": "\u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624"},
 			"kor": {"official": "\ud034\ub77c\uc18c", "common": "\ud034\ub77c\uc18c"}
-
 		},
 		"latlng": [12.116667, -68.933333],
 		"demonym": "Cura\u00e7aoan",
@@ -3386,7 +3329,6 @@
 			"pol": {"official": "Wyspa Bo\u017Cego Narodzenia", "common": "Wyspa Bo\u017Cego Narodzenia"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633"},
 			"kor": {"official": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c", "common": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c"}
-
 		},
 		"latlng": [-10.5, 105.66666666],
 		"demonym": "Christmas Islander",
@@ -3439,7 +3381,6 @@
 			"pol": {"official": "Kajmany", "common": "Kajmany"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646", "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646"},
 			"kor": {"official": "\ucf00\uc774\ub9e8 \uc81c\ub3c4", "common": "\ucf00\uc774\ub9e8 \uc81c\ub3c4"}
-
 		},
 		"latlng": [19.5, -80.5],
 		"demonym": "Caymanian",
@@ -3506,7 +3447,6 @@
 			"pol": {"official": "Republika Cypryjska", "common": "Cypr"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0628\u0631\u0635", "common": "\u0642\u0628\u0631\u0635"},
 			"kor": {"official": "\ud0a4\ud504\ub85c\uc2a4 \uacf5\ud654\uad6d", "common": "\ud0a4\ud504\ub85c\uc2a4"}
-
 		},
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
@@ -3564,7 +3504,6 @@
 			"pol": {"official": "Republika Czeska", "common": "Czechy"},
 			"urd": {"official": "\u0686\u064a\u06a9 \u062c\u0645\u06c1\u0648\u0631\u064a\u06c1", "common": "\u0686\u064a\u06a9"},
 			"kor": {"official": "\uccb4\ucf54", "common": "\uccb4\ucf54"}
-
 		},
 		"latlng": [49.75, 15.5],
 		"demonym": "Czech",
@@ -3623,7 +3562,6 @@
 			"pol": {"official": "Republika Federalna Niemiec", "common": "Niemcy"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0631\u0645\u0646\u06cc", "common": "\u062c\u0631\u0645\u0646\u06cc"},
 			"kor": {"official": "\ub3c5\uc77c \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\ub3c5\uc77c"}
-
 		},
 		"latlng": [51, 9],
 		"demonym": "German",
@@ -3691,7 +3629,6 @@
 			"pol": {"official": "Republika D\u017Cibuti", "common": "D\u017Cibuti"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0628\u0648\u062a\u06cc", "common": "\u062c\u0628\u0648\u062a\u06cc"},
 			"kor": {"official": "\uc9c0\ubd80\ud2f0 \uacf5\ud654\uad6d", "common": "\uc9c0\ubd80\ud2f0"}
-
 		},
 		"latlng": [11.5, 43],
 		"demonym": "Djibouti",
@@ -3749,7 +3686,6 @@
 			"pol": {"official": "Wsp\u00F3lnota Dominiki", "common": "Dominika"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627", "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"},
 			"kor": {"official": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d", "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"}
-
 		},
 		"latlng": [15.41666666, -61.33333333],
 		"demonym": "Dominican",
@@ -3807,7 +3743,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Danii", "common": "Dania"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0688\u0646\u0645\u0627\u0631\u06a9", "common": "\u0688\u0646\u0645\u0627\u0631\u06a9"},
 			"kor": {"official": "\ub374\ub9c8\ud06c \uc655\uad6d", "common": "\ub374\ub9c8\ud06c"}
-
 		},
 		"latlng": [56, 10],
 		"demonym": "Danish",
@@ -3863,7 +3798,6 @@
 			"pol": {"official": "Republika Dominika\u0144ska", "common": "Dominikana"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646", "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"},
 			"kor": {"official": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d", "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"}
-
 		},
 		"latlng": [19, -70.66666666],
 		"demonym": "Dominican",
@@ -3919,7 +3853,6 @@
 			"pol": {"official": "Algierska Republika Ludowo-Demokratyczna", "common": "Algieria"},
 			"urd": {"official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u062c\u0632\u0627\u0626\u0631", "common": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"},
 			"kor": {"official": "\uc54c\uc81c\ub9ac \uc778\ubbfc \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\uc54c\uc81c\ub9ac"}
-
 		},
 		"latlng": [28, 3],
 		"demonym": "Algerian",
@@ -3972,7 +3905,6 @@
 			"pol": {"official": "Ekwador", "common": "Ekwador"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u06a9\u0648\u0688\u0648\u0631", "common": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"},
 			"kor": {"official": "\uc5d0\ucf70\ub3c4\ub974 \uacf5\ud654\uad6d", "common": "\uc5d0\ucf70\ub3c4\ub974"}
-
 		},
 		"latlng": [-2, -77.5],
 		"demonym": "Ecuadorean",
@@ -4028,7 +3960,6 @@
 			"pol": {"official": "Arabska Republika Egiptu", "common": "Egipt"},
 			"urd": {"official": "\u0645\u0635\u0631\u06cc \u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1", "common": "\u0645\u0635\u0631"},
 			"kor": {"official": "\uc774\uc9d1\ud2b8 \uc544\ub78d \uacf5\ud654\uad6d", "common": "\uc774\uc9d1\ud2b8"}
-
 		},
 		"latlng": [27, 30],
 		"demonym": "Egyptian",
@@ -4096,7 +4027,6 @@
 			"pol": {"official": "Pa\u0144stwo Erytrea", "common": "Erytrea"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0631\u062a\u0631\u06cc\u0627", "common": "\u0627\u0631\u062a\u0631\u06cc\u0627"},
 			"kor": {"official": "\uc5d0\ub9ac\ud2b8\ub808\uc544\uad6d", "common": "\uc5d0\ub9ac\ud2b8\ub808\uc544"}
-
 		},
 		"latlng": [15, 39],
 		"demonym": "Eritrean",
@@ -4159,7 +4089,6 @@
 			"pol": {"official": "Saharyjska Arabska Republika Demokratyczna", "common": "Sahara Zachodnia"},
 			"urd": {"official": "\u0635\u062d\u0631\u0627\u0648\u06cc \u0639\u0631\u0628 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1", "common": "\u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"},
 			"kor": {"official": "\uc0ac\ud558\ub77c \uc544\ub78d \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\uc11c\uc0ac\ud558\ub77c"}
-
 		},
 		"latlng": [24.5, -13],
 		"demonym": "Sahrawi",
@@ -4211,7 +4140,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Hiszpanii ", "common": "Hiszpania"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1", "common": "\u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1"},
 			"kor": {"official": "\uc5d0\uc2a4\ud30c\ub0d0 \uc655\uad6d", "common": "\uc2a4\ud398\uc778"}
-
 		},
 		"latlng": [40, -4],
 		"demonym": "Spanish",
@@ -4262,7 +4190,6 @@
 			"pol": {"official": "Republika Esto\u0144ska", "common": "Estonia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u0679\u0648\u0646\u06cc\u0627", "common": "\u0627\u0633\u0679\u0648\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc5d0\uc2a4\ud1a0\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"}
-
 		},
 		"latlng": [59, 26],
 		"demonym": "Estonian",
@@ -4323,7 +4250,6 @@
 			"pol": {"official": "Federalna Demokratyczna Republika Etiopii", "common": "Etiopia"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627", "common": "\u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627"},
 			"kor": {"official": "\uc5d0\ud2f0\uc624\ud53c\uc544 \uc5f0\ubc29 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\uc5d0\ud2f0\uc624\ud53c\uc544"}
-
 		},
 		"latlng": [8, 38],
 		"demonym": "Ethiopian",
@@ -4382,7 +4308,6 @@
 			"pol": {"official": "Republika Finlandii", "common": "Finlandia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0646 \u0644\u06cc\u0646\u0688", "common": "\u0641\u0646 \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ud540\ub780\ub4dc \uacf5\ud654\uad6d", "common": "\ud540\ub780\ub4dc"}
-
 		},
 		"latlng": [64, 26],
 		"demonym": "Finnish",
@@ -4445,7 +4370,6 @@
 			"pol": {"official": "Republika Fid\u017Ci", "common": "Fid\u017Ci"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u062c\u06cc", "common": "\u0641\u062c\u06cc"},
 			"kor": {"official": "\ud53c\uc9c0 \uacf5\ud654\uad6d", "common": "\ud53c\uc9c0"}
-
 		},
 		"latlng": [-18, 175],
 		"demonym": "Fijian",
@@ -4497,7 +4421,6 @@
 			"pol": {"official": "Falklandy", "common": "Falklandy"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688", "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4", "common": "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4"}
-
 		},
 		"latlng": [-51.75, -59],
 		"demonym": "Falkland Islander",
@@ -4552,7 +4475,6 @@
 			"pol": {"official": "Republika Francuska", "common": "Francja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0631\u0627\u0646\u0633", "common": "\u0641\u0631\u0627\u0646\u0633"},
 			"kor": {"official": "\ud504\ub791\uc2a4 \uacf5\ud654\uad6d", "common": "\ud504\ub791\uc2a4"}
-
 		},
 		"latlng": [46, 2],
 		"demonym": "French",
@@ -4608,7 +4530,6 @@
 			"pol": {"official": "Wyspy Owcze", "common": "Wyspy Owcze"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648", "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648"},
 			"kor": {"official": "\ud398\ub85c \uc81c\ub3c4", "common": "\ud398\ub85c \uc81c\ub3c4"}
-
 		},
 		"latlng": [62, -7],
 		"demonym": "Faroese",
@@ -4667,7 +4588,6 @@
 			"pol": {"official": "Sfederowane Stany Mikronezji", "common": "Mikronezja"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0648\u0641\u0627\u0642\u06cc\u06c1 \u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627", "common": "\u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627"},
 			"kor": {"official": "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544 \uc5f0\ubc29", "common": "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544"}
-
 		},
 		"latlng": [6.91666666, 158.25],
 		"demonym": "Micronesian",
@@ -4719,7 +4639,6 @@
 			"pol": {"official": "Republika Gabo\u0144ska", "common": "Gabon"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0628\u0648\u0646", "common": "\u06af\u06cc\u0628\u0648\u0646"},
 			"kor": {"official": "\uac00\ubd09 \uacf5\ud654\uad6d", "common": "\uac00\ubd09"}
-
 		},
 		"latlng": [-1, 11.75],
 		"demonym": "Gabonese",
@@ -4774,7 +4693,6 @@
 			"pol": {"official": "Zjednoczone Kr\u00F3lestwo Wielkiej Brytanii i Irlandii P\u00F3\u0142nocnej", "common": "Zjednoczone Kr\u0142lestwo"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1 \u0628\u0631\u0637\u0627\u0646\u06cc\u06c1 \u0639\u0638\u0645\u06cc \u0648 \u0634\u0645\u0627\u0644\u06cc \u0622\u0626\u0631\u0644\u06cc\u0646\u0688", "common": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1"},
 			"kor": {"official": "\uadf8\ub808\uc774\ud2b8\ube0c\ub9ac\ud2bc \ubd81\uc544\uc77c\ub79c\ub4dc \uc5f0\ud569 \uc655\uad6d", "common": "\uc601\uad6d"}
-
 		},
 		"latlng": [54, -2],
 		"demonym": "British",
@@ -4829,7 +4747,6 @@
 			"pol": {"official": "Gruzja", "common": "Gruzja"},
 			"urd": {"official": "\u062c\u0627\u0631\u062c\u06cc\u0627", "common": "\u062c\u0627\u0631\u062c\u06cc\u0627"},
 			"kor": {"official": "\uc870\uc9c0\uc544", "common": "\uc870\uc9c0\uc544"}
-
 		},
 		"latlng": [42, 43.5],
 		"demonym": "Georgian",
@@ -4890,7 +4807,6 @@
 			"pol": {"official": "Baliwat Guernsey", "common": "Guernsey"},
 			"urd": {"official": "\u06af\u0631\u0646\u0632\u06cc \u0631\u0648\u062f\u0628\u0627\u0631", "common": "\u06af\u0631\u0646\u0632\u06cc"},
 			"kor": {"official": "\uac74\uc9c0 \uc12c", "common": "\uac74\uc9c0 \uc12c"}
-
 		},
 		"latlng": [49.46666666, -2.58333333],
 		"demonym": "Channel Islander",
@@ -4942,7 +4858,6 @@
 			"pol": {"official": "Republika Ghany", "common": "Ghana"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06be\u0627\u0646\u0627", "common": "\u06af\u06be\u0627\u0646\u0627"},
 			"kor": {"official": "\uac00\ub098 \uacf5\ud654\uad6d", "common": "\uac00\ub098"}
-
 		},
 		"latlng": [8, -2],
 		"demonym": "Ghanaian",
@@ -4992,7 +4907,6 @@
 			"pol": {"official": "Gibraltar", "common": "Gibraltar"},
 			"urd": {"official": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642", "common": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642"},
 			"kor": {"official": "\uc9c0\ube0c\ub864\ud130", "common": "\uc9c0\ube0c\ub864\ud130"}
-
 		},
 		"latlng": [36.13333333, -5.35],
 		"demonym": "Gibraltar",
@@ -5051,7 +4965,6 @@
 			"pol": {"official": "Republika Gwinei", "common": "Gwinea"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc", "common": "\u06af\u0646\u06cc"},
 			"kor": {"official": "\uae30\ub2c8 \uacf5\ud654\uad6d", "common": "\uae30\ub2c8"}
-
 		},
 		"latlng": [11, -10],
 		"demonym": "Guinean",
@@ -5101,7 +5014,6 @@
 			"pol": {"official": "Gwadelupa", "common": "Gwadelupa"},
 			"urd": {"official": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e", "common": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e"},
 			"kor": {"official": "\uacfc\ub4e4\ub8e8\ud504", "common": "\uacfc\ub4e4\ub8e8\ud504"}
-
 		},
 		"latlng": [16.25, -61.583333],
 		"demonym": "Guadeloupian",
@@ -5153,7 +5065,6 @@
 			"pol": {"official": "Republika Gambii", "common": "Gambia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0645\u0628\u06cc\u0627", "common": "\u06af\u06cc\u0645\u0628\u06cc\u0627"},
 			"kor": {"official": "\uac10\ube44\uc544 \uacf5\ud654\uad6d", "common": "\uac10\ube44\uc544"}
-
 		},
 		"latlng": [13.46666666, -16.56666666],
 		"demonym": "Gambian",
@@ -5215,7 +5126,6 @@
 			"pol": {"official": "Republika Gwinei Bissau", "common": "Gwinea Bissau"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc \u0628\u0633\u0627\u0624", "common": "\u06af\u0646\u06cc \u0628\u0633\u0627\u0624"},
 			"kor": {"official": "\uae30\ub2c8\ube44\uc0ac\uc6b0 \uacf5\ud654\uad6d", "common": "\uae30\ub2c8\ube44\uc0ac\uc6b0"}
-
 		},
 		"latlng": [12, -15],
 		"demonym": "Guinea-Bissauan",
@@ -5284,7 +5194,6 @@
 			"pol": {"official": "Republika Gwinei R\u00F3wnikowej", "common": "Gwinea R\u00F3wnikowa"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc", "common": "\u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc"},
 			"kor": {"official": "\uc801\ub3c4 \uae30\ub2c8 \uacf5\ud654\uad6d", "common": "\uc801\ub3c4 \uae30\ub2c8"}
-
 		},
 		"latlng": [2, 10],
 		"demonym": "Equatorial Guinean",
@@ -5344,7 +5253,6 @@
 			"pol": {"official": "Republika Grecka", "common": "Grecja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0644\u06cc\u0646\u06cc\u06c1", "common": "\u06cc\u0648\u0646\u0627\u0646"},
 			"kor": {"official": "\uadf8\ub9ac\uc2a4 \uacf5\ud654\uad6d", "common": "\uadf8\ub9ac\uc2a4"}
-
 		},
 		"latlng": [39, 22],
 		"demonym": "Greek",
@@ -5394,7 +5302,6 @@
 			"pol": {"official": "Grenada", "common": "Grenada"},
 			"urd": {"official": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627", "common": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627"},
 			"kor": {"official": "\uadf8\ub808\ub098\ub2e4", "common": "\uadf8\ub808\ub098\ub2e4"}
-
 		},
 		"latlng": [12.11666666, -61.66666666],
 		"demonym": "Grenadian",
@@ -5446,7 +5353,6 @@
 			"pol": {"official": "Grenlandia", "common": "Grenlandia"},
 			"urd": {"official": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688", "common": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uadf8\ub9b0\ub780\ub4dc", "common": "\uadf8\ub9b0\ub780\ub4dc"}
-
 		},
 		"latlng": [72, -40],
 		"demonym": "Greenlandic",
@@ -5501,7 +5407,6 @@
 			"pol": {"official": "Republika Gwatemali", "common": "Gwatemala"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627", "common": "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"},
 			"kor": {"official": "\uacfc\ud14c\ub9d0\ub77c \uacf5\ud654\uad6d", "common": "\uacfc\ud14c\ub9d0\ub77c"}
-
 		},
 		"latlng": [15.5, -90.25],
 		"demonym": "Guatemalan",
@@ -5553,7 +5458,6 @@
 			"pol": {"official": "Gujana Francuska", "common": "Gujana Francuska"},
 			"urd": {"official": "\u06af\u06cc\u0627\u0646\u0627", "common": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u06af\u06cc\u0627\u0646\u0627"},
 			"kor": {"official": "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098", "common": "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098"}
-
 		},
 		"latlng": [4, -53],
 		"demonym": "Guianan",
@@ -5607,7 +5511,6 @@
 			"pol": {"official": "Terytorium Guamu", "common": "Guam"},
 			"urd": {"official": "\u06af\u0648\u0627\u0645", "common": "\u06af\u0648\u0627\u0645"},
 			"kor": {"official": "\uad0c", "common": "\uad0c"}
-
 		},
 		"latlng": [13.46666666, 144.78333333],
 		"demonym": "Guamanian",
@@ -5662,7 +5565,6 @@
 			"pol": {"official": "Kooperacyjna Republika Gujany", "common": "Gujana"},
 			"urd": {"official": "\u062a\u0639\u0627\u0648\u0646\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0627\u0646\u0627", "common": "\u06af\u06cc\u0627\u0646\u0627"},
 			"kor": {"official": "\uac00\uc774\uc544\ub098 \ud611\ub3d9 \uacf5\ud654\uad6d", "common": "\uac00\uc774\uc544\ub098"}
-
 		},
 		"latlng": [5, -59],
 		"demonym": "Guyanese",
@@ -5719,7 +5621,6 @@
 			"pol": {"official": "Specjalny Region Administracyjny Chi\u0144skiej Republiki Ludowej Hongkong", "common": "Hongkong"},
 			"urd": {"official": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1", "common": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"},
 			"kor": {"official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ud64d\ucf69 \ud2b9\ubcc4\ud589\uc815\uad6c", "common": "\ud64d\ucf69"}
-
 		},
 		"latlng": [22.267, 114.188],
 		"demonym": "Hong Konger",
@@ -5774,7 +5675,6 @@
 			"pol": {"official": "Terytorium Wysp Heard i McDonalda", "common": "Wyspy Heard i McDonalda"},
 			"urd": {"official": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688"},
 			"kor": {"official": "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4", "common": "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4"}
-
 		},
 		"latlng": [-53.1, 72.51666666],
 		"demonym": "Heard and McDonald Islander",
@@ -5833,7 +5733,6 @@
 			"pol": {"official": "Republika Hondurasu", "common": "Honduras"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633", "common": "\u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633"},
 			"kor": {"official": "\uc628\ub450\ub77c\uc2a4 \uacf5\ud654\uad6d", "common": "\uc628\ub450\ub77c\uc2a4"}
-
 		},
 		"latlng": [15, -86.5],
 		"demonym": "Honduran",
@@ -5891,7 +5790,6 @@
 			"pol": {"official": "Republika Chorwacji", "common": "Chorwacja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"},
 			"kor": {"official": "\ud06c\ub85c\uc544\ud2f0\uc544 \uacf5\ud654\uad6d", "common": "\ud06c\ub85c\uc544\ud2f0\uc544"}
-
 		},
 		"latlng": [45.16666666, 15.5],
 		"demonym": "Croatian",
@@ -5952,7 +5850,6 @@
 			"pol": {"official": "Republika Haiti", "common": "Haiti"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0679\u06cc", "common": "\u06c1\u06cc\u0679\u06cc"},
 			"kor": {"official": "\uc544\uc774\ud2f0 \uacf5\ud654\uad6d", "common": "\uc544\uc774\ud2f0"}
-
 		},
 		"latlng": [19, -72.41666666],
 		"demonym": "Haitian",
@@ -6007,7 +5904,6 @@
 			"pol": {"official": "W\u0119gry", "common": "W\u0119gry"},
 			"urd": {"official": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646", "common": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud5dd\uac00\ub9ac", "common": "\ud5dd\uac00\ub9ac"}
-
 		},
 		"latlng": [47, 20],
 		"demonym": "Hungarian",
@@ -6059,7 +5955,6 @@
 			"pol": {"official": "Republika Indonezji", "common": "Indonezja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627", "common": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627"},
 			"kor": {"official": "\uc778\ub3c4\ub124\uc2dc\uc544 \uacf5\ud654\uad6d", "common": "\uc778\ub3c4\ub124\uc2dc\uc544"}
-
 		},
 		"latlng": [-5, 120],
 		"demonym": "Indonesian",
@@ -6112,7 +6007,6 @@
 			"pol": {"official": "Wyspa Man", "common": "Wyspa Man"},
 			"urd": {"official": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646", "common": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646"},
 			"kor": {"official": "\ub9e8\uc12c", "common": "\ub9e8\uc12c"}
-
 		},
 		"latlng": [54.25, -4.5],
 		"demonym": "Manx",
@@ -6178,7 +6072,6 @@
 			"pol": {"official": "Republika Indii", "common": "Indie"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06be\u0627\u0631\u062a", "common": "\u0628\u06be\u0627\u0631\u062a"},
 			"kor": {"official": "\uc778\ub3c4 \uacf5\ud654\uad6d", "common": "\uc778\ub3c4"}
-
 		},
 		"latlng": [20, 77],
 		"demonym": "Indian",
@@ -6234,7 +6127,6 @@
 			"pol": {"official": "Brytyjskie Terytorium Oceanu Indyjskiego", "common": "Brytyjskie Terytorium Oceanu Indyjskiego"},
 			"urd": {"official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1", "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1"},
 			"kor": {"official": "\uc778\ub3c4 \uacf5\ud654\uad6d", "common": "\uc778\ub3c4"}
-
 		},
 		"latlng": [-6, 71.5],
 		"demonym": "Indian",
@@ -6295,7 +6187,6 @@
 			"pol": {"official": "Republika Irlandii", "common": "Irlandia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uc544\uc77c\ub79c\ub4dc \uacf5\ud654\uad6d", "common": "\uc544\uc77c\ub79c\ub4dc"}
-
 		},
 		"latlng": [53, -8],
 		"demonym": "Irish",
@@ -6355,7 +6246,6 @@
 			"pol": {"official": "Islamska Republika Iranu", "common": "Iran"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0631\u0627\u0646", "common": "\u0627\u06cc\u0631\u0627\u0646"},
 			"kor": {"official": "\uc774\ub780 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d", "common": "\uc774\ub780"}
-
 		},
 		"latlng": [32, 53],
 		"demonym": "Iranian",
@@ -6422,7 +6312,6 @@
 			"pol": {"official": "Republika Iraku", "common": "Irak"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0639\u0631\u0627\u0642", "common": "\u0639\u0631\u0627\u0642"},
 			"kor": {"official": "\uc774\ub77c\ud06c \uacf5\ud654\uad6d", "common": "\uc774\ub77c\ud06c"}
-
 		},
 		"latlng": [33, 44],
 		"demonym": "Iraqi",
@@ -6479,7 +6368,6 @@
 			"pol": {"official": "Republika Islandii", "common": "Islandia"},
 			"urd": {"official": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688", "common": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uc544\uc774\uc2ac\ub780\ub4dc \uacf5\ud654\uad6d", "common": "\uc544\uc774\uc2ac\ub780\ub4dc"}
-
 		},
 		"latlng": [65, -18],
 		"demonym": "Icelander",
@@ -6538,7 +6426,6 @@
 			"pol": {"official": "Pa\u0144stwo Izrael", "common": "Izrael"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644", "common": "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"},
 			"kor": {"official": "\uc774\uc2a4\ub77c\uc5d8\uad6d", "common": "\uc774\uc2a4\ub77c\uc5d8"}
-
 		},
 		"latlng": [31.47, 35.13],
 		"demonym": "Israeli",
@@ -6590,7 +6477,6 @@
 			"pol": {"official": "Republika W\u0142oska", "common": "W\u0142ochy"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0637\u0627\u0644\u06cc\u06c1", "common": "\u0627\u0637\u0627\u0644\u06cc\u06c1"},
 			"kor": {"official": "\uc774\ud0c8\ub9ac\uc544 \uacf5\ud654\uad6d", "common": "\uc774\ud0c8\ub9ac\uc544"}
-
 		},
 		"latlng": [42.83333333, 12.83333333],
 		"demonym": "Italian",
@@ -6643,7 +6529,6 @@
 			"pol": {"official": "Jamajka", "common": "Jamajka"},
 			"urd": {"official": "\u062c\u0645\u06cc\u06a9\u0627", "common": "\u062c\u0645\u06cc\u06a9\u0627"},
 			"kor": {"official": "\uc790\uba54\uc774\uce74", "common": "\uc790\uba54\uc774\uce74"}
-
 		},
 		"latlng": [18.25, -77.5],
 		"demonym": "Jamaican",
@@ -6705,7 +6590,6 @@
 			"pol": {"official": "Jersey", "common": "Jersey"},
 			"urd": {"official": "\u062c\u0631\u0632\u06cc", "common": "\u062c\u0631\u0632\u06cc"},
 			"kor": {"official": "\uc800\uc9c0 \uc12c", "common": "\uc800\uc9c0 \uc12c"}
-
 		},
 		"latlng": [49.25, -2.16666666],
 		"demonym": "Channel Islander",
@@ -6764,7 +6648,6 @@
 			"pol": {"official": "Jorda\u0144skie Kr\u00F3lestwo Haszymidzkie", "common": "Jordania"},
 			"urd": {"official": "\u06be\u0627\u0634\u0645\u06cc \u0645\u0645\u0644\u06a9\u062a\u0650 \u0627\u0631\u062f\u0646", "common": "\u0627\u0631\u062f\u0646"},
 			"kor": {"official": "\uc694\ub974\ub2e8 \ud558\uc2ec \uc655\uad6d", "common": "\uc694\ub974\ub2e8"}
-
 		},
 		"latlng": [31, 36],
 		"demonym": "Jordanian",
@@ -6816,7 +6699,6 @@
 			"pol": {"official": "Japonia", "common": "Japonia"},
 			"urd": {"official": "\u062c\u0627\u067e\u0627\u0646", "common": "\u062c\u0627\u067e\u0627\u0646"},
 			"kor": {"official": "\uc77c\ubcf8\uad6d", "common": "\uc77c\ubcf8"}
-
 		},
 		"latlng": [36, 138],
 		"demonym": "Japanese",
@@ -6883,7 +6765,6 @@
 			"pol": {"official": "Republika Kazachstanu", "common": "Kazachstan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646", "common": "\u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\uce74\uc790\ud750\uc2a4\ud0c4 \uacf5\ud654\uad6d", "common": "\uce74\uc790\ud750\uc2a4\ud0c4"}
-
 		},
 		"latlng": [48, 68],
 		"demonym": "Kazakhstani",
@@ -6936,7 +6817,6 @@
 			"pol": {"official": "Republika Kenii", "common": "Kenia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0646\u06cc\u0627", "common": "\u06a9\u06cc\u0646\u06cc\u0627"},
 			"kor": {"official": "\ucf00\ub0d0 \uacf5\ud654\uad6d", "common": "\ucf00\ub0d0"}
-
 		},
 		"latlng": [1, 38],
 		"demonym": "Kenyan",
@@ -7000,7 +6880,6 @@
 			"pol": {"official": "Republika Kirgiska", "common": "Kirgistan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646", "common": "\u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud0a4\ub974\uae30\uc2a4 \uacf5\ud654\uad6d", "common": "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"}
-
 		},
 		"latlng": [41, 75],
 		"demonym": "Kirghiz",
@@ -7056,7 +6935,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Kambod\u017Cy", "common": "Kambod\u017Ca"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u0645\u0628\u0648\u0688\u06cc\u0627", "common": "\u06a9\u0645\u0628\u0648\u0688\u06cc\u0627"},
 			"kor": {"official": "\uce84\ubcf4\ub514\uc544 \uc655\uad6d", "common": "\uce84\ubcf4\ub514\uc544"}
-
 		},
 		"latlng": [13, 105],
 		"demonym": "Cambodian",
@@ -7112,7 +6990,6 @@
 			"pol": {"official": "Republika Kiribati", "common": "Kiribati"},
 			"urd": {"official": "\u0633\u0644\u0637\u0646\u062a \u0622\u0632\u0627\u062f \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc", "common": "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"},
 			"kor": {"official": "\ud0a4\ub9ac\ubc14\uc2dc \uacf5\ud654\uad6d", "common": "\ud0a4\ub9ac\ubc14\uc2dc"}
-
 		},
 		"latlng": [1.41666666, 173],
 		"demonym": "I-Kiribati",
@@ -7167,7 +7044,6 @@
 			"pol": {"official": "Federacja Saint Kitts i Nevis", "common": "Saint Kitts i Nevis"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u0650 \u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633", "common": "\u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633"},
 			"kor": {"official": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4 \uc5f0\ubc29", "common": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4"}
-
 		},
 		"latlng": [17.33333333, -62.75],
 		"demonym": "Kittitian or Nevisian",
@@ -7284,7 +7160,6 @@
 			"pol": {"official": "Republika Kosowa", "common": "Kosowo"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0648\u0648\u06c1", "common": "\u06a9\u0648\u0633\u0648\u0648\u06c1"},
 			"kor": {"official": "\ucf54\uc18c\ubcf4 \uacf5\ud654\uad6d", "common": "\ucf54\uc18c\ubcf4"}
-
 		},
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
@@ -7339,7 +7214,6 @@
 			"pol": {"official": "Pa\u0144stwo Kuwejt", "common": "Kuwejt"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u06a9\u0648\u06cc\u062a", "common": "\u06a9\u0648\u06cc\u062a"},
 			"kor": {"official": "\ucfe0\uc6e8\uc774\ud2b8\uad6d", "common": "\ucfe0\uc6e8\uc774\ud2b8"}
-
 		},
 		"latlng": [29.5, 45.75],
 		"demonym": "Kuwaiti",
@@ -7399,7 +7273,6 @@
 			"pol": {"official": "Laota\u0144ska Republika Ludowo-Demokratyczna", "common": "Laos"},
 			"urd": {"official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0627\u0624", "common": "\u0644\u0627\u0624\u0633"},
 			"kor": {"official": "\ub77c\uc624 \uc778\ubbfc \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\ub77c\uc624\uc2a4"}
-
 		},
 		"latlng": [18, 105],
 		"demonym": "Laotian",
@@ -7459,7 +7332,6 @@
 			"pol": {"official": "Republika Liba\u0144ska", "common": "Liban"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0628\u0646\u0627\u0646", "common": "\u0644\u0628\u0646\u0627\u0646"},
 			"kor": {"official": "\ub808\ubc14\ub17c \uacf5\ud654\uad6d", "common": "\ub808\ubc14\ub17c"}
-
 		},
 		"latlng": [33.83333333, 35.83333333],
 		"demonym": "Lebanese",
@@ -7511,7 +7383,6 @@
 			"pol": {"official": "Republika Liberii", "common": "Liberia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627", "common": "\u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627"},
 			"kor": {"official": "\ub77c\uc774\ubca0\ub9ac\uc544 \uacf5\ud654\uad6d", "common": "\ub77c\uc774\ubca0\ub9ac\uc544"}
-
 		},
 		"latlng": [6.5, -9.5],
 		"demonym": "Liberian",
@@ -7566,7 +7437,6 @@
 			"pol": {"official": "Pa\u0144stwo Libia", "common": "Libia"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0644\u06cc\u0628\u06cc\u0627", "common": "\u0644\u06cc\u0628\u06cc\u0627"},
 			"kor": {"official": "\ub9ac\ube44\uc544", "common": "\ub9ac\ube44\uc544"}
-
 		},
 		"latlng": [25, 17],
 		"demonym": "Libyan",
@@ -7618,7 +7488,6 @@
 			"pol": {"official": "Saint Lucia", "common": "Saint Lucia"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627", "common": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627"},
 			"kor": {"official": "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544", "common": "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544"}
-
 		},
 		"latlng": [13.88333333, -60.96666666],
 		"demonym": "Saint Lucian",
@@ -7677,7 +7546,6 @@
 			"pol": {"official": "Ksi\u0119stwo Liechtensteinu", "common": "Liechtenstein"},
 			"urd": {"official": "\u0627\u0645\u0627\u0631\u0627\u062a \u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646", "common": "\u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646"},
 			"kor": {"official": "\ub9ac\ud788\ud150\uc288\ud0c0\uc778 \uacf5\uad6d", "common": "\ub9ac\ud788\ud150\uc288\ud0c0\uc778"}
-
 		},
 		"latlng": [47.26666666, 9.53333333],
 		"demonym": "Liechtensteiner",
@@ -7744,7 +7612,6 @@
 			"pol": {"official": "Demokratyczno-Socjalistyczna Republika Sri Lanki", "common": "Sri Lanka"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u0648 \u0627\u0634\u062a\u0631\u0627\u06a9\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u06cc \u0644\u0646\u06a9\u0627", "common": "\u0633\u0631\u06cc \u0644\u0646\u06a9\u0627"},
 			"kor": {"official": "\uc2a4\ub9ac\ub791\uce74 \ubbfc\uc8fc \uc0ac\ud68c\uc8fc\uc758 \uacf5\ud654\uad6d", "common": "\uc2a4\ub9ac\ub791\uce74"}
-
 		},
 		"latlng": [7, 81],
 		"demonym": "Sri Lankan",
@@ -7797,7 +7664,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Lesotho", "common": "Lesotho"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0644\u06cc\u0633\u0648\u062a\u06be\u0648", "common": "\u0644\u06cc\u0633\u0648\u062a\u06be\u0648"},
 			"kor": {"official": "\ub808\uc18c\ud1a0 \uc655\uad6d", "common": "\ub808\uc18c\ud1a0"}
-
 		},
 		"latlng": [-29.5, 28.5],
 		"demonym": "Mosotho",
@@ -7849,7 +7715,6 @@
 			"pol": {"official": "Republika Litewska", "common": "Litwa"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627", "common": "\u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627"},
 			"kor": {"official": "\ub9ac\ud22c\uc544\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\ub9ac\ud22c\uc544\ub2c8\uc544"}
-
 		},
 		"latlng": [56, 24],
 		"demonym": "Lithuanian",
@@ -7918,7 +7783,6 @@
 			"pol": {"official": "Wielkie Ksi\u0119stwo Luksemburga", "common": "Luksemburg"},
 			"urd": {"official": "\u062f\u0648\u0642\u06cc\u06c1 \u06a9\u0628\u06cc\u0631\u0644\u06a9\u0633\u0645\u0628\u0631\u06af", "common": "\u0644\u06a9\u0633\u0645\u0628\u0631\u06af"},
 			"kor": {"official": "\ub8e9\uc148\ubd80\ub974\ud06c \ub300\uacf5\uad6d", "common": "\ub8e9\uc148\ubd80\ub974\ud06c"}
-
 		},
 		"latlng": [49.75, 6.16666666],
 		"demonym": "Luxembourger",
@@ -7970,7 +7834,6 @@
 			"pol": {"official": "Republika \u0141otewska", "common": "\u0141otwa"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0679\u0648\u06cc\u0627", "common": "\u0644\u0679\u0648\u06cc\u0627"},
 			"kor": {"official": "\ub77c\ud2b8\ube44\uc544 \uacf5\ud654\uad6d", "common": "\ub77c\ud2b8\ube44\uc544"}
-
 		},
 		"latlng": [57, 25],
 		"demonym": "Latvian",
@@ -8033,7 +7896,6 @@
 			"pol": {"official": "Specjalny Region Administracyjny Chi\u0144skiej Republiki Ludowej Makau", "common": "Makau"},
 			"urd": {"official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1", "common": "\u0645\u06a9\u0627\u0624"},
 			"kor": {"official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ub9c8\uce74\uc624 \ud2b9\ubcc4\ud589\uc815\uad6c", "common": "\ub9c8\uce74\uc624"}
-
 		},
 		"latlng": [22.16666666, 113.55],
 		"demonym": "Macanese",
@@ -8090,7 +7952,6 @@
 			"pol": {"official": "Wsp\u00F3lnota Saint-Martin", "common": "Saint-Martin"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646", "common": "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"},
 			"kor": {"official": "\uc0dd\ub9c8\ub974\ud0f1", "common": "\uc0dd\ub9c8\ub974\ud0f1"}
-
 		},
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
@@ -8153,7 +8014,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Maroka\u0144skie", "common": "Maroko"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u0631\u0627\u06a9\u0634", "common": "\u0645\u0631\u0627\u06a9\u0634"},
 			"kor": {"official": "\ubaa8\ub85c\ucf54 \uc655\uad6d", "common": "\ubaa8\ub85c\ucf54"}
-
 		},
 		"latlng": [32, -5],
 		"demonym": "Moroccan",
@@ -8209,7 +8069,6 @@
 			"pol": {"official": "Ksi\u0119stwo Monako", "common": "Monako"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0646\u0627\u06a9\u0648", "common": "\u0645\u0648\u0646\u0627\u06a9\u0648"},
 			"kor": {"official": "\ubaa8\ub098\ucf54 \uacf5\uad6d", "common": "\ubaa8\ub098\ucf54"}
-
 		},
 		"latlng": [43.73333333, 7.4],
 		"demonym": "Monegasque",
@@ -8266,7 +8125,6 @@
 			"pol": {"official": "Republika Mo\u0142dawii", "common": "Mo\u0142dawia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u0648\u0648\u0627", "common": "\u0645\u0627\u0644\u062f\u0648\u0648\u0627"},
 			"kor": {"official": "\ubab0\ub3c4\ubc14 \uacf5\ud654\uad6d", "common": "\ubab0\ub3c4\ubc14"}
-
 		},
 		"latlng": [47, 29],
 		"demonym": "Moldovan",
@@ -8330,7 +8188,6 @@
 			"pol": {"official": "Republika Madagaskaru", "common": "Madagaskar"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0688\u063a\u0627\u0633\u06a9\u0631", "common": "\u0645\u0688\u063a\u0627\u0633\u06a9\u0631"},
 			"kor": {"official": "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974 \uacf5\ud654\uad6d", "common": "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974"}
-
 		},
 		"latlng": [-20, 47],
 		"demonym": "Malagasy",
@@ -8390,7 +8247,6 @@
 			"pol": {"official": "Republika Malediw\u00F3w", "common": "Malediwy"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u06cc\u067e", "common": "\u0645\u0627\u0644\u062f\u06cc\u067e"},
 			"kor": {"official": "\ubab0\ub514\ube0c \uacf5\ud654\uad6d", "common": "\ubab0\ub514\ube0c"}
-
 		},
 		"latlng": [3.25, 73],
 		"demonym": "Maldivan",
@@ -8450,7 +8306,6 @@
 			"pol": {"official": "Meksyka\u0144skie Stany Zjednoczone", "common": "Meksyk"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648", "common": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"},
 			"kor": {"official": "\uba55\uc2dc\ucf54 \ud569\uc911\uad6d", "common": "\uba55\uc2dc\ucf54"}
-
 		},
 		"latlng": [23, -102],
 		"demonym": "Mexican",
@@ -8513,7 +8368,6 @@
 			"pol": {"official": "Republika Wysp Marshalla", "common": "Wyspy Marshalla"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644", "common": "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644"},
 			"kor": {"official": "\ub9c8\uc15c \uc81c\ub3c4 \uacf5\ud654\uad6d", "common": "\ub9c8\uc15c \uc81c\ub3c4"}
-
 		},
 		"latlng": [9, 168],
 		"demonym": "Marshallese",
@@ -8573,7 +8427,6 @@
 			"pol": {"official": "Republika Macedonii", "common": "Macedonia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1", "common": "\u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"},
 			"kor": {"official": "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\ub9c8\ucf00\ub3c4\ub2c8\uc544"}
-
 		},
 		"latlng": [41.83333333, 22],
 		"demonym": "Macedonian",
@@ -8625,7 +8478,6 @@
 			"pol": {"official": "Republika Mali", "common": "Mali"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u06cc", "common": "\u0645\u0627\u0644\u06cc"},
 			"kor": {"official": "\ub9d0\ub9ac \uacf5\ud654\uad6d", "common": "\ub9d0\ub9ac"}
-
 		},
 		"latlng": [17, -4],
 		"demonym": "Malian",
@@ -8678,7 +8530,6 @@
 			"pol": {"official": "Republika Malty", "common": "Malta"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u0679\u0627", "common": "\u0645\u0627\u0644\u0679\u0627"},
 			"kor": {"official": "\ubab0\ud0c0 \uacf5\ud654\uad6d", "common": "\ubab0\ud0c0"}
-
 		},
 		"latlng": [35.83333333, 14.58333333],
 		"demonym": "Maltese",
@@ -8738,7 +8589,6 @@
 			"pol": {"official": "Republika Zwi\u0105zku Mjanmy", "common": "Mjanma"},
 			"urd": {"official": "\u0645\u062a\u062d\u062f\u06c1 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u06cc\u0627\u0646\u0645\u0627\u0631", "common": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"},
 			"kor": {"official": "\ubbf8\uc580\ub9c8 \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\ubbf8\uc580\ub9c8"}
-
 		},
 		"latlng": [22, 98],
 		"demonym": "Bamar",
@@ -8793,7 +8643,6 @@
 			"pol": {"official": "Czarnog\u00F3ra", "common": "Czarnog\u00F3ra"},
 			"urd": {"official": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648", "common": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648"},
 			"kor": {"official": "\ubaac\ud14c\ub124\uadf8\ub85c", "common": "\ubaac\ud14c\ub124\uadf8\ub85c"}
-
 		},
 		"latlng": [42.5, 19.3],
 		"demonym": "Montenegrin",
@@ -8848,7 +8697,6 @@
 			"pol": {"official": "Mongolia", "common": "Mongolia"},
 			"urd": {"official": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627", "common": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627"},
 			"kor": {"official": "\ubabd\uace8", "common": "\ubabd\uace8\uad6d"}
-
 		},
 		"latlng": [46, 105],
 		"demonym": "Mongolian",
@@ -8915,7 +8763,6 @@
 			"pol": {"official": "Wsp\u00F3lnota Marian\u00F3w P\u00F3\u0142nocnych", "common": "Mariany P\u00F3\u0142nocne"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627", "common": "\u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627"},
 			"kor": {"official": "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4", "common": "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4"}
-
 		},
 		"latlng": [15.2, 145.75],
 		"demonym": "American",
@@ -8973,7 +8820,6 @@
 			"pol": {"official": "Republika Mozambiku", "common": "Mozambik"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0632\u0645\u0628\u06cc\u0642", "common": "\u0645\u0648\u0632\u0645\u0628\u06cc\u0642"},
 			"kor": {"official": "\ubaa8\uc7a0\ube44\ud06c \uacf5\ud654\uad6d", "common": "\ubaa8\uc7a0\ube44\ud06c"}
-
 		},
 		"latlng": [-18.25, 35],
 		"demonym": "Mozambican",
@@ -9032,7 +8878,6 @@
 			"pol": {"official": "Islamska Republika Maureta\u0144ska", "common": "Mauretania"},
 			"urd": {"official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1", "common": "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1"},
 			"kor": {"official": "\ubaa8\ub9ac\ud0c0\ub2c8 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d", "common": "\ubaa8\ub9ac\ud0c0\ub2c8"}
-
 		},
 		"latlng": [20, -12],
 		"demonym": "Mauritanian",
@@ -9082,7 +8927,6 @@
 			"pol": {"official": "Montserrat", "common": "Montserrat"},
 			"urd": {"official": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679", "common": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679"},
 			"kor": {"official": "\ubaac\ud2b8\uc138\ub7ab", "common": "\ubaac\ud2b8\uc138\ub7ab"}
-
 		},
 		"latlng": [16.75, -62.2],
 		"demonym": "Montserratian",
@@ -9132,7 +8976,6 @@
 			"pol": {"official": "Martynika", "common": "Martynika"},
 			"urd": {"official": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9", "common": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9"},
 			"kor": {"official": "\ub9c8\ub974\ud2f0\ub2c8\ud06c", "common": "\ub9c8\ub974\ud2f0\ub2c8\ud06c"}
-
 		},
 		"latlng": [14.666667, -61],
 		"demonym": "French",
@@ -9197,7 +9040,6 @@
 			"pol": {"official": "Republika Mauritiusu", "common": "Mauritius"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u0634\u0633", "common": "\u0645\u0648\u0631\u06cc\u0634\u0633"},
 			"kor": {"official": "\ubaa8\ub9ac\uc154\uc2a4 \uacf5\ud654\uad6d", "common": "\ubaa8\ub9ac\uc154\uc2a4"}
-
 		},
 		"latlng": [-20.28333333, 57.55],
 		"demonym": "Mauritian",
@@ -9253,7 +9095,6 @@
 			"pol": {"official": "Republika Malawi", "common": "Malawi"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0644\u0627\u0648\u06cc", "common": "\u0645\u0644\u0627\u0648\u06cc"},
 			"kor": {"official": "\ub9d0\ub77c\uc704 \uacf5\ud654\uad6d", "common": "\ub9d0\ub77c\uc704"}
-
 		},
 		"latlng": [-13.5, 34],
 		"demonym": "Malawian",
@@ -9309,7 +9150,6 @@
 			"pol": {"official": "Malezja", "common": "Malezja"},
 			"urd": {"official": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627", "common": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627"},
 			"kor": {"official": "\ub9d0\ub808\uc774\uc2dc\uc544", "common": "\ub9d0\ub808\uc774\uc2dc\uc544"}
-
 		},
 		"latlng": [2.5, 112.5],
 		"demonym": "Malaysian",
@@ -9368,7 +9208,6 @@
 			"pol": {"official": "Majotta", "common": "Majotta"},
 			"urd": {"official": "\u0645\u0627\u06cc\u0648\u0679", "common": "\u0645\u0627\u06cc\u0648\u0679"},
 			"kor": {"official": "\ub9c8\uc694\ud2b8", "common": "\ub9c8\uc694\ud2b8"}
-
 		},
 		"latlng": [-12.83333333, 45.16666666],
 		"demonym": "Mahoran",
@@ -9441,7 +9280,6 @@
 			"pol": {"official": "Republika Namibii", "common": "Namibia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0645\u06cc\u0628\u06cc\u0627", "common": "\u0646\u0645\u06cc\u0628\u06cc\u0627"},
 			"kor": {"official": "\ub098\ubbf8\ube44\uc544 \uacf5\ud654\uad6d", "common": "\ub098\ubbf8\ube44\uc544"}
-
 		},
 		"latlng": [-22, 17],
 		"demonym": "Namibian",
@@ -9496,7 +9334,6 @@
 			"pol": {"official": "Nowa Kaledonia", "common": "Nowa Kaledonia"},
 			"urd": {"official": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627", "common": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627"},
 			"kor": {"official": "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8", "common": "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8"}
-
 		},
 		"latlng": [-21.5, 165.5],
 		"demonym": "New Caledonian",
@@ -9548,7 +9385,6 @@
 			"pol": {"official": "Republika Nigru", "common": "Niger"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u0631", "common": "\u0646\u0627\u0626\u062c\u0631"},
 			"kor": {"official": "\ub2c8\uc81c\ub974 \uacf5\ud654\uad6d", "common": "\ub2c8\uc81c\ub974"}
-
 		},
 		"latlng": [16, 8],
 		"demonym": "Nigerien",
@@ -9611,7 +9447,6 @@
 			"pol": {"official": "Terytorium Wyspy Norfolk", "common": "Wyspa Norfolk"},
 			"urd": {"official": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9 \u062e\u0637\u06c1", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9"},
 			"kor": {"official": "\ub178\ud37d \uc12c", "common": "\ub178\ud37d \uc12c"}
-
 		},
 		"latlng": [-29.03333333, 167.95],
 		"demonym": "Norfolk Islander",
@@ -9671,7 +9506,6 @@
 			"pol": {"official": "Federalna Republika Nigerii", "common": "Nigeria"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627", "common": "\u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"},
 			"kor": {"official": "\ub098\uc774\uc9c0\ub9ac\uc544 \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\ub098\uc774\uc9c0\ub9ac\uc544"}
-
 		},
 		"latlng": [10, 8],
 		"demonym": "Nigerian",
@@ -9730,7 +9564,6 @@
 			"pol": {"official": "Republika Nikaragui", "common": "Nikaragua"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627", "common": "\u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"},
 			"kor": {"official": "\ub2c8\uce74\ub77c\uacfc \uacf5\ud654\uad6d", "common": "\ub2c8\uce74\ub77c\uacfc"}
-
 		},
 		"latlng": [13, -85],
 		"demonym": "Nicaraguan",
@@ -9783,7 +9616,6 @@
 			"pol": {"official": "Niue", "common": "Niue"},
 			"urd": {"official": "\u0646\u06cc\u0648\u0648\u06d2", "common": "\u0646\u06cc\u0648\u0648\u06d2"},
 			"kor": {"official": "\ub2c8\uc6b0\uc5d0", "common": "\ub2c8\uc6b0\uc5d0"}
-
 		},
 		"latlng": [-19.03333333, -169.86666666],
 		"demonym": "Niuean",
@@ -9837,7 +9669,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Niderland\u00F3w", "common": "Holandia"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632", "common": "\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"},
 			"kor": {"official": "\ub124\ub35c\ub780\ub4dc \uc655\uad6d", "common": "\ub124\ub35c\ub780\ub4dc"}
-
 		},
 		"latlng": [52.5, 5.75],
 		"demonym": "Dutch",
@@ -9902,7 +9733,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Norwegii", "common": "Norwegia"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u0627\u0631\u0648\u06d2", "common": "\u0646\u0627\u0631\u0648\u06d2"},
 			"kor": {"official": "\ub178\ub974\uc6e8\uc774 \uc655\uad6d", "common": "\ub178\ub974\uc6e8\uc774"}
-
 		},
 		"latlng": [62, 10],
 		"demonym": "Norwegian",
@@ -9961,7 +9791,6 @@
 			"pol": {"official": "Federalna Demokratyczna Republika Nepalu", "common": "Nepal"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u06cc\u067e\u0627\u0644", "common": "\u0646\u06cc\u067e\u0627\u0644"},
 			"kor": {"official": "\ub124\ud314 \uc5f0\ubc29 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\ub124\ud314"}
-
 		},
 		"latlng": [28, 84],
 		"demonym": "Nepalese",
@@ -10020,7 +9849,6 @@
 			"pol": {"official": "Republika Nauru", "common": "Nauru"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0648\u0631\u0648", "common": "\u0646\u0627\u0648\u0631\u0648"},
 			"kor": {"official": "\ub098\uc6b0\ub8e8 \uacf5\ud654\uad6d", "common": "\ub098\uc6b0\ub8e8"}
-
 		},
 		"latlng": [-0.53333333, 166.91666666],
 		"demonym": "Nauruan",
@@ -10078,7 +9906,6 @@
 			"pol": {"official": "Nowa Zelandia", "common": "Nowa Zelandia"},
 			"urd": {"official": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688", "common": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ub274\uc9c8\ub79c\ub4dc", "common": "\ub274\uc9c8\ub79c\ub4dc"}
-
 		},
 		"latlng": [-41, 174],
 		"demonym": "New Zealander",
@@ -10137,7 +9964,6 @@
 			"pol": {"official": "Su\u0142tanat Omanu", "common": "Oman"},
 			"urd": {"official": "\u0633\u0644\u0637\u0646\u062a \u0639\u0645\u0627\u0646", "common": "\u0639\u0645\u0627\u0646"},
 			"kor": {"official": "\uc624\ub9cc \uc220\ud0c4\uad6d", "common": "\uc624\ub9cc"}
-
 		},
 		"latlng": [21, 57],
 		"demonym": "Omani",
@@ -10201,7 +10027,6 @@
 			"pol": {"official": "Islamska Republika Pakistanu", "common": "Pakistan"},
 			"urd": {"official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "common": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud30c\ud0a4\uc2a4\ud0c4 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d", "common": "\ud30c\ud0a4\uc2a4\ud0c4"}
-
 		},
 		"latlng": [30, 70],
 		"demonym": "Pakistani",
@@ -10260,7 +10085,6 @@
 			"pol": {"official": "Republika Panamy", "common": "Panama"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u0646\u0627\u0645\u0627", "common": "\u067e\u0627\u0646\u0627\u0645\u0627"},
 			"kor": {"official": "\ud30c\ub098\ub9c8 \uacf5\ud654\uad6d", "common": "\ud30c\ub098\ub9c8"}
-
 		},
 		"latlng": [9, -80],
 		"demonym": "Panamanian",
@@ -10319,7 +10143,6 @@
 			"pol": {"official": "Wyspy Pitcairn, Henderson, Ducie i Oeno", "common": "Pitcairn"},
 			"urd": {"official": "\u067e\u0679\u06a9\u06cc\u0631\u0646 \u062c\u0632\u0627\u0626\u0631", "common": "\u062c\u0632\u0627\u0626\u0631 \u067e\u0679\u06a9\u06cc\u0631\u0646"},
 			"kor": {"official": "\ud54f\ucf00\uc5b8 \uc81c\ub3c4", "common": "\ud54f\ucf00\uc5b8 \uc81c\ub3c4"}
-
 		},
 		"latlng": [-25.06666666, -130.1],
 		"demonym": "Pitcairn Islander",
@@ -10376,7 +10199,6 @@
 			"pol": {"official": "Republika Peru", "common": "Peru"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0648", "common": "\u067e\u06cc\u0631\u0648"},
 			"kor": {"official": "\ud398\ub8e8 \uacf5\ud654\uad6d", "common": "\ud398\ub8e8"}
-
 		},
 		"latlng": [-10, -76],
 		"demonym": "Peruvian",
@@ -10439,7 +10261,6 @@
 			"pol": {"official": "Republika Filipin", "common": "Filipiny"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0644\u067e\u0627\u0626\u0646", "common": "\u0641\u0644\u067e\u0627\u0626\u0646"},
 			"kor": {"official": "\ud544\ub9ac\ud540 \uacf5\ud654\uad6d", "common": "\ud544\ub9ac\ud540"}
-
 		},
 		"latlng": [13, 122],
 		"demonym": "Filipino",
@@ -10492,7 +10313,6 @@
 			"pol": {"official": "Republika Palau", "common": "Palau"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0644\u0627\u0624", "common": "\u067e\u0644\u0627\u0624"},
 			"kor": {"official": "\ud314\ub77c\uc6b0 \uacf5\ud654\uad6d", "common": "\ud314\ub77c\uc6b0"}
-
 		},
 		"latlng": [7.5, 134.5],
 		"demonym": "Palauan",
@@ -10559,7 +10379,6 @@
 			"pol": {"official": "Niezale\u017Cne Pa\u0144stwo Papui-Nowej Gwinei", "common": "Papua-Nowa Gwinea"},
 			"urd": {"official": "\u0622\u0632\u0627\u062f \u0631\u06cc\u0627\u0633\u062a\u0650 \u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc", "common": "\u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc"},
 			"kor": {"official": "\ud30c\ud478\uc544\ub274\uae30\ub2c8 \ub3c5\ub9bd\uad6d", "common": "\ud30c\ud478\uc544\ub274\uae30\ub2c8"}
-
 		},
 		"latlng": [-6, 147],
 		"demonym": "Papua New Guinean",
@@ -10611,7 +10430,6 @@
 			"pol": {"official": "Rzeczpospolita Polska", "common": "Polska"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0648\u0644\u06cc\u0646\u0688", "common": "\u067e\u0648\u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ud3f4\ub780\ub4dc \uacf5\ud654\uad6d", "common": "\ud3f4\ub780\ub4dc"}
-
 		},
 		"latlng": [52, 20],
 		"demonym": "Polish",
@@ -10674,7 +10492,6 @@
 			"pol": {"official": "Wolne Stowarzyszone Pa\u0144stwo Portoryko", "common": "Portoryko"},
 			"urd": {"official": " \u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648", "common": "\u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"},
 			"kor": {"official": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54", "common": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54"}
-
 		},
 		"latlng": [18.25, -66.5],
 		"demonym": "Puerto Rican",
@@ -10736,7 +10553,6 @@
 			"pol": {"official": "Korea\u0144ska Republika Ludowo-Demokratyczna", "common": "Korea P\u00F3\u0142nocna"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627", "common": "\u0634\u0645\u0627\u0644\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
 			"kor": {"official": "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d", "common": "\uc870\uc120"}
-
 		},
 		"latlng": [40, 127],
 		"demonym": "North Korean",
@@ -10795,7 +10611,6 @@
 			"pol": {"official": "Republika Portugalska", "common": "Portugalia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0631\u062a\u06af\u0627\u0644", "common": "\u067e\u0631\u062a\u06af\u0627\u0644"},
 			"kor": {"official": "\ud3ec\ub974\ud22c\uac08 \uacf5\ud654\uad6d", "common": "\ud3ec\ub974\ud22c\uac08"}
-
 		},
 		"latlng": [39.5, -8],
 		"demonym": "Portuguese",
@@ -10859,7 +10674,6 @@
 			"pol": {"official": "Republika Paragwaju", "common": "Paragwaj"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2", "common": "\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2"},
 			"kor": {"official": "\ud30c\ub77c\uacfc\uc774 \uacf5\ud654\uad6d", "common": "\ud30c\ub77c\uacfc\uc774"}
-
 		},
 		"latlng": [-23, -58],
 		"demonym": "Paraguayan",
@@ -10919,7 +10733,6 @@
 			"pol": {"official": "Pa\u0144stwo Palestyna", "common": "Palestyna"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0641\u0644\u0633\u0637\u06cc\u0646", "common": "\u0641\u0644\u0633\u0637\u06cc\u0646"},
 			"kor": {"official": "\ud314\ub808\uc2a4\ud0c0\uc778\uad6d", "common": "\ud314\ub808\uc2a4\ud0c0\uc778"}
-
 		},
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
@@ -10979,7 +10792,6 @@
 			"pol": {"official": "Polinezja Francuska", "common": "Polinezja Francuska"},
 			"urd": {"official": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627", "common": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627"},
 			"kor": {"official": "\ud504\ub791\uc2a4\ub839 \ud3f4\ub9ac\ub124\uc2dc\uc544", "common": "\ud504\ub791\uc2a4\ub839 \ud3f4\ub9ac\ub124\uc2dc\uc544"}
-
 		},
 		"latlng": [-15, -140],
 		"demonym": "French Polynesian",
@@ -11034,7 +10846,6 @@
 			"pol": {"official": "Pa\u0144stwo Katar", "common": "Katar"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0642\u0637\u0631", "common": "\u0642\u0637\u0631"},
 			"kor": {"official": "\uce74\ud0c0\ub974\uad6d", "common": "\uce74\ud0c0\ub974"}
-
 		},
 		"latlng": [25.5, 51.25],
 		"demonym": "Qatari",
@@ -11089,7 +10900,6 @@
 			"pol": {"official": "Reunion", "common": "Reunion"},
 			"urd": {"official": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba \u062c\u0632\u06cc\u0631\u06c1", "common": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba"},
 			"kor": {"official": "\ub808\uc704\ub2c8\uc639", "common": "\ub808\uc704\ub2c8\uc639"}
-
 		},
 		"latlng": [-21.15, 55.5],
 		"demonym": "French",
@@ -11141,7 +10951,6 @@
 			"pol": {"official": "Rumunia", "common": "Rumunia"},
 			"urd": {"official": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1", "common": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1"},
 			"kor": {"official": "\ub8e8\ub9c8\ub2c8\uc544", "common": "\ub8e8\ub9c8\ub2c8\uc544"}
-
 		},
 		"latlng": [46, 25],
 		"demonym": "Romanian",
@@ -11199,7 +11008,6 @@
 			"pol": {"official": "Federacja Rosyjska", "common": "Rosja"},
 			"urd": {"official": "\u0631\u0648\u0633\u06cc \u0648\u0641\u0627\u0642", "common": "\u0631\u0648\u0633"},
 			"kor": {"official": "\ub7ec\uc2dc\uc544 \uc5f0\ubc29", "common": "\ub7ec\uc2dc\uc544"}
-
 		},
 		"latlng": [60, 100],
 		"demonym": "Russian",
@@ -11273,7 +11081,6 @@
 			"pol": {"official": "Republika Rwandy", "common": "Rwanda"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0631\u0648\u0627\u0646\u0688\u0627", "common": "\u0631\u0648\u0627\u0646\u0688\u0627"},
 			"kor": {"official": "\ub974\uc644\ub2e4 \uacf5\ud654\uad6d", "common": "\ub974\uc644\ub2e4"}
-
 		},
 		"latlng": [-2, 30],
 		"demonym": "Rwandan",
@@ -11333,7 +11140,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Arabii Saudyjskiej", "common": "Arabia Saudyjska"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628", "common": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"},
 			"kor": {"official": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544 \uc655\uad6d", "common": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544"}
-
 		},
 		"latlng": [25, 45],
 		"demonym": "Saudi Arabian",
@@ -11393,7 +11199,6 @@
 			"pol": {"official": "Republika Sudanu", "common": "Sudan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u062f\u0627\u0646", "common": "\u0633\u0648\u062f\u0627\u0646"},
 			"kor": {"official": "\uc218\ub2e8 \uacf5\ud654\uad6d", "common": "\uc218\ub2e8"}
-
 		},
 		"latlng": [15, 30],
 		"demonym": "Sudanese",
@@ -11452,7 +11257,6 @@
 			"pol": {"official": "Senegal", "common": "Senegal"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0646\u06cc\u06af\u0627\u0644", "common": "\u0633\u06cc\u0646\u06cc\u06af\u0627\u0644"},
 			"kor": {"official": "\uc138\ub124\uac08 \uacf5\ud654\uad6d", "common": "\uc138\ub124\uac08"}
-
 		},
 		"latlng": [14, -14],
 		"demonym": "Senegalese",
@@ -11525,7 +11329,6 @@
 			"pol": {"official": "Republika Singapuru", "common": "Singapur"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0646\u06af\u0627\u067e\u0648\u0631", "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"},
 			"kor": {"official": "\uc2f1\uac00\ud3ec\ub974 \uacf5\ud654\uad6d", "common": "\uc2f1\uac00\ud3ec\ub974"}
-
 		},
 		"latlng": [1.36666666, 103.8],
 		"demonym": "Singaporean",
@@ -11580,7 +11383,6 @@
 			"pol": {"official": "Georgia Po\u0142udniowa i Sandwich Po\u0142udniowy", "common": "Georgia Po\u0142udniowa i Sandwich Po\u0142udniowy"},
 			"urd": {"official": "\u062c\u0646\u0648\u0628\u06cc \u062c\u0627\u0631\u062c\u06cc\u0627 \u0648 \u062c\u0632\u0627\u0626\u0631 \u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0688\u0648\u0686", "common": "\u062c\u0646\u0648\u0628\u06cc \u062c\u0627\u0631\u062c\u06cc\u0627"},
 			"kor": {"official": "\uc870\uc9c0\uc544", "common": "\uc870\uc9c0\uc544"}
-
 		},
 		"latlng": [-54.5, -37],
 		"demonym": "South Georgian South Sandwich Islander",
@@ -11635,7 +11437,6 @@
 			"pol": {"official": "Svalbard i Jan Mayen", "common": "Svalbard i Jan Mayen"},
 			"urd": {"official": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646", "common": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646"},
 			"kor": {"official": "\uc2a4\ubc1c\ubc14\ub974 \uc580\ub9c8\uc60c \uc81c\ub3c4", "common": "\uc2a4\ubc1c\ubc14\ub974 \uc580\ub9c8\uc60c \uc81c\ub3c4"}
-
 		},
 		"latlng": [78, 20],
 		"demonym": "Norwegian",
@@ -11687,7 +11488,6 @@
 			"pol": {"official": "Wyspy Salomona", "common": "Wyspy Salomona"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646", "common": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"},
 			"kor": {"official": "\uc194\ub85c\ubaac \uc81c\ub3c4", "common": "\uc194\ub85c\ubaac \uc81c\ub3c4"}
-
 		},
 		"latlng": [-8, 159],
 		"demonym": "Solomon Islander",
@@ -11742,7 +11542,6 @@
 			"pol": {"official": "Sierra Leone", "common": "Sierra Leone"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646", "common": "\u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"},
 			"kor": {"official": "\uc2dc\uc5d0\ub77c\ub9ac\uc628 \uacf5\ud654\uad6d", "common": "\uc2dc\uc5d0\ub77c\ub9ac\uc628"}
-
 		},
 		"latlng": [8.5, -11.5],
 		"demonym": "Sierra Leonean",
@@ -11802,7 +11601,6 @@
 			"pol": {"official": "Republika Salwadoru", "common": "Salwador"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631", "common": "\u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"},
 			"kor": {"official": "\uc5d8\uc0b4\ubc14\ub3c4\ub974 \uacf5\ud654\uad6d", "common": "\uc5d8\uc0b4\ubc14\ub3c4\ub974"}
-
 		},
 		"latlng": [13.83333333, -88.91666666],
 		"demonym": "Salvadoran",
@@ -11861,7 +11659,6 @@
 			"pol": {"official": "Republika San Marino", "common": "San Marino"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648", "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"},
 			"kor": {"official": "\uc0b0\ub9c8\ub9ac\ub178 \uacf5\ud654\uad6d", "common": "\uc0b0\ub9c8\ub9ac\ub178"}
-
 		},
 		"latlng": [43.76666666, 12.41666666],
 		"demonym": "Sammarinese",
@@ -11926,7 +11723,6 @@
 			"pol": {"official": "Federalna Republika Somalii", "common": "Somalia"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0635\u0648\u0645\u0627\u0644\u06cc\u06c1", "common": "\u0635\u0648\u0645\u0627\u0644\u06cc\u06c1"},
 			"kor": {"official": " \uc18c\ub9d0\ub9ac\uc544 \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\uc18c\ub9d0\ub9ac\uc544"}
-
 		},
 		"latlng": [10, 49],
 		"demonym": "Somali",
@@ -11984,7 +11780,6 @@
 			"pol": {"official": "Saint-Pierre i Miquelon", "common": "Saint-Pierre i Miquelon"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646", "common": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646"},
 			"kor": {"official": "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871", "common": "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871"}
-
 		},
 		"latlng": [46.83333333, -56.33333333],
 		"demonym": "French",
@@ -12045,7 +11840,6 @@
 			"pol": {"official": "Republika Serbii", "common": "Serbia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u0628\u06cc\u0627", "common": "\u0633\u0631\u0628\u06cc\u0627"},
 			"kor": {"official": "\uc138\ub974\ube44\uc544 \uacf5\ud654\uad6d", "common": "\uc138\ub974\ube44\uc544"}
-
 		},
 		"latlng": [44, 21],
 		"demonym": "Serbian",
@@ -12100,7 +11894,6 @@
 			"pol": {"official": "Republika Sudanu", "common": "Sudan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646", "common": "\u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646"},
 			"kor": {"official": "\ub0a8\uc218\ub2e8 \uacf5\ud654\uad6d", "common": "\ub0a8\uc218\ub2e8"}
-
 		},
 		"latlng": [7, 30],
 		"demonym": "South Sudanese",
@@ -12159,7 +11952,6 @@
 			"pol": {"official": "Demokratyczna Republika Wysp \u015Awi\u0119tego Tomasza i Ksi\u0105\u017C\u0119cej", "common": "Wyspy \u015Awi\u0119tego Tomasza i Ksi\u0105\u017C\u0119ca"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2", "common": "\u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2"},
 			"kor": {"official": "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"}
-
 		},
 		"latlng": [1, 7],
 		"demonym": "Sao Tomean",
@@ -12217,7 +12009,6 @@
 			"pol": {"official": "Republika Surinamu", "common": "Surinam"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u06cc\u0646\u0627\u0645", "common": "\u0633\u0631\u06cc\u0646\u0627\u0645"},
 			"kor": {"official": "\uc218\ub9ac\ub0a8 \uacf5\ud654\uad6d", "common": "\uc218\ub9ac\ub0a8"}
-
 		},
 		"latlng": [4, -56],
 		"demonym": "Surinamer",
@@ -12269,7 +12060,6 @@
 			"pol": {"official": "Republika S\u0142owacka", "common": "S\u0142owacja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1", "common": "\u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1"},
 			"kor": {"official": "\uc2ac\ub85c\ubc14\ud0a4\uc544 \uacf5\ud654\uad6d", "common": "\uc2ac\ub85c\ubc14\ud0a4\uc544"}
-
 		},
 		"latlng": [48.66666666, 19.5],
 		"demonym": "Slovak",
@@ -12321,7 +12111,6 @@
 			"pol": {"official": "Republika S\u0142owenii", "common": "S\u0142owenia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627", "common": "\u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc2ac\ub85c\ubca0\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\uc2ac\ub85c\ubca0\ub2c8\uc544"}
-
 		},
 		"latlng": [46.11666666, 14.81666666],
 		"demonym": "Slovene",
@@ -12373,7 +12162,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Szwecji", "common": "Szwecja"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u06cc\u0688\u0646", "common": "\u0633\u0648\u06cc\u0688\u0646"},
 			"kor": {"official": "\uc2a4\uc6e8\ub374 \uc655\uad6d", "common": "\uc2a4\uc6e8\ub374"}
-
 		},
 		"latlng": [62, 15],
 		"demonym": "Swedish",
@@ -12434,7 +12222,6 @@
 			"zho": {"official": "\u65AF\u5A01\u58EB\u5170\u738B\u56FD", "common": "\u65AF\u5A01\u58EB\u5170"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688", "common": "\u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8 \uc655\uad6d", "common": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8"}
-
 		},
 		"latlng": [-26.5, 31.5],
 		"demonym": "Swazi",
@@ -12488,7 +12275,6 @@
 			"pol": {"official": "Sint Maarten", "common": "Sint Maarten"},
 			"urd": {"official": "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646", "common": "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"},
 			"kor": {"official": "\uc2e0\ud2b8\ub9c8\ub974\ud134", "common": "\uc2e0\ud2b8\ub9c8\ub974\ud134"}
-
 		},
 		"latlng": [18.033333, -63.05],
 		"demonym": "St. Maartener",
@@ -12554,7 +12340,6 @@
 			"pol": {"official": "Republika Seszeli", "common": "Seszele"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633", "common": "\u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633"},
 			"kor": {"official": "\uc138\uc774\uc178 \uacf5\ud654\uad6d", "common": "\uc138\uc774\uc178"}
-
 		},
 		"latlng": [-4.58333333, 55.66666666],
 		"demonym": "Seychellois",
@@ -12613,7 +12398,6 @@
 			"pol": {"official": "Syryjska Republika Arabska", "common": "Syria"},
 			"urd": {"official": "\u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u0631\u06cc\u06c1", "common": "\u0633\u0648\u0631\u06cc\u06c1"},
 			"kor": {"official": "\uc2dc\ub9ac\uc544 \uc544\ub78d \uacf5\ud654\uad6d", "common": "\uc2dc\ub9ac\uc544"}
-
 		},
 		"latlng": [35, 38],
 		"demonym": "Syrian",
@@ -12668,7 +12452,6 @@
 			"pol": {"official": "Turks i Caicos", "common": "Turks i Caicos"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1", "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1"},
 			"kor": {"official": "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4", "common": "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4"}
-
 		},
 		"latlng": [21.75, -71.58333333],
 		"demonym": "Turks and Caicos Islander",
@@ -12730,7 +12513,6 @@
 			"pol": {"official": "Republika Czadu", "common": "Czad"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0627\u0688", "common": "\u0686\u0627\u0688"},
 			"kor": {"official": "\ucc28\ub4dc \uacf5\ud654\uad6d", "common": "\ucc28\ub4dc"}
-
 		},
 		"latlng": [15, 19],
 		"demonym": "Chadian",
@@ -12787,7 +12569,6 @@
 			"pol": {"official": "Republika Togijska", "common": "Togo"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0648\u06af\u0648", "common": "\u0679\u0648\u06af\u0648"},
 			"kor": {"official": "\ud1a0\uace0 \uacf5\ud654\uad6d", "common": "\ud1a0\uace0"}
-
 		},
 		"latlng": [8, 1.16666666],
 		"demonym": "Togolese",
@@ -12849,7 +12630,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Tajlandii", "common": "Tajlandia"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688", "common": "\u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ud0c0\uc774 \uc655\uad6d", "common": "\ud0dc\uad6d"}
-
 		},
 		"latlng": [15, 100],
 		"demonym": "Thai",
@@ -12913,7 +12693,6 @@
 			"pol": {"official": "Republika Tad\u017Cykistanu", "common": "Tad\u017Cykistan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646", "common": "\u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4 \uacf5\ud654\uad6d", "common": "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"}
-
 		},
 		"latlng": [39, 71],
 		"demonym": "Tadzhik",
@@ -12967,7 +12746,6 @@
 			"pol": {"official": "Tokelau", "common": "Tokelau"},
 			"urd": {"official": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624", "common": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624"},
 			"kor": {"official": "\ud1a0\ucf08\ub77c\uc6b0", "common": "\ud1a0\ucf08\ub77c\uc6b0"}
-
 		},
 		"latlng": [-9, -172],
 		"demonym": "Tokelauan",
@@ -13025,7 +12803,6 @@
 			"pol": {"official": "Republika Turkmenistanu", "common": "Turkmenistan"},
 			"urd": {"official": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646", "common": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4", "common": "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"}
-
 		},
 		"latlng": [40, 60],
 		"demonym": "Turkmen",
@@ -13091,7 +12868,6 @@
 			"pol": {"official": "Demokratyczna Republika Timoru Wschodniego", "common": "Timor Wschodni"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631", "common": "\u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631"},
 			"kor": {"official": "\ub3d9\ud2f0\ubaa8\ub974 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\ub3d9\ud2f0\ubaa8\ub974"}
-
 		},
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
@@ -13144,7 +12920,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Tonga", "common": "Tonga"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0679\u0648\u0646\u06af\u0627", "common": "\u0679\u0648\u0646\u06af\u0627"},
 			"kor": {"official": "\ud1b5\uac00 \uc655\uad6d", "common": "\ud1b5\uac00"}
-
 		},
 		"latlng": [-20, -175],
 		"demonym": "Tongan",
@@ -13199,7 +12974,6 @@
 			"pol": {"official": "Trynidad i Tobago", "common": "Trynidad i Tobago"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648", "common": "\u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648"},
 			"kor": {"official": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0 \uacf5\ud654\uad6d", "common": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0"}
-
 		},
 		"latlng": [11, -61],
 		"demonym": "Trinidadian",
@@ -13258,7 +13032,6 @@
 			"pol": {"official": "Republika Tunezyjska", "common": "Tunezja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0648\u0646\u0633", "common": "\u062a\u0648\u0646\u0633"},
 			"kor": {"official": "\ud280\ub2c8\uc9c0 \uacf5\ud654\uad6d", "common": "\ud280\ub2c8\uc9c0"}
-
 		},
 		"latlng": [34, 9],
 		"demonym": "Tunisian",
@@ -13318,7 +13091,6 @@
 			"pol": {"official": "Republika Turcji", "common": "Turcja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0631\u06a9\u06cc", "common": "\u062a\u0631\u06a9\u06cc"},
 			"kor": {"official": "\ud130\ud0a4 \uacf5\ud654\uad6d", "common": "\ud130\ud0a4"}
-
 		},
 		"latlng": [39, 35],
 		"demonym": "Turkish",
@@ -13371,7 +13143,6 @@
 			"pol": {"official": "Tuvalu", "common": "Tuvalu"},
 			"urd": {"official": "\u062a\u0648\u0648\u0627\u0644\u0648", "common": "\u062a\u0648\u0648\u0627\u0644\u0648"},
 			"kor": {"official": "\ud22c\ubc1c\ub8e8", "common": "\ud22c\ubc1c\ub8e8"}
-
 		},
 		"latlng": [-8, 178],
 		"demonym": "Tuvaluan",
@@ -13431,7 +13202,6 @@
 			"pol": {"official": "Republika Chi\u0144ska (Tajwan)", "common": "Tajwan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 (\u062a\u0627\u0626\u06cc\u0648\u0627\u0646)", "common": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646"},
 			"kor": {"official": "\uc911\ud654\ubbfc\uad6d", "common": "\ub300\ub9cc"}
-
 		},
 		"latlng": [23.5, 121],
 		"demonym": "Taiwanese",
@@ -13495,7 +13265,6 @@
 			"pol": {"official": "Zjednoczona Republika Tanzanii", "common": "Tanzania"},
 			"urd": {"official": "\u0645\u062a\u062d\u062f\u06c1 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0646\u0632\u0627\u0646\u06cc\u06c1", "common": "\u062a\u0646\u0632\u0627\u0646\u06cc\u06c1"},
 			"kor": {"official": "\ud0c4\uc790\ub2c8\uc544 \uc5f0\ud569 \uacf5\ud654\uad6d", "common": "\ud0c4\uc790\ub2c8\uc544"}
-
 		},
 		"latlng": [-6, 35],
 		"demonym": "Tanzanian",
@@ -13548,7 +13317,6 @@
 			"pol": {"official": "Republika Ugandy", "common": "Uganda"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0648\u06af\u0646\u0688\u0627", "common": "\u06cc\u0648\u06af\u0646\u0688\u0627"},
 			"kor": {"official": "\uc6b0\uac04\ub2e4 \uacf5\ud654\uad6d", "common": "\uc6b0\uac04\ub2e4"}
-
 		},
 		"latlng": [1, 32],
 		"demonym": "Ugandan",
@@ -13603,7 +13371,6 @@
 			"pol": {"official": "Ukraina", "common": "Ukraina"},
 			"urd": {"official": "\u06cc\u0648\u06a9\u0631\u06cc\u0646", "common": "\u06cc\u0648\u06a9\u0631\u06cc\u0646"},
 			"kor": {"official": "\uc6b0\ud06c\ub77c\uc774\ub098", "common": "\uc6b0\ud06c\ub77c\uc774\ub098"}
-
 		},
 		"latlng": [49, 32],
 		"demonym": "Ukrainian",
@@ -13658,7 +13425,6 @@
 			"pol": {"official": "Dalekie Wyspy Mniejsze Stan\u00F3w Zjednoczonych", "common": "Dalekie Wyspy Mniejsze Stan\u00F3w Zjednoczonych"},
 			"urd": {"official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631", "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631"},
 			"kor": {"official": "\ubbf8\uad6d\ub839 \uad70\uc18c \uc81c\ub3c4", "common": "\ubbf8\uad6d\ub839 \uad70\uc18c \uc81c\ub3c4"}
-
 		},
 		"latlng": [19.3, 166.633333],
 		"demonym": "American",
@@ -13717,7 +13483,6 @@
 			"pol": {"official": "Wschodnia Republika Urugwaju", "common": "Urugwaj"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0634\u0631\u0642\u06cc\u06c1 \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2", "common": "\u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"},
 			"kor": {"official": "\uc6b0\ub8e8\uacfc\uc774 \ub3d9\ubc29 \uacf5\ud654\uad6d", "common": "\uc6b0\ub8e8\uacfc\uc774"}
-
 		},
 		"latlng": [-33, -56],
 		"demonym": "Uruguayan",
@@ -13772,7 +13537,6 @@
 			"pol": {"official": "Stany Zjednoczone Ameryki", "common": "Stany Zjednoczone"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u0627", "common": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1"},
 			"kor": {"official": "\uc544\uba54\ub9ac\uce74 \ud569\uc911\uad6d", "common": "\ubbf8\uad6d"}
-
 		},
 		"latlng": [38, -97],
 		"demonym": "American",
@@ -13835,7 +13599,6 @@
 			"pol": {"official": "Republika Uzbekistanu", "common": "Uzbekistan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646", "common": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4 \uacf5\ud654\uad6d", "common": "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4"}
-
 		},
 		"latlng": [41, 64],
 		"demonym": "Uzbekistani",
@@ -13899,7 +13662,6 @@
 			"pol": {"official": "Pa\u0144stwo Watyka\u0144skie", "common": "Watykan"},
 			"urd": {"official": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc", "common": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc"},
 			"kor": {"official": "\ubc14\ud2f0\uce78 \uc2dc\uad6d", "common": "\ubc14\ud2f0\uce78"}
-
 		},
 		"latlng": [41.9, 12.45],
 		"demonym": "Vatican",
@@ -13954,7 +13716,6 @@
 			"pol": {"official": "Saint Vincent i Grenadyny", "common": "Saint Vincent i Grenadyny"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632", "common": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632"},
 			"kor": {"official": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518", "common": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"}
-
 		},
 		"latlng": [13.25, -61.2],
 		"demonym": "Saint Vincentian",
@@ -14014,7 +13775,6 @@
 			"pol": {"official": "Boliwaria\u0144ska Republika Wenezueli", "common": "Wenezuela"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627", "common": "\u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627"},
 			"kor": {"official": "\ubca0\ub124\uc218\uc5d8\ub77c \ubcfc\ub9ac\ubc14\ub974 \uacf5\ud654\uad6d", "common": "\ubca0\ub124\uc218\uc5d8\ub77c"}
-
 		},
 		"latlng": [8, -66],
 		"demonym": "Venezuelan",
@@ -14069,7 +13829,6 @@
 			"pol": {"official": "Brytyjskie Wyspy Dziewicze", "common": "Brytyjskie Wyspy Dziewicze"},
 			"urd": {"official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646", "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"},
 			"kor": {"official": "\uc601\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc", "common": "\uc601\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"}
-
 		},
 		"latlng": [18.431383, -64.62305],
 		"demonym": "Virgin Islander",
@@ -14124,7 +13883,6 @@
 			"pol": {"official": "Wyspy Dziewicze Stan\u00F3w Zjednoczonych", "common": "Wyspy Dziewicze Stan\u00F3w Zjednoczonych"},
 			"urd": {"official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646", "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"},
 			"kor": {"official": "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc", "common": "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"}
-
 		},
 		"latlng": [18.35, -64.933333],
 		"demonym": "Virgin Islander",
@@ -14184,7 +13942,6 @@
 			"pol": {"official": "Socjalistyczna Republika Wietnamu", "common": "Wietnam"},
 			"urd": {"official": "\u0627\u0634\u062a\u0631\u0627\u06a9\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u06cc\u062a\u0646\u0627\u0645", "common": "\u0648\u06cc\u062a\u0646\u0627\u0645"},
 			"kor": {"official": "\ubca0\ud2b8\ub0a8 \uc0ac\ud68c\uc8fc\uc758 \uacf5\ud654\uad6d", "common": "\ubca0\ud2b8\ub0a8"}
-
 		},
 		"latlng": [16.16666666, 107.83333333],
 		"demonym": "Vietnamese",
@@ -14243,7 +14000,6 @@
 			"pol": {"official": "Republika Vanuatu", "common": "Vanuatu"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u0627\u0646\u0648\u0627\u062a\u0648", "common": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648"},
 			"kor": {"official": "\ubc14\ub204\uc544\ud22c \uacf5\ud654\uad6d", "common": "\ubc14\ub204\uc544\ud22c"}
-
 		},
 		"latlng": [-16, 167],
 		"demonym": "Ni-Vanuatu",
@@ -14302,7 +14058,6 @@
 			"pol": {"official": "Terytorium Wysp Wallis i Futuna", "common": "Wallis i Futuna"},
 			"urd": {"official": "\u0633\u0631 \u0632\u0645\u06cc\u0646\u0650 \u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1 \u062c\u0632\u0627\u0626\u0631", "common": "\u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1"},
 			"kor": {"official": "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098", "common": "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098"}
-
 		},
 		"latlng": [-13.3, -176.2],
 		"demonym": "Wallis and Futuna Islander",
@@ -14362,7 +14117,6 @@
 			"pol": {"official": "Niezale\u017Cne Pa\u0144stwo Samoa", "common": "Samoa"},
 			"urd": {"official": "\u0622\u0632\u0627\u062f \u0633\u0644\u0637\u0646\u062a\u0650 \u0633\u0627\u0645\u0648\u0627", "common": "\u0633\u0627\u0645\u0648\u0648\u0627"},
 			"kor": {"official": "\uc0ac\ubaa8\uc544 \ub3c5\ub9bd\uad6d", "common": "\uc0ac\ubaa8\uc544"}
-
 		},
 		"latlng": [-13.58333333, -172.33333333],
 		"demonym": "Samoan",
@@ -14421,7 +14175,6 @@
 			"pol": {"official": "Republika Jeme\u0144ska", "common": "Jemen"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0645\u0646", "common": "\u06cc\u0645\u0646"},
 			"kor": {"official": "\uc608\uba58 \uacf5\ud654\uad6d", "common": "\uc608\uba58"}
-
 		},
 		"latlng": [15, 48],
 		"demonym": "Yemeni",
@@ -14528,7 +14281,6 @@
 			"pol": {"official": "Republika Po\u0142udniowej Afryki", "common": "Po\u0142udniowa Afryka"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627", "common": "\u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627"},
 			"kor": {"official": "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d", "common": "\ub0a8\uc544\ud504\ub9ac\uce74"}
-
 		},
 		"latlng": [-29, 24],
 		"demonym": "South African",
@@ -14580,7 +14332,6 @@
 			"pol": {"official": "Republika Zambii", "common": "Zambia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u06cc\u0645\u0628\u06cc\u0627", "common": "\u0632\u06cc\u0645\u0628\u06cc\u0627"},
 			"kor": {"official": "\uc7a0\ube44\uc544 \uacf5\ud654\uad6d", "common": "\uc7a0\ube44\uc544"}
-
 		},
 		"latlng": [-15, 30],
 		"demonym": "Zambian",
@@ -14662,7 +14413,6 @@
 			"pol": {"official": "Republika Zimbabwe", "common": "Zimbabwe"},
 			"urd": {"official":"\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u0645\u0628\u0627\u0628\u0648\u06d2","common":"\u0632\u0645\u0628\u0627\u0628\u0648\u06d2"},
 			"kor": {"official": "\uc9d0\ubc14\ube0c\uc6e8 \uacf5\ud654\uad6d", "common": "\uc9d0\ubc14\ube0c\uc6e8"}
-
 		},
 		"latlng": [-20, 30],
 		"demonym": "Zimbabwean",
