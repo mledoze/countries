@@ -16,7 +16,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AWG"],
-		"callingCode": ["297"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["97"]
+		},
 		"capital": ["Oranjestad"],
 		"altSpellings": ["AW"],
 		"region": "Americas",
@@ -40,7 +43,6 @@
 			"pol": {"official": "Aruba", "common": "Aruba"},
 			"urd": {"official": "\u0627\u0631\u0648\u0628\u0627", "common": "\u0627\u0631\u0648\u0628\u0627"},
 			"kor": {"official": "\uc544\ub8e8\ubc14", "common": "\uc544\ub8e8\ubc14"}
-
 		},
 		"latlng": [12.5, -69.96666666],
 		"demonym": "Aruban",
@@ -76,7 +78,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AFN"],
-		"callingCode": ["93"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["3"]
+		},
 		"capital": ["Kabul"],
 		"altSpellings": ["AF", "Af\u0121\u0101nist\u0101n"],
 		"region": "Asia",
@@ -101,7 +106,6 @@
 			"pol": {"official": "Islamska Republika Afganistanu", "common": "Afganistan"},
 			"urd": {"official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646", "common": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d", "common": "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4"}
-
 		},
 		"latlng": [33, 65],
 		"demonym": "Afghan",
@@ -126,7 +130,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AOA"],
-		"callingCode": ["244"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["44"]
+		},
 		"capital": ["Luanda"],
 		"altSpellings": [
 			"AO",
@@ -155,7 +162,6 @@
 			"pol": {"official": "Republika Angoli", "common": "Angola"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u06af\u0648\u0644\u06c1", "common": "\u0627\u0646\u06af\u0648\u0644\u06c1"},
 			"kor": {"official": "\uc559\uace8\ub77c \uacf5\ud654\uad6d", "common": "\uc559\uace8\ub77c"}
-
 		},
 		"latlng": [-12.5, 18.5],
 		"demonym": "Angolan",
@@ -178,7 +184,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1264"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["264"]
+		},
 		"capital": ["The Valley"],
 		"altSpellings": ["AI"],
 		"region": "Americas",
@@ -202,7 +211,6 @@
 			"pol": {"official": "Anguilla", "common": "Anguilla"},
 			"urd": {"official": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627", "common": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627"},
 			"kor": {"official": "\uc575\uadc8\ub77c", "common": "\uc575\uadc8\ub77c"}
-
 		},
 		"latlng": [18.25, -63.16666666],
 		"demonym": "Anguillian",
@@ -227,7 +235,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["358"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["5818"]
+		},
 		"capital": ["Mariehamn"],
 		"altSpellings": ["AX", "Aaland", "Aland", "Ahvenanmaa"],
 		"region": "Europe",
@@ -251,7 +262,6 @@
 			"pol": {"official": "Wyspy Alandzkie", "common": "Wyspy Alandzkie"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u0627\u0648\u0644\u0646\u062f", "common": "\u062c\u0632\u0627\u0626\u0631 \u0627\u0648\u0644\u0646\u062f"},
 			"kor": {"official": "\uc62c\ub780\ub4dc \uc81c\ub3c4", "common": "\uc62c\ub780\ub4dc \uc81c\ub3c4"}
-
 		},
 		"latlng": [60.116667, 19.9],
 		"demonym": "\u00c5landish",
@@ -279,7 +289,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ALL"],
-		"callingCode": ["355"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["55"]
+		},
 		"capital": ["Tirana"],
 		"altSpellings": ["AL", "Shqip\u00ebri", "Shqip\u00ebria", "Shqipnia"],
 		"region": "Europe",
@@ -304,7 +317,6 @@
 			"pol": {"official": "Republika Albanii", "common": "Albania"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u0628\u0627\u0646\u06cc\u0627", "common": "\u0627\u0644\u0628\u0627\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc54c\ubc14\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\uc54c\ubc14\ub2c8\uc544"}
-
 		},
 		"latlng": [41, 20],
 		"demonym": "Albanian",
@@ -329,7 +341,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["376"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["76"]
+		},
 		"capital": ["Andorra la Vella"],
 		"altSpellings": ["AD", "Principality of Andorra", "Principat d'Andorra"],
 		"region": "Europe",
@@ -354,7 +369,6 @@
 			"pol": {"official": "Ksi\u0119stwo Andory", "common": "Andora"},
 			"urd": {"official": "\u0627\u0645\u0627\u0631\u0627\u062a\u0650 \u0627\u0646\u0688\u0648\u0631\u0627", "common": "\u0627\u0646\u0688\u0648\u0631\u0627"},
 			"kor": {"official": "\uc548\ub3c4\ub77c \uacf5\uad6d", "common": "\uc548\ub3c4\ub77c"}
-
 		},
 		"latlng": [42.5, 1.5],
 		"demonym": "Andorran",
@@ -382,7 +396,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AED"],
-		"callingCode": ["971"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["71"]
+		},
 		"capital": ["Abu Dhabi"],
 		"altSpellings": ["AE", "UAE", "Emirates"],
 		"region": "Asia",
@@ -406,7 +423,6 @@
 			"pol": {"official": "Zjednoczone Emiraty Arabskie", "common": "Zjednoczone Emiraty Arabskie"},
 			"urd": {"official": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a", "common": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a"},
 			"kor": {"official": "\uc544\ub78d \ud1a0\ud6c4\uad6d \uc5f0\ubc29", "common": "\uc544\ub78d\uc5d0\ubbf8\ub9ac\ud2b8"}
-
 		},
 		"latlng": [24, 54],
 		"demonym": "Emirati",
@@ -432,7 +448,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ARS"],
-		"callingCode": ["54"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["4"]
+		},
 		"capital": ["Buenos Aires"],
 		"altSpellings": ["AR", "Argentine Republic", "Rep\u00fablica Argentina"],
 		"region": "Americas",
@@ -457,7 +476,6 @@
 			"pol": {"official": "Republika Argenty\u0144ska", "common": "Argentyna"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646", "common": "\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"},
 			"kor": {"official": "\uc544\ub974\ud5e8\ud2f0\ub098 \uacf5\ud654\uad6d", "common": "\uc544\ub974\ud5e8\ud2f0\ub098"}
-
 		},
 		"latlng": [-34, -64],
 		"demonym": "Argentine",
@@ -485,7 +503,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AMD"],
-		"callingCode": ["374"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["74"]
+		},
 		"capital": ["Yerevan"],
 		"altSpellings": [
 			"AM",
@@ -515,7 +536,6 @@
 			"pol": {"official": "Republika Armenii", "common": "Armenia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0631\u0645\u06cc\u0646\u06cc\u0627", "common": "\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc544\ub974\uba54\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\uc544\ub974\uba54\ub2c8\uc544"}
-
 		},
 		"latlng": [40, 45],
 		"demonym": "Armenian",
@@ -544,7 +564,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1684"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["684"]
+		},
 		"capital": ["Pago Pago"],
 		"altSpellings": [
 			"AS",
@@ -573,7 +596,6 @@
 			"pol": {"official": "Samoa Ameryka\u0144skie", "common": "Samoa Ameryka\u0144skie"},
 			"urd": {"official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627", "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627"},
 			"kor": {"official": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544", "common": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544"}
-
 		},
 		"latlng": [-14.33333333, -170],
 		"demonym": "American Samoan",
@@ -592,7 +614,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": [],
-		"callingCode": [],
+		"idd": {
+			"root": "",
+			"suffixes": []
+		},
 		"capital": [""],
 		"altSpellings": ["AQ"],
 		"region": "Antarctic",
@@ -617,7 +642,6 @@
 			"pol": {"official": "Antarktyka", "common": "Antarktyka"},
 			"urd": {"official": "\u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06a9\u0627", "common": "\u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06a9\u0627"},
 			"kor": {"official": "\ub0a8\uadf9", "common": "\ub0a8\uadf9"}
-
 		},
 		"latlng": [-90, 0],
 		"demonym": "Antarctican",
@@ -645,7 +669,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": [],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["62"]
+		},
 		"capital": ["Port-aux-Fran\u00e7ais"],
 		"altSpellings": ["TF", "French Southern Territories"],
 		"region": "Antarctic",
@@ -669,7 +696,6 @@
 			"pol": {"official": "Francuskie Terytoria Po\u0142udniowe i Antarktyczne", "common": "Francuskie Terytoria Po\u0142udniowe i Antarktyczne"},
 			"urd": {"official": "\u0633\u0631\u0632\u0645\u06cc\u0646\u0650 \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc\u06c1 \u0648 \u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06cc\u06a9\u06c1", "common": "\u0633\u0631\u0632\u0645\u06cc\u0646 \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc\u06c1 \u0648 \u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06cc\u06a9\u0627"},
 			"kor": {"official": "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed", "common": "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed"}
-
 		},
 		"latlng": [-49.25, 69.167],
 		"demonym": "French",
@@ -697,7 +723,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1268"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["268"]
+		},
 		"capital": ["Saint John's"],
 		"altSpellings": ["AG"],
 		"region": "Americas",
@@ -722,7 +751,6 @@
 			"pol": {"official": "Antigua i Barbuda", "common": "Antigua i Barbuda"},
 			"urd": {"official": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627", "common": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"},
 			"kor": {"official": "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4", "common": "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4"}
-
 		},
 		"latlng": [17.05, -61.8],
 		"demonym": "Antiguan, Barbudan",
@@ -750,7 +778,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["61"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["1"]
+		},
 		"capital": ["Canberra"],
 		"altSpellings": ["AU"],
 		"region": "Oceania",
@@ -775,7 +806,6 @@
 			"pol": {"official": "Zwi\u0105zek Australijski", "common": "Australia"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627", "common": "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"},
 			"kor": {"official": "\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544 \uc5f0\ubc29", "common": "\ud638\uc8fc"}
-
 		},
 		"latlng": [-27, 133],
 		"demonym": "Australian",
@@ -803,7 +833,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["43"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["3"]
+		},
 		"capital": ["Vienna"],
 		"altSpellings": ["AT", "Osterreich", "Oesterreich"],
 		"region": "Europe",
@@ -828,7 +861,6 @@
 			"pol": {"official": "Republika Austrii", "common": "Austria"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0627", "common": "\u0622\u0633\u0679\u0631\u06cc\u0627"},
 			"kor": {"official": "\uc624\uc2a4\ud2b8\ub9ac\uc544 \uacf5\ud654\uad6d", "common": "\uc624\uc2a4\ud2b8\ub9ac\uc544"}
-
 		},
 		"latlng": [47.33333333, 13.33333333],
 		"demonym": "Austrian",
@@ -859,7 +891,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AZN"],
-		"callingCode": ["994"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["94"]
+		},
 		"capital": ["Baku"],
 		"altSpellings": [
 			"AZ",
@@ -888,7 +923,6 @@
 			"pol": {"official": "Republika Azerbejd\u017Canu", "common": "Azerbejd\u017Can"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646", "common": "\u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646"},
 			"kor": {"official": "\uc544\uc81c\ub974\ubc14\uc774\uc794 \uacf5\ud654\uad6d", "common": "\uc544\uc81c\ub974\ubc14\uc774\uc794"}
-
 		},
 		"latlng": [40.5, 47.5],
 		"demonym": "Azerbaijani",
@@ -917,7 +951,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BIF"],
-		"callingCode": ["257"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["57"]
+		},
 		"capital": ["Bujumbura"],
 		"altSpellings": [
 			"BI",
@@ -947,7 +984,6 @@
 			"pol": {"official": "Republika Burundi", "common": "Burundi"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0631\u0648\u0646\u0688\u06cc", "common": "\u0628\u0631\u0648\u0646\u0688\u06cc"},
 			"kor": {"official": "\ubd80\ub8ec\ub514", "common": "\ubd80\ub8ec\ub514"}
-
 		},
 		"latlng": [-3.5, 30],
 		"demonym": "Burundian",
@@ -974,7 +1010,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["32"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["2"]
+		},
 		"capital": ["Brussels"],
 		"altSpellings": [
 			"BE",
@@ -1009,7 +1048,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Belgii", "common": "Belgia"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u0644\u062c\u0626\u06cc\u0645", "common": "\u0628\u0644\u062c\u0626\u06cc\u0645"},
 			"kor": {"official": "\ubca8\uae30\uc5d0 \uc655\uad6d", "common": "\ubca8\uae30\uc5d0"}
-
 		},
 		"latlng": [50.83333333, 4],
 		"demonym": "Belgian",
@@ -1037,7 +1075,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["229"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["29"]
+		},
 		"capital": ["Porto-Novo"],
 		"altSpellings": [
 			"BJ",
@@ -1066,7 +1107,6 @@
 			"pol": {"official": "Benin", "common": "Benin"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0646\u0646", "common": "\u0628\u06cc\u0646\u0646"},
 			"kor": {"official": "\ubca0\ub0c9 \uacf5\ud654\uad6d", "common": "\ubca0\ub0c9"}
-
 		},
 		"latlng": [9.5, 2.25],
 		"demonym": "Beninese",
@@ -1094,7 +1134,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["226"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["26"]
+		},
 		"capital": ["Ouagadougou"],
 		"altSpellings": ["BF"],
 		"region": "Africa",
@@ -1119,7 +1162,6 @@
 			"pol": {"official": "Burkina Faso", "common": "Burkina Faso"},
 			"urd": {"official": "\u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648", "common": "\u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648"},
 			"kor": {"official": "\ubd80\ub974\ud0a4\ub098\ud30c\uc18c", "common": "\ubd80\ub974\ud0a4\ub098\ud30c\uc18c"}
-
 		},
 		"latlng": [13, -2],
 		"demonym": "Burkinabe",
@@ -1147,7 +1189,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BDT"],
-		"callingCode": ["880"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["80"]
+		},
 		"capital": ["Dhaka"],
 		"altSpellings": [
 			"BD",
@@ -1176,7 +1221,6 @@
 			"pol": {"official": "Ludowa Republika Bangladeszu", "common": "Bangladesz"},
 			"urd": {"official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634", "common": "\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634"},
 			"kor": {"official": "\ubc29\uae00\ub77c\ub370\uc2dc \uc778\ubbfc \uacf5\ud654\uad6d", "common": "\ubc29\uae00\ub77c\ub370\uc2dc"}
-
 		},
 		"latlng": [24, 90],
 		"demonym": "Bangladeshi",
@@ -1204,7 +1248,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BGN"],
-		"callingCode": ["359"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["59"]
+		},
 		"capital": ["Sofia"],
 		"altSpellings": [
 			"BG",
@@ -1233,7 +1280,6 @@
 			"pol": {"official": "Republika Bu\u0142garii", "common": "Bu\u0142garia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0644\u063a\u0627\u0631\u06cc\u06c1", "common": "\u0628\u0644\u063a\u0627\u0631\u06cc\u06c1"},
 			"kor": {"official": "\ubd88\uac00\ub9ac\uc544 \uacf5\ud654\uad6d", "common": "\ubd88\uac00\ub9ac\uc544"}
-
 		},
 		"latlng": [43, 25],
 		"demonym": "Bulgarian",
@@ -1261,7 +1307,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BHD"],
-		"callingCode": ["973"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["73"]
+		},
 		"capital": ["Manama"],
 		"altSpellings": ["BH", "Kingdom of Bahrain", "Mamlakat al-Ba\u1e25rayn"],
 		"region": "Asia",
@@ -1286,7 +1335,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Bahrajnu", "common": "Bahrajn"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u062d\u0631\u06cc\u0646", "common": "\u0628\u062d\u0631\u06cc\u0646"},
 			"kor": {"official": "\ubc14\ub808\uc778 \uc655\uad6d", "common": "\ubc14\ub808\uc778"}
-
 		},
 		"latlng": [26, 50.55],
 		"demonym": "Bahraini",
@@ -1314,7 +1362,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BSD"],
-		"callingCode": ["1242"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["242"]
+		},
 		"capital": ["Nassau"],
 		"altSpellings": ["BS", "Commonwealth of the Bahamas"],
 		"region": "Americas",
@@ -1339,7 +1390,6 @@
 			"pol": {"official": "Bahamy", "common": "Bahamy"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0628\u06c1\u0627\u0645\u0627\u0633", "common": "\u0628\u06c1\u0627\u0645\u0627\u0633"},
 			"kor": {"official": "\ubc14\ud558\ub9c8 \uc5f0\ubc29", "common": "\ubc14\ud558\ub9c8"}
-
 		},
 		"latlng": [24.25, -76],
 		"demonym": "Bahamian",
@@ -1375,7 +1425,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BAM"],
-		"callingCode": ["387"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["87"]
+		},
 		"capital": ["Sarajevo"],
 		"altSpellings": [
 			"BA",
@@ -1404,7 +1457,6 @@
 			"pol": {"official": "Bo\u015Bnia i Hercegowina", "common": "Bo\u015Bnia i Hercegowina"},
 			"urd": {"official": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627", "common": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627"},
 			"kor": {"official": "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098", "common": "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"}
-
 		},
 		"latlng": [44, 18],
 		"demonym": "Bosnian, Herzegovinian",
@@ -1432,7 +1484,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["590"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["90"]
+		},
 		"capital": ["Gustavia"],
 		"altSpellings": [
 			"BL",
@@ -1461,7 +1516,6 @@
 			"pol": {"official": "Saint-Barth\u00E9lemy", "common": "Saint-Barth\u00E9lemy"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2", "common": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2"},
 			"kor": {"official": "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8", "common": "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"}
-
 		},
 		"latlng": [18.5, -63.41666666],
 		"demonym": "Saint Barth\u00e9lemy Islander",
@@ -1516,7 +1570,6 @@
 			"pol": {"official": "Wyspa \u015Awi\u0119tej Heleny, Wyspa Wniebowst\u0105pienia i Tristan da Cunha", "common": "Wyspa \u015Awi\u0119tej Heleny, Wyspa Wniebowst\u0105pienia i Tristan da Cunha"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u06c1\u0644\u06cc\u0646\u0627\u060c \u0627\u0633\u06cc\u0646\u0634\u0646 \u0648 \u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627", "common": "\u0633\u06cc\u0646\u0679 \u06c1\u0644\u06cc\u0646\u0627\u060c \u0627\u0633\u06cc\u0646\u0634\u0646 \u0648 \u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc138\uc778\ud2b8\ud5ec\ub808\ub098", "common": "\uc138\uc778\ud2b8\ud5ec\ub808\ub098"}
-
 		},
 		"latlng": [-15.95, -5.72],
 		"demonym": "Saint Helenian",
@@ -1547,7 +1600,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BYN"],
-		"callingCode": ["375"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["75"]
+		},
 		"capital": ["Minsk"],
 		"altSpellings": [
 			"BY",
@@ -1578,7 +1634,6 @@
 			"pol": {"official": "Republika Bia\u0142orusi", "common": "Bia\u0142oru\u015B"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0644\u0627\u0631\u0648\u0633", "common": "\u0628\u06cc\u0644\u0627\u0631\u0648\u0633"},
 			"kor": {"official": "\ubca8\ub77c\ub8e8\uc2a4 \uacf5\ud654\uad6d", "common": "\ubca8\ub77c\ub8e8\uc2a4"}
-
 		},
 		"latlng": [53, 28],
 		"demonym": "Belarusian",
@@ -1605,7 +1660,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BZD"],
-		"callingCode": ["501"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["01"]
+		},
 		"capital": ["Belmopan"],
 		"altSpellings": ["BZ"],
 		"region": "Americas",
@@ -1634,7 +1692,6 @@
 			"pol": {"official": "Belize", "common": "Belize"},
 			"urd": {"official": "\u0628\u06cc\u0644\u06cc\u0632", "common": "\u0628\u06cc\u0644\u06cc\u0632"},
 			"kor": {"official": "\ubca8\ub9ac\uc988", "common": "\ubca8\ub9ac\uc988"}
-
 		},
 		"latlng": [17.25, -88.75],
 		"demonym": "Belizean",
@@ -1657,7 +1714,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["BMD"],
-		"callingCode": ["1441"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["441"]
+		},
 		"capital": ["Hamilton"],
 		"altSpellings": [
 			"BM",
@@ -1687,7 +1747,6 @@
 			"pol": {"official": "Bermudy", "common": "Bermudy"},
 			"urd": {"official": "\u0628\u0631\u0645\u0648\u062f\u0627", "common": "\u0628\u0631\u0645\u0648\u062f\u0627"},
 			"kor": {"official": "\ubc84\ubba4\ub2e4", "common": "\ubc84\ubba4\ub2e4"}
-
 		},
 		"latlng": [32.33333333, -64.75],
 		"demonym": "Bermudian",
@@ -1721,7 +1780,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BOB"],
-		"callingCode": ["591"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["91"]
+		},
 		"capital": ["Sucre"],
 		"altSpellings": [
 			"BO",
@@ -1761,7 +1823,6 @@
 			"pol": {"official": "Wielonarodowe Pa\u0144stwo Boliwia", "common": "Boliwia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0644\u06cc\u0648\u06cc\u0627", "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc\u0627"},
 			"kor": {"official": "\ubcfc\ub9ac\ube44\uc544 \ub2e4\ubbfc\uc871\uad6d", "common": "\ubcfc\ub9ac\ube44\uc544"}
-
 		},
 		"latlng": [-17, -65],
 		"demonym": "Bolivian",
@@ -1816,7 +1877,6 @@
 			"pol": {"official": "Bonaire, Sint Eustatius i Saba", "common": "Antyle Holenderskie"},
 			"urd": {"official": "\u0628\u0648\u0646\u0627\u06cc\u0631\u060c \u0633\u06cc\u0646\u0679 \u0627\u06cc\u0648\u0633\u0679\u0627\u0626\u06cc\u0633 \u0627\u0648\u0631 \u0633\u0627\u0628\u0627", "common": "\u06a9\u06cc\u0631\u06cc\u0628\u06cc\u0646 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"},
 			"kor": {"official": "\ubcf4\ub124\ub974, \uc2e0\ud2b8\uc678\uc2a4\ud0c0\ud2f0\uc704\uc2a4, \uc0ac\ubc14", "common": "\uce74\ub9ac\ube0c \ub124\ub35c\ub780\ub4dc"}
-
 		},
 		"latlng": [12.18, -68.25],
 		"demonym": "Dutch",
@@ -1843,7 +1903,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BRL"],
-		"callingCode": ["55"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["5"]
+		},
 		"capital": ["Bras\u00edlia"],
 		"altSpellings": [
 			"BR",
@@ -1873,7 +1936,6 @@
 			"pol": {"official": "Federacyjna Republika Brazylii", "common": "Brazylia"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0631\u0627\u0632\u06cc\u0644", "common": "\u0628\u0631\u0627\u0632\u06cc\u0644"},
 			"kor": {"official": "\ube0c\ub77c\uc9c8 \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\ube0c\ub77c\uc9c8"}
-
 		},
 		"latlng": [-10, -55],
 		"demonym": "Brazilian",
@@ -1907,7 +1969,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BBD"],
-		"callingCode": ["1246"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["246"]
+		},
 		"capital": ["Bridgetown"],
 		"altSpellings": ["BB"],
 		"region": "Americas",
@@ -1932,7 +1997,6 @@
 			"pol": {"official": "Barbados", "common": "Barbados"},
 			"urd": {"official": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633", "common": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"},
 			"kor": {"official": "\ubc14\ubca0\uc774\ub3c4\uc2a4", "common": "\ubc14\ubca0\uc774\ub3c4\uc2a4"}
-
 		},
 		"latlng": [13.16666666, -59.53333333],
 		"demonym": "Barbadian",
@@ -1960,7 +2024,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BND"],
-		"callingCode": ["673"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["73"]
+		},
 		"capital": ["Bandar Seri Begawan"],
 		"altSpellings": [
 			"BN",
@@ -1990,7 +2057,6 @@
 			"pol": {"official": "Pa\u0144stwo Brunei Darussalam", "common": "Brunei"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0628\u0631\u0648\u0646\u0627\u0626\u06cc \u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645", "common": "\u0628\u0631\u0648\u0646\u0627\u0626\u06cc"},
 			"kor": {"official": "\ube0c\ub8e8\ub098\uc774 \ub2e4\ub8e8\uc0b4\ub78c\uad6d", "common": "\ube0c\ub8e8\ub098\uc774"}
-
 		},
 		"latlng": [4.5, 114.66666666],
 		"demonym": "Bruneian",
@@ -2018,7 +2084,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BTN", "INR"],
-		"callingCode": ["975"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["75"]
+		},
 		"capital": ["Thimphu"],
 		"altSpellings": ["BT", "Kingdom of Bhutan"],
 		"region": "Asia",
@@ -2043,7 +2112,6 @@
 			"pol": {"official": "Bhutan", "common": "Bhutan"},
 			"urd": {"official": "\u0633\u0644\u0637\u0646\u062a \u0628\u06be\u0648\u0679\u0627\u0646", "common": "\u0628\u06be\u0648\u0679\u0627\u0646"},
 			"kor": {"official": "\ubd80\ud0c4 \uc655\uad6d", "common": "\ubd80\ud0c4"}
-
 		},
 		"latlng": [27.5, 90.5],
 		"demonym": "Bhutanese",
@@ -2068,7 +2136,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NOK"],
-		"callingCode": [],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["7"]
+		},
 		"capital": [""],
 		"altSpellings": ["BV", "Bouvet\u00f8ya", "Bouvet-\u00f8ya"],
 		"region": "Antarctic",
@@ -2092,7 +2163,6 @@
 			"pol": {"official": "Wyspa Bouveta", "common": "Wyspa Bouveta"},
 			"urd": {"official": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1"},
 			"kor": {"official": "\ubd80\ubca0 \uc12c", "common": "\ubd80\ubca0 \uc12c"}
-
 		},
 		"latlng": [-54.43333333, 3.4],
 		"demonym": "",
@@ -2118,7 +2188,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["BWP"],
-		"callingCode": ["267"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["67"]
+		},
 		"capital": ["Gaborone"],
 		"altSpellings": ["BW", "Republic of Botswana", "Lefatshe la Botswana"],
 		"region": "Africa",
@@ -2142,7 +2215,6 @@
 			"pol": {"official": "Republika Botswany", "common": "Botswana"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0679\u0633\u0648\u0627\u0646\u0627", "common": "\u0628\u0648\u0679\u0633\u0648\u0627\u0646\u0627"},
 			"kor": {"official": "\ubcf4\uce20\uc640\ub098 \uacf5\ud654\uad6d", "common": "\ubcf4\uce20\uc640\ub098"}
-
 		},
 		"latlng": [-22, 24],
 		"demonym": "Motswana",
@@ -2174,7 +2246,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["236"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["36"]
+		},
 		"capital": ["Bangui"],
 		"altSpellings": [
 			"CF",
@@ -2203,7 +2278,6 @@
 			"pol": {"official": "Republika \u015Arodkowoafryka\u0144ska", "common": "Republika \u015Arodkowoafryka\u0144ska"},
 			"urd": {"official": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1", "common": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"},
 			"kor": {"official": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d", "common": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"}
-
 		},
 		"latlng": [7, 21],
 		"demonym": "Central African",
@@ -2229,7 +2303,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CAD"],
-		"callingCode": ["1"],
+		"idd": {
+			"root": "+1",
+			"suffixes": [""]
+		},
 		"capital": ["Ottawa"],
 		"altSpellings": ["CA"],
 		"region": "Americas",
@@ -2254,7 +2331,6 @@
 			"pol": {"official": "Kanada", "common": "Kanada"},
 			"urd": {"official": "\u06a9\u06cc\u0646\u06cc\u0688\u0627", "common": "\u06a9\u06cc\u0646\u06cc\u0688\u0627"},
 			"kor": {"official": "\uce90\ub098\ub2e4", "common": "\uce90\ub098\ub2e4"}
-
 		},
 		"latlng": [60, -95],
 		"demonym": "Canadian",
@@ -2282,7 +2358,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["61"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["1"]
+		},
 		"capital": ["West Island"],
 		"altSpellings": ["CC", "Keeling Islands", "Cocos Islands"],
 		"region": "Oceania",
@@ -2307,7 +2386,6 @@
 			"pol": {"official": "Wyspy Kokosowe", "common": "Wyspy Kokosowe"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 (\u06a9\u06cc\u0644\u0646\u06af) \u06a9\u0648\u06a9\u0648\u0633", "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u0648\u06a9\u0648\u0633"},
 			"kor": {"official": "\ucf54\ucf54\uc2a4 \uc81c\ub3c4", "common": "\ucf54\ucf54\uc2a4 \uc81c\ub3c4"}
-
 		},
 		"latlng": [-12.5, 96.83333333],
 		"demonym": "Cocos Islander",
@@ -2341,7 +2419,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CHF"],
-		"callingCode": ["41"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["1"]
+		},
 		"capital": ["Bern"],
 		"altSpellings": [
 			"CH",
@@ -2377,7 +2458,6 @@
 			"pol": {"official": "Konfederacja Szwajcarska", "common": "Szwajcaria"},
 			"urd": {"official": "\u0633\u0648\u0626\u06cc\u0633  \u0645\u062a\u062d\u062f\u06c1", "common": "\u0633\u0648\u06cc\u0679\u0630\u0631\u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uc2a4\uc704\uc2a4 \uc5f0\ubc29", "common": "\uc2a4\uc704\uc2a4"}
-
 		},
 		"latlng": [47, 8],
 		"demonym": "Swiss",
@@ -2402,7 +2482,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CLP"],
-		"callingCode": ["56"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["6"]
+		},
 		"capital": ["Santiago"],
 		"altSpellings": ["CL", "Republic of Chile", "Rep\u00fablica de Chile"],
 		"region": "Americas",
@@ -2427,7 +2510,6 @@
 			"pol": {"official": "Republika Chile", "common": "Chile"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0644\u06cc", "common": "\u0686\u0644\u06cc"},
 			"kor": {"official": "\uce60\ub808 \uacf5\ud654\uad6d", "common": "\uce60\ub808"}
-
 		},
 		"latlng": [-30, -71],
 		"demonym": "Chilean",
@@ -2460,7 +2542,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CNY"],
-		"callingCode": ["86"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["6"]
+		},
 		"capital": ["Beijing"],
 		"altSpellings": [
 			"CN",
@@ -2492,7 +2577,6 @@
 			"pol": {"official": "Chi\u0144ska Republika Ludowa", "common": "Chiny"},
 			"urd": {"official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646", "common": "\u0686\u06cc\u0646"},
 			"kor": {"official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d", "common": "\uc911\uad6d"}
-
 		},
 		"latlng": [35, 105],
 		"demonym": "Chinese",
@@ -2537,7 +2621,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["225"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["25"]
+		},
 		"capital": ["Yamoussoukro"],
 		"altSpellings": [
 			"CI",
@@ -2567,7 +2654,6 @@
 			"pol": {"official": "Republika Wybrze\u017Ba Ko\u015Bci S\u0142oniowej", "common": "Wybrze\u017Be Ko\u015Bci S\u0142oniowej"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u062a \u062f\u06cc\u0648\u0627\u063a", "common": "\u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"},
 			"kor": {"official": "\ucf54\ud2b8\ub514\ubd80\uc544\ub974 \uacf5\ud654\uad6d", "common": "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"}
-
 		},
 		"latlng": [8, -5],
 		"demonym": "Ivorian",
@@ -2596,7 +2682,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["237"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["37"]
+		},
 		"capital": ["Yaound\u00e9"],
 		"altSpellings": [
 			"CM",
@@ -2625,7 +2714,6 @@
 			"pol": {"official": "Republika Wybrze\u017Ba Ko\u015Bci S\u0142oniowej", "common": "Wybrze\u017Be Ko\u015Bci S\u0142oniowej"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0645\u0631\u0648\u0646", "common": "\u06a9\u06cc\u0645\u0631\u0648\u0646"},
 			"kor": {"official": "\uce74\uba54\ub8ec \uacf5\ud654\uad6d", "common": "\uce74\uba54\ub8ec"}
-
 		},
 		"latlng": [6, 12],
 		"demonym": "Cameroonian",
@@ -2669,7 +2757,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CDF"],
-		"callingCode": ["243"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["43"]
+		},
 		"capital": ["Kinshasa"],
 		"altSpellings": [
 			"CD",
@@ -2706,7 +2797,6 @@
 			"pol": {"official": "Demokratyczna Republika Konga", "common": "Demokratyczna Republika Konga"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648", "common": "\n\u06a9\u0627\u0646\u06af\u0648"},
 			"kor": {"official": "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d"}
-
 		},
 		"latlng": [0, 25],
 		"demonym": "Congolese",
@@ -2742,7 +2832,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["242"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["42"]
+		},
 		"capital": ["Brazzaville"],
 		"altSpellings": ["CG", "Congo", "Congo-Brazzaville"],
 		"region": "Africa",
@@ -2767,7 +2860,6 @@
 			"pol": {"official": "Republika Konga", "common": "Kongo"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648", "common": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648"},
 			"kor": {"official": "\ucf69\uace0", "common": "\ucf69\uace0"}
-
 		},
 		"latlng": [-1, 15],
 		"demonym": "Congolese",
@@ -2796,7 +2888,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NZD", "CKD"],
-		"callingCode": ["682"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["82"]
+		},
 		"capital": ["Avarua"],
 		"altSpellings": ["CK", "K\u016bki '\u0100irani"],
 		"region": "Oceania",
@@ -2821,7 +2916,6 @@
 			"pol": {"official": "Wyspy Cooka", "common": "Wyspy Cooka"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9", "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9"},
 			"kor": {"official": "\ucfe1 \uc81c\ub3c4", "common": "\ucfe1 \uc81c\ub3c4"}
-
 		},
 		"latlng": [-21.23333333, -159.76666666],
 		"demonym": "Cook Islander",
@@ -2849,7 +2943,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["COP"],
-		"callingCode": ["57"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["7"]
+		},
 		"capital": ["Bogot\u00e1"],
 		"altSpellings": [
 			"CO",
@@ -2878,7 +2975,6 @@
 			"pol": {"official": "Republika Kolumbii", "common": "Kolumbia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627", "common": "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"},
 			"kor": {"official": "\ucf5c\ub86c\ube44\uc544 \uacf5\ud654\uad6d", "common": "\ucf5c\ub86c\ube44\uc544"}
-
 		},
 		"latlng": [4, -72],
 		"demonym": "Colombian",
@@ -2908,7 +3004,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KMF"],
-		"callingCode": ["269"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["69"]
+		},
 		"capital": ["Moroni"],
 		"altSpellings": [
 			"KM",
@@ -2939,7 +3038,6 @@
 			"pol": {"official": "Związek Komor\u00F3w", "common": "Komory"},
 			"urd": {"official": "\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0642\u0645\u0631\u06cc", "common": "\u0627\u0644\u0642\u0645\u0631\u06cc"},
 			"kor": {"official": "\ucf54\ubaa8\ub85c \uc5f0\ubc29", "common": "\ucf54\ubaa8\ub85c"}
-
 		},
 		"latlng": [-12.16666666, 44.25],
 		"demonym": "Comoran",
@@ -2966,7 +3064,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CVE"],
-		"callingCode": ["238"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["38"]
+		},
 		"capital": ["Praia"],
 		"altSpellings": [
 			"CV",
@@ -2995,7 +3096,6 @@
 			"pol": {"official": "Republika Zielonego Przyl\u0105dka", "common": "Republika Zielonego Przyl\u0105dka"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc", "common": "\u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc"},
 			"kor": {"official": "\uce74\ubcf4\ubca0\ub974\ub370 \uacf5\ud654\uad6d", "common": "\uce74\ubcf4\ubca0\ub974\ub370"}
-
 		},
 		"latlng": [16, -24],
 		"demonym": "Cape Verdian",
@@ -3023,7 +3123,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CRC"],
-		"callingCode": ["506"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["06"]
+		},
 		"capital": ["San Jos\u00e9"],
 		"altSpellings": [
 			"CR",
@@ -3052,7 +3155,6 @@
 			"pol": {"official": "Republika Kostaryki", "common": "Kostaryka"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627", "common": "\u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627"},
 			"kor": {"official": "\ucf54\uc2a4\ud0c0\ub9ac\uce74 \uacf5\ud654\uad6d", "common": "\ucf54\uc2a4\ud0c0\ub9ac\uce74"}
-
 		},
 		"latlng": [10, -84],
 		"demonym": "Costa Rican",
@@ -3077,7 +3179,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CUC", "CUP"],
-		"callingCode": ["53"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["3"]
+		},
 		"capital": ["Havana"],
 		"altSpellings": ["CU", "Republic of Cuba", "Rep\u00fablica de Cuba"],
 		"region": "Americas",
@@ -3102,7 +3207,6 @@
 			"pol": {"official": "Republika Kuby", "common": "Kuba"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0648\u0628\u0627", "common": "\u06a9\u06cc\u0648\u0628\u0627"},
 			"kor": {"official": "\ucfe0\ubc14 \uacf5\ud654\uad6d", "common": "\ucfe0\ubc14"}
-
 		},
 		"latlng": [21.5, -80],
 		"demonym": "Cuban",
@@ -3138,7 +3242,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["ANG"],
-		"callingCode": ["5999"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["999"]
+		},
 		"capital": ["Willemstad"],
 		"altSpellings": [
 			"CW",
@@ -3167,7 +3274,6 @@
 			"pol": {"official": "Cura\u00E7ao", "common": "Cura\u00E7ao"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624", "common": "\u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624"},
 			"kor": {"official": "\ud034\ub77c\uc18c", "common": "\ud034\ub77c\uc18c"}
-
 		},
 		"latlng": [12.116667, -68.933333],
 		"demonym": "Cura\u00e7aoan",
@@ -3195,7 +3301,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["61"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["1"]
+		},
 		"capital": ["Flying Fish Cove"],
 		"altSpellings": ["CX", "Territory of Christmas Island"],
 		"region": "Oceania",
@@ -3220,7 +3329,6 @@
 			"pol": {"official": "Wyspa Bo\u017Cego Narodzenia", "common": "Wyspa Bo\u017Cego Narodzenia"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633"},
 			"kor": {"official": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c", "common": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c"}
-
 		},
 		"latlng": [-10.5, 105.66666666],
 		"demonym": "Christmas Islander",
@@ -3245,7 +3353,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["KYD"],
-		"callingCode": ["1345"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["345"]
+		},
 		"capital": ["George Town"],
 		"altSpellings": ["KY"],
 		"region": "Americas",
@@ -3270,7 +3381,6 @@
 			"pol": {"official": "Kajmany", "common": "Kajmany"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646", "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646"},
 			"kor": {"official": "\ucf00\uc774\ub9e8 \uc81c\ub3c4", "common": "\ucf00\uc774\ub9e8 \uc81c\ub3c4"}
-
 		},
 		"latlng": [19.5, -80.5],
 		"demonym": "Caymanian",
@@ -3302,7 +3412,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["357"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["57"]
+		},
 		"capital": ["Nicosia"],
 		"altSpellings": [
 			"CY",
@@ -3334,7 +3447,6 @@
 			"pol": {"official": "Republika Cypryjska", "common": "Cypr"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0628\u0631\u0635", "common": "\u0642\u0628\u0631\u0635"},
 			"kor": {"official": "\ud0a4\ud504\ub85c\uc2a4 \uacf5\ud654\uad6d", "common": "\ud0a4\ud504\ub85c\uc2a4"}
-
 		},
 		"latlng": [35, 33],
 		"demonym": "Cypriot",
@@ -3364,7 +3476,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CZK"],
-		"callingCode": ["420"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["20"]
+		},
 		"capital": ["Prague"],
 		"altSpellings": ["CZ", "\u010cesk\u00e1 republika", "\u010cesko"],
 		"region": "Europe",
@@ -3389,7 +3504,6 @@
 			"pol": {"official": "Republika Czeska", "common": "Czechy"},
 			"urd": {"official": "\u0686\u064a\u06a9 \u062c\u0645\u06c1\u0648\u0631\u064a\u06c1", "common": "\u0686\u064a\u06a9"},
 			"kor": {"official": "\uccb4\ucf54", "common": "\uccb4\ucf54"}
-
 		},
 		"latlng": [49.75, 15.5],
 		"demonym": "Czech",
@@ -3417,7 +3531,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["49"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["9"]
+		},
 		"capital": ["Berlin"],
 		"altSpellings": [
 			"DE",
@@ -3445,7 +3562,6 @@
 			"pol": {"official": "Republika Federalna Niemiec", "common": "Niemcy"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0631\u0645\u0646\u06cc", "common": "\u062c\u0631\u0645\u0646\u06cc"},
 			"kor": {"official": "\ub3c5\uc77c \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\ub3c5\uc77c"}
-
 		},
 		"latlng": [51, 9],
 		"demonym": "German",
@@ -3477,7 +3593,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["DJF"],
-		"callingCode": ["253"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["53"]
+		},
 		"capital": ["Djibouti"],
 		"altSpellings": [
 			"DJ",
@@ -3510,7 +3629,6 @@
 			"pol": {"official": "Republika D\u017Cibuti", "common": "D\u017Cibuti"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0628\u0648\u062a\u06cc", "common": "\u062c\u0628\u0648\u062a\u06cc"},
 			"kor": {"official": "\uc9c0\ubd80\ud2f0 \uacf5\ud654\uad6d", "common": "\uc9c0\ubd80\ud2f0"}
-
 		},
 		"latlng": [11.5, 43],
 		"demonym": "Djibouti",
@@ -3535,7 +3653,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1767"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["767"]
+		},
 		"capital": ["Roseau"],
 		"altSpellings": [
 			"DM",
@@ -3565,7 +3686,6 @@
 			"pol": {"official": "Wsp\u00F3lnota Dominiki", "common": "Dominika"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627", "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"},
 			"kor": {"official": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d", "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"}
-
 		},
 		"latlng": [15.41666666, -61.33333333],
 		"demonym": "Dominican",
@@ -3590,7 +3710,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["DKK"],
-		"callingCode": ["45"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["5"]
+		},
 		"capital": ["Copenhagen"],
 		"altSpellings": [
 			"DK",
@@ -3620,7 +3743,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Danii", "common": "Dania"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0688\u0646\u0645\u0627\u0631\u06a9", "common": "\u0688\u0646\u0645\u0627\u0631\u06a9"},
 			"kor": {"official": "\ub374\ub9c8\ud06c \uc655\uad6d", "common": "\ub374\ub9c8\ud06c"}
-
 		},
 		"latlng": [56, 10],
 		"demonym": "Danish",
@@ -3648,7 +3770,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["DOP"],
-		"callingCode": ["1809", "1829", "1849"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["809", "829", "849"]
+		},
 		"capital": ["Santo Domingo"],
 		"altSpellings": ["DO"],
 		"region": "Americas",
@@ -3673,7 +3798,6 @@
 			"pol": {"official": "Republika Dominika\u0144ska", "common": "Dominikana"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646", "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"},
 			"kor": {"official": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d", "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"}
-
 		},
 		"latlng": [19, -70.66666666],
 		"demonym": "Dominican",
@@ -3701,7 +3825,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["DZD"],
-		"callingCode": ["213"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["13"]
+		},
 		"capital": ["Algiers"],
 		"altSpellings": ["DZ", "Dzayer", "Alg\u00e9rie"],
 		"region": "Africa",
@@ -3726,7 +3853,6 @@
 			"pol": {"official": "Algierska Republika Ludowo-Demokratyczna", "common": "Algieria"},
 			"urd": {"official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u062c\u0632\u0627\u0626\u0631", "common": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"},
 			"kor": {"official": "\uc54c\uc81c\ub9ac \uc778\ubbfc \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\uc54c\uc81c\ub9ac"}
-
 		},
 		"latlng": [28, 3],
 		"demonym": "Algerian",
@@ -3751,7 +3877,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["593"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["93"]
+		},
 		"capital": ["Quito"],
 		"altSpellings": ["EC", "Republic of Ecuador", "Rep\u00fablica del Ecuador"],
 		"region": "Americas",
@@ -3776,7 +3905,6 @@
 			"pol": {"official": "Ekwador", "common": "Ekwador"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u06a9\u0648\u0688\u0648\u0631", "common": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"},
 			"kor": {"official": "\uc5d0\ucf70\ub3c4\ub974 \uacf5\ud654\uad6d", "common": "\uc5d0\ucf70\ub3c4\ub974"}
-
 		},
 		"latlng": [-2, -77.5],
 		"demonym": "Ecuadorean",
@@ -3804,7 +3932,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EGP"],
-		"callingCode": ["20"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["0"]
+		},
 		"capital": ["Cairo"],
 		"altSpellings": ["EG", "Arab Republic of Egypt"],
 		"region": "Africa",
@@ -3829,7 +3960,6 @@
 			"pol": {"official": "Arabska Republika Egiptu", "common": "Egipt"},
 			"urd": {"official": "\u0645\u0635\u0631\u06cc \u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1", "common": "\u0645\u0635\u0631"},
 			"kor": {"official": "\uc774\uc9d1\ud2b8 \uc544\ub78d \uacf5\ud654\uad6d", "common": "\uc774\uc9d1\ud2b8"}
-
 		},
 		"latlng": [27, 30],
 		"demonym": "Egyptian",
@@ -3862,7 +3992,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ERN"],
-		"callingCode": ["291"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["91"]
+		},
 		"capital": ["Asmara"],
 		"altSpellings": [
 			"ER",
@@ -3894,7 +4027,6 @@
 			"pol": {"official": "Pa\u0144stwo Erytrea", "common": "Erytrea"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0631\u062a\u0631\u06cc\u0627", "common": "\u0627\u0631\u062a\u0631\u06cc\u0627"},
 			"kor": {"official": "\uc5d0\ub9ac\ud2b8\ub808\uc544\uad6d", "common": "\uc5d0\ub9ac\ud2b8\ub808\uc544"}
-
 		},
 		"latlng": [15, 39],
 		"demonym": "Eritrean",
@@ -3930,7 +4062,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["MAD", "DZD", "MRO"],
-		"callingCode": ["212"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["125288", "125289"]
+		},
 		"capital": ["El Aai\u00fan"],
 		"altSpellings": ["EH", "Tane\u1e93roft Tutrimt"],
 		"region": "Africa",
@@ -3954,7 +4089,6 @@
 			"pol": {"official": "Saharyjska Arabska Republika Demokratyczna", "common": "Sahara Zachodnia"},
 			"urd": {"official": "\u0635\u062d\u0631\u0627\u0648\u06cc \u0639\u0631\u0628 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1", "common": "\u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"},
 			"kor": {"official": "\uc0ac\ud558\ub77c \uc544\ub78d \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\uc11c\uc0ac\ud558\ub77c"}
-
 		},
 		"latlng": [24.5, -13],
 		"demonym": "Sahrawi",
@@ -3979,7 +4113,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["34"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["4"]
+		},
 		"capital": ["Madrid"],
 		"altSpellings": ["ES", "Kingdom of Spain", "Reino de Espa\u00f1a"],
 		"region": "Europe",
@@ -4003,7 +4140,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Hiszpanii ", "common": "Hiszpania"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1", "common": "\u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1"},
 			"kor": {"official": "\uc5d0\uc2a4\ud30c\ub0d0 \uc655\uad6d", "common": "\uc2a4\ud398\uc778"}
-
 		},
 		"latlng": [40, -4],
 		"demonym": "Spanish",
@@ -4026,7 +4162,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["372"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["72"]
+		},
 		"capital": ["Tallinn"],
 		"altSpellings": ["EE", "Eesti", "Republic of Estonia", "Eesti Vabariik"],
 		"region": "Europe",
@@ -4051,7 +4190,6 @@
 			"pol": {"official": "Republika Esto\u0144ska", "common": "Estonia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u0679\u0648\u0646\u06cc\u0627", "common": "\u0627\u0633\u0679\u0648\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc5d0\uc2a4\ud1a0\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"}
-
 		},
 		"latlng": [59, 26],
 		"demonym": "Estonian",
@@ -4079,7 +4217,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ETB"],
-		"callingCode": ["251"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["51"]
+		},
 		"capital": ["Addis Ababa"],
 		"altSpellings": [
 			"ET",
@@ -4109,7 +4250,6 @@
 			"pol": {"official": "Federalna Demokratyczna Republika Etiopii", "common": "Etiopia"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627", "common": "\u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627"},
 			"kor": {"official": "\uc5d0\ud2f0\uc624\ud53c\uc544 \uc5f0\ubc29 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\uc5d0\ud2f0\uc624\ud53c\uc544"}
-
 		},
 		"latlng": [8, 38],
 		"demonym": "Ethiopian",
@@ -4135,7 +4275,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["358"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["58"]
+		},
 		"capital": ["Helsinki"],
 		"altSpellings": [
 			"FI",
@@ -4165,7 +4308,6 @@
 			"pol": {"official": "Republika Finlandii", "common": "Finlandia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0646 \u0644\u06cc\u0646\u0688", "common": "\u0641\u0646 \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ud540\ub780\ub4dc \uacf5\ud654\uad6d", "common": "\ud540\ub780\ub4dc"}
-
 		},
 		"latlng": [64, 26],
 		"demonym": "Finnish",
@@ -4195,7 +4337,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["FJD"],
-		"callingCode": ["679"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["79"]
+		},
 		"capital": ["Suva"],
 		"altSpellings": [
 			"FJ",
@@ -4225,7 +4370,6 @@
 			"pol": {"official": "Republika Fid\u017Ci", "common": "Fid\u017Ci"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u062c\u06cc", "common": "\u0641\u062c\u06cc"},
 			"kor": {"official": "\ud53c\uc9c0 \uacf5\ud654\uad6d", "common": "\ud53c\uc9c0"}
-
 		},
 		"latlng": [-18, 175],
 		"demonym": "Fijian",
@@ -4250,7 +4394,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["FKP"],
-		"callingCode": ["500"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["00"]
+		},
 		"capital": ["Stanley"],
 		"altSpellings": ["FK", "Islas Malvinas", "Falkland Islands (Malvinas)"],
 		"region": "Americas",
@@ -4274,7 +4421,6 @@
 			"pol": {"official": "Falklandy", "common": "Falklandy"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688", "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4", "common": "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4"}
-
 		},
 		"latlng": [-51.75, -59],
 		"demonym": "Falkland Islander",
@@ -4302,7 +4448,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["33"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["3"]
+		},
 		"capital": ["Paris"],
 		"altSpellings": ["FR", "French Republic", "R\u00e9publique fran\u00e7aise"],
 		"region": "Europe",
@@ -4326,7 +4475,6 @@
 			"pol": {"official": "Republika Francuska", "common": "Francja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0631\u0627\u0646\u0633", "common": "\u0641\u0631\u0627\u0646\u0633"},
 			"kor": {"official": "\ud504\ub791\uc2a4 \uacf5\ud654\uad6d", "common": "\ud504\ub791\uc2a4"}
-
 		},
 		"latlng": [46, 2],
 		"demonym": "French",
@@ -4355,7 +4503,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["DKK"],
-		"callingCode": ["298"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["98"]
+		},
 		"capital": ["T\u00f3rshavn"],
 		"altSpellings": ["FO", "F\u00f8royar", "F\u00e6r\u00f8erne"],
 		"region": "Europe",
@@ -4379,7 +4530,6 @@
 			"pol": {"official": "Wyspy Owcze", "common": "Wyspy Owcze"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648", "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648"},
 			"kor": {"official": "\ud398\ub85c \uc81c\ub3c4", "common": "\ud398\ub85c \uc81c\ub3c4"}
-
 		},
 		"latlng": [62, -7],
 		"demonym": "Faroese",
@@ -4407,7 +4557,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["691"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["91"]
+		},
 		"capital": ["Palikir"],
 		"altSpellings": [
 			"FM",
@@ -4435,7 +4588,6 @@
 			"pol": {"official": "Sfederowane Stany Mikronezji", "common": "Mikronezja"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0648\u0641\u0627\u0642\u06cc\u06c1 \u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627", "common": "\u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627"},
 			"kor": {"official": "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544 \uc5f0\ubc29", "common": "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544"}
-
 		},
 		"latlng": [6.91666666, 158.25],
 		"demonym": "Micronesian",
@@ -4460,7 +4612,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["241"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["41"]
+		},
 		"capital": ["Libreville"],
 		"altSpellings": ["GA", "Gabonese Republic", "R\u00e9publique Gabonaise"],
 		"region": "Africa",
@@ -4484,7 +4639,6 @@
 			"pol": {"official": "Republika Gabo\u0144ska", "common": "Gabon"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0628\u0648\u0646", "common": "\u06af\u06cc\u0628\u0648\u0646"},
 			"kor": {"official": "\uac00\ubd09 \uacf5\ud654\uad6d", "common": "\uac00\ubd09"}
-
 		},
 		"latlng": [-1, 11.75],
 		"demonym": "Gabonese",
@@ -4512,7 +4666,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["44"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["4"]
+		},
 		"capital": ["London"],
 		"altSpellings": ["GB", "UK", "Great Britain"],
 		"region": "Europe",
@@ -4536,7 +4693,6 @@
 			"pol": {"official": "Zjednoczone Kr\u00F3lestwo Wielkiej Brytanii i Irlandii P\u00F3\u0142nocnej", "common": "Zjednoczone Kr\u0142lestwo"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1 \u0628\u0631\u0637\u0627\u0646\u06cc\u06c1 \u0639\u0638\u0645\u06cc \u0648 \u0634\u0645\u0627\u0644\u06cc \u0622\u0626\u0631\u0644\u06cc\u0646\u0688", "common": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1"},
 			"kor": {"official": "\uadf8\ub808\uc774\ud2b8\ube0c\ub9ac\ud2bc \ubd81\uc544\uc77c\ub79c\ub4dc \uc5f0\ud569 \uc655\uad6d", "common": "\uc601\uad6d"}
-
 		},
 		"latlng": [54, -2],
 		"demonym": "British",
@@ -4564,7 +4720,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GEL"],
-		"callingCode": ["995"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["95"]
+		},
 		"capital": ["Tbilisi"],
 		"altSpellings": ["GE", "Sakartvelo"],
 		"region": "Asia",
@@ -4588,7 +4747,6 @@
 			"pol": {"official": "Gruzja", "common": "Gruzja"},
 			"urd": {"official": "\u062c\u0627\u0631\u062c\u06cc\u0627", "common": "\u062c\u0627\u0631\u062c\u06cc\u0627"},
 			"kor": {"official": "\uc870\uc9c0\uc544", "common": "\uc870\uc9c0\uc544"}
-
 		},
 		"latlng": [42, 43.5],
 		"demonym": "Georgian",
@@ -4618,7 +4776,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["44"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["4"]
+		},
 		"capital": ["St. Peter Port"],
 		"altSpellings": ["GG", "Bailiwick of Guernsey", "Bailliage de Guernesey"],
 		"region": "Europe",
@@ -4646,7 +4807,6 @@
 			"pol": {"official": "Baliwat Guernsey", "common": "Guernsey"},
 			"urd": {"official": "\u06af\u0631\u0646\u0632\u06cc \u0631\u0648\u062f\u0628\u0627\u0631", "common": "\u06af\u0631\u0646\u0632\u06cc"},
 			"kor": {"official": "\uac74\uc9c0 \uc12c", "common": "\uac74\uc9c0 \uc12c"}
-
 		},
 		"latlng": [49.46666666, -2.58333333],
 		"demonym": "Channel Islander",
@@ -4671,7 +4831,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GHS"],
-		"callingCode": ["233"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["33"]
+		},
 		"capital": ["Accra"],
 		"altSpellings": ["GH"],
 		"region": "Africa",
@@ -4695,7 +4858,6 @@
 			"pol": {"official": "Republika Ghany", "common": "Ghana"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06be\u0627\u0646\u0627", "common": "\u06af\u06be\u0627\u0646\u0627"},
 			"kor": {"official": "\uac00\ub098 \uacf5\ud654\uad6d", "common": "\uac00\ub098"}
-
 		},
 		"latlng": [8, -2],
 		"demonym": "Ghanaian",
@@ -4718,7 +4880,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GIP"],
-		"callingCode": ["350"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["50"]
+		},
 		"capital": ["Gibraltar"],
 		"altSpellings": ["GI"],
 		"region": "Europe",
@@ -4742,7 +4907,6 @@
 			"pol": {"official": "Gibraltar", "common": "Gibraltar"},
 			"urd": {"official": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642", "common": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642"},
 			"kor": {"official": "\uc9c0\ube0c\ub864\ud130", "common": "\uc9c0\ube0c\ub864\ud130"}
-
 		},
 		"latlng": [36.13333333, -5.35],
 		"demonym": "Gibraltar",
@@ -4770,7 +4934,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GNF"],
-		"callingCode": ["224"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["24"]
+		},
 		"capital": ["Conakry"],
 		"altSpellings": [
 			"GN",
@@ -4798,7 +4965,6 @@
 			"pol": {"official": "Republika Gwinei", "common": "Gwinea"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc", "common": "\u06af\u0646\u06cc"},
 			"kor": {"official": "\uae30\ub2c8 \uacf5\ud654\uad6d", "common": "\uae30\ub2c8"}
-
 		},
 		"latlng": [11, -10],
 		"demonym": "Guinean",
@@ -4821,7 +4987,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["590"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["90"]
+		},
 		"capital": ["Basse-Terre"],
 		"altSpellings": ["GP", "Gwadloup"],
 		"region": "Americas",
@@ -4845,7 +5014,6 @@
 			"pol": {"official": "Gwadelupa", "common": "Gwadelupa"},
 			"urd": {"official": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e", "common": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e"},
 			"kor": {"official": "\uacfc\ub4e4\ub8e8\ud504", "common": "\uacfc\ub4e4\ub8e8\ud504"}
-
 		},
 		"latlng": [16.25, -61.583333],
 		"demonym": "Guadeloupian",
@@ -4870,7 +5038,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GMD"],
-		"callingCode": ["220"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["20"]
+		},
 		"capital": ["Banjul"],
 		"altSpellings": ["GM", "Republic of the Gambia"],
 		"region": "Africa",
@@ -4894,7 +5065,6 @@
 			"pol": {"official": "Republika Gambii", "common": "Gambia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0645\u0628\u06cc\u0627", "common": "\u06af\u06cc\u0645\u0628\u06cc\u0627"},
 			"kor": {"official": "\uac10\ube44\uc544 \uacf5\ud654\uad6d", "common": "\uac10\ube44\uc544"}
-
 		},
 		"latlng": [13.46666666, -16.56666666],
 		"demonym": "Gambian",
@@ -4925,7 +5095,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["245"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["45"]
+		},
 		"capital": ["Bissau"],
 		"altSpellings": [
 			"GW",
@@ -4953,7 +5126,6 @@
 			"pol": {"official": "Republika Gwinei Bissau", "common": "Gwinea Bissau"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc \u0628\u0633\u0627\u0624", "common": "\u06af\u0646\u06cc \u0628\u0633\u0627\u0624"},
 			"kor": {"official": "\uae30\ub2c8\ube44\uc0ac\uc6b0 \uacf5\ud654\uad6d", "common": "\uae30\ub2c8\ube44\uc0ac\uc6b0"}
-
 		},
 		"latlng": [12, -15],
 		"demonym": "Guinea-Bissauan",
@@ -4988,7 +5160,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["240"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["40"]
+		},
 		"capital": ["Malabo"],
 		"altSpellings": [
 			"GQ",
@@ -5019,7 +5194,6 @@
 			"pol": {"official": "Republika Gwinei R\u00F3wnikowej", "common": "Gwinea R\u00F3wnikowa"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc", "common": "\u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc"},
 			"kor": {"official": "\uc801\ub3c4 \uae30\ub2c8 \uacf5\ud654\uad6d", "common": "\uc801\ub3c4 \uae30\ub2c8"}
-
 		},
 		"latlng": [2, 10],
 		"demonym": "Equatorial Guinean",
@@ -5047,7 +5221,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["30"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["0"]
+		},
 		"capital": ["Athens"],
 		"altSpellings": [
 			"GR",
@@ -5076,7 +5253,6 @@
 			"pol": {"official": "Republika Grecka", "common": "Grecja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0644\u06cc\u0646\u06cc\u06c1", "common": "\u06cc\u0648\u0646\u0627\u0646"},
 			"kor": {"official": "\uadf8\ub9ac\uc2a4 \uacf5\ud654\uad6d", "common": "\uadf8\ub9ac\uc2a4"}
-
 		},
 		"latlng": [39, 22],
 		"demonym": "Greek",
@@ -5099,7 +5275,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1473"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["473"]
+		},
 		"capital": ["St. George's"],
 		"altSpellings": ["GD"],
 		"region": "Americas",
@@ -5123,7 +5302,6 @@
 			"pol": {"official": "Grenada", "common": "Grenada"},
 			"urd": {"official": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627", "common": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627"},
 			"kor": {"official": "\uadf8\ub808\ub098\ub2e4", "common": "\uadf8\ub808\ub098\ub2e4"}
-
 		},
 		"latlng": [12.11666666, -61.66666666],
 		"demonym": "Grenadian",
@@ -5148,7 +5326,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["DKK"],
-		"callingCode": ["299"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["99"]
+		},
 		"capital": ["Nuuk"],
 		"altSpellings": ["GL", "Gr\u00f8nland"],
 		"region": "Americas",
@@ -5172,7 +5353,6 @@
 			"pol": {"official": "Grenlandia", "common": "Grenlandia"},
 			"urd": {"official": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688", "common": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uadf8\ub9b0\ub780\ub4dc", "common": "\uadf8\ub9b0\ub780\ub4dc"}
-
 		},
 		"latlng": [72, -40],
 		"demonym": "Greenlandic",
@@ -5200,7 +5380,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GTQ"],
-		"callingCode": ["502"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["02"]
+		},
 		"capital": ["Guatemala City"],
 		"altSpellings": ["GT"],
 		"region": "Americas",
@@ -5224,7 +5407,6 @@
 			"pol": {"official": "Republika Gwatemali", "common": "Gwatemala"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627", "common": "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"},
 			"kor": {"official": "\uacfc\ud14c\ub9d0\ub77c \uacf5\ud654\uad6d", "common": "\uacfc\ud14c\ub9d0\ub77c"}
-
 		},
 		"latlng": [15.5, -90.25],
 		"demonym": "Guatemalan",
@@ -5249,7 +5431,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["594"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["94"]
+		},
 		"capital": ["Cayenne"],
 		"altSpellings": ["GF", "Guiana", "Guyane"],
 		"region": "Americas",
@@ -5273,7 +5458,6 @@
 			"pol": {"official": "Gujana Francuska", "common": "Gujana Francuska"},
 			"urd": {"official": "\u06af\u06cc\u0627\u0646\u0627", "common": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u06af\u06cc\u0627\u0646\u0627"},
 			"kor": {"official": "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098", "common": "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098"}
-
 		},
 		"latlng": [4, -53],
 		"demonym": "Guianan",
@@ -5300,7 +5484,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1671"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["671"]
+		},
 		"capital": ["Hag\u00e5t\u00f1a"],
 		"altSpellings": ["GU", "Gu\u00e5h\u00e5n"],
 		"region": "Oceania",
@@ -5324,7 +5511,6 @@
 			"pol": {"official": "Terytorium Guamu", "common": "Guam"},
 			"urd": {"official": "\u06af\u0648\u0627\u0645", "common": "\u06af\u0648\u0627\u0645"},
 			"kor": {"official": "\uad0c", "common": "\uad0c"}
-
 		},
 		"latlng": [13.46666666, 144.78333333],
 		"demonym": "Guamanian",
@@ -5352,7 +5538,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["GYD"],
-		"callingCode": ["592"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["92"]
+		},
 		"capital": ["Georgetown"],
 		"altSpellings": ["GY", "Co-operative Republic of Guyana"],
 		"region": "Americas",
@@ -5376,7 +5565,6 @@
 			"pol": {"official": "Kooperacyjna Republika Gujany", "common": "Gujana"},
 			"urd": {"official": "\u062a\u0639\u0627\u0648\u0646\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0627\u0646\u0627", "common": "\u06af\u06cc\u0627\u0646\u0627"},
 			"kor": {"official": "\uac00\uc774\uc544\ub098 \ud611\ub3d9 \uacf5\ud654\uad6d", "common": "\uac00\uc774\uc544\ub098"}
-
 		},
 		"latlng": [5, -59],
 		"demonym": "Guyanese",
@@ -5407,7 +5595,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["HKD"],
-		"callingCode": ["852"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["52"]
+		},
 		"capital": ["City of Victoria"],
 		"altSpellings": ["HK"],
 		"region": "Asia",
@@ -5430,7 +5621,6 @@
 			"pol": {"official": "Specjalny Region Administracyjny Chi\u0144skiej Republiki Ludowej Hongkong", "common": "Hongkong"},
 			"urd": {"official": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1", "common": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"},
 			"kor": {"official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ud64d\ucf69 \ud2b9\ubcc4\ud589\uc815\uad6c", "common": "\ud64d\ucf69"}
-
 		},
 		"latlng": [22.267, 114.188],
 		"demonym": "Hong Konger",
@@ -5458,7 +5648,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": [],
+		"idd": {
+			"root": "",
+			"suffixes": [""]
+		},
 		"capital": [""],
 		"altSpellings": ["HM", "Heard Island and McDonald Islands"],
 		"region": "Antarctic",
@@ -5482,7 +5675,6 @@
 			"pol": {"official": "Terytorium Wysp Heard i McDonalda", "common": "Wyspy Heard i McDonalda"},
 			"urd": {"official": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688"},
 			"kor": {"official": "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4", "common": "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4"}
-
 		},
 		"latlng": [-53.1, 72.51666666],
 		"demonym": "Heard and McDonald Islander",
@@ -5510,7 +5702,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["HNL"],
-		"callingCode": ["504"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["04"]
+		},
 		"capital": ["Tegucigalpa"],
 		"altSpellings": [
 			"HN",
@@ -5538,7 +5733,6 @@
 			"pol": {"official": "Republika Hondurasu", "common": "Honduras"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633", "common": "\u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633"},
 			"kor": {"official": "\uc628\ub450\ub77c\uc2a4 \uacf5\ud654\uad6d", "common": "\uc628\ub450\ub77c\uc2a4"}
-
 		},
 		"latlng": [15, -86.5],
 		"demonym": "Honduran",
@@ -5563,7 +5757,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["HRK"],
-		"callingCode": ["385"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["85"]
+		},
 		"capital": ["Zagreb"],
 		"altSpellings": [
 			"HR",
@@ -5593,7 +5790,6 @@
 			"pol": {"official": "Republika Chorwacji", "common": "Chorwacja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627", "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"},
 			"kor": {"official": "\ud06c\ub85c\uc544\ud2f0\uc544 \uacf5\ud654\uad6d", "common": "\ud06c\ub85c\uc544\ud2f0\uc544"}
-
 		},
 		"latlng": [45.16666666, 15.5],
 		"demonym": "Croatian",
@@ -5622,7 +5818,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["HTG", "USD"],
-		"callingCode": ["509"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["09"]
+		},
 		"capital": ["Port-au-Prince"],
 		"altSpellings": [
 			"HT",
@@ -5651,7 +5850,6 @@
 			"pol": {"official": "Republika Haiti", "common": "Haiti"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0679\u06cc", "common": "\u06c1\u06cc\u0679\u06cc"},
 			"kor": {"official": "\uc544\uc774\ud2f0 \uacf5\ud654\uad6d", "common": "\uc544\uc774\ud2f0"}
-
 		},
 		"latlng": [19, -72.41666666],
 		"demonym": "Haitian",
@@ -5679,7 +5877,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["HUF"],
-		"callingCode": ["36"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["6"]
+		},
 		"capital": ["Budapest"],
 		"altSpellings": ["HU"],
 		"region": "Europe",
@@ -5703,7 +5904,6 @@
 			"pol": {"official": "W\u0119gry", "common": "W\u0119gry"},
 			"urd": {"official": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646", "common": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud5dd\uac00\ub9ac", "common": "\ud5dd\uac00\ub9ac"}
-
 		},
 		"latlng": [47, 20],
 		"demonym": "Hungarian",
@@ -5728,7 +5928,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["IDR"],
-		"callingCode": ["62"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["2"]
+		},
 		"capital": ["Jakarta"],
 		"altSpellings": ["ID", "Republic of Indonesia", "Republik Indonesia"],
 		"region": "Asia",
@@ -5752,7 +5955,6 @@
 			"pol": {"official": "Republika Indonezji", "common": "Indonezja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627", "common": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627"},
 			"kor": {"official": "\uc778\ub3c4\ub124\uc2dc\uc544 \uacf5\ud654\uad6d", "common": "\uc778\ub3c4\ub124\uc2dc\uc544"}
-
 		},
 		"latlng": [-5, 120],
 		"demonym": "Indonesian",
@@ -5778,7 +5980,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["44"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["4"]
+		},
 		"capital": ["Douglas"],
 		"altSpellings": ["IM", "Ellan Vannin", "Mann", "Mannin"],
 		"region": "Europe",
@@ -5802,7 +6007,6 @@
 			"pol": {"official": "Wyspa Man", "common": "Wyspa Man"},
 			"urd": {"official": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646", "common": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646"},
 			"kor": {"official": "\ub9e8\uc12c", "common": "\ub9e8\uc12c"}
-
 		},
 		"latlng": [54.25, -4.5],
 		"demonym": "Manx",
@@ -5835,7 +6039,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["INR"],
-		"callingCode": ["91"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["1"]
+		},
 		"capital": ["New Delhi"],
 		"altSpellings": [
 			"IN",
@@ -5865,7 +6072,6 @@
 			"pol": {"official": "Republika Indii", "common": "Indie"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06be\u0627\u0631\u062a", "common": "\u0628\u06be\u0627\u0631\u062a"},
 			"kor": {"official": "\uc778\ub3c4 \uacf5\ud654\uad6d", "common": "\uc778\ub3c4"}
-
 		},
 		"latlng": [20, 77],
 		"demonym": "Indian",
@@ -5893,7 +6099,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["246"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["46"]
+		},
 		"capital": ["Diego Garcia"],
 		"altSpellings": ["IO"],
 		"region": "Africa",
@@ -5918,7 +6127,6 @@
 			"pol": {"official": "Brytyjskie Terytorium Oceanu Indyjskiego", "common": "Brytyjskie Terytorium Oceanu Indyjskiego"},
 			"urd": {"official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1", "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1"},
 			"kor": {"official": "\uc778\ub3c4 \uacf5\ud654\uad6d", "common": "\uc778\ub3c4"}
-
 		},
 		"latlng": [-6, 71.5],
 		"demonym": "Indian",
@@ -5947,7 +6155,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["353"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["53"]
+		},
 		"capital": ["Dublin"],
 		"altSpellings": [
 			"IE",
@@ -5976,7 +6187,6 @@
 			"pol": {"official": "Republika Irlandii", "common": "Irlandia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uc544\uc77c\ub79c\ub4dc \uacf5\ud654\uad6d", "common": "\uc544\uc77c\ub79c\ub4dc"}
-
 		},
 		"latlng": [53, -8],
 		"demonym": "Irish",
@@ -6004,7 +6214,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["IRR"],
-		"callingCode": ["98"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["8"]
+		},
 		"capital": ["Tehran"],
 		"altSpellings": [
 			"IR",
@@ -6033,7 +6246,6 @@
 			"pol": {"official": "Islamska Republika Iranu", "common": "Iran"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0631\u0627\u0646", "common": "\u0627\u06cc\u0631\u0627\u0646"},
 			"kor": {"official": "\uc774\ub780 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d", "common": "\uc774\ub780"}
-
 		},
 		"latlng": [32, 53],
 		"demonym": "Iranian",
@@ -6069,7 +6281,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["IQD"],
-		"callingCode": ["964"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["64"]
+		},
 		"capital": ["Baghdad"],
 		"altSpellings": [
 			"IQ",
@@ -6097,7 +6312,6 @@
 			"pol": {"official": "Republika Iraku", "common": "Irak"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0639\u0631\u0627\u0642", "common": "\u0639\u0631\u0627\u0642"},
 			"kor": {"official": "\uc774\ub77c\ud06c \uacf5\ud654\uad6d", "common": "\uc774\ub77c\ud06c"}
-
 		},
 		"latlng": [33, 44],
 		"demonym": "Iraqi",
@@ -6122,7 +6336,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ISK"],
-		"callingCode": ["354"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["54"]
+		},
 		"capital": ["Reykjavik"],
 		"altSpellings": [
 			"IS",
@@ -6151,7 +6368,6 @@
 			"pol": {"official": "Republika Islandii", "common": "Islandia"},
 			"urd": {"official": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688", "common": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uc544\uc774\uc2ac\ub780\ub4dc \uacf5\ud654\uad6d", "common": "\uc544\uc774\uc2ac\ub780\ub4dc"}
-
 		},
 		"latlng": [65, -18],
 		"demonym": "Icelander",
@@ -6183,7 +6399,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ILS"],
-		"callingCode": ["972"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["72"]
+		},
 		"capital": ["Jerusalem"],
 		"altSpellings": ["IL", "State of Israel", "Med\u012bnat Yisr\u0101'el"],
 		"region": "Asia",
@@ -6207,7 +6426,6 @@
 			"pol": {"official": "Pa\u0144stwo Izrael", "common": "Izrael"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644", "common": "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"},
 			"kor": {"official": "\uc774\uc2a4\ub77c\uc5d8\uad6d", "common": "\uc774\uc2a4\ub77c\uc5d8"}
-
 		},
 		"latlng": [31.47, 35.13],
 		"demonym": "Israeli",
@@ -6232,7 +6450,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["39"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["9"]
+		},
 		"capital": ["Rome"],
 		"altSpellings": ["IT", "Italian Republic", "Repubblica italiana"],
 		"region": "Europe",
@@ -6256,7 +6477,6 @@
 			"pol": {"official": "Republika W\u0142oska", "common": "W\u0142ochy"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0637\u0627\u0644\u06cc\u06c1", "common": "\u0627\u0637\u0627\u0644\u06cc\u06c1"},
 			"kor": {"official": "\uc774\ud0c8\ub9ac\uc544 \uacf5\ud654\uad6d", "common": "\uc774\ud0c8\ub9ac\uc544"}
-
 		},
 		"latlng": [42.83333333, 12.83333333],
 		"demonym": "Italian",
@@ -6282,7 +6502,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["JMD"],
-		"callingCode": ["1876"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["876"]
+		},
 		"capital": ["Kingston"],
 		"altSpellings": ["JM"],
 		"region": "Americas",
@@ -6306,7 +6529,6 @@
 			"pol": {"official": "Jamajka", "common": "Jamajka"},
 			"urd": {"official": "\u062c\u0645\u06cc\u06a9\u0627", "common": "\u062c\u0645\u06cc\u06a9\u0627"},
 			"kor": {"official": "\uc790\uba54\uc774\uce74", "common": "\uc790\uba54\uc774\uce74"}
-
 		},
 		"latlng": [18.25, -77.5],
 		"demonym": "Jamaican",
@@ -6336,7 +6558,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["44"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["4"]
+		},
 		"capital": ["Saint Helier"],
 		"altSpellings": [
 			"JE",
@@ -6365,7 +6590,6 @@
 			"pol": {"official": "Jersey", "common": "Jersey"},
 			"urd": {"official": "\u062c\u0631\u0632\u06cc", "common": "\u062c\u0631\u0632\u06cc"},
 			"kor": {"official": "\uc800\uc9c0 \uc12c", "common": "\uc800\uc9c0 \uc12c"}
-
 		},
 		"latlng": [49.25, -2.16666666],
 		"demonym": "Channel Islander",
@@ -6393,7 +6617,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["JOD"],
-		"callingCode": ["962"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["62"]
+		},
 		"capital": ["Amman"],
 		"altSpellings": [
 			"JO",
@@ -6421,7 +6648,6 @@
 			"pol": {"official": "Jorda\u0144skie Kr\u00F3lestwo Haszymidzkie", "common": "Jordania"},
 			"urd": {"official": "\u06be\u0627\u0634\u0645\u06cc \u0645\u0645\u0644\u06a9\u062a\u0650 \u0627\u0631\u062f\u0646", "common": "\u0627\u0631\u062f\u0646"},
 			"kor": {"official": "\uc694\ub974\ub2e8 \ud558\uc2ec \uc655\uad6d", "common": "\uc694\ub974\ub2e8"}
-
 		},
 		"latlng": [31, 36],
 		"demonym": "Jordanian",
@@ -6446,7 +6672,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["JPY"],
-		"callingCode": ["81"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["1"]
+		},
 		"capital": ["Tokyo"],
 		"altSpellings": ["JP", "Nippon", "Nihon"],
 		"region": "Asia",
@@ -6470,7 +6699,6 @@
 			"pol": {"official": "Japonia", "common": "Japonia"},
 			"urd": {"official": "\u062c\u0627\u067e\u0627\u0646", "common": "\u062c\u0627\u067e\u0627\u0646"},
 			"kor": {"official": "\uc77c\ubcf8\uad6d", "common": "\uc77c\ubcf8"}
-
 		},
 		"latlng": [36, 138],
 		"demonym": "Japanese",
@@ -6501,18 +6729,21 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KZT"],
-		"callingCode": ["7"],
-		"capital": ["Astana"],
-		"altSpellings": [
-			"KZ",
-			"Qazaqstan",
-			"\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
-			"Republic of Kazakhstan",
-			"\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
-			"Qazaqstan Respubl\u00efkas\u0131",
-			"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
-			"Respublika Kazakhstan"
-		],
+        "idd": {
+            "root": "+7",
+            "suffixes": ["6XX", "7XX"]
+        },
+        "capital": ["Astana"],
+        "altSpellings": [
+            "KZ",
+            "Qazaqstan",
+            "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "Republic of Kazakhstan",
+            "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+            "Qazaqstan Respubl\u00efkas\u0131",
+            "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "Respublika Kazakhstan"
+        ],
 		"region": "Asia",
 		"subregion": "Central Asia",
 		"languages": {"kaz": "Kazakh", "rus": "Russian"},
@@ -6534,7 +6765,6 @@
 			"pol": {"official": "Republika Kazachstanu", "common": "Kazachstan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646", "common": "\u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\uce74\uc790\ud750\uc2a4\ud0c4 \uacf5\ud654\uad6d", "common": "\uce74\uc790\ud750\uc2a4\ud0c4"}
-
 		},
 		"latlng": [48, 68],
 		"demonym": "Kazakhstani",
@@ -6560,7 +6790,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KES"],
-		"callingCode": ["254"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["54"]
+		},
 		"capital": ["Nairobi"],
 		"altSpellings": ["KE", "Republic of Kenya", "Jamhuri ya Kenya"],
 		"region": "Africa",
@@ -6584,7 +6817,6 @@
 			"pol": {"official": "Republika Kenii", "common": "Kenia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0646\u06cc\u0627", "common": "\u06a9\u06cc\u0646\u06cc\u0627"},
 			"kor": {"official": "\ucf00\ub0d0 \uacf5\ud654\uad6d", "common": "\ucf00\ub0d0"}
-
 		},
 		"latlng": [1, 38],
 		"demonym": "Kenyan",
@@ -6615,7 +6847,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KGS"],
-		"callingCode": ["996"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["96"]
+		},
 		"capital": ["Bishkek"],
 		"altSpellings": [
 			"KG",
@@ -6645,7 +6880,6 @@
 			"pol": {"official": "Republika Kirgiska", "common": "Kirgistan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646", "common": "\u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud0a4\ub974\uae30\uc2a4 \uacf5\ud654\uad6d", "common": "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"}
-
 		},
 		"latlng": [41, 75],
 		"demonym": "Kirghiz",
@@ -6673,7 +6907,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KHR"],
-		"callingCode": ["855"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["55"]
+		},
 		"capital": ["Phnom Penh"],
 		"altSpellings": ["KH", "Kingdom of Cambodia"],
 		"region": "Asia",
@@ -6698,7 +6935,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Kambod\u017Cy", "common": "Kambod\u017Ca"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u0645\u0628\u0648\u0688\u06cc\u0627", "common": "\u06a9\u0645\u0628\u0648\u0688\u06cc\u0627"},
 			"kor": {"official": "\uce84\ubcf4\ub514\uc544 \uc655\uad6d", "common": "\uce84\ubcf4\ub514\uc544"}
-
 		},
 		"latlng": [13, 105],
 		"demonym": "Cambodian",
@@ -6727,7 +6963,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["686"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["86"]
+		},
 		"capital": ["South Tarawa"],
 		"altSpellings": ["KI", "Republic of Kiribati", "Ribaberiki Kiribati"],
 		"region": "Oceania",
@@ -6751,7 +6990,6 @@
 			"pol": {"official": "Republika Kiribati", "common": "Kiribati"},
 			"urd": {"official": "\u0633\u0644\u0637\u0646\u062a \u0622\u0632\u0627\u062f \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc", "common": "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"},
 			"kor": {"official": "\ud0a4\ub9ac\ubc14\uc2dc \uacf5\ud654\uad6d", "common": "\ud0a4\ub9ac\ubc14\uc2dc"}
-
 		},
 		"latlng": [1.41666666, 173],
 		"demonym": "I-Kiribati",
@@ -6779,7 +7017,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1869"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["869"]
+		},
 		"capital": ["Basseterre"],
 		"altSpellings": ["KN", "Federation of Saint Christopher and Nevis"],
 		"region": "Americas",
@@ -6803,7 +7044,6 @@
 			"pol": {"official": "Federacja Saint Kitts i Nevis", "common": "Saint Kitts i Nevis"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u0650 \u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633", "common": "\u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633"},
 			"kor": {"official": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4 \uc5f0\ubc29", "common": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4"}
-
 		},
 		"latlng": [17.33333333, -62.75],
 		"demonym": "Kittitian or Nevisian",
@@ -6830,7 +7070,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KRW"],
-		"callingCode": ["82"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["2"]
+		},
 		"capital": ["Seoul"],
 		"altSpellings": [
 			"KR",
@@ -6860,7 +7103,6 @@
 			"pol": {"official": "Republika Korei", "common": "Korea Po\u0142udniowa"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627 ", "common": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
 			"kor": {"official": "\ub300\ud55c\ubbfc\uad6d", "common": "\ud55c\uad6d"}
-
 		},
 		"latlng": [37, 127.5],
 		"demonym": "South Korean",
@@ -6889,7 +7131,10 @@
 		"independent": null,
 		"status": "user-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["383"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["83"]
+		},
 		"capital": ["Pristina"],
 		"altSpellings": [
 			"XK",
@@ -6915,7 +7160,6 @@
 			"pol": {"official": "Republika Kosowa", "common": "Kosowo"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0648\u0648\u06c1", "common": "\u06a9\u0648\u0633\u0648\u0648\u06c1"},
 			"kor": {"official": "\ucf54\uc18c\ubcf4 \uacf5\ud654\uad6d", "common": "\ucf54\uc18c\ubcf4"}
-
 		},
 		"latlng": [42.666667, 21.166667],
 		"demonym": "Kosovar",
@@ -6943,7 +7187,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KWD"],
-		"callingCode": ["965"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["65"]
+		},
 		"capital": ["Kuwait City"],
 		"altSpellings": ["KW", "State of Kuwait", "Dawlat al-Kuwait"],
 		"region": "Asia",
@@ -6967,7 +7214,6 @@
 			"pol": {"official": "Pa\u0144stwo Kuwejt", "common": "Kuwejt"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u06a9\u0648\u06cc\u062a", "common": "\u06a9\u0648\u06cc\u062a"},
 			"kor": {"official": "\ucfe0\uc6e8\uc774\ud2b8\uad6d", "common": "\ucfe0\uc6e8\uc774\ud2b8"}
-
 		},
 		"latlng": [29.5, 45.75],
 		"demonym": "Kuwaiti",
@@ -6995,7 +7241,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LAK"],
-		"callingCode": ["856"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["56"]
+		},
 		"capital": ["Vientiane"],
 		"altSpellings": [
 			"LA",
@@ -7024,7 +7273,6 @@
 			"pol": {"official": "Laota\u0144ska Republika Ludowo-Demokratyczna", "common": "Laos"},
 			"urd": {"official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0627\u0624", "common": "\u0644\u0627\u0624\u0633"},
 			"kor": {"official": "\ub77c\uc624 \uc778\ubbfc \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\ub77c\uc624\uc2a4"}
-
 		},
 		"latlng": [18, 105],
 		"demonym": "Laotian",
@@ -7053,7 +7301,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LBP"],
-		"callingCode": ["961"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["61"]
+		},
 		"capital": ["Beirut"],
 		"altSpellings": [
 			"LB",
@@ -7081,7 +7332,6 @@
 			"pol": {"official": "Republika Liba\u0144ska", "common": "Liban"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0628\u0646\u0627\u0646", "common": "\u0644\u0628\u0646\u0627\u0646"},
 			"kor": {"official": "\ub808\ubc14\ub17c \uacf5\ud654\uad6d", "common": "\ub808\ubc14\ub17c"}
-
 		},
 		"latlng": [33.83333333, 35.83333333],
 		"demonym": "Lebanese",
@@ -7106,7 +7356,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LRD"],
-		"callingCode": ["231"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["31"]
+		},
 		"capital": ["Monrovia"],
 		"altSpellings": ["LR", "Republic of Liberia"],
 		"region": "Africa",
@@ -7130,7 +7383,6 @@
 			"pol": {"official": "Republika Liberii", "common": "Liberia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627", "common": "\u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627"},
 			"kor": {"official": "\ub77c\uc774\ubca0\ub9ac\uc544 \uacf5\ud654\uad6d", "common": "\ub77c\uc774\ubca0\ub9ac\uc544"}
-
 		},
 		"latlng": [6.5, -9.5],
 		"demonym": "Liberian",
@@ -7158,7 +7410,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LYD"],
-		"callingCode": ["218"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["18"]
+		},
 		"capital": ["Tripoli"],
 		"altSpellings": ["LY", "State of Libya", "Dawlat Libya"],
 		"region": "Africa",
@@ -7182,7 +7437,6 @@
 			"pol": {"official": "Pa\u0144stwo Libia", "common": "Libia"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0644\u06cc\u0628\u06cc\u0627", "common": "\u0644\u06cc\u0628\u06cc\u0627"},
 			"kor": {"official": "\ub9ac\ube44\uc544", "common": "\ub9ac\ube44\uc544"}
-
 		},
 		"latlng": [25, 17],
 		"demonym": "Libyan",
@@ -7207,7 +7461,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1758"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["758"]
+		},
 		"capital": ["Castries"],
 		"altSpellings": ["LC"],
 		"region": "Americas",
@@ -7231,7 +7488,6 @@
 			"pol": {"official": "Saint Lucia", "common": "Saint Lucia"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627", "common": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627"},
 			"kor": {"official": "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544", "common": "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544"}
-
 		},
 		"latlng": [13.88333333, -60.96666666],
 		"demonym": "Saint Lucian",
@@ -7259,7 +7515,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["CHF"],
-		"callingCode": ["423"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["23"]
+		},
 		"capital": ["Vaduz"],
 		"altSpellings": [
 			"LI",
@@ -7287,7 +7546,6 @@
 			"pol": {"official": "Ksi\u0119stwo Liechtensteinu", "common": "Liechtenstein"},
 			"urd": {"official": "\u0627\u0645\u0627\u0631\u0627\u062a \u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646", "common": "\u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646"},
 			"kor": {"official": "\ub9ac\ud788\ud150\uc288\ud0c0\uc778 \uacf5\uad6d", "common": "\ub9ac\ud788\ud150\uc288\ud0c0\uc778"}
-
 		},
 		"latlng": [47.26666666, 9.53333333],
 		"demonym": "Liechtensteiner",
@@ -7323,7 +7581,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LKR"],
-		"callingCode": ["94"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["4"]
+		},
 		"capital": ["Colombo"],
 		"altSpellings": [
 			"LK",
@@ -7351,7 +7612,6 @@
 			"pol": {"official": "Demokratyczno-Socjalistyczna Republika Sri Lanki", "common": "Sri Lanka"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u0648 \u0627\u0634\u062a\u0631\u0627\u06a9\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u06cc \u0644\u0646\u06a9\u0627", "common": "\u0633\u0631\u06cc \u0644\u0646\u06a9\u0627"},
 			"kor": {"official": "\uc2a4\ub9ac\ub791\uce74 \ubbfc\uc8fc \uc0ac\ud68c\uc8fc\uc758 \uacf5\ud654\uad6d", "common": "\uc2a4\ub9ac\ub791\uce74"}
-
 		},
 		"latlng": [7, 81],
 		"demonym": "Sri Lankan",
@@ -7377,7 +7637,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["LSL", "ZAR"],
-		"callingCode": ["266"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["66"]
+		},
 		"capital": ["Maseru"],
 		"altSpellings": ["LS", "Kingdom of Lesotho", "Muso oa Lesotho"],
 		"region": "Africa",
@@ -7401,7 +7664,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Lesotho", "common": "Lesotho"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0644\u06cc\u0633\u0648\u062a\u06be\u0648", "common": "\u0644\u06cc\u0633\u0648\u062a\u06be\u0648"},
 			"kor": {"official": "\ub808\uc18c\ud1a0 \uc655\uad6d", "common": "\ub808\uc18c\ud1a0"}
-
 		},
 		"latlng": [-29.5, 28.5],
 		"demonym": "Mosotho",
@@ -7426,7 +7688,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["370"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["70"]
+		},
 		"capital": ["Vilnius"],
 		"altSpellings": ["LT", "Republic of Lithuania", "Lietuvos Respublika"],
 		"region": "Europe",
@@ -7450,7 +7715,6 @@
 			"pol": {"official": "Republika Litewska", "common": "Litwa"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627", "common": "\u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627"},
 			"kor": {"official": "\ub9ac\ud22c\uc544\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\ub9ac\ud22c\uc544\ub2c8\uc544"}
-
 		},
 		"latlng": [56, 24],
 		"demonym": "Lithuanian",
@@ -7486,7 +7750,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["352"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["52"]
+		},
 		"capital": ["Luxembourg"],
 		"altSpellings": [
 			"LU",
@@ -7516,7 +7783,6 @@
 			"pol": {"official": "Wielkie Ksi\u0119stwo Luksemburga", "common": "Luksemburg"},
 			"urd": {"official": "\u062f\u0648\u0642\u06cc\u06c1 \u06a9\u0628\u06cc\u0631\u0644\u06a9\u0633\u0645\u0628\u0631\u06af", "common": "\u0644\u06a9\u0633\u0645\u0628\u0631\u06af"},
 			"kor": {"official": "\ub8e9\uc148\ubd80\ub974\ud06c \ub300\uacf5\uad6d", "common": "\ub8e9\uc148\ubd80\ub974\ud06c"}
-
 		},
 		"latlng": [49.75, 6.16666666],
 		"demonym": "Luxembourger",
@@ -7541,7 +7807,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["371"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["71"]
+		},
 		"capital": ["Riga"],
 		"altSpellings": ["LV", "Republic of Latvia", "Latvijas Republika"],
 		"region": "Europe",
@@ -7565,7 +7834,6 @@
 			"pol": {"official": "Republika \u0141otewska", "common": "\u0141otwa"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0679\u0648\u06cc\u0627", "common": "\u0644\u0679\u0648\u06cc\u0627"},
 			"kor": {"official": "\ub77c\ud2b8\ube44\uc544 \uacf5\ud654\uad6d", "common": "\ub77c\ud2b8\ube44\uc544"}
-
 		},
 		"latlng": [57, 25],
 		"demonym": "Latvian",
@@ -7595,7 +7863,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["MOP"],
-		"callingCode": ["853"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["53"]
+		},
 		"capital": [""],
 		"altSpellings": [
 			"MO",
@@ -7625,7 +7896,6 @@
 			"pol": {"official": "Specjalny Region Administracyjny Chi\u0144skiej Republiki Ludowej Makau", "common": "Makau"},
 			"urd": {"official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1", "common": "\u0645\u06a9\u0627\u0624"},
 			"kor": {"official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ub9c8\uce74\uc624 \ud2b9\ubcc4\ud589\uc815\uad6c", "common": "\ub9c8\uce74\uc624"}
-
 		},
 		"latlng": [22.16666666, 113.55],
 		"demonym": "Macanese",
@@ -7650,7 +7920,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["590"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["90"]
+		},
 		"capital": ["Marigot"],
 		"altSpellings": [
 			"MF",
@@ -7679,7 +7952,6 @@
 			"pol": {"official": "Wsp\u00F3lnota Saint-Martin", "common": "Saint-Martin"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646", "common": "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"},
 			"kor": {"official": "\uc0dd\ub9c8\ub974\ud0f1", "common": "\uc0dd\ub9c8\ub974\ud0f1"}
-
 		},
 		"latlng": [18.08333333, -63.95],
 		"demonym": "Saint Martin Islander",
@@ -7711,7 +7983,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MAD"],
-		"callingCode": ["212"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["12"]
+		},
 		"capital": ["Rabat"],
 		"altSpellings": [
 			"MA",
@@ -7739,7 +8014,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Maroka\u0144skie", "common": "Maroko"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u0631\u0627\u06a9\u0634", "common": "\u0645\u0631\u0627\u06a9\u0634"},
 			"kor": {"official": "\ubaa8\ub85c\ucf54 \uc655\uad6d", "common": "\ubaa8\ub85c\ucf54"}
-
 		},
 		"latlng": [32, -5],
 		"demonym": "Moroccan",
@@ -7764,7 +8038,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["377"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["77"]
+		},
 		"capital": ["Monaco"],
 		"altSpellings": [
 			"MC",
@@ -7792,7 +8069,6 @@
 			"pol": {"official": "Ksi\u0119stwo Monako", "common": "Monako"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0646\u0627\u06a9\u0648", "common": "\u0645\u0648\u0646\u0627\u06a9\u0648"},
 			"kor": {"official": "\ubaa8\ub098\ucf54 \uacf5\uad6d", "common": "\ubaa8\ub098\ucf54"}
-
 		},
 		"latlng": [43.73333333, 7.4],
 		"demonym": "Monegasque",
@@ -7817,7 +8093,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MDL"],
-		"callingCode": ["373"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["73"]
+		},
 		"capital": ["Chi\u0219in\u0103u"],
 		"altSpellings": [
 			"MD",
@@ -7846,7 +8125,6 @@
 			"pol": {"official": "Republika Mo\u0142dawii", "common": "Mo\u0142dawia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u0648\u0648\u0627", "common": "\u0645\u0627\u0644\u062f\u0648\u0648\u0627"},
 			"kor": {"official": "\ubab0\ub3c4\ubc14 \uacf5\ud654\uad6d", "common": "\ubab0\ub3c4\ubc14"}
-
 		},
 		"latlng": [47, 29],
 		"demonym": "Moldovan",
@@ -7878,7 +8156,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MGA"],
-		"callingCode": ["261"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["61"]
+		},
 		"capital": ["Antananarivo"],
 		"altSpellings": [
 			"MG",
@@ -7907,7 +8188,6 @@
 			"pol": {"official": "Republika Madagaskaru", "common": "Madagaskar"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0688\u063a\u0627\u0633\u06a9\u0631", "common": "\u0645\u0688\u063a\u0627\u0633\u06a9\u0631"},
 			"kor": {"official": "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974 \uacf5\ud654\uad6d", "common": "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974"}
-
 		},
 		"latlng": [-20, 47],
 		"demonym": "Malagasy",
@@ -7935,7 +8215,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MVR"],
-		"callingCode": ["960"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["60"]
+		},
 		"capital": ["Mal\u00e9"],
 		"altSpellings": [
 			"MV",
@@ -7964,7 +8247,6 @@
 			"pol": {"official": "Republika Malediw\u00F3w", "common": "Malediwy"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u06cc\u067e", "common": "\u0645\u0627\u0644\u062f\u06cc\u067e"},
 			"kor": {"official": "\ubab0\ub514\ube0c \uacf5\ud654\uad6d", "common": "\ubab0\ub514\ube0c"}
-
 		},
 		"latlng": [3.25, 73],
 		"demonym": "Maldivan",
@@ -7992,7 +8274,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MXN"],
-		"callingCode": ["52"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["2"]
+		},
 		"capital": ["Mexico City"],
 		"altSpellings": [
 			"MX",
@@ -8021,7 +8306,6 @@
 			"pol": {"official": "Meksyka\u0144skie Stany Zjednoczone", "common": "Meksyk"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648", "common": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"},
 			"kor": {"official": "\uba55\uc2dc\ucf54 \ud569\uc911\uad6d", "common": "\uba55\uc2dc\ucf54"}
-
 		},
 		"latlng": [23, -102],
 		"demonym": "Mexican",
@@ -8053,7 +8337,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["692"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["92"]
+		},
 		"capital": ["Majuro"],
 		"altSpellings": [
 			"MH",
@@ -8081,7 +8368,6 @@
 			"pol": {"official": "Republika Wysp Marshalla", "common": "Wyspy Marshalla"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644", "common": "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644"},
 			"kor": {"official": "\ub9c8\uc15c \uc81c\ub3c4 \uacf5\ud654\uad6d", "common": "\ub9c8\uc15c \uc81c\ub3c4"}
-
 		},
 		"latlng": [9, 168],
 		"demonym": "Marshallese",
@@ -8109,7 +8395,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MKD"],
-		"callingCode": ["389"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["89"]
+		},
 		"capital": ["Skopje"],
 		"altSpellings": [
 			"MK",
@@ -8138,7 +8427,6 @@
 			"pol": {"official": "Republika Macedonii", "common": "Macedonia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1", "common": "\u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"},
 			"kor": {"official": "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\ub9c8\ucf00\ub3c4\ub2c8\uc544"}
-
 		},
 		"latlng": [41.83333333, 22],
 		"demonym": "Macedonian",
@@ -8163,7 +8451,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["223"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["23"]
+		},
 		"capital": ["Bamako"],
 		"altSpellings": ["ML", "Republic of Mali", "R\u00e9publique du Mali"],
 		"region": "Africa",
@@ -8187,7 +8478,6 @@
 			"pol": {"official": "Republika Mali", "common": "Mali"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u06cc", "common": "\u0645\u0627\u0644\u06cc"},
 			"kor": {"official": "\ub9d0\ub9ac \uacf5\ud654\uad6d", "common": "\ub9d0\ub9ac"}
-
 		},
 		"latlng": [17, -4],
 		"demonym": "Malian",
@@ -8213,7 +8503,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["356"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["56"]
+		},
 		"capital": ["Valletta"],
 		"altSpellings": ["MT", "Republic of Malta", "Repubblika ta' Malta"],
 		"region": "Europe",
@@ -8237,7 +8530,6 @@
 			"pol": {"official": "Republika Malty", "common": "Malta"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u0679\u0627", "common": "\u0645\u0627\u0644\u0679\u0627"},
 			"kor": {"official": "\ubab0\ud0c0 \uacf5\ud654\uad6d", "common": "\ubab0\ud0c0"}
-
 		},
 		"latlng": [35.83333333, 14.58333333],
 		"demonym": "Maltese",
@@ -8265,7 +8557,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MMK"],
-		"callingCode": ["95"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["5"]
+		},
 		"capital": ["Naypyidaw"],
 		"altSpellings": [
 			"MM",
@@ -8294,7 +8589,6 @@
 			"pol": {"official": "Republika Zwi\u0105zku Mjanmy", "common": "Mjanma"},
 			"urd": {"official": "\u0645\u062a\u062d\u062f\u06c1 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u06cc\u0627\u0646\u0645\u0627\u0631", "common": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"},
 			"kor": {"official": "\ubbf8\uc580\ub9c8 \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\ubbf8\uc580\ub9c8"}
-
 		},
 		"latlng": [22, 98],
 		"demonym": "Bamar",
@@ -8322,7 +8616,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["382"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["82"]
+		},
 		"capital": ["Podgorica"],
 		"altSpellings": ["ME", "Crna Gora"],
 		"region": "Europe",
@@ -8346,7 +8643,6 @@
 			"pol": {"official": "Czarnog\u00F3ra", "common": "Czarnog\u00F3ra"},
 			"urd": {"official": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648", "common": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648"},
 			"kor": {"official": "\ubaac\ud14c\ub124\uadf8\ub85c", "common": "\ubaac\ud14c\ub124\uadf8\ub85c"}
-
 		},
 		"latlng": [42.5, 19.3],
 		"demonym": "Montenegrin",
@@ -8374,7 +8670,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MNT"],
-		"callingCode": ["976"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["76"]
+		},
 		"capital": ["Ulan Bator"],
 		"altSpellings": ["MN"],
 		"region": "Asia",
@@ -8398,7 +8697,6 @@
 			"pol": {"official": "Mongolia", "common": "Mongolia"},
 			"urd": {"official": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627", "common": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627"},
 			"kor": {"official": "\ubabd\uace8", "common": "\ubabd\uace8\uad6d"}
-
 		},
 		"latlng": [46, 105],
 		"demonym": "Mongolian",
@@ -8434,7 +8732,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1670"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["670"]
+		},
 		"capital": ["Saipan"],
 		"altSpellings": [
 			"MP",
@@ -8462,7 +8763,6 @@
 			"pol": {"official": "Wsp\u00F3lnota Marian\u00F3w P\u00F3\u0142nocnych", "common": "Mariany P\u00F3\u0142nocne"},
 			"urd": {"official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627", "common": "\u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627"},
 			"kor": {"official": "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4", "common": "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4"}
-
 		},
 		"latlng": [15.2, 145.75],
 		"demonym": "American",
@@ -8489,7 +8789,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MZN"],
-		"callingCode": ["258"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["58"]
+		},
 		"capital": ["Maputo"],
 		"altSpellings": [
 			"MZ",
@@ -8517,7 +8820,6 @@
 			"pol": {"official": "Republika Mozambiku", "common": "Mozambik"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0632\u0645\u0628\u06cc\u0642", "common": "\u0645\u0648\u0632\u0645\u0628\u06cc\u0642"},
 			"kor": {"official": "\ubaa8\uc7a0\ube44\ud06c \uacf5\ud654\uad6d", "common": "\ubaa8\uc7a0\ube44\ud06c"}
-
 		},
 		"latlng": [-18.25, 35],
 		"demonym": "Mozambican",
@@ -8545,7 +8847,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MRO"],
-		"callingCode": ["222"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["22"]
+		},
 		"capital": ["Nouakchott"],
 		"altSpellings": [
 			"MR",
@@ -8573,7 +8878,6 @@
 			"pol": {"official": "Islamska Republika Maureta\u0144ska", "common": "Mauretania"},
 			"urd": {"official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1", "common": "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1"},
 			"kor": {"official": "\ubaa8\ub9ac\ud0c0\ub2c8 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d", "common": "\ubaa8\ub9ac\ud0c0\ub2c8"}
-
 		},
 		"latlng": [20, -12],
 		"demonym": "Mauritanian",
@@ -8596,7 +8900,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1664"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["664"]
+		},
 		"capital": ["Plymouth"],
 		"altSpellings": ["MS"],
 		"region": "Americas",
@@ -8620,7 +8927,6 @@
 			"pol": {"official": "Montserrat", "common": "Montserrat"},
 			"urd": {"official": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679", "common": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679"},
 			"kor": {"official": "\ubaac\ud2b8\uc138\ub7ab", "common": "\ubaac\ud2b8\uc138\ub7ab"}
-
 		},
 		"latlng": [16.75, -62.2],
 		"demonym": "Montserratian",
@@ -8643,7 +8949,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["596"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["96"]
+		},
 		"capital": ["Fort-de-France"],
 		"altSpellings": ["MQ"],
 		"region": "Americas",
@@ -8667,7 +8976,6 @@
 			"pol": {"official": "Martynika", "common": "Martynika"},
 			"urd": {"official": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9", "common": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9"},
 			"kor": {"official": "\ub9c8\ub974\ud2f0\ub2c8\ud06c", "common": "\ub9c8\ub974\ud2f0\ub2c8\ud06c"}
-
 		},
 		"latlng": [14.666667, -61],
 		"demonym": "French",
@@ -8697,7 +9005,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MUR"],
-		"callingCode": ["230"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["30"]
+		},
 		"capital": ["Port Louis"],
 		"altSpellings": [
 			"MU",
@@ -8729,7 +9040,6 @@
 			"pol": {"official": "Republika Mauritiusu", "common": "Mauritius"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u0634\u0633", "common": "\u0645\u0648\u0631\u06cc\u0634\u0633"},
 			"kor": {"official": "\ubaa8\ub9ac\uc154\uc2a4 \uacf5\ud654\uad6d", "common": "\ubaa8\ub9ac\uc154\uc2a4"}
-
 		},
 		"latlng": [-20.28333333, 57.55],
 		"demonym": "Mauritian",
@@ -8758,7 +9068,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MWK"],
-		"callingCode": ["265"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["65"]
+		},
 		"capital": ["Lilongwe"],
 		"altSpellings": ["MW", "Republic of Malawi"],
 		"region": "Africa",
@@ -8782,7 +9095,6 @@
 			"pol": {"official": "Republika Malawi", "common": "Malawi"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0644\u0627\u0648\u06cc", "common": "\u0645\u0644\u0627\u0648\u06cc"},
 			"kor": {"official": "\ub9d0\ub77c\uc704 \uacf5\ud654\uad6d", "common": "\ub9d0\ub77c\uc704"}
-
 		},
 		"latlng": [-13.5, 34],
 		"demonym": "Malawian",
@@ -8811,7 +9123,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["MYR"],
-		"callingCode": ["60"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["0"]
+		},
 		"capital": ["Kuala Lumpur"],
 		"altSpellings": ["MY"],
 		"region": "Asia",
@@ -8835,7 +9150,6 @@
 			"pol": {"official": "Malezja", "common": "Malezja"},
 			"urd": {"official": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627", "common": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627"},
 			"kor": {"official": "\ub9d0\ub808\uc774\uc2dc\uc544", "common": "\ub9d0\ub808\uc774\uc2dc\uc544"}
-
 		},
 		"latlng": [2.5, 112.5],
 		"demonym": "Malaysian",
@@ -8863,7 +9177,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["262"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["62"]
+		},
 		"capital": ["Mamoudzou"],
 		"altSpellings": [
 			"YT",
@@ -8891,7 +9208,6 @@
 			"pol": {"official": "Majotta", "common": "Majotta"},
 			"urd": {"official": "\u0645\u0627\u06cc\u0648\u0679", "common": "\u0645\u0627\u06cc\u0648\u0679"},
 			"kor": {"official": "\ub9c8\uc694\ud2b8", "common": "\ub9c8\uc694\ud2b8"}
-
 		},
 		"latlng": [-12.83333333, 45.16666666],
 		"demonym": "Mahoran",
@@ -8927,7 +9243,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NAD", "ZAR"],
-		"callingCode": ["264"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["64"]
+		},
 		"capital": ["Windhoek"],
 		"altSpellings": ["NA", "Namibi\u00eb", "Republic of Namibia"],
 		"region": "Africa",
@@ -8961,7 +9280,6 @@
 			"pol": {"official": "Republika Namibii", "common": "Namibia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0645\u06cc\u0628\u06cc\u0627", "common": "\u0646\u0645\u06cc\u0628\u06cc\u0627"},
 			"kor": {"official": "\ub098\ubbf8\ube44\uc544 \uacf5\ud654\uad6d", "common": "\ub098\ubbf8\ube44\uc544"}
-
 		},
 		"latlng": [-22, 17],
 		"demonym": "Namibian",
@@ -8989,7 +9307,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XPF"],
-		"callingCode": ["687"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["87"]
+		},
 		"capital": ["Noum\u00e9a"],
 		"altSpellings": ["NC"],
 		"region": "Oceania",
@@ -9013,7 +9334,6 @@
 			"pol": {"official": "Nowa Kaledonia", "common": "Nowa Kaledonia"},
 			"urd": {"official": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627", "common": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627"},
 			"kor": {"official": "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8", "common": "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8"}
-
 		},
 		"latlng": [-21.5, 165.5],
 		"demonym": "New Caledonian",
@@ -9038,7 +9358,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["227"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["27"]
+		},
 		"capital": ["Niamey"],
 		"altSpellings": ["NE", "Nijar"],
 		"region": "Africa",
@@ -9062,7 +9385,6 @@
 			"pol": {"official": "Republika Nigru", "common": "Niger"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u0631", "common": "\u0646\u0627\u0626\u062c\u0631"},
 			"kor": {"official": "\ub2c8\uc81c\ub974 \uacf5\ud654\uad6d", "common": "\ub2c8\uc81c\ub974"}
-
 		},
 		"latlng": [16, 8],
 		"demonym": "Nigerien",
@@ -9094,7 +9416,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["672"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["72"]
+		},
 		"capital": ["Kingston"],
 		"altSpellings": [
 			"NF",
@@ -9122,7 +9447,6 @@
 			"pol": {"official": "Terytorium Wyspy Norfolk", "common": "Wyspa Norfolk"},
 			"urd": {"official": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9 \u062e\u0637\u06c1", "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9"},
 			"kor": {"official": "\ub178\ud37d \uc12c", "common": "\ub178\ud37d \uc12c"}
-
 		},
 		"latlng": [-29.03333333, 167.95],
 		"demonym": "Norfolk Islander",
@@ -9150,7 +9474,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NGN"],
-		"callingCode": ["234"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["34"]
+		},
 		"capital": ["Abuja"],
 		"altSpellings": [
 			"NG",
@@ -9179,7 +9506,6 @@
 			"pol": {"official": "Federalna Republika Nigerii", "common": "Nigeria"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627", "common": "\u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"},
 			"kor": {"official": "\ub098\uc774\uc9c0\ub9ac\uc544 \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\ub098\uc774\uc9c0\ub9ac\uc544"}
-
 		},
 		"latlng": [10, 8],
 		"demonym": "Nigerian",
@@ -9207,7 +9533,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NIO"],
-		"callingCode": ["505"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["05"]
+		},
 		"capital": ["Managua"],
 		"altSpellings": [
 			"NI",
@@ -9235,7 +9564,6 @@
 			"pol": {"official": "Republika Nikaragui", "common": "Nikaragua"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627", "common": "\u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"},
 			"kor": {"official": "\ub2c8\uce74\ub77c\uacfc \uacf5\ud654\uad6d", "common": "\ub2c8\uce74\ub77c\uacfc"}
-
 		},
 		"latlng": [13, -85],
 		"demonym": "Nicaraguan",
@@ -9261,7 +9589,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NZD"],
-		"callingCode": ["683"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["83"]
+		},
 		"capital": ["Alofi"],
 		"altSpellings": ["NU"],
 		"region": "Oceania",
@@ -9285,7 +9616,6 @@
 			"pol": {"official": "Niue", "common": "Niue"},
 			"urd": {"official": "\u0646\u06cc\u0648\u0648\u06d2", "common": "\u0646\u06cc\u0648\u0648\u06d2"},
 			"kor": {"official": "\ub2c8\uc6b0\uc5d0", "common": "\ub2c8\uc6b0\uc5d0"}
-
 		},
 		"latlng": [-19.03333333, -169.86666666],
 		"demonym": "Niuean",
@@ -9312,7 +9642,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["31"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["1"]
+		},
 		"capital": ["Amsterdam"],
 		"altSpellings": ["NL", "Holland", "Nederland", "The Netherlands"],
 		"region": "Europe",
@@ -9336,7 +9669,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Niderland\u00F3w", "common": "Holandia"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632", "common": "\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"},
 			"kor": {"official": "\ub124\ub35c\ub780\ub4dc \uc655\uad6d", "common": "\ub124\ub35c\ub780\ub4dc"}
-
 		},
 		"latlng": [52.5, 5.75],
 		"demonym": "Dutch",
@@ -9363,7 +9695,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NOK"],
-		"callingCode": ["47"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["7"]
+		},
 		"capital": ["Oslo"],
 		"altSpellings": [
 			"NO",
@@ -9398,7 +9733,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Norwegii", "common": "Norwegia"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u0627\u0631\u0648\u06d2", "common": "\u0646\u0627\u0631\u0648\u06d2"},
 			"kor": {"official": "\ub178\ub974\uc6e8\uc774 \uc655\uad6d", "common": "\ub178\ub974\uc6e8\uc774"}
-
 		},
 		"latlng": [62, 10],
 		"demonym": "Norwegian",
@@ -9426,7 +9760,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NPR"],
-		"callingCode": ["977"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["77"]
+		},
 		"capital": ["Kathmandu"],
 		"altSpellings": [
 			"NP",
@@ -9454,7 +9791,6 @@
 			"pol": {"official": "Federalna Demokratyczna Republika Nepalu", "common": "Nepal"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u06cc\u067e\u0627\u0644", "common": "\u0646\u06cc\u067e\u0627\u0644"},
 			"kor": {"official": "\ub124\ud314 \uc5f0\ubc29 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\ub124\ud314"}
-
 		},
 		"latlng": [28, 84],
 		"demonym": "Nepalese",
@@ -9480,7 +9816,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["674"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["74"]
+		},
 		"capital": ["Yaren"],
 		"altSpellings": [
 			"NR",
@@ -9510,7 +9849,6 @@
 			"pol": {"official": "Republika Nauru", "common": "Nauru"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0648\u0631\u0648", "common": "\u0646\u0627\u0648\u0631\u0648"},
 			"kor": {"official": "\ub098\uc6b0\ub8e8 \uacf5\ud654\uad6d", "common": "\ub098\uc6b0\ub8e8"}
-
 		},
 		"latlng": [-0.53333333, 166.91666666],
 		"demonym": "Nauruan",
@@ -9537,7 +9875,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["NZD"],
-		"callingCode": ["64"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["4"]
+		},
 		"capital": ["Wellington"],
 		"altSpellings": ["NZ", "Aotearoa"],
 		"region": "Oceania",
@@ -9565,7 +9906,6 @@
 			"pol": {"official": "Nowa Zelandia", "common": "Nowa Zelandia"},
 			"urd": {"official": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688", "common": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ub274\uc9c8\ub79c\ub4dc", "common": "\ub274\uc9c8\ub79c\ub4dc"}
-
 		},
 		"latlng": [-41, 174],
 		"demonym": "New Zealander",
@@ -9593,7 +9933,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["OMR"],
-		"callingCode": ["968"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["68"]
+		},
 		"capital": ["Muscat"],
 		"altSpellings": [
 			"OM",
@@ -9621,7 +9964,6 @@
 			"pol": {"official": "Su\u0142tanat Omanu", "common": "Oman"},
 			"urd": {"official": "\u0633\u0644\u0637\u0646\u062a \u0639\u0645\u0627\u0646", "common": "\u0639\u0645\u0627\u0646"},
 			"kor": {"official": "\uc624\ub9cc \uc220\ud0c4\uad6d", "common": "\uc624\ub9cc"}
-
 		},
 		"latlng": [21, 57],
 		"demonym": "Omani",
@@ -9653,7 +9995,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PKR"],
-		"callingCode": ["92"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["2"]
+		},
 		"capital": ["Islamabad"],
 		"altSpellings": [
 			"PK",
@@ -9682,7 +10027,6 @@
 			"pol": {"official": "Islamska Republika Pakistanu", "common": "Pakistan"},
 			"urd": {"official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646", "common": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud30c\ud0a4\uc2a4\ud0c4 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d", "common": "\ud30c\ud0a4\uc2a4\ud0c4"}
-
 		},
 		"latlng": [30, 70],
 		"demonym": "Pakistani",
@@ -9710,7 +10054,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PAB", "USD"],
-		"callingCode": ["507"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["07"]
+		},
 		"capital": ["Panama City"],
 		"altSpellings": [
 			"PA",
@@ -9738,7 +10085,6 @@
 			"pol": {"official": "Republika Panamy", "common": "Panama"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u0646\u0627\u0645\u0627", "common": "\u067e\u0627\u0646\u0627\u0645\u0627"},
 			"kor": {"official": "\ud30c\ub098\ub9c8 \uacf5\ud654\uad6d", "common": "\ud30c\ub098\ub9c8"}
-
 		},
 		"latlng": [9, -80],
 		"demonym": "Panamanian",
@@ -9766,7 +10112,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NZD"],
-		"callingCode": ["64"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["4"]
+		},
 		"capital": ["Adamstown"],
 		"altSpellings": [
 			"PN",
@@ -9794,7 +10143,6 @@
 			"pol": {"official": "Wyspy Pitcairn, Henderson, Ducie i Oeno", "common": "Pitcairn"},
 			"urd": {"official": "\u067e\u0679\u06a9\u06cc\u0631\u0646 \u062c\u0632\u0627\u0626\u0631", "common": "\u062c\u0632\u0627\u0626\u0631 \u067e\u0679\u06a9\u06cc\u0631\u0646"},
 			"kor": {"official": "\ud54f\ucf00\uc5b8 \uc81c\ub3c4", "common": "\ud54f\ucf00\uc5b8 \uc81c\ub3c4"}
-
 		},
 		"latlng": [-25.06666666, -130.1],
 		"demonym": "Pitcairn Islander",
@@ -9824,7 +10172,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PEN"],
-		"callingCode": ["51"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["1"]
+		},
 		"capital": ["Lima"],
 		"altSpellings": ["PE", "Republic of Peru", "Rep\u00fablica del Per\u00fa"],
 		"region": "Americas",
@@ -9848,7 +10199,6 @@
 			"pol": {"official": "Republika Peru", "common": "Peru"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0648", "common": "\u067e\u06cc\u0631\u0648"},
 			"kor": {"official": "\ud398\ub8e8 \uacf5\ud654\uad6d", "common": "\ud398\ub8e8"}
-
 		},
 		"latlng": [-10, -76],
 		"demonym": "Peruvian",
@@ -9880,7 +10230,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PHP"],
-		"callingCode": ["63"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["3"]
+		},
 		"capital": ["Manila"],
 		"altSpellings": [
 			"PH",
@@ -9908,7 +10261,6 @@
 			"pol": {"official": "Republika Filipin", "common": "Filipiny"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0644\u067e\u0627\u0626\u0646", "common": "\u0641\u0644\u067e\u0627\u0626\u0646"},
 			"kor": {"official": "\ud544\ub9ac\ud540 \uacf5\ud654\uad6d", "common": "\ud544\ub9ac\ud540"}
-
 		},
 		"latlng": [13, 122],
 		"demonym": "Filipino",
@@ -9934,7 +10286,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["680"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["80"]
+		},
 		"capital": ["Ngerulmud"],
 		"altSpellings": ["PW", "Republic of Palau", "Beluu er a Belau"],
 		"region": "Oceania",
@@ -9958,7 +10313,6 @@
 			"pol": {"official": "Republika Palau", "common": "Palau"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0644\u0627\u0624", "common": "\u067e\u0644\u0627\u0624"},
 			"kor": {"official": "\ud314\ub77c\uc6b0 \uacf5\ud654\uad6d", "common": "\ud314\ub77c\uc6b0"}
-
 		},
 		"latlng": [7.5, 134.5],
 		"demonym": "Palauan",
@@ -9994,7 +10348,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PGK"],
-		"callingCode": ["675"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["75"]
+		},
 		"capital": ["Port Moresby"],
 		"altSpellings": [
 			"PG",
@@ -10022,7 +10379,6 @@
 			"pol": {"official": "Niezale\u017Cne Pa\u0144stwo Papui-Nowej Gwinei", "common": "Papua-Nowa Gwinea"},
 			"urd": {"official": "\u0622\u0632\u0627\u062f \u0631\u06cc\u0627\u0633\u062a\u0650 \u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc", "common": "\u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc"},
 			"kor": {"official": "\ud30c\ud478\uc544\ub274\uae30\ub2c8 \ub3c5\ub9bd\uad6d", "common": "\ud30c\ud478\uc544\ub274\uae30\ub2c8"}
-
 		},
 		"latlng": [-6, 147],
 		"demonym": "Papua New Guinean",
@@ -10047,7 +10403,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PLN"],
-		"callingCode": ["48"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["8"]
+		},
 		"capital": ["Warsaw"],
 		"altSpellings": ["PL", "Republic of Poland", "Rzeczpospolita Polska"],
 		"region": "Europe",
@@ -10071,7 +10430,6 @@
 			"pol": {"official": "Rzeczpospolita Polska", "common": "Polska"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0648\u0644\u06cc\u0646\u0688", "common": "\u067e\u0648\u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ud3f4\ub780\ub4dc \uacf5\ud654\uad6d", "common": "\ud3f4\ub780\ub4dc"}
-
 		},
 		"latlng": [52, 20],
 		"demonym": "Polish",
@@ -10103,7 +10461,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1787", "1939"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["787", "939"]
+		},
 		"capital": ["San Juan"],
 		"altSpellings": [
 			"PR",
@@ -10131,7 +10492,6 @@
 			"pol": {"official": "Wolne Stowarzyszone Pa\u0144stwo Portoryko", "common": "Portoryko"},
 			"urd": {"official": " \u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648", "common": "\u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"},
 			"kor": {"official": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54", "common": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54"}
-
 		},
 		"latlng": [18.25, -66.5],
 		"demonym": "Puerto Rican",
@@ -10158,7 +10518,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["KPW"],
-		"callingCode": ["850"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["50"]
+		},
 		"capital": ["Pyongyang"],
 		"altSpellings": [
 			"KP",
@@ -10190,7 +10553,6 @@
 			"pol": {"official": "Korea\u0144ska Republika Ludowo-Demokratyczna", "common": "Korea P\u00F3\u0142nocna"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627", "common": "\u0634\u0645\u0627\u0644\u06cc \u06a9\u0648\u0631\u06cc\u0627"},
 			"kor": {"official": "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d", "common": "\uc870\uc120"}
-
 		},
 		"latlng": [40, 127],
 		"demonym": "North Korean",
@@ -10217,7 +10579,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["351"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["51"]
+		},
 		"capital": ["Lisbon"],
 		"altSpellings": [
 			"PT",
@@ -10246,7 +10611,6 @@
 			"pol": {"official": "Republika Portugalska", "common": "Portugalia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0631\u062a\u06af\u0627\u0644", "common": "\u067e\u0631\u062a\u06af\u0627\u0644"},
 			"kor": {"official": "\ud3ec\ub974\ud22c\uac08 \uacf5\ud654\uad6d", "common": "\ud3ec\ub974\ud22c\uac08"}
-
 		},
 		"latlng": [39.5, -8],
 		"demonym": "Portuguese",
@@ -10278,7 +10642,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["PYG"],
-		"callingCode": ["595"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["95"]
+		},
 		"capital": ["Asunci\u00f3n"],
 		"altSpellings": [
 			"PY",
@@ -10307,7 +10674,6 @@
 			"pol": {"official": "Republika Paragwaju", "common": "Paragwaj"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2", "common": "\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2"},
 			"kor": {"official": "\ud30c\ub77c\uacfc\uc774 \uacf5\ud654\uad6d", "common": "\ud30c\ub77c\uacfc\uc774"}
-
 		},
 		"latlng": [-23, -58],
 		"demonym": "Paraguayan",
@@ -10335,7 +10701,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["ILS"],
-		"callingCode": ["970"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["70"]
+		},
 		"capital": ["Ramallah"],
 		"altSpellings": [
 			"PS",
@@ -10364,7 +10733,6 @@
 			"pol": {"official": "Pa\u0144stwo Palestyna", "common": "Palestyna"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0641\u0644\u0633\u0637\u06cc\u0646", "common": "\u0641\u0644\u0633\u0637\u06cc\u0646"},
 			"kor": {"official": "\ud314\ub808\uc2a4\ud0c0\uc778\uad6d", "common": "\ud314\ub808\uc2a4\ud0c0\uc778"}
-
 		},
 		"latlng": [31.9, 35.2],
 		"demonym": "Palestinian",
@@ -10392,7 +10760,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XPF"],
-		"callingCode": ["689"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["89"]
+		},
 		"capital": ["Papeet\u0113"],
 		"altSpellings": [
 			"PF",
@@ -10421,7 +10792,6 @@
 			"pol": {"official": "Polinezja Francuska", "common": "Polinezja Francuska"},
 			"urd": {"official": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627", "common": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627"},
 			"kor": {"official": "\ud504\ub791\uc2a4\ub839 \ud3f4\ub9ac\ub124\uc2dc\uc544", "common": "\ud504\ub791\uc2a4\ub839 \ud3f4\ub9ac\ub124\uc2dc\uc544"}
-
 		},
 		"latlng": [-15, -140],
 		"demonym": "French Polynesian",
@@ -10449,7 +10819,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["QAR"],
-		"callingCode": ["974"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["74"]
+		},
 		"capital": ["Doha"],
 		"altSpellings": ["QA", "State of Qatar", "Dawlat Qa\u1e6dar"],
 		"region": "Asia",
@@ -10473,7 +10846,6 @@
 			"pol": {"official": "Pa\u0144stwo Katar", "common": "Katar"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0642\u0637\u0631", "common": "\u0642\u0637\u0631"},
 			"kor": {"official": "\uce74\ud0c0\ub974\uad6d", "common": "\uce74\ud0c0\ub974"}
-
 		},
 		"latlng": [25.5, 51.25],
 		"demonym": "Qatari",
@@ -10501,7 +10873,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["262"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["62"]
+		},
 		"capital": ["Saint-Denis"],
 		"altSpellings": ["RE", "Reunion"],
 		"region": "Africa",
@@ -10525,7 +10900,6 @@
 			"pol": {"official": "Reunion", "common": "Reunion"},
 			"urd": {"official": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba \u062c\u0632\u06cc\u0631\u06c1", "common": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba"},
 			"kor": {"official": "\ub808\uc704\ub2c8\uc639", "common": "\ub808\uc704\ub2c8\uc639"}
-
 		},
 		"latlng": [-21.15, 55.5],
 		"demonym": "French",
@@ -10550,7 +10924,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["RON"],
-		"callingCode": ["40"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["0"]
+		},
 		"capital": ["Bucharest"],
 		"altSpellings": ["RO", "Rumania", "Roumania", "Rom\u00e2nia"],
 		"region": "Europe",
@@ -10574,7 +10951,6 @@
 			"pol": {"official": "Rumunia", "common": "Rumunia"},
 			"urd": {"official": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1", "common": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1"},
 			"kor": {"official": "\ub8e8\ub9c8\ub2c8\uc544", "common": "\ub8e8\ub9c8\ub2c8\uc544"}
-
 		},
 		"latlng": [46, 25],
 		"demonym": "Romanian",
@@ -10601,7 +10977,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["RUB"],
-		"callingCode": ["7"],
+		"idd": {
+			"root": "+7",
+			"suffixes": ["3XX", "4XX", "5XX", "8XX", "9XX"]
+		},
 		"capital": ["Moscow"],
 		"altSpellings": [
 			"RU",
@@ -10629,7 +11008,6 @@
 			"pol": {"official": "Federacja Rosyjska", "common": "Rosja"},
 			"urd": {"official": "\u0631\u0648\u0633\u06cc \u0648\u0641\u0627\u0642", "common": "\u0631\u0648\u0633"},
 			"kor": {"official": "\ub7ec\uc2dc\uc544 \uc5f0\ubc29", "common": "\ub7ec\uc2dc\uc544"}
-
 		},
 		"latlng": [60, 100],
 		"demonym": "Russian",
@@ -10671,7 +11049,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["RWF"],
-		"callingCode": ["250"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["50"]
+		},
 		"capital": ["Kigali"],
 		"altSpellings": [
 			"RW",
@@ -10700,7 +11081,6 @@
 			"pol": {"official": "Republika Rwandy", "common": "Rwanda"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0631\u0648\u0627\u0646\u0688\u0627", "common": "\u0631\u0648\u0627\u0646\u0688\u0627"},
 			"kor": {"official": "\ub974\uc644\ub2e4 \uacf5\ud654\uad6d", "common": "\ub974\uc644\ub2e4"}
-
 		},
 		"latlng": [-2, 30],
 		"demonym": "Rwandan",
@@ -10728,7 +11108,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SAR"],
-		"callingCode": ["966"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["66"]
+		},
 		"capital": ["Riyadh"],
 		"altSpellings": [
 			"Saudi",
@@ -10757,7 +11140,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Arabii Saudyjskiej", "common": "Arabia Saudyjska"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628", "common": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"},
 			"kor": {"official": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544 \uc655\uad6d", "common": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544"}
-
 		},
 		"latlng": [25, 45],
 		"demonym": "Saudi Arabian",
@@ -10786,7 +11168,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SDG"],
-		"callingCode": ["249"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["49"]
+		},
 		"capital": ["Khartoum"],
 		"altSpellings": [
 			"SD",
@@ -10814,7 +11199,6 @@
 			"pol": {"official": "Republika Sudanu", "common": "Sudan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u062f\u0627\u0646", "common": "\u0633\u0648\u062f\u0627\u0646"},
 			"kor": {"official": "\uc218\ub2e8 \uacf5\ud654\uad6d", "common": "\uc218\ub2e8"}
-
 		},
 		"latlng": [15, 30],
 		"demonym": "Sudanese",
@@ -10842,7 +11226,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["221"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["21"]
+		},
 		"capital": ["Dakar"],
 		"altSpellings": [
 			"SN",
@@ -10870,7 +11257,6 @@
 			"pol": {"official": "Senegal", "common": "Senegal"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0646\u06cc\u06af\u0627\u0644", "common": "\u0633\u06cc\u0646\u06cc\u06af\u0627\u0644"},
 			"kor": {"official": "\uc138\ub124\uac08 \uacf5\ud654\uad6d", "common": "\uc138\ub124\uac08"}
-
 		},
 		"latlng": [14, -14],
 		"demonym": "Senegalese",
@@ -10907,7 +11293,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SGD"],
-		"callingCode": ["65"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["5"]
+		},
 		"capital": ["Singapore"],
 		"altSpellings": [
 			"SG",
@@ -10940,7 +11329,6 @@
 			"pol": {"official": "Republika Singapuru", "common": "Singapur"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0646\u06af\u0627\u067e\u0648\u0631", "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"},
 			"kor": {"official": "\uc2f1\uac00\ud3ec\ub974 \uacf5\ud654\uad6d", "common": "\uc2f1\uac00\ud3ec\ub974"}
-
 		},
 		"latlng": [1.36666666, 103.8],
 		"demonym": "Singaporean",
@@ -10968,7 +11356,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["GBP"],
-		"callingCode": ["500"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["00"]
+		},
 		"capital": ["King Edward Point"],
 		"altSpellings": ["GS", "South Georgia and the South Sandwich Islands"],
 		"region": "Antarctic",
@@ -10992,7 +11383,6 @@
 			"pol": {"official": "Georgia Po\u0142udniowa i Sandwich Po\u0142udniowy", "common": "Georgia Po\u0142udniowa i Sandwich Po\u0142udniowy"},
 			"urd": {"official": "\u062c\u0646\u0648\u0628\u06cc \u062c\u0627\u0631\u062c\u06cc\u0627 \u0648 \u062c\u0632\u0627\u0626\u0631 \u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0688\u0648\u0686", "common": "\u062c\u0646\u0648\u0628\u06cc \u062c\u0627\u0631\u062c\u06cc\u0627"},
 			"kor": {"official": "\uc870\uc9c0\uc544", "common": "\uc870\uc9c0\uc544"}
-
 		},
 		"latlng": [-54.5, -37],
 		"demonym": "South Georgian South Sandwich Islander",
@@ -11020,7 +11410,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NOK"],
-		"callingCode": ["4779"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["779"]
+		},
 		"capital": ["Longyearbyen"],
 		"altSpellings": ["SJ", "Svalbard and Jan Mayen Islands"],
 		"region": "Europe",
@@ -11044,7 +11437,6 @@
 			"pol": {"official": "Svalbard i Jan Mayen", "common": "Svalbard i Jan Mayen"},
 			"urd": {"official": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646", "common": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646"},
 			"kor": {"official": "\uc2a4\ubc1c\ubc14\ub974 \uc580\ub9c8\uc60c \uc81c\ub3c4", "common": "\uc2a4\ubc1c\ubc14\ub974 \uc580\ub9c8\uc60c \uc81c\ub3c4"}
-
 		},
 		"latlng": [78, 20],
 		"demonym": "Norwegian",
@@ -11068,8 +11460,11 @@
 		"cioc": "SOL",
 		"independent": true,
 		"status": "officially-assigned",
-		"currency": ["SBD"],
-		"callingCode": ["677"],
+		"currency": ["SDB"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["77"]
+		},
 		"capital": ["Honiara"],
 		"altSpellings": ["SB"],
 		"region": "Oceania",
@@ -11093,7 +11488,6 @@
 			"pol": {"official": "Wyspy Salomona", "common": "Wyspy Salomona"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646", "common": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"},
 			"kor": {"official": "\uc194\ub85c\ubaac \uc81c\ub3c4", "common": "\uc194\ub85c\ubaac \uc81c\ub3c4"}
-
 		},
 		"latlng": [-8, 159],
 		"demonym": "Solomon Islander",
@@ -11121,7 +11515,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SLL"],
-		"callingCode": ["232"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["32"]
+		},
 		"capital": ["Freetown"],
 		"altSpellings": ["SL", "Republic of Sierra Leone"],
 		"region": "Africa",
@@ -11145,7 +11542,6 @@
 			"pol": {"official": "Sierra Leone", "common": "Sierra Leone"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646", "common": "\u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"},
 			"kor": {"official": "\uc2dc\uc5d0\ub77c\ub9ac\uc628 \uacf5\ud654\uad6d", "common": "\uc2dc\uc5d0\ub77c\ub9ac\uc628"}
-
 		},
 		"latlng": [8.5, -11.5],
 		"demonym": "Sierra Leonean",
@@ -11173,7 +11569,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SVC", "USD"],
-		"callingCode": ["503"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["03"]
+		},
 		"capital": ["San Salvador"],
 		"altSpellings": [
 			"SV",
@@ -11202,7 +11601,6 @@
 			"pol": {"official": "Republika Salwadoru", "common": "Salwador"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631", "common": "\u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"},
 			"kor": {"official": "\uc5d8\uc0b4\ubc14\ub3c4\ub974 \uacf5\ud654\uad6d", "common": "\uc5d8\uc0b4\ubc14\ub3c4\ub974"}
-
 		},
 		"latlng": [13.83333333, -88.91666666],
 		"demonym": "Salvadoran",
@@ -11230,7 +11628,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["378"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["78"]
+		},
 		"capital": ["City of San Marino"],
 		"altSpellings": [
 			"SM",
@@ -11258,7 +11659,6 @@
 			"pol": {"official": "Republika San Marino", "common": "San Marino"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648", "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"},
 			"kor": {"official": "\uc0b0\ub9c8\ub9ac\ub178 \uacf5\ud654\uad6d", "common": "\uc0b0\ub9c8\ub9ac\ub178"}
-
 		},
 		"latlng": [43.76666666, 12.41666666],
 		"demonym": "Sammarinese",
@@ -11290,7 +11690,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SOS"],
-		"callingCode": ["252"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["52"]
+		},
 		"capital": ["Mogadishu"],
 		"altSpellings": [
 			"SO",
@@ -11320,7 +11723,6 @@
 			"pol": {"official": "Federalna Republika Somalii", "common": "Somalia"},
 			"urd": {"official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0635\u0648\u0645\u0627\u0644\u06cc\u06c1", "common": "\u0635\u0648\u0645\u0627\u0644\u06cc\u06c1"},
 			"kor": {"official": " \uc18c\ub9d0\ub9ac\uc544 \uc5f0\ubc29 \uacf5\ud654\uad6d", "common": "\uc18c\ub9d0\ub9ac\uc544"}
-
 		},
 		"latlng": [10, 49],
 		"demonym": "Somali",
@@ -11348,7 +11750,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["508"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["08"]
+		},
 		"capital": ["Saint-Pierre"],
 		"altSpellings": [
 			"PM",
@@ -11375,7 +11780,6 @@
 			"pol": {"official": "Saint-Pierre i Miquelon", "common": "Saint-Pierre i Miquelon"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646", "common": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646"},
 			"kor": {"official": "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871", "common": "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871"}
-
 		},
 		"latlng": [46.83333333, -56.33333333],
 		"demonym": "French",
@@ -11403,7 +11807,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["RSD"],
-		"callingCode": ["381"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["81"]
+		},
 		"capital": ["Belgrade"],
 		"altSpellings": [
 			"RS",
@@ -11433,7 +11840,6 @@
 			"pol": {"official": "Republika Serbii", "common": "Serbia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u0628\u06cc\u0627", "common": "\u0633\u0631\u0628\u06cc\u0627"},
 			"kor": {"official": "\uc138\ub974\ube44\uc544 \uacf5\ud654\uad6d", "common": "\uc138\ub974\ube44\uc544"}
-
 		},
 		"latlng": [44, 21],
 		"demonym": "Serbian",
@@ -11461,7 +11867,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SSP"],
-		"callingCode": ["211"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["11"]
+		},
 		"capital": ["Juba"],
 		"altSpellings": ["SS"],
 		"region": "Africa",
@@ -11485,7 +11894,6 @@
 			"pol": {"official": "Republika Sudanu", "common": "Sudan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646", "common": "\u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646"},
 			"kor": {"official": "\ub0a8\uc218\ub2e8 \uacf5\ud654\uad6d", "common": "\ub0a8\uc218\ub2e8"}
-
 		},
 		"latlng": [7, 30],
 		"demonym": "South Sudanese",
@@ -11512,7 +11920,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["STD"],
-		"callingCode": ["239"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["39"]
+		},
 		"capital": ["S\u00e3o Tom\u00e9"],
 		"altSpellings": [
 			"ST",
@@ -11541,7 +11952,6 @@
 			"pol": {"official": "Demokratyczna Republika Wysp \u015Awi\u0119tego Tomasza i Ksi\u0105\u017C\u0119cej", "common": "Wyspy \u015Awi\u0119tego Tomasza i Ksi\u0105\u017C\u0119ca"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2", "common": "\u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2"},
 			"kor": {"official": "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"}
-
 		},
 		"latlng": [1, 7],
 		"demonym": "Sao Tomean",
@@ -11566,7 +11976,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SRD"],
-		"callingCode": ["597"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["97"]
+		},
 		"capital": ["Paramaribo"],
 		"altSpellings": [
 			"SR",
@@ -11596,7 +12009,6 @@
 			"pol": {"official": "Republika Surinamu", "common": "Surinam"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u06cc\u0646\u0627\u0645", "common": "\u0633\u0631\u06cc\u0646\u0627\u0645"},
 			"kor": {"official": "\uc218\ub9ac\ub0a8 \uacf5\ud654\uad6d", "common": "\uc218\ub9ac\ub0a8"}
-
 		},
 		"latlng": [4, -56],
 		"demonym": "Surinamer",
@@ -11621,7 +12033,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["421"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["21"]
+		},
 		"capital": ["Bratislava"],
 		"altSpellings": ["SK", "Slovak Republic", "Slovensk\u00e1 republika"],
 		"region": "Europe",
@@ -11645,7 +12060,6 @@
 			"pol": {"official": "Republika S\u0142owacka", "common": "S\u0142owacja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1", "common": "\u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1"},
 			"kor": {"official": "\uc2ac\ub85c\ubc14\ud0a4\uc544 \uacf5\ud654\uad6d", "common": "\uc2ac\ub85c\ubc14\ud0a4\uc544"}
-
 		},
 		"latlng": [48.66666666, 19.5],
 		"demonym": "Slovak",
@@ -11670,7 +12084,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["386"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["86"]
+		},
 		"capital": ["Ljubljana"],
 		"altSpellings": ["SI", "Republic of Slovenia", "Republika Slovenija"],
 		"region": "Europe",
@@ -11694,7 +12111,6 @@
 			"pol": {"official": "Republika S\u0142owenii", "common": "S\u0142owenia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627", "common": "\u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627"},
 			"kor": {"official": "\uc2ac\ub85c\ubca0\ub2c8\uc544 \uacf5\ud654\uad6d", "common": "\uc2ac\ub85c\ubca0\ub2c8\uc544"}
-
 		},
 		"latlng": [46.11666666, 14.81666666],
 		"demonym": "Slovene",
@@ -11719,7 +12135,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SEK"],
-		"callingCode": ["46"],
+		"idd": {
+			"root": "+4",
+			"suffixes": ["6"]
+		},
 		"capital": ["Stockholm"],
 		"altSpellings": ["SE", "Kingdom of Sweden", "Konungariket Sverige"],
 		"region": "Europe",
@@ -11743,7 +12162,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Szwecji", "common": "Szwecja"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u06cc\u0688\u0646", "common": "\u0633\u0648\u06cc\u0688\u0646"},
 			"kor": {"official": "\uc2a4\uc6e8\ub374 \uc655\uad6d", "common": "\uc2a4\uc6e8\ub374"}
-
 		},
 		"latlng": [62, 15],
 		"demonym": "Swedish",
@@ -11769,7 +12187,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SZL"],
-		"callingCode": ["268"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["68"]
+		},
 		"capital": ["Lobamba"],
 		"altSpellings": [
 			"SZ",
@@ -11801,7 +12222,6 @@
 			"zho": {"official": "\u65AF\u5A01\u58EB\u5170\u738B\u56FD", "common": "\u65AF\u5A01\u58EB\u5170"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688", "common": "\u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8 \uc655\uad6d", "common": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8"}
-
 		},
 		"latlng": [-26.5, 31.5],
 		"demonym": "Swazi",
@@ -11828,7 +12248,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["ANG"],
-		"callingCode": ["1721"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["721"]
+		},
 		"capital": ["Philipsburg"],
 		"altSpellings": ["SX", "Sint Maarten (Dutch part)"],
 		"region": "Americas",
@@ -11852,7 +12275,6 @@
 			"pol": {"official": "Sint Maarten", "common": "Sint Maarten"},
 			"urd": {"official": "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646", "common": "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"},
 			"kor": {"official": "\uc2e0\ud2b8\ub9c8\ub974\ud134", "common": "\uc2e0\ud2b8\ub9c8\ub974\ud134"}
-
 		},
 		"latlng": [18.033333, -63.05],
 		"demonym": "St. Maartener",
@@ -11882,7 +12304,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SCR"],
-		"callingCode": ["248"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["48"]
+		},
 		"capital": ["Victoria"],
 		"altSpellings": [
 			"SC",
@@ -11915,7 +12340,6 @@
 			"pol": {"official": "Republika Seszeli", "common": "Seszele"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633", "common": "\u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633"},
 			"kor": {"official": "\uc138\uc774\uc178 \uacf5\ud654\uad6d", "common": "\uc138\uc774\uc178"}
-
 		},
 		"latlng": [-4.58333333, 55.66666666],
 		"demonym": "Seychellois",
@@ -11943,7 +12367,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["SYP"],
-		"callingCode": ["963"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["63"]
+		},
 		"capital": ["Damascus"],
 		"altSpellings": [
 			"SY",
@@ -11971,7 +12398,6 @@
 			"pol": {"official": "Syryjska Republika Arabska", "common": "Syria"},
 			"urd": {"official": "\u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u0631\u06cc\u06c1", "common": "\u0633\u0648\u0631\u06cc\u06c1"},
 			"kor": {"official": "\uc2dc\ub9ac\uc544 \uc544\ub78d \uacf5\ud654\uad6d", "common": "\uc2dc\ub9ac\uc544"}
-
 		},
 		"latlng": [35, 38],
 		"demonym": "Syrian",
@@ -11999,7 +12425,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1649"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["649"]
+		},
 		"capital": ["Cockburn Town"],
 		"altSpellings": ["TC"],
 		"region": "Americas",
@@ -12023,7 +12452,6 @@
 			"pol": {"official": "Turks i Caicos", "common": "Turks i Caicos"},
 			"urd": {"official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1", "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1"},
 			"kor": {"official": "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4", "common": "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4"}
-
 		},
 		"latlng": [21.75, -71.58333333],
 		"demonym": "Turks and Caicos Islander",
@@ -12052,7 +12480,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XAF"],
-		"callingCode": ["235"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["35"]
+		},
 		"capital": ["N'Djamena"],
 		"altSpellings": [
 			"TD",
@@ -12082,7 +12513,6 @@
 			"pol": {"official": "Republika Czadu", "common": "Czad"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0627\u0688", "common": "\u0686\u0627\u0688"},
 			"kor": {"official": "\ucc28\ub4dc \uacf5\ud654\uad6d", "common": "\ucc28\ub4dc"}
-
 		},
 		"latlng": [15, 19],
 		"demonym": "Chadian",
@@ -12107,7 +12537,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XOF"],
-		"callingCode": ["228"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["28"]
+		},
 		"capital": ["Lom\u00e9"],
 		"altSpellings": [
 			"TG",
@@ -12136,7 +12569,6 @@
 			"pol": {"official": "Republika Togijska", "common": "Togo"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0648\u06af\u0648", "common": "\u0679\u0648\u06af\u0648"},
 			"kor": {"official": "\ud1a0\uace0 \uacf5\ud654\uad6d", "common": "\ud1a0\uace0"}
-
 		},
 		"latlng": [8, 1.16666666],
 		"demonym": "Togolese",
@@ -12164,7 +12596,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["THB"],
-		"callingCode": ["66"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["6"]
+		},
 		"capital": ["Bangkok"],
 		"altSpellings": [
 			"TH",
@@ -12195,7 +12630,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Tajlandii", "common": "Tajlandia"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688", "common": "\u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688"},
 			"kor": {"official": "\ud0c0\uc774 \uc655\uad6d", "common": "\ud0dc\uad6d"}
-
 		},
 		"latlng": [15, 100],
 		"demonym": "Thai",
@@ -12226,7 +12660,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TJS"],
-		"callingCode": ["992"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["92"]
+		},
 		"capital": ["Dushanbe"],
 		"altSpellings": [
 			"TJ",
@@ -12256,7 +12693,6 @@
 			"pol": {"official": "Republika Tad\u017Cykistanu", "common": "Tad\u017Cykistan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646", "common": "\u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4 \uacf5\ud654\uad6d", "common": "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"}
-
 		},
 		"latlng": [39, 71],
 		"demonym": "Tadzhik",
@@ -12283,7 +12719,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["NZD"],
-		"callingCode": ["690"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["90"]
+		},
 		"capital": ["Fakaofo"],
 		"altSpellings": ["TK"],
 		"region": "Oceania",
@@ -12307,7 +12746,6 @@
 			"pol": {"official": "Tokelau", "common": "Tokelau"},
 			"urd": {"official": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624", "common": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624"},
 			"kor": {"official": "\ud1a0\ucf08\ub77c\uc6b0", "common": "\ud1a0\ucf08\ub77c\uc6b0"}
-
 		},
 		"latlng": [-9, -172],
 		"demonym": "Tokelauan",
@@ -12338,7 +12776,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TMT"],
-		"callingCode": ["993"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["93"]
+		},
 		"capital": ["Ashgabat"],
 		"altSpellings": ["TM"],
 		"region": "Asia",
@@ -12362,7 +12803,6 @@
 			"pol": {"official": "Republika Turkmenistanu", "common": "Turkmenistan"},
 			"urd": {"official": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646", "common": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4", "common": "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"}
-
 		},
 		"latlng": [40, 60],
 		"demonym": "Turkmen",
@@ -12393,7 +12833,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["670"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["70"]
+		},
 		"capital": ["Dili"],
 		"altSpellings": [
 			"TL",
@@ -12425,7 +12868,6 @@
 			"pol": {"official": "Demokratyczna Republika Timoru Wschodniego", "common": "Timor Wschodni"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631", "common": "\u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631"},
 			"kor": {"official": "\ub3d9\ud2f0\ubaa8\ub974 \ubbfc\uc8fc \uacf5\ud654\uad6d", "common": "\ub3d9\ud2f0\ubaa8\ub974"}
-
 		},
 		"latlng": [-8.83333333, 125.91666666],
 		"demonym": "East Timorese",
@@ -12451,7 +12893,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TOP"],
-		"callingCode": ["676"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["76"]
+		},
 		"capital": ["Nuku'alofa"],
 		"altSpellings": ["TO"],
 		"region": "Oceania",
@@ -12475,7 +12920,6 @@
 			"pol": {"official": "Kr\u00F3lestwo Tonga", "common": "Tonga"},
 			"urd": {"official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0679\u0648\u0646\u06af\u0627", "common": "\u0679\u0648\u0646\u06af\u0627"},
 			"kor": {"official": "\ud1b5\uac00 \uc655\uad6d", "common": "\ud1b5\uac00"}
-
 		},
 		"latlng": [-20, -175],
 		"demonym": "Tongan",
@@ -12503,7 +12947,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TTD"],
-		"callingCode": ["1868"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["868"]
+		},
 		"capital": ["Port of Spain"],
 		"altSpellings": ["TT", "Republic of Trinidad and Tobago"],
 		"region": "Americas",
@@ -12527,7 +12974,6 @@
 			"pol": {"official": "Trynidad i Tobago", "common": "Trynidad i Tobago"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648", "common": "\u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648"},
 			"kor": {"official": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0 \uacf5\ud654\uad6d", "common": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0"}
-
 		},
 		"latlng": [11, -61],
 		"demonym": "Trinidadian",
@@ -12555,7 +13001,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TND"],
-		"callingCode": ["216"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["16"]
+		},
 		"capital": ["Tunis"],
 		"altSpellings": [
 			"TN",
@@ -12583,7 +13032,6 @@
 			"pol": {"official": "Republika Tunezyjska", "common": "Tunezja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0648\u0646\u0633", "common": "\u062a\u0648\u0646\u0633"},
 			"kor": {"official": "\ud280\ub2c8\uc9c0 \uacf5\ud654\uad6d", "common": "\ud280\ub2c8\uc9c0"}
-
 		},
 		"latlng": [34, 9],
 		"demonym": "Tunisian",
@@ -12611,7 +13059,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TRY"],
-		"callingCode": ["90"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["0"]
+		},
 		"capital": ["Ankara"],
 		"altSpellings": [
 			"TR",
@@ -12640,7 +13091,6 @@
 			"pol": {"official": "Republika Turcji", "common": "Turcja"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0631\u06a9\u06cc", "common": "\u062a\u0631\u06a9\u06cc"},
 			"kor": {"official": "\ud130\ud0a4 \uacf5\ud654\uad6d", "common": "\ud130\ud0a4"}
-
 		},
 		"latlng": [39, 35],
 		"demonym": "Turkish",
@@ -12666,7 +13116,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["AUD"],
-		"callingCode": ["688"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["88"]
+		},
 		"capital": ["Funafuti"],
 		"altSpellings": ["TV"],
 		"region": "Oceania",
@@ -12690,7 +13143,6 @@
 			"pol": {"official": "Tuvalu", "common": "Tuvalu"},
 			"urd": {"official": "\u062a\u0648\u0648\u0627\u0644\u0648", "common": "\u062a\u0648\u0648\u0627\u0644\u0648"},
 			"kor": {"official": "\ud22c\ubc1c\ub8e8", "common": "\ud22c\ubc1c\ub8e8"}
-
 		},
 		"latlng": [-8, 178],
 		"demonym": "Tuvaluan",
@@ -12717,7 +13169,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["TWD"],
-		"callingCode": ["886"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["86"]
+		},
 		"capital": ["Taipei"],
 		"altSpellings": [
 			"TW",
@@ -12747,7 +13202,6 @@
 			"pol": {"official": "Republika Chi\u0144ska (Tajwan)", "common": "Tajwan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 (\u062a\u0627\u0626\u06cc\u0648\u0627\u0646)", "common": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646"},
 			"kor": {"official": "\uc911\ud654\ubbfc\uad6d", "common": "\ub300\ub9cc"}
-
 		},
 		"latlng": [23.5, 121],
 		"demonym": "Taiwanese",
@@ -12779,7 +13233,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["TZS"],
-		"callingCode": ["255"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["55"]
+		},
 		"capital": ["Dodoma"],
 		"altSpellings": [
 			"TZ",
@@ -12808,7 +13265,6 @@
 			"pol": {"official": "Zjednoczona Republika Tanzanii", "common": "Tanzania"},
 			"urd": {"official": "\u0645\u062a\u062d\u062f\u06c1 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0646\u0632\u0627\u0646\u06cc\u06c1", "common": "\u062a\u0646\u0632\u0627\u0646\u06cc\u06c1"},
 			"kor": {"official": "\ud0c4\uc790\ub2c8\uc544 \uc5f0\ud569 \uacf5\ud654\uad6d", "common": "\ud0c4\uc790\ub2c8\uc544"}
-
 		},
 		"latlng": [-6, 35],
 		"demonym": "Tanzanian",
@@ -12834,7 +13290,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["UGX"],
-		"callingCode": ["256"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["56"]
+		},
 		"capital": ["Kampala"],
 		"altSpellings": ["UG", "Republic of Uganda", "Jamhuri ya Uganda"],
 		"region": "Africa",
@@ -12858,7 +13317,6 @@
 			"pol": {"official": "Republika Ugandy", "common": "Uganda"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0648\u06af\u0646\u0688\u0627", "common": "\u06cc\u0648\u06af\u0646\u0688\u0627"},
 			"kor": {"official": "\uc6b0\uac04\ub2e4 \uacf5\ud654\uad6d", "common": "\uc6b0\uac04\ub2e4"}
-
 		},
 		"latlng": [1, 32],
 		"demonym": "Ugandan",
@@ -12886,7 +13344,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["UAH"],
-		"callingCode": ["380"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["80"]
+		},
 		"capital": ["Kyiv"],
 		"altSpellings": ["UA", "Ukrayina"],
 		"region": "Europe",
@@ -12910,7 +13371,6 @@
 			"pol": {"official": "Ukraina", "common": "Ukraina"},
 			"urd": {"official": "\u06cc\u0648\u06a9\u0631\u06cc\u0646", "common": "\u06cc\u0648\u06a9\u0631\u06cc\u0646"},
 			"kor": {"official": "\uc6b0\ud06c\ub77c\uc774\ub098", "common": "\uc6b0\ud06c\ub77c\uc774\ub098"}
-
 		},
 		"latlng": [49, 32],
 		"demonym": "Ukrainian",
@@ -12938,7 +13398,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": [],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["68"]
+		},
 		"capital": [""],
 		"altSpellings": ["UM"],
 		"region": "Americas",
@@ -12962,7 +13425,6 @@
 			"pol": {"official": "Dalekie Wyspy Mniejsze Stan\u00F3w Zjednoczonych", "common": "Dalekie Wyspy Mniejsze Stan\u00F3w Zjednoczonych"},
 			"urd": {"official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631", "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631"},
 			"kor": {"official": "\ubbf8\uad6d\ub839 \uad70\uc18c \uc81c\ub3c4", "common": "\ubbf8\uad6d\ub839 \uad70\uc18c \uc81c\ub3c4"}
-
 		},
 		"latlng": [19.3, 166.633333],
 		"demonym": "American",
@@ -12990,7 +13452,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["UYU"],
-		"callingCode": ["598"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["98"]
+		},
 		"capital": ["Montevideo"],
 		"altSpellings": [
 			"UY",
@@ -13018,7 +13483,6 @@
 			"pol": {"official": "Wschodnia Republika Urugwaju", "common": "Urugwaj"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0634\u0631\u0642\u06cc\u06c1 \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2", "common": "\u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"},
 			"kor": {"official": "\uc6b0\ub8e8\uacfc\uc774 \ub3d9\ubc29 \uacf5\ud654\uad6d", "common": "\uc6b0\ub8e8\uacfc\uc774"}
-
 		},
 		"latlng": [-33, -56],
 		"demonym": "Uruguayan",
@@ -13046,7 +13510,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["201", "202", "203", "205", "206", "207", "208", "209", "210", "212", "213", "214", "215", "216", "217", "218", "219", "220", "224", "225", "227", "228", "229", "231", "234", "239", "240", "248", "251", "252", "253", "254", "256", "260", "262", "267", "269", "270", "272", "274", "276", "281", "283", "301", "302", "303", "304", "305", "307", "308", "309", "310", "312", "313", "314", "315", "316", "317", "318", "319", "320", "321", "323", "325", "327", "330", "331", "334", "336", "337", "339", "346", "347", "351", "352", "360", "361", "364", "380", "385", "386", "401", "402", "404", "405", "406", "407", "408", "409", "410", "412", "413", "414", "415", "417", "419", "423", "424", "425", "430", "432", "434", "435", "440", "442", "443", "447", "458", "463", "464", "469", "470", "475", "478", "479", "480", "484", "501", "502", "503", "504", "505", "507", "508", "509", "510", "512", "513", "515", "516", "517", "518", "520", "530", "531", "534", "539", "540", "541", "551", "559", "561", "562", "563", "564", "567", "570", "571", "573", "574", "575", "580", "585", "586", "601", "602", "603", "605", "606", "607", "608", "609", "610", "612", "614", "615", "616", "617", "618", "619", "620", "623", "626", "628", "629", "630", "631", "636", "641", "646", "650", "651", "657", "660", "661", "662", "667", "669", "678", "681", "682", "701", "702", "703", "704", "706", "707", "708", "712", "713", "714", "715", "716", "717", "718", "719", "720", "724", "725", "727", "730", "731", "732", "734", "737", "740", "743", "747", "754", "757", "760", "762", "763", "765", "769", "770", "772", "773", "774", "775", "779", "781", "785", "786", "801", "802", "803", "804", "805", "806", "808", "810", "812", "813", "814", "815", "816", "817", "818", "828", "830", "831", "832", "843", "845", "847", "848", "850", "854", "856", "857", "858", "859", "860", "862", "863", "864", "865", "870", "872", "878", "901", "903", "904", "906", "907", "908", "909", "910", "912", "913", "914", "915", "916", "917", "918", "919", "920", "925", "928", "929", "930", "931", "934", "936", "937", "938", "940", "941", "947", "949", "951", "952", "954", "956", "959", "970", "971", "972", "973", "975", "978", "979", "980", "984", "985", "989"]
+		},
 		"capital": ["Washington D.C."],
 		"altSpellings": ["US", "USA", "United States of America"],
 		"region": "Americas",
@@ -13070,7 +13537,6 @@
 			"pol": {"official": "Stany Zjednoczone Ameryki", "common": "Stany Zjednoczone"},
 			"urd": {"official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u0627", "common": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1"},
 			"kor": {"official": "\uc544\uba54\ub9ac\uce74 \ud569\uc911\uad6d", "common": "\ubbf8\uad6d"}
-
 		},
 		"latlng": [38, -97],
 		"demonym": "American",
@@ -13101,7 +13567,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["UZS"],
-		"callingCode": ["998"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["98"]
+		},
 		"capital": ["Tashkent"],
 		"altSpellings": [
 			"UZ",
@@ -13130,7 +13599,6 @@
 			"pol": {"official": "Republika Uzbekistanu", "common": "Uzbekistan"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646", "common": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"},
 			"kor": {"official": "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4 \uacf5\ud654\uad6d", "common": "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4"}
-
 		},
 		"latlng": [41, 64],
 		"demonym": "Uzbekistani",
@@ -13162,7 +13630,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["EUR"],
-		"callingCode": ["3906698", "379"],
+		"idd": {
+			"root": "+3",
+			"suffixes": ["906698", "79"]
+		},
 		"capital": ["Vatican City"],
 		"altSpellings": [
 			"VA",
@@ -13191,7 +13662,6 @@
 			"pol": {"official": "Pa\u0144stwo Watyka\u0144skie", "common": "Watykan"},
 			"urd": {"official": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc", "common": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc"},
 			"kor": {"official": "\ubc14\ud2f0\uce78 \uc2dc\uad6d", "common": "\ubc14\ud2f0\uce78"}
-
 		},
 		"latlng": [41.9, 12.45],
 		"demonym": "Vatican",
@@ -13219,7 +13689,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["XCD"],
-		"callingCode": ["1784"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["784"]
+		},
 		"capital": ["Kingstown"],
 		"altSpellings": ["VC"],
 		"region": "Americas",
@@ -13243,7 +13716,6 @@
 			"pol": {"official": "Saint Vincent i Grenadyny", "common": "Saint Vincent i Grenadyny"},
 			"urd": {"official": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632", "common": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632"},
 			"kor": {"official": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518", "common": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"}
-
 		},
 		"latlng": [13.25, -61.2],
 		"demonym": "Saint Vincentian",
@@ -13271,7 +13743,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["VEF"],
-		"callingCode": ["58"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["8"]
+		},
 		"capital": ["Caracas"],
 		"altSpellings": [
 			"VE",
@@ -13300,7 +13775,6 @@
 			"pol": {"official": "Boliwaria\u0144ska Republika Wenezueli", "common": "Wenezuela"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627", "common": "\u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627"},
 			"kor": {"official": "\ubca0\ub124\uc218\uc5d8\ub77c \ubcfc\ub9ac\ubc14\ub974 \uacf5\ud654\uad6d", "common": "\ubca0\ub124\uc218\uc5d8\ub77c"}
-
 		},
 		"latlng": [8, -66],
 		"demonym": "Venezuelan",
@@ -13328,7 +13802,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1284"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["284"]
+		},
 		"capital": ["Road Town"],
 		"altSpellings": ["VG", "Virgin Islands, British"],
 		"region": "Americas",
@@ -13352,7 +13829,6 @@
 			"pol": {"official": "Brytyjskie Wyspy Dziewicze", "common": "Brytyjskie Wyspy Dziewicze"},
 			"urd": {"official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646", "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"},
 			"kor": {"official": "\uc601\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc", "common": "\uc601\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"}
-
 		},
 		"latlng": [18.431383, -64.62305],
 		"demonym": "Virgin Islander",
@@ -13380,7 +13856,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["1340"],
+		"idd": {
+			"root": "+1",
+			"suffixes": ["340"]
+		},
 		"capital": ["Charlotte Amalie"],
 		"altSpellings": ["VI", "Virgin Islands, U.S."],
 		"region": "Americas",
@@ -13404,7 +13883,6 @@
 			"pol": {"official": "Wyspy Dziewicze Stan\u00F3w Zjednoczonych", "common": "Wyspy Dziewicze Stan\u00F3w Zjednoczonych"},
 			"urd": {"official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646", "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"},
 			"kor": {"official": "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc", "common": "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"}
-
 		},
 		"latlng": [18.35, -64.933333],
 		"demonym": "Virgin Islander",
@@ -13432,7 +13910,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["VND"],
-		"callingCode": ["84"],
+		"idd": {
+			"root": "+8",
+			"suffixes": ["4"]
+		},
 		"capital": ["Hanoi"],
 		"altSpellings": [
 			"VN",
@@ -13461,7 +13942,6 @@
 			"pol": {"official": "Socjalistyczna Republika Wietnamu", "common": "Wietnam"},
 			"urd": {"official": "\u0627\u0634\u062a\u0631\u0627\u06a9\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u06cc\u062a\u0646\u0627\u0645", "common": "\u0648\u06cc\u062a\u0646\u0627\u0645"},
 			"kor": {"official": "\ubca0\ud2b8\ub0a8 \uc0ac\ud68c\uc8fc\uc758 \uacf5\ud654\uad6d", "common": "\ubca0\ud2b8\ub0a8"}
-
 		},
 		"latlng": [16.16666666, 107.83333333],
 		"demonym": "Vietnamese",
@@ -13488,7 +13968,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["VUV"],
-		"callingCode": ["678"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["78"]
+		},
 		"capital": ["Port Vila"],
 		"altSpellings": [
 			"VU",
@@ -13517,7 +14000,6 @@
 			"pol": {"official": "Republika Vanuatu", "common": "Vanuatu"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u0627\u0646\u0648\u0627\u062a\u0648", "common": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648"},
 			"kor": {"official": "\ubc14\ub204\uc544\ud22c \uacf5\ud654\uad6d", "common": "\ubc14\ub204\uc544\ud22c"}
-
 		},
 		"latlng": [-16, 167],
 		"demonym": "Ni-Vanuatu",
@@ -13545,7 +14027,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["XPF"],
-		"callingCode": ["681"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["81"]
+		},
 		"capital": ["Mata-Utu"],
 		"altSpellings": [
 			"WF",
@@ -13573,7 +14058,6 @@
 			"pol": {"official": "Terytorium Wysp Wallis i Futuna", "common": "Wallis i Futuna"},
 			"urd": {"official": "\u0633\u0631 \u0632\u0645\u06cc\u0646\u0650 \u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1 \u062c\u0632\u0627\u0626\u0631", "common": "\u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1"},
 			"kor": {"official": "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098", "common": "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098"}
-
 		},
 		"latlng": [-13.3, -176.2],
 		"demonym": "Wallis and Futuna Islander",
@@ -13602,7 +14086,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["WST"],
-		"callingCode": ["685"],
+		"idd": {
+			"root": "+6",
+			"suffixes": ["85"]
+		},
 		"capital": ["Apia"],
 		"altSpellings": [
 			"WS",
@@ -13630,7 +14117,6 @@
 			"pol": {"official": "Niezale\u017Cne Pa\u0144stwo Samoa", "common": "Samoa"},
 			"urd": {"official": "\u0622\u0632\u0627\u062f \u0633\u0644\u0637\u0646\u062a\u0650 \u0633\u0627\u0645\u0648\u0627", "common": "\u0633\u0627\u0645\u0648\u0648\u0627"},
 			"kor": {"official": "\uc0ac\ubaa8\uc544 \ub3c5\ub9bd\uad6d", "common": "\uc0ac\ubaa8\uc544"}
-
 		},
 		"latlng": [-13.58333333, -172.33333333],
 		"demonym": "Samoan",
@@ -13658,7 +14144,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["YER"],
-		"callingCode": ["967"],
+		"idd": {
+			"root": "+9",
+			"suffixes": ["67"]
+		},
 		"capital": ["Sana'a"],
 		"altSpellings": [
 			"YE",
@@ -13686,7 +14175,6 @@
 			"pol": {"official": "Republika Jeme\u0144ska", "common": "Jemen"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0645\u0646", "common": "\u06cc\u0645\u0646"},
 			"kor": {"official": "\uc608\uba58 \uacf5\ud654\uad6d", "common": "\uc608\uba58"}
-
 		},
 		"latlng": [15, 48],
 		"demonym": "Yemeni",
@@ -13754,7 +14242,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ZAR"],
-		"callingCode": ["27"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["7"]
+		},
 		"capital": ["Pretoria", "Bloemfontein", "Cape Town"],
 		"altSpellings": ["ZA", "RSA", "Suid-Afrika", "Republic of South Africa"],
 		"region": "Africa",
@@ -13790,7 +14281,6 @@
 			"pol": {"official": "Republika Po\u0142udniowej Afryki", "common": "Po\u0142udniowa Afryka"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627", "common": "\u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627"},
 			"kor": {"official": "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d", "common": "\ub0a8\uc544\ud504\ub9ac\uce74"}
-
 		},
 		"latlng": [-29, 24],
 		"demonym": "South African",
@@ -13815,7 +14305,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ZMW"],
-		"callingCode": ["260"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["60"]
+		},
 		"capital": ["Lusaka"],
 		"altSpellings": ["ZM", "Republic of Zambia"],
 		"region": "Africa",
@@ -13839,7 +14332,6 @@
 			"pol": {"official": "Republika Zambii", "common": "Zambia"},
 			"urd": {"official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u06cc\u0645\u0628\u06cc\u0627", "common": "\u0632\u06cc\u0645\u0628\u06cc\u0627"},
 			"kor": {"official": "\uc7a0\ube44\uc544 \uacf5\ud654\uad6d", "common": "\uc7a0\ube44\uc544"}
-
 		},
 		"latlng": [-15, 30],
 		"demonym": "Zambian",
@@ -13878,7 +14370,10 @@
 		"independent": true,
 		"status": "officially-assigned",
 		"currency": ["ZWL"],
-		"callingCode": ["263"],
+		"idd": {
+			"root": "+2",
+			"suffixes": ["63"]
+		},
 		"capital": ["Harare"],
 		"altSpellings": ["ZW", "Republic of Zimbabwe"],
 		"region": "Africa",
@@ -13918,7 +14413,6 @@
 			"pol": {"official": "Republika Zimbabwe", "common": "Zimbabwe"},
 			"urd": {"official":"\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u0645\u0628\u0627\u0628\u0648\u06d2","common":"\u0632\u0645\u0628\u0627\u0628\u0648\u06d2"},
 			"kor": {"official": "\uc9d0\ubc14\ube0c\uc6e8 \uacf5\ud654\uad6d", "common": "\uc9d0\ubc14\ube0c\uc6e8"}
-
 		},
 		"latlng": [-20, 30],
 		"demonym": "Zimbabwean",
