@@ -1543,7 +1543,10 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["SHP", "GBP"],
-		"callingCode": ["290", "247"],
+		"idd":  {
+			"root": "+2",
+			"suffixes": ["90", "47"]
+		},
 		"capital": ["Jamestown"],
 		"altSpellings": [
 			"Saint Helena",
@@ -1836,7 +1839,8 @@
 			"common": "Caribbean Netherlands",
 			"official": "Bonaire, Sint Eustatius and Saba",
 			"native": {
-				"nld": { 	"official": "Bonaire, Sint Eustatius en Saba",
+				"nld": {
+					"official": "Bonaire, Sint Eustatius en Saba",
 					"common": "Caribisch Nederland"
 				},
 				"pap": {
@@ -1853,12 +1857,19 @@
 		"independent": false,
 		"status": "officially-assigned",
 		"currency": ["USD"],
-		"callingCode": ["599"],
+		"idd": {
+			"root": "+5",
+			"suffixes": ["99"]
+		},
 		"capital": [],
 		"altSpellings": ["BES islands"],
 		"region": "Americas",
 		"subregion": "Caribbean",
-		"languages": {"eng": "English", "nld": "Dutch", "pap": "Papiamento"},
+		"languages": {
+			"eng": "English",
+			"nld": "Dutch",
+			"pap": "Papiamento"
+		},
 		"translations": {
 			"ces": {"official": "Karibsk\u00e9 Nizozemsko", "common": "Karibsk\u00e9 Nizozemsko"},
 			"deu": {"official": "Bonaire, Sint Eustatius und Saba", "common": "Karibische Niederlande"},
