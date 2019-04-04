@@ -23,9 +23,12 @@
         "cioc": "ARU",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "297"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "97"
+            ]
+        },
         "capital": [
             "Oranjestad"
         ],
@@ -153,9 +156,12 @@
         "cioc": "AFG",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "93"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "3"
+            ]
+        },
         "capital": [
             "Kabul"
         ],
@@ -288,9 +294,12 @@
         "cioc": "ANG",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "244"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "44"
+            ]
+        },
         "capital": [
             "Luanda"
         ],
@@ -420,9 +429,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1264"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "264"
+            ]
+        },
         "capital": [
             "The Valley"
         ],
@@ -541,9 +553,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "358"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "5818"
+            ]
+        },
         "capital": [
             "Mariehamn"
         ],
@@ -665,9 +680,12 @@
         "cioc": "ALB",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "355"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "55"
+            ]
+        },
         "capital": [
             "Tirana"
         ],
@@ -798,9 +816,12 @@
         "cioc": "AND",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "376"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "76"
+            ]
+        },
         "capital": [
             "Andorra la Vella"
         ],
@@ -929,9 +950,12 @@
         "cioc": "UAE",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "971"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "71"
+            ]
+        },
         "capital": [
             "Abu Dhabi"
         ],
@@ -1059,9 +1083,12 @@
         "cioc": "ARG",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "54"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "Buenos Aires"
         ],
@@ -1193,9 +1220,12 @@
         "cioc": "ARM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "374"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "74"
+            ]
+        },
         "capital": [
             "Yerevan"
         ],
@@ -1330,9 +1360,12 @@
         "cioc": "ASA",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1684"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "684"
+            ]
+        },
         "capital": [
             "Pago Pago"
         ],
@@ -1450,7 +1483,10 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [],
+        "idd": {
+            "root": "",
+            "suffixes": []
+        },
         "capital": [
             ""
         ],
@@ -1565,7 +1601,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "62"
+            ]
+        },
         "capital": [
             "Port-aux-Fran\u00e7ais"
         ],
@@ -1685,9 +1726,12 @@
         "cioc": "ANT",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1268"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "268"
+            ]
+        },
         "capital": [
             "Saint John's"
         ],
@@ -1810,9 +1854,12 @@
         "cioc": "AUS",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "61"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "1"
+            ]
+        },
         "capital": [
             "Canberra"
         ],
@@ -1935,9 +1982,12 @@
         "cioc": "AUT",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "43"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "3"
+            ]
+        },
         "capital": [
             "Vienna"
         ],
@@ -2075,9 +2125,12 @@
         "cioc": "AZE",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "994"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "94"
+            ]
+        },
         "capital": [
             "Baku"
         ],
@@ -2213,9 +2266,12 @@
         "cioc": "BDI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "257"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "57"
+            ]
+        },
         "capital": [
             "Bujumbura"
         ],
@@ -2354,9 +2410,12 @@
         "cioc": "BEL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "32"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "2"
+            ]
+        },
         "capital": [
             "Brussels"
         ],
@@ -2494,9 +2553,12 @@
         "cioc": "BEN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "229"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "29"
+            ]
+        },
         "capital": [
             "Porto-Novo"
         ],
@@ -2626,9 +2688,12 @@
         "cioc": "BUR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "226"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "26"
+            ]
+        },
         "capital": [
             "Ouagadougou"
         ],
@@ -2758,9 +2823,12 @@
         "cioc": "BAN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "880"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "80"
+            ]
+        },
         "capital": [
             "Dhaka"
         ],
@@ -2888,9 +2956,12 @@
         "cioc": "BUL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "359"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "59"
+            ]
+        },
         "capital": [
             "Sofia"
         ],
@@ -3021,9 +3092,12 @@
         "cioc": "BRN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "973"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "73"
+            ]
+        },
         "capital": [
             "Manama"
         ],
@@ -3148,9 +3222,12 @@
         "cioc": "BAH",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1242"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "242"
+            ]
+        },
         "capital": [
             "Nassau"
         ],
@@ -3287,9 +3364,12 @@
         "cioc": "BIH",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "387"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "87"
+            ]
+        },
         "capital": [
             "Sarajevo"
         ],
@@ -3420,9 +3500,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "590"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "90"
+            ]
+        },
         "capital": [
             "Gustavia"
         ],
@@ -3545,10 +3628,13 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "290",
-            "247"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "90",
+                "47"
+            ]
+        },
         "capital": [
             "Jamestown"
         ],
@@ -3677,9 +3763,12 @@
         "cioc": "BLR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "375"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "75"
+            ]
+        },
         "capital": [
             "Minsk"
         ],
@@ -3821,9 +3910,12 @@
         "cioc": "BIZ",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "501"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "01"
+            ]
+        },
         "capital": [
             "Belmopan"
         ],
@@ -3951,9 +4043,12 @@
         "cioc": "BER",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1441"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "441"
+            ]
+        },
         "capital": [
             "Hamilton"
         ],
@@ -4091,9 +4186,12 @@
         "cioc": "BOL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "591"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "91"
+            ]
+        },
         "capital": [
             "Sucre"
         ],
@@ -4238,9 +4336,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "599"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "99"
+            ]
+        },
         "capital": [],
         "altSpellings": [
             "BES islands"
@@ -4359,9 +4460,12 @@
         "cioc": "BRA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "55"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "5"
+            ]
+        },
         "capital": [
             "Bras\u00edlia"
         ],
@@ -4498,9 +4602,12 @@
         "cioc": "BAR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1246"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "246"
+            ]
+        },
         "capital": [
             "Bridgetown"
         ],
@@ -4623,9 +4730,12 @@
         "cioc": "BRU",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "673"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "73"
+            ]
+        },
         "capital": [
             "Bandar Seri Begawan"
         ],
@@ -4758,9 +4868,12 @@
         "cioc": "BHU",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "975"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "75"
+            ]
+        },
         "capital": [
             "Thimphu"
         ],
@@ -4892,7 +5005,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "7"
+            ]
+        },
         "capital": [
             ""
         ],
@@ -5011,9 +5129,12 @@
         "cioc": "BOT",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "267"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "67"
+            ]
+        },
         "capital": [
             "Gaborone"
         ],
@@ -5144,9 +5265,12 @@
         "cioc": "CAF",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "236"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "36"
+            ]
+        },
         "capital": [
             "Bangui"
         ],
@@ -5283,9 +5407,12 @@
         "cioc": "CAN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                ""
+            ]
+        },
         "capital": [
             "Ottawa"
         ],
@@ -5411,9 +5538,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "61"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "1"
+            ]
+        },
         "capital": [
             "West Island"
         ],
@@ -5550,9 +5680,12 @@
         "cioc": "SUI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "41"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "1"
+            ]
+        },
         "capital": [
             "Bern"
         ],
@@ -5661,7 +5794,7 @@
             {
                 "code": "CHF",
                 "name": "Swiss franc",
-                "symbol": "Fr"
+                "symbol": "Fr."
             }
         ]
     },
@@ -5685,9 +5818,12 @@
         "cioc": "CHI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "56"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "6"
+            ]
+        },
         "capital": [
             "Santiago"
         ],
@@ -5820,9 +5956,12 @@
         "cioc": "CHN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "86"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "6"
+            ]
+        },
         "capital": [
             "Beijing"
         ],
@@ -5964,9 +6103,12 @@
         "cioc": "CIV",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "225"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "25"
+            ]
+        },
         "capital": [
             "Yamoussoukro"
         ],
@@ -6099,9 +6241,12 @@
         "cioc": "CMR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "237"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "37"
+            ]
+        },
         "capital": [
             "Yaound\u00e9"
         ],
@@ -6250,9 +6395,12 @@
         "cioc": "COD",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "243"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "43"
+            ]
+        },
         "capital": [
             "Kinshasa"
         ],
@@ -6401,9 +6549,12 @@
         "cioc": "CGO",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "242"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "42"
+            ]
+        },
         "capital": [
             "Brazzaville"
         ],
@@ -6540,9 +6691,12 @@
         "cioc": "COK",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "682"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "82"
+            ]
+        },
         "capital": [
             "Avarua"
         ],
@@ -6641,13 +6795,13 @@
         "flag": "\ud83c\udde8\ud83c\uddf0",
         "currencies": [
             {
-                "code": "NZD",
-                "name": "New Zealand dollar",
+                "code": "",
+                "name": "Cook Islands dollar",
                 "symbol": "$"
             },
             {
-                "code": "",
-                "name": "Cook Islands dollar",
+                "code": "NZD",
+                "name": "New Zealand dollar",
                 "symbol": "$"
             }
         ]
@@ -6672,9 +6826,12 @@
         "cioc": "COL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "57"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "7"
+            ]
+        },
         "capital": [
             "Bogot\u00e1"
         ],
@@ -6813,9 +6970,12 @@
         "cioc": "COM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "269"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "69"
+            ]
+        },
         "capital": [
             "Moroni"
         ],
@@ -6944,9 +7104,12 @@
         "cioc": "CPV",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "238"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "38"
+            ]
+        },
         "capital": [
             "Praia"
         ],
@@ -7071,9 +7234,12 @@
         "cioc": "CRC",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "506"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "06"
+            ]
+        },
         "capital": [
             "San Jos\u00e9"
         ],
@@ -7201,9 +7367,12 @@
         "cioc": "CUB",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "53"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "3"
+            ]
+        },
         "capital": [
             "Havana"
         ],
@@ -7302,13 +7471,13 @@
         "flag": "\ud83c\udde8\ud83c\uddfa",
         "currencies": [
             {
-                "code": "CUC",
-                "name": "Cuban convertible peso",
+                "code": "CUP",
+                "name": "Cuban peso",
                 "symbol": "$"
             },
             {
-                "code": "CUP",
-                "name": "Cuban peso",
+                "code": "CUC",
+                "name": "Cuban convertible peso",
                 "symbol": "$"
             }
         ]
@@ -7341,9 +7510,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "5999"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "999"
+            ]
+        },
         "capital": [
             "Willemstad"
         ],
@@ -7372,7 +7544,11 @@
                 "common": "Cura\u00e7ao"
             },
             "fra": {
-                "official": "Cura\u00e7ao",
+                "official": "Pays de Cura\u00e7ao",
+                "common": "Cura\u00e7ao"
+            },
+            "ita": {
+                "official": "Paese di Cura\u00e7ao",
                 "common": "Cura\u00e7ao"
             },
             "nld": {
@@ -7424,7 +7600,7 @@
             12.116667,
             -68.933333
         ],
-        "demonym": "Dutch",
+        "demonym": "Cura\u00e7aoan",
         "landlocked": false,
         "borders": [],
         "area": 444,
@@ -7457,9 +7633,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "61"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "1"
+            ]
+        },
         "capital": [
             "Flying Fish Cove"
         ],
@@ -7583,9 +7762,12 @@
         "cioc": "CAY",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1345"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "345"
+            ]
+        },
         "capital": [
             "George Town"
         ],
@@ -7712,9 +7894,12 @@
         "cioc": "CYP",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "357"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "57"
+            ]
+        },
         "capital": [
             "Nicosia"
         ],
@@ -7847,9 +8032,12 @@
         "cioc": "CZE",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "420"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "20"
+            ]
+        },
         "capital": [
             "Prague"
         ],
@@ -7980,9 +8168,12 @@
         "cioc": "GER",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "49"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "9"
+            ]
+        },
         "capital": [
             "Berlin"
         ],
@@ -8117,9 +8308,12 @@
         "cioc": "DJI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "253"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "53"
+            ]
+        },
         "capital": [
             "Djibouti"
         ],
@@ -8253,9 +8447,12 @@
         "cioc": "DMA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1767"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "767"
+            ]
+        },
         "capital": [
             "Roseau"
         ],
@@ -8381,9 +8578,12 @@
         "cioc": "DEN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "45"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "5"
+            ]
+        },
         "capital": [
             "Copenhagen"
         ],
@@ -8511,11 +8711,14 @@
         "cioc": "DOM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1809",
-            "1829",
-            "1849"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "809",
+                "829",
+                "849"
+            ]
+        },
         "capital": [
             "Santo Domingo"
         ],
@@ -8641,9 +8844,12 @@
         "cioc": "ALG",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "213"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "13"
+            ]
+        },
         "capital": [
             "Algiers"
         ],
@@ -8776,9 +8982,12 @@
         "cioc": "ECU",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "593"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "93"
+            ]
+        },
         "capital": [
             "Quito"
         ],
@@ -8912,9 +9121,12 @@
         "cioc": "EGY",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "20"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "0"
+            ]
+        },
         "capital": [
             "Cairo"
         ],
@@ -9051,9 +9263,12 @@
         "cioc": "ERI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "291"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "91"
+            ]
+        },
         "capital": [
             "Asmara"
         ],
@@ -9195,9 +9410,13 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "212"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "125288",
+                "125289"
+            ]
+        },
         "capital": [
             "El Aai\u00fan"
         ],
@@ -9317,9 +9536,12 @@
         "cioc": "ESP",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "34"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "Madrid"
         ],
@@ -9446,9 +9668,12 @@
         "cioc": "EST",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "372"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "72"
+            ]
+        },
         "capital": [
             "Tallinn"
         ],
@@ -9577,9 +9802,12 @@
         "cioc": "ETH",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "251"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "51"
+            ]
+        },
         "capital": [
             "Addis Ababa"
         ],
@@ -9716,9 +9944,12 @@
         "cioc": "FIN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "358"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "58"
+            ]
+        },
         "capital": [
             "Helsinki"
         ],
@@ -9854,9 +10085,12 @@
         "cioc": "FIJ",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "679"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "79"
+            ]
+        },
         "capital": [
             "Suva"
         ],
@@ -9981,9 +10215,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "500"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "00"
+            ]
+        },
         "capital": [
             "Stanley"
         ],
@@ -10104,9 +10341,12 @@
         "cioc": "FRA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "33"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "3"
+            ]
+        },
         "capital": [
             "Paris"
         ],
@@ -10240,9 +10480,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "298"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "98"
+            ]
+        },
         "capital": [
             "T\u00f3rshavn"
         ],
@@ -10369,9 +10612,12 @@
         "cioc": "FSM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "691"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "91"
+            ]
+        },
         "capital": [
             "Palikir"
         ],
@@ -10486,9 +10732,12 @@
         "cioc": "GAB",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "241"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "41"
+            ]
+        },
         "capital": [
             "Libreville"
         ],
@@ -10613,9 +10862,12 @@
         "cioc": "GBR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "44"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "London"
         ],
@@ -10738,9 +10990,12 @@
         "cioc": "GEO",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "995"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "95"
+            ]
+        },
         "capital": [
             "Tbilisi"
         ],
@@ -10873,9 +11128,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "44"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "St. Peter Port"
         ],
@@ -10972,13 +11230,13 @@
         "flag": "\ud83c\uddec\ud83c\uddec",
         "currencies": [
             {
-                "code": "GBP",
-                "name": "British pound",
+                "code": "GGP[G]",
+                "name": "Guernsey pound",
                 "symbol": "\u00a3"
             },
             {
-                "code": "GGP[G]",
-                "name": "Guernsey pound",
+                "code": "GBP",
+                "name": "British pound",
                 "symbol": "\u00a3"
             }
         ]
@@ -11003,9 +11261,12 @@
         "cioc": "GHA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "233"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "33"
+            ]
+        },
         "capital": [
             "Accra"
         ],
@@ -11128,9 +11389,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "350"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "50"
+            ]
+        },
         "capital": [
             "Gibraltar"
         ],
@@ -11251,9 +11515,12 @@
         "cioc": "GUI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "224"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "24"
+            ]
+        },
         "capital": [
             "Conakry"
         ],
@@ -11381,9 +11648,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "590"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "90"
+            ]
+        },
         "capital": [
             "Basse-Terre"
         ],
@@ -11503,9 +11773,12 @@
         "cioc": "GAM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "220"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "20"
+            ]
+        },
         "capital": [
             "Banjul"
         ],
@@ -11631,9 +11904,12 @@
         "cioc": "GBS",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "245"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "45"
+            ]
+        },
         "capital": [
             "Bissau"
         ],
@@ -11766,9 +12042,12 @@
         "cioc": "GEQ",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "240"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "40"
+            ]
+        },
         "capital": [
             "Malabo"
         ],
@@ -11900,9 +12179,12 @@
         "cioc": "GRE",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "30"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "0"
+            ]
+        },
         "capital": [
             "Athens"
         ],
@@ -12029,9 +12311,12 @@
         "cioc": "GRN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1473"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "473"
+            ]
+        },
         "capital": [
             "St. George's"
         ],
@@ -12150,9 +12435,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "299"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "99"
+            ]
+        },
         "capital": [
             "Nuuk"
         ],
@@ -12272,9 +12560,12 @@
         "cioc": "GUA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "502"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "02"
+            ]
+        },
         "capital": [
             "Guatemala City"
         ],
@@ -12398,9 +12689,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "594"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "94"
+            ]
+        },
         "capital": [
             "Cayenne"
         ],
@@ -12532,9 +12826,12 @@
         "cioc": "GUM",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1671"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "671"
+            ]
+        },
         "capital": [
             "Hag\u00e5t\u00f1a"
         ],
@@ -12656,9 +12953,12 @@
         "cioc": "GUY",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "592"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "92"
+            ]
+        },
         "capital": [
             "Georgetown"
         ],
@@ -12787,9 +13087,12 @@
         "cioc": "HKG",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "852"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "52"
+            ]
+        },
         "capital": [
             "City of Victoria"
         ],
@@ -12908,7 +13211,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [],
+        "idd": {
+            "root": "",
+            "suffixes": [
+                ""
+            ]
+        },
         "capital": [
             ""
         ],
@@ -13022,9 +13330,12 @@
         "cioc": "HON",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "504"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "04"
+            ]
+        },
         "capital": [
             "Tegucigalpa"
         ],
@@ -13149,9 +13460,12 @@
         "cioc": "CRO",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "385"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "85"
+            ]
+        },
         "capital": [
             "Zagreb"
         ],
@@ -13287,9 +13601,12 @@
         "cioc": "HAI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "509"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "09"
+            ]
+        },
         "capital": [
             "Port-au-Prince"
         ],
@@ -13414,9 +13731,12 @@
         "cioc": "HUN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "36"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "6"
+            ]
+        },
         "capital": [
             "Budapest"
         ],
@@ -13543,9 +13863,12 @@
         "cioc": "INA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "62"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "2"
+            ]
+        },
         "capital": [
             "Jakarta"
         ],
@@ -13674,9 +13997,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "44"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "Douglas"
         ],
@@ -13773,13 +14099,13 @@
         "flag": "\ud83c\uddee\ud83c\uddf2",
         "currencies": [
             {
-                "code": "GBP",
-                "name": "British pound",
+                "code": "IMP[G]",
+                "name": "Manx pound",
                 "symbol": "\u00a3"
             },
             {
-                "code": "IMP[G]",
-                "name": "Manx pound",
+                "code": "GBP",
+                "name": "British pound",
                 "symbol": "\u00a3"
             }
         ]
@@ -13812,9 +14138,12 @@
         "cioc": "IND",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "91"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "1"
+            ]
+        },
         "capital": [
             "New Delhi"
         ],
@@ -13946,9 +14275,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "246"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "46"
+            ]
+        },
         "capital": [
             "Diego Garcia"
         ],
@@ -14075,9 +14407,12 @@
         "cioc": "IRL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "353"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "53"
+            ]
+        },
         "capital": [
             "Dublin"
         ],
@@ -14203,9 +14538,12 @@
         "cioc": "IRI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "98"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "8"
+            ]
+        },
         "capital": [
             "Tehran"
         ],
@@ -14343,9 +14681,12 @@
         "cioc": "IRQ",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "964"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "64"
+            ]
+        },
         "capital": [
             "Baghdad"
         ],
@@ -14475,9 +14816,12 @@
         "cioc": "ISL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "354"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "54"
+            ]
+        },
         "capital": [
             "Reykjavik"
         ],
@@ -14603,9 +14947,12 @@
         "cioc": "ISR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "972"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "72"
+            ]
+        },
         "capital": [
             "Jerusalem"
         ],
@@ -14733,9 +15080,12 @@
         "cioc": "ITA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "39"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "9"
+            ]
+        },
         "capital": [
             "Rome"
         ],
@@ -14867,9 +15217,12 @@
         "cioc": "JAM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1876"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "876"
+            ]
+        },
         "capital": [
             "Kingston"
         ],
@@ -14997,9 +15350,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "44"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "Saint Helier"
         ],
@@ -15097,13 +15453,13 @@
         "flag": "\ud83c\uddef\ud83c\uddea",
         "currencies": [
             {
-                "code": "GBP",
-                "name": "British pound",
+                "code": "JEP[G]",
+                "name": "Jersey pound",
                 "symbol": "\u00a3"
             },
             {
-                "code": "JEP[G]",
-                "name": "Jersey pound",
+                "code": "GBP",
+                "name": "British pound",
                 "symbol": "\u00a3"
             }
         ]
@@ -15129,9 +15485,12 @@
         "cioc": "JOR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "962"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "62"
+            ]
+        },
         "capital": [
             "Amman"
         ],
@@ -15259,9 +15618,12 @@
         "cioc": "JPN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "81"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "1"
+            ]
+        },
         "capital": [
             "Tokyo"
         ],
@@ -15387,9 +15749,13 @@
         "cioc": "KAZ",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "7"
-        ],
+        "idd": {
+            "root": "+7",
+            "suffixes": [
+                "6XX",
+                "7XX"
+            ]
+        },
         "capital": [
             "Astana"
         ],
@@ -15526,9 +15892,12 @@
         "cioc": "KEN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "254"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "54"
+            ]
+        },
         "capital": [
             "Nairobi"
         ],
@@ -15660,9 +16029,12 @@
         "cioc": "KGZ",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "996"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "96"
+            ]
+        },
         "capital": [
             "Bishkek"
         ],
@@ -15791,9 +16163,12 @@
         "cioc": "CAM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "855"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "55"
+            ]
+        },
         "capital": [
             "Phnom Penh"
         ],
@@ -15930,9 +16305,12 @@
         "cioc": "KIR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "686"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "86"
+            ]
+        },
         "capital": [
             "South Tarawa"
         ],
@@ -16028,13 +16406,13 @@
         "flag": "\ud83c\uddf0\ud83c\uddee",
         "currencies": [
             {
-                "code": "AUD",
-                "name": "Australian dollar",
+                "code": "KID[G]",
+                "name": "Kiribati dollar",
                 "symbol": "$"
             },
             {
-                "code": "KID[G]",
-                "name": "Kiribati dollar",
+                "code": "AUD",
+                "name": "Australian dollar",
                 "symbol": "$"
             }
         ]
@@ -16059,9 +16437,12 @@
         "cioc": "SKN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1869"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "869"
+            ]
+        },
         "capital": [
             "Basseterre"
         ],
@@ -16182,9 +16563,12 @@
         "cioc": "KOR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "82"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "2"
+            ]
+        },
         "capital": [
             "Seoul"
         ],
@@ -16311,9 +16695,12 @@
         "cioc": "KOS",
         "independent": null,
         "status": "user-assigned",
-        "callingCode": [
-            "383"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "83"
+            ]
+        },
         "capital": [
             "Pristina"
         ],
@@ -16435,9 +16822,12 @@
         "cioc": "KUW",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "965"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "65"
+            ]
+        },
         "capital": [
             "Kuwait City"
         ],
@@ -16561,9 +16951,12 @@
         "cioc": "LAO",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "856"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "56"
+            ]
+        },
         "capital": [
             "Vientiane"
         ],
@@ -16695,9 +17088,12 @@
         "cioc": "LIB",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "961"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "61"
+            ]
+        },
         "capital": [
             "Beirut"
         ],
@@ -16822,9 +17218,12 @@
         "cioc": "LBR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "231"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "31"
+            ]
+        },
         "capital": [
             "Monrovia"
         ],
@@ -16948,9 +17347,12 @@
         "cioc": "LBA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "218"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "18"
+            ]
+        },
         "capital": [
             "Tripoli"
         ],
@@ -17078,9 +17480,12 @@
         "cioc": "LCA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1758"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "758"
+            ]
+        },
         "capital": [
             "Castries"
         ],
@@ -17199,9 +17604,12 @@
         "cioc": "LIE",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "423"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "23"
+            ]
+        },
         "capital": [
             "Vaduz"
         ],
@@ -17331,9 +17739,12 @@
         "cioc": "SRI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "94"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "Colombo"
         ],
@@ -17461,9 +17872,12 @@
         "cioc": "LES",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "266"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "66"
+            ]
+        },
         "capital": [
             "Maseru"
         ],
@@ -17592,9 +18006,12 @@
         "cioc": "LTU",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "370"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "70"
+            ]
+        },
         "capital": [
             "Vilnius"
         ],
@@ -17728,9 +18145,12 @@
         "cioc": "LUX",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "352"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "52"
+            ]
+        },
         "capital": [
             "Luxembourg"
         ],
@@ -17859,9 +18279,12 @@
         "cioc": "LAT",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "371"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "71"
+            ]
+        },
         "capital": [
             "Riga"
         ],
@@ -17991,9 +18414,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "853"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "53"
+            ]
+        },
         "capital": [
             ""
         ],
@@ -18117,9 +18543,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "590"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "90"
+            ]
+        },
         "capital": [
             "Marigot"
         ],
@@ -18248,9 +18677,12 @@
         "cioc": "MAR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "212"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "12"
+            ]
+        },
         "capital": [
             "Rabat"
         ],
@@ -18376,9 +18808,12 @@
         "cioc": "MON",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "377"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "77"
+            ]
+        },
         "capital": [
             "Monaco"
         ],
@@ -18501,9 +18936,12 @@
         "cioc": "MDA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "373"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "73"
+            ]
+        },
         "capital": [
             "Chi\u0219in\u0103u"
         ],
@@ -18632,9 +19070,12 @@
         "cioc": "MAD",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "261"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "61"
+            ]
+        },
         "capital": [
             "Antananarivo"
         ],
@@ -18757,9 +19198,12 @@
         "cioc": "MDV",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "960"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "60"
+            ]
+        },
         "capital": [
             "Mal\u00e9"
         ],
@@ -18881,9 +19325,12 @@
         "cioc": "MEX",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "52"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "2"
+            ]
+        },
         "capital": [
             "Mexico City"
         ],
@@ -19013,9 +19460,12 @@
         "cioc": "MHL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "692"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "92"
+            ]
+        },
         "capital": [
             "Majuro"
         ],
@@ -19137,9 +19587,12 @@
         "cioc": "MKD",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "389"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "89"
+            ]
+        },
         "capital": [
             "Skopje"
         ],
@@ -19267,9 +19720,12 @@
         "cioc": "MLI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "223"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "23"
+            ]
+        },
         "capital": [
             "Bamako"
         ],
@@ -19402,9 +19858,12 @@
         "cioc": "MLT",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "356"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "56"
+            ]
+        },
         "capital": [
             "Valletta"
         ],
@@ -19526,9 +19985,12 @@
         "cioc": "MYA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "95"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "5"
+            ]
+        },
         "capital": [
             "Naypyidaw"
         ],
@@ -19656,9 +20118,12 @@
         "cioc": "MNE",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "382"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "82"
+            ]
+        },
         "capital": [
             "Podgorica"
         ],
@@ -19784,9 +20249,12 @@
         "cioc": "MGL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "976"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "76"
+            ]
+        },
         "capital": [
             "Ulan Bator"
         ],
@@ -19916,9 +20384,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1670"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "670"
+            ]
+        },
         "capital": [
             "Saipan"
         ],
@@ -20041,9 +20512,12 @@
         "cioc": "MOZ",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "258"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "58"
+            ]
+        },
         "capital": [
             "Maputo"
         ],
@@ -20171,9 +20645,12 @@
         "cioc": "MTN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "222"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "22"
+            ]
+        },
         "capital": [
             "Nouakchott"
         ],
@@ -20299,9 +20776,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1664"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "664"
+            ]
+        },
         "capital": [
             "Plymouth"
         ],
@@ -20420,9 +20900,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "596"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "96"
+            ]
+        },
         "capital": [
             "Fort-de-France"
         ],
@@ -20549,9 +21032,12 @@
         "cioc": "MRI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "230"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "30"
+            ]
+        },
         "capital": [
             "Port Louis"
         ],
@@ -20678,9 +21164,12 @@
         "cioc": "MAW",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "265"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "65"
+            ]
+        },
         "capital": [
             "Lilongwe"
         ],
@@ -20809,9 +21298,12 @@
         "cioc": "MAS",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "60"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "0"
+            ]
+        },
         "capital": [
             "Kuala Lumpur"
         ],
@@ -20935,9 +21427,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "262"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "62"
+            ]
+        },
         "capital": [
             "Mamoudzou"
         ],
@@ -21090,9 +21585,12 @@
         "cioc": "NAM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "264"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "64"
+            ]
+        },
         "capital": [
             "Windhoek"
         ],
@@ -21231,9 +21729,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "687"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "87"
+            ]
+        },
         "capital": [
             "Noum\u00e9a"
         ],
@@ -21328,7 +21829,7 @@
             {
                 "code": "XPF",
                 "name": "CFP franc",
-                "symbol": "Fr"
+                "symbol": "\u20a3"
             }
         ]
     },
@@ -21352,9 +21853,12 @@
         "cioc": "NIG",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "227"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "27"
+            ]
+        },
         "capital": [
             "Niamey"
         ],
@@ -21486,9 +21990,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "672"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "72"
+            ]
+        },
         "capital": [
             "Kingston"
         ],
@@ -21610,9 +22117,12 @@
         "cioc": "NGR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "234"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "34"
+            ]
+        },
         "capital": [
             "Abuja"
         ],
@@ -21739,9 +22249,12 @@
         "cioc": "NCA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "505"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "05"
+            ]
+        },
         "capital": [
             "Managua"
         ],
@@ -21869,9 +22382,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "683"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "83"
+            ]
+        },
         "capital": [
             "Alofi"
         ],
@@ -21996,9 +22512,12 @@
         "cioc": "NED",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "31"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "1"
+            ]
+        },
         "capital": [
             "Amsterdam"
         ],
@@ -22131,9 +22650,12 @@
         "cioc": "NOR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "47"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "7"
+            ]
+        },
         "capital": [
             "Oslo"
         ],
@@ -22263,9 +22785,12 @@
         "cioc": "NEP",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "977"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "77"
+            ]
+        },
         "capital": [
             "Kathmandu"
         ],
@@ -22285,7 +22810,7 @@
                 "common": "Nep\u00e1l"
             },
             "deu": {
-                "official": "Demokratischen Bundesrepublik Nepal",
+                "official": "Demokratische Bundesrepublik Nepal",
                 "common": "Nepal"
             },
             "fra": {
@@ -22398,9 +22923,12 @@
         "cioc": "NRU",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "674"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "74"
+            ]
+        },
         "capital": [
             "Yaren"
         ],
@@ -22537,9 +23065,12 @@
         "cioc": "NZL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "64"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "Wellington"
         ],
@@ -22661,9 +23192,12 @@
         "cioc": "OMA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "968"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "68"
+            ]
+        },
         "capital": [
             "Muscat"
         ],
@@ -22792,9 +23326,12 @@
         "cioc": "PAK",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "92"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "2"
+            ]
+        },
         "capital": [
             "Islamabad"
         ],
@@ -22922,9 +23459,12 @@
         "cioc": "PAN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "507"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "07"
+            ]
+        },
         "capital": [
             "Panama City"
         ],
@@ -23053,9 +23593,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "64"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "Adamstown"
         ],
@@ -23189,9 +23732,12 @@
         "cioc": "PER",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "51"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "1"
+            ]
+        },
         "capital": [
             "Lima"
         ],
@@ -23324,9 +23870,12 @@
         "cioc": "PHI",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "63"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "3"
+            ]
+        },
         "capital": [
             "Manila"
         ],
@@ -23452,9 +24001,12 @@
         "cioc": "PLW",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "680"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "80"
+            ]
+        },
         "capital": [
             "Ngerulmud"
         ],
@@ -23589,9 +24141,12 @@
         "cioc": "PNG",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "675"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "75"
+            ]
+        },
         "capital": [
             "Port Moresby"
         ],
@@ -23716,9 +24271,12 @@
         "cioc": "POL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "48"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "8"
+            ]
+        },
         "capital": [
             "Warsaw"
         ],
@@ -23851,10 +24409,13 @@
         "cioc": "PUR",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1787",
-            "1939"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "787",
+                "939"
+            ]
+        },
         "capital": [
             "San Juan"
         ],
@@ -23976,9 +24537,12 @@
         "cioc": "PRK",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "850"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "50"
+            ]
+        },
         "capital": [
             "Pyongyang"
         ],
@@ -24107,9 +24671,12 @@
         "cioc": "POR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "351"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "51"
+            ]
+        },
         "capital": [
             "Lisbon"
         ],
@@ -24237,9 +24804,12 @@
         "cioc": "PAR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "595"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "95"
+            ]
+        },
         "capital": [
             "Asunci\u00f3n"
         ],
@@ -24367,9 +24937,12 @@
         "cioc": "PLE",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "970"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "70"
+            ]
+        },
         "capital": [
             "Ramallah"
         ],
@@ -24505,9 +25078,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "689"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "89"
+            ]
+        },
         "capital": [
             "Papeet\u0113"
         ],
@@ -24605,7 +25181,7 @@
             {
                 "code": "XPF",
                 "name": "CFP franc",
-                "symbol": "Fr"
+                "symbol": "\u20a3"
             }
         ]
     },
@@ -24630,9 +25206,12 @@
         "cioc": "QAT",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "974"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "74"
+            ]
+        },
         "capital": [
             "Doha"
         ],
@@ -24755,9 +25334,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "262"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "62"
+            ]
+        },
         "capital": [
             "Saint-Denis"
         ],
@@ -24877,9 +25459,12 @@
         "cioc": "ROU",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "40"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "0"
+            ]
+        },
         "capital": [
             "Bucharest"
         ],
@@ -25009,9 +25594,16 @@
         "cioc": "RUS",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "7"
-        ],
+        "idd": {
+            "root": "+7",
+            "suffixes": [
+                "3XX",
+                "4XX",
+                "5XX",
+                "8XX",
+                "9XX"
+            ]
+        },
         "capital": [
             "Moscow"
         ],
@@ -25155,9 +25747,12 @@
         "cioc": "RWA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "250"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "50"
+            ]
+        },
         "capital": [
             "Kigali"
         ],
@@ -25287,9 +25882,12 @@
         "cioc": "KSA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "966"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "66"
+            ]
+        },
         "capital": [
             "Riyadh"
         ],
@@ -25423,9 +26021,12 @@
         "cioc": "SUD",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "249"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "49"
+            ]
+        },
         "capital": [
             "Khartoum"
         ],
@@ -25555,9 +26156,12 @@
         "cioc": "SEN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "221"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "21"
+            ]
+        },
         "capital": [
             "Dakar"
         ],
@@ -25698,9 +26302,12 @@
         "cioc": "SIN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "65"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "5"
+            ]
+        },
         "capital": [
             "Singapore"
         ],
@@ -25826,9 +26433,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "500"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "00"
+            ]
+        },
         "capital": [
             "King Edward Point"
         ],
@@ -25948,9 +26558,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "4779"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "779"
+            ]
+        },
         "capital": [
             "Longyearbyen"
         ],
@@ -26070,9 +26683,12 @@
         "cioc": "SOL",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "677"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "77"
+            ]
+        },
         "capital": [
             "Honiara"
         ],
@@ -26191,9 +26807,12 @@
         "cioc": "SLE",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "232"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "32"
+            ]
+        },
         "capital": [
             "Freetown"
         ],
@@ -26316,9 +26935,12 @@
         "cioc": "ESA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "503"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "03"
+            ]
+        },
         "capital": [
             "San Salvador"
         ],
@@ -26446,9 +27068,12 @@
         "cioc": "SMR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "378"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "78"
+            ]
+        },
         "capital": [
             "City of San Marino"
         ],
@@ -26575,9 +27200,12 @@
         "cioc": "SOM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "252"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "52"
+            ]
+        },
         "capital": [
             "Mogadishu"
         ],
@@ -26705,9 +27333,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "508"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "08"
+            ]
+        },
         "capital": [
             "Saint-Pierre"
         ],
@@ -26828,9 +27459,12 @@
         "cioc": "SRB",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "381"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "81"
+            ]
+        },
         "capital": [
             "Belgrade"
         ],
@@ -26962,9 +27596,12 @@
         "cioc": "",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "211"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "11"
+            ]
+        },
         "capital": [
             "Juba"
         ],
@@ -27090,9 +27727,12 @@
         "cioc": "STP",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "239"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "39"
+            ]
+        },
         "capital": [
             "S\u00e3o Tom\u00e9"
         ],
@@ -27214,9 +27854,12 @@
         "cioc": "SUR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "597"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "97"
+            ]
+        },
         "capital": [
             "Paramaribo"
         ],
@@ -27343,9 +27986,12 @@
         "cioc": "SVK",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "421"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "21"
+            ]
+        },
         "capital": [
             "Bratislava"
         ],
@@ -27472,9 +28118,12 @@
         "cioc": "SLO",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "386"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "86"
+            ]
+        },
         "capital": [
             "Ljubljana"
         ],
@@ -27600,9 +28249,12 @@
         "cioc": "SWE",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "46"
-        ],
+        "idd": {
+            "root": "+4",
+            "suffixes": [
+                "6"
+            ]
+        },
         "capital": [
             "Stockholm"
         ],
@@ -27730,9 +28382,12 @@
         "cioc": "SWZ",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "268"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "68"
+            ]
+        },
         "capital": [
             "Lobamba"
         ],
@@ -27869,9 +28524,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1721"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "721"
+            ]
+        },
         "capital": [
             "Philipsburg"
         ],
@@ -28003,9 +28661,12 @@
         "cioc": "SEY",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "248"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "48"
+            ]
+        },
         "capital": [
             "Victoria"
         ],
@@ -28130,9 +28791,12 @@
         "cioc": "SYR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "963"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "63"
+            ]
+        },
         "capital": [
             "Damascus"
         ],
@@ -28259,9 +28923,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1649"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "649"
+            ]
+        },
         "capital": [
             "Cockburn Town"
         ],
@@ -28384,9 +29051,12 @@
         "cioc": "CHA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "235"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "35"
+            ]
+        },
         "capital": [
             "N'Djamena"
         ],
@@ -28520,9 +29190,12 @@
         "cioc": "TOG",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "228"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "28"
+            ]
+        },
         "capital": [
             "Lom\u00e9"
         ],
@@ -28649,9 +29322,12 @@
         "cioc": "THA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "66"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "6"
+            ]
+        },
         "capital": [
             "Bangkok"
         ],
@@ -28784,9 +29460,12 @@
         "cioc": "TJK",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "992"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "92"
+            ]
+        },
         "capital": [
             "Dushanbe"
         ],
@@ -28923,9 +29602,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "690"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "90"
+            ]
+        },
         "capital": [
             "Fakaofo"
         ],
@@ -29050,9 +29732,12 @@
         "cioc": "TKM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "993"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "93"
+            ]
+        },
         "capital": [
             "Ashgabat"
         ],
@@ -29181,9 +29866,12 @@
         "cioc": "TLS",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "670"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "70"
+            ]
+        },
         "capital": [
             "Dili"
         ],
@@ -29315,9 +30003,12 @@
         "cioc": "TGA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "676"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "76"
+            ]
+        },
         "capital": [
             "Nuku'alofa"
         ],
@@ -29437,9 +30128,12 @@
         "cioc": "TTO",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1868"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "868"
+            ]
+        },
         "capital": [
             "Port of Spain"
         ],
@@ -29559,9 +30253,12 @@
         "cioc": "TUN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "216"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "16"
+            ]
+        },
         "capital": [
             "Tunis"
         ],
@@ -29685,9 +30382,12 @@
         "cioc": "TUR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "90"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "0"
+            ]
+        },
         "capital": [
             "Ankara"
         ],
@@ -29822,9 +30522,12 @@
         "cioc": "TUV",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "688"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "88"
+            ]
+        },
         "capital": [
             "Funafuti"
         ],
@@ -29918,13 +30621,13 @@
         "flag": "\ud83c\uddf9\ud83c\uddfb",
         "currencies": [
             {
-                "code": "AUD",
-                "name": "Australian dollar",
+                "code": "TVD[G]",
+                "name": "Tuvaluan dollar",
                 "symbol": "$"
             },
             {
-                "code": "TVD[G]",
-                "name": "Tuvaluan dollar",
+                "code": "AUD",
+                "name": "Australian dollar",
                 "symbol": "$"
             }
         ]
@@ -29951,9 +30654,12 @@
         "cioc": "TPE",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "886"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "86"
+            ]
+        },
         "capital": [
             "Taipei"
         ],
@@ -30077,9 +30783,12 @@
         "cioc": "TAN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "255"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "55"
+            ]
+        },
         "capital": [
             "Dodoma"
         ],
@@ -30215,9 +30924,12 @@
         "cioc": "UGA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "256"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "56"
+            ]
+        },
         "capital": [
             "Kampala"
         ],
@@ -30346,9 +31058,12 @@
         "cioc": "UKR",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "380"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "80"
+            ]
+        },
         "capital": [
             "Kyiv"
         ],
@@ -30481,7 +31196,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "68"
+            ]
+        },
         "capital": [
             ""
         ],
@@ -30600,9 +31320,12 @@
         "cioc": "URU",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "598"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "98"
+            ]
+        },
         "capital": [
             "Montevideo"
         ],
@@ -30726,9 +31449,328 @@
         "cioc": "USA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "201",
+                "202",
+                "203",
+                "205",
+                "206",
+                "207",
+                "208",
+                "209",
+                "210",
+                "212",
+                "213",
+                "214",
+                "215",
+                "216",
+                "217",
+                "218",
+                "219",
+                "220",
+                "224",
+                "225",
+                "227",
+                "228",
+                "229",
+                "231",
+                "234",
+                "239",
+                "240",
+                "248",
+                "251",
+                "252",
+                "253",
+                "254",
+                "256",
+                "260",
+                "262",
+                "267",
+                "269",
+                "270",
+                "272",
+                "274",
+                "276",
+                "281",
+                "283",
+                "301",
+                "302",
+                "303",
+                "304",
+                "305",
+                "307",
+                "308",
+                "309",
+                "310",
+                "312",
+                "313",
+                "314",
+                "315",
+                "316",
+                "317",
+                "318",
+                "319",
+                "320",
+                "321",
+                "323",
+                "325",
+                "327",
+                "330",
+                "331",
+                "334",
+                "336",
+                "337",
+                "339",
+                "346",
+                "347",
+                "351",
+                "352",
+                "360",
+                "361",
+                "364",
+                "380",
+                "385",
+                "386",
+                "401",
+                "402",
+                "404",
+                "405",
+                "406",
+                "407",
+                "408",
+                "409",
+                "410",
+                "412",
+                "413",
+                "414",
+                "415",
+                "417",
+                "419",
+                "423",
+                "424",
+                "425",
+                "430",
+                "432",
+                "434",
+                "435",
+                "440",
+                "442",
+                "443",
+                "447",
+                "458",
+                "463",
+                "464",
+                "469",
+                "470",
+                "475",
+                "478",
+                "479",
+                "480",
+                "484",
+                "501",
+                "502",
+                "503",
+                "504",
+                "505",
+                "507",
+                "508",
+                "509",
+                "510",
+                "512",
+                "513",
+                "515",
+                "516",
+                "517",
+                "518",
+                "520",
+                "530",
+                "531",
+                "534",
+                "539",
+                "540",
+                "541",
+                "551",
+                "559",
+                "561",
+                "562",
+                "563",
+                "564",
+                "567",
+                "570",
+                "571",
+                "573",
+                "574",
+                "575",
+                "580",
+                "585",
+                "586",
+                "601",
+                "602",
+                "603",
+                "605",
+                "606",
+                "607",
+                "608",
+                "609",
+                "610",
+                "612",
+                "614",
+                "615",
+                "616",
+                "617",
+                "618",
+                "619",
+                "620",
+                "623",
+                "626",
+                "628",
+                "629",
+                "630",
+                "631",
+                "636",
+                "641",
+                "646",
+                "650",
+                "651",
+                "657",
+                "660",
+                "661",
+                "662",
+                "667",
+                "669",
+                "678",
+                "681",
+                "682",
+                "701",
+                "702",
+                "703",
+                "704",
+                "706",
+                "707",
+                "708",
+                "712",
+                "713",
+                "714",
+                "715",
+                "716",
+                "717",
+                "718",
+                "719",
+                "720",
+                "724",
+                "725",
+                "727",
+                "730",
+                "731",
+                "732",
+                "734",
+                "737",
+                "740",
+                "743",
+                "747",
+                "754",
+                "757",
+                "760",
+                "762",
+                "763",
+                "765",
+                "769",
+                "770",
+                "772",
+                "773",
+                "774",
+                "775",
+                "779",
+                "781",
+                "785",
+                "786",
+                "801",
+                "802",
+                "803",
+                "804",
+                "805",
+                "806",
+                "808",
+                "810",
+                "812",
+                "813",
+                "814",
+                "815",
+                "816",
+                "817",
+                "818",
+                "828",
+                "830",
+                "831",
+                "832",
+                "843",
+                "845",
+                "847",
+                "848",
+                "850",
+                "854",
+                "856",
+                "857",
+                "858",
+                "859",
+                "860",
+                "862",
+                "863",
+                "864",
+                "865",
+                "870",
+                "872",
+                "878",
+                "901",
+                "903",
+                "904",
+                "906",
+                "907",
+                "908",
+                "909",
+                "910",
+                "912",
+                "913",
+                "914",
+                "915",
+                "916",
+                "917",
+                "918",
+                "919",
+                "920",
+                "925",
+                "928",
+                "929",
+                "930",
+                "931",
+                "934",
+                "936",
+                "937",
+                "938",
+                "940",
+                "941",
+                "947",
+                "949",
+                "951",
+                "952",
+                "954",
+                "956",
+                "959",
+                "970",
+                "971",
+                "972",
+                "973",
+                "975",
+                "978",
+                "979",
+                "980",
+                "984",
+                "985",
+                "989"
+            ]
+        },
         "capital": [
             "Washington D.C."
         ],
@@ -30856,9 +31898,12 @@
         "cioc": "UZB",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "998"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "98"
+            ]
+        },
         "capital": [
             "Tashkent"
         ],
@@ -30991,10 +32036,13 @@
         "cioc": "",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "3906698",
-            "379"
-        ],
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "906698",
+                "79"
+            ]
+        },
         "capital": [
             "Vatican City"
         ],
@@ -31119,9 +32167,12 @@
         "cioc": "VIN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "1784"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "784"
+            ]
+        },
         "capital": [
             "Kingstown"
         ],
@@ -31240,9 +32291,12 @@
         "cioc": "VEN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "58"
-        ],
+        "idd": {
+            "root": "+5",
+            "suffixes": [
+                "8"
+            ]
+        },
         "capital": [
             "Caracas"
         ],
@@ -31368,9 +32422,12 @@
         "cioc": "IVB",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1284"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "284"
+            ]
+        },
         "capital": [
             "Road Town"
         ],
@@ -31495,9 +32552,12 @@
         "cioc": "ISV",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "1340"
-        ],
+        "idd": {
+            "root": "+1",
+            "suffixes": [
+                "340"
+            ]
+        },
         "capital": [
             "Charlotte Amalie"
         ],
@@ -31617,9 +32677,12 @@
         "cioc": "VIE",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "84"
-        ],
+        "idd": {
+            "root": "+8",
+            "suffixes": [
+                "4"
+            ]
+        },
         "capital": [
             "Hanoi"
         ],
@@ -31753,9 +32816,12 @@
         "cioc": "VAN",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "678"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "78"
+            ]
+        },
         "capital": [
             "Port Vila"
         ],
@@ -31879,9 +32945,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "callingCode": [
-            "681"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "81"
+            ]
+        },
         "capital": [
             "Mata-Utu"
         ],
@@ -31978,7 +33047,7 @@
             {
                 "code": "XPF",
                 "name": "CFP franc",
-                "symbol": "Fr"
+                "symbol": "\u20a3"
             }
         ]
     },
@@ -32006,9 +33075,12 @@
         "cioc": "SAM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "685"
-        ],
+        "idd": {
+            "root": "+6",
+            "suffixes": [
+                "85"
+            ]
+        },
         "capital": [
             "Apia"
         ],
@@ -32130,9 +33202,12 @@
         "cioc": "YEM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "967"
-        ],
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "67"
+            ]
+        },
         "capital": [
             "Sana'a"
         ],
@@ -32296,9 +33371,12 @@
         "cioc": "RSA",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "27"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "7"
+            ]
+        },
         "capital": [
             "Pretoria",
             "Bloemfontein",
@@ -32439,9 +33517,12 @@
         "cioc": "ZAM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "260"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "60"
+            ]
+        },
         "capital": [
             "Lusaka"
         ],
@@ -32626,9 +33707,12 @@
         "cioc": "ZIM",
         "independent": true,
         "status": "officially-assigned",
-        "callingCode": [
-            "263"
-        ],
+        "idd": {
+            "root": "+2",
+            "suffixes": [
+                "63"
+            ]
+        },
         "capital": [
             "Harare"
         ],
