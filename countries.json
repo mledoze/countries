@@ -23,6 +23,12 @@
         "cioc": "ARU",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "AWG": {
+                "name": "Aruban florin",
+                "symbol": "\u0192"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -119,14 +125,7 @@
         "landlocked": false,
         "borders": [],
         "area": 180,
-        "flag": "\ud83c\udde6\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "AWG",
-                "name": "Aruban florin",
-                "symbol": "\u0192"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddfc"
     },
     {
         "name": {
@@ -156,6 +155,12 @@
         "cioc": "AFG",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "AFN": {
+                "name": "Afghan afghani",
+                "symbol": "\u060b"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -265,14 +270,7 @@
             "CHN"
         ],
         "area": 652230,
-        "flag": "\ud83c\udde6\ud83c\uddeb",
-        "currencies": [
-            {
-                "code": "AFN",
-                "name": "Afghan afghani",
-                "symbol": "\u060b"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddeb"
     },
     {
         "name": {
@@ -294,6 +292,12 @@
         "cioc": "ANG",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "AOA": {
+                "name": "Angolan kwanza",
+                "symbol": "Kz"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -400,14 +404,7 @@
             "NAM"
         ],
         "area": 1246700,
-        "flag": "\ud83c\udde6\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "AOA",
-                "name": "Angolan kwanza",
-                "symbol": "Kz"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddf4"
     },
     {
         "name": {
@@ -429,6 +426,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -524,14 +527,7 @@
         "landlocked": false,
         "borders": [],
         "area": 91,
-        "flag": "\ud83c\udde6\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "XCD",
-                "name": "Eastern Caribbean dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddee"
     },
     {
         "name": {
@@ -553,6 +549,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -651,14 +653,7 @@
         "landlocked": false,
         "borders": [],
         "area": 1580,
-        "flag": "\ud83c\udde6\ud83c\uddfd",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddfd"
     },
     {
         "name": {
@@ -680,6 +675,12 @@
         "cioc": "ALB",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "ALL": {
+                "name": "Albanian lek",
+                "symbol": "L"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -787,14 +788,7 @@
             "UNK"
         ],
         "area": 28748,
-        "flag": "\ud83c\udde6\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "ALL",
-                "name": "Albanian lek",
-                "symbol": "L"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddf1"
     },
     {
         "name": {
@@ -816,6 +810,12 @@
         "cioc": "AND",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -920,14 +920,7 @@
             "ESP"
         ],
         "area": 468,
-        "flag": "\ud83c\udde6\ud83c\udde9",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\udde9"
     },
     {
         "name": {
@@ -950,6 +943,12 @@
         "cioc": "UAE",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "AED": {
+                "name": "United Arab Emirates dirham",
+                "symbol": "\u062f.\u0625"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -1050,14 +1049,7 @@
             "SAU"
         ],
         "area": 83600,
-        "flag": "\ud83c\udde6\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "AED",
-                "name": "United Arab Emirates dirham",
-                "symbol": "\u062f.\u0625"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddea"
     },
     {
         "name": {
@@ -1083,6 +1075,12 @@
         "cioc": "ARG",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "ARS": {
+                "name": "Argentine peso",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -1191,14 +1189,7 @@
             "URY"
         ],
         "area": 2780400,
-        "flag": "\ud83c\udde6\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "ARS",
-                "name": "Argentine peso",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddf7"
     },
     {
         "name": {
@@ -1220,6 +1211,12 @@
         "cioc": "ARM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "AMD": {
+                "name": "Armenian dram",
+                "symbol": "\u058f"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -1327,14 +1324,7 @@
             "TUR"
         ],
         "area": 29743,
-        "flag": "\ud83c\udde6\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "AMD",
-                "name": "Armenian dram",
-                "symbol": "\u058f"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddf2"
     },
     {
         "name": {
@@ -1360,6 +1350,12 @@
         "cioc": "ASA",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -1459,14 +1455,7 @@
         "landlocked": false,
         "borders": [],
         "area": 199,
-        "flag": "\ud83c\udde6\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United State Dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddf8"
     },
     {
         "name": {
@@ -1483,6 +1472,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": [],
         "idd": {
             "root": "",
             "suffixes": []
@@ -1578,8 +1568,7 @@
         "landlocked": false,
         "borders": [],
         "area": 14000000,
-        "flag": "\ud83c\udde6\ud83c\uddf6",
-        "currencies": []
+        "flag": "\ud83c\udde6\ud83c\uddf6"
     },
     {
         "name": {
@@ -1601,6 +1590,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -1697,14 +1692,7 @@
         "landlocked": false,
         "borders": [],
         "area": 7747,
-        "flag": "\ud83c\uddf9\ud83c\uddeb",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddeb"
     },
     {
         "name": {
@@ -1726,6 +1714,12 @@
         "cioc": "ANT",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -1825,14 +1819,7 @@
         "landlocked": false,
         "borders": [],
         "area": 442,
-        "flag": "\ud83c\udde6\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "XCD",
-                "name": "Eastern Caribbean dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddec"
     },
     {
         "name": {
@@ -1854,6 +1841,12 @@
         "cioc": "AUS",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -1953,14 +1946,7 @@
         "landlocked": false,
         "borders": [],
         "area": 7692024,
-        "flag": "\ud83c\udde6\ud83c\uddfa",
-        "currencies": [
-            {
-                "code": "AUD",
-                "name": "Australian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddfa"
     },
     {
         "name": {
@@ -1982,6 +1968,12 @@
         "cioc": "AUT",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -2092,14 +2084,7 @@
             "CHE"
         ],
         "area": 83871,
-        "flag": "\ud83c\udde6\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddf9"
     },
     {
         "name": {
@@ -2125,6 +2110,12 @@
         "cioc": "AZE",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "AZN": {
+                "name": "Azerbaijani manat",
+                "symbol": "\u20bc"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -2233,14 +2224,7 @@
             "TUR"
         ],
         "area": 86600,
-        "flag": "\ud83c\udde6\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "AZN",
-                "name": "Azerbaijani manat",
-                "symbol": "\u20bc"
-            }
-        ]
+        "flag": "\ud83c\udde6\ud83c\uddff"
     },
     {
         "name": {
@@ -2266,6 +2250,12 @@
         "cioc": "BDI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BIF": {
+                "name": "Burundian franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -2373,14 +2363,7 @@
             "TZA"
         ],
         "area": 27834,
-        "flag": "\ud83c\udde7\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "BIF",
-                "name": "Burundian franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddee"
     },
     {
         "name": {
@@ -2410,6 +2393,12 @@
         "cioc": "BEL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -2524,14 +2513,7 @@
             "NLD"
         ],
         "area": 30528,
-        "flag": "\ud83c\udde7\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddea"
     },
     {
         "name": {
@@ -2553,6 +2535,12 @@
         "cioc": "BEN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -2659,14 +2647,7 @@
             "TGO"
         ],
         "area": 112622,
-        "flag": "\ud83c\udde7\ud83c\uddef",
-        "currencies": [
-            {
-                "code": "XOF",
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddef"
     },
     {
         "name": {
@@ -2688,6 +2669,12 @@
         "cioc": "BUR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -2794,14 +2781,7 @@
             "TGO"
         ],
         "area": 272967,
-        "flag": "\ud83c\udde7\ud83c\uddeb",
-        "currencies": [
-            {
-                "code": "XOF",
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddeb"
     },
     {
         "name": {
@@ -2823,6 +2803,12 @@
         "cioc": "BAN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BDT": {
+                "name": "Bangladeshi taka",
+                "symbol": "\u09f3"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -2927,14 +2913,7 @@
             "IND"
         ],
         "area": 147570,
-        "flag": "\ud83c\udde7\ud83c\udde9",
-        "currencies": [
-            {
-                "code": "BDT",
-                "name": "Bangladeshi taka",
-                "symbol": "\u09f3"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\udde9"
     },
     {
         "name": {
@@ -2956,6 +2935,12 @@
         "cioc": "BUL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BGN": {
+                "name": "Bulgarian lev",
+                "symbol": "\u043b\u0432"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -3063,14 +3048,7 @@
             "TUR"
         ],
         "area": 110879,
-        "flag": "\ud83c\udde7\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "BGN",
-                "name": "Bulgarian lev",
-                "symbol": "\u043b\u0432"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddec"
     },
     {
         "name": {
@@ -3092,6 +3070,12 @@
         "cioc": "BRN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BHD": {
+                "name": "Bahraini dinar",
+                "symbol": ".\u062f.\u0628"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -3193,14 +3177,7 @@
         "landlocked": false,
         "borders": [],
         "area": 765,
-        "flag": "\ud83c\udde7\ud83c\udded",
-        "currencies": [
-            {
-                "code": "BHD",
-                "name": "Bahraini dinar",
-                "symbol": ".\u062f.\u0628"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\udded"
     },
     {
         "name": {
@@ -3222,6 +3199,16 @@
         "cioc": "BAH",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BSD": {
+                "name": "Bahamian Dollar",
+                "symbol": "$"
+            },
+            "USD": {
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -3322,19 +3309,7 @@
         "landlocked": false,
         "borders": [],
         "area": 13943,
-        "flag": "\ud83c\udde7\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "BSD",
-                "name": "Bahamian Dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "USD",
-                "name": "United State Dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddf8"
     },
     {
         "name": {
@@ -3364,6 +3339,12 @@
         "cioc": "BIH",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BAM": {
+                "name": "Bosnia and Herzegovina convertible mark",
+                "symbol": ""
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -3471,14 +3452,7 @@
             "SRB"
         ],
         "area": 51209,
-        "flag": "\ud83c\udde7\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "BAM",
-                "name": "Bosnia and Herzegovina convertible mark",
-                "symbol": ""
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\udde6"
     },
     {
         "name": {
@@ -3500,6 +3474,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -3598,14 +3578,7 @@
         "landlocked": false,
         "borders": [],
         "area": 21,
-        "flag": "\ud83c\udde7\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddf1"
     },
     {
         "name": {
@@ -3628,6 +3601,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "SHP": {
+                "name": "Saint Helena pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -3725,19 +3704,7 @@
         "landlocked": false,
         "borders": [],
         "area": 394,
-        "flag": "\ud83c\uddf8\ud83c\udded",
-        "currencies": [
-            {
-                "code": "SHP",
-                "name": "Saint Helena pound",
-                "symbol": "\u00a3"
-            },
-            {
-                "code": "SHP",
-                "name": "Saint Helena pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\udded"
     },
     {
         "name": {
@@ -3763,6 +3730,12 @@
         "cioc": "BLR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BYN": {
+                "name": "Belarusian ruble",
+                "symbol": "Br"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -3873,14 +3846,7 @@
             "UKR"
         ],
         "area": 207600,
-        "flag": "\ud83c\udde7\ud83c\uddfe",
-        "currencies": [
-            {
-                "code": "BYN",
-                "name": "Belarusian ruble",
-                "symbol": "Br"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddfe"
     },
     {
         "name": {
@@ -3910,6 +3876,12 @@
         "cioc": "BIZ",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BZD": {
+                "name": "Belize dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -4014,14 +3986,7 @@
             "MEX"
         ],
         "area": 22966,
-        "flag": "\ud83c\udde7\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "BZD",
-                "name": "Belize dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddff"
     },
     {
         "name": {
@@ -4043,6 +4008,12 @@
         "cioc": "BER",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "BMD": {
+                "name": "Bermudian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -4145,14 +4116,7 @@
         "landlocked": false,
         "borders": [],
         "area": 54,
-        "flag": "\ud83c\udde7\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "BMD",
-                "name": "Bermudian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddf2"
     },
     {
         "name": {
@@ -4186,6 +4150,12 @@
         "cioc": "BOL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BOB": {
+                "name": "Bolivian boliviano",
+                "symbol": "Bs."
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -4302,14 +4272,7 @@
             "PER"
         ],
         "area": 1098581,
-        "flag": "\ud83c\udde7\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "BOB",
-                "name": "Bolivian boliviano",
-                "symbol": "Bs."
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddf4"
     },
     {
         "name": {
@@ -4336,6 +4299,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -4431,14 +4400,7 @@
         "landlocked": false,
         "borders": [],
         "area": 328,
-        "flag": "",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United State Dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": ""
     },
     {
         "name": {
@@ -4460,6 +4422,12 @@
         "cioc": "BRA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BRL": {
+                "name": "Brazilian real",
+                "symbol": "R$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -4573,14 +4541,7 @@
             "VEN"
         ],
         "area": 8515767,
-        "flag": "\ud83c\udde7\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "BRL",
-                "name": "Brazilian real",
-                "symbol": "R$"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddf7"
     },
     {
         "name": {
@@ -4602,6 +4563,12 @@
         "cioc": "BAR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BBD": {
+                "name": "Barbadian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -4701,14 +4668,7 @@
         "landlocked": false,
         "borders": [],
         "area": 430,
-        "flag": "\ud83c\udde7\ud83c\udde7",
-        "currencies": [
-            {
-                "code": "BBD",
-                "name": "Barbadian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\udde7"
     },
     {
         "name": {
@@ -4730,6 +4690,16 @@
         "cioc": "BRU",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BND": {
+                "name": "Brunei dollar",
+                "symbol": "$"
+            },
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -4834,19 +4804,7 @@
             "MYS"
         ],
         "area": 5765,
-        "flag": "\ud83c\udde7\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "BND",
-                "name": "Brunei dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "SGD",
-                "name": "Singapore dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddf3"
     },
     {
         "name": {
@@ -4868,6 +4826,16 @@
         "cioc": "BHU",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BTN": {
+                "name": "Bhutanese ngultrum",
+                "symbol": "Nu."
+            },
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\u20b9"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -4971,19 +4939,7 @@
             "IND"
         ],
         "area": 38394,
-        "flag": "\ud83c\udde7\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "BTN",
-                "name": "Bhutanese ngultrum",
-                "symbol": "Nu."
-            },
-            {
-                "code": "INR",
-                "name": "Indian rupee",
-                "symbol": "\u20b9"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddf9"
     },
     {
         "name": {
@@ -5005,6 +4961,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": [],
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -5102,8 +5059,7 @@
         "landlocked": false,
         "borders": [],
         "area": 49,
-        "flag": "\ud83c\udde7\ud83c\uddfb",
-        "currencies": []
+        "flag": "\ud83c\udde7\ud83c\uddfb"
     },
     {
         "name": {
@@ -5129,6 +5085,12 @@
         "cioc": "BOT",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BWP": {
+                "name": "Botswana pula",
+                "symbol": "P"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -5232,14 +5194,7 @@
             "ZWE"
         ],
         "area": 582000,
-        "flag": "\ud83c\udde7\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "BWP",
-                "name": "Botswana pula",
-                "symbol": "P"
-            }
-        ]
+        "flag": "\ud83c\udde7\ud83c\uddfc"
     },
     {
         "name": {
@@ -5265,6 +5220,12 @@
         "cioc": "CAF",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -5374,14 +5335,7 @@
             "SDN"
         ],
         "area": 622984,
-        "flag": "\ud83c\udde8\ud83c\uddeb",
-        "currencies": [
-            {
-                "code": "XAF",
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddeb"
     },
     {
         "name": {
@@ -5407,6 +5361,12 @@
         "cioc": "CAN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CAD": {
+                "name": "Canadian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -5509,14 +5469,7 @@
             "USA"
         ],
         "area": 9984670,
-        "flag": "\ud83c\udde8\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "CAD",
-                "name": "Canadian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\udde6"
     },
     {
         "name": {
@@ -5538,6 +5491,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -5639,14 +5598,7 @@
         "landlocked": false,
         "borders": [],
         "area": 14,
-        "flag": "\ud83c\udde8\ud83c\udde8",
-        "currencies": [
-            {
-                "code": "AUD",
-                "name": "Australian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\udde8"
     },
     {
         "name": {
@@ -5680,6 +5632,12 @@
         "cioc": "SUI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr."
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -5789,14 +5747,7 @@
             "DEU"
         ],
         "area": 41284,
-        "flag": "\ud83c\udde8\ud83c\udded",
-        "currencies": [
-            {
-                "code": "CHF",
-                "name": "Swiss franc",
-                "symbol": "Fr."
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\udded"
     },
     {
         "name": {
@@ -5818,6 +5769,12 @@
         "cioc": "CHI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CLP": {
+                "name": "Chilean peso",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -5923,14 +5880,7 @@
             "PER"
         ],
         "area": 756102,
-        "flag": "\ud83c\udde8\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "CLP",
-                "name": "Chilean peso",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddf1"
     },
     {
         "name": {
@@ -5956,6 +5906,12 @@
         "cioc": "CHN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "\u00a5"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -6074,14 +6030,7 @@
             "VNM"
         ],
         "area": 9706961,
-        "flag": "\ud83c\udde8\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "CNY",
-                "name": "Chinese yuan",
-                "symbol": "\u00a5"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddf3"
     },
     {
         "name": {
@@ -6103,6 +6052,12 @@
         "cioc": "CIV",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -6208,14 +6163,7 @@
             "MLI"
         ],
         "area": 322463,
-        "flag": "\ud83c\udde8\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "XOF",
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddee"
     },
     {
         "name": {
@@ -6241,6 +6189,12 @@
         "cioc": "CMR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -6350,14 +6304,7 @@
             "NGA"
         ],
         "area": 475442,
-        "flag": "\ud83c\udde8\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "XAF",
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddf2"
     },
     {
         "name": {
@@ -6395,6 +6342,12 @@
         "cioc": "COD",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CDF": {
+                "name": "Congolese franc",
+                "symbol": "FC"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -6512,14 +6465,7 @@
             "ZMB"
         ],
         "area": 2344858,
-        "flag": "\ud83c\udde8\ud83c\udde9",
-        "currencies": [
-            {
-                "code": "CDF",
-                "name": "Congolese franc",
-                "symbol": "FC"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\udde9"
     },
     {
         "name": {
@@ -6549,6 +6495,12 @@
         "cioc": "CGO",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -6658,14 +6610,7 @@
             "GAB"
         ],
         "area": 342000,
-        "flag": "\ud83c\udde8\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "XAF",
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddec"
     },
     {
         "name": {
@@ -6691,6 +6636,16 @@
         "cioc": "COK",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "": {
+                "name": "Cook Islands dollar",
+                "symbol": "$"
+            },
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -6792,19 +6747,7 @@
         "landlocked": false,
         "borders": [],
         "area": 236,
-        "flag": "\ud83c\udde8\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "",
-                "name": "Cook Islands dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "NZD",
-                "name": "New Zealand dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddf0"
     },
     {
         "name": {
@@ -6826,6 +6769,12 @@
         "cioc": "COL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "COP": {
+                "name": "Colombian peso",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -6933,14 +6882,7 @@
             "VEN"
         ],
         "area": 1141748,
-        "flag": "\ud83c\udde8\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "COP",
-                "name": "Colombian peso",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddf4"
     },
     {
         "name": {
@@ -6970,6 +6912,12 @@
         "cioc": "COM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "KMF": {
+                "name": "Comorian franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -7075,14 +7023,7 @@
         "landlocked": false,
         "borders": [],
         "area": 1862,
-        "flag": "\ud83c\uddf0\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "KMF",
-                "name": "Comorian franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddf2"
     },
     {
         "name": {
@@ -7104,6 +7045,12 @@
         "cioc": "CPV",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CVE": {
+                "name": "Cape Verdean escudo",
+                "symbol": "Esc"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -7205,14 +7152,7 @@
         "landlocked": false,
         "borders": [],
         "area": 4033,
-        "flag": "\ud83c\udde8\ud83c\uddfb",
-        "currencies": [
-            {
-                "code": "CVE",
-                "name": "Cape Verdean escudo",
-                "symbol": "Esc"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddfb"
     },
     {
         "name": {
@@ -7234,6 +7174,12 @@
         "cioc": "CRC",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CRC": {
+                "name": "Costa Rican col\u00f3n",
+                "symbol": "\u20a1"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -7338,14 +7284,7 @@
             "PAN"
         ],
         "area": 51100,
-        "flag": "\ud83c\udde8\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "CRC",
-                "name": "Costa Rican col\u00f3n",
-                "symbol": "\u20a1"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddf7"
     },
     {
         "name": {
@@ -7367,6 +7306,16 @@
         "cioc": "CUB",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CUP": {
+                "name": "Cuban peso",
+                "symbol": "$"
+            },
+            "CUC": {
+                "name": "Cuban convertible peso",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -7468,19 +7417,7 @@
         "landlocked": false,
         "borders": [],
         "area": 109884,
-        "flag": "\ud83c\udde8\ud83c\uddfa",
-        "currencies": [
-            {
-                "code": "CUP",
-                "name": "Cuban peso",
-                "symbol": "$"
-            },
-            {
-                "code": "CUC",
-                "name": "Cuban convertible peso",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddfa"
     },
     {
         "name": {
@@ -7510,6 +7447,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "\u0192"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -7604,14 +7547,7 @@
         "landlocked": false,
         "borders": [],
         "area": 444,
-        "flag": "\ud83c\udde8\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "ANG",
-                "name": "Netherlands Antillean guilder",
-                "symbol": "\u0192"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddfc"
     },
     {
         "name": {
@@ -7633,6 +7569,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -7733,14 +7675,7 @@
         "landlocked": false,
         "borders": [],
         "area": 135,
-        "flag": "\ud83c\udde8\ud83c\uddfd",
-        "currencies": [
-            {
-                "code": "AUD",
-                "name": "Australian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddfd"
     },
     {
         "name": {
@@ -7762,6 +7697,12 @@
         "cioc": "CAY",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "KYD": {
+                "name": "Cayman Islands dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -7861,14 +7802,7 @@
         "landlocked": false,
         "borders": [],
         "area": 264,
-        "flag": "\ud83c\uddf0\ud83c\uddfe",
-        "currencies": [
-            {
-                "code": "KYD",
-                "name": "Cayman Islands dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddfe"
     },
     {
         "name": {
@@ -7894,6 +7828,12 @@
         "cioc": "CYP",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -7999,14 +7939,7 @@
         "landlocked": false,
         "borders": [],
         "area": 9251,
-        "flag": "\ud83c\udde8\ud83c\uddfe",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddfe"
     },
     {
         "name": {
@@ -8032,6 +7965,12 @@
         "cioc": "CZE",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CZK": {
+                "name": "Czech koruna",
+                "symbol": "K\u010d"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -8139,14 +8078,7 @@
             "SVK"
         ],
         "area": 78865,
-        "flag": "\ud83c\udde8\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "CZK",
-                "name": "Czech koruna",
-                "symbol": "K\u010d"
-            }
-        ]
+        "flag": "\ud83c\udde8\ud83c\uddff"
     },
     {
         "name": {
@@ -8168,6 +8100,12 @@
         "cioc": "GER",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -8275,14 +8213,7 @@
             "CHE"
         ],
         "area": 357114,
-        "flag": "\ud83c\udde9\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\udde9\ud83c\uddea"
     },
     {
         "name": {
@@ -8308,6 +8239,12 @@
         "cioc": "DJI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "DJF": {
+                "name": "Djiboutian franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -8418,14 +8355,7 @@
             "SOM"
         ],
         "area": 23200,
-        "flag": "\ud83c\udde9\ud83c\uddef",
-        "currencies": [
-            {
-                "code": "DJF",
-                "name": "Djiboutian franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\udde9\ud83c\uddef"
     },
     {
         "name": {
@@ -8447,6 +8377,12 @@
         "cioc": "DMA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -8549,14 +8485,7 @@
         "landlocked": false,
         "borders": [],
         "area": 751,
-        "flag": "\ud83c\udde9\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "XCD",
-                "name": "Eastern Caribbean dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde9\ud83c\uddf2"
     },
     {
         "name": {
@@ -8578,6 +8507,12 @@
         "cioc": "DEN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -8682,14 +8617,7 @@
             "DEU"
         ],
         "area": 43094,
-        "flag": "\ud83c\udde9\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "DKK",
-                "name": "Danish krone",
-                "symbol": "kr"
-            }
-        ]
+        "flag": "\ud83c\udde9\ud83c\uddf0"
     },
     {
         "name": {
@@ -8711,6 +8639,12 @@
         "cioc": "DOM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "DOP": {
+                "name": "Dominican peso",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -8814,14 +8748,7 @@
             "HTI"
         ],
         "area": 48671,
-        "flag": "\ud83c\udde9\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "DOP",
-                "name": "Dominican peso",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udde9\ud83c\uddf4"
     },
     {
         "name": {
@@ -8844,6 +8771,12 @@
         "cioc": "ALG",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "DZD": {
+                "name": "Algerian dinar",
+                "symbol": "\u062f.\u062c"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -8953,14 +8886,7 @@
             "MAR"
         ],
         "area": 2381741,
-        "flag": "\ud83c\udde9\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "DZD",
-                "name": "Algerian dinar",
-                "symbol": "\u062f.\u062c"
-            }
-        ]
+        "flag": "\ud83c\udde9\ud83c\uddff"
     },
     {
         "name": {
@@ -8982,6 +8908,12 @@
         "cioc": "ECU",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -9086,14 +9018,7 @@
             "PER"
         ],
         "area": 276841,
-        "flag": "\ud83c\uddea\ud83c\udde8",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddea\ud83c\udde8"
     },
     {
         "name": {
@@ -9116,6 +9041,12 @@
         "cioc": "EGY",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -9221,14 +9152,7 @@
             "SDN"
         ],
         "area": 1002450,
-        "flag": "\ud83c\uddea\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "EGP",
-                "name": "Egyptian pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddea\ud83c\uddec"
     },
     {
         "name": {
@@ -9258,6 +9182,12 @@
         "cioc": "ERI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "ERN": {
+                "name": "Eritrean nakfa",
+                "symbol": "Nfk"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -9368,14 +9298,7 @@
             "SDN"
         ],
         "area": 117600,
-        "flag": "\ud83c\uddea\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "ERN",
-                "name": "Eritrean nakfa",
-                "symbol": "Nfk"
-            }
-        ]
+        "flag": "\ud83c\uddea\ud83c\uddf7"
     },
     {
         "name": {
@@ -9405,6 +9328,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": [],
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -9508,8 +9432,7 @@
             "MAR"
         ],
         "area": 266000,
-        "flag": "\ud83c\uddea\ud83c\udded",
-        "currencies": []
+        "flag": "\ud83c\uddea\ud83c\udded"
     },
     {
         "name": {
@@ -9531,6 +9454,12 @@
         "cioc": "ESP",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -9634,14 +9563,7 @@
             "MAR"
         ],
         "area": 505992,
-        "flag": "\ud83c\uddea\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddea\ud83c\uddf8"
     },
     {
         "name": {
@@ -9663,6 +9585,12 @@
         "cioc": "EST",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -9768,14 +9696,7 @@
             "RUS"
         ],
         "area": 45227,
-        "flag": "\ud83c\uddea\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddea\ud83c\uddea"
     },
     {
         "name": {
@@ -9797,6 +9718,12 @@
         "cioc": "ETH",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "ETB": {
+                "name": "Ethiopian birr",
+                "symbol": "Br"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -9906,14 +9833,7 @@
             "SDN"
         ],
         "area": 1104300,
-        "flag": "\ud83c\uddea\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "ETB",
-                "name": "Ethiopian birr",
-                "symbol": "Br"
-            }
-        ]
+        "flag": "\ud83c\uddea\ud83c\uddf9"
     },
     {
         "name": {
@@ -9939,6 +9859,12 @@
         "cioc": "FIN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -10043,14 +9969,7 @@
             "RUS"
         ],
         "area": 338424,
-        "flag": "\ud83c\uddeb\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddeb\ud83c\uddee"
     },
     {
         "name": {
@@ -10080,6 +9999,12 @@
         "cioc": "FIJ",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "FJD": {
+                "name": "Fijian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -10181,14 +10106,7 @@
         "landlocked": false,
         "borders": [],
         "area": 18272,
-        "flag": "\ud83c\uddeb\ud83c\uddef",
-        "currencies": [
-            {
-                "code": "FJD",
-                "name": "Fijian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddeb\ud83c\uddef"
     },
     {
         "name": {
@@ -10210,6 +10128,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "FKP": {
+                "name": "Falkland Islands pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -10307,14 +10231,7 @@
         "landlocked": false,
         "borders": [],
         "area": 12173,
-        "flag": "\ud83c\uddeb\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "FKP",
-                "name": "Falkland Islands pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddeb\ud83c\uddf0"
     },
     {
         "name": {
@@ -10336,6 +10253,12 @@
         "cioc": "FRA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -10442,14 +10365,7 @@
             "CHE"
         ],
         "area": 551695,
-        "flag": "\ud83c\uddeb\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "name": {
@@ -10475,6 +10391,16 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "DKK": {
+                "name": "Danish krone",
+                "symbol": "kr"
+            },
+            "": {
+                "name": "Faroese kr\u00f3na",
+                "symbol": "kr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -10573,19 +10499,7 @@
         "landlocked": false,
         "borders": [],
         "area": 1393,
-        "flag": "\ud83c\uddeb\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "DKK",
-                "name": "Danish krone",
-                "symbol": "kr"
-            },
-            {
-                "code": "",
-                "name": "Faroese kr\u00f3na",
-                "symbol": "kr"
-            }
-        ]
+        "flag": "\ud83c\uddeb\ud83c\uddf4"
     },
     {
         "name": {
@@ -10607,6 +10521,7 @@
         "cioc": "FSM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": [],
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -10704,8 +10619,7 @@
         "landlocked": false,
         "borders": [],
         "area": 702,
-        "flag": "\ud83c\uddeb\ud83c\uddf2",
-        "currencies": []
+        "flag": "\ud83c\uddeb\ud83c\uddf2"
     },
     {
         "name": {
@@ -10727,6 +10641,12 @@
         "cioc": "GAB",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -10828,14 +10748,7 @@
             "GNQ"
         ],
         "area": 267668,
-        "flag": "\ud83c\uddec\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "XAF",
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\udde6"
     },
     {
         "name": {
@@ -10857,6 +10770,12 @@
         "cioc": "GBR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -10956,14 +10875,7 @@
             "IRL"
         ],
         "area": 242900,
-        "flag": "\ud83c\uddec\ud83c\udde7",
-        "currencies": [
-            {
-                "code": "GBP",
-                "name": "British pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\udde7"
     },
     {
         "name": {
@@ -10985,6 +10897,12 @@
         "cioc": "GEO",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "GEL": {
+                "name": "lari",
+                "symbol": "\u20be"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -11086,14 +11004,7 @@
             "TUR"
         ],
         "area": 69700,
-        "flag": "\ud83c\uddec\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "GEL",
-                "name": "lari",
-                "symbol": "\u20be"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddea"
     },
     {
         "name": {
@@ -11123,6 +11034,16 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "GGP[G]": {
+                "name": "Guernsey pound",
+                "symbol": "\u00a3"
+            },
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -11222,19 +11143,7 @@
         "landlocked": false,
         "borders": [],
         "area": 78,
-        "flag": "\ud83c\uddec\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "GGP[G]",
-                "name": "Guernsey pound",
-                "symbol": "\u00a3"
-            },
-            {
-                "code": "GBP",
-                "name": "British pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddec"
     },
     {
         "name": {
@@ -11256,6 +11165,12 @@
         "cioc": "GHA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "GHS": {
+                "name": "Ghanaian cedi",
+                "symbol": "\u20b5"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -11355,14 +11270,7 @@
             "TGO"
         ],
         "area": 238533,
-        "flag": "\ud83c\uddec\ud83c\udded",
-        "currencies": [
-            {
-                "code": "GHS",
-                "name": "Ghanaian cedi",
-                "symbol": "\u20b5"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\udded"
     },
     {
         "name": {
@@ -11384,6 +11292,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "GIP": {
+                "name": "Gibraltar pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -11481,14 +11395,7 @@
             "ESP"
         ],
         "area": 6,
-        "flag": "\ud83c\uddec\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "GIP",
-                "name": "Gibraltar pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddee"
     },
     {
         "name": {
@@ -11510,6 +11417,12 @@
         "cioc": "GUI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "GNF": {
+                "name": "Guinean franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -11614,14 +11527,7 @@
             "SLE"
         ],
         "area": 245857,
-        "flag": "\ud83c\uddec\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "GNF",
-                "name": "Guinean franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddf3"
     },
     {
         "name": {
@@ -11643,6 +11549,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -11739,14 +11651,7 @@
         "landlocked": false,
         "borders": [],
         "area": 1628,
-        "flag": "\ud83c\uddec\ud83c\uddf5",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddf5"
     },
     {
         "name": {
@@ -11768,6 +11673,12 @@
         "cioc": "GAM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "GMD": {
+                "name": "dalasi",
+                "symbol": "D"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -11866,14 +11777,7 @@
             "SEN"
         ],
         "area": 10689,
-        "flag": "\ud83c\uddec\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "GMD",
-                "name": "dalasi",
-                "symbol": "D"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddf2"
     },
     {
         "name": {
@@ -11899,6 +11803,12 @@
         "cioc": "GBS",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -12000,14 +11910,7 @@
             "SEN"
         ],
         "area": 36125,
-        "flag": "\ud83c\uddec\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "XOF",
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddfc"
     },
     {
         "name": {
@@ -12037,6 +11940,12 @@
         "cioc": "GEQ",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -12145,14 +12054,7 @@
             "GAB"
         ],
         "area": 28051,
-        "flag": "\ud83c\uddec\ud83c\uddf6",
-        "currencies": [
-            {
-                "code": "XAF",
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddf6"
     },
     {
         "name": {
@@ -12174,6 +12076,12 @@
         "cioc": "GRE",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -12277,14 +12185,7 @@
             "MKD"
         ],
         "area": 131990,
-        "flag": "\ud83c\uddec\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddf7"
     },
     {
         "name": {
@@ -12306,6 +12207,12 @@
         "cioc": "GRN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -12401,14 +12308,7 @@
         "landlocked": false,
         "borders": [],
         "area": 344,
-        "flag": "\ud83c\uddec\ud83c\udde9",
-        "currencies": [
-            {
-                "code": "XCD",
-                "name": "Eastern Caribbean dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\udde9"
     },
     {
         "name": {
@@ -12430,6 +12330,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "DKK": {
+                "name": "krone",
+                "symbol": "kr."
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -12526,14 +12432,7 @@
         "landlocked": false,
         "borders": [],
         "area": 2166086,
-        "flag": "\ud83c\uddec\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "DKK",
-                "name": "krone",
-                "symbol": "kr."
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddf1"
     },
     {
         "name": {
@@ -12555,6 +12454,12 @@
         "cioc": "GUA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "GTQ": {
+                "name": "Guatemalan quetzal",
+                "symbol": "Q"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -12655,14 +12560,7 @@
             "MEX"
         ],
         "area": 108889,
-        "flag": "\ud83c\uddec\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "GTQ",
-                "name": "Guatemalan quetzal",
-                "symbol": "Q"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddf9"
     },
     {
         "name": {
@@ -12684,6 +12582,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -12784,14 +12688,7 @@
             "SUR"
         ],
         "area": 83534,
-        "flag": "\ud83c\uddec\ud83c\uddeb",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddeb"
     },
     {
         "name": {
@@ -12821,6 +12718,12 @@
         "cioc": "GUM",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -12919,14 +12822,7 @@
         "landlocked": false,
         "borders": [],
         "area": 549,
-        "flag": "\ud83c\uddec\ud83c\uddfa",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United State Dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddfa"
     },
     {
         "name": {
@@ -12948,6 +12844,12 @@
         "cioc": "GUY",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "GYD": {
+                "name": "Guyanese dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -13048,14 +12950,7 @@
             "VEN"
         ],
         "area": 214969,
-        "flag": "\ud83c\uddec\ud83c\uddfe",
-        "currencies": [
-            {
-                "code": "GYD",
-                "name": "Guyanese dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddfe"
     },
     {
         "name": {
@@ -13082,6 +12977,12 @@
         "cioc": "HKG",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "HKD": {
+                "name": "Hong Kong dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -13176,14 +13077,7 @@
             "CHN"
         ],
         "area": 1104,
-        "flag": "\ud83c\udded\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "HKD",
-                "name": "Hong Kong dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\udded\ud83c\uddf0"
     },
     {
         "name": {
@@ -13206,6 +13100,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": [],
         "idd": {
             "root": "",
             "suffixes": [
@@ -13302,8 +13197,7 @@
         "landlocked": false,
         "borders": [],
         "area": 412,
-        "flag": "\ud83c\udded\ud83c\uddf2",
-        "currencies": []
+        "flag": "\ud83c\udded\ud83c\uddf2"
     },
     {
         "name": {
@@ -13325,6 +13219,12 @@
         "cioc": "HON",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "HNL": {
+                "name": "Honduran lempira",
+                "symbol": "L"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -13426,14 +13326,7 @@
             "NIC"
         ],
         "area": 112492,
-        "flag": "\ud83c\udded\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "HNL",
-                "name": "Honduran lempira",
-                "symbol": "L"
-            }
-        ]
+        "flag": "\ud83c\udded\ud83c\uddf3"
     },
     {
         "name": {
@@ -13455,6 +13348,12 @@
         "cioc": "CRO",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "HRK": {
+                "name": "Croatian kuna",
+                "symbol": "kn"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -13563,14 +13462,7 @@
             "SVN"
         ],
         "area": 56594,
-        "flag": "\ud83c\udded\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "HRK",
-                "name": "Croatian kuna",
-                "symbol": "kn"
-            }
-        ]
+        "flag": "\ud83c\udded\ud83c\uddf7"
     },
     {
         "name": {
@@ -13596,6 +13488,12 @@
         "cioc": "HAI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "HTG": {
+                "name": "Haitian gourde",
+                "symbol": "G"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -13697,14 +13595,7 @@
             "DOM"
         ],
         "area": 27750,
-        "flag": "\ud83c\udded\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "HTG",
-                "name": "Haitian gourde",
-                "symbol": "G"
-            }
-        ]
+        "flag": "\ud83c\udded\ud83c\uddf9"
     },
     {
         "name": {
@@ -13726,6 +13617,12 @@
         "cioc": "HUN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "HUF": {
+                "name": "Hungarian forint",
+                "symbol": "Ft"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -13829,14 +13726,7 @@
             "UKR"
         ],
         "area": 93028,
-        "flag": "\ud83c\udded\ud83c\uddfa",
-        "currencies": [
-            {
-                "code": "HUF",
-                "name": "Hungarian forint",
-                "symbol": "Ft"
-            }
-        ]
+        "flag": "\ud83c\udded\ud83c\uddfa"
     },
     {
         "name": {
@@ -13858,6 +13748,12 @@
         "cioc": "INA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "IDR": {
+                "name": "Indonesian rupiah",
+                "symbol": "Rp"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -13959,14 +13855,7 @@
             "PNG"
         ],
         "area": 1904569,
-        "flag": "\ud83c\uddee\ud83c\udde9",
-        "currencies": [
-            {
-                "code": "IDR",
-                "name": "Indonesian rupiah",
-                "symbol": "Rp"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\udde9"
     },
     {
         "name": {
@@ -13992,6 +13881,16 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "IMP[G]": {
+                "name": "Manx pound",
+                "symbol": "\u00a3"
+            },
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -14091,19 +13990,7 @@
         "landlocked": false,
         "borders": [],
         "area": 572,
-        "flag": "\ud83c\uddee\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "IMP[G]",
-                "name": "Manx pound",
-                "symbol": "\u00a3"
-            },
-            {
-                "code": "GBP",
-                "name": "British pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\uddf2"
     },
     {
         "name": {
@@ -14133,6 +14020,12 @@
         "cioc": "IND",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\u20b9"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -14241,14 +14134,7 @@
             "PAK"
         ],
         "area": 3287590,
-        "flag": "\ud83c\uddee\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "INR",
-                "name": "Indian rupee",
-                "symbol": "\u20b9"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\uddf3"
     },
     {
         "name": {
@@ -14270,6 +14156,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -14369,14 +14261,7 @@
         "landlocked": false,
         "borders": [],
         "area": 60,
-        "flag": "\ud83c\uddee\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\uddf4"
     },
     {
         "name": {
@@ -14402,6 +14287,12 @@
         "cioc": "IRL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -14503,14 +14394,7 @@
             "GBR"
         ],
         "area": 70273,
-        "flag": "\ud83c\uddee\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\uddea"
     },
     {
         "name": {
@@ -14533,6 +14417,12 @@
         "cioc": "IRI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "IRR": {
+                "name": "Iranian rial",
+                "symbol": "\ufdfc"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -14639,14 +14529,7 @@
             "TKM"
         ],
         "area": 1648195,
-        "flag": "\ud83c\uddee\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "IRR",
-                "name": "Iranian rial",
-                "symbol": "\ufdfc"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\uddf7"
     },
     {
         "name": {
@@ -14676,6 +14559,12 @@
         "cioc": "IRQ",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "IQD": {
+                "name": "Iraqi dinar",
+                "symbol": "\u0639.\u062f"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -14782,14 +14671,7 @@
             "TUR"
         ],
         "area": 438317,
-        "flag": "\ud83c\uddee\ud83c\uddf6",
-        "currencies": [
-            {
-                "code": "IQD",
-                "name": "Iraqi dinar",
-                "symbol": "\u0639.\u062f"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\uddf6"
     },
     {
         "name": {
@@ -14811,6 +14693,12 @@
         "cioc": "ISL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "ISK": {
+                "name": "Icelandic kr\u00f3na",
+                "symbol": "kr"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -14909,14 +14797,7 @@
         "landlocked": false,
         "borders": [],
         "area": 103000,
-        "flag": "\ud83c\uddee\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "ISK",
-                "name": "Icelandic kr\u00f3na",
-                "symbol": "kr"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\uddf8"
     },
     {
         "name": {
@@ -14942,6 +14823,12 @@
         "cioc": "ISR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "\u20aa"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -15046,14 +14933,7 @@
             "SYR"
         ],
         "area": 20770,
-        "flag": "\ud83c\uddee\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "ILS",
-                "name": "Israeli new shekel",
-                "symbol": "\u20aa"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\uddf1"
     },
     {
         "name": {
@@ -15075,6 +14955,12 @@
         "cioc": "ITA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -15179,14 +15065,7 @@
             "VAT"
         ],
         "area": 301336,
-        "flag": "\ud83c\uddee\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddee\ud83c\uddf9"
     },
     {
         "name": {
@@ -15212,6 +15091,12 @@
         "cioc": "JAM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "JMD": {
+                "name": "Jamaican dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -15308,14 +15193,7 @@
         "landlocked": false,
         "borders": [],
         "area": 10991,
-        "flag": "\ud83c\uddef\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "JMD",
-                "name": "Jamaican dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddef\ud83c\uddf2"
     },
     {
         "name": {
@@ -15345,6 +15223,16 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "JEP[G]": {
+                "name": "Jersey pound",
+                "symbol": "\u00a3"
+            },
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -15445,19 +15333,7 @@
         "landlocked": false,
         "borders": [],
         "area": 116,
-        "flag": "\ud83c\uddef\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "JEP[G]",
-                "name": "Jersey pound",
-                "symbol": "\u00a3"
-            },
-            {
-                "code": "GBP",
-                "name": "British pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddef\ud83c\uddea"
     },
     {
         "name": {
@@ -15480,6 +15356,12 @@
         "cioc": "JOR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "\u062f.\u0627"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -15583,14 +15465,7 @@
             "SYR"
         ],
         "area": 89342,
-        "flag": "\ud83c\uddef\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "JOD",
-                "name": "Jordanian dinar",
-                "symbol": "\u062f.\u0627"
-            }
-        ]
+        "flag": "\ud83c\uddef\ud83c\uddf4"
     },
     {
         "name": {
@@ -15613,6 +15488,12 @@
         "cioc": "JPN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "JPY": {
+                "name": "Japanese yen",
+                "symbol": "\u00a5"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -15710,14 +15591,7 @@
         "landlocked": false,
         "borders": [],
         "area": 377930,
-        "flag": "\ud83c\uddef\ud83c\uddf5",
-        "currencies": [
-            {
-                "code": "JPY",
-                "name": "Japanese yen",
-                "symbol": "\u00a5"
-            }
-        ]
+        "flag": "\ud83c\uddef\ud83c\uddf5"
     },
     {
         "name": {
@@ -15744,6 +15618,12 @@
         "cioc": "KAZ",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "KZT": {
+                "name": "Kazakhstani tenge",
+                "symbol": "\u20b8"
+            }
+        },
         "idd": {
             "root": "+7",
             "suffixes": [
@@ -15854,14 +15734,7 @@
             "UZB"
         ],
         "area": 2724900,
-        "flag": "\ud83c\uddf0\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "KZT",
-                "name": "Kazakhstani tenge",
-                "symbol": "\u20b8"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddff"
     },
     {
         "name": {
@@ -15887,6 +15760,12 @@
         "cioc": "KEN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "KES": {
+                "name": "Kenyan shilling",
+                "symbol": "Sh"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -15991,14 +15870,7 @@
             "UGA"
         ],
         "area": 580367,
-        "flag": "\ud83c\uddf0\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "KES",
-                "name": "Kenyan shilling",
-                "symbol": "Sh"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddea"
     },
     {
         "name": {
@@ -16024,6 +15896,12 @@
         "cioc": "KGZ",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "KGS": {
+                "name": "Kyrgyzstani som",
+                "symbol": "\u0441"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -16129,14 +16007,7 @@
             "UZB"
         ],
         "area": 199951,
-        "flag": "\ud83c\uddf0\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "KGS",
-                "name": "Kyrgyzstani som",
-                "symbol": "\u0441"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddec"
     },
     {
         "name": {
@@ -16158,6 +16029,16 @@
         "cioc": "CAM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "KHR": {
+                "name": "Cambodian riel",
+                "symbol": "\u17db"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -16262,19 +16143,7 @@
             "VNM"
         ],
         "area": 181035,
-        "flag": "\ud83c\uddf0\ud83c\udded",
-        "currencies": [
-            {
-                "code": "KHR",
-                "name": "Cambodian riel",
-                "symbol": "\u17db"
-            },
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\udded"
     },
     {
         "name": {
@@ -16300,6 +16169,16 @@
         "cioc": "KIR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "KID[G]": {
+                "name": "Kiribati dollar",
+                "symbol": "$"
+            },
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -16398,19 +16277,7 @@
         "landlocked": false,
         "borders": [],
         "area": 811,
-        "flag": "\ud83c\uddf0\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "KID[G]",
-                "name": "Kiribati dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "AUD",
-                "name": "Australian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddee"
     },
     {
         "name": {
@@ -16432,6 +16299,12 @@
         "cioc": "SKN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -16528,14 +16401,7 @@
         "landlocked": false,
         "borders": [],
         "area": 261,
-        "flag": "\ud83c\uddf0\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "XCD",
-                "name": "Eastern Caribbean dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddf3"
     },
     {
         "name": {
@@ -16558,6 +16424,12 @@
         "cioc": "KOR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "KRW": {
+                "name": "South Korean won",
+                "symbol": "\u20a9"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -16659,14 +16531,7 @@
             "PRK"
         ],
         "area": 100210,
-        "flag": "\ud83c\uddf0\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "KRW",
-                "name": "South Korean won",
-                "symbol": "\u20a9"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddf7"
     },
     {
         "name": {
@@ -16690,6 +16555,12 @@
         "cioc": "KOS",
         "independent": null,
         "status": "user-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -16788,14 +16659,7 @@
             "SRB"
         ],
         "area": 10908,
-        "flag": "\ud83c\uddfd\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddfd\ud83c\uddf0"
     },
     {
         "name": {
@@ -16817,6 +16681,12 @@
         "cioc": "KUW",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "KWD": {
+                "name": "Kuwaiti dinar",
+                "symbol": "\u062f.\u0643"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -16917,14 +16787,7 @@
             "SAU"
         ],
         "area": 17818,
-        "flag": "\ud83c\uddf0\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "KWD",
-                "name": "Kuwaiti dinar",
-                "symbol": "\u062f.\u0643"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddfc"
     },
     {
         "name": {
@@ -16946,6 +16809,12 @@
         "cioc": "LAO",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "LAK": {
+                "name": "Lao kip",
+                "symbol": "\u20ad"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -17050,14 +16919,7 @@
             "VNM"
         ],
         "area": 236800,
-        "flag": "\ud83c\uddf1\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "LAK",
-                "name": "Lao kip",
-                "symbol": "\u20ad"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\udde6"
     },
     {
         "name": {
@@ -17083,6 +16945,12 @@
         "cioc": "LIB",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "LBP": {
+                "name": "Lebanese pound",
+                "symbol": "\u0644.\u0644"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -17184,14 +17052,7 @@
             "SYR"
         ],
         "area": 10452,
-        "flag": "\ud83c\uddf1\ud83c\udde7",
-        "currencies": [
-            {
-                "code": "LBP",
-                "name": "Lebanese pound",
-                "symbol": "\u0644.\u0644"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\udde7"
     },
     {
         "name": {
@@ -17213,6 +17074,12 @@
         "cioc": "LBR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "LRD": {
+                "name": "Liberian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -17313,14 +17180,7 @@
             "SLE"
         ],
         "area": 111369,
-        "flag": "\ud83c\uddf1\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "LRD",
-                "name": "Liberian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\uddf7"
     },
     {
         "name": {
@@ -17342,6 +17202,12 @@
         "cioc": "LBA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "LYD": {
+                "name": "Libyan dinar",
+                "symbol": "\u0644.\u062f"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -17446,14 +17312,7 @@
             "TUN"
         ],
         "area": 1759540,
-        "flag": "\ud83c\uddf1\ud83c\uddfe",
-        "currencies": [
-            {
-                "code": "LYD",
-                "name": "Libyan dinar",
-                "symbol": "\u0644.\u062f"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\uddfe"
     },
     {
         "name": {
@@ -17475,6 +17334,12 @@
         "cioc": "LCA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -17570,14 +17435,7 @@
         "landlocked": false,
         "borders": [],
         "area": 616,
-        "flag": "\ud83c\uddf1\ud83c\udde8",
-        "currencies": [
-            {
-                "code": "XCD",
-                "name": "Eastern Caribbean dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\udde8"
     },
     {
         "name": {
@@ -17599,6 +17457,12 @@
         "cioc": "LIE",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "CHF": {
+                "name": "Swiss franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -17699,14 +17563,7 @@
             "CHE"
         ],
         "area": 160,
-        "flag": "\ud83c\uddf1\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "CHF",
-                "name": "Swiss franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\uddee"
     },
     {
         "name": {
@@ -17734,6 +17591,12 @@
         "cioc": "SRI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "LKR": {
+                "name": "Sri Lankan rupee",
+                "symbol": "Rs  \u0dbb\u0dd4"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -17834,14 +17697,7 @@
             "IND"
         ],
         "area": 65610,
-        "flag": "\ud83c\uddf1\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "LKR",
-                "name": "Sri Lankan rupee",
-                "symbol": "Rs  \u0dbb\u0dd4"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\uddf0"
     },
     {
         "name": {
@@ -17867,6 +17723,16 @@
         "cioc": "LES",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "LSL": {
+                "name": "Lesotho loti",
+                "symbol": "L"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -17967,19 +17833,7 @@
             "ZAF"
         ],
         "area": 30355,
-        "flag": "\ud83c\uddf1\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "LSL",
-                "name": "Lesotho loti",
-                "symbol": "L"
-            },
-            {
-                "code": "ZAR",
-                "name": "South African rand",
-                "symbol": "R"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\uddf8"
     },
     {
         "name": {
@@ -18001,6 +17855,12 @@
         "cioc": "LTU",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -18103,14 +17963,7 @@
             "RUS"
         ],
         "area": 65300,
-        "flag": "\ud83c\uddf1\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\uddf9"
     },
     {
         "name": {
@@ -18140,6 +17993,12 @@
         "cioc": "LUX",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -18245,14 +18104,7 @@
             "DEU"
         ],
         "area": 2586,
-        "flag": "\ud83c\uddf1\ud83c\uddfa",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\uddfa"
     },
     {
         "name": {
@@ -18274,6 +18126,12 @@
         "cioc": "LAT",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -18376,14 +18234,7 @@
             "RUS"
         ],
         "area": 64559,
-        "flag": "\ud83c\uddf1\ud83c\uddfb",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf1\ud83c\uddfb"
     },
     {
         "name": {
@@ -18409,6 +18260,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "MOP": {
+                "name": "Macanese pataca",
+                "symbol": "P"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -18508,14 +18365,7 @@
             "CHN"
         ],
         "area": 30,
-        "flag": "\ud83c\uddf2\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "MOP",
-                "name": "Macanese pataca",
-                "symbol": "P"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf4"
     },
     {
         "name": {
@@ -18538,6 +18388,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -18638,14 +18494,7 @@
             "SXM"
         ],
         "area": 53,
-        "flag": "\ud83c\uddf2\ud83c\uddeb",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddeb"
     },
     {
         "name": {
@@ -18672,6 +18521,12 @@
         "cioc": "MAR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MAD": {
+                "name": "Moroccan dirham",
+                "symbol": "\u062f.\u0645."
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -18774,14 +18629,7 @@
             "ESP"
         ],
         "area": 446550,
-        "flag": "\ud83c\uddf2\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "MAD",
-                "name": "Moroccan dirham",
-                "symbol": "\u062f.\u0645."
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\udde6"
     },
     {
         "name": {
@@ -18803,6 +18651,12 @@
         "cioc": "MON",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -18902,14 +18756,7 @@
             "FRA"
         ],
         "area": 2.02,
-        "flag": "\ud83c\uddf2\ud83c\udde8",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\udde8"
     },
     {
         "name": {
@@ -18931,6 +18778,12 @@
         "cioc": "MDA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MDL": {
+                "name": "Moldovan leu",
+                "symbol": "L"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -19032,14 +18885,7 @@
             "UKR"
         ],
         "area": 33846,
-        "flag": "\ud83c\uddf2\ud83c\udde9",
-        "currencies": [
-            {
-                "code": "MDL",
-                "name": "Moldovan leu",
-                "symbol": "L"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\udde9"
     },
     {
         "name": {
@@ -19065,6 +18911,12 @@
         "cioc": "MAD",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MGA": {
+                "name": "Malagasy ariary",
+                "symbol": "Ar"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -19164,14 +19016,7 @@
         "landlocked": false,
         "borders": [],
         "area": 587041,
-        "flag": "\ud83c\uddf2\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "MGA",
-                "name": "Malagasy ariary",
-                "symbol": "Ar"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddec"
     },
     {
         "name": {
@@ -19193,6 +19038,12 @@
         "cioc": "MDV",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MVR": {
+                "name": "Maldivian rufiyaa",
+                "symbol": ".\u0783"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -19291,14 +19142,7 @@
         "landlocked": false,
         "borders": [],
         "area": 300,
-        "flag": "\ud83c\uddf2\ud83c\uddfb",
-        "currencies": [
-            {
-                "code": "MVR",
-                "name": "Maldivian rufiyaa",
-                "symbol": ".\u0783"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddfb"
     },
     {
         "name": {
@@ -19320,6 +19164,12 @@
         "cioc": "MEX",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MXN": {
+                "name": "Mexican peso",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -19422,14 +19272,7 @@
             "USA"
         ],
         "area": 1964375,
-        "flag": "\ud83c\uddf2\ud83c\uddfd",
-        "currencies": [
-            {
-                "code": "MXN",
-                "name": "Mexican peso",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddfd"
     },
     {
         "name": {
@@ -19455,6 +19298,12 @@
         "cioc": "MHL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -19553,14 +19402,7 @@
         "landlocked": false,
         "borders": [],
         "area": 181,
-        "flag": "\ud83c\uddf2\ud83c\udded",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\udded"
     },
     {
         "name": {
@@ -19582,6 +19424,12 @@
         "cioc": "MKD",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MKD": {
+                "name": "denar",
+                "symbol": "den"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -19686,14 +19534,7 @@
             "SRB"
         ],
         "area": 25713,
-        "flag": "\ud83c\uddf2\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "MKD",
-                "name": "denar",
-                "symbol": "den"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf0"
     },
     {
         "name": {
@@ -19715,6 +19556,12 @@
         "cioc": "MLI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -19820,14 +19667,7 @@
             "SEN"
         ],
         "area": 1240192,
-        "flag": "\ud83c\uddf2\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "XOF",
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf1"
     },
     {
         "name": {
@@ -19853,6 +19693,12 @@
         "cioc": "MLT",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -19951,14 +19797,7 @@
         "landlocked": false,
         "borders": [],
         "area": 316,
-        "flag": "\ud83c\uddf2\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf9"
     },
     {
         "name": {
@@ -19980,6 +19819,12 @@
         "cioc": "MYA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MMK": {
+                "name": "Burmese kyat",
+                "symbol": "Ks"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -20084,14 +19929,7 @@
             "THA"
         ],
         "area": 676578,
-        "flag": "\ud83c\uddf2\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "MMK",
-                "name": "Burmese kyat",
-                "symbol": "Ks"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf2"
     },
     {
         "name": {
@@ -20113,6 +19951,12 @@
         "cioc": "MNE",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -20215,14 +20059,7 @@
             "SRB"
         ],
         "area": 13812,
-        "flag": "\ud83c\uddf2\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddea"
     },
     {
         "name": {
@@ -20244,6 +20081,12 @@
         "cioc": "MGL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MNT": {
+                "name": "Mongolian t\u00f6gr\u00f6g",
+                "symbol": "\u20ae"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -20342,14 +20185,7 @@
             "RUS"
         ],
         "area": 1564110,
-        "flag": "\ud83c\uddf2\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "MNT",
-                "name": "Mongolian t\u00f6gr\u00f6g",
-                "symbol": "\u20ae"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf3"
     },
     {
         "name": {
@@ -20379,6 +20215,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -20478,14 +20320,7 @@
         "landlocked": false,
         "borders": [],
         "area": 464,
-        "flag": "\ud83c\uddf2\ud83c\uddf5",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United State Dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf5"
     },
     {
         "name": {
@@ -20507,6 +20342,12 @@
         "cioc": "MOZ",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MZN": {
+                "name": "Mozambican metical",
+                "symbol": "MT"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -20611,14 +20452,7 @@
             "ZWE"
         ],
         "area": 801590,
-        "flag": "\ud83c\uddf2\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "MZN",
-                "name": "Mozambican metical",
-                "symbol": "MT"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddff"
     },
     {
         "name": {
@@ -20640,6 +20474,12 @@
         "cioc": "MTN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MRU": {
+                "name": "Mauritanian ouguiya",
+                "symbol": "UM"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -20742,14 +20582,7 @@
             "ESH"
         ],
         "area": 1030700,
-        "flag": "\ud83c\uddf2\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "MRU",
-                "name": "Mauritanian ouguiya",
-                "symbol": "UM"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf7"
     },
     {
         "name": {
@@ -20771,6 +20604,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -20866,14 +20705,7 @@
         "landlocked": false,
         "borders": [],
         "area": 102,
-        "flag": "\ud83c\uddf2\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "XCD",
-                "name": "Eastern Caribbean dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf8"
     },
     {
         "name": {
@@ -20895,6 +20727,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -20990,14 +20828,7 @@
         "landlocked": false,
         "borders": [],
         "area": 1128,
-        "flag": "\ud83c\uddf2\ud83c\uddf6",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddf6"
     },
     {
         "name": {
@@ -21027,6 +20858,12 @@
         "cioc": "MRI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MUR": {
+                "name": "Mauritian rupee",
+                "symbol": "\u20a8"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -21126,14 +20963,7 @@
         "landlocked": false,
         "borders": [],
         "area": 2040,
-        "flag": "\ud83c\uddf2\ud83c\uddfa",
-        "currencies": [
-            {
-                "code": "MUR",
-                "name": "Mauritian rupee",
-                "symbol": "\u20a8"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddfa"
     },
     {
         "name": {
@@ -21159,6 +20989,12 @@
         "cioc": "MAW",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MWK": {
+                "name": "Malawian kwacha",
+                "symbol": "MK"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -21260,14 +21096,7 @@
             "ZMB"
         ],
         "area": 118484,
-        "flag": "\ud83c\uddf2\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "MWK",
-                "name": "Malawian kwacha",
-                "symbol": "MK"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddfc"
     },
     {
         "name": {
@@ -21293,6 +21122,12 @@
         "cioc": "MAS",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "MYR": {
+                "name": "Malaysian ringgit",
+                "symbol": "RM"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -21393,14 +21228,7 @@
             "THA"
         ],
         "area": 330803,
-        "flag": "\ud83c\uddf2\ud83c\uddfe",
-        "currencies": [
-            {
-                "code": "MYR",
-                "name": "Malaysian ringgit",
-                "symbol": "RM"
-            }
-        ]
+        "flag": "\ud83c\uddf2\ud83c\uddfe"
     },
     {
         "name": {
@@ -21422,6 +21250,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -21519,14 +21353,7 @@
         "landlocked": false,
         "borders": [],
         "area": 374,
-        "flag": "\ud83c\uddfe\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddfe\ud83c\uddf9"
     },
     {
         "name": {
@@ -21580,6 +21407,16 @@
         "cioc": "NAM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "NAD": {
+                "name": "Namibian dollar",
+                "symbol": "$"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -21690,19 +21527,7 @@
             "ZMB"
         ],
         "area": 825615,
-        "flag": "\ud83c\uddf3\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "NAD",
-                "name": "Namibian dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "ZAR",
-                "name": "South African rand",
-                "symbol": "R"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\udde6"
     },
     {
         "name": {
@@ -21724,6 +21549,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\u20a3"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -21819,14 +21650,7 @@
         "landlocked": false,
         "borders": [],
         "area": 18575,
-        "flag": "\ud83c\uddf3\ud83c\udde8",
-        "currencies": [
-            {
-                "code": "XPF",
-                "name": "CFP franc",
-                "symbol": "\u20a3"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\udde8"
     },
     {
         "name": {
@@ -21848,6 +21672,12 @@
         "cioc": "NIG",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -21952,14 +21782,7 @@
             "NGA"
         ],
         "area": 1267000,
-        "flag": "\ud83c\uddf3\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "XOF",
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddea"
     },
     {
         "name": {
@@ -21985,6 +21808,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -22083,14 +21912,7 @@
         "landlocked": false,
         "borders": [],
         "area": 36,
-        "flag": "\ud83c\uddf3\ud83c\uddeb",
-        "currencies": [
-            {
-                "code": "AUD",
-                "name": "Australian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddeb"
     },
     {
         "name": {
@@ -22112,6 +21934,12 @@
         "cioc": "NGR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "NGN": {
+                "name": "Nigerian naira",
+                "symbol": "\u20a6"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -22215,14 +22043,7 @@
             "NER"
         ],
         "area": 923768,
-        "flag": "\ud83c\uddf3\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "NGN",
-                "name": "Nigerian naira",
-                "symbol": "\u20a6"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddec"
     },
     {
         "name": {
@@ -22244,6 +22065,12 @@
         "cioc": "NCA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "NIO": {
+                "name": "Nicaraguan c\u00f3rdoba",
+                "symbol": "C$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -22344,14 +22171,7 @@
             "HND"
         ],
         "area": 130373,
-        "flag": "\ud83c\uddf3\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "NIO",
-                "name": "Nicaraguan c\u00f3rdoba",
-                "symbol": "C$"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddee"
     },
     {
         "name": {
@@ -22377,6 +22197,16 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            },
+            "": {
+                "name": "Niue dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -22473,19 +22303,7 @@
         "landlocked": false,
         "borders": [],
         "area": 260,
-        "flag": "\ud83c\uddf3\ud83c\uddfa",
-        "currencies": [
-            {
-                "code": "NZD",
-                "name": "New Zealand dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "",
-                "name": "Niue dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddfa"
     },
     {
         "name": {
@@ -22507,6 +22325,12 @@
         "cioc": "NED",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -22608,14 +22432,7 @@
             "DEU"
         ],
         "area": 41850,
-        "flag": "\ud83c\uddf3\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "name": {
@@ -22645,6 +22462,12 @@
         "cioc": "NOR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "NOK": {
+                "name": "Norwegian krone",
+                "symbol": "kr"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -22751,14 +22574,7 @@
             "RUS"
         ],
         "area": 323802,
-        "flag": "\ud83c\uddf3\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "NOK",
-                "name": "Norwegian krone",
-                "symbol": "kr"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddf4"
     },
     {
         "name": {
@@ -22780,6 +22596,16 @@
         "cioc": "NEP",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "NPR": {
+                "name": "Nepalese rupee",
+                "symbol": "\u20a8"
+            },
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\u20b9"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -22880,19 +22706,7 @@
             "IND"
         ],
         "area": 147181,
-        "flag": "\ud83c\uddf3\ud83c\uddf5",
-        "currencies": [
-            {
-                "code": "NPR",
-                "name": "Nepalese rupee",
-                "symbol": "\u20a8"
-            },
-            {
-                "code": "INR",
-                "name": "Indian rupee",
-                "symbol": "\u20b9"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddf5"
     },
     {
         "name": {
@@ -22918,6 +22732,16 @@
         "cioc": "NRU",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "": {
+                "name": "Nauruan dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -23018,19 +22842,7 @@
         "landlocked": false,
         "borders": [],
         "area": 21,
-        "flag": "\ud83c\uddf3\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "AUD",
-                "name": "Australian dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "",
-                "name": "Nauruan dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddf7"
     },
     {
         "name": {
@@ -23060,6 +22872,12 @@
         "cioc": "NZL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -23158,14 +22976,7 @@
         "landlocked": false,
         "borders": [],
         "area": 270467,
-        "flag": "\ud83c\uddf3\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "NZD",
-                "name": "New Zealand dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf3\ud83c\uddff"
     },
     {
         "name": {
@@ -23187,6 +22998,12 @@
         "cioc": "OMA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "OMR": {
+                "name": "Omani rial",
+                "symbol": "\u0631.\u0639."
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -23288,14 +23105,7 @@
             "YEM"
         ],
         "area": 309500,
-        "flag": "\ud83c\uddf4\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "OMR",
-                "name": "Omani rial",
-                "symbol": "\u0631.\u0639."
-            }
-        ]
+        "flag": "\ud83c\uddf4\ud83c\uddf2"
     },
     {
         "name": {
@@ -23321,6 +23131,12 @@
         "cioc": "PAK",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "PKR": {
+                "name": "Pakistani rupee",
+                "symbol": "\u20a8"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -23425,14 +23241,7 @@
             "IRN"
         ],
         "area": 881912,
-        "flag": "\ud83c\uddf5\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "PKR",
-                "name": "Pakistani rupee",
-                "symbol": "\u20a8"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddf0"
     },
     {
         "name": {
@@ -23454,6 +23263,16 @@
         "cioc": "PAN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "PAB": {
+                "name": "Panamanian balboa",
+                "symbol": "B\/."
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -23554,19 +23373,7 @@
             "CRI"
         ],
         "area": 75417,
-        "flag": "\ud83c\uddf5\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "PAB",
-                "name": "Panamanian balboa",
-                "symbol": "B/."
-            },
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\udde6"
     },
     {
         "name": {
@@ -23588,6 +23395,16 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            },
+            "": {
+                "name": "Pitcairn Islands dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -23685,19 +23502,7 @@
         "landlocked": false,
         "borders": [],
         "area": 47,
-        "flag": "\ud83c\uddf5\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "NZD",
-                "name": "New Zealand dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "",
-                "name": "Pitcairn Islands dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddf3"
     },
     {
         "name": {
@@ -23727,6 +23532,12 @@
         "cioc": "PER",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "PEN": {
+                "name": "Peruvian sol",
+                "symbol": "S\/."
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -23832,14 +23643,7 @@
             "ECU"
         ],
         "area": 1285216,
-        "flag": "\ud83c\uddf5\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "PEN",
-                "name": "Peruvian sol",
-                "symbol": "S/."
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddea"
     },
     {
         "name": {
@@ -23865,6 +23669,12 @@
         "cioc": "PHI",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "PHP": {
+                "name": "Philippine peso",
+                "symbol": "\u20b1"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -23963,14 +23773,7 @@
         "landlocked": false,
         "borders": [],
         "area": 342353,
-        "flag": "\ud83c\uddf5\ud83c\udded",
-        "currencies": [
-            {
-                "code": "PHP",
-                "name": "Philippine peso",
-                "symbol": "\u20b1"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\udded"
     },
     {
         "name": {
@@ -23996,6 +23799,16 @@
         "cioc": "PLW",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "": {
+                "name": "Palauan dollar",
+                "symbol": "$"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -24094,19 +23907,7 @@
         "landlocked": false,
         "borders": [],
         "area": 459,
-        "flag": "\ud83c\uddf5\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "",
-                "name": "Palauan dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddfc"
     },
     {
         "name": {
@@ -24136,6 +23937,12 @@
         "cioc": "PNG",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "PGK": {
+                "name": "Papua New Guinean kina",
+                "symbol": "K"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -24237,14 +24044,7 @@
             "IDN"
         ],
         "area": 462840,
-        "flag": "\ud83c\uddf5\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "PGK",
-                "name": "Papua New Guinean kina",
-                "symbol": "K"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddec"
     },
     {
         "name": {
@@ -24266,6 +24066,12 @@
         "cioc": "POL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "PLN": {
+                "name": "Polish z\u0142oty",
+                "symbol": "z\u0142"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -24371,14 +24177,7 @@
             "UKR"
         ],
         "area": 312679,
-        "flag": "\ud83c\uddf5\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "PLN",
-                "name": "Polish z\u0142oty",
-                "symbol": "z\u0142"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddf1"
     },
     {
         "name": {
@@ -24404,6 +24203,12 @@
         "cioc": "PUR",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -24503,14 +24308,7 @@
         "landlocked": false,
         "borders": [],
         "area": 8870,
-        "flag": "\ud83c\uddf5\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United State Dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddf7"
     },
     {
         "name": {
@@ -24532,6 +24330,12 @@
         "cioc": "PRK",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "KPW": {
+                "name": "North Korean won",
+                "symbol": "\u20a9"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -24637,14 +24441,7 @@
             "RUS"
         ],
         "area": 120538,
-        "flag": "\ud83c\uddf0\ud83c\uddf5",
-        "currencies": [
-            {
-                "code": "KPW",
-                "name": "North Korean won",
-                "symbol": "\u20a9"
-            }
-        ]
+        "flag": "\ud83c\uddf0\ud83c\uddf5"
     },
     {
         "name": {
@@ -24666,6 +24463,12 @@
         "cioc": "POR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -24766,14 +24569,7 @@
             "ESP"
         ],
         "area": 92090,
-        "flag": "\ud83c\uddf5\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddf9"
     },
     {
         "name": {
@@ -24799,6 +24595,12 @@
         "cioc": "PAR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "PYG": {
+                "name": "Paraguayan guaran\u00ed",
+                "symbol": "\u20b2"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -24902,14 +24704,7 @@
             "BRA"
         ],
         "area": 406752,
-        "flag": "\ud83c\uddf5\ud83c\uddfe",
-        "currencies": [
-            {
-                "code": "PYG",
-                "name": "Paraguayan guaran\u00ed",
-                "symbol": "\u20b2"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddfe"
     },
     {
         "name": {
@@ -24932,6 +24727,20 @@
         "cioc": "PLE",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EGP": {
+                "name": "Egyptian pound",
+                "symbol": "E\u00a3"
+            },
+            "ILS": {
+                "name": "Israeli new shekel",
+                "symbol": "\u20aa"
+            },
+            "JOD": {
+                "name": "Jordanian dinar",
+                "symbol": "JD"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -25034,24 +24843,7 @@
             "JOR"
         ],
         "area": 6220,
-        "flag": "\ud83c\uddf5\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "EGP",
-                "name": "Egyptian pound",
-                "symbol": "E\u00a3"
-            },
-            {
-                "code": "ILS",
-                "name": "Israeli new shekel",
-                "symbol": "\u20aa"
-            },
-            {
-                "code": "JOD",
-                "name": "Jordanian dinar",
-                "symbol": "JD"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddf8"
     },
     {
         "name": {
@@ -25073,6 +24865,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\u20a3"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -25171,14 +24969,7 @@
         "landlocked": false,
         "borders": [],
         "area": 4167,
-        "flag": "\ud83c\uddf5\ud83c\uddeb",
-        "currencies": [
-            {
-                "code": "XPF",
-                "name": "CFP franc",
-                "symbol": "\u20a3"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddeb"
     },
     {
         "name": {
@@ -25201,6 +24992,12 @@
         "cioc": "QAT",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "QAR": {
+                "name": "Qatari riyal",
+                "symbol": "\u0631.\u0642"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -25300,14 +25097,7 @@
             "SAU"
         ],
         "area": 11586,
-        "flag": "\ud83c\uddf6\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "QAR",
-                "name": "Qatari riyal",
-                "symbol": "\u0631.\u0642"
-            }
-        ]
+        "flag": "\ud83c\uddf6\ud83c\udde6"
     },
     {
         "name": {
@@ -25329,6 +25119,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -25425,14 +25221,7 @@
         "landlocked": false,
         "borders": [],
         "area": 2511,
-        "flag": "\ud83c\uddf7\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf7\ud83c\uddea"
     },
     {
         "name": {
@@ -25454,6 +25243,12 @@
         "cioc": "ROU",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "RON": {
+                "name": "Romanian leu",
+                "symbol": "lei"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -25558,14 +25353,7 @@
             "UKR"
         ],
         "area": 238391,
-        "flag": "\ud83c\uddf7\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "RON",
-                "name": "Romanian leu",
-                "symbol": "lei"
-            }
-        ]
+        "flag": "\ud83c\uddf7\ud83c\uddf4"
     },
     {
         "name": {
@@ -25589,6 +25377,12 @@
         "cioc": "RUS",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "RUB": {
+                "name": "Russian ruble",
+                "symbol": "\u20bd"
+            }
+        },
         "idd": {
             "root": "+7",
             "suffixes": [
@@ -25705,14 +25499,7 @@
             "UKR"
         ],
         "area": 17098242,
-        "flag": "\ud83c\uddf7\ud83c\uddfa",
-        "currencies": [
-            {
-                "code": "RUB",
-                "name": "Russian ruble",
-                "symbol": "\u20bd"
-            }
-        ]
+        "flag": "\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "name": {
@@ -25742,6 +25529,12 @@
         "cioc": "RWA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "RWF": {
+                "name": "Rwandan franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -25847,14 +25640,7 @@
             "UGA"
         ],
         "area": 26338,
-        "flag": "\ud83c\uddf7\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "RWF",
-                "name": "Rwandan franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddf7\ud83c\uddfc"
     },
     {
         "name": {
@@ -25877,6 +25663,12 @@
         "cioc": "KSA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SAR": {
+                "name": "Saudi riyal",
+                "symbol": "\u0631.\u0633"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -25983,14 +25775,7 @@
             "YEM"
         ],
         "area": 2149690,
-        "flag": "\ud83c\uddf8\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "SAR",
-                "name": "Saudi riyal",
-                "symbol": "\u0631.\u0633"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\udde6"
     },
     {
         "name": {
@@ -26016,6 +25801,12 @@
         "cioc": "SUD",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SDG": {
+                "name": "Sudanese pound",
+                "symbol": ""
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -26122,14 +25913,7 @@
             "SSD"
         ],
         "area": 1886068,
-        "flag": "\ud83c\uddf8\ud83c\udde9",
-        "currencies": [
-            {
-                "code": "SDG",
-                "name": "Sudanese pound",
-                "symbol": ""
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\udde9"
     },
     {
         "name": {
@@ -26151,6 +25935,12 @@
         "cioc": "SEN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -26254,14 +26044,7 @@
             "MRT"
         ],
         "area": 196722,
-        "flag": "\ud83c\uddf8\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "XOF",
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddf3"
     },
     {
         "name": {
@@ -26297,6 +26080,16 @@
         "cioc": "SIN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BND": {
+                "name": "Brunei dollar",
+                "symbol": "$"
+            },
+            "SGD": {
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -26394,19 +26187,7 @@
         "landlocked": false,
         "borders": [],
         "area": 710,
-        "flag": "\ud83c\uddf8\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "BND",
-                "name": "Brunei dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "SGD",
-                "name": "Singapore dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddec"
     },
     {
         "name": {
@@ -26428,6 +26209,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "SHP": {
+                "name": "Saint Helena pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -26524,14 +26311,7 @@
         "landlocked": false,
         "borders": [],
         "area": 3903,
-        "flag": "\ud83c\uddec\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "SHP",
-                "name": "Saint Helena pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddec\ud83c\uddf8"
     },
     {
         "name": {
@@ -26553,6 +26333,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "NOK": {
+                "name": "krone",
+                "symbol": "kr"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -26649,14 +26435,7 @@
         "landlocked": false,
         "borders": [],
         "area": -1,
-        "flag": "\ud83c\uddf8\ud83c\uddef",
-        "currencies": [
-            {
-                "code": "NOK",
-                "name": "krone",
-                "symbol": "kr"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddef"
     },
     {
         "name": {
@@ -26678,6 +26457,12 @@
         "cioc": "SOL",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SBD": {
+                "name": "Solomon Islands dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -26773,14 +26558,7 @@
         "landlocked": false,
         "borders": [],
         "area": 28896,
-        "flag": "\ud83c\uddf8\ud83c\udde7",
-        "currencies": [
-            {
-                "code": "SBD",
-                "name": "Solomon Islands dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\udde7"
     },
     {
         "name": {
@@ -26802,6 +26580,12 @@
         "cioc": "SLE",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SLL": {
+                "name": "Sierra Leonean leone",
+                "symbol": "Le"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -26901,14 +26685,7 @@
             "LBR"
         ],
         "area": 71740,
-        "flag": "\ud83c\uddf8\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "SLL",
-                "name": "Sierra Leonean leone",
-                "symbol": "Le"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddf1"
     },
     {
         "name": {
@@ -26930,6 +26707,12 @@
         "cioc": "ESA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -27034,14 +26817,7 @@
             "HND"
         ],
         "area": 21041,
-        "flag": "\ud83c\uddf8\ud83c\uddfb",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddfb"
     },
     {
         "name": {
@@ -27063,6 +26839,12 @@
         "cioc": "SMR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -27162,14 +26944,7 @@
             "ITA"
         ],
         "area": 61,
-        "flag": "\ud83c\uddf8\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddf2"
     },
     {
         "name": {
@@ -27195,6 +26970,12 @@
         "cioc": "SOM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SOS": {
+                "name": "Somali shilling",
+                "symbol": "Sh"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -27299,14 +27080,7 @@
             "KEN"
         ],
         "area": 637657,
-        "flag": "\ud83c\uddf8\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "SOS",
-                "name": "Somali shilling",
-                "symbol": "Sh"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddf4"
     },
     {
         "name": {
@@ -27328,6 +27102,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -27424,14 +27204,7 @@
         "landlocked": false,
         "borders": [],
         "area": 242,
-        "flag": "\ud83c\uddf5\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf5\ud83c\uddf2"
     },
     {
         "name": {
@@ -27454,6 +27227,12 @@
         "cioc": "SRB",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "RSD": {
+                "name": "Serbian dinar",
+                "symbol": "\u0434\u0438\u043d."
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -27562,14 +27341,7 @@
             "ROU"
         ],
         "area": 88361,
-        "flag": "\ud83c\uddf7\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "RSD",
-                "name": "Serbian dinar",
-                "symbol": "\u0434\u0438\u043d."
-            }
-        ]
+        "flag": "\ud83c\uddf7\ud83c\uddf8"
     },
     {
         "name": {
@@ -27591,6 +27363,12 @@
         "cioc": "",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SSP": {
+                "name": "South Sudanese pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -27693,14 +27471,7 @@
             "UGA"
         ],
         "area": 619745,
-        "flag": "\ud83c\uddf8\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "SSP",
-                "name": "South Sudanese pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddf8"
     },
     {
         "name": {
@@ -27722,6 +27493,12 @@
         "cioc": "STP",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "STN": {
+                "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
+                "symbol": "Db"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -27820,14 +27597,7 @@
         "landlocked": false,
         "borders": [],
         "area": 964,
-        "flag": "\ud83c\uddf8\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "STN",
-                "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
-                "symbol": "Db"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddf9"
     },
     {
         "name": {
@@ -27849,6 +27619,12 @@
         "cioc": "SUR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SRD": {
+                "name": "Surinamese dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -27952,14 +27728,7 @@
             "GUY"
         ],
         "area": 163820,
-        "flag": "\ud83c\uddf8\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "SRD",
-                "name": "Surinamese dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddf7"
     },
     {
         "name": {
@@ -27981,6 +27750,12 @@
         "cioc": "SVK",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -28084,14 +27859,7 @@
             "UKR"
         ],
         "area": 49037,
-        "flag": "\ud83c\uddf8\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddf0"
     },
     {
         "name": {
@@ -28113,6 +27881,12 @@
         "cioc": "SLO",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -28215,14 +27989,7 @@
             "HUN"
         ],
         "area": 20273,
-        "flag": "\ud83c\uddf8\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddee"
     },
     {
         "name": {
@@ -28244,6 +28011,12 @@
         "cioc": "SWE",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SEK": {
+                "name": "Swedish krona",
+                "symbol": "kr"
+            }
+        },
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -28344,14 +28117,7 @@
             "NOR"
         ],
         "area": 450295,
-        "flag": "\ud83c\uddf8\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "SEK",
-                "name": "Swedish krona",
-                "symbol": "kr"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddea"
     },
     {
         "name": {
@@ -28377,6 +28143,12 @@
         "cioc": "SWZ",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SZL": {
+                "name": "Swazi lilangeni",
+                "symbol": "L"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -28482,14 +28254,7 @@
             "ZAF"
         ],
         "area": 17364,
-        "flag": "\ud83c\uddf8\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "SZL",
-                "name": "Swazi lilangeni",
-                "symbol": "L"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddff"
     },
     {
         "name": {
@@ -28519,6 +28284,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "ANG": {
+                "name": "Netherlands Antillean guilder",
+                "symbol": "\u0192"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -28619,14 +28390,7 @@
             "MAF"
         ],
         "area": 34,
-        "flag": "\ud83c\uddf8\ud83c\uddfd",
-        "currencies": [
-            {
-                "code": "ANG",
-                "name": "Netherlands Antillean guilder",
-                "symbol": "\u0192"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddfd"
     },
     {
         "name": {
@@ -28656,6 +28420,12 @@
         "cioc": "SEY",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SCR": {
+                "name": "Seychellois rupee",
+                "symbol": "\u20a8"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -28756,14 +28526,7 @@
         "landlocked": false,
         "borders": [],
         "area": 452,
-        "flag": "\ud83c\uddf8\ud83c\udde8",
-        "currencies": [
-            {
-                "code": "SCR",
-                "name": "Seychellois rupee",
-                "symbol": "\u20a8"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\udde8"
     },
     {
         "name": {
@@ -28786,6 +28549,12 @@
         "cioc": "SYR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "SYP": {
+                "name": "Syrian pound",
+                "symbol": "\u00a3"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -28889,14 +28658,7 @@
             "TUR"
         ],
         "area": 185180,
-        "flag": "\ud83c\uddf8\ud83c\uddfe",
-        "currencies": [
-            {
-                "code": "SYP",
-                "name": "Syrian pound",
-                "symbol": "\u00a3"
-            }
-        ]
+        "flag": "\ud83c\uddf8\ud83c\uddfe"
     },
     {
         "name": {
@@ -28918,6 +28680,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -29013,14 +28781,7 @@
         "landlocked": false,
         "borders": [],
         "area": 948,
-        "flag": "\ud83c\uddf9\ud83c\udde8",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\udde8"
     },
     {
         "name": {
@@ -29046,6 +28807,12 @@
         "cioc": "CHA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XAF": {
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -29156,14 +28923,7 @@
             "SDN"
         ],
         "area": 1284000,
-        "flag": "\ud83c\uddf9\ud83c\udde9",
-        "currencies": [
-            {
-                "code": "XAF",
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\udde9"
     },
     {
         "name": {
@@ -29185,6 +28945,12 @@
         "cioc": "TOG",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XOF": {
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -29287,14 +29053,7 @@
             "GHA"
         ],
         "area": 56785,
-        "flag": "\ud83c\uddf9\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "XOF",
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddec"
     },
     {
         "name": {
@@ -29317,6 +29076,12 @@
         "cioc": "THA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "THB": {
+                "name": "Thai baht",
+                "symbol": "\u0e3f"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -29422,14 +29187,7 @@
             "MYS"
         ],
         "area": 513120,
-        "flag": "\ud83c\uddf9\ud83c\udded",
-        "currencies": [
-            {
-                "code": "THB",
-                "name": "Thai baht",
-                "symbol": "\u0e3f"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\udded"
     },
     {
         "name": {
@@ -29455,6 +29213,12 @@
         "cioc": "TJK",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "TJS": {
+                "name": "Tajikistani somoni",
+                "symbol": "\u0405\u041c"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -29560,14 +29324,7 @@
             "UZB"
         ],
         "area": 143100,
-        "flag": "\ud83c\uddf9\ud83c\uddef",
-        "currencies": [
-            {
-                "code": "TJS",
-                "name": "Tajikistani somoni",
-                "symbol": "\u0405\u041c"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddef"
     },
     {
         "name": {
@@ -29597,6 +29354,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "NZD": {
+                "name": "New Zealand dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -29694,14 +29457,7 @@
         "landlocked": false,
         "borders": [],
         "area": 12,
-        "flag": "\ud83c\uddf9\ud83c\uddf0",
-        "currencies": [
-            {
-                "code": "NZD",
-                "name": "New Zealand dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddf0"
     },
     {
         "name": {
@@ -29727,6 +29483,12 @@
         "cioc": "TKM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "TMT": {
+                "name": "Turkmenistan manat",
+                "symbol": "m"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -29828,14 +29590,7 @@
             "UZB"
         ],
         "area": 488100,
-        "flag": "\ud83c\uddf9\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "TMT",
-                "name": "Turkmenistan manat",
-                "symbol": "m"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddf2"
     },
     {
         "name": {
@@ -29861,6 +29616,12 @@
         "cioc": "TLS",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -29965,14 +29726,7 @@
             "IDN"
         ],
         "area": 14874,
-        "flag": "\ud83c\uddf9\ud83c\uddf1",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United State Dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddf1"
     },
     {
         "name": {
@@ -29998,6 +29752,12 @@
         "cioc": "TGA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "TOP": {
+                "name": "Tongan pa\u02bbanga",
+                "symbol": "T$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -30094,14 +29854,7 @@
         "landlocked": false,
         "borders": [],
         "area": 747,
-        "flag": "\ud83c\uddf9\ud83c\uddf4",
-        "currencies": [
-            {
-                "code": "TOP",
-                "name": "Tongan pa\u02bbanga",
-                "symbol": "T$"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddf4"
     },
     {
         "name": {
@@ -30123,6 +29876,12 @@
         "cioc": "TTO",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "TTD": {
+                "name": "Trinidad and Tobago dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -30219,14 +29978,7 @@
         "landlocked": false,
         "borders": [],
         "area": 5130,
-        "flag": "\ud83c\uddf9\ud83c\uddf9",
-        "currencies": [
-            {
-                "code": "TTD",
-                "name": "Trinidad and Tobago dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddf9"
     },
     {
         "name": {
@@ -30248,6 +30000,12 @@
         "cioc": "TUN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "TND": {
+                "name": "Tunisian dinar",
+                "symbol": "\u062f.\u062a"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -30348,14 +30106,7 @@
             "LBY"
         ],
         "area": 163610,
-        "flag": "\ud83c\uddf9\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "TND",
-                "name": "Tunisian dinar",
-                "symbol": "\u062f.\u062a"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddf3"
     },
     {
         "name": {
@@ -30377,6 +30128,12 @@
         "cioc": "TUR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "TRY": {
+                "name": "Turkish lira",
+                "symbol": "\u20ba"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -30484,14 +30241,7 @@
             "SYR"
         ],
         "area": 783562,
-        "flag": "\ud83c\uddf9\ud83c\uddf7",
-        "currencies": [
-            {
-                "code": "TRY",
-                "name": "Turkish lira",
-                "symbol": "\u20ba"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddf7"
     },
     {
         "name": {
@@ -30517,6 +30267,16 @@
         "cioc": "TUV",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "TVD[G]": {
+                "name": "Tuvaluan dollar",
+                "symbol": "$"
+            },
+            "AUD": {
+                "name": "Australian dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -30613,19 +30373,7 @@
         "landlocked": false,
         "borders": [],
         "area": 26,
-        "flag": "\ud83c\uddf9\ud83c\uddfb",
-        "currencies": [
-            {
-                "code": "TVD[G]",
-                "name": "Tuvaluan dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "AUD",
-                "name": "Australian dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddfb"
     },
     {
         "name": {
@@ -30649,6 +30397,12 @@
         "cioc": "TPE",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "TWD": {
+                "name": "New Taiwan dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -30745,14 +30499,7 @@
         "landlocked": false,
         "borders": [],
         "area": 36193,
-        "flag": "\ud83c\uddf9\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "TWD",
-                "name": "New Taiwan dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddfc"
     },
     {
         "name": {
@@ -30778,6 +30525,12 @@
         "cioc": "TAN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "TZS": {
+                "name": "Tanzanian shilling",
+                "symbol": "Sh"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -30886,14 +30639,7 @@
             "ZMB"
         ],
         "area": 945087,
-        "flag": "\ud83c\uddf9\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "TZS",
-                "name": "Tanzanian shilling",
-                "symbol": "Sh"
-            }
-        ]
+        "flag": "\ud83c\uddf9\ud83c\uddff"
     },
     {
         "name": {
@@ -30919,6 +30665,12 @@
         "cioc": "UGA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "UGX": {
+                "name": "Ugandan shilling",
+                "symbol": "Sh"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -31023,14 +30775,7 @@
             "TZA"
         ],
         "area": 241550,
-        "flag": "\ud83c\uddfa\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "UGX",
-                "name": "Ugandan shilling",
-                "symbol": "Sh"
-            }
-        ]
+        "flag": "\ud83c\uddfa\ud83c\uddec"
     },
     {
         "name": {
@@ -31053,6 +30798,16 @@
         "cioc": "UKR",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "UAH": {
+                "name": "Ukrainian hryvnia",
+                "symbol": "\u20b4"
+            },
+            "RUB": {
+                "name": "Russian ruble",
+                "symbol": "\u20bd"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -31157,19 +30912,7 @@
             "SVK"
         ],
         "area": 603500,
-        "flag": "\ud83c\uddfa\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "UAH",
-                "name": "Ukrainian hryvnia",
-                "symbol": "\u20b4"
-            },
-            {
-                "code": "RUB",
-                "name": "Russian ruble",
-                "symbol": "\u20bd"
-            }
-        ]
+        "flag": "\ud83c\uddfa\ud83c\udde6"
     },
     {
         "name": {
@@ -31191,6 +30934,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -31286,14 +31035,7 @@
         "landlocked": false,
         "borders": [],
         "area": 34.2,
-        "flag": "\ud83c\uddfa\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United State Dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddfa\ud83c\uddf2"
     },
     {
         "name": {
@@ -31315,6 +31057,12 @@
         "cioc": "URU",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "UYU": {
+                "name": "Uruguayan peso",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -31415,14 +31163,7 @@
             "BRA"
         ],
         "area": 181034,
-        "flag": "\ud83c\uddfa\ud83c\uddfe",
-        "currencies": [
-            {
-                "code": "UYU",
-                "name": "Uruguayan peso",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddfa\ud83c\uddfe"
     },
     {
         "name": {
@@ -31444,6 +31185,12 @@
         "cioc": "USA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -31860,14 +31607,7 @@
             "MEX"
         ],
         "area": 9372610,
-        "flag": "\ud83c\uddfa\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "name": {
@@ -31893,6 +31633,12 @@
         "cioc": "UZB",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "UZS": {
+                "name": "Uzbekistani so\u02bbm",
+                "symbol": "so'm"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -31998,14 +31744,7 @@
             "TKM"
         ],
         "area": 447400,
-        "flag": "\ud83c\uddfa\ud83c\uddff",
-        "currencies": [
-            {
-                "code": "UZS",
-                "name": "Uzbekistani so\u02bbm",
-                "symbol": "so'm"
-            }
-        ]
+        "flag": "\ud83c\uddfa\ud83c\uddff"
     },
     {
         "name": {
@@ -32031,6 +31770,12 @@
         "cioc": "",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            }
+        },
         "idd": {
             "root": "+3",
             "suffixes": [
@@ -32133,14 +31878,7 @@
             "ITA"
         ],
         "area": 0.44,
-        "flag": "\ud83c\uddfb\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            }
-        ]
+        "flag": "\ud83c\uddfb\ud83c\udde6"
     },
     {
         "name": {
@@ -32162,6 +31900,12 @@
         "cioc": "VIN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "XCD": {
+                "name": "Eastern Caribbean dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -32257,14 +32001,7 @@
         "landlocked": false,
         "borders": [],
         "area": 389,
-        "flag": "\ud83c\uddfb\ud83c\udde8",
-        "currencies": [
-            {
-                "code": "XCD",
-                "name": "Eastern Caribbean dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddfb\ud83c\udde8"
     },
     {
         "name": {
@@ -32286,6 +32023,12 @@
         "cioc": "VEN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "VES": {
+                "name": "Venezuelan bol\u00edvar soberano",
+                "symbol": "Bs.S."
+            }
+        },
         "idd": {
             "root": "+5",
             "suffixes": [
@@ -32388,14 +32131,7 @@
             "GUY"
         ],
         "area": 916445,
-        "flag": "\ud83c\uddfb\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "VES",
-                "name": "Venezuelan bol\u00edvar soberano",
-                "symbol": "Bs.S."
-            }
-        ]
+        "flag": "\ud83c\uddfb\ud83c\uddea"
     },
     {
         "name": {
@@ -32417,6 +32153,16 @@
         "cioc": "IVB",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "": {
+                "name": "British Virgin Islands dollar",
+                "symbol": "$"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -32513,19 +32259,7 @@
         "landlocked": false,
         "borders": [],
         "area": 151,
-        "flag": "\ud83c\uddfb\ud83c\uddec",
-        "currencies": [
-            {
-                "code": "",
-                "name": "British Virgin Islands dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddfb\ud83c\uddec"
     },
     {
         "name": {
@@ -32547,6 +32281,12 @@
         "cioc": "ISV",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "USD": {
+                "name": "United State Dollar",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+1",
             "suffixes": [
@@ -32643,14 +32383,7 @@
         "landlocked": false,
         "borders": [],
         "area": 347,
-        "flag": "\ud83c\uddfb\ud83c\uddee",
-        "currencies": [
-            {
-                "code": "USD",
-                "name": "United State Dollar",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddfb\ud83c\uddee"
     },
     {
         "name": {
@@ -32672,6 +32405,12 @@
         "cioc": "VIE",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "VND": {
+                "name": "Vietnamese \u0111\u1ed3ng",
+                "symbol": "\u20ab"
+            }
+        },
         "idd": {
             "root": "+8",
             "suffixes": [
@@ -32774,14 +32513,7 @@
             "LAO"
         ],
         "area": 331212,
-        "flag": "\ud83c\uddfb\ud83c\uddf3",
-        "currencies": [
-            {
-                "code": "VND",
-                "name": "Vietnamese \u0111\u1ed3ng",
-                "symbol": "\u20ab"
-            }
-        ]
+        "flag": "\ud83c\uddfb\ud83c\uddf3"
     },
     {
         "name": {
@@ -32811,6 +32543,12 @@
         "cioc": "VAN",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "VUV": {
+                "name": "Vanuatu vatu",
+                "symbol": "Vt"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -32911,14 +32649,7 @@
         "landlocked": false,
         "borders": [],
         "area": 12189,
-        "flag": "\ud83c\uddfb\ud83c\uddfa",
-        "currencies": [
-            {
-                "code": "VUV",
-                "name": "Vanuatu vatu",
-                "symbol": "Vt"
-            }
-        ]
+        "flag": "\ud83c\uddfb\ud83c\uddfa"
     },
     {
         "name": {
@@ -32940,6 +32671,12 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "currencies": {
+            "XPF": {
+                "name": "CFP franc",
+                "symbol": "\u20a3"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -33037,14 +32774,7 @@
         "landlocked": false,
         "borders": [],
         "area": 142,
-        "flag": "\ud83c\uddfc\ud83c\uddeb",
-        "currencies": [
-            {
-                "code": "XPF",
-                "name": "CFP franc",
-                "symbol": "\u20a3"
-            }
-        ]
+        "flag": "\ud83c\uddfc\ud83c\uddeb"
     },
     {
         "name": {
@@ -33070,6 +32800,12 @@
         "cioc": "SAM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "WST": {
+                "name": "Samoan t\u0101l\u0101",
+                "symbol": "T"
+            }
+        },
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -33168,14 +32904,7 @@
         "landlocked": false,
         "borders": [],
         "area": 2842,
-        "flag": "\ud83c\uddfc\ud83c\uddf8",
-        "currencies": [
-            {
-                "code": "WST",
-                "name": "Samoan t\u0101l\u0101",
-                "symbol": "T"
-            }
-        ]
+        "flag": "\ud83c\uddfc\ud83c\uddf8"
     },
     {
         "name": {
@@ -33197,6 +32926,12 @@
         "cioc": "YEM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "YER": {
+                "name": "Yemeni rial",
+                "symbol": "\ufdfc"
+            }
+        },
         "idd": {
             "root": "+9",
             "suffixes": [
@@ -33297,14 +33032,7 @@
             "SAU"
         ],
         "area": 527968,
-        "flag": "\ud83c\uddfe\ud83c\uddea",
-        "currencies": [
-            {
-                "code": "YER",
-                "name": "Yemeni rial",
-                "symbol": "\ufdfc"
-            }
-        ]
+        "flag": "\ud83c\uddfe\ud83c\uddea"
     },
     {
         "name": {
@@ -33366,6 +33094,12 @@
         "cioc": "RSA",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -33483,14 +33217,7 @@
             "ZWE"
         ],
         "area": 1221037,
-        "flag": "\ud83c\uddff\ud83c\udde6",
-        "currencies": [
-            {
-                "code": "ZAR",
-                "name": "South African rand",
-                "symbol": "R"
-            }
-        ]
+        "flag": "\ud83c\uddff\ud83c\udde6"
     },
     {
         "name": {
@@ -33512,6 +33239,12 @@
         "cioc": "ZAM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "ZMW": {
+                "name": "Zambian kwacha",
+                "symbol": "ZK"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -33617,14 +33350,7 @@
             "ZWE"
         ],
         "area": 752612,
-        "flag": "\ud83c\uddff\ud83c\uddf2",
-        "currencies": [
-            {
-                "code": "ZMW",
-                "name": "Zambian kwacha",
-                "symbol": "ZK"
-            }
-        ]
+        "flag": "\ud83c\uddff\ud83c\uddf2"
     },
     {
         "name": {
@@ -33702,6 +33428,44 @@
         "cioc": "ZIM",
         "independent": true,
         "status": "officially-assigned",
+        "currencies": {
+            "BWP": {
+                "name": "Botswana pula",
+                "symbol": "P"
+            },
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "CNY": {
+                "name": "Chinese yuan",
+                "symbol": "\u00a5"
+            },
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
+            },
+            "INR": {
+                "name": "Indian rupee",
+                "symbol": "\u20b9"
+            },
+            "JPY": {
+                "name": "Japanese yen",
+                "symbol": "\u00a5"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "Rs"
+            },
+            "USD": {
+                "name": "United States dollar",
+                "symbol": "$"
+            },
+            "ZWB[G]": {
+                "name": "Zimbabwean bonds",
+                "symbol": "$"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -33817,53 +33581,6 @@
             "ZMB"
         ],
         "area": 390757,
-        "flag": "\ud83c\uddff\ud83c\uddfc",
-        "currencies": [
-            {
-                "code": "BWP",
-                "name": "Botswana pula",
-                "symbol": "P"
-            },
-            {
-                "code": "GBP",
-                "name": "British pound",
-                "symbol": "\u00a3"
-            },
-            {
-                "code": "CNY",
-                "name": "Chinese yuan",
-                "symbol": "\u00a5"
-            },
-            {
-                "code": "EUR",
-                "name": "Euro",
-                "symbol": "\u20ac"
-            },
-            {
-                "code": "INR",
-                "name": "Indian rupee",
-                "symbol": "\u20b9"
-            },
-            {
-                "code": "JPY",
-                "name": "Japanese yen",
-                "symbol": "\u00a5"
-            },
-            {
-                "code": "ZAR",
-                "name": "South African rand",
-                "symbol": "Rs"
-            },
-            {
-                "code": "USD",
-                "name": "United States dollar",
-                "symbol": "$"
-            },
-            {
-                "code": "ZWB[G]",
-                "name": "Zimbabwean bonds",
-                "symbol": "$"
-            }
-        ]
+        "flag": "\ud83c\uddff\ud83c\uddfc"
     }
 ]
