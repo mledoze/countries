@@ -22,7 +22,7 @@
   },
   "require-dev": {
 	"roave/security-advisories": "dev-master",
-    "phpunit/phpunit": "^7"
+    "phpunit/phpunit": "^8"
   },
   "autoload": {
 	"psr-4": {"MLD\\": "src/MLD"}
