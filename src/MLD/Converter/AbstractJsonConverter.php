@@ -45,8 +45,8 @@ abstract class AbstractJsonConverter extends AbstractConverter
                     $country[Fields::LANGUAGES] = new \stdClass();
                 }
 
-                if (isset($country['name']['native']) && empty($country['name']['native'])) {
-                    $country['name']['native'] = new \stdClass();
+                if (isset($country[Fields::NAME][Fields::NATIVE]) && empty($country[Fields::NAME][Fields::NATIVE])) {
+                    $country[Fields::NAME][Fields::NATIVE] = new \stdClass();
                 }
                 return $country;
             },

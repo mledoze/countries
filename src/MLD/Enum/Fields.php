@@ -31,4 +31,8 @@ class Fields
     public const SUBREGION = 'subregion';
     public const TLD = 'tld';
     public const TRANSLATIONS = 'translations';
+
+    // Subfields
+    public const NATIVE = 'native';
+
 }
