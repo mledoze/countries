@@ -28,7 +28,11 @@ in JSON, CSV and XML. Each line contains the country:
  - code International Olympic Committee (`cioc`)
  - ISO 3166-1 independence status (`independent`) (denotes the country is considered a sovereign state)
  - ISO 3166-1 assignment status (`status`)
- - ISO 4217 currency code(s) (`currency`)
+ - `currencies` - list of all currencies
+ 	- key: ISO 4217 currency code
+ 	- value: currency object
+ 		- key: `name` name of the currency
+ 		- key: `symbol` symbol of the currency
  - International Direct Dialing info (`idd`)
  	- `root` - the root geographical code prefix. e.g. +6 for New Zealand, +4 for UK.
  	- `suffixes` - list of all suffixes assigned to this country. 4 for NZ, 809, 829, and 849 for Dominican Republic.
