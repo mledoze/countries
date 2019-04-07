@@ -24,7 +24,7 @@ class FactoryTest extends TestCase
     /**
      * @inheritDoc
      */
-    protected function setUp()
+    protected function setUp(): void
     {
         parent::setUp();
 
@@ -42,11 +42,9 @@ class FactoryTest extends TestCase
         $this->assertInstanceOf($expectedConverterClass, $converter);
     }
 
-    /**
-     * @expectedException \InvalidArgumentException
-     */
     public function testCreateThrowsInvalidArgumentExceptionWhenFormatIsInvalid(): void
     {
+        $this->expectException(\InvalidArgumentException::class);
         $this->_factory->create('invalid_format');
     }
 
