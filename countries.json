@@ -7307,12 +7307,12 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "CUP": {
-                "name": "Cuban peso",
-                "symbol": "$"
-            },
             "CUC": {
                 "name": "Cuban convertible peso",
+                "symbol": "$"
+            },
+            "CUP": {
+                "name": "Cuban peso",
                 "symbol": "$"
             }
         },
@@ -10392,12 +10392,12 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "DKK": {
-                "name": "Danish krone",
-                "symbol": "kr"
-            },
             "": {
                 "name": "Faroese kr\u00f3na",
+                "symbol": "kr"
+            },
+            "DKK": {
+                "name": "Danish krone",
                 "symbol": "kr"
             }
         },
@@ -11035,12 +11035,12 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "GGP[G]": {
-                "name": "Guernsey pound",
-                "symbol": "\u00a3"
-            },
             "GBP": {
                 "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "GGP[G]": {
+                "name": "Guernsey pound",
                 "symbol": "\u00a3"
             }
         },
@@ -13882,12 +13882,12 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "IMP[G]": {
-                "name": "Manx pound",
-                "symbol": "\u00a3"
-            },
             "GBP": {
                 "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "IMP[G]": {
+                "name": "Manx pound",
                 "symbol": "\u00a3"
             }
         },
@@ -15224,12 +15224,12 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "JEP[G]": {
-                "name": "Jersey pound",
-                "symbol": "\u00a3"
-            },
             "GBP": {
                 "name": "British pound",
+                "symbol": "\u00a3"
+            },
+            "JEP[G]": {
+                "name": "Jersey pound",
                 "symbol": "\u00a3"
             }
         },
@@ -16170,12 +16170,12 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "KID[G]": {
-                "name": "Kiribati dollar",
-                "symbol": "$"
-            },
             "AUD": {
                 "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "KID[G]": {
+                "name": "Kiribati dollar",
                 "symbol": "$"
             }
         },
@@ -22198,12 +22198,12 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "NZD": {
-                "name": "New Zealand dollar",
-                "symbol": "$"
-            },
             "": {
                 "name": "Niue dollar",
+                "symbol": "$"
+            },
+            "NZD": {
+                "name": "New Zealand dollar",
                 "symbol": "$"
             }
         },
@@ -22597,13 +22597,13 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "NPR": {
-                "name": "Nepalese rupee",
-                "symbol": "\u20a8"
-            },
             "INR": {
                 "name": "Indian rupee",
                 "symbol": "\u20b9"
+            },
+            "NPR": {
+                "name": "Nepalese rupee",
+                "symbol": "\u20a8"
             }
         },
         "idd": {
@@ -22733,12 +22733,12 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "AUD": {
-                "name": "Australian dollar",
-                "symbol": "$"
-            },
             "": {
                 "name": "Nauruan dollar",
+                "symbol": "$"
+            },
+            "AUD": {
+                "name": "Australian dollar",
                 "symbol": "$"
             }
         },
@@ -23396,12 +23396,12 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "NZD": {
-                "name": "New Zealand dollar",
-                "symbol": "$"
-            },
             "": {
                 "name": "Pitcairn Islands dollar",
+                "symbol": "$"
+            },
+            "NZD": {
+                "name": "New Zealand dollar",
                 "symbol": "$"
             }
         },
@@ -30268,12 +30268,12 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "TVD[G]": {
-                "name": "Tuvaluan dollar",
-                "symbol": "$"
-            },
             "AUD": {
                 "name": "Australian dollar",
+                "symbol": "$"
+            },
+            "TVD[G]": {
+                "name": "Tuvaluan dollar",
                 "symbol": "$"
             }
         },
@@ -30799,13 +30799,13 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "UAH": {
-                "name": "Ukrainian hryvnia",
-                "symbol": "\u20b4"
-            },
             "RUB": {
                 "name": "Russian ruble",
                 "symbol": "\u20bd"
+            },
+            "UAH": {
+                "name": "Ukrainian hryvnia",
+                "symbol": "\u20b4"
             }
         },
         "idd": {
@@ -33433,10 +33433,6 @@
                 "name": "Botswana pula",
                 "symbol": "P"
             },
-            "GBP": {
-                "name": "British pound",
-                "symbol": "\u00a3"
-            },
             "CNY": {
                 "name": "Chinese yuan",
                 "symbol": "\u00a5"
@@ -33444,6 +33440,10 @@
             "EUR": {
                 "name": "Euro",
                 "symbol": "\u20ac"
+            },
+            "GBP": {
+                "name": "British pound",
+                "symbol": "\u00a3"
             },
             "INR": {
                 "name": "Indian rupee",
@@ -33453,13 +33453,13 @@
                 "name": "Japanese yen",
                 "symbol": "\u00a5"
             },
-            "ZAR": {
-                "name": "South African rand",
-                "symbol": "Rs"
-            },
             "USD": {
                 "name": "United States dollar",
                 "symbol": "$"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "Rs"
             },
             "ZWB[G]": {
                 "name": "Zimbabwean bonds",
