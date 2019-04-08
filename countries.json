@@ -6493,7 +6493,7 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "": {
+            "CKD": {
                 "name": "Cook Islands dollar",
                 "symbol": "$"
             },
@@ -10168,12 +10168,12 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "": {
-                "name": "Faroese kr\u00f3na",
-                "symbol": "kr"
-            },
             "DKK": {
                 "name": "Danish krone",
+                "symbol": "kr"
+            },
+            "FOK": {
+                "name": "Faroese kr\u00f3na",
                 "symbol": "kr"
             }
         },
@@ -21958,10 +21958,6 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "": {
-                "name": "Niue dollar",
-                "symbol": "$"
-            },
             "NZD": {
                 "name": "New Zealand dollar",
                 "symbol": "$"
@@ -22493,10 +22489,6 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "": {
-                "name": "Nauruan dollar",
-                "symbol": "$"
-            },
             "AUD": {
                 "name": "Australian dollar",
                 "symbol": "$"
@@ -23156,10 +23148,6 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "": {
-                "name": "Pitcairn Islands dollar",
-                "symbol": "$"
-            },
             "NZD": {
                 "name": "New Zealand dollar",
                 "symbol": "$"
@@ -23560,10 +23548,6 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "": {
-                "name": "Palauan dollar",
-                "symbol": "$"
-            },
             "USD": {
                 "name": "United States dollar",
                 "symbol": "$"
@@ -31906,10 +31890,6 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
-            "": {
-                "name": "British Virgin Islands dollar",
-                "symbol": "$"
-            },
             "USD": {
                 "name": "United States dollar",
                 "symbol": "$"
