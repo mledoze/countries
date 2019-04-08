@@ -13886,7 +13886,7 @@
                 "name": "British pound",
                 "symbol": "\u00a3"
             },
-            "IMP[G]": {
+            "IMP": {
                 "name": "Manx pound",
                 "symbol": "\u00a3"
             }
@@ -15228,7 +15228,7 @@
                 "name": "British pound",
                 "symbol": "\u00a3"
             },
-            "JEP[G]": {
+            "JEP": {
                 "name": "Jersey pound",
                 "symbol": "\u00a3"
             }
@@ -16174,7 +16174,7 @@
                 "name": "Australian dollar",
                 "symbol": "$"
             },
-            "KID[G]": {
+            "KID": {
                 "name": "Kiribati dollar",
                 "symbol": "$"
             }
@@ -30272,7 +30272,7 @@
                 "name": "Australian dollar",
                 "symbol": "$"
             },
-            "TVD[G]": {
+            "TVD": {
                 "name": "Tuvaluan dollar",
                 "symbol": "$"
             }
@@ -33461,7 +33461,7 @@
                 "name": "South African rand",
                 "symbol": "Rs"
             },
-            "ZWB[G]": {
+            "ZWB": {
                 "name": "Zimbabwean bonds",
                 "symbol": "$"
             }
