@@ -186,10 +186,6 @@
                 "official": "Afgh\u00e1nsk\u00e1 isl\u00e1msk\u00e1 republika",
                 "common": "Afgh\u00e1nist\u00e1n"
             },
-            "cym": {
-                "official": "Gweriniaeth Islamaidd Affganistan",
-                "common": "Affganistan"
-            },
             "deu": {
                 "official": "Islamische Republik Afghanistan",
                 "common": "Afghanistan"
@@ -320,10 +316,6 @@
         "translations": {
             "ces": {
                 "official": "Angolsk\u00e1 republika",
-                "common": "Angola"
-            },
-            "cym": {
-                "official": "Gweriniaeth Angola",
                 "common": "Angola"
             },
             "deu": {
@@ -706,10 +698,6 @@
                 "official": "Alb\u00e1nsk\u00e1 republika",
                 "common": "Alb\u00e1nie"
             },
-            "cym": {
-                "official": "Gweriniaeth Albania",
-                "common": "Albania"
-            },
             "deu": {
                 "official": "Republik Albanien",
                 "common": "Albanien"
@@ -838,10 +826,6 @@
         "translations": {
             "ces": {
                 "official": "Andorrsk\u00e9 kn\u00ed\u017eectv\u00ed",
-                "common": "Andorra"
-            },
-            "cym": {
-                "official": "Tywysogaeth Andorra",
                 "common": "Andorra"
             },
             "deu": {
@@ -1106,10 +1090,6 @@
                 "official": "Argentinsk\u00e1 republika",
                 "common": "Argentina"
             },
-            "cym": {
-                "official": "Gweriniaeth yr Ariannin",
-                "common": "Ariannin"
-            },
             "deu": {
                 "official": "Argentinische Republik",
                 "common": "Argentinien"
@@ -1241,10 +1221,6 @@
             "ces": {
                 "official": "Arm\u00e9nsk\u00e1 republika",
                 "common": "Arm\u00e9nie"
-            },
-            "cym": {
-                "official": "Gweriniaeth Armenia",
-                "common": "Armenia"
             },
             "deu": {
                 "official": "Republik Armenien",
@@ -1490,10 +1466,6 @@
             "ces": {
                 "official": "Antarktida",
                 "common": "Antarktida"
-            },
-            "cym": {
-                "official": "Yr Antarctig",
-                "common": "Yr Antarctig"
             },
             "deu": {
                 "official": "Antarktika",
@@ -1742,10 +1714,6 @@
                 "official": "Antigua a Barbuda",
                 "common": "Antigua a Barbuda"
             },
-            "cym": {
-                "official": "Antigwa a Barbiwda",
-                "common": "Antigwa a Barbiwda"
-            },
             "deu": {
                 "official": "Antigua und Barbuda",
                 "common": "Antigua und Barbuda"
@@ -1868,10 +1836,6 @@
             "ces": {
                 "official": "Australsk\u00e9 spole\u010denstv\u00ed",
                 "common": "Austr\u00e1lie"
-            },
-            "cym": {
-                "official": "Cymanwlad Awstralia",
-                "common": "Awstralia"
             },
             "deu": {
                 "official": "Commonwealth Australien",
@@ -1997,10 +1961,6 @@
             "ces": {
                 "official": "Rakousk\u00e1 republika",
                 "common": "Rakousko"
-            },
-            "cym": {
-                "official": "Gweriniaeth Awstria",
-                "common": "Awstria"
             },
             "deu": {
                 "official": "Republik \u00d6sterreich",
@@ -2141,10 +2101,6 @@
                 "official": "\u00c1zerb\u00e1jd\u017e\u00e1nsk\u00e1 republika",
                 "common": "\u00c1zerb\u00e1jd\u017e\u00e1n"
             },
-            "cym": {
-                "official": "Gweriniaeth Aserbaijan",
-                "common": "Aserbaijan"
-            },
             "deu": {
                 "official": "Republik Aserbaidschan",
                 "common": "Aserbaidschan"
@@ -2281,10 +2237,6 @@
             "ces": {
                 "official": "Burundsk\u00e1 republika",
                 "common": "Burundi"
-            },
-            "cym": {
-                "official": "Gweriniaeth Bwrwndi",
-                "common": "Bwrwndi"
             },
             "deu": {
                 "official": "Republik Burundi",
@@ -2431,10 +2383,6 @@
                 "official": "Belgick\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Belgie"
             },
-            "cym": {
-                "official": "Teyrnas Gwlad Belg",
-                "common": "Gwlad Belg"
-            },
             "deu": {
                 "official": "K\u00f6nigreich Belgien",
                 "common": "Belgien"
@@ -2565,10 +2513,6 @@
                 "official": "Beninsk\u00e1 republika",
                 "common": "Benin"
             },
-            "cym": {
-                "official": "Gweriniaeth Benin",
-                "common": "Benin"
-            },
             "deu": {
                 "official": "Republik Benin",
                 "common": "Benin"
@@ -2696,10 +2640,6 @@
             "ces": {
                 "official": "Burkina Faso",
                 "common": "Burkina Faso"
-            },
-            "cym": {
-                "official": "Bwrcina Ffaso",
-                "common": "Bwrcina Ffaso"
             },
             "deu": {
                 "official": "Burkina Faso",
@@ -2833,10 +2773,6 @@
                 "official": "Banglad\u00e9\u0161sk\u00e1 lidov\u00e1 republika",
                 "common": "Banglad\u00e9\u0161"
             },
-            "cym": {
-                "official": "Gweriniaeth Pobl Bangladesh",
-                "common": "Bangladesh"
-            },
             "deu": {
                 "official": "Volksrepublik Bangladesch",
                 "common": "Bangladesch"
@@ -2964,10 +2900,6 @@
             "ces": {
                 "official": "Bulharsk\u00e1 republika",
                 "common": "Bulharsko"
-            },
-            "cym": {
-                "official": "Gweriniaeth Bwlgaria",
-                "common": "Bwlgaria"
             },
             "deu": {
                 "official": "Republik Bulgarien",
@@ -3100,10 +3032,6 @@
                 "official": "Kr\u00e1lovstv\u00ed Bahrajn",
                 "common": "Bahrajn"
             },
-            "cym": {
-                "official": "Teyrnas Bahrein",
-                "common": "Bahrain"
-            },
             "deu": {
                 "official": "K\u00f6nigreich Bahrain",
                 "common": "Bahrain"
@@ -3231,10 +3159,6 @@
             "ces": {
                 "official": "Bahamsk\u00e9 spole\u010denstv\u00ed",
                 "common": "Bahamy"
-            },
-            "cym": {
-                "official": "Cymanwlad y Bahamas",
-                "common": "Bahamas"
             },
             "deu": {
                 "official": "Commonwealth der Bahamas",
@@ -3370,10 +3294,6 @@
             "ces": {
                 "official": "Bosna a Hercegovina",
                 "common": "Bosna a Hercegovina"
-            },
-            "cym": {
-                "official": "Bosnia a Hercegovina",
-                "common": "Bosnia a Hercegovina"
             },
             "deu": {
                 "official": "Bosnien und Herzegowina",
@@ -3763,10 +3683,6 @@
                 "official": "B\u011blorusk\u00e1 republika",
                 "common": "B\u011blorusko"
             },
-            "cym": {
-                "official": "Gweriniaeth Belarws",
-                "common": "Belarws"
-            },
             "deu": {
                 "official": "Republik Belarus",
                 "common": "Wei\u00dfrussland"
@@ -3906,10 +3822,6 @@
                 "official": "Belize",
                 "common": "Belize"
             },
-            "cym": {
-                "official": "Bel\u00ees",
-                "common": "Bel\u00ees"
-            },
             "deu": {
                 "official": "Belize",
                 "common": "Belize"
@@ -4038,10 +3950,6 @@
             "ces": {
                 "official": "Bermudsk\u00e9 ostrovy",
                 "common": "Bermudy"
-            },
-            "cym": {
-                "official": "Bermiwda",
-                "common": "Bermiwda"
             },
             "deu": {
                 "official": "Bermuda",
@@ -4188,10 +4096,6 @@
             "ces": {
                 "official": "Mnohon\u00e1rodnostn\u00ed st\u00e1t Bol\u00edvie",
                 "common": "Bol\u00edvie"
-            },
-            "cym": {
-                "official": "Gweriniaeth Bolifia",
-                "common": "Bolifia"
             },
             "deu": {
                 "official": "Plurinationaler Staat Bolivien",
@@ -4453,10 +4357,6 @@
                 "official": "Brazilsk\u00e1 federativn\u00ed republika",
                 "common": "Braz\u00edlie"
             },
-            "cym": {
-                "official": "Gweriniaeth Ffederal Brasil",
-                "common": "Brasil"
-            },
             "deu": {
                 "official": "F\u00f6derative Republik Brasilien",
                 "common": "Brasilien"
@@ -4591,10 +4491,6 @@
                 "official": "Barbados",
                 "common": "Barbados"
             },
-            "cym": {
-                "official": "Barbados",
-                "common": "Barbados"
-            },
             "deu": {
                 "official": "Barbados",
                 "common": "Barbados"
@@ -4725,10 +4621,6 @@
                 "official": "Sultan\u00e1t Brunej",
                 "common": "Brunej"
             },
-            "cym": {
-                "official": "Teyrnas Brwnei",
-                "common": "Brunei"
-            },
             "deu": {
                 "official": "Sultanat Brunei Darussalam",
                 "common": "Brunei"
@@ -4858,10 +4750,6 @@
             "ces": {
                 "official": "Bh\u00fat\u00e1nsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Bh\u00fat\u00e1n"
-            },
-            "cym": {
-                "official": "Teyrnas Bhwtan",
-                "common": "Bhwtan"
             },
             "deu": {
                 "official": "K\u00f6nigreich Bhutan",
@@ -5251,10 +5139,6 @@
                 "official": "St\u0159edoafrick\u00e1 republika",
                 "common": "St\u0159edoafrick\u00e1 republika"
             },
-            "cym": {
-                "official": "Gweriniaeth Canolbarth Affrica",
-                "common": "Gweriniaeth Canolbarth Affrica"
-            },
             "deu": {
                 "official": "Zentralafrikanische Republik",
                 "common": "Zentralafrikanische Republik"
@@ -5390,10 +5274,6 @@
                 "official": "Kanada",
                 "common": "Kanada"
             },
-            "cym": {
-                "official": "Canada",
-                "common": "Canada"
-            },
             "deu": {
                 "official": "Kanada",
                 "common": "Kanada"
@@ -5520,10 +5400,6 @@
             "ces": {
                 "official": "Kokosov\u00e9 ostrovy",
                 "common": "Kokosov\u00e9 ostrovy"
-            },
-            "cym": {
-                "official": "Tiriogaeth yr Ynysoedd Cocos (Keeling)",
-                "common": "Ynysoedd Cocos"
             },
             "deu": {
                 "official": "Gebiet der Kokos- (Keeling-) Inseln",
@@ -5799,10 +5675,6 @@
                 "official": "Chilsk\u00e1 republika",
                 "common": "Chile"
             },
-            "cym": {
-                "official": "Gweriniaeth Chile",
-                "common": "Chile"
-            },
             "deu": {
                 "official": "Republik Chile",
                 "common": "Chile"
@@ -5939,10 +5811,6 @@
             "ces": {
                 "official": "\u010c\u00ednsk\u00e1 lidov\u00e1 republika",
                 "common": "\u010c\u00edna"
-            },
-            "cym": {
-                "official": "Gweriniaeth Pobl Tsieina",
-                "common": "Tsieina"
             },
             "deu": {
                 "official": "Volksrepublik China",
@@ -6220,10 +6088,6 @@
                 "official": "Kamerunsk\u00e1 republika",
                 "common": "Kamerun"
             },
-            "cym": {
-                "official": "Gweriniaeth Camer\u0175n",
-                "common": "Camer\u0175n"
-            },
             "deu": {
                 "official": "Republik Kamerun",
                 "common": "Kamerun"
@@ -6378,10 +6242,6 @@
                 "official": "Demokratick\u00e1 republika Kongo",
                 "common": "DR Kongo"
             },
-            "cym": {
-                "official": "Gweriniaeth Ddemocrataidd Congo",
-                "common": "Gweriniaeth Ddemocrataidd Congo"
-            },
             "deu": {
                 "official": "Demokratische Republik Kongo",
                 "common": "Kongo (Dem. Rep.)"
@@ -6527,10 +6387,6 @@
                 "official": "Kon\u017esk\u00e1 republika",
                 "common": "Kongo"
             },
-            "cym": {
-                "official": "Gweriniaeth y Congo",
-                "common": "Gweriniaeth y Congo"
-            },
             "deu": {
                 "official": "Republik Kongo",
                 "common": "Kongo"
@@ -6670,10 +6526,6 @@
                 "official": "Cookovy ostrovy",
                 "common": "Cookovy ostrovy"
             },
-            "cym": {
-                "official": "Ynysoedd Cook",
-                "common": "Ynysoedd Cook"
-            },
             "deu": {
                 "official": "Cookinseln",
                 "common": "Cookinseln"
@@ -6798,10 +6650,6 @@
             "ces": {
                 "official": "Kolumbijsk\u00e1 republika",
                 "common": "Kolumbie"
-            },
-            "cym": {
-                "official": "Gweriniaeth Colombia",
-                "common": "Colombia"
             },
             "deu": {
                 "official": "Republik Kolumbien",
@@ -6946,10 +6794,6 @@
                 "official": "Komorsk\u00fd svaz",
                 "common": "Komory"
             },
-            "cym": {
-                "official": "Undeb y Comoros",
-                "common": "Y Comoros"
-            },
             "deu": {
                 "official": "Union der Komoren",
                 "common": "Komoren"
@@ -7075,10 +6919,6 @@
                 "official": "Kapverdsk\u00e1 republika",
                 "common": "Kapverdy"
             },
-            "cym": {
-                "official": "Gweriniaeth Cabo Verde",
-                "common": "Penrhyn Verde"
-            },
             "deu": {
                 "official": "Republik Cabo Verde",
                 "common": "Kap Verde"
@@ -7203,10 +7043,6 @@
             "ces": {
                 "official": "Kostarick\u00e1 republika",
                 "common": "Kostarika"
-            },
-            "cym": {
-                "official": "Gweriniaeth Costa Rica",
-                "common": "Costa Rica"
             },
             "deu": {
                 "official": "Republik Costa Rica",
@@ -7339,10 +7175,6 @@
             "ces": {
                 "official": "Kub\u00e1nsk\u00e1 republika",
                 "common": "Kuba"
-            },
-            "cym": {
-                "official": "Gweriniaeth Ciwba",
-                "common": "Ciwba"
             },
             "deu": {
                 "official": "Republik Kuba",
@@ -7598,10 +7430,6 @@
                 "official": "Teritorium V\u00e1no\u010dn\u00edho ostrova",
                 "common": "V\u00e1no\u010dn\u00ed ostrov"
             },
-            "cym": {
-                "official": "Tiriogaeth yr Ynys y Nadolig",
-                "common": "Ynys y Nadolig"
-            },
             "deu": {
                 "official": "Gebiet der Weihnachtsinsel",
                 "common": "Weihnachtsinsel"
@@ -7724,10 +7552,6 @@
             "ces": {
                 "official": "Kajmansk\u00e9 ostrovy",
                 "common": "Kajmansk\u00e9 ostrovy"
-            },
-            "cym": {
-                "official": "Ynysoedd Cayman",
-                "common": "Ynysoedd Cayman"
             },
             "deu": {
                 "official": "Cayman-Inseln",
@@ -7862,10 +7686,6 @@
                 "official": "Kypersk\u00e1 republika",
                 "common": "Kypr"
             },
-            "cym": {
-                "official": "Gweriniaeth Cyprus",
-                "common": "Cyprus"
-            },
             "deu": {
                 "official": "Republik Zypern",
                 "common": "Zypern"
@@ -7995,10 +7815,6 @@
             "ces": {
                 "official": "\u010cesk\u00e1 republika",
                 "common": "\u010cesko"
-            },
-            "cym": {
-                "official": "Y Weriniaeth Tsiec",
-                "common": "Y Weriniaeth Tsiec"
             },
             "deu": {
                 "official": "Tschechische Republik",
@@ -8274,10 +8090,6 @@
                 "official": "D\u017eibutsk\u00e1 republika",
                 "common": "D\u017eibutsko"
             },
-            "cym": {
-                "official": "Gweriniaeth Jibwti",
-                "common": "Jibwti"
-            },
             "deu": {
                 "official": "Republik Dschibuti",
                 "common": "Dschibuti"
@@ -8408,10 +8220,6 @@
                 "official": "Dominik\u00e1nsk\u00e9 spole\u010denstv\u00ed",
                 "common": "Dominika"
             },
-            "cym": {
-                "official": "Cymanwlad Dominica",
-                "common": "Dominica"
-            },
             "deu": {
                 "official": "Commonwealth von Dominica",
                 "common": "Dominica"
@@ -8537,10 +8345,6 @@
             "ces": {
                 "official": "D\u00e1nsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "D\u00e1nsko"
-            },
-            "cym": {
-                "official": "Teyrnas Denmarc",
-                "common": "Denmarc"
             },
             "deu": {
                 "official": "K\u00f6nigreich D\u00e4nemark",
@@ -8669,10 +8473,6 @@
                 "official": "Dominik\u00e1nsk\u00e1 republika",
                 "common": "Dominik\u00e1nsk\u00e1 republika"
             },
-            "cym": {
-                "official": "Gweriniaeth Dominica",
-                "common": "Gweriniaeth Dominica"
-            },
             "deu": {
                 "official": "Dominikanische Republik",
                 "common": "Dominikanische Republik"
@@ -8800,10 +8600,6 @@
             "ces": {
                 "official": "Al\u017e\u00edrsk\u00e1 demokratick\u00e1 a lidov\u00e1 republika",
                 "common": "Al\u017e\u00edrsko"
-            },
-            "cym": {
-                "official": "Gweriniaeth Ddemocrataidd Pobl Algeria",
-                "common": "Algeria"
             },
             "deu": {
                 "official": "Demokratische Volksrepublik Algerien",
@@ -8938,10 +8734,6 @@
                 "official": "Ekv\u00e1dorsk\u00e1 republika",
                 "common": "Ekv\u00e1dor"
             },
-            "cym": {
-                "official": "Gweriniaeth Ecwador",
-                "common": "Ecwador"
-            },
             "deu": {
                 "official": "Republik Ecuador",
                 "common": "Ecuador"
@@ -9069,10 +8861,6 @@
             "ces": {
                 "official": "Egyptsk\u00e1 arabsk\u00e1 republika",
                 "common": "Egypt"
-            },
-            "cym": {
-                "official": "Gweriniaeth Arabaidd yr Aifft",
-                "common": "Yr Aifft"
             },
             "deu": {
                 "official": "Arabische Republik \u00c4gypten",
@@ -9215,10 +9003,6 @@
         "translations": {
             "ces": {
                 "official": "St\u00e1t Eritrea",
-                "common": "Eritrea"
-            },
-            "cym": {
-                "official": "Gwladwriaeth Eritrea",
                 "common": "Eritrea"
             },
             "deu": {
@@ -9616,10 +9400,6 @@
                 "official": "Estonsk\u00e1 republika",
                 "common": "Estonsko"
             },
-            "cym": {
-                "official": "Gweriniaeth Estonia",
-                "common": "Estonia"
-            },
             "deu": {
                 "official": "Republik Estland",
                 "common": "Estland"
@@ -9748,10 +9528,6 @@
             "ces": {
                 "official": "Etiopsk\u00e1 federativn\u00ed demokratick\u00e1 republika",
                 "common": "Etiopie"
-            },
-            "cym": {
-                "official": "Gweriniaeth Ddemocrataidd Ffederal Ethiopia",
-                "common": "Ethiopia"
             },
             "deu": {
                 "official": "Demokratische Bundesrepublik \u00c4thiopien",
@@ -11974,10 +11750,6 @@
                 "official": "Republika Rovn\u00edkov\u00e1 Guinea",
                 "common": "Rovn\u00edkov\u00e1 Guinea"
             },
-            "cym": {
-                "official": "Gweriniaeth Gini Gyhydeddol",
-                "common": "Gini Gyhydeddol"
-            },
             "deu": {
                 "official": "Republik \u00c4quatorialguinea",
                 "common": "\u00c4quatorialguinea"
@@ -13379,10 +13151,6 @@
                 "official": "Chorvatsk\u00e1 republika",
                 "common": "Chorvatsko"
             },
-            "cym": {
-                "official": "Gweriniaeth Croatia",
-                "common": "Croatia"
-            },
             "deu": {
                 "official": "Republik Kroatien",
                 "common": "Kroatien"
@@ -14183,10 +13951,6 @@
             "ces": {
                 "official": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed",
                 "common": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed"
-            },
-            "cym": {
-                "official": "Tiriogaeth Brydeinig Cefnfor India",
-                "common": "Tiriogaeth Brydeinig Cefnfor India"
             },
             "deu": {
                 "official": "Britisches Territorium im Indischen Ozean",
@@ -16061,10 +15825,6 @@
             "ces": {
                 "official": "Kambod\u017esk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Kambod\u017ea"
-            },
-            "cym": {
-                "official": "Teyrnas Cambodia",
-                "common": "Cambodia"
             },
             "deu": {
                 "official": "K\u00f6nigreich Kambodscha",
@@ -26737,10 +26497,6 @@
                 "official": "Salvadorsk\u00e1 republika",
                 "common": "Salvador"
             },
-            "cym": {
-                "official": "Gweriniaeth El Salfador",
-                "common": "El Salfador"
-            },
             "deu": {
                 "official": "Republik El Salvador",
                 "common": "El Salvador"
@@ -28838,10 +28594,6 @@
             "ces": {
                 "official": "\u010cadsk\u00e1 republika",
                 "common": "\u010cad"
-            },
-            "cym": {
-                "official": "Gweriniaeth Tsiad",
-                "common": "Tsiad"
             },
             "deu": {
                 "official": "Republik Tschad",
