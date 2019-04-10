@@ -1453,9 +1453,7 @@
             "root": "",
             "suffixes": []
         },
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "altSpellings": [
             "AQ"
         ],
@@ -3266,7 +3264,7 @@
         "currencies": {
             "BAM": {
                 "name": "Bosnia and Herzegovina convertible mark",
-                "symbol": ""
+                "symbol": "KM"
             }
         },
         "idd": {
@@ -18052,9 +18050,7 @@
                 "53"
             ]
         },
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "altSpellings": [
             "MO",
             "\u6fb3\u95e8",
@@ -25572,7 +25568,7 @@
         "currencies": {
             "SDG": {
                 "name": "Sudanese pound",
-                "symbol": ""
+                "symbol": "SD"
             }
         },
         "idd": {
@@ -30714,9 +30710,7 @@
                 "68"
             ]
         },
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "altSpellings": [
             "UM"
         ],
