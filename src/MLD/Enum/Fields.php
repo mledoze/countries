@@ -18,7 +18,7 @@ class Fields
     public const CCA3 = 'cca3';
     public const CCN3 = 'ccn3';
     public const CIOC = 'cioc';
-    public const CURRENCY = 'currency';
+    public const CURRENCIES = 'currencies';
     public const DEMONYM = 'demonym';
     public const FLAG = 'flag';
     public const INDEPENDENT = 'independent';
