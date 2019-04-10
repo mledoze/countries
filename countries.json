@@ -2192,7 +2192,7 @@
                     "common": "Burundi"
                 },
                 "run": {
-                    "official": "Republika y'Uburundi ",
+                    "official": "Republika y'Uburundi",
                     "common": "Uburundi"
                 }
             }
@@ -7334,9 +7334,17 @@
                 "official": "Pays de Cura\u00e7ao",
                 "common": "Cura\u00e7ao"
             },
+            "hrv": {
+                "official": "Cura\u00e7ao",
+                "common": "Cura\u00e7ao"
+            },
             "ita": {
                 "official": "Paese di Cura\u00e7ao",
                 "common": "Cura\u00e7ao"
+            },
+            "jpn": {
+                "official": "\u30ad\u30e5\u30e9\u30bd\u30fc\u5cf6",
+                "common": "\u30ad\u30e5\u30e9\u30bd\u30fc\u5cf6"
             },
             "kor": {
                 "official": "\ud034\ub77c\uc18c",
@@ -9309,7 +9317,7 @@
                 "common": "Spanje"
             },
             "pol": {
-                "official": "Kr\u00f3lestwo Hiszpanii ",
+                "official": "Kr\u00f3lestwo Hiszpanii",
                 "common": "Hiszpania"
             },
             "por": {
@@ -16376,6 +16384,10 @@
             "ita": {
                 "official": "Repubblica del Kosovo",
                 "common": "Kosovo"
+            },
+            "jpn": {
+                "official": "\u30b3\u30bd\u30dc\u5171\u548c\u56fd",
+                "common": "\u30b3\u30bd\u30dc"
             },
             "kor": {
                 "official": "\ucf54\uc18c\ubcf4 \uacf5\ud654\uad6d",
@@ -24048,7 +24060,7 @@
                 "common": "Puerto Rico"
             },
             "urd": {
-                "official": " \u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648",
+                "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648",
                 "common": "\u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
             },
             "zho": {
@@ -26788,7 +26800,7 @@
                 "common": "\u30bd\u30de\u30ea\u30a2"
             },
             "kor": {
-                "official": " \uc18c\ub9d0\ub9ac\uc544 \uc5f0\ubc29 \uacf5\ud654\uad6d",
+                "official": "\uc18c\ub9d0\ub9ac\uc544 \uc5f0\ubc29 \uacf5\ud654\uad6d",
                 "common": "\uc18c\ub9d0\ub9ac\uc544"
             },
             "nld": {
@@ -32804,7 +32816,7 @@
                     "common": "Sewula Afrika"
                 },
                 "nso": {
-                    "official": "Rephaboliki ya Afrika-Borwa ",
+                    "official": "Rephaboliki ya Afrika-Borwa",
                     "common": "Afrika-Borwa"
                 },
                 "sot": {
