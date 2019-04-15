@@ -4,8 +4,10 @@ declare(strict_types=1);
 
 namespace MLD\Converter;
 
+use function is_array;
+
 /**
- * Class AbstractConverter
+ * Base class for converters
  * @package MLD\Converter
  */
 abstract class AbstractConverter implements ConverterInterface
@@ -21,10 +23,10 @@ abstract class AbstractConverter implements ConverterInterface
     {
         $result = [];
         foreach ($input as $key => $value) {
-            if (\is_array($value)) {
+            if (is_array($value)) {
                 // handle arrays with numeric keys
                 if (isset($value[0])) {
-                    $result[$key] = implode(',', $value);
+                    $result[$prefix . $key] = implode(',', $value);
                 } else {
                     $result += $this->flatten($value, $prefix . $key . $keySeparator);
                 }

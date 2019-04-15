@@ -34,8 +34,7 @@ class CsvConverter extends AbstractConverter
     private function buildHeadersLine(array $countries): string
     {
         // special case for currencies, use keys only
-        $firstEntry = $this->extractCurrencies($countries[0]);
-
+        $firstEntry = $this->extractCurrencyCodes($countries[0]);
         $flattenedFirstEntry = $this->flatten($firstEntry);
         return sprintf('"%s"', implode($this->glue, array_keys($flattenedFirstEntry)));
     }
@@ -48,7 +47,7 @@ class CsvConverter extends AbstractConverter
     {
         $lines = array_map(
             function ($country) {
-                $country = $this->extractCurrencies($country);
+                $country = $this->extractCurrencyCodes($country);
                 return sprintf('"%s"', implode($this->glue, $this->flatten($country)));
             },
             $countries
@@ -60,9 +59,11 @@ class CsvConverter extends AbstractConverter
      * @param array $country
      * @return array
      */
-    private function extractCurrencies(array $country): array
+    private function extractCurrencyCodes(array $country): array
     {
-        $country[Fields::CURRENCIES] = array_keys($country[Fields::CURRENCIES]);
+        if (isset($country[Fields::CURRENCIES])) {
+            $country[Fields::CURRENCIES] = array_keys($country[Fields::CURRENCIES]);
+        }
 
         return $country;
     }
