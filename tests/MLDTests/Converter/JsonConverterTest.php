@@ -93,4 +93,23 @@ JSON;
 
         $this->assertSame($expectedJson, $conversionResult);
     }
+
+    public function testConvertWithNoNativeNames(): void
+    {
+        $country = [
+            'name' => [
+                'common' => 'Paradise',
+                'native' => []
+            ],
+            'languages' => []
+        ];
+
+        $expectedJson = <<<JSON
+[{"name":{"common":"Paradise","native":{}},"languages":{}}]
+
+JSON;
+        $conversionResult = $this->converter->convert([$country]);
+
+        $this->assertSame($expectedJson, $conversionResult);
+    }
 }

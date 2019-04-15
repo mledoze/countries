@@ -24,7 +24,7 @@ class CsvConverterTest extends TestCase
         $this->_converter = new CsvConverter();
     }
 
-    public function testConvert(): void
+    public function testConvertReturnsCsvData(): void
     {
         $country = [
             'name' => [
@@ -51,6 +51,26 @@ class CsvConverterTest extends TestCase
         $expectedCsv = <<<CSV
 "name.common","name.official","name.native.nld.official","name.native.nld.common","name.native.pap.official","name.native.pap.common","tld","cca2","ccn3","cca3","cioc"
 "Aruba","Aruba","Aruba","Aruba","Aruba","Aruba",".aw","AW","533","ABW","ARU"
+
+CSV;
+
+        $conversionResult = $this->_converter->convert([$country]);
+
+        $this->assertSame($expectedCsv, $conversionResult);
+    }
+
+    public function testConvertExtractsCurrencyCodes(): void
+    {
+        $country = [
+            'currencies' => [
+                'FOO' => 'hello',
+                'BAR' => 'world'
+            ]
+        ];
+
+        $expectedCsv = <<<CSV
+"currencies"
+"FOO,BAR"
 
 CSV;
 
