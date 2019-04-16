@@ -19406,11 +19406,11 @@
     },
     {
         "name": {
-            "common": "Macedonia",
-            "official": "Republic of Macedonia",
+            "common": "North Macedonia",
+            "official": "Republic of North Macedonia",
             "native": {
                 "mkd": {
-                    "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+                    "official": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
                     "common": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
                 }
             }
@@ -19441,9 +19441,9 @@
         ],
         "altSpellings": [
             "MK",
-            "Macedonia, the Former Yugoslav Republic of",
-            "Republic of Macedonia",
-            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+            "The former Yugoslav Republic of Macedonia",
+            "Republic of North Macedonia",
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
         ],
         "region": "Europe",
         "subregion": "Southern Europe",
@@ -19452,20 +19452,20 @@
         },
         "translations": {
             "ces": {
-                "official": "Makedonsk\u00e1 republika",
-                "common": "Makedonie"
+                "official": "Republika Severn\u00ed Makedonie",
+                "common": "Severn\u00ed Makedonie"
             },
             "deu": {
-                "official": "Republik Mazedonien",
-                "common": "Mazedonien"
+                "official": "Republik Nordmazedonien",
+                "common": "Nordmazedonien"
             },
             "fra": {
-                "official": "R\u00e9publique de Mac\u00e9doine",
-                "common": "Mac\u00e9doine"
+                "official": "R\u00e9publique de Mac\u00e9doine du Nord",
+                "common": "Mac\u00e9doine du Nord"
             },
             "hrv": {
-                "official": "Republika Makedonija",
-                "common": "Makedonija"
+                "official": "Republika Sjeverna Makedonija",
+                "common": "Sjeverna Makedonija"
             },
             "ita": {
                 "official": "Repubblica di Macedonia",
