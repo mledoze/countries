@@ -40,82 +40,82 @@ agree as follows:
 
 ### 1.0 Definitions of Capitalised Words
 
-"Collective Database" â€“ Means this Database in unmodified form as part
+"Collective Database" – Means this Database in unmodified form as part
 of a collection of independent databases in themselves that together are
 assembled into a collective whole. A work that constitutes a Collective
 Database will not be considered a Derivative Database.
 
-"Convey" â€“ As a verb, means Using the Database, a Derivative Database,
+"Convey" – As a verb, means Using the Database, a Derivative Database,
 or the Database as part of a Collective Database in any way that enables
 a Person to make or receive copies of the Database or a Derivative
 Database.  Conveying does not include interaction with a user through a
 computer network, or creating and Using a Produced Work, where no
 transfer of a copy of the Database or a Derivative Database occurs.
-"Contents" â€“ The contents of this Database, which includes the
+"Contents" – The contents of this Database, which includes the
 information, independent works, or other material collected into the
 Database. For example, the contents of the Database could be factual
 data or works such as images, audiovisual material, text, or sounds.
 
-"Database" â€“ A collection of material (the Contents) arranged in a
+"Database" – A collection of material (the Contents) arranged in a
 systematic or methodical way and individually accessible by electronic
 or other means offered under the terms of this License.
 
-"Database Directive" â€“ Means Directive 96/9/EC of the European
+"Database Directive" – Means Directive 96/9/EC of the European
 Parliament and of the Council of 11 March 1996 on the legal protection
 of databases, as amended or succeeded.
 
-"Database Right" â€“ Means rights resulting from the Chapter III ("sui
+"Database Right" – Means rights resulting from the Chapter III ("sui
 generis") rights in the Database Directive (as amended and as transposed
 by member states), which includes the Extraction and Re-utilisation of
 the whole or a Substantial part of the Contents, as well as any similar
 rights available in the relevant jurisdiction under Section 10.4. 
 
-"Derivative Database" â€“ Means a database based upon the Database, and
+"Derivative Database" – Means a database based upon the Database, and
 includes any translation, adaptation, arrangement, modification, or any
 other alteration of the Database or of a Substantial part of the
 Contents. This includes, but is not limited to, Extracting or
 Re-utilising the whole or a Substantial part of the Contents in a new
 Database.
 
-"Extraction" â€“ Means the permanent or temporary transfer of all or a
+"Extraction" – Means the permanent or temporary transfer of all or a
 Substantial part of the Contents to another medium by any means or in
 any form.
 
-"License" â€“ Means this license agreement and is both a license of rights
+"License" – Means this license agreement and is both a license of rights
 such as copyright and Database Rights and an agreement in contract.
 
-"Licensor" â€“ Means the Person that offers the Database under the terms
+"Licensor" – Means the Person that offers the Database under the terms
 of this License. 
 
-"Person" â€“ Means a natural or legal person or a body of persons
+"Person" – Means a natural or legal person or a body of persons
 corporate or incorporate.
 
-"Produced Work" â€“  a work (such as an image, audiovisual material, text,
+"Produced Work" –  a work (such as an image, audiovisual material, text,
 or sounds) resulting from using the whole or a Substantial part of the
 Contents (via a search or other query) from this Database, a Derivative
 Database, or this Database as part of a Collective Database.  
 
-"Publicly" â€“ means to Persons other than You or under Your control by
+"Publicly" – means to Persons other than You or under Your control by
 either more than 50% ownership or by the power to direct their
 activities (such as contracting with an independent consultant). 
 
-"Re-utilisation" â€“ means any form of making available to the public all
+"Re-utilisation" – means any form of making available to the public all
 or a Substantial part of the Contents by the distribution of copies, by
 renting, by online or other forms of transmission.
 
-"Substantial" â€“ Means substantial in terms of quantity or quality or a
+"Substantial" – Means substantial in terms of quantity or quality or a
 combination of both. The repeated and systematic Extraction or
 Re-utilisation of insubstantial parts of the Contents may amount to the
 Extraction or Re-utilisation of a Substantial part of the Contents.
 
-"Use" â€“ As a verb, means doing any act that is restricted by copyright
+"Use" – As a verb, means doing any act that is restricted by copyright
 or Database Rights whether in the original medium or any other; and
 includes without limitation distributing, copying, publicly performing,
 publicly displaying, and preparing derivative works of the Database, as
 well as modifying the Database as may be technically necessary to use it
 in a different mode or format. 
 
-"You" â€“ Means a Person exercising rights under this License who has not
+"You" – Means a Person exercising rights under this License who has not
 previously violated the terms of this License with respect to the
 Database, or who has received express permission from the Licensor to
 exercise rights under this License despite a previous violation.
