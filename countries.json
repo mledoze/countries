@@ -3602,6 +3602,10 @@
         "independent": false,
         "status": "officially-assigned",
         "currencies": {
+            "GBP": {
+                "name": "Pound sterling",
+                "symbol": "\u00a3"
+            },
             "SHP": {
                 "name": "Saint Helena pound",
                 "symbol": "\u00a3"
@@ -9328,7 +9332,20 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
-        "currencies": [],
+        "currencies": {
+            "DZD": {
+                "name": "Algerian dinar",
+                "symbol": "\u062f\u062c"
+            },
+            "MAD": {
+                "name": "Moroccan dirham",
+                "symbol": "DH"
+            },
+            "MRU": {
+                "name": "Mauritanian ouguiya",
+                "symbol": "UM"
+            }
+        },
         "idd": {
             "root": "+2",
             "suffixes": [
@@ -19468,56 +19485,56 @@
                 "common": "Sjeverna Makedonija"
             },
             "ita": {
-                "official": "Repubblica di Macedonia",
-                "common": "Macedonia"
+                "official": "Repubblica di Macedonia del Nord",
+                "common": "Macedonia del Nord"
             },
             "jpn": {
-                "official": "\u30de\u30b1\u30c9\u30cb\u30a2\u5171\u548c\u56fd",
-                "common": "\u30de\u30b1\u30c9\u30cb\u30a2\u65e7\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2\u5171\u548c\u56fd"
+                "official": "\u5317\u30de\u30b1\u30c9\u30cb\u30a2\u5171\u548c\u56fd",
+                "common": "\u5317\u30de\u30b1\u30c9\u30cb\u30a2 "
             },
             "nld": {
-                "official": "Republic of Macedonia",
-                "common": "Macedoni\u00eb"
+                "official": "Republiek Noord-Macedoni\u00eb",
+                "common": "Noord-Macedoni\u00eb"
             },
             "por": {
-                "official": "Rep\u00fablica da Maced\u00f3nia",
-                "common": "Maced\u00f3nia"
+                "official": "Rep\u00fablica da Maced\u00f4nia do Norte",
+                "common": "Maced\u00f3nia do Norte"
             },
             "rus": {
-                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
-                "common": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f",
+                "common": "\u0421\u0435\u0432\u0435\u0440\u043d\u0430\u044f \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u044f"
             },
             "slk": {
-                "official": "Maced\u00f3nska republika",
-                "common": "Maced\u00f3nsko"
+                "official": "Severomaced\u00f3nska republika",
+                "common": "Severn\u00e9 Maced\u00f3nsko"
             },
             "spa": {
-                "official": "Rep\u00fablica de Macedonia",
-                "common": "Macedonia"
+                "official": "Rep\u00fablica de Macedonia del Norte",
+                "common": "Macedonia del Norte"
             },
             "fin": {
-                "official": "Makedonian tasavalta",
-                "common": "Makedonia"
+                "official": "Pohjois-Makedonian tasavalta",
+                "common": "Pohjois-Makedonia"
             },
             "est": {
-                "official": "Makedoonia Vabariik",
-                "common": "Makedoonia"
+                "official": "P\u00f5hja-Makedoonia Vabariik",
+                "common": "P\u00f5hja-Makedoonia"
             },
             "zho": {
-                "official": "\u9a6c\u5176\u987f\u5171\u548c\u56fd",
-                "common": "\u9a6c\u5176\u987f"
+                "official": "\u5317\u99ac\u5176\u9813\u5171\u548c\u570b",
+                "common": "\u5317\u99ac\u5176\u9813"
             },
             "pol": {
-                "official": "Republika Macedonii",
-                "common": "Macedonia"
+                "official": "Republika Macedonii P\u00f3\u0142nocnej",
+                "common": "Macedonia P\u00f3\u0142nocna"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1",
-                "common": "\u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
+                "common": "\u0634\u0645\u0627\u0644\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
             },
             "kor": {
-                "official": "\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d",
-                "common": "\ub9c8\ucf00\ub3c4\ub2c8\uc544"
+                "official": "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d",
+                "common": "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544"
             }
         },
         "latlng": [
@@ -22593,10 +22610,6 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "INR": {
-                "name": "Indian rupee",
-                "symbol": "\u20b9"
-            },
             "NPR": {
                 "name": "Nepalese rupee",
                 "symbol": "\u20a8"
@@ -26065,10 +26078,6 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "BND": {
-                "name": "Brunei dollar",
-                "symbol": "$"
-            },
             "SGD": {
                 "name": "Singapore dollar",
                 "symbol": "$"
@@ -30783,10 +30792,6 @@
         "independent": true,
         "status": "officially-assigned",
         "currencies": {
-            "RUB": {
-                "name": "Russian ruble",
-                "symbol": "\u20bd"
-            },
             "UAH": {
                 "name": "Ukrainian hryvnia",
                 "symbol": "\u20b4"
