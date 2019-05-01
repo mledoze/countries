@@ -50,6 +50,9 @@ class CsvConverter extends AbstractConverter
      */
     private function processCountry(&$array)
     {
+        if (isset($array['currencies'])) {
+            $array['currencies'] = array_keys($array['currencies']);
+        }
         $this->body .= '"' . implode($this->glue, $this->convertArrays($array)) . "\"\n";
     }
 }
