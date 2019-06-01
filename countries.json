@@ -115,6 +115,10 @@
             "kor": {
                 "official": "\uc544\ub8e8\ubc14",
                 "common": "\uc544\ub8e8\ubc14"
+            },
+            "per": {
+                "official": "\u0622\u0631\u0648\u0628\u0627",
+                "common": "\u0622\u0631\u0648\u0628\u0627"
             }
         },
         "latlng": [
@@ -253,6 +257,10 @@
             "kor": {
                 "official": "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d",
                 "common": "\uc544\ud504\uac00\ub2c8\uc2a4\ud0c4"
+            },
+            "per": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+                "common": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -389,6 +397,10 @@
             "kor": {
                 "official": "\uc559\uace8\ub77c \uacf5\ud654\uad6d",
                 "common": "\uc559\uace8\ub77c"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0646\u06af\u0648\u0644\u0627",
+              "common": "\u0622\u0646\u06af\u0648\u0644\u0627"
             }
         },
         "latlng": [
@@ -517,6 +529,10 @@
             "kor": {
                 "official": "\uc575\uadc8\ub77c",
                 "common": "\uc575\uadc8\ub77c"
+            },
+            "per": {
+              "official": "\u0622\u0646\u06af\u0648\u06cc\u0644\u0627",
+              "common": "\u0622\u0646\u06af\u0648\u06cc\u0644\u0627"
             }
         },
         "latlng": [
@@ -643,6 +659,10 @@
             "kor": {
                 "official": "\uc62c\ub780\ub4dc \uc81c\ub3c4",
                 "common": "\uc62c\ub780\ub4dc \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -773,6 +793,10 @@
             "kor": {
                 "official": "\uc54c\ubc14\ub2c8\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc54c\ubc14\ub2c8\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0644\u0628\u0627\u0646\u06cc",
+              "common": "\u0622\u0644\u0628\u0627\u0646\u06cc"
             }
         },
         "latlng": [
@@ -907,6 +931,10 @@
             "kor": {
                 "official": "\uc548\ub3c4\ub77c \uacf5\uad6d",
                 "common": "\uc548\ub3c4\ub77c"
+            },
+            "per": {
+              "official": "\u0634\u0627\u0647\u0632\u0627\u062f\u0647\u200c\u0646\u0634\u06cc\u0646 \u0622\u0646\u062f\u0648\u0631\u0627",
+              "common": "\u0622\u0646\u062f\u0648\u0631\u0627"
             }
         },
         "latlng": [
@@ -1036,6 +1064,10 @@
             "kor": {
                 "official": "\uc544\ub78d \ud1a0\ud6c4\uad6d \uc5f0\ubc29",
                 "common": "\uc544\ub78d\uc5d0\ubbf8\ub9ac\ud2b8"
+            },
+            "per": {
+              "official": "\u0627\u0645\u0627\u0631\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0639\u0631\u0628\u06cc",
+              "common": "\u0627\u0645\u0627\u0631\u0627\u062a"
             }
         },
         "latlng": [
@@ -1173,6 +1205,10 @@
             "kor": {
                 "official": "\uc544\ub974\ud5e8\ud2f0\ub098 \uacf5\ud654\uad6d",
                 "common": "\uc544\ub974\ud5e8\ud2f0\ub098"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646",
+              "common": "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
             }
         },
         "latlng": [
@@ -1309,6 +1345,10 @@
             "kor": {
                 "official": "\uc544\ub974\uba54\ub2c8\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc544\ub974\uba54\ub2c8\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646",
+              "common": "\u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -1445,6 +1485,10 @@
             "kor": {
                 "official": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544",
                 "common": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544"
+            },
+            "per": {
+              "official": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
+              "common": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -1558,6 +1602,10 @@
             "kor": {
                 "official": "\ub0a8\uadf9",
                 "common": "\ub0a8\uadf9"
+            },
+            "per": {
+              "official": "\u062c\u0646\u0648\u0628\u06af\u0627\u0646",
+              "common": "\u062c\u0646\u0648\u0628\u06af\u0627\u0646"
             }
         },
         "latlng": [
@@ -1682,6 +1730,10 @@
             "kor": {
                 "official": "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed",
                 "common": "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed"
+            },
+            "per": {
+              "official": "\u0633\u0631\u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u062c\u0646\u0648\u0628\u06af\u0627\u0646\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
+              "common": "\u0633\u0631\u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u062c\u0646\u0648\u0628\u06af\u0627\u0646\u06cc \u0641\u0631\u0627\u0646\u0633\u0647"
             }
         },
         "latlng": [
@@ -1809,6 +1861,10 @@
             "kor": {
                 "official": "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4",
                 "common": "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4"
+            },
+            "per": {
+              "official": "\u0622\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627",
+              "common": "\u0622\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
             }
         },
         "latlng": [
@@ -1936,6 +1992,10 @@
             "kor": {
                 "official": "\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544 \uc5f0\ubc29",
                 "common": "\ud638\uc8fc"
+            },
+            "per": {
+              "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627",
+              "common": "\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
             }
         },
         "latlng": [
@@ -2065,6 +2125,10 @@
             "kor": {
                 "official": "\uc624\uc2a4\ud2b8\ub9ac\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc624\uc2a4\ud2b8\ub9ac\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u062a\u0631\u06cc\u0634",
+              "common": "\u0627\u062a\u0631\u06cc\u0634"
             }
         },
         "latlng": [
@@ -2208,6 +2272,10 @@
             "kor": {
                 "official": "\uc544\uc81c\ub974\ubc14\uc774\uc794 \uacf5\ud654\uad6d",
                 "common": "\uc544\uc81c\ub974\ubc14\uc774\uc794"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646",
+              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646"
             }
         },
         "latlng": [
@@ -2349,6 +2417,10 @@
             "kor": {
                 "official": "\ubd80\ub8ec\ub514",
                 "common": "\ubd80\ub8ec\ub514"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0631\u0648\u0646\u062f\u06cc",
+              "common": "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
             }
         },
         "latlng": [
@@ -2498,6 +2570,10 @@
             "kor": {
                 "official": "\ubca8\uae30\uc5d0 \uc655\uad6d",
                 "common": "\ubca8\uae30\uc5d0"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u0644\u0698\u06cc\u06a9",
+              "common": "\u0628\u0644\u0698\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -2632,6 +2708,10 @@
             "kor": {
                 "official": "\ubca0\ub0c9 \uacf5\ud654\uad6d",
                 "common": "\ubca0\ub0c9"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0646\u06cc\u0646",
+              "common": "\u0628\u0646\u06cc\u0646"
             }
         },
         "latlng": [
@@ -2764,6 +2844,10 @@
             "kor": {
                 "official": "\ubd80\ub974\ud0a4\ub098\ud30c\uc18c",
                 "common": "\ubd80\ub974\ud0a4\ub098\ud30c\uc18c"
+            },
+            "per": {
+              "official": "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648",
+              "common": "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648"
             }
         },
         "latlng": [
@@ -2900,6 +2984,10 @@
             "kor": {
                 "official": "\ubc29\uae00\ub77c\ub370\uc2dc \uc778\ubbfc \uacf5\ud654\uad6d",
                 "common": "\ubc29\uae00\ub77c\ub370\uc2dc"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u0628\u0646\u06af\u0644\u0627\u062f\u0634",
+              "common": "\u0628\u0646\u06af\u0644\u0627\u062f\u0634"
             }
         },
         "latlng": [
@@ -3032,6 +3120,10 @@
             "kor": {
                 "official": "\ubd88\uac00\ub9ac\uc544 \uacf5\ud654\uad6d",
                 "common": "\ubd88\uac00\ub9ac\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646",
+              "common": "\u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -3167,6 +3259,10 @@
             "kor": {
                 "official": "\ubc14\ub808\uc778 \uc655\uad6d",
                 "common": "\ubc14\ub808\uc778"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u062d\u0631\u06cc\u0646",
+              "common": "\u0628\u062d\u0631\u06cc\u0646"
             }
         },
         "latlng": [
@@ -3299,6 +3395,10 @@
             "kor": {
                 "official": "\ubc14\ud558\ub9c8 \uc5f0\ubc29",
                 "common": "\ubc14\ud558\ub9c8"
+            },
+            "per": {
+              "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u0628\u0627\u0647\u0627\u0645\u0627",
+              "common": "\u0628\u0627\u0647\u0627\u0645\u0627"
             }
         },
         "latlng": [
@@ -3438,6 +3538,10 @@
             "kor": {
                 "official": "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098",
                 "common": "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
+            },
+            "per": {
+              "official": "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646",
+              "common": "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646"
             }
         },
         "latlng": [
@@ -3568,6 +3672,10 @@
             "kor": {
                 "official": "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8",
                 "common": "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"
+            },
+            "per": {
+              "official": "\u0633\u0646 \u0628\u0627\u0631\u062a\u0644\u0645\u06cc",
+              "common": "\u0633\u0646 \u0628\u0627\u0631\u062a\u0644\u0645\u06cc"
             }
         },
         "latlng": [
@@ -3698,6 +3806,10 @@
             "kor": {
                 "official": "\uc138\uc778\ud2b8\ud5ec\ub808\ub098",
                 "common": "\uc138\uc778\ud2b8\ud5ec\ub808\ub098"
+            },
+            "per": {
+              "official": "\u0633\u0646\u062a \u0647\u0644\u0646",
+              "common": "\u0633\u0646\u062a \u0647\u0644\u0646"
             }
         },
         "latlng": [
@@ -3834,6 +3946,10 @@
             "kor": {
                 "official": "\ubca8\ub77c\ub8e8\uc2a4 \uacf5\ud654\uad6d",
                 "common": "\ubca8\ub77c\ub8e8\uc2a4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0644\u0627\u0631\u0648\u0633",
+              "common": "\u0628\u0644\u0627\u0631\u0648\u0633"
             }
         },
         "latlng": [
@@ -3977,6 +4093,10 @@
             "kor": {
                 "official": "\ubca8\ub9ac\uc988",
                 "common": "\ubca8\ub9ac\uc988"
+            },
+            "per": {
+              "official": "\u0628\u0644\u06cc\u0632",
+              "common": "\u0628\u0644\u06cc\u0632"
             }
         },
         "latlng": [
@@ -4110,6 +4230,10 @@
             "kor": {
                 "official": "\ubc84\ubba4\ub2e4",
                 "common": "\ubc84\ubba4\ub2e4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0628\u0631\u0645\u0648\u062f\u0627",
+              "common": "\u0628\u0631\u0645\u0648\u062f\u0627"
             }
         },
         "latlng": [
@@ -4260,6 +4384,10 @@
             "kor": {
                 "official": "\ubcfc\ub9ac\ube44\uc544 \ub2e4\ubbfc\uc871\uad6d",
                 "common": "\ubcfc\ub9ac\ube44\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0644\u06cc\u0648\u06cc",
+              "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc"
             }
         },
         "latlng": [
@@ -4394,6 +4522,10 @@
             "kor": {
                 "official": "\ubcf4\ub124\ub974, \uc2e0\ud2b8\uc678\uc2a4\ud0c0\ud2f0\uc704\uc2a4, \uc0ac\ubc14",
                 "common": "\uce74\ub9ac\ube0c \ub124\ub35c\ub780\ub4dc"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0627\u0631\u0627\u0626\u06cc\u0628 \u0647\u0644\u0646\u062f",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0627\u0631\u0627\u0626\u06cc\u0628 \u0647\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -4524,6 +4656,10 @@
             "kor": {
                 "official": "\ube0c\ub77c\uc9c8 \uc5f0\ubc29 \uacf5\ud654\uad6d",
                 "common": "\ube0c\ub77c\uc9c8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u062a\u06cc\u0648 \u0628\u0631\u0632\u06cc\u0644",
+              "common": "\u0628\u0631\u0632\u06cc\u0644"
             }
         },
         "latlng": [
@@ -4662,6 +4798,10 @@
             "kor": {
                 "official": "\ubc14\ubca0\uc774\ub3c4\uc2a4",
                 "common": "\ubc14\ubca0\uc774\ub3c4\uc2a4"
+            },
+            "per": {
+              "official": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633",
+              "common": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
             }
         },
         "latlng": [
@@ -4796,6 +4936,10 @@
             "kor": {
                 "official": "\ube0c\ub8e8\ub098\uc774 \ub2e4\ub8e8\uc0b4\ub78c\uad6d",
                 "common": "\ube0c\ub8e8\ub098\uc774"
+            },
+            "per": {
+              "official": "\u0628\u0631\u0648\u0646\u0626\u06cc \u0633\u0631\u0627\u06cc \u0635\u0644\u062d",
+              "common": "\u0628\u0631\u0648\u0646\u0626\u06cc"
             }
         },
         "latlng": [
@@ -4930,6 +5074,10 @@
             "kor": {
                 "official": "\ubd80\ud0c4 \uc655\uad6d",
                 "common": "\ubd80\ud0c4"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u0648\u062a\u0627\u0646",
+              "common": "\u0628\u0648\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -5053,6 +5201,10 @@
             "kor": {
                 "official": "\ubd80\ubca0 \uc12c",
                 "common": "\ubd80\ubca0 \uc12c"
+            },
+            "per": {
+              "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0628\u0648\u0648\u0647",
+              "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0628\u0648\u0648\u0647"
             }
         },
         "latlng": [
@@ -5183,6 +5335,10 @@
             "kor": {
                 "official": "\ubcf4\uce20\uc640\ub098 \uacf5\ud654\uad6d",
                 "common": "\ubcf4\uce20\uc640\ub098"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627",
+              "common": "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
             }
         },
         "latlng": [
@@ -5322,6 +5478,10 @@
             "kor": {
                 "official": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d",
                 "common": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc",
+              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc"
             }
         },
         "latlng": [
@@ -5461,6 +5621,10 @@
             "kor": {
                 "official": "\uce90\ub098\ub2e4",
                 "common": "\uce90\ub098\ub2e4"
+            },
+            "per": {
+              "official": "\u06a9\u0627\u0646\u0627\u062f\u0627",
+              "common": "\u06a9\u0627\u0646\u0627\u062f\u0627"
             }
         },
         "latlng": [
@@ -5592,6 +5756,10 @@
             "kor": {
                 "official": "\ucf54\ucf54\uc2a4 \uc81c\ub3c4",
                 "common": "\ucf54\ucf54\uc2a4 \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633"
             }
         },
         "latlng": [
@@ -5735,6 +5903,10 @@
             "kor": {
                 "official": "\uc2a4\uc704\uc2a4 \uc5f0\ubc29",
                 "common": "\uc2a4\uc704\uc2a4"
+            },
+            "per": {
+              "official": "\u06a9\u0646\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0633\u0648\u0626\u06cc\u0633",
+              "common": "\u0633\u0648\u0626\u06cc\u0633"
             }
         },
         "latlng": [
@@ -5870,6 +6042,10 @@
             "kor": {
                 "official": "\uce60\ub808 \uacf5\ud654\uad6d",
                 "common": "\uce60\ub808"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0634\u06cc\u0644\u06cc",
+              "common": "\u0634\u06cc\u0644\u06cc"
             }
         },
         "latlng": [
@@ -6007,6 +6183,10 @@
             "kor": {
                 "official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d",
                 "common": "\uc911\uad6d"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u0686\u06cc\u0646",
+              "common": "\u0686\u06cc\u0646"
             }
         },
         "latlng": [
@@ -6151,6 +6331,10 @@
             "kor": {
                 "official": "\ucf54\ud2b8\ub514\ubd80\uc544\ub974 \uacf5\ud654\uad6d",
                 "common": "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0627\u062d\u0644 \u0639\u0627\u062c",
+              "common": "\u0633\u0627\u062d\u0644 \u0639\u0627\u062c"
             }
         },
         "latlng": [
@@ -6291,6 +6475,10 @@
             "kor": {
                 "official": "\uce74\uba54\ub8ec \uacf5\ud654\uad6d",
                 "common": "\uce74\uba54\ub8ec"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0627\u0645\u0650\u0631\u0648\u0646",
+              "common": "\u06a9\u0627\u0645\u0650\u0631\u0648\u0646"
             }
         },
         "latlng": [
@@ -6449,6 +6637,10 @@
             "kor": {
                 "official": "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d",
                 "common": "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u06a9\u0646\u06af\u0648",
+              "common": "\u06a9\u0646\u06af\u0648 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -6598,6 +6790,10 @@
             "kor": {
                 "official": "\ucf69\uace0",
                 "common": "\ucf69\uace0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0631\u0627\u0632\u0627\u0648\u06cc\u0644 \u06a9\u064f\u0646\u06af\u0648",
+              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u064f\u0646\u06af\u0648"
             }
         },
         "latlng": [
@@ -6741,6 +6937,10 @@
             "kor": {
                 "official": "\ucfe1 \uc81c\ub3c4",
                 "common": "\ucfe1 \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9"
             }
         },
         "latlng": [
@@ -6870,6 +7070,10 @@
             "kor": {
                 "official": "\ucf5c\ub86c\ube44\uc544 \uacf5\ud654\uad6d",
                 "common": "\ucf5c\ub86c\ube44\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0644\u0645\u0628\u06cc\u0627",
+              "common": "\u06a9\u0644\u0645\u0628\u06cc\u0627"
             }
         },
         "latlng": [
@@ -7017,6 +7221,10 @@
             "kor": {
                 "official": "\ucf54\ubaa8\ub85c \uc5f0\ubc29",
                 "common": "\ucf54\ubaa8\ub85c"
+            },
+            "per": {
+              "official": "\u0645\u062c\u0645\u0639\u200c\u0627\u0644\u062c\u0632\u0627\u06cc\u0631 \u0642\u0645\u0631",
+              "common": "\u0627\u062a\u062d\u0627\u062f \u0642\u064f\u0645\u064f\u0631"
             }
         },
         "latlng": [
@@ -7146,6 +7354,10 @@
             "kor": {
                 "official": "\uce74\ubcf4\ubca0\ub974\ub370 \uacf5\ud654\uad6d",
                 "common": "\uce74\ubcf4\ubca0\ub974\ub370"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0628\u0648 \u0648\u0631\u062f",
+              "common": "\u062f\u0645\u0627\u063a\u0647\u0654 \u0633\u0628\u0632"
             }
         },
         "latlng": [
@@ -7275,6 +7487,10 @@
             "kor": {
                 "official": "\ucf54\uc2a4\ud0c0\ub9ac\uce74 \uacf5\ud654\uad6d",
                 "common": "\ucf54\uc2a4\ud0c0\ub9ac\uce74"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627",
+              "common": "\u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -7411,6 +7627,10 @@
             "kor": {
                 "official": "\ucfe0\ubc14 \uacf5\ud654\uad6d",
                 "common": "\ucfe0\ubc14"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0648\u0628\u0627",
+              "common": "\u06a9\u0648\u0628\u0627"
             }
         },
         "latlng": [
@@ -7541,6 +7761,10 @@
             "kor": {
                 "official": "\ud034\ub77c\uc18c",
                 "common": "\ud034\ub77c\uc18c"
+            },
+            "per": {
+              "official": "\u06a9\u0648\u0631\u0627\u0633\u0627\u0626\u0648",
+              "common": "\u06a9\u0648\u0631\u0627\u0633\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -7669,6 +7893,10 @@
             "kor": {
                 "official": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c",
                 "common": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c"
+            },
+            "per": {
+              "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u06a9\u0631\u06cc\u0633\u0645\u0633",
+              "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u06a9\u0631\u06cc\u0633\u0645\u0633"
             }
         },
         "latlng": [
@@ -7796,6 +8024,10 @@
             "kor": {
                 "official": "\ucf00\uc774\ub9e8 \uc81c\ub3c4",
                 "common": "\ucf00\uc774\ub9e8 \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646"
             }
         },
         "latlng": [
@@ -7933,6 +8165,10 @@
             "kor": {
                 "official": "\ud0a4\ud504\ub85c\uc2a4 \uacf5\ud654\uad6d",
                 "common": "\ud0a4\ud504\ub85c\uc2a4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0628\u0631\u0633",
+              "common": "\u0642\u0650\u0628\u0631\u0650\u0633"
             }
         },
         "latlng": [
@@ -8067,6 +8303,10 @@
             "kor": {
                 "official": "\uccb4\ucf54",
                 "common": "\uccb4\ucf54"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9",
+              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9"
             }
         },
         "latlng": [
@@ -8197,6 +8437,10 @@
             "kor": {
                 "official": "\ub3c5\uc77c \uc5f0\ubc29 \uacf5\ud654\uad6d",
                 "common": "\ub3c5\uc77c"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0622\u0644\u0645\u0627\u0646",
+              "common": "\u0622\u0644\u0645\u0627\u0646"
             }
         },
         "latlng": [
@@ -8345,6 +8589,10 @@
             "kor": {
                 "official": "\uc9c0\ubd80\ud2f0 \uacf5\ud654\uad6d",
                 "common": "\uc9c0\ubd80\ud2f0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062c\u06cc\u0628\u0648\u062a\u06cc",
+              "common": "\u062c\u06cc\u0628\u0648\u062a\u06cc"
             }
         },
         "latlng": [
@@ -8479,6 +8727,10 @@
             "kor": {
                 "official": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d",
                 "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+            },
+            "per": {
+              "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
+              "common": "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -8609,6 +8861,10 @@
             "kor": {
                 "official": "\ub374\ub9c8\ud06c \uc655\uad6d",
                 "common": "\ub374\ub9c8\ud06c"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062f\u0627\u0646\u0645\u0627\u0631\u06a9",
+              "common": "\u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
             }
         },
         "latlng": [
@@ -8740,6 +8996,10 @@
             "kor": {
                 "official": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d",
                 "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646",
+              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
             }
         },
         "latlng": [
@@ -8872,6 +9132,10 @@
             "kor": {
                 "official": "\uc54c\uc81c\ub9ac \uc778\ubbfc \ubbfc\uc8fc \uacf5\ud654\uad6d",
                 "common": "\uc54c\uc81c\ub9ac"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062e\u0644\u0642 \u0627\u0644\u062c\u0632\u0627\u06cc\u0631",
+              "common": "\u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
             }
         },
         "latlng": [
@@ -9009,6 +9273,10 @@
             "kor": {
                 "official": "\uc5d0\ucf70\ub3c4\ub974 \uacf5\ud654\uad6d",
                 "common": "\uc5d0\ucf70\ub3c4\ub974"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06a9\u0648\u0627\u062f\u0648\u0631",
+              "common": "\u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
             }
         },
         "latlng": [
@@ -9141,6 +9409,10 @@
             "kor": {
                 "official": "\uc774\uc9d1\ud2b8 \uc544\ub78d \uacf5\ud654\uad6d",
                 "common": "\uc774\uc9d1\ud2b8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0639\u0631\u0628\u06cc \u0645\u0635\u0631",
+              "common": "\u0645\u0635\u0631"
             }
         },
         "latlng": [
@@ -9288,6 +9560,10 @@
             "kor": {
                 "official": "\uc5d0\ub9ac\ud2b8\ub808\uc544\uad6d",
                 "common": "\uc5d0\ub9ac\ud2b8\ub808\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u06cc\u062a\u0631\u0647",
+              "common": "\u0627\u0631\u06cc\u062a\u0631\u0647"
             }
         },
         "latlng": [
@@ -9435,6 +9711,10 @@
             "kor": {
                 "official": "\uc0ac\ud558\ub77c \uc544\ub78d \ubbfc\uc8fc \uacf5\ud654\uad6d",
                 "common": "\uc11c\uc0ac\ud558\ub77c"
+            },
+            "per": {
+              "official": "\u0635\u062d\u0631\u0627\u06cc \u063a\u0631\u0628\u06cc",
+              "common": "\u0635\u062d\u0631\u0627\u06cc \u063a\u0631\u0628\u06cc"
             }
         },
         "latlng": [
@@ -9564,6 +9844,10 @@
             "kor": {
                 "official": "\uc5d0\uc2a4\ud30c\ub0d0 \uc655\uad6d",
                 "common": "\uc2a4\ud398\uc778"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0627\u0633\u067e\u0627\u0646\u06cc\u0627",
+              "common": "\u0627\u0633\u067e\u0627\u0646\u06cc\u0627"
             }
         },
         "latlng": [
@@ -9700,6 +9984,10 @@
             "kor": {
                 "official": "\uc5d0\uc2a4\ud1a0\ub2c8\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u062a\u0648\u0646\u06cc",
+              "common": "\u0627\u0650\u0633\u062a\u0648\u0646\u06cc"
             }
         },
         "latlng": [
@@ -9833,6 +10121,10 @@
             "kor": {
                 "official": "\uc5d0\ud2f0\uc624\ud53c\uc544 \uc5f0\ubc29 \ubbfc\uc8fc \uacf5\ud654\uad6d",
                 "common": "\uc5d0\ud2f0\uc624\ud53c\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0627\u062a\u06cc\u0648\u067e\u06cc",
+              "common": "\u0627\u0650\u062a\u06cc\u0648\u067e\u06cc"
             }
         },
         "latlng": [
@@ -9972,6 +10264,10 @@
             "kor": {
                 "official": "\ud540\ub780\ub4dc \uacf5\ud654\uad6d",
                 "common": "\ud540\ub780\ub4dc"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u0646\u0644\u0627\u0646\u062f",
+              "common": "\u0641\u0646\u0644\u0627\u0646\u062f"
             }
         },
         "latlng": [
@@ -10113,6 +10409,10 @@
             "kor": {
                 "official": "\ud53c\uc9c0 \uacf5\ud654\uad6d",
                 "common": "\ud53c\uc9c0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062c\u0632\u0627\u06cc\u0631 \u0641\u06cc\u062c\u06cc",
+              "common": "\u0641\u06cc\u062c\u06cc"
             }
         },
         "latlng": [
@@ -10238,6 +10538,10 @@
             "kor": {
                 "official": "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4",
                 "common": "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -10363,6 +10667,10 @@
             "kor": {
                 "official": "\ud504\ub791\uc2a4 \uacf5\ud654\uad6d",
                 "common": "\ud504\ub791\uc2a4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
+              "common": "\u0641\u0631\u0627\u0646\u0633\u0647"
             }
         },
         "latlng": [
@@ -10506,6 +10814,10 @@
             "kor": {
                 "official": "\ud398\ub85c \uc81c\ub3c4",
                 "common": "\ud398\ub85c \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0631\u0648\u0626\u0647",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0631\u0648\u0626\u0647"
             }
         },
         "latlng": [
@@ -10626,6 +10938,10 @@
             "kor": {
                 "official": "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544 \uc5f0\ubc29",
                 "common": "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544"
+            },
+            "per": {
+              "official": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0641\u062f\u0631\u0627\u0644 \u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc",
+              "common": "\u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc"
             }
         },
         "latlng": [
@@ -10751,6 +11067,10 @@
             "kor": {
                 "official": "\uac00\ubd09 \uacf5\ud654\uad6d",
                 "common": "\uac00\ubd09"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0627\u0628\u064f\u0646",
+              "common": "\u06af\u0627\u0628\u0646"
             }
         },
         "latlng": [
@@ -10880,6 +11200,10 @@
             "kor": {
                 "official": "\uadf8\ub808\uc774\ud2b8\ube0c\ub9ac\ud2bc \ubd81\uc544\uc77c\ub79c\ub4dc \uc5f0\ud569 \uc655\uad6d",
                 "common": "\uc601\uad6d"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0645\u062a\u062d\u062f \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627\u06cc \u06a9\u0628\u06cc\u0631 \u0648 \u0627\u06cc\u0631\u0644\u0646\u062f \u0634\u0645\u0627\u0644\u06cc",
+              "common": "\u0627\u0646\u06af\u0644\u06cc\u0633"
             }
         },
         "latlng": [
@@ -11006,6 +11330,10 @@
             "kor": {
                 "official": "\uc870\uc9c0\uc544",
                 "common": "\uc870\uc9c0\uc544"
+            },
+            "per": {
+              "official": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646",
+              "common": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -11150,6 +11478,10 @@
             "kor": {
                 "official": "\uac74\uc9c0 \uc12c",
                 "common": "\uac74\uc9c0 \uc12c"
+            },
+            "per": {
+              "official": "\u06af\u0631\u0646\u0632\u06cc",
+              "common": "\u06af\u0631\u0646\u0632\u06cc"
             }
         },
         "latlng": [
@@ -11273,6 +11605,10 @@
             "kor": {
                 "official": "\uac00\ub098 \uacf5\ud654\uad6d",
                 "common": "\uac00\ub098"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u063a\u0646\u0627",
+              "common": "\u063a\u0646\u0627"
             }
         },
         "latlng": [
@@ -11400,6 +11736,10 @@
             "kor": {
                 "official": "\uc9c0\ube0c\ub864\ud130",
                 "common": "\uc9c0\ube0c\ub864\ud130"
+            },
+            "per": {
+              "official": "\u062c\u0628\u0644 \u0637\u0627\u0631\u0642",
+              "common": "\u062c\u0628\u0644 \u0637\u0627\u0631\u0642"
             }
         },
         "latlng": [
@@ -11527,6 +11867,10 @@
             "kor": {
                 "official": "\uae30\ub2c8 \uacf5\ud654\uad6d",
                 "common": "\uae30\ub2c8"
+            },
+            "per": {
+              "official": "\u0645\u0645\u0644\u06a9\u062a \u0645\u0633\u062a\u0642\u0644 \u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648",
+              "common": "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648"
             }
         },
         "latlng": [
@@ -11658,6 +12002,10 @@
             "kor": {
                 "official": "\uacfc\ub4e4\ub8e8\ud504",
                 "common": "\uacfc\ub4e4\ub8e8\ud504"
+            },
+            "per": {
+              "official": "\u06af\u0648\u0627\u062f\u0644\u0648\u067e",
+              "common": "\u06af\u0648\u0627\u062f\u0644\u0648\u067e"
             }
         },
         "latlng": [
@@ -11782,6 +12130,10 @@
             "kor": {
                 "official": "\uac10\ube44\uc544 \uacf5\ud654\uad6d",
                 "common": "\uac10\ube44\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0627\u0645\u0628\u06cc\u0627",
+              "common": "\u06af\u0627\u0645\u0628\u06cc\u0627"
             }
         },
         "latlng": [
@@ -11914,6 +12266,10 @@
             "kor": {
                 "official": "\uae30\ub2c8\ube44\uc0ac\uc6b0 \uacf5\ud654\uad6d",
                 "common": "\uae30\ub2c8\ube44\uc0ac\uc6b0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648",
+              "common": "\u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -12058,6 +12414,10 @@
             "kor": {
                 "official": "\uc801\ub3c4 \uae30\ub2c8 \uacf5\ud654\uad6d",
                 "common": "\uc801\ub3c4 \uae30\ub2c8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc",
+              "common": "\u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc"
             }
         },
         "latlng": [
@@ -12187,6 +12547,10 @@
             "kor": {
                 "official": "\uadf8\ub9ac\uc2a4 \uacf5\ud654\uad6d",
                 "common": "\uadf8\ub9ac\uc2a4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06cc\u0648\u0646\u0627\u0646",
+              "common": "\u06cc\u0648\u0646\u0627\u0646"
             }
         },
         "latlng": [
@@ -12315,6 +12679,10 @@
             "kor": {
                 "official": "\uadf8\ub808\ub098\ub2e4",
                 "common": "\uadf8\ub808\ub098\ub2e4"
+            },
+            "per": {
+              "official": "\u06af\u0631\u0646\u0627\u062f\u0627",
+              "common": "\u06af\u0631\u0646\u0627\u062f\u0627"
             }
         },
         "latlng": [
@@ -12439,6 +12807,10 @@
             "kor": {
                 "official": "\uadf8\ub9b0\ub780\ub4dc",
                 "common": "\uadf8\ub9b0\ub780\ub4dc"
+            },
+            "per": {
+              "official": "\u06af\u0631\u0648\u0626\u0646\u0644\u0646\u062f",
+              "common": "\u06af\u0631\u06cc\u0646\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -12562,6 +12934,10 @@
             "kor": {
                 "official": "\uacfc\ud14c\ub9d0\ub77c \uacf5\ud654\uad6d",
                 "common": "\uacfc\ud14c\ub9d0\ub77c"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627",
+              "common": "\u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627"
             }
         },
         "latlng": [
@@ -12692,6 +13068,10 @@
             "kor": {
                 "official": "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098",
                 "common": "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098"
+            },
+            "per": {
+              "official": "\u06af\u0648\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0647",
+              "common": "\u06af\u0648\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0647"
             }
         },
         "latlng": [
@@ -12829,6 +13209,10 @@
             "kor": {
                 "official": "\uad0c",
                 "common": "\uad0c"
+            },
+            "per": {
+              "official": "\u06af\u0648\u0622\u0645",
+              "common": "\u06af\u0648\u0622\u0645"
             }
         },
         "latlng": [
@@ -12953,6 +13337,10 @@
             "kor": {
                 "official": "\uac00\uc774\uc544\ub098 \ud611\ub3d9 \uacf5\ud654\uad6d",
                 "common": "\uac00\uc774\uc544\ub098"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0639\u0627\u0648\u0646\u06cc \u06af\u0648\u06cc\u0627\u0646",
+              "common": "\u06af\u0648\u06cc\u0627\u0646"
             }
         },
         "latlng": [
@@ -13082,6 +13470,10 @@
             "kor": {
                 "official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ud64d\ucf69 \ud2b9\ubcc4\ud589\uc815\uad6c",
                 "common": "\ud64d\ucf69"
+            },
+            "per": {
+              "official": "\u0647\u064f\u0646\u06af \u06a9\u064f\u0646\u06af",
+              "common": "\u0647\u064f\u0646\u06af \u06a9\u064f\u0646\u06af"
             }
         },
         "latlng": [
@@ -13204,6 +13596,10 @@
             "kor": {
                 "official": "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4",
                 "common": "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f",
+              "common": "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f"
             }
         },
         "latlng": [
@@ -13329,6 +13725,10 @@
             "kor": {
                 "official": "\uc628\ub450\ub77c\uc2a4 \uacf5\ud654\uad6d",
                 "common": "\uc628\ub450\ub77c\uc2a4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0646\u062f\u0648\u0631\u0627\u0633",
+              "common": "\u0647\u064f\u0646\u062f\u0648\u0631\u0627\u0633"
             }
         },
         "latlng": [
@@ -13463,6 +13863,10 @@
             "kor": {
                 "official": "\ud06c\ub85c\uc544\ud2f0\uc544 \uacf5\ud654\uad6d",
                 "common": "\ud06c\ub85c\uc544\ud2f0\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0631\u0648\u0627\u0633\u06cc",
+              "common": "\u06a9\u0631\u064f\u0648\u0627\u0633\u06cc"
             }
         },
         "latlng": [
@@ -13600,6 +14004,10 @@
             "kor": {
                 "official": "\uc544\uc774\ud2f0 \uacf5\ud654\uad6d",
                 "common": "\uc544\uc774\ud2f0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0627\u0626\u06cc\u062a\u06cc",
+              "common": "\u0647\u0627\u0626\u06cc\u062a\u06cc"
             }
         },
         "latlng": [
@@ -13725,6 +14133,10 @@
             "kor": {
                 "official": "\ud5dd\uac00\ub9ac",
                 "common": "\ud5dd\uac00\ub9ac"
+            },
+            "per": {
+              "official": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
+              "common": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -13858,6 +14270,10 @@
             "kor": {
                 "official": "\uc778\ub3c4\ub124\uc2dc\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc778\ub3c4\ub124\uc2dc\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0646\u062f\u0648\u0646\u0632\u06cc",
+              "common": "\u0627\u0646\u062f\u0648\u0646\u0632\u06cc"
             }
         },
         "latlng": [
@@ -13997,6 +14413,10 @@
             "kor": {
                 "official": "\ub9e8\uc12c",
                 "common": "\ub9e8\uc12c"
+            },
+            "per": {
+              "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0645\u064e\u0646",
+              "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0645\u064e\u0646"
             }
         },
         "latlng": [
@@ -14134,6 +14554,10 @@
             "kor": {
                 "official": "\uc778\ub3c4 \uacf5\ud654\uad6d",
                 "common": "\uc778\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0646\u062f\u0648\u0633\u062a\u0627\u0646",
+              "common": "\u0647\u0646\u062f"
             }
         },
         "latlng": [
@@ -14268,6 +14692,10 @@
             "kor": {
                 "official": "\uc778\ub3c4 \uacf5\ud654\uad6d",
                 "common": "\uc778\ub3c4"
+            },
+            "per": {
+              "official": "\u0642\u0644\u0645\u0631\u0648 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0627\u0642\u06cc\u0627\u0646\u0648\u0633 \u0647\u0646\u062f",
+              "common": "\u0642\u0644\u0645\u0631\u0648 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0627\u0642\u06cc\u0627\u0646\u0648\u0633 \u0647\u0646\u062f"
             }
         },
         "latlng": [
@@ -14399,6 +14827,10 @@
             "kor": {
                 "official": "\uc544\uc77c\ub79c\ub4dc \uacf5\ud654\uad6d",
                 "common": "\uc544\uc77c\ub79c\ub4dc"
+            },
+            "per": {
+              "official": "\u0627\u06cc\u0631\u0644\u0646\u062f",
+              "common": "\u0627\u06cc\u0631\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -14418,7 +14850,7 @@
             "common": "Iran",
             "official": "Islamic Republic of Iran",
             "native": {
-                "fas": {
+                "per": {
                     "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u06cc\u0631\u0627\u0646",
                     "common": "\u0627\u06cc\u0631\u0627\u0646"
                 }
@@ -14458,7 +14890,7 @@
         "region": "Asia",
         "subregion": "Southern Asia",
         "languages": {
-            "fas": "Persian"
+            "per": "Persian"
         },
         "translations": {
             "ces": {
@@ -14671,6 +15103,10 @@
             "kor": {
                 "official": "\uc774\ub77c\ud06c \uacf5\ud654\uad6d",
                 "common": "\uc774\ub77c\ud06c"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0639\u0631\u0627\u0642",
+              "common": "\u0639\u0631\u0627\u0642"
             }
         },
         "latlng": [
@@ -14804,6 +15240,10 @@
             "kor": {
                 "official": "\uc544\uc774\uc2ac\ub780\ub4dc \uacf5\ud654\uad6d",
                 "common": "\uc544\uc774\uc2ac\ub780\ub4dc"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06cc\u0633\u0644\u0646\u062f",
+              "common": "\u0627\u06cc\u0633\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -14934,6 +15374,10 @@
             "kor": {
                 "official": "\uc774\uc2a4\ub77c\uc5d8\uad6d",
                 "common": "\uc774\uc2a4\ub77c\uc5d8"
+            },
+            "per": {
+              "official": "\u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0634\u063a\u0627\u0644\u06cc",
+              "common": "\u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0634\u063a\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -15065,6 +15509,10 @@
             "kor": {
                 "official": "\uc774\ud0c8\ub9ac\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc774\ud0c8\ub9ac\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06cc\u062a\u0627\u0644\u06cc\u0627",
+              "common": "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
             }
         },
         "latlng": [
@@ -15200,6 +15648,10 @@
             "kor": {
                 "official": "\uc790\uba54\uc774\uce74",
                 "common": "\uc790\uba54\uc774\uce74"
+            },
+            "per": {
+              "official": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627",
+              "common": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -15340,6 +15792,10 @@
             "kor": {
                 "official": "\uc800\uc9c0 \uc12c",
                 "common": "\uc800\uc9c0 \uc12c"
+            },
+            "per": {
+              "official": "\u062c\u0631\u0632\u06cc",
+              "common": "\u062c\u0631\u0632\u06cc"
             }
         },
         "latlng": [
@@ -15466,6 +15922,10 @@
             "kor": {
                 "official": "\uc694\ub974\ub2e8 \ud558\uc2ec \uc655\uad6d",
                 "common": "\uc694\ub974\ub2e8"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0627\u064f\u0631\u062f\u064f\u0646 \u0647\u0627\u0634\u0645\u06cc",
+              "common": "\u0627\u0631\u062f\u0646"
             }
         },
         "latlng": [
@@ -15598,6 +16058,10 @@
             "kor": {
                 "official": "\uc77c\ubcf8\uad6d",
                 "common": "\uc77c\ubcf8"
+            },
+            "per": {
+              "official": "\u0698\u0627\u067e\u0646",
+              "common": "\u0698\u0627\u067e\u0646"
             }
         },
         "latlng": [
@@ -15735,6 +16199,10 @@
             "kor": {
                 "official": "\uce74\uc790\ud750\uc2a4\ud0c4 \uacf5\ud654\uad6d",
                 "common": "\uce74\uc790\ud750\uc2a4\ud0c4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646",
+              "common": "\u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -15871,6 +16339,10 @@
             "kor": {
                 "official": "\ucf00\ub0d0 \uacf5\ud654\uad6d",
                 "common": "\ucf00\ub0d0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0646\u06cc\u0627",
+              "common": "\u06a9\u0646\u06cc\u0627"
             }
         },
         "latlng": [
@@ -16009,6 +16481,10 @@
             "kor": {
                 "official": "\ud0a4\ub974\uae30\uc2a4 \uacf5\ud654\uad6d",
                 "common": "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0650\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
+              "common": "\u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -16146,6 +16622,10 @@
             "kor": {
                 "official": "\uce84\ubcf4\ub514\uc544 \uc655\uad6d",
                 "common": "\uce84\ubcf4\ub514\uc544"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u06a9\u0627\u0645\u0628\u0648\u062c",
+              "common": "\u06a9\u0627\u0645\u0628\u0648\u062c"
             }
         },
         "latlng": [
@@ -16284,6 +16764,10 @@
             "kor": {
                 "official": "\ud0a4\ub9ac\ubc14\uc2dc \uacf5\ud654\uad6d",
                 "common": "\ud0a4\ub9ac\ubc14\uc2dc"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc",
+              "common": "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"
             }
         },
         "latlng": [
@@ -16408,6 +16892,10 @@
             "kor": {
                 "official": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4 \uc5f0\ubc29",
                 "common": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4"
+            },
+            "per": {
+              "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633",
+              "common": "\u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633"
             }
         },
         "latlng": [
@@ -16536,6 +17024,10 @@
             "kor": {
                 "official": "\ub300\ud55c\ubbfc\uad6d",
                 "common": "\ud55c\uad6d"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0631\u0647",
+              "common": "\u06a9\u0631\u0647\u0654 \u062c\u0646\u0648\u0628\u06cc"
             }
         },
         "latlng": [
@@ -16661,6 +17153,10 @@
             "kor": {
                 "official": "\ucf54\uc18c\ubcf4 \uacf5\ud654\uad6d",
                 "common": "\ucf54\uc18c\ubcf4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0648\u0632\u0648\u0648",
+              "common": "\u06a9\u0648\u0632\u0648\u0648"
             }
         },
         "latlng": [
@@ -16791,6 +17287,10 @@
             "kor": {
                 "official": "\ucfe0\uc6e8\uc774\ud2b8\uad6d",
                 "common": "\ucfe0\uc6e8\uc774\ud2b8"
+            },
+            "per": {
+              "official": "\u062f\u0648\u0644\u062a \u06a9\u0648\u06cc\u062a",
+              "common": "\u06a9\u064f\u0648\u06cc\u062a"
             }
         },
         "latlng": [
@@ -16920,6 +17420,10 @@
             "kor": {
                 "official": "\ub77c\uc624 \uc778\ubbfc \ubbfc\uc8fc \uacf5\ud654\uad6d",
                 "common": "\ub77c\uc624\uc2a4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9\u0020\u062e\u0644\u0642\u0020\u0644\u0627\u0626\u0648\u0633",
+              "common": "\u0644\u0627\u0626\u0648\u0633"
             }
         },
         "latlng": [
@@ -17056,6 +17560,10 @@
             "kor": {
                 "official": "\ub808\ubc14\ub17c \uacf5\ud654\uad6d",
                 "common": "\ub808\ubc14\ub17c"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0644\u0628\u0646\u0627\u0646",
+              "common": "\u0644\u0628\u0646\u0627\u0646"
             }
         },
         "latlng": [
@@ -17183,6 +17691,10 @@
             "kor": {
                 "official": "\ub77c\uc774\ubca0\ub9ac\uc544 \uacf5\ud654\uad6d",
                 "common": "\ub77c\uc774\ubca0\ub9ac\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0644\u06cc\u0628\u0631\u06cc\u0627",
+              "common": "\u0644\u06cc\u0628\u0640\u0650\u0631\u06cc\u0627"
             }
         },
         "latlng": [
@@ -17312,6 +17824,10 @@
             "kor": {
                 "official": "\ub9ac\ube44\uc544",
                 "common": "\ub9ac\ube44\uc544"
+            },
+            "per": {
+              "official": "\u062f\u0648\u0644\u062a\u0020\u0644\u06cc\u0628\u06cc",
+              "common": "\u0644\u06cc\u0628\u06cc"
             }
         },
         "latlng": [
@@ -17442,6 +17958,10 @@
             "kor": {
                 "official": "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544",
                 "common": "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544"
+            },
+            "per": {
+              "official": "\u0633\u0646\u062a\u0020\u0644\u0648\u0633\u06cc\u0627",
+              "common": "\u0633\u0646\u062a\u0020\u0644\u0648\u0633\u06cc\u0627"
             }
         },
         "latlng": [
@@ -17567,6 +18087,10 @@
             "kor": {
                 "official": "\ub9ac\ud788\ud150\uc288\ud0c0\uc778 \uacf5\uad6d",
                 "common": "\ub9ac\ud788\ud150\uc288\ud0c0\uc778"
+            },
+            "per": {
+              "official": "\u0634\u0627\u0647\u0632\u0627\u062f\u0647\u200c\u0646\u0634\u06cc\u0646\u0020\u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646",
+              "common": "\u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646"
             }
         },
         "latlng": [
@@ -17702,6 +18226,10 @@
             "kor": {
                 "official": "\uc2a4\ub9ac\ub791\uce74 \ubbfc\uc8fc \uc0ac\ud68c\uc8fc\uc758 \uacf5\ud654\uad6d",
                 "common": "\uc2a4\ub9ac\ub791\uce74"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9\u0020\u0633\u0648\u0633\u06cc\u0627\u0644\u06cc\u0633\u062a\u06cc\u0020\u0633\u0631\u06cc\u200c\u0644\u0627\u0646\u06a9\u0627",
+              "common": "\u0633\u0631\u06cc\u200c\u0644\u0627\u0646\u06a9\u0627"
             }
         },
         "latlng": [
@@ -17838,6 +18366,10 @@
             "kor": {
                 "official": "\ub808\uc18c\ud1a0 \uc655\uad6d",
                 "common": "\ub808\uc18c\ud1a0"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc\u0020\u0644\u0633\u0648\u062a\u0648",
+              "common": "\u0644\u0633\u0648\u062a\u0648"
             }
         },
         "latlng": [
@@ -17965,6 +18497,10 @@
             "kor": {
                 "official": "\ub9ac\ud22c\uc544\ub2c8\uc544 \uacf5\ud654\uad6d",
                 "common": "\ub9ac\ud22c\uc544\ub2c8\uc544"
+            },
+            "per": {
+              "official": "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc\u0627\u06cc\u06cc\u200c\u0647\u0627",
+              "common": "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc\u0627\u06cc\u06cc\u200c\u0647\u0627"
             }
         },
         "latlng": [
@@ -18107,6 +18643,10 @@
             "kor": {
                 "official": "\ub8e9\uc148\ubd80\ub974\ud06c \ub300\uacf5\uad6d",
                 "common": "\ub8e9\uc148\ubd80\ub974\ud06c"
+            },
+            "per": {
+              "official": "\u062f\u0648\u06a9\u200c\u0646\u0634\u06cc\u0646\u0020\u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af",
+              "common": "\u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
             }
         },
         "latlng": [
@@ -18236,6 +18776,10 @@
             "kor": {
                 "official": "\ub77c\ud2b8\ube44\uc544 \uacf5\ud654\uad6d",
                 "common": "\ub77c\ud2b8\ube44\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0644\u062a\u0648\u0646\u06cc",
+              "common": "\u0644\u062a\u0648\u0646\u06cc"
             }
         },
         "latlng": [
@@ -18370,6 +18914,10 @@
             "kor": {
                 "official": "\uc911\ud654\uc778\ubbfc\uacf5\ud654\uad6d \ub9c8\uce74\uc624 \ud2b9\ubcc4\ud589\uc815\uad6c",
                 "common": "\ub9c8\uce74\uc624"
+            },
+            "per": {
+              "official": "\u0645\u0627\u06a9\u0627\u0626\u0648",
+              "common": "\u0645\u0627\u06a9\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -18499,6 +19047,10 @@
             "kor": {
                 "official": "\uc0dd\ub9c8\ub974\ud0f1",
                 "common": "\uc0dd\ub9c8\ub974\ud0f1"
+            },
+            "per": {
+              "official": "\u0633\u0646\u0020\u0645\u0627\u0631\u062a\u0646",
+              "common": "\u0633\u0646\u0020\u0645\u0627\u0631\u062a\u0646"
             }
         },
         "latlng": [
@@ -18632,6 +19184,10 @@
             "kor": {
                 "official": "\ubaa8\ub85c\ucf54 \uc655\uad6d",
                 "common": "\ubaa8\ub85c\ucf54"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc\u0020\u0645\u0631\u0627\u06a9\u0634",
+              "common": "\u0645\u0631\u0627\u06a9\u0634"
             }
         },
         "latlng": [
@@ -18761,6 +19317,10 @@
             "kor": {
                 "official": "\ubaa8\ub098\ucf54 \uacf5\uad6d",
                 "common": "\ubaa8\ub098\ucf54"
+            },
+            "per": {
+              "official": "\u0634\u0627\u0647\u0632\u0627\u062f\u0647\u200c\u0646\u0634\u06cc\u0646\u0020\u0645\u0648\u0646\u0627\u06a9\u0648",
+              "common": "\u0645\u0648\u0646\u0627\u06a9\u0648"
             }
         },
         "latlng": [
@@ -18889,6 +19449,10 @@
             "kor": {
                 "official": "\ubab0\ub3c4\ubc14 \uacf5\ud654\uad6d",
                 "common": "\ubab0\ub3c4\ubc14"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0648\u0644\u062f\u0627\u0648\u06cc",
+              "common": "\u0645\u0648\u0644\u062f\u0627\u0648\u06cc"
             }
         },
         "latlng": [
@@ -19023,6 +19587,10 @@
             "kor": {
                 "official": "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974 \uacf5\ud654\uad6d",
                 "common": "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631",
+              "common": "\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631"
             }
         },
         "latlng": [
@@ -19149,6 +19717,10 @@
             "kor": {
                 "official": "\ubab0\ub514\ube0c \uacf5\ud654\uad6d",
                 "common": "\ubab0\ub514\ube0c"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0627\u0644\u062f\u06cc\u0648",
+              "common": "\u0645\u0627\u0644\u062f\u06cc\u0648"
             }
         },
         "latlng": [
@@ -19275,6 +19847,10 @@
             "kor": {
                 "official": "\uba55\uc2dc\ucf54 \ud569\uc911\uad6d",
                 "common": "\uba55\uc2dc\ucf54"
+            },
+            "per": {
+              "official": "\u0627\u06cc\u0627\u0644\u0627\u062a\u0020\u0645\u062a\u062d\u062f\u0020\u0645\u06a9\u0632\u06cc\u06a9",
+              "common": "\u0645\u06a9\u0632\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -19409,6 +19985,10 @@
             "kor": {
                 "official": "\ub9c8\uc15c \uc81c\ub3c4 \uacf5\ud654\uad6d",
                 "common": "\ub9c8\uc15c \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u062c\u0632\u0627\u06cc\u0631\u0020\u0645\u0627\u0631\u0634\u0627\u0644",
+              "common": "\u062c\u0632\u0627\u06cc\u0631\u0020\u0645\u0627\u0631\u0634\u0627\u0644"
             }
         },
         "latlng": [
@@ -19535,6 +20115,10 @@
             "kor": {
                 "official": "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d",
                 "common": "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0642\u062f\u0648\u0646\u06cc\u0647\u0020\u0634\u0645\u0627\u0644\u06cc",
+              "common": "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647\u0020\u0634\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -19666,6 +20250,10 @@
             "kor": {
                 "official": "\ub9d0\ub9ac \uacf5\ud654\uad6d",
                 "common": "\ub9d0\ub9ac"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0627\u0644\u06cc",
+              "common": "\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -19804,6 +20392,10 @@
             "kor": {
                 "official": "\ubab0\ud0c0 \uacf5\ud654\uad6d",
                 "common": "\ubab0\ud0c0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0627\u0644\u062a",
+              "common": "\u0645\u0627\u0644\u062a"
             }
         },
         "latlng": [
@@ -19930,6 +20522,10 @@
             "kor": {
                 "official": "\ubbf8\uc580\ub9c8 \uc5f0\ubc29 \uacf5\ud654\uad6d",
                 "common": "\ubbf8\uc580\ub9c8"
+            },
+            "per": {
+              "official": "\u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u06cc\u0627\u0646\u0645\u0627\u0631",
+              "common": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"
             }
         },
         "latlng": [
@@ -20060,6 +20656,10 @@
             "kor": {
                 "official": "\ubaac\ud14c\ub124\uadf8\ub85c",
                 "common": "\ubaac\ud14c\ub124\uadf8\ub85c"
+            },
+            "per": {
+              "official": "\u0645\u0648\u0646\u062a\u0647\u200c\u0646\u06af\u0631\u0648",
+              "common": "\u0645\u0648\u0646\u062a\u0647\u200c\u0646\u06af\u0631\u0648"
             }
         },
         "latlng": [
@@ -20189,6 +20789,10 @@
             "kor": {
                 "official": "\ubabd\uace8",
                 "common": "\ubabd\uace8\uad6d"
+            },
+            "per": {
+              "official": "\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646",
+              "common": "\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -20327,6 +20931,10 @@
             "kor": {
                 "official": "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4",
                 "common": "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -20452,6 +21060,10 @@
             "kor": {
                 "official": "\ubaa8\uc7a0\ube44\ud06c \uacf5\ud654\uad6d",
                 "common": "\ubaa8\uc7a0\ube44\ud06c"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9",
+              "common": "\u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -20584,6 +21196,10 @@
             "kor": {
                 "official": "\ubaa8\ub9ac\ud0c0\ub2c8 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d",
                 "common": "\ubaa8\ub9ac\ud0c0\ub2c8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc",
+              "common": "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc"
             }
         },
         "latlng": [
@@ -20712,6 +21328,10 @@
             "kor": {
                 "official": "\ubaac\ud2b8\uc138\ub7ab",
                 "common": "\ubaac\ud2b8\uc138\ub7ab"
+            },
+            "per": {
+              "official": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a",
+              "common": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a"
             }
         },
         "latlng": [
@@ -20835,6 +21455,10 @@
             "kor": {
                 "official": "\ub9c8\ub974\ud2f0\ub2c8\ud06c",
                 "common": "\ub9c8\ub974\ud2f0\ub2c8\ud06c"
+            },
+            "per": {
+              "official": "\u0645\u0627\u0631\u062a\u06cc\u0646\u06cc\u06a9",
+              "common": "\u0645\u0627\u0631\u062a\u06cc\u0646\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -20970,6 +21594,10 @@
             "kor": {
                 "official": "\ubaa8\ub9ac\uc154\uc2a4 \uacf5\ud654\uad6d",
                 "common": "\ubaa8\ub9ac\uc154\uc2a4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0631\u06cc\u0633",
+              "common": "\u0645\u0648\u0631\u06cc\u0633"
             }
         },
         "latlng": [
@@ -21099,6 +21727,10 @@
             "kor": {
                 "official": "\ub9d0\ub77c\uc704 \uacf5\ud654\uad6d",
                 "common": "\ub9d0\ub77c\uc704"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0627\u0644\u0627\u0648\u06cc",
+              "common": "\u0645\u0627\u0644\u0627\u0648\u06cc"
             }
         },
         "latlng": [
@@ -21231,6 +21863,10 @@
             "kor": {
                 "official": "\ub9d0\ub808\uc774\uc2dc\uc544",
                 "common": "\ub9d0\ub808\uc774\uc2dc\uc544"
+            },
+            "per": {
+              "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0645\u0627\u0644\u0632\u06cc",
+              "common": "\u0645\u0627\u0644\u0632\u06cc"
             }
         },
         "latlng": [
@@ -21360,6 +21996,10 @@
             "kor": {
                 "official": "\ub9c8\uc694\ud2b8",
                 "common": "\ub9c8\uc694\ud2b8"
+            },
+            "per": {
+              "official": "\u0645\u062c\u0645\u0648\u0639\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646\u06cc \u0645\u0627\u06cc\u0648\u062a",
+              "common": "\u0645\u0627\u06cc\u0648\u062a"
             }
         },
         "latlng": [
@@ -21529,6 +22169,10 @@
             "kor": {
                 "official": "\ub098\ubbf8\ube44\uc544 \uacf5\ud654\uad6d",
                 "common": "\ub098\ubbf8\ube44\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u0627\u0645\u06cc\u0628\u06cc\u0627",
+              "common": "\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627"
             }
         },
         "latlng": [
@@ -21657,6 +22301,10 @@
             "kor": {
                 "official": "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8",
                 "common": "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8"
+            },
+            "per": {
+              "official": "\u06a9\u0627\u0644\u062f\u0648\u0646\u06cc\u0627\u06cc \u062c\u062f\u06cc\u062f",
+              "common": "\u06a9\u0627\u0644\u062f\u0648\u0646\u06cc\u0627\u06cc \u062c\u062f\u06cc\u062f"
             }
         },
         "latlng": [
@@ -21781,6 +22429,10 @@
             "kor": {
                 "official": "\ub2c8\uc81c\ub974 \uacf5\ud654\uad6d",
                 "common": "\ub2c8\uc81c\ub974"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u06cc\u062c\u0631",
+              "common": "\u0646\u06cc\u062c\u0631"
             }
         },
         "latlng": [
@@ -21919,6 +22571,10 @@
             "kor": {
                 "official": "\ub178\ud37d \uc12c",
                 "common": "\ub178\ud37d \uc12c"
+            },
+            "per": {
+              "official": "\u0642\u0644\u0645\u0631\u0648 \u062c\u0632\u0627\u06cc\u0631 \u0646\u0648\u0631\u0641\u06a9",
+              "common": "\u062c\u0632\u06cc\u0631\u0647 \u0646\u0648\u0631\u0641\u06a9"
             }
         },
         "latlng": [
@@ -22045,6 +22701,10 @@
             "kor": {
                 "official": "\ub098\uc774\uc9c0\ub9ac\uc544 \uc5f0\ubc29 \uacf5\ud654\uad6d",
                 "common": "\ub098\uc774\uc9c0\ub9ac\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0646\u06cc\u062c\u0631\u06cc\u0647",
+              "common": "\u0646\u06cc\u062c\u0631\u06cc\u0647"
             }
         },
         "latlng": [
@@ -22175,6 +22835,10 @@
             "kor": {
                 "official": "\ub2c8\uce74\ub77c\uacfc \uacf5\ud654\uad6d",
                 "common": "\ub2c8\uce74\ub77c\uacfc"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
+              "common": "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
             }
         },
         "latlng": [
@@ -22306,6 +22970,10 @@
             "kor": {
                 "official": "\ub2c8\uc6b0\uc5d0",
                 "common": "\ub2c8\uc6b0\uc5d0"
+            },
+            "per": {
+              "official": "\u0646\u06cc\u0648\u0648\u06cc",
+              "common": "\u0646\u06cc\u0648\u0648\u06cc"
             }
         },
         "latlng": [
@@ -22432,6 +23100,10 @@
             "kor": {
                 "official": "\ub124\ub35c\ub780\ub4dc \uc655\uad6d",
                 "common": "\ub124\ub35c\ub780\ub4dc"
+            },
+            "per": {
+              "official": "\u0647\u0644\u0646\u062f",
+              "common": "\u0647\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -22573,6 +23245,10 @@
             "kor": {
                 "official": "\ub178\ub974\uc6e8\uc774 \uc655\uad6d",
                 "common": "\ub178\ub974\uc6e8\uc774"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0646\u0631\u0648\u0698",
+              "common": "\u0646\u0631\u0648\u0698"
             }
         },
         "latlng": [
@@ -22702,6 +23378,10 @@
             "kor": {
                 "official": "\ub124\ud314 \uc5f0\ubc29 \ubbfc\uc8fc \uacf5\ud654\uad6d",
                 "common": "\ub124\ud314"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0646\u067e\u0627\u0644",
+              "common": "\u0646\u067e\u0627\u0644"
             }
         },
         "latlng": [
@@ -22837,6 +23517,10 @@
             "kor": {
                 "official": "\ub098\uc6b0\ub8e8 \uacf5\ud654\uad6d",
                 "common": "\ub098\uc6b0\ub8e8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u0627\u0626\u0648\u0631\u0648",
+              "common": "\u0646\u0627\u0626\u0648\u0631\u0648"
             }
         },
         "latlng": [
@@ -22971,6 +23655,10 @@
             "kor": {
                 "official": "\ub274\uc9c8\ub79c\ub4dc",
                 "common": "\ub274\uc9c8\ub79c\ub4dc"
+            },
+            "per": {
+              "official": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f",
+              "common": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -23096,6 +23784,10 @@
             "kor": {
                 "official": "\uc624\ub9cc \uc220\ud0c4\uad6d",
                 "common": "\uc624\ub9cc"
+            },
+            "per": {
+              "official": "\u0633\u0644\u0637\u0627\u0646\u200c\u0646\u0634\u06cc\u0646 \u0639\u064f\u0645\u0627\u0646",
+              "common": "\u0639\u0645\u0627\u0646"
             }
         },
         "latlng": [
@@ -23231,6 +23923,10 @@
             "kor": {
                 "official": "\ud30c\ud0a4\uc2a4\ud0c4 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d",
                 "common": "\ud30c\ud0a4\uc2a4\ud0c4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+              "common": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -23365,6 +24061,10 @@
             "kor": {
                 "official": "\ud30c\ub098\ub9c8 \uacf5\ud654\uad6d",
                 "common": "\ud30c\ub098\ub9c8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0646\u0627\u0645\u0627",
+              "common": "\u067e\u0627\u0646\u0627\u0645\u0627"
             }
         },
         "latlng": [
@@ -23493,6 +24193,10 @@
             "kor": {
                 "official": "\ud54f\ucf00\uc5b8 \uc81c\ub3c4",
                 "common": "\ud54f\ucf00\uc5b8 \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u067e\u06cc\u062a\u200c\u06a9\u0631\u0646",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u067e\u06cc\u062a\u200c\u06a9\u0631\u0646"
             }
         },
         "latlng": [
@@ -23628,6 +24332,10 @@
             "kor": {
                 "official": "\ud398\ub8e8 \uacf5\ud654\uad6d",
                 "common": "\ud398\ub8e8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0631\u0648",
+              "common": "\u067e\u0631\u0648"
             }
         },
         "latlng": [
@@ -23764,6 +24472,10 @@
             "kor": {
                 "official": "\ud544\ub9ac\ud540 \uacf5\ud654\uad6d",
                 "common": "\ud544\ub9ac\ud540"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646",
+              "common": "\u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646"
             }
         },
         "latlng": [
@@ -23894,6 +24606,10 @@
             "kor": {
                 "official": "\ud314\ub77c\uc6b0 \uacf5\ud654\uad6d",
                 "common": "\ud314\ub77c\uc6b0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0644\u0627\u0626\u0648",
+              "common": "\u067e\u0627\u0644\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -24029,6 +24745,10 @@
             "kor": {
                 "official": "\ud30c\ud478\uc544\ub274\uae30\ub2c8 \ub3c5\ub9bd\uad6d",
                 "common": "\ud30c\ud478\uc544\ub274\uae30\ub2c8"
+            },
+            "per": {
+              "official": "\u0645\u0645\u0644\u06a9\u062a \u0645\u0633\u062a\u0642\u0644 \u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647\u0654 \u0646\u0648",
+              "common": "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648"
             }
         },
         "latlng": [
@@ -24156,6 +24876,10 @@
             "kor": {
                 "official": "\ud3f4\ub780\ub4dc \uacf5\ud654\uad6d",
                 "common": "\ud3f4\ub780\ub4dc"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0644\u0647\u0633\u062a\u0627\u0646",
+              "common": "\u0644\u0647\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -24295,6 +25019,10 @@
             "kor": {
                 "official": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54",
                 "common": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54"
+            },
+            "per": {
+              "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648",
+              "common": "\u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
             }
         },
         "latlng": [
@@ -24424,6 +25152,10 @@
             "kor": {
                 "official": "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
                 "common": "\uc870\uc120"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062e\u0644\u0642 \u06a9\u0631\u0647",
+              "common": "\u06a9\u064f\u0631\u0647 \u0634\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -24554,6 +25286,10 @@
             "kor": {
                 "official": "\ud3ec\ub974\ud22c\uac08 \uacf5\ud654\uad6d",
                 "common": "\ud3ec\ub974\ud22c\uac08"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0631\u062a\u063a\u0627\u0644",
+              "common": "\u067e\u0631\u062a\u063a\u0627\u0644"
             }
         },
         "latlng": [
@@ -24687,6 +25423,10 @@
             "kor": {
                 "official": "\ud30c\ub77c\uacfc\uc774 \uacf5\ud654\uad6d",
                 "common": "\ud30c\ub77c\uacfc\uc774"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
+              "common": "\u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
             }
         },
         "latlng": [
@@ -24826,6 +25566,10 @@
             "kor": {
                 "official": "\ud314\ub808\uc2a4\ud0c0\uc778\uad6d",
                 "common": "\ud314\ub808\uc2a4\ud0c0\uc778"
+            },
+            "per": {
+              "official": "\u062f\u0648\u0644\u062a \u0641\u0644\u0633\u0637\u06cc\u0646",
+              "common": "\u0641\u0644\u0633\u0637\u06cc\u0646"
             }
         },
         "latlng": [
@@ -24956,6 +25700,10 @@
             "kor": {
                 "official": "\ud504\ub791\uc2a4\ub839 \ud3f4\ub9ac\ub124\uc2dc\uc544",
                 "common": "\ud504\ub791\uc2a4\ub839 \ud3f4\ub9ac\ub124\uc2dc\uc544"
+            },
+            "per": {
+              "official": "\u067e\u064f\u0644\u06cc\u200c\u0646\u0650\u0632\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
+              "common": "\u067e\u064f\u0644\u06cc\u200c\u0646\u0650\u0632\u06cc \u0641\u0631\u0627\u0646\u0633\u0647"
             }
         },
         "latlng": [
@@ -25082,6 +25830,10 @@
             "kor": {
                 "official": "\uce74\ud0c0\ub974\uad6d",
                 "common": "\uce74\ud0c0\ub974"
+            },
+            "per": {
+              "official": "\u062f\u0648\u0644\u062a \u0642\u0637\u0631",
+              "common": "\u0642\u0637\u0631"
             }
         },
         "latlng": [
@@ -25208,6 +25960,10 @@
             "kor": {
                 "official": "\ub808\uc704\ub2c8\uc639",
                 "common": "\ub808\uc704\ub2c8\uc639"
+            },
+            "per": {
+              "official": "\u0631\u0626\u0648\u0646\u06cc\u0648\u0646",
+              "common": "\u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
             }
         },
         "latlng": [
@@ -25334,6 +26090,10 @@
             "kor": {
                 "official": "\ub8e8\ub9c8\ub2c8\uc544",
                 "common": "\ub8e8\ub9c8\ub2c8\uc544"
+            },
+            "per": {
+              "official": "\u0631\u0648\u0645\u0627\u0646\u06cc",
+              "common": "\u0631\u0648\u0645\u0627\u0646\u06cc"
             }
         },
         "latlng": [
@@ -25471,6 +26231,10 @@
             "kor": {
                 "official": "\ub7ec\uc2dc\uc544 \uc5f0\ubc29",
                 "common": "\ub7ec\uc2dc\uc544"
+            },
+            "per": {
+              "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0631\u0648\u0633\u06cc\u0647",
+              "common": "\u0631\u0648\u0633\u06cc\u0647"
             }
         },
         "latlng": [
@@ -25622,6 +26386,10 @@
             "kor": {
                 "official": "\ub974\uc644\ub2e4 \uacf5\ud654\uad6d",
                 "common": "\ub974\uc644\ub2e4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0631\u0648\u0627\u0646\u062f\u0627",
+              "common": "\u0631\u0648\u0627\u0646\u062f\u0627"
             }
         },
         "latlng": [
@@ -25754,6 +26522,10 @@
             "kor": {
                 "official": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544 \uc655\uad6d",
                 "common": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0639\u0631\u0628\u06cc \u0633\u064e\u0639\u0648\u062f\u06cc",
+              "common": "\u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0633\u0639\u0648\u062f\u06cc"
             }
         },
         "latlng": [
@@ -25892,6 +26664,10 @@
             "kor": {
                 "official": "\uc218\ub2e8 \uacf5\ud654\uad6d",
                 "common": "\uc218\ub2e8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u062f\u0627\u0646",
+              "common": "\u0633\u0648\u062f\u0627\u0646"
             }
         },
         "latlng": [
@@ -26025,6 +26801,10 @@
             "kor": {
                 "official": "\uc138\ub124\uac08 \uacf5\ud654\uad6d",
                 "common": "\uc138\ub124\uac08"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0646\u06af\u0627\u0644",
+              "common": "\u0633\u0646\u06af\u0627\u0644"
             }
         },
         "latlng": [
@@ -26170,6 +26950,10 @@
             "kor": {
                 "official": "\uc2f1\uac00\ud3ec\ub974 \uacf5\ud654\uad6d",
                 "common": "\uc2f1\uac00\ud3ec\ub974"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0646\u06af\u0627\u067e\u0648\u0631",
+              "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
             }
         },
         "latlng": [
@@ -26294,6 +27078,10 @@
             "kor": {
                 "official": "\uc870\uc9c0\uc544",
                 "common": "\uc870\uc9c0\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u062c\u0648\u0631\u062c\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u0633\u0627\u0646\u062f\u0648\u06cc\u0686 \u062c\u0646\u0648\u0628\u06cc",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u062c\u0648\u0631\u062c\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u0633\u0627\u0646\u062f\u0648\u06cc\u0686 \u062c\u0646\u0648\u0628\u06cc"
             }
         },
         "latlng": [
@@ -26418,6 +27206,10 @@
             "kor": {
                 "official": "\uc2a4\ubc1c\ubc14\ub974 \uc580\ub9c8\uc60c \uc81c\ub3c4",
                 "common": "\uc2a4\ubc1c\ubc14\ub974 \uc580\ub9c8\uc60c \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646",
+              "common": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646"
             }
         },
         "latlng": [
@@ -26541,6 +27333,10 @@
             "kor": {
                 "official": "\uc194\ub85c\ubaac \uc81c\ub3c4",
                 "common": "\uc194\ub85c\ubaac \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"
             }
         },
         "latlng": [
@@ -26665,6 +27461,10 @@
             "kor": {
                 "official": "\uc2dc\uc5d0\ub77c\ub9ac\uc628 \uacf5\ud654\uad6d",
                 "common": "\uc2dc\uc5d0\ub77c\ub9ac\uc628"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646",
+              "common": "\u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646"
             }
         },
         "latlng": [
@@ -26797,6 +27597,10 @@
             "kor": {
                 "official": "\uc5d8\uc0b4\ubc14\ub3c4\ub974 \uacf5\ud654\uad6d",
                 "common": "\uc5d8\uc0b4\ubc14\ub3c4\ub974"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631",
+              "common": "\u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
             }
         },
         "latlng": [
@@ -26925,6 +27729,10 @@
             "kor": {
                 "official": "\uc0b0\ub9c8\ub9ac\ub178 \uacf5\ud654\uad6d",
                 "common": "\uc0b0\ub9c8\ub9ac\ub178"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
+              "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
             }
         },
         "latlng": [
@@ -27059,6 +27867,10 @@
             "kor": {
                 "official": " \uc18c\ub9d0\ub9ac\uc544 \uc5f0\ubc29 \uacf5\ud654\uad6d",
                 "common": "\uc18c\ub9d0\ub9ac\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0633\u0648\u0645\u0627\u0644\u06cc",
+              "common": "\u0633\u0648\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -27187,6 +27999,10 @@
             "kor": {
                 "official": "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871",
                 "common": "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871"
+            },
+            "per": {
+              "official": "\u0633\u0646\u002d\u067e\u06cc\u0631\u002d\u0627\u002d\u0645\u06cc\u06a9\u0644\u0648\u0646",
+              "common": "\u0633\u0646\u002d\u067e\u06cc\u0650\u0631 \u0648 \u0645\u06cc\u06a9\u0644\u064f\u0646"
             }
         },
         "latlng": [
@@ -27315,6 +28131,10 @@
             "kor": {
                 "official": "\uc138\ub974\ube44\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc138\ub974\ube44\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0635\u0631\u0628\u0633\u062a\u0627\u0646",
+              "common": "\u0635\u0631\u0628\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -27447,6 +28267,10 @@
             "kor": {
                 "official": "\ub0a8\uc218\ub2e8 \uacf5\ud654\uad6d",
                 "common": "\ub0a8\uc218\ub2e8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u062f\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc",
+              "common": "\u0633\u0648\u062f\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc"
             }
         },
         "latlng": [
@@ -27580,6 +28404,10 @@
             "kor": {
                 "official": "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398 \ubbfc\uc8fc \uacf5\ud654\uad6d",
                 "common": "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647 \u0648 \u067e\u0631\u0646\u0633\u06cc\u067e",
+              "common": "\u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647 \u0648 \u067e\u0631\u0646\u0633\u06cc\u067e"
             }
         },
         "latlng": [
@@ -27707,6 +28535,10 @@
             "kor": {
                 "official": "\uc218\ub9ac\ub0a8 \uacf5\ud654\uad6d",
                 "common": "\uc218\ub9ac\ub0a8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u0631\u06cc\u0646\u0627\u0645",
+              "common": "\u0633\u0648\u0631\u06cc\u0646\u0627\u0645"
             }
         },
         "latlng": [
@@ -27836,6 +28668,10 @@
             "kor": {
                 "official": "\uc2ac\ub85c\ubc14\ud0a4\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc2ac\ub85c\ubc14\ud0a4\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0648\u0627\u06a9\u06cc",
+              "common": "\u0627\u0650\u0633\u0644\u064f\u0648\u0627\u06a9\u06cc"
             }
         },
         "latlng": [
@@ -27967,6 +28803,10 @@
             "kor": {
                 "official": "\uc2ac\ub85c\ubca0\ub2c8\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc2ac\ub85c\ubca0\ub2c8\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0648\u0648\u0646\u06cc",
+              "common": "\u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
             }
         },
         "latlng": [
@@ -28097,6 +28937,10 @@
             "kor": {
                 "official": "\uc2a4\uc6e8\ub374 \uc655\uad6d",
                 "common": "\uc2a4\uc6e8\ub374"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0633\u0648\u0626\u062f",
+              "common": "\u0633\u0648\u0626\u062f"
             }
         },
         "latlng": [
@@ -28234,6 +29078,10 @@
             "kor": {
                 "official": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8 \uc655\uad6d",
                 "common": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0633\u0648\u0627\u0632\u06cc\u0644\u0646\u062f",
+              "common": "\u0627\u0633\u0648\u0627\u062a\u06cc\u0646\u06cc"
             }
         },
         "latlng": [
@@ -28371,6 +29219,10 @@
             "kor": {
                 "official": "\uc2e0\ud2b8\ub9c8\ub974\ud134",
                 "common": "\uc2e0\ud2b8\ub9c8\ub974\ud134"
+            },
+            "per": {
+              "official": "\u0633\u0646 \u0645\u0627\u0631\u062a\u0646",
+              "common": "\u0633\u0646 \u0645\u0627\u0631\u062a\u0646"
             }
         },
         "latlng": [
@@ -28509,6 +29361,10 @@
             "kor": {
                 "official": "\uc138\uc774\uc178 \uacf5\ud654\uad6d",
                 "common": "\uc138\uc774\uc178"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u06cc\u0634\u0644",
+              "common": "\u0633\u06cc\u0634\u0644"
             }
         },
         "latlng": [
@@ -28635,6 +29491,10 @@
             "kor": {
                 "official": "\uc2dc\ub9ac\uc544 \uc544\ub78d \uacf5\ud654\uad6d",
                 "common": "\uc2dc\ub9ac\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0639\u0631\u0628\u06cc \u0633\u0648\u0631\u06cc\u0647",
+              "common": "\u0633\u0648\u0631\u06cc\u0647"
             }
         },
         "latlng": [
@@ -28764,6 +29624,10 @@
             "kor": {
                 "official": "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4",
                 "common": "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u062a\u0648\u0631\u06a9\u0633 \u0648 \u06a9\u0627\u06cc\u06a9\u0648\u0633",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u062a\u0648\u0631\u06a9\u0633 \u0648 \u06a9\u0627\u06cc\u06a9\u0648\u0633"
             }
         },
         "latlng": [
@@ -28899,6 +29763,10 @@
             "kor": {
                 "official": "\ucc28\ub4dc \uacf5\ud654\uad6d",
                 "common": "\ucc28\ub4dc"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u0627\u062f",
+              "common": "\u0686\u0627\u062f"
             }
         },
         "latlng": [
@@ -29032,6 +29900,10 @@
             "kor": {
                 "official": "\ud1a0\uace0 \uacf5\ud654\uad6d",
                 "common": "\ud1a0\uace0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0648\u06af\u0648",
+              "common": "\u062a\u0648\u06af\u0648"
             }
         },
         "latlng": [
@@ -29165,6 +30037,10 @@
             "kor": {
                 "official": "\ud0c0\uc774 \uc655\uad6d",
                 "common": "\ud0dc\uad6d"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062a\u0627\u06cc\u0644\u0646\u062f",
+              "common": "\u062a\u0627\u06cc\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -29302,6 +30178,10 @@
             "kor": {
                 "official": "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4 \uacf5\ud654\uad6d",
                 "common": "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646",
+              "common": "\u062a\u0627\u062c\u06cc\u06a9\u0650\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -29440,6 +30320,10 @@
             "kor": {
                 "official": "\ud1a0\ucf08\ub77c\uc6b0",
                 "common": "\ud1a0\ucf08\ub77c\uc6b0"
+            },
+            "per": {
+              "official": "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648",
+              "common": "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -29568,6 +30452,10 @@
             "kor": {
                 "official": "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4",
                 "common": "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646",
+              "common": "\u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -29707,6 +30595,10 @@
             "kor": {
                 "official": "\ub3d9\ud2f0\ubaa8\ub974 \ubbfc\uc8fc \uacf5\ud654\uad6d",
                 "common": "\ub3d9\ud2f0\ubaa8\ub974"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc",
+              "common": "\u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc"
             }
         },
         "latlng": [
@@ -29837,6 +30729,10 @@
             "kor": {
                 "official": "\ud1b5\uac00 \uc655\uad6d",
                 "common": "\ud1b5\uac00"
+            },
+            "per": {
+              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062a\u0648\u0646\u06af\u0627",
+              "common": "\u062a\u0648\u0646\u06af\u0627"
             }
         },
         "latlng": [
@@ -29961,6 +30857,10 @@
             "kor": {
                 "official": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0 \uacf5\ud654\uad6d",
                 "common": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648",
+              "common": "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648"
             }
         },
         "latlng": [
@@ -30086,6 +30986,10 @@
             "kor": {
                 "official": "\ud280\ub2c8\uc9c0 \uacf5\ud654\uad6d",
                 "common": "\ud280\ub2c8\uc9c0"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0648\u0646\u0633",
+              "common": "\u062a\u0648\u0646\u0633"
             }
         },
         "latlng": [
@@ -30215,6 +31119,10 @@
             "kor": {
                 "official": "\ud130\ud0a4 \uacf5\ud654\uad6d",
                 "common": "\ud130\ud0a4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0631\u06a9\u06cc\u0647",
+              "common": "\u062a\u0631\u06a9\u06cc\u0647"
             }
         },
         "latlng": [
@@ -30356,6 +31264,10 @@
             "kor": {
                 "official": "\ud22c\ubc1c\ub8e8",
                 "common": "\ud22c\ubc1c\ub8e8"
+            },
+            "per": {
+              "official": "\u062a\u0648\u0648\u0627\u0644\u0648",
+              "common": "\u062a\u0648\u0648\u0627\u0644\u0648"
             }
         },
         "latlng": [
@@ -30482,6 +31394,10 @@
             "kor": {
                 "official": "\uc911\ud654\ubbfc\uad6d",
                 "common": "\ub300\ub9cc"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06cc\u0646",
+              "common": "\u062a\u0627\u06cc\u0648\u0627\u0646"
             }
         },
         "latlng": [
@@ -30613,6 +31529,10 @@
             "kor": {
                 "official": "\ud0c4\uc790\ub2c8\uc544 \uc5f0\ud569 \uacf5\ud654\uad6d",
                 "common": "\ud0c4\uc790\ub2c8\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u062a\u062d\u062f \u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627",
+              "common": "\u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627"
             }
         },
         "latlng": [
@@ -30752,6 +31672,10 @@
             "kor": {
                 "official": "\uc6b0\uac04\ub2e4 \uacf5\ud654\uad6d",
                 "common": "\uc6b0\uac04\ub2e4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0648\u06af\u0627\u0646\u062f\u0627",
+              "common": "\u0627\u0648\u06af\u0627\u0646\u062f\u0627"
             }
         },
         "latlng": [
@@ -30883,6 +31807,10 @@
             "kor": {
                 "official": "\uc6b0\ud06c\ub77c\uc774\ub098",
                 "common": "\uc6b0\ud06c\ub77c\uc774\ub098"
+            },
+            "per": {
+              "official": "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646",
+              "common": "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
             }
         },
         "latlng": [
@@ -31014,6 +31942,10 @@
             "kor": {
                 "official": "\ubbf8\uad6d\ub839 \uad70\uc18c \uc81c\ub3c4",
                 "common": "\ubbf8\uad6d\ub839 \uad70\uc18c \uc81c\ub3c4"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u0686\u06a9 \u062d\u0627\u0634\u06cc\u0647\u200c\u0627\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u0686\u06a9 \u062d\u0627\u0634\u06cc\u0647\u200c\u0627\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -31139,6 +32071,10 @@
             "kor": {
                 "official": "\uc6b0\ub8e8\uacfc\uc774 \ub3d9\ubc29 \uacf5\ud654\uad6d",
                 "common": "\uc6b0\ub8e8\uacfc\uc774"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u0648\u06af\u0648\u0626\u0647",
+              "common": "\u0627\u0631\u0648\u06af\u0648\u0626\u0647"
             }
         },
         "latlng": [
@@ -31583,6 +32519,10 @@
             "kor": {
                 "official": "\uc544\uba54\ub9ac\uce74 \ud569\uc911\uad6d",
                 "common": "\ubbf8\uad6d"
+            },
+            "per": {
+              "official": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+              "common": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -31717,6 +32657,10 @@
             "kor": {
                 "official": "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4 \uacf5\ud654\uad6d",
                 "common": "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646",
+              "common": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -31855,6 +32799,10 @@
             "kor": {
                 "official": "\ubc14\ud2f0\uce78 \uc2dc\uad6d",
                 "common": "\ubc14\ud2f0\uce78"
+            },
+            "per": {
+              "official": "\u062f\u0648\u0644\u062a\u200c\u0634\u0647\u0631 \u0648\u0627\u062a\u06cc\u06a9\u0627\u0646",
+              "common": "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646"
             }
         },
         "latlng": [
@@ -31980,6 +32928,10 @@
             "kor": {
                 "official": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518",
                 "common": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"
+            },
+            "per": {
+              "official": "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627",
+              "common": "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
             }
         },
         "latlng": [
@@ -32106,6 +33058,10 @@
             "kor": {
                 "official": "\ubca0\ub124\uc218\uc5d8\ub77c \ubcfc\ub9ac\ubc14\ub974 \uacf5\ud654\uad6d",
                 "common": "\ubca0\ub124\uc218\uc5d8\ub77c"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0644\u06cc\u0648\u0627\u0631\u06cc \u0648\u0646\u0632\u0648\u0626\u0644\u0627",
+              "common": "\u0648\u0646\u0632\u0648\u0626\u0644\u0627"
             }
         },
         "latlng": [
@@ -32234,6 +33190,10 @@
             "kor": {
                 "official": "\uc601\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc",
                 "common": "\uc601\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627"
             }
         },
         "latlng": [
@@ -32358,6 +33318,10 @@
             "kor": {
                 "official": "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc",
                 "common": "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -32484,6 +33448,10 @@
             "kor": {
                 "official": "\ubca0\ud2b8\ub0a8 \uc0ac\ud68c\uc8fc\uc758 \uacf5\ud654\uad6d",
                 "common": "\ubca0\ud2b8\ub0a8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u0633\u06cc\u0627\u0644\u06cc\u0633\u062a\u06cc \u0648\u06cc\u062a\u0646\u0627\u0645",
+              "common": "\u0648\u06cc\u062a\u0646\u0627\u0645"
             }
         },
         "latlng": [
@@ -32624,6 +33592,10 @@
             "kor": {
                 "official": "\ubc14\ub204\uc544\ud22c \uacf5\ud654\uad6d",
                 "common": "\ubc14\ub204\uc544\ud22c"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0648\u0627\u0646\u0648\u0627\u062a\u0648",
+              "common": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648"
             }
         },
         "latlng": [
@@ -32749,6 +33721,10 @@
             "kor": {
                 "official": "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098",
                 "common": "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098"
+            },
+            "per": {
+              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627",
+              "common": "\u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627"
             }
         },
         "latlng": [
@@ -32879,6 +33855,10 @@
             "kor": {
                 "official": "\uc0ac\ubaa8\uc544 \ub3c5\ub9bd\uad6d",
                 "common": "\uc0ac\ubaa8\uc544"
+            },
+            "per": {
+              "official": "\u0627\u06cc\u0627\u0644\u062a \u0645\u0633\u062a\u0642\u0644 \u0633\u0627\u0645\u0648\u0622",
+              "common": "\u0633\u0627\u0645\u0648\u0622"
             }
         },
         "latlng": [
@@ -33004,6 +33984,10 @@
             "kor": {
                 "official": "\uc608\uba58 \uacf5\ud654\uad6d",
                 "common": "\uc608\uba58"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06cc\u0645\u0646",
+              "common": "\u06cc\u0645\u0646"
             }
         },
         "latlng": [
@@ -33185,6 +34169,10 @@
             "kor": {
                 "official": "\ub0a8\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d",
                 "common": "\ub0a8\uc544\ud504\ub9ac\uce74"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc",
+              "common": "\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
             }
         },
         "latlng": [
@@ -33316,6 +34304,10 @@
             "kor": {
                 "official": "\uc7a0\ube44\uc544 \uacf5\ud654\uad6d",
                 "common": "\uc7a0\ube44\uc544"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0632\u0627\u0645\u0628\u06cc\u0627",
+              "common": "\u0632\u0627\u0645\u0628\u06cc\u0627"
             }
         },
         "latlng": [
@@ -33551,6 +34543,10 @@
             "kor": {
                 "official": "\uc9d0\ubc14\ube0c\uc6e8 \uacf5\ud654\uad6d",
                 "common": "\uc9d0\ubc14\ube0c\uc6e8"
+            },
+            "per": {
+              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647",
+              "common": "\u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647"
             }
         },
         "latlng": [
