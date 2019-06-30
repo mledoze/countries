@@ -1,22 +1,19 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Converter;
 
 /**
- * Interface Converter
+ * Interface for all converters
  */
 interface ConverterInterface
 {
 
     /**
-     * Convert into a new format
+     * Convert countries data into a new format
+     * @param array $countries
      * @return string
      */
-    public function convert();
-
-    /**
-     * Save the converted data to the disk
-     * @return mixed
-     */
-    public function save();
+    public function convert(array $countries): string;
 }

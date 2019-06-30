@@ -3,9 +3,11 @@
 [![Latest Stable Version](https://img.shields.io/npm/v/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 [![Latest Stable Version](https://img.shields.io/packagist/v/mledoze/countries.svg?style=flat)](https://packagist.org/packages/mledoze/countries)
 [![License](https://img.shields.io/packagist/l/mledoze/countries.svg?style=flat)](https://opendatacommons.org/licenses/odbl/1.0/)
-[![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
-[![Build Status](https://travis-ci.org/mledoze/countries.svg?branch=master)](https://travis-ci.org/mledoze/countries)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/mledoze/countries.svg)](https://packagist.org/packages/mledoze/countries)
+
+[![Build Status](https://travis-ci.org/mledoze/countries.svg?branch=master)](https://travis-ci.org/mledoze/countries)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mledoze/countries/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mledoze/countries/?branch=master)
+[![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 
 ## Countries data
 This repository contains lists of world countries, as defined by [ISO Standard 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1),
@@ -17,8 +19,8 @@ in JSON, CSV and XML. Each line contains the country:
  	 - `native` - list of all native names
  	 	- key: three-letter ISO 639-3 language code
 	 	- value: name object
-	 		+ key: official - official name translation
-	 		+ key: common - common name translation
+	 		- key: official - official name translation
+	 		- key: common - common name translation
  - country code top-level domain (`tld`)
  - code ISO 3166-1 alpha-2 (`cca2`)
  - code ISO 3166-1 numeric (`ccn3`)
@@ -26,8 +28,14 @@ in JSON, CSV and XML. Each line contains the country:
  - code International Olympic Committee (`cioc`)
  - ISO 3166-1 independence status (`independent`) (denotes the country is considered a sovereign state)
  - ISO 3166-1 assignment status (`status`)
- - ISO 4217 currency code(s) (`currency`)
- - calling code(s) (`callingCode`)
+ - `currencies` - list of all currencies
+ 	- key: ISO 4217 currency code
+ 	- value: currency object
+ 		- key: `name` name of the currency
+ 		- key: `symbol` symbol of the currency
+ - International Direct Dialing info (`idd`)
+ 	- `root` - the root geographical code prefix. e.g. +6 for New Zealand, +4 for UK.
+ 	- `suffixes` - list of all suffixes assigned to this country. 4 for NZ, 809, 829, and 849 for Dominican Republic.
  - capital city(ies) (`capital`)
  - alternative spellings (`altSpellings`)
  - region
@@ -38,8 +46,8 @@ in JSON, CSV and XML. Each line contains the country:
  - list of name translations (`translations`)
  	- key: three-letter ISO 639-3 language code
  	- value: name object
- 		+ key: official - official name translation
- 		+ key: common - common name translation
+ 		- key: official - official name translation
+ 		- key: common - common name translation
  - latitude and longitude (`latlng`)
  - name of residents (`demonym`)
  - landlocked status (`landlocked`)
@@ -73,7 +81,10 @@ GeoJSON outlines and flags in SVG format.
 	"independent": true,
 	"status": "officially-assigned",
 	"currency": ["EUR"],
-	"callingCode": ["43"],
+	"idd": {
+		"root": "+4",
+		"suffixes": ["3"]
+	},
 	"capital": ["Vienna"],
 	"altSpellings": ["AT", "Osterreich", "Oesterreich"],
 	"region": "Europe",
@@ -107,11 +118,11 @@ See an example for Germany: [GeoJSON](https://github.com/mledoze/countries/blob/
 
 ##### CSV
 ```csv
-"name";"tld";"cca2";"ccn3";"cca3";"currency";"callingCode";"capital";"altSpellings";"region";"subregion";"languages";"translations";"latlng";"demonym";"landlocked";"borders";"area"
+"name";"tld";"cca2";"ccn3";"cca3";"cioc";"currency";"idd";"capital";"altSpellings";"region";"subregion";"languages";"translations";"latlng";"demonym";"landlocked";"borders";"area"
 ⋮
-"Aruba,Aruba,Aruba,Aruba,Aruba,Aruba";".aw";"AW";"533";"ABW";"ARU";"AWG";"297";"Oranjestad";"AW";"Americas";"Caribbean";"Dutch,Papiamento";"Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,アルバ,アルバ,Aruba,Aruba,Aruba,Aruba,Аруба,Аруба,Aruba,Aruba";"12.5,-69.96666666";"Aruban";"";"";"180"
-"Afghanistan,Islamic Republic of Afghanistan,جمهوری اسلامی افغانستان,افغانستان,د افغانستان اسلامي جمهوریت,افغانستان,Owganystan Yslam Respublikasy,Owganystan";".af";"AF";"004";"AFG";"AFG";"AFN";"93";"Kabul";"AF,Afġānistān";"Asia";"Southern Asia";"Dari,Pashto,Turkmen";"Islamic Republic of Afghanistan,Affganistan,Islamischen Republik Afghanistan,Afghanistan,République islamique d'Afghanistan,Afghanistan,Islamska Republika Afganistan,Afganistan,Repubblica islamica dell'Afghanistan,Afghanistan,アフガニスタン·イスラム共和国,アフガニスタン,Islamitische Republiek Afghanistan,Afghanistan,República Islâmica do Afeganistão,Afeganistão,Исламская Республика Афганистан,Афганистан,República Islámica de Afganistán,Afganistán";"33,65";"Afghan";"1";"IRN,PAK,TKM,UZB,TJK,CHN";"652230"
-"Angola,Republic of Angola,República de Angola,Angola";".ao";"AO";"024";"AGO";"ANG";"AOA";"244";"Luanda";"AO,República de Angola,ʁɛpublika de an'ɡɔla";"Africa";"Middle Africa";"Portuguese";"Republic of Angola,Angola,Republik Angola,Angola,République d'Angola,Angola,Republika Angola,Angola,Repubblica dell'Angola,Angola,アンゴラ共和国,アンゴラ,Republiek Angola,Angola,República de Angola,Angola,Республика Ангола,Ангола,República de Angola,Angola";"-12.5,18.5";"Angolan";"";"COG,COD,ZMB,NAM";"1246700"
+"Aruba,Aruba,Aruba,Aruba,Aruba,Aruba";".aw";"AW";"533";"ABW";"ARU";"AWG";"+2,97";"Oranjestad";"AW";"Americas";"Caribbean";"Dutch,Papiamento";"Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,アルバ,アルバ,Aruba,Aruba,Aruba,Aruba,Аруба,Аруба,Aruba,Aruba";"12.5,-69.96666666";"Aruban";"";"";"180"
+"Afghanistan,Islamic Republic of Afghanistan,جمهوری اسلامی افغانستان,افغانستان,د افغانستان اسلامي جمهوریت,افغانستان,Owganystan Yslam Respublikasy,Owganystan";".af";"AF";"004";"AFG";"AFG";"AFN";"+9,3";"Kabul";"AF,Afġānistān";"Asia";"Southern Asia";"Dari,Pashto,Turkmen";"Islamic Republic of Afghanistan,Affganistan,Islamischen Republik Afghanistan,Afghanistan,Afganistanin islamilainen tasavalta,Afganistan,République islamique d'Afghanistan,Afghanistan,Islamska Republika Afganistan,Afganistan,Repubblica islamica dell'Afghanistan,Afghanistan,アフガニスタン·イスラム共和国,アフガニスタン,Islamitische Republiek Afghanistan,Afghanistan,República Islâmica do Afeganistão,Afeganistão,Исламская Республика Афганистан,Афганистан,República Islámica de Afganistán,Afganistán";"33,65";"Afghan";"1";"IRN,PAK,TKM,UZB,TJK,CHN";"652230"
+"Angola,Republic of Angola,República de Angola,Angola";".ao";"AO";"024";"AGO";"ANG";"AOA";"+2,44";"Luanda";"AO,República de Angola,ʁɛpublika de an'ɡɔla";"Africa";"Middle Africa";"Portuguese";"Republic of Angola,Angola,Republik Angola,Angola,Angolan tasavalta,Angola,République d'Angola,Angola,Republika Angola,Angola,Repubblica dell'Angola,Angola,アンゴラ共和国,アンゴラ,Republiek Angola,Angola,República de Angola,Angola,Республика Ангола,Ангола,República de Angola,Angola";"-12.5,18.5";"Angolan";"";"COG,COD,ZMB,NAM";"1246700"
 ⋮
 ```
 
@@ -119,18 +130,18 @@ See an example for Germany: [GeoJSON](https://github.com/mledoze/countries/blob/
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
-  <country name="Aruba,Aruba,Aruba,Aruba,Aruba,Aruba" tld=".aw" cca2="AW" ccn3="533" cca3="ABW" cioc="ARU" currency="AWG" callingCode="297" capital="Oranjestad" altSpellings="AW" region="Americas" subregion="Caribbean" languages="Dutch,Papiamento" translations="Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,アルバ,アルバ,Aruba,Aruba,Aruba,Aruba,Аруба,Аруба,Aruba,Aruba" latlng="12.5,-69.96666666" demonym="Aruban" landlocked="" borders="" area="180"/>
-  <country name="Afghanistan,Islamic Republic of Afghanistan,جمهوری اسلامی افغانستان,افغانستان,د افغانستان اسلامي جمهوریت,افغانستان,Owganystan Yslam Respublikasy,Owganystan" tld=".af" cca2="AF" ccn3="004" cca3="AFG" cioc="AFG" currency="AFN" callingCode="93" capital="Kabul" altSpellings="AF,Afġānistān" region="Asia" subregion="Southern Asia" languages="Dari,Pashto,Turkmen" translations="Islamic Republic of Afghanistan,Affganistan,Islamischen Republik Afghanistan,Afghanistan,République islamique d'Afghanistan,Afghanistan,Islamska Republika Afganistan,Afganistan,Repubblica islamica dell'Afghanistan,Afghanistan,アフガニスタン·イスラム共和国,アフガニスタン,Islamitische Republiek Afghanistan,Afghanistan,República Islâmica do Afeganistão,Afeganistão,Исламская Республика Афганистан,Афганистан,República Islámica de Afganistán,Afganistán" latlng="33,65" demonym="Afghan" landlocked="1" borders="IRN,PAK,TKM,UZB,TJK,CHN" area="652230"/>
-  <country name="Angola,Republic of Angola,República de Angola,Angola" tld=".ao" cca2="AO" ccn3="024" cca3="AGO" cioc="ANG" currency="AOA" callingCode="244" capital="Luanda" altSpellings="AO,República de Angola,ʁɛpublika de an'ɡɔla" region="Africa" subregion="Middle Africa" languages="Portuguese" translations="Republic of Angola,Angola,Republik Angola,Angola,République d'Angola,Angola,Republika Angola,Angola,Repubblica dell'Angola,Angola,アンゴラ共和国,アンゴラ,Republiek Angola,Angola,República de Angola,Angola,Республика Ангола,Ангола,República de Angola,Angola" latlng="-12.5,18.5" demonym="Angolan" landlocked="" borders="COG,COD,ZMB,NAM" area="1246700"/>  
+  <country name="Aruba,Aruba,Aruba,Aruba,Aruba,Aruba" tld=".aw" cca2="AW" ccn3="533" cca3="ABW" cioc="ARU" currency="AWG" idd="+2,97" capital="Oranjestad" altSpellings="AW" region="Americas" subregion="Caribbean" languages="Dutch,Papiamento" translations="Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,Aruba,アルバ,アルバ,Aruba,Aruba,Aruba,Aruba,Аруба,Аруба,Aruba,Aruba" latlng="12.5,-69.96666666" demonym="Aruban" landlocked="" borders="" area="180"/>
+  <country name="Afghanistan,Islamic Republic of Afghanistan,جمهوری اسلامی افغانستان,افغانستان,د افغانستان اسلامي جمهوریت,افغانستان,Owganystan Yslam Respublikasy,Owganystan" tld=".af" cca2="AF" ccn3="004" cca3="AFG" cioc="AFG" currency="AFN" idd="+9,3" capital="Kabul" altSpellings="AF,Afġānistān" region="Asia" subregion="Southern Asia" languages="Dari,Pashto,Turkmen" translations="Islamic Republic of Afghanistan,Affganistan,Islamischen Republik Afghanistan,Afghanistan,Afganistanin islamilainen tasavalta,Afganistan,République islamique d'Afghanistan,Afghanistan,Islamska Republika Afganistan,Afganistan,Repubblica islamica dell'Afghanistan,Afghanistan,アフガニスタン·イスラム共和国,アフガニスタン,Islamitische Republiek Afghanistan,Afghanistan,República Islâmica do Afeganistão,Afeganistão,Исламская Республика Афганистан,Афганистан,República Islámica de Afganistán,Afganistán" latlng="33,65" demonym="Afghan" landlocked="1" borders="IRN,PAK,TKM,UZB,TJK,CHN" area="652230"/>
+  <country name="Angola,Republic of Angola,República de Angola,Angola" tld=".ao" cca2="AO" ccn3="024" cca3="AGO" cioc="ANG" currency="AOA" idd="+2,44" capital="Luanda" altSpellings="AO,República de Angola,ʁɛpublika de an'ɡɔla" region="Africa" subregion="Middle Africa" languages="Portuguese" translations="Republic of Angola,Angola,Republik Angola,Angola,Angolan tasavalta,Angola,République d'Angola,Angola,Republika Angola,Angola,Repubblica dell'Angola,Angola,アンゴラ共和国,アンゴラ,Republiek Angola,Angola,República de Angola,Angola,Республика Ангола,Ангола,República de Angola,Angola" latlng="-12.5,18.5" demonym="Angolan" landlocked="" borders="COG,COD,ZMB,NAM" area="1246700"/>
 ⋮
 <countries>
 ```
 
 ##### YAML
 ```yaml
-- { name: { common: Aruba, official: Aruba, native: { nld: { official: Aruba, common: Aruba }, pap: { official: Aruba, common: Aruba } } }, tld: [.aw], cca2: AW, ccn3: '533', cca3: ABW, cioc: ARU, currency: [AWG], callingCode: ['297'], capital: Oranjestad, altSpellings: [AW], region: Americas, subregion: Caribbean, languages: { nld: Dutch, pap: Papiamento }, translations: { deu: { official: Aruba, common: Aruba }, fra: { official: Aruba, common: Aruba }, hrv: { official: Aruba, common: Aruba }, ita: { official: Aruba, common: Aruba }, jpn: { official: アルバ, common: アルバ }, nld: { official: Aruba, common: Aruba }, por: { official: Aruba, common: Aruba }, rus: { official: Аруба, common: Аруба }, spa: { official: Aruba, common: Aruba } }, latlng: [12.5, -69.96666666], demonym: Aruban, landlocked: false, borders: {  }, area: 180 }
-- { name: { common: Afghanistan, official: 'Islamic Republic of Afghanistan', native: { prs: { official: 'جمهوری اسلامی افغانستان', common: افغانستان }, pus: { official: 'د افغانستان اسلامي جمهوریت', common: افغانستان }, tuk: { official: 'Owganystan Yslam Respublikasy', common: Owganystan } } }, tld: [.af], cca2: AF, ccn3: '004', cca3: AFG, cioc: AFG, currency: [AFN], callingCode: ['93'], capital: Kabul, altSpellings: [AF, Afġānistān], region: Asia, subregion: 'Southern Asia', languages: { prs: Dari, pus: Pashto, tuk: Turkmen }, translations: { cym: { official: 'Islamic Republic of Afghanistan', common: Affganistan }, deu: { official: 'Islamischen Republik Afghanistan', common: Afghanistan }, fra: { official: 'République islamique d''Afghanistan', common: Afghanistan }, hrv: { official: 'Islamska Republika Afganistan', common: Afganistan }, ita: { official: 'Repubblica islamica dell''Afghanistan', common: Afghanistan }, jpn: { official: アフガニスタン·イスラム共和国, common: アフガニスタン }, nld: { official: 'Islamitische Republiek Afghanistan', common: Afghanistan }, por: { official: 'República Islâmica do Afeganistão', common: Afeganistão }, rus: { official: 'Исламская Республика Афганистан', common: Афганистан }, spa: { official: 'República Islámica de Afganistán', common: Afganistán } }, latlng: [33, 65], demonym: Afghan, landlocked: true, borders: [IRN, PAK, TKM, UZB, TJK, CHN], area: 652230 }
-- { name: { common: Angola, official: 'Republic of Angola', native: { por: { official: 'República de Angola', common: Angola } } }, tld: [.ao], cca2: AO, ccn3: '024', cca3: AGO, cioc: ANG, currency: [AOA], callingCode: ['244'], capital: Luanda, altSpellings: [AO, 'República de Angola', 'ʁɛpublika de an''ɡɔla'], region: Africa, subregion: 'Middle Africa', languages: { por: Portuguese }, translations: { cym: { official: 'Republic of Angola', common: Angola }, deu: { official: 'Republik Angola', common: Angola }, fra: { official: 'République d''Angola', common: Angola }, hrv: { official: 'Republika Angola', common: Angola }, ita: { official: 'Repubblica dell''Angola', common: Angola }, jpn: { official: アンゴラ共和国, common: アンゴラ }, nld: { official: 'Republiek Angola', common: Angola }, por: { official: 'República de Angola', common: Angola }, rus: { official: 'Республика Ангола', common: Ангола }, spa: { official: 'República de Angola', common: Angola } }, latlng: [-12.5, 18.5], demonym: Angolan, landlocked: false, borders: [COG, COD, ZMB, NAM], area: 1246700 }
+- { name: { common: Aruba, official: Aruba, native: { nld: { official: Aruba, common: Aruba }, pap: { official: Aruba, common: Aruba } } }, tld: [.aw], cca2: AW, ccn3: '533', cca3: ABW, cioc: ARU, currency: [AWG], idd: { root: '+2', suffixes: ['97'] }, capital: Oranjestad, altSpellings: [AW], region: Americas, subregion: Caribbean, languages: { nld: Dutch, pap: Papiamento }, translations: { deu: { official: Aruba, common: Aruba }, fin: { official: Aruba, common: Aruba }, fra: { official: Aruba, common: Aruba }, hrv: { official: Aruba, common: Aruba }, ita: { official: Aruba, common: Aruba }, jpn: { official: アルバ, common: アルバ }, nld: { official: Aruba, common: Aruba }, por: { official: Aruba, common: Aruba }, rus: { official: Аруба, common: Аруба }, spa: { official: Aruba, common: Aruba } }, latlng: [12.5, -69.96666666], demonym: Aruban, landlocked: false, borders: {  }, area: 180 }
+- { name: { common: Afghanistan, official: 'Islamic Republic of Afghanistan', native: { prs: { official: 'جمهوری اسلامی افغانستان', common: افغانستان }, pus: { official: 'د افغانستان اسلامي جمهوریت', common: افغانستان }, tuk: { official: 'Owganystan Yslam Respublikasy', common: Owganystan } } }, tld: [.af], cca2: AF, ccn3: '004', cca3: AFG, cioc: AFG, currency: [AFN], idd: { root: '+9', suffixes: ['3'] }, capital: Kabul, altSpellings: [AF, Afġānistān], region: Asia, subregion: 'Southern Asia', languages: { prs: Dari, pus: Pashto, tuk: Turkmen }, translations: { cym: { official: 'Islamic Republic of Afghanistan', common: Affganistan }, deu: { official: 'Islamischen Republik Afghanistan', common: Afghanistan }, fin: { official: 'Afganistanin islamilainen tasavalta', common: Afganistan }, fra: { official: 'République islamique d''Afghanistan', common: Afghanistan }, hrv: { official: 'Islamska Republika Afganistan', common: Afganistan }, ita: { official: 'Repubblica islamica dell''Afghanistan', common: Afghanistan }, jpn: { official: アフガニスタン·イスラム共和国, common: アフガニスタン }, nld: { official: 'Islamitische Republiek Afghanistan', common: Afghanistan }, por: { official: 'República Islâmica do Afeganistão', common: Afeganistão }, rus: { official: 'Исламская Республика Афганистан', common: Афганистан }, spa: { official: 'República Islámica de Afganistán', common: Afganistán } }, latlng: [33, 65], demonym: Afghan, landlocked: true, borders: [IRN, PAK, TKM, UZB, TJK, CHN], area: 652230 }
+- { name: { common: Angola, official: 'Republic of Angola', native: { por: { official: 'República de Angola', common: Angola } } }, tld: [.ao], cca2: AO, ccn3: '024', cca3: AGO, cioc: ANG, currency: [AOA], idd: { root: '+2', suffixes: ['44'] }, capital: Luanda, altSpellings: [AO, 'República de Angola', 'ʁɛpublika de an''ɡɔla'], region: Africa, subregion: 'Middle Africa', languages: { por: Portuguese }, translations: { cym: { official: 'Republic of Angola', common: Angola }, deu: { official: 'Republik Angola', common: Angola }, fin: { official: 'Angolan tasavalta', common: Angola }, fra: { official: 'République d''Angola', common: Angola }, hrv: { official: 'Republika Angola', common: Angola }, ita: { official: 'Repubblica dell''Angola', common: Angola }, jpn: { official: アンゴラ共和国, common: アンゴラ }, nld: { official: 'Republiek Angola', common: Angola }, por: { official: 'República de Angola', common: Angola }, rus: { official: 'Республика Ангола', common: Ангола }, spa: { official: 'República de Angola', common: Angola } }, latlng: [-12.5, 18.5], demonym: Angolan, landlocked: false, borders: [COG, COD, ZMB, NAM], area: 1246700 }
 ```
 
 ## Customising the output

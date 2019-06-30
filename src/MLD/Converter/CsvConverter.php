@@ -1,9 +1,13 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Converter;
 
+use MLD\Enum\Fields;
+
 /**
- * Class CsvConverter
+ * Converts countries data to CSV format
  */
 class CsvConverter extends AbstractConverter
 {
@@ -14,42 +18,53 @@ class CsvConverter extends AbstractConverter
     private $glue = '","';
 
     /**
-     * @var string
+     * @inheritdoc
      */
-    private $body = '';
-
-    /**
-     * @return string data converted into CSV
-     */
-    public function convert()
+    public function convert(array $countries): string
     {
-        array_walk($this->countries, [$this, 'processCountry']);
-        $headers = '"' . implode($this->glue, array_keys($this->countries[0])) . '"';
-        return $headers . "\n" . $this->body;
+        $headers = $this->buildHeadersLine($countries);
+        $body = $this->buildBody($countries);
+        return $headers . PHP_EOL . $body;
     }
 
     /**
+     * @param array $countries
      * @return string
      */
-    public function getGlue()
+    private function buildHeadersLine(array $countries): string
     {
-        return $this->glue;
+        // special case for currencies, use keys only
+        $firstEntry = $this->extractCurrencyCodes($countries[0]);
+        $flattenedFirstEntry = $this->flatten($firstEntry);
+        return sprintf('"%s"', implode($this->glue, array_keys($flattenedFirstEntry)));
     }
 
     /**
-     * @param string $glue
+     * @param array $countries
+     * @return string
      */
-    public function setGlue($glue)
+    private function buildBody(array $countries): string
     {
-        $this->glue = $glue;
+        $lines = array_map(
+            function ($country) {
+                $country = $this->extractCurrencyCodes($country);
+                return sprintf('"%s"', implode($this->glue, $this->flatten($country)));
+            },
+            $countries
+        );
+        return implode(PHP_EOL, $lines) . PHP_EOL;
     }
 
     /**
-     * Processes a country.
-     * @param $array
+     * @param array $country
+     * @return array
      */
-    private function processCountry(&$array)
+    private function extractCurrencyCodes(array $country): array
     {
-        $this->body .= '"' . implode($this->glue, $this->convertArrays($array)) . "\"\n";
+        if (isset($country[Fields::CURRENCIES])) {
+            $country[Fields::CURRENCIES] = array_keys($country[Fields::CURRENCIES]);
+        }
+
+        return $country;
     }
 }
