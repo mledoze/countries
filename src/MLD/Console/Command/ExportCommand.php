@@ -8,6 +8,8 @@ use MLD\Converter\Factory;
 use MLD\Enum\ExportCommandOptions;
 use MLD\Enum\Formats;
 use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Exception\InvalidArgumentException;
+use Symfony\Component\Console\Exception\LogicException;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
@@ -39,7 +41,7 @@ class ExportCommand extends Command
      * @param string $inputFile Full path and filename of the input country data JSON file.
      * @param string $defaultOutputDirectory Full path to output directory for converted files.
      * @param string|null $name Name of the export command
-     * @throws \Symfony\Component\Console\Exception\LogicException
+     * @throws LogicException
      */
     public function __construct($inputFile, $defaultOutputDirectory, $name = 'convert')
     {
@@ -52,6 +54,7 @@ class ExportCommand extends Command
 
     /**
      * @inheritdoc
+     * @codeCoverageIgnore
      */
     protected function configure()
     {
@@ -88,9 +91,7 @@ class ExportCommand extends Command
     }
 
     /**
-     * @param InputInterface $input
-     * @param OutputInterface $output
-     * @throws \InvalidArgumentException
+     * @inheritDoc
      */
     protected function execute(InputInterface $input, OutputInterface $output)
     {
@@ -106,8 +107,7 @@ class ExportCommand extends Command
 
         $countries = $this->filterFields($countries, $outputFields);
 
-        /** @var array $formats */
-        $formats = $input->getOption(ExportCommandOptions::FORMAT);
+        $formats = $this->getFormats($input);
 
         foreach ($formats as $format) {
             if ($output->isVerbose()) {
@@ -128,6 +128,37 @@ class ExportCommand extends Command
         }
 
         $this->printResult($output, $countries, $formats);
+        return 0;
+    }
+
+    /**
+     * @param InputInterface $input
+     * @return array
+     */
+    protected function getFormats(InputInterface $input): array
+    {
+        return $input->getOption(ExportCommandOptions::FORMAT);
+    }
+
+    /**
+     * @param string $filename
+     * @param string $conversionResult
+     * @return bool
+     * @codeCoverageIgnore cannot be tested through unit tests
+     */
+    protected function saveConversion($filename, $conversionResult): bool
+    {
+        $outputFile = $this->outputDirectory . DIRECTORY_SEPARATOR . $filename;
+        $bytesWritten = file_put_contents($outputFile, $conversionResult);
+        return $bytesWritten !== false;
+    }
+
+    /**
+     * @return Factory
+     */
+    private function createConverterFactory(): Factory
+    {
+        return new Factory();
     }
 
     /**
@@ -143,7 +174,7 @@ class ExportCommand extends Command
 
         $flippedOutputFields = array_flip($outputFields);
         return array_map(
-            function ($country) use ($flippedOutputFields) {
+            static function ($country) use ($flippedOutputFields) {
                 return array_intersect_key($country, $flippedOutputFields);
             },
             $countries
@@ -154,7 +185,7 @@ class ExportCommand extends Command
      * @param InputInterface $input
      * @param array $countries
      * @return array
-     * @throws \Symfony\Component\Console\Exception\InvalidArgumentException
+     * @throws InvalidArgumentException
      */
     private function getOutputFields(InputInterface $input, array $countries): array
     {
@@ -170,14 +201,6 @@ class ExportCommand extends Command
         }
 
         return $outputFields;
-    }
-
-    /**
-     * @return Factory
-     */
-    private function createConverterFactory(): Factory
-    {
-        return new Factory();
     }
 
     /**
@@ -207,16 +230,6 @@ class ExportCommand extends Command
                 $formatsCount
             )
         );
-    }
-
-    /**
-     * @param string $filename
-     * @param string $conversionResult
-     */
-    private function saveConversion($filename, $conversionResult): void
-    {
-        $outputFile = $this->outputDirectory . DIRECTORY_SEPARATOR . $filename;
-        file_put_contents($outputFile, $conversionResult);
     }
 
     /**
@@ -253,7 +266,7 @@ class ExportCommand extends Command
 
     /**
      * @param InputInterface $input
-     * @throws \Symfony\Component\Console\Exception\InvalidArgumentException
+     * @throws InvalidArgumentException
      */
     private function setOutputDirectory(InputInterface $input): void
     {

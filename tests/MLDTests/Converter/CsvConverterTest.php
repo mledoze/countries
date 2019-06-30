@@ -13,7 +13,7 @@ class CsvConverterTest extends TestCase
     /**
      * @var CsvConverter
      */
-    private $_converter;
+    private $converter;
 
     /**
      * @inheritDoc
@@ -21,7 +21,7 @@ class CsvConverterTest extends TestCase
     protected function setUp(): void
     {
         parent::setUp();
-        $this->_converter = new CsvConverter();
+        $this->converter = new CsvConverter();
     }
 
     public function testConvertReturnsCsvData(): void
@@ -54,7 +54,7 @@ class CsvConverterTest extends TestCase
 
 CSV;
 
-        $conversionResult = $this->_converter->convert([$country]);
+        $conversionResult = $this->converter->convert([$country]);
 
         $this->assertSame($expectedCsv, $conversionResult);
     }
@@ -74,7 +74,7 @@ CSV;
 
 CSV;
 
-        $conversionResult = $this->_converter->convert([$country]);
+        $conversionResult = $this->converter->convert([$country]);
 
         $this->assertSame($expectedCsv, $conversionResult);
     }
