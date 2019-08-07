@@ -9,12 +9,11 @@ use NilPortugues\Sql\QueryBuilder\Builder\GenericBuilder;
  */
 class SQLInsertConverter extends AbstractSQLConverter
 {
-
-    function generateStatement($values)
+    function generateStatement($table, $values)
     {
         $builder = new GenericBuilder();
         $query = $builder->insert()
-                ->setTable('country')
+                ->setTable($table)
                 ->setValues($values);
         $sql = $builder->write($query);   
         $values = $builder->getValues();

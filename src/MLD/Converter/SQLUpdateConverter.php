@@ -9,14 +9,14 @@ use NilPortugues\Sql\QueryBuilder\Builder\GenericBuilder;
  */
 class SQLUpdateConverter extends AbstractSQLConverter
 {
-    function generateStatement($values)
+    function generateStatement($table, $values)
     {
         $builder = new GenericBuilder();
         $query = $builder->update()
-                ->setTable('country')
+                ->setTable($table)
                 ->setValues($values)
                 ->where()
-                ->equals(CIOC, $values[CIOC])
+                ->equals(IDD, $values[IDD])
                 ->end();
         $sql = $builder->write($query);   
         $values = $builder->getValues();
