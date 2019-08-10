@@ -1,7 +1,12 @@
 <?php
 
-namespace MLD\Converter;
+namespace MLD\Converter\SQL;
 
+use MLD\Converter\AbstractConverter;
+use MLD\Converter\SQL\Countries;
+
+const PRIMARYKEY = "id";
+const COUNTRY_PRIMARYKEY = "country_id";
 const NAME = "name";
 const OFFICIAL = "official";
 const COMMON = "common";
@@ -31,13 +36,26 @@ abstract class AbstractSQLConverter extends AbstractConverter
     private $body = '';
 
     /**
+     * @var int
+     */
+    private $translationPrimaryKey = 1;
+
+    /**
      * @return string data converted to Yaml
      */
     public function convert()
     {
-        print_r($this->countries[0]);
+        # print_r($this->countries[0]);
         array_walk($this->countries, [$this, 'processCountry']);
         return $this->body;
+    }
+
+    private function getIDForOfficialCountryName($official)
+    {
+        if (in_array($official, Countries::MAP)) { 
+            return Countries::MAP[$official];
+        } 
+        throw new Exception('ID for country not found: "' . $official . '"!');
     }
 
     /**
@@ -49,10 +67,14 @@ abstract class AbstractSQLConverter extends AbstractConverter
       //  if (isset($data['currencies'])) {
       //      $data['currencies'] = array_keys($data['currencies']);
       //  }
+        $offical = $data['name']['official'];  
+
         $values = array();
+        $primaryKey = $this->getIDForOfficialCountryName($offical);
+        $values[PRIMARYKEY] = $primaryKey;
         $values[NAME] = $data['name']['common'];
-        $values[OFFICIAL] = $data['name']['official'];
-        
+        $values[OFFICIAL] = $offical;
+
         if (isset($data['tld'][0])) {
             $values[TLD] = $data['tld'][0];
         }
@@ -93,10 +115,13 @@ abstract class AbstractSQLConverter extends AbstractConverter
            $values[LATITUDE] = $data['latlng'][0];
            $values[LONGITUDE] = $data['latlng'][1];
         }
-        $this->body .= $this->generateStatement("country", $values). ";\n";
-
+        $stmt = $this->generateStatement("country", $values, PRIMARYKEY, $primaryKey);
+        if($stmt == null) {
+            return;
+        }
+        $this->body .=  $stmt . ";\n";
         if (is_array($data['translations']) && count($data['translations']) > 0) {
-            array_walk($data['translations'], [$this, 'processTranslationsForCountry']);
+            array_walk($data['translations'], [$this, 'processTranslationsForCountry'], $primaryKey);
         }
     }
 
@@ -104,21 +129,27 @@ abstract class AbstractSQLConverter extends AbstractConverter
      * Processes all the translations for a country.
      * @param $array
      */
-    private function processTranslationsForCountry($value, $key) 
+    private function processTranslationsForCountry($value, $key, $countryPrimaryKey) 
     {
         if (!is_array($value)) {
             return;
         }
         $translation = array();
+        $translation[COUNTRY_PRIMARYKEY] = $countryPrimaryKey;
         $translation[LANGUAGE] = $key;
         $translation[OFFICIAL] = $value['official'];
         $translation[COMMON] = $value['common'];
-        $this->body .= $this->generateStatement("country_translations", $translation). ";\n";
+        $stmt = $this->generateStatement("country_translations", $translation);
+        if($stmt == null) {
+            return;
+        }
+        $this->body .=  $stmt . ";\n";
+        $this->translationPrimaryKey++;
     }
 
     /**
      * Generate a statement from an array of values.
      * @param $array
      */
-    abstract protected function generateStatement(string $table, array $values);
+    abstract protected function generateStatement(string $table, array $values, string $primaryKeyColumn = null, int $primaryKey = -1);
 }

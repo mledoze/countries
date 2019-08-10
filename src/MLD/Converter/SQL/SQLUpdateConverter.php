@@ -1,6 +1,6 @@
 <?php
 
-namespace MLD\Converter;
+namespace MLD\Converter\SQL;
 
 use NilPortugues\Sql\QueryBuilder\Builder\GenericBuilder;
 
@@ -9,14 +9,21 @@ use NilPortugues\Sql\QueryBuilder\Builder\GenericBuilder;
  */
 class SQLUpdateConverter extends AbstractSQLConverter
 {
-    function generateStatement($table, $values)
+    function generateStatement($table, $values, $primaryKeyColumn = null, $primaryKey = -1)
     {
+        if ($primaryKeyColumn == null || $primaryKey < 0 || !in_array($primaryKeyColumn, $values)) 
+        {
+            // throw new Exception('Missing primaryKey and primaryKeyColumn!');
+            return null;
+        }
+
+        unset($values[$primaryKeyColumn]);
         $builder = new GenericBuilder();
         $query = $builder->update()
                 ->setTable($table)
                 ->setValues($values)
                 ->where()
-                ->equals(IDD, $values[IDD])
+                ->equals($primaryKeyColumn, $primaryKey)
                 ->end();
         $sql = $builder->write($query);   
         $values = $builder->getValues();

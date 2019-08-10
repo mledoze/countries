@@ -1,6 +1,6 @@
 <?php
 
-namespace MLD\Converter;
+namespace MLD\Converter\SQL;
 
 use NilPortugues\Sql\QueryBuilder\Builder\GenericBuilder;
 
@@ -9,7 +9,7 @@ use NilPortugues\Sql\QueryBuilder\Builder\GenericBuilder;
  */
 class SQLInsertConverter extends AbstractSQLConverter
 {
-    function generateStatement($table, $values)
+    function generateStatement($table, $values, $primaryKeyColumn = null, $primaryKey = -1)
     {
         $builder = new GenericBuilder();
         $query = $builder->insert()
