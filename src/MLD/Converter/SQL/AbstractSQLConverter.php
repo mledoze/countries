@@ -26,6 +26,7 @@ const IDD = "idd";
 const LATITUDE = "lat";
 const LONGITUDE = "lng";
 const LANGUAGE = "language";
+const FLAG = "flag";
 
 /**
  * Class AbstractSQLConverter
@@ -148,6 +149,9 @@ abstract class AbstractSQLConverter extends AbstractConverter
            $values[LATITUDE] = $data['latlng'][0];
            $values[LONGITUDE] = $data['latlng'][1];
         }
+        if (isset($data['flag'])) {
+            $values[FLAG] = $this->unicode_encode($data['flag']);
+        }
         $stmt = $this->generateStatement("country", $values, PRIMARYKEY, $primaryKey);
         if($stmt == null) {
             return;
@@ -178,6 +182,12 @@ abstract class AbstractSQLConverter extends AbstractConverter
         }
         $this->body .=  $stmt . ";\n";
         $this->translationPrimaryKey++;
+    }
+
+    private function unicode_encode(string $value) 
+    {
+        $str = json_encode($value);
+        return trim($str, '"');
     }
 
     /**
