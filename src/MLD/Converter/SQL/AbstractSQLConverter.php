@@ -150,7 +150,7 @@ abstract class AbstractSQLConverter extends AbstractConverter
            $values[LONGITUDE] = $data['latlng'][1];
         }
         if (isset($data['flag'])) {
-            $values[FLAG] = $this->unicode_encode($data['flag']);
+            $values[FLAG] = $this->encode($data['flag']);
         }
         $stmt = $this->generateStatement("country", $values, PRIMARYKEY, $primaryKey);
         if($stmt == null) {
@@ -184,10 +184,9 @@ abstract class AbstractSQLConverter extends AbstractConverter
         $this->translationPrimaryKey++;
     }
 
-    private function unicode_encode(string $value) 
+    private function encode(string $value) 
     {
-        $str = json_encode($value);
-        return trim($str, '"');
+        return addslashes(trim(json_encode($value), '"'));
     }
 
     /**
