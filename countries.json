@@ -129,7 +129,8 @@
         "landlocked": false,
         "borders": [],
         "area": 180,
-        "flag": "\ud83c\udde6\ud83c\uddfc"
+        "flag": "\ud83c\udde6\ud83c\uddfc",
+        "ucid": 1
     },
     {
         "name": {
@@ -278,7 +279,8 @@
             "CHN"
         ],
         "area": 652230,
-        "flag": "\ud83c\udde6\ud83c\uddeb"
+        "flag": "\ud83c\udde6\ud83c\uddeb",
+        "ucid": 2
     },
     {
         "name": {
@@ -399,8 +401,8 @@
                 "common": "\uc559\uace8\ub77c"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0646\u06af\u0648\u0644\u0627",
-              "common": "\u0622\u0646\u06af\u0648\u0644\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0646\u06af\u0648\u0644\u0627",
+                "common": "\u0622\u0646\u06af\u0648\u0644\u0627"
             }
         },
         "latlng": [
@@ -416,7 +418,8 @@
             "NAM"
         ],
         "area": 1246700,
-        "flag": "\ud83c\udde6\ud83c\uddf4"
+        "flag": "\ud83c\udde6\ud83c\uddf4",
+        "ucid": 3
     },
     {
         "name": {
@@ -531,8 +534,8 @@
                 "common": "\uc575\uadc8\ub77c"
             },
             "per": {
-              "official": "\u0622\u0646\u06af\u0648\u06cc\u0644\u0627",
-              "common": "\u0622\u0646\u06af\u0648\u06cc\u0644\u0627"
+                "official": "\u0622\u0646\u06af\u0648\u06cc\u0644\u0627",
+                "common": "\u0622\u0646\u06af\u0648\u06cc\u0644\u0627"
             }
         },
         "latlng": [
@@ -543,7 +546,8 @@
         "landlocked": false,
         "borders": [],
         "area": 91,
-        "flag": "\ud83c\udde6\ud83c\uddee"
+        "flag": "\ud83c\udde6\ud83c\uddee",
+        "ucid": 4
     },
     {
         "name": {
@@ -661,8 +665,8 @@
                 "common": "\uc62c\ub780\ub4dc \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u0627\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -673,7 +677,8 @@
         "landlocked": false,
         "borders": [],
         "area": 1580,
-        "flag": "\ud83c\udde6\ud83c\uddfd"
+        "flag": "\ud83c\udde6\ud83c\uddfd",
+        "ucid": 5
     },
     {
         "name": {
@@ -795,8 +800,8 @@
                 "common": "\uc54c\ubc14\ub2c8\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0644\u0628\u0627\u0646\u06cc",
-              "common": "\u0622\u0644\u0628\u0627\u0646\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0644\u0628\u0627\u0646\u06cc",
+                "common": "\u0622\u0644\u0628\u0627\u0646\u06cc"
             }
         },
         "latlng": [
@@ -812,7 +817,8 @@
             "UNK"
         ],
         "area": 28748,
-        "flag": "\ud83c\udde6\ud83c\uddf1"
+        "flag": "\ud83c\udde6\ud83c\uddf1",
+        "ucid": 6
     },
     {
         "name": {
@@ -933,8 +939,8 @@
                 "common": "\uc548\ub3c4\ub77c"
             },
             "per": {
-              "official": "\u0634\u0627\u0647\u0632\u0627\u062f\u0647\u200c\u0646\u0634\u06cc\u0646 \u0622\u0646\u062f\u0648\u0631\u0627",
-              "common": "\u0622\u0646\u062f\u0648\u0631\u0627"
+                "official": "\u0634\u0627\u0647\u0632\u0627\u062f\u0647\u200c\u0646\u0634\u06cc\u0646 \u0622\u0646\u062f\u0648\u0631\u0627",
+                "common": "\u0622\u0646\u062f\u0648\u0631\u0627"
             }
         },
         "latlng": [
@@ -948,7 +954,8 @@
             "ESP"
         ],
         "area": 468,
-        "flag": "\ud83c\udde6\ud83c\udde9"
+        "flag": "\ud83c\udde6\ud83c\udde9",
+        "ucid": 7
     },
     {
         "name": {
@@ -1066,8 +1073,8 @@
                 "common": "\uc544\ub78d\uc5d0\ubbf8\ub9ac\ud2b8"
             },
             "per": {
-              "official": "\u0627\u0645\u0627\u0631\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0639\u0631\u0628\u06cc",
-              "common": "\u0627\u0645\u0627\u0631\u0627\u062a"
+                "official": "\u0627\u0645\u0627\u0631\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0639\u0631\u0628\u06cc",
+                "common": "\u0627\u0645\u0627\u0631\u0627\u062a"
             }
         },
         "latlng": [
@@ -1081,7 +1088,8 @@
             "SAU"
         ],
         "area": 83600,
-        "flag": "\ud83c\udde6\ud83c\uddea"
+        "flag": "\ud83c\udde6\ud83c\uddea",
+        "ucid": 8
     },
     {
         "name": {
@@ -1207,8 +1215,8 @@
                 "common": "\uc544\ub974\ud5e8\ud2f0\ub098"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646",
-              "common": "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646",
+                "common": "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
             }
         },
         "latlng": [
@@ -1225,7 +1233,8 @@
             "URY"
         ],
         "area": 2780400,
-        "flag": "\ud83c\udde6\ud83c\uddf7"
+        "flag": "\ud83c\udde6\ud83c\uddf7",
+        "ucid": 9
     },
     {
         "name": {
@@ -1347,8 +1356,8 @@
                 "common": "\uc544\ub974\uba54\ub2c8\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646",
-              "common": "\u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646",
+                "common": "\u0627\u0631\u0645\u0646\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -1364,7 +1373,8 @@
             "TUR"
         ],
         "area": 29743,
-        "flag": "\ud83c\udde6\ud83c\uddf2"
+        "flag": "\ud83c\udde6\ud83c\uddf2",
+        "ucid": 10
     },
     {
         "name": {
@@ -1487,8 +1497,8 @@
                 "common": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544"
             },
             "per": {
-              "official": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
-              "common": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627"
+                "official": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
+                "common": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -1499,13 +1509,14 @@
         "landlocked": false,
         "borders": [],
         "area": 199,
-        "flag": "\ud83c\udde6\ud83c\uddf8"
+        "flag": "\ud83c\udde6\ud83c\uddf8",
+        "ucid": 11
     },
     {
         "name": {
             "common": "Antarctica",
             "official": "Antarctica",
-            "native": {}
+            "native": []
         },
         "tld": [
             ".aq"
@@ -1529,7 +1540,7 @@
         ],
         "region": "Antarctic",
         "subregion": "",
-        "languages": {},
+        "languages": [],
         "translations": {
             "ces": {
                 "official": "Antarktida",
@@ -1604,8 +1615,8 @@
                 "common": "\ub0a8\uadf9"
             },
             "per": {
-              "official": "\u062c\u0646\u0648\u0628\u06af\u0627\u0646",
-              "common": "\u062c\u0646\u0648\u0628\u06af\u0627\u0646"
+                "official": "\u062c\u0646\u0648\u0628\u06af\u0627\u0646",
+                "common": "\u062c\u0646\u0648\u0628\u06af\u0627\u0646"
             }
         },
         "latlng": [
@@ -1616,7 +1627,8 @@
         "landlocked": false,
         "borders": [],
         "area": 14000000,
-        "flag": "\ud83c\udde6\ud83c\uddf6"
+        "flag": "\ud83c\udde6\ud83c\uddf6",
+        "ucid": 12
     },
     {
         "name": {
@@ -1732,8 +1744,8 @@
                 "common": "\ud504\ub791\uc2a4\ub839 \ub0a8\ubd80\uc640 \ub0a8\uadf9 \uc9c0\uc5ed"
             },
             "per": {
-              "official": "\u0633\u0631\u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u062c\u0646\u0648\u0628\u06af\u0627\u0646\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
-              "common": "\u0633\u0631\u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u062c\u0646\u0648\u0628\u06af\u0627\u0646\u06cc \u0641\u0631\u0627\u0646\u0633\u0647"
+                "official": "\u0633\u0631\u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u062c\u0646\u0648\u0628\u06af\u0627\u0646\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
+                "common": "\u0633\u0631\u0632\u0645\u06cc\u0646\u200c\u0647\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u062c\u0646\u0648\u0628\u06af\u0627\u0646\u06cc \u0641\u0631\u0627\u0646\u0633\u0647"
             }
         },
         "latlng": [
@@ -1744,7 +1756,8 @@
         "landlocked": false,
         "borders": [],
         "area": 7747,
-        "flag": "\ud83c\uddf9\ud83c\uddeb"
+        "flag": "\ud83c\uddf9\ud83c\uddeb",
+        "ucid": 13
     },
     {
         "name": {
@@ -1863,8 +1876,8 @@
                 "common": "\uc564\ud2f0\uac00 \ubc14\ubd80\ub2e4"
             },
             "per": {
-              "official": "\u0622\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627",
-              "common": "\u0622\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
+                "official": "\u0622\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627",
+                "common": "\u0622\u0646\u062a\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u062f\u0627"
             }
         },
         "latlng": [
@@ -1875,7 +1888,8 @@
         "landlocked": false,
         "borders": [],
         "area": 442,
-        "flag": "\ud83c\udde6\ud83c\uddec"
+        "flag": "\ud83c\udde6\ud83c\uddec",
+        "ucid": 14
     },
     {
         "name": {
@@ -1994,8 +2008,8 @@
                 "common": "\ud638\uc8fc"
             },
             "per": {
-              "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627",
-              "common": "\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
+                "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627",
+                "common": "\u0627\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"
             }
         },
         "latlng": [
@@ -2006,7 +2020,8 @@
         "landlocked": false,
         "borders": [],
         "area": 7692024,
-        "flag": "\ud83c\udde6\ud83c\uddfa"
+        "flag": "\ud83c\udde6\ud83c\uddfa",
+        "ucid": 15
     },
     {
         "name": {
@@ -2127,8 +2142,8 @@
                 "common": "\uc624\uc2a4\ud2b8\ub9ac\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u062a\u0631\u06cc\u0634",
-              "common": "\u0627\u062a\u0631\u06cc\u0634"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u062a\u0631\u06cc\u0634",
+                "common": "\u0627\u062a\u0631\u06cc\u0634"
             }
         },
         "latlng": [
@@ -2148,7 +2163,8 @@
             "CHE"
         ],
         "area": 83871,
-        "flag": "\ud83c\udde6\ud83c\uddf9"
+        "flag": "\ud83c\udde6\ud83c\uddf9",
+        "ucid": 16
     },
     {
         "name": {
@@ -2274,8 +2290,8 @@
                 "common": "\uc544\uc81c\ub974\ubc14\uc774\uc794"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646",
-              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646",
+                "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646"
             }
         },
         "latlng": [
@@ -2292,7 +2308,8 @@
             "TUR"
         ],
         "area": 86600,
-        "flag": "\ud83c\udde6\ud83c\uddff"
+        "flag": "\ud83c\udde6\ud83c\uddff",
+        "ucid": 17
     },
     {
         "name": {
@@ -2419,8 +2436,8 @@
                 "common": "\ubd80\ub8ec\ub514"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0631\u0648\u0646\u062f\u06cc",
-              "common": "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0631\u0648\u0646\u062f\u06cc",
+                "common": "\u0628\u0648\u0631\u0648\u0646\u062f\u06cc"
             }
         },
         "latlng": [
@@ -2435,7 +2452,8 @@
             "TZA"
         ],
         "area": 27834,
-        "flag": "\ud83c\udde7\ud83c\uddee"
+        "flag": "\ud83c\udde7\ud83c\uddee",
+        "ucid": 18
     },
     {
         "name": {
@@ -2572,8 +2590,8 @@
                 "common": "\ubca8\uae30\uc5d0"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u0644\u0698\u06cc\u06a9",
-              "common": "\u0628\u0644\u0698\u06cc\u06a9"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u0644\u0698\u06cc\u06a9",
+                "common": "\u0628\u0644\u0698\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -2589,7 +2607,8 @@
             "NLD"
         ],
         "area": 30528,
-        "flag": "\ud83c\udde7\ud83c\uddea"
+        "flag": "\ud83c\udde7\ud83c\uddea",
+        "ucid": 19
     },
     {
         "name": {
@@ -2710,8 +2729,8 @@
                 "common": "\ubca0\ub0c9"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0646\u06cc\u0646",
-              "common": "\u0628\u0646\u06cc\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0646\u06cc\u0646",
+                "common": "\u0628\u0646\u06cc\u0646"
             }
         },
         "latlng": [
@@ -2727,7 +2746,8 @@
             "TGO"
         ],
         "area": 112622,
-        "flag": "\ud83c\udde7\ud83c\uddef"
+        "flag": "\ud83c\udde7\ud83c\uddef",
+        "ucid": 20
     },
     {
         "name": {
@@ -2846,8 +2866,8 @@
                 "common": "\ubd80\ub974\ud0a4\ub098\ud30c\uc18c"
             },
             "per": {
-              "official": "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648",
-              "common": "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648"
+                "official": "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648",
+                "common": "\u0628\u0648\u0631\u06a9\u06cc\u0646\u0627\u0641\u0627\u0633\u0648"
             }
         },
         "latlng": [
@@ -2865,7 +2885,8 @@
             "TGO"
         ],
         "area": 272967,
-        "flag": "\ud83c\udde7\ud83c\uddeb"
+        "flag": "\ud83c\udde7\ud83c\uddeb",
+        "ucid": 21
     },
     {
         "name": {
@@ -2986,8 +3007,8 @@
                 "common": "\ubc29\uae00\ub77c\ub370\uc2dc"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u0628\u0646\u06af\u0644\u0627\u062f\u0634",
-              "common": "\u0628\u0646\u06af\u0644\u0627\u062f\u0634"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u0628\u0646\u06af\u0644\u0627\u062f\u0634",
+                "common": "\u0628\u0646\u06af\u0644\u0627\u062f\u0634"
             }
         },
         "latlng": [
@@ -3001,7 +3022,8 @@
             "IND"
         ],
         "area": 147570,
-        "flag": "\ud83c\udde7\ud83c\udde9"
+        "flag": "\ud83c\udde7\ud83c\udde9",
+        "ucid": 22
     },
     {
         "name": {
@@ -3122,8 +3144,8 @@
                 "common": "\ubd88\uac00\ub9ac\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646",
-              "common": "\u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646",
+                "common": "\u0628\u0644\u063a\u0627\u0631\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -3140,7 +3162,8 @@
             "TUR"
         ],
         "area": 110879,
-        "flag": "\ud83c\udde7\ud83c\uddec"
+        "flag": "\ud83c\udde7\ud83c\uddec",
+        "ucid": 23
     },
     {
         "name": {
@@ -3261,8 +3284,8 @@
                 "common": "\ubc14\ub808\uc778"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u062d\u0631\u06cc\u0646",
-              "common": "\u0628\u062d\u0631\u06cc\u0646"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u062d\u0631\u06cc\u0646",
+                "common": "\u0628\u062d\u0631\u06cc\u0646"
             }
         },
         "latlng": [
@@ -3273,7 +3296,8 @@
         "landlocked": false,
         "borders": [],
         "area": 765,
-        "flag": "\ud83c\udde7\ud83c\udded"
+        "flag": "\ud83c\udde7\ud83c\udded",
+        "ucid": 24
     },
     {
         "name": {
@@ -3397,8 +3421,8 @@
                 "common": "\ubc14\ud558\ub9c8"
             },
             "per": {
-              "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u0628\u0627\u0647\u0627\u0645\u0627",
-              "common": "\u0628\u0627\u0647\u0627\u0645\u0627"
+                "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u0628\u0627\u0647\u0627\u0645\u0627",
+                "common": "\u0628\u0627\u0647\u0627\u0645\u0627"
             }
         },
         "latlng": [
@@ -3409,7 +3433,8 @@
         "landlocked": false,
         "borders": [],
         "area": 13943,
-        "flag": "\ud83c\udde7\ud83c\uddf8"
+        "flag": "\ud83c\udde7\ud83c\uddf8",
+        "ucid": 25
     },
     {
         "name": {
@@ -3540,8 +3565,8 @@
                 "common": "\ubcf4\uc2a4\ub2c8\uc544 \ud5e4\ub974\uccb4\uace0\ube44\ub098"
             },
             "per": {
-              "official": "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646",
-              "common": "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646"
+                "official": "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646",
+                "common": "\u0628\u0648\u0633\u0646\u06cc \u0648 \u0647\u0631\u0632\u06af\u0648\u06cc\u0646"
             }
         },
         "latlng": [
@@ -3556,7 +3581,8 @@
             "SRB"
         ],
         "area": 51209,
-        "flag": "\ud83c\udde7\ud83c\udde6"
+        "flag": "\ud83c\udde7\ud83c\udde6",
+        "ucid": 26
     },
     {
         "name": {
@@ -3674,8 +3700,8 @@
                 "common": "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"
             },
             "per": {
-              "official": "\u0633\u0646 \u0628\u0627\u0631\u062a\u0644\u0645\u06cc",
-              "common": "\u0633\u0646 \u0628\u0627\u0631\u062a\u0644\u0645\u06cc"
+                "official": "\u0633\u0646 \u0628\u0627\u0631\u062a\u0644\u0645\u06cc",
+                "common": "\u0633\u0646 \u0628\u0627\u0631\u062a\u0644\u0645\u06cc"
             }
         },
         "latlng": [
@@ -3686,7 +3712,8 @@
         "landlocked": false,
         "borders": [],
         "area": 21,
-        "flag": "\ud83c\udde7\ud83c\uddf1"
+        "flag": "\ud83c\udde7\ud83c\uddf1",
+        "ucid": 27
     },
     {
         "name": {
@@ -3808,8 +3835,8 @@
                 "common": "\uc138\uc778\ud2b8\ud5ec\ub808\ub098"
             },
             "per": {
-              "official": "\u0633\u0646\u062a \u0647\u0644\u0646",
-              "common": "\u0633\u0646\u062a \u0647\u0644\u0646"
+                "official": "\u0633\u0646\u062a \u0647\u0644\u0646",
+                "common": "\u0633\u0646\u062a \u0647\u0644\u0646"
             }
         },
         "latlng": [
@@ -3820,7 +3847,8 @@
         "landlocked": false,
         "borders": [],
         "area": 394,
-        "flag": "\ud83c\uddf8\ud83c\udded"
+        "flag": "\ud83c\uddf8\ud83c\udded",
+        "ucid": 28
     },
     {
         "name": {
@@ -3948,8 +3976,8 @@
                 "common": "\ubca8\ub77c\ub8e8\uc2a4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0644\u0627\u0631\u0648\u0633",
-              "common": "\u0628\u0644\u0627\u0631\u0648\u0633"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0644\u0627\u0631\u0648\u0633",
+                "common": "\u0628\u0644\u0627\u0631\u0648\u0633"
             }
         },
         "latlng": [
@@ -3966,7 +3994,8 @@
             "UKR"
         ],
         "area": 207600,
-        "flag": "\ud83c\udde7\ud83c\uddfe"
+        "flag": "\ud83c\udde7\ud83c\uddfe",
+        "ucid": 29
     },
     {
         "name": {
@@ -4095,8 +4124,8 @@
                 "common": "\ubca8\ub9ac\uc988"
             },
             "per": {
-              "official": "\u0628\u0644\u06cc\u0632",
-              "common": "\u0628\u0644\u06cc\u0632"
+                "official": "\u0628\u0644\u06cc\u0632",
+                "common": "\u0628\u0644\u06cc\u0632"
             }
         },
         "latlng": [
@@ -4110,7 +4139,8 @@
             "MEX"
         ],
         "area": 22966,
-        "flag": "\ud83c\udde7\ud83c\uddff"
+        "flag": "\ud83c\udde7\ud83c\uddff",
+        "ucid": 30
     },
     {
         "name": {
@@ -4232,8 +4262,8 @@
                 "common": "\ubc84\ubba4\ub2e4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0628\u0631\u0645\u0648\u062f\u0627",
-              "common": "\u0628\u0631\u0645\u0648\u062f\u0627"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u0628\u0631\u0645\u0648\u062f\u0627",
+                "common": "\u0628\u0631\u0645\u0648\u062f\u0627"
             }
         },
         "latlng": [
@@ -4244,7 +4274,8 @@
         "landlocked": false,
         "borders": [],
         "area": 54,
-        "flag": "\ud83c\udde7\ud83c\uddf2"
+        "flag": "\ud83c\udde7\ud83c\uddf2",
+        "ucid": 31
     },
     {
         "name": {
@@ -4386,8 +4417,8 @@
                 "common": "\ubcfc\ub9ac\ube44\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0644\u06cc\u0648\u06cc",
-              "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0644\u06cc\u0648\u06cc",
+                "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc"
             }
         },
         "latlng": [
@@ -4404,7 +4435,8 @@
             "PER"
         ],
         "area": 1098581,
-        "flag": "\ud83c\udde7\ud83c\uddf4"
+        "flag": "\ud83c\udde7\ud83c\uddf4",
+        "ucid": 32
     },
     {
         "name": {
@@ -4524,8 +4556,8 @@
                 "common": "\uce74\ub9ac\ube0c \ub124\ub35c\ub780\ub4dc"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0627\u0631\u0627\u0626\u06cc\u0628 \u0647\u0644\u0646\u062f",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0627\u0631\u0627\u0626\u06cc\u0628 \u0647\u0644\u0646\u062f"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0627\u0631\u0627\u0626\u06cc\u0628 \u0647\u0644\u0646\u062f",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0627\u0631\u0627\u0626\u06cc\u0628 \u0647\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -4536,7 +4568,8 @@
         "landlocked": false,
         "borders": [],
         "area": 328,
-        "flag": ""
+        "flag": "",
+        "ucid": 33
     },
     {
         "name": {
@@ -4658,8 +4691,8 @@
                 "common": "\ube0c\ub77c\uc9c8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u062a\u06cc\u0648 \u0628\u0631\u0632\u06cc\u0644",
-              "common": "\u0628\u0631\u0632\u06cc\u0644"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u062a\u06cc\u0648 \u0628\u0631\u0632\u06cc\u0644",
+                "common": "\u0628\u0631\u0632\u06cc\u0644"
             }
         },
         "latlng": [
@@ -4681,7 +4714,8 @@
             "VEN"
         ],
         "area": 8515767,
-        "flag": "\ud83c\udde7\ud83c\uddf7"
+        "flag": "\ud83c\udde7\ud83c\uddf7",
+        "ucid": 34
     },
     {
         "name": {
@@ -4800,8 +4834,8 @@
                 "common": "\ubc14\ubca0\uc774\ub3c4\uc2a4"
             },
             "per": {
-              "official": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633",
-              "common": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+                "official": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633",
+                "common": "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
             }
         },
         "latlng": [
@@ -4812,7 +4846,8 @@
         "landlocked": false,
         "borders": [],
         "area": 430,
-        "flag": "\ud83c\udde7\ud83c\udde7"
+        "flag": "\ud83c\udde7\ud83c\udde7",
+        "ucid": 35
     },
     {
         "name": {
@@ -4938,8 +4973,8 @@
                 "common": "\ube0c\ub8e8\ub098\uc774"
             },
             "per": {
-              "official": "\u0628\u0631\u0648\u0646\u0626\u06cc \u0633\u0631\u0627\u06cc \u0635\u0644\u062d",
-              "common": "\u0628\u0631\u0648\u0646\u0626\u06cc"
+                "official": "\u0628\u0631\u0648\u0646\u0626\u06cc \u0633\u0631\u0627\u06cc \u0635\u0644\u062d",
+                "common": "\u0628\u0631\u0648\u0646\u0626\u06cc"
             }
         },
         "latlng": [
@@ -4952,7 +4987,8 @@
             "MYS"
         ],
         "area": 5765,
-        "flag": "\ud83c\udde7\ud83c\uddf3"
+        "flag": "\ud83c\udde7\ud83c\uddf3",
+        "ucid": 36
     },
     {
         "name": {
@@ -5076,8 +5112,8 @@
                 "common": "\ubd80\ud0c4"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u0648\u062a\u0627\u0646",
-              "common": "\u0628\u0648\u062a\u0627\u0646"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0628\u0648\u062a\u0627\u0646",
+                "common": "\u0628\u0648\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -5091,7 +5127,8 @@
             "IND"
         ],
         "area": 38394,
-        "flag": "\ud83c\udde7\ud83c\uddf9"
+        "flag": "\ud83c\udde7\ud83c\uddf9",
+        "ucid": 37
     },
     {
         "name": {
@@ -5203,8 +5240,8 @@
                 "common": "\ubd80\ubca0 \uc12c"
             },
             "per": {
-              "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0628\u0648\u0648\u0647",
-              "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0628\u0648\u0648\u0647"
+                "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0628\u0648\u0648\u0647",
+                "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0628\u0648\u0648\u0647"
             }
         },
         "latlng": [
@@ -5215,7 +5252,8 @@
         "landlocked": false,
         "borders": [],
         "area": 49,
-        "flag": "\ud83c\udde7\ud83c\uddfb"
+        "flag": "\ud83c\udde7\ud83c\uddfb",
+        "ucid": 38
     },
     {
         "name": {
@@ -5337,8 +5375,8 @@
                 "common": "\ubcf4\uce20\uc640\ub098"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627",
-              "common": "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627",
+                "common": "\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627"
             }
         },
         "latlng": [
@@ -5354,7 +5392,8 @@
             "ZWE"
         ],
         "area": 582000,
-        "flag": "\ud83c\udde7\ud83c\uddfc"
+        "flag": "\ud83c\udde7\ud83c\uddfc",
+        "ucid": 39
     },
     {
         "name": {
@@ -5480,8 +5519,8 @@
                 "common": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc",
-              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc",
+                "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc"
             }
         },
         "latlng": [
@@ -5499,7 +5538,8 @@
             "SDN"
         ],
         "area": 622984,
-        "flag": "\ud83c\udde8\ud83c\uddeb"
+        "flag": "\ud83c\udde8\ud83c\uddeb",
+        "ucid": 40
     },
     {
         "name": {
@@ -5623,8 +5663,8 @@
                 "common": "\uce90\ub098\ub2e4"
             },
             "per": {
-              "official": "\u06a9\u0627\u0646\u0627\u062f\u0627",
-              "common": "\u06a9\u0627\u0646\u0627\u062f\u0627"
+                "official": "\u06a9\u0627\u0646\u0627\u062f\u0627",
+                "common": "\u06a9\u0627\u0646\u0627\u062f\u0627"
             }
         },
         "latlng": [
@@ -5637,7 +5677,8 @@
             "USA"
         ],
         "area": 9984670,
-        "flag": "\ud83c\udde8\ud83c\udde6"
+        "flag": "\ud83c\udde8\ud83c\udde6",
+        "ucid": 41
     },
     {
         "name": {
@@ -5758,8 +5799,8 @@
                 "common": "\ucf54\ucf54\uc2a4 \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9\u0648\u0633"
             }
         },
         "latlng": [
@@ -5770,7 +5811,8 @@
         "landlocked": false,
         "borders": [],
         "area": 14,
-        "flag": "\ud83c\udde8\ud83c\udde8"
+        "flag": "\ud83c\udde8\ud83c\udde8",
+        "ucid": 42
     },
     {
         "name": {
@@ -5905,8 +5947,8 @@
                 "common": "\uc2a4\uc704\uc2a4"
             },
             "per": {
-              "official": "\u06a9\u0646\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0633\u0648\u0626\u06cc\u0633",
-              "common": "\u0633\u0648\u0626\u06cc\u0633"
+                "official": "\u06a9\u0646\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0633\u0648\u0626\u06cc\u0633",
+                "common": "\u0633\u0648\u0626\u06cc\u0633"
             }
         },
         "latlng": [
@@ -5923,7 +5965,8 @@
             "DEU"
         ],
         "area": 41284,
-        "flag": "\ud83c\udde8\ud83c\udded"
+        "flag": "\ud83c\udde8\ud83c\udded",
+        "ucid": 43
     },
     {
         "name": {
@@ -6044,8 +6087,8 @@
                 "common": "\uce60\ub808"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0634\u06cc\u0644\u06cc",
-              "common": "\u0634\u06cc\u0644\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0634\u06cc\u0644\u06cc",
+                "common": "\u0634\u06cc\u0644\u06cc"
             }
         },
         "latlng": [
@@ -6060,7 +6103,8 @@
             "PER"
         ],
         "area": 756102,
-        "flag": "\ud83c\udde8\ud83c\uddf1"
+        "flag": "\ud83c\udde8\ud83c\uddf1",
+        "ucid": 44
     },
     {
         "name": {
@@ -6185,8 +6229,8 @@
                 "common": "\uc911\uad6d"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u0686\u06cc\u0646",
-              "common": "\u0686\u06cc\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u0686\u06cc\u0646",
+                "common": "\u0686\u06cc\u0646"
             }
         },
         "latlng": [
@@ -6214,7 +6258,8 @@
             "VNM"
         ],
         "area": 9706961,
-        "flag": "\ud83c\udde8\ud83c\uddf3"
+        "flag": "\ud83c\udde8\ud83c\uddf3",
+        "ucid": 45
     },
     {
         "name": {
@@ -6333,8 +6378,8 @@
                 "common": "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0627\u062d\u0644 \u0639\u0627\u062c",
-              "common": "\u0633\u0627\u062d\u0644 \u0639\u0627\u062c"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0627\u062d\u0644 \u0639\u0627\u062c",
+                "common": "\u0633\u0627\u062d\u0644 \u0639\u0627\u062c"
             }
         },
         "latlng": [
@@ -6351,7 +6396,8 @@
             "MLI"
         ],
         "area": 322463,
-        "flag": "\ud83c\udde8\ud83c\uddee"
+        "flag": "\ud83c\udde8\ud83c\uddee",
+        "ucid": 46
     },
     {
         "name": {
@@ -6477,8 +6523,8 @@
                 "common": "\uce74\uba54\ub8ec"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0627\u0645\u0650\u0631\u0648\u0646",
-              "common": "\u06a9\u0627\u0645\u0650\u0631\u0648\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0627\u0645\u0650\u0631\u0648\u0646",
+                "common": "\u06a9\u0627\u0645\u0650\u0631\u0648\u0646"
             }
         },
         "latlng": [
@@ -6496,7 +6542,8 @@
             "NGA"
         ],
         "area": 475442,
-        "flag": "\ud83c\udde8\ud83c\uddf2"
+        "flag": "\ud83c\udde8\ud83c\uddf2",
+        "ucid": 47
     },
     {
         "name": {
@@ -6639,8 +6686,8 @@
                 "common": "\ucf69\uace0 \ubbfc\uc8fc \uacf5\ud654\uad6d"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u06a9\u0646\u06af\u0648",
-              "common": "\u06a9\u0646\u06af\u0648 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u06a9\u0646\u06af\u0648",
+                "common": "\u06a9\u0646\u06af\u0648 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -6661,7 +6708,8 @@
             "ZMB"
         ],
         "area": 2344858,
-        "flag": "\ud83c\udde8\ud83c\udde9"
+        "flag": "\ud83c\udde8\ud83c\udde9",
+        "ucid": 48
     },
     {
         "name": {
@@ -6792,8 +6840,8 @@
                 "common": "\ucf69\uace0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0631\u0627\u0632\u0627\u0648\u06cc\u0644 \u06a9\u064f\u0646\u06af\u0648",
-              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u064f\u0646\u06af\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0631\u0627\u0632\u0627\u0648\u06cc\u0644 \u06a9\u064f\u0646\u06af\u0648",
+                "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u064f\u0646\u06af\u0648"
             }
         },
         "latlng": [
@@ -6810,7 +6858,8 @@
             "GAB"
         ],
         "area": 342000,
-        "flag": "\ud83c\udde8\ud83c\uddec"
+        "flag": "\ud83c\udde8\ud83c\uddec",
+        "ucid": 49
     },
     {
         "name": {
@@ -6939,8 +6988,8 @@
                 "common": "\ucfe1 \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u06a9"
             }
         },
         "latlng": [
@@ -6951,7 +7000,8 @@
         "landlocked": false,
         "borders": [],
         "area": 236,
-        "flag": "\ud83c\udde8\ud83c\uddf0"
+        "flag": "\ud83c\udde8\ud83c\uddf0",
+        "ucid": 50
     },
     {
         "name": {
@@ -7072,8 +7122,8 @@
                 "common": "\ucf5c\ub86c\ube44\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0644\u0645\u0628\u06cc\u0627",
-              "common": "\u06a9\u0644\u0645\u0628\u06cc\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0644\u0645\u0628\u06cc\u0627",
+                "common": "\u06a9\u0644\u0645\u0628\u06cc\u0627"
             }
         },
         "latlng": [
@@ -7090,7 +7140,8 @@
             "VEN"
         ],
         "area": 1141748,
-        "flag": "\ud83c\udde8\ud83c\uddf4"
+        "flag": "\ud83c\udde8\ud83c\uddf4",
+        "ucid": 51
     },
     {
         "name": {
@@ -7223,8 +7274,8 @@
                 "common": "\ucf54\ubaa8\ub85c"
             },
             "per": {
-              "official": "\u0645\u062c\u0645\u0639\u200c\u0627\u0644\u062c\u0632\u0627\u06cc\u0631 \u0642\u0645\u0631",
-              "common": "\u0627\u062a\u062d\u0627\u062f \u0642\u064f\u0645\u064f\u0631"
+                "official": "\u0645\u062c\u0645\u0639\u200c\u0627\u0644\u062c\u0632\u0627\u06cc\u0631 \u0642\u0645\u0631",
+                "common": "\u0627\u062a\u062d\u0627\u062f \u0642\u064f\u0645\u064f\u0631"
             }
         },
         "latlng": [
@@ -7235,7 +7286,8 @@
         "landlocked": false,
         "borders": [],
         "area": 1862,
-        "flag": "\ud83c\uddf0\ud83c\uddf2"
+        "flag": "\ud83c\uddf0\ud83c\uddf2",
+        "ucid": 52
     },
     {
         "name": {
@@ -7356,8 +7408,8 @@
                 "common": "\uce74\ubcf4\ubca0\ub974\ub370"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0628\u0648 \u0648\u0631\u062f",
-              "common": "\u062f\u0645\u0627\u063a\u0647\u0654 \u0633\u0628\u0632"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0628\u0648 \u0648\u0631\u062f",
+                "common": "\u062f\u0645\u0627\u063a\u0647\u0654 \u0633\u0628\u0632"
             }
         },
         "latlng": [
@@ -7368,7 +7420,8 @@
         "landlocked": false,
         "borders": [],
         "area": 4033,
-        "flag": "\ud83c\udde8\ud83c\uddfb"
+        "flag": "\ud83c\udde8\ud83c\uddfb",
+        "ucid": 53
     },
     {
         "name": {
@@ -7489,8 +7542,8 @@
                 "common": "\ucf54\uc2a4\ud0c0\ub9ac\uce74"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627",
-              "common": "\u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627",
+                "common": "\u06a9\u0627\u0633\u062a\u0627\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -7504,7 +7557,8 @@
             "PAN"
         ],
         "area": 51100,
-        "flag": "\ud83c\udde8\ud83c\uddf7"
+        "flag": "\ud83c\udde8\ud83c\uddf7",
+        "ucid": 54
     },
     {
         "name": {
@@ -7629,8 +7683,8 @@
                 "common": "\ucfe0\ubc14"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0648\u0628\u0627",
-              "common": "\u06a9\u0648\u0628\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0648\u0628\u0627",
+                "common": "\u06a9\u0648\u0628\u0627"
             }
         },
         "latlng": [
@@ -7641,7 +7695,8 @@
         "landlocked": false,
         "borders": [],
         "area": 109884,
-        "flag": "\ud83c\udde8\ud83c\uddfa"
+        "flag": "\ud83c\udde8\ud83c\uddfa",
+        "ucid": 55
     },
     {
         "name": {
@@ -7763,8 +7818,8 @@
                 "common": "\ud034\ub77c\uc18c"
             },
             "per": {
-              "official": "\u06a9\u0648\u0631\u0627\u0633\u0627\u0626\u0648",
-              "common": "\u06a9\u0648\u0631\u0627\u0633\u0627\u0626\u0648"
+                "official": "\u06a9\u0648\u0631\u0627\u0633\u0627\u0626\u0648",
+                "common": "\u06a9\u0648\u0631\u0627\u0633\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -7775,7 +7830,8 @@
         "landlocked": false,
         "borders": [],
         "area": 444,
-        "flag": "\ud83c\udde8\ud83c\uddfc"
+        "flag": "\ud83c\udde8\ud83c\uddfc",
+        "ucid": 56
     },
     {
         "name": {
@@ -7895,8 +7951,8 @@
                 "common": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \uc12c"
             },
             "per": {
-              "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u06a9\u0631\u06cc\u0633\u0645\u0633",
-              "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u06a9\u0631\u06cc\u0633\u0645\u0633"
+                "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u06a9\u0631\u06cc\u0633\u0645\u0633",
+                "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u06a9\u0631\u06cc\u0633\u0645\u0633"
             }
         },
         "latlng": [
@@ -7907,7 +7963,8 @@
         "landlocked": false,
         "borders": [],
         "area": 135,
-        "flag": "\ud83c\udde8\ud83c\uddfd"
+        "flag": "\ud83c\udde8\ud83c\uddfd",
+        "ucid": 57
     },
     {
         "name": {
@@ -8026,8 +8083,8 @@
                 "common": "\ucf00\uc774\ub9e8 \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u06cc\u0645\u0646"
             }
         },
         "latlng": [
@@ -8038,7 +8095,8 @@
         "landlocked": false,
         "borders": [],
         "area": 264,
-        "flag": "\ud83c\uddf0\ud83c\uddfe"
+        "flag": "\ud83c\uddf0\ud83c\uddfe",
+        "ucid": 58
     },
     {
         "name": {
@@ -8167,8 +8225,8 @@
                 "common": "\ud0a4\ud504\ub85c\uc2a4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0628\u0631\u0633",
-              "common": "\u0642\u0650\u0628\u0631\u0650\u0633"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0628\u0631\u0633",
+                "common": "\u0642\u0650\u0628\u0631\u0650\u0633"
             }
         },
         "latlng": [
@@ -8179,7 +8237,8 @@
         "landlocked": false,
         "borders": [],
         "area": 9251,
-        "flag": "\ud83c\udde8\ud83c\uddfe"
+        "flag": "\ud83c\udde8\ud83c\uddfe",
+        "ucid": 59
     },
     {
         "name": {
@@ -8305,8 +8364,8 @@
                 "common": "\uccb4\ucf54"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9",
-              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9",
+                "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9"
             }
         },
         "latlng": [
@@ -8322,7 +8381,8 @@
             "SVK"
         ],
         "area": 78865,
-        "flag": "\ud83c\udde8\ud83c\uddff"
+        "flag": "\ud83c\udde8\ud83c\uddff",
+        "ucid": 60
     },
     {
         "name": {
@@ -8439,8 +8499,8 @@
                 "common": "\ub3c5\uc77c"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0622\u0644\u0645\u0627\u0646",
-              "common": "\u0622\u0644\u0645\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0622\u0644\u0645\u0627\u0646",
+                "common": "\u0622\u0644\u0645\u0627\u0646"
             }
         },
         "latlng": [
@@ -8461,7 +8521,8 @@
             "CHE"
         ],
         "area": 357114,
-        "flag": "\ud83c\udde9\ud83c\uddea"
+        "flag": "\ud83c\udde9\ud83c\uddea",
+        "ucid": 61
     },
     {
         "name": {
@@ -8591,8 +8652,8 @@
                 "common": "\uc9c0\ubd80\ud2f0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062c\u06cc\u0628\u0648\u062a\u06cc",
-              "common": "\u062c\u06cc\u0628\u0648\u062a\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062c\u06cc\u0628\u0648\u062a\u06cc",
+                "common": "\u062c\u06cc\u0628\u0648\u062a\u06cc"
             }
         },
         "latlng": [
@@ -8607,7 +8668,8 @@
             "SOM"
         ],
         "area": 23200,
-        "flag": "\ud83c\udde9\ud83c\uddef"
+        "flag": "\ud83c\udde9\ud83c\uddef",
+        "ucid": 62
     },
     {
         "name": {
@@ -8729,8 +8791,8 @@
                 "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
             },
             "per": {
-              "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
-              "common": "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
+                "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
+                "common": "\u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -8741,7 +8803,8 @@
         "landlocked": false,
         "borders": [],
         "area": 751,
-        "flag": "\ud83c\udde9\ud83c\uddf2"
+        "flag": "\ud83c\udde9\ud83c\uddf2",
+        "ucid": 63
     },
     {
         "name": {
@@ -8863,8 +8926,8 @@
                 "common": "\ub374\ub9c8\ud06c"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062f\u0627\u0646\u0645\u0627\u0631\u06a9",
-              "common": "\u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062f\u0627\u0646\u0645\u0627\u0631\u06a9",
+                "common": "\u062f\u0627\u0646\u0645\u0627\u0631\u06a9"
             }
         },
         "latlng": [
@@ -8877,7 +8940,8 @@
             "DEU"
         ],
         "area": 43094,
-        "flag": "\ud83c\udde9\ud83c\uddf0"
+        "flag": "\ud83c\udde9\ud83c\uddf0",
+        "ucid": 64
     },
     {
         "name": {
@@ -8998,8 +9062,8 @@
                 "common": "\ub3c4\ubbf8\ub2c8\uce74 \uacf5\ud654\uad6d"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646",
-              "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646",
+                "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
             }
         },
         "latlng": [
@@ -9012,7 +9076,8 @@
             "HTI"
         ],
         "area": 48671,
-        "flag": "\ud83c\udde9\ud83c\uddf4"
+        "flag": "\ud83c\udde9\ud83c\uddf4",
+        "ucid": 65
     },
     {
         "name": {
@@ -9134,8 +9199,8 @@
                 "common": "\uc54c\uc81c\ub9ac"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062e\u0644\u0642 \u0627\u0644\u062c\u0632\u0627\u06cc\u0631",
-              "common": "\u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062e\u0644\u0642 \u0627\u0644\u062c\u0632\u0627\u06cc\u0631",
+                "common": "\u0627\u0644\u062c\u0632\u0627\u06cc\u0631"
             }
         },
         "latlng": [
@@ -9154,7 +9219,8 @@
             "MAR"
         ],
         "area": 2381741,
-        "flag": "\ud83c\udde9\ud83c\uddff"
+        "flag": "\ud83c\udde9\ud83c\uddff",
+        "ucid": 66
     },
     {
         "name": {
@@ -9275,8 +9341,8 @@
                 "common": "\uc5d0\ucf70\ub3c4\ub974"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06a9\u0648\u0627\u062f\u0648\u0631",
-              "common": "\u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06a9\u0648\u0627\u062f\u0648\u0631",
+                "common": "\u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
             }
         },
         "latlng": [
@@ -9290,7 +9356,8 @@
             "PER"
         ],
         "area": 276841,
-        "flag": "\ud83c\uddea\ud83c\udde8"
+        "flag": "\ud83c\uddea\ud83c\udde8",
+        "ucid": 67
     },
     {
         "name": {
@@ -9411,8 +9478,8 @@
                 "common": "\uc774\uc9d1\ud2b8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0639\u0631\u0628\u06cc \u0645\u0635\u0631",
-              "common": "\u0645\u0635\u0631"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0639\u0631\u0628\u06cc \u0645\u0635\u0631",
+                "common": "\u0645\u0635\u0631"
             }
         },
         "latlng": [
@@ -9428,7 +9495,8 @@
             "SDN"
         ],
         "area": 1002450,
-        "flag": "\ud83c\uddea\ud83c\uddec"
+        "flag": "\ud83c\uddea\ud83c\uddec",
+        "ucid": 68
     },
     {
         "name": {
@@ -9562,8 +9630,8 @@
                 "common": "\uc5d0\ub9ac\ud2b8\ub808\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u06cc\u062a\u0631\u0647",
-              "common": "\u0627\u0631\u06cc\u062a\u0631\u0647"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u06cc\u062a\u0631\u0647",
+                "common": "\u0627\u0631\u06cc\u062a\u0631\u0647"
             }
         },
         "latlng": [
@@ -9578,7 +9646,8 @@
             "SDN"
         ],
         "area": 117600,
-        "flag": "\ud83c\uddea\ud83c\uddf7"
+        "flag": "\ud83c\uddea\ud83c\uddf7",
+        "ucid": 69
     },
     {
         "name": {
@@ -9713,8 +9782,8 @@
                 "common": "\uc11c\uc0ac\ud558\ub77c"
             },
             "per": {
-              "official": "\u0635\u062d\u0631\u0627\u06cc \u063a\u0631\u0628\u06cc",
-              "common": "\u0635\u062d\u0631\u0627\u06cc \u063a\u0631\u0628\u06cc"
+                "official": "\u0635\u062d\u0631\u0627\u06cc \u063a\u0631\u0628\u06cc",
+                "common": "\u0635\u062d\u0631\u0627\u06cc \u063a\u0631\u0628\u06cc"
             }
         },
         "latlng": [
@@ -9729,7 +9798,8 @@
             "MAR"
         ],
         "area": 266000,
-        "flag": "\ud83c\uddea\ud83c\udded"
+        "flag": "\ud83c\uddea\ud83c\udded",
+        "ucid": 70
     },
     {
         "name": {
@@ -9846,8 +9916,8 @@
                 "common": "\uc2a4\ud398\uc778"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0627\u0633\u067e\u0627\u0646\u06cc\u0627",
-              "common": "\u0627\u0633\u067e\u0627\u0646\u06cc\u0627"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0627\u0633\u067e\u0627\u0646\u06cc\u0627",
+                "common": "\u0627\u0633\u067e\u0627\u0646\u06cc\u0627"
             }
         },
         "latlng": [
@@ -9864,7 +9934,8 @@
             "MAR"
         ],
         "area": 505992,
-        "flag": "\ud83c\uddea\ud83c\uddf8"
+        "flag": "\ud83c\uddea\ud83c\uddf8",
+        "ucid": 71
     },
     {
         "name": {
@@ -9986,8 +10057,8 @@
                 "common": "\uc5d0\uc2a4\ud1a0\ub2c8\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u062a\u0648\u0646\u06cc",
-              "common": "\u0627\u0650\u0633\u062a\u0648\u0646\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u062a\u0648\u0646\u06cc",
+                "common": "\u0627\u0650\u0633\u062a\u0648\u0646\u06cc"
             }
         },
         "latlng": [
@@ -10001,7 +10072,8 @@
             "RUS"
         ],
         "area": 45227,
-        "flag": "\ud83c\uddea\ud83c\uddea"
+        "flag": "\ud83c\uddea\ud83c\uddea",
+        "ucid": 72
     },
     {
         "name": {
@@ -10123,8 +10195,8 @@
                 "common": "\uc5d0\ud2f0\uc624\ud53c\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0627\u062a\u06cc\u0648\u067e\u06cc",
-              "common": "\u0627\u0650\u062a\u06cc\u0648\u067e\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0627\u062a\u06cc\u0648\u067e\u06cc",
+                "common": "\u0627\u0650\u062a\u06cc\u0648\u067e\u06cc"
             }
         },
         "latlng": [
@@ -10142,7 +10214,8 @@
             "SDN"
         ],
         "area": 1104300,
-        "flag": "\ud83c\uddea\ud83c\uddf9"
+        "flag": "\ud83c\uddea\ud83c\uddf9",
+        "ucid": 73
     },
     {
         "name": {
@@ -10266,8 +10339,8 @@
                 "common": "\ud540\ub780\ub4dc"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u0646\u0644\u0627\u0646\u062f",
-              "common": "\u0641\u0646\u0644\u0627\u0646\u062f"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u0646\u0644\u0627\u0646\u062f",
+                "common": "\u0641\u0646\u0644\u0627\u0646\u062f"
             }
         },
         "latlng": [
@@ -10282,7 +10355,8 @@
             "RUS"
         ],
         "area": 338424,
-        "flag": "\ud83c\uddeb\ud83c\uddee"
+        "flag": "\ud83c\uddeb\ud83c\uddee",
+        "ucid": 74
     },
     {
         "name": {
@@ -10411,8 +10485,8 @@
                 "common": "\ud53c\uc9c0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062c\u0632\u0627\u06cc\u0631 \u0641\u06cc\u062c\u06cc",
-              "common": "\u0641\u06cc\u062c\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062c\u0632\u0627\u06cc\u0631 \u0641\u06cc\u062c\u06cc",
+                "common": "\u0641\u06cc\u062c\u06cc"
             }
         },
         "latlng": [
@@ -10423,7 +10497,8 @@
         "landlocked": false,
         "borders": [],
         "area": 18272,
-        "flag": "\ud83c\uddeb\ud83c\uddef"
+        "flag": "\ud83c\uddeb\ud83c\uddef",
+        "ucid": 75
     },
     {
         "name": {
@@ -10540,8 +10615,8 @@
                 "common": "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0644\u06a9\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -10552,7 +10627,8 @@
         "landlocked": false,
         "borders": [],
         "area": 12173,
-        "flag": "\ud83c\uddeb\ud83c\uddf0"
+        "flag": "\ud83c\uddeb\ud83c\uddf0",
+        "ucid": 76
     },
     {
         "name": {
@@ -10669,8 +10745,8 @@
                 "common": "\ud504\ub791\uc2a4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
-              "common": "\u0641\u0631\u0627\u0646\u0633\u0647"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
+                "common": "\u0641\u0631\u0627\u0646\u0633\u0647"
             }
         },
         "latlng": [
@@ -10690,7 +10766,8 @@
             "CHE"
         ],
         "area": 551695,
-        "flag": "\ud83c\uddeb\ud83c\uddf7"
+        "flag": "\ud83c\uddeb\ud83c\uddf7",
+        "ucid": 77
     },
     {
         "name": {
@@ -10816,8 +10893,8 @@
                 "common": "\ud398\ub85c \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0631\u0648\u0626\u0647",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0631\u0648\u0626\u0647"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0631\u0648\u0626\u0647",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u0641\u0627\u0631\u0648\u0626\u0647"
             }
         },
         "latlng": [
@@ -10828,7 +10905,8 @@
         "landlocked": false,
         "borders": [],
         "area": 1393,
-        "flag": "\ud83c\uddeb\ud83c\uddf4"
+        "flag": "\ud83c\uddeb\ud83c\uddf4",
+        "ucid": 78
     },
     {
         "name": {
@@ -10940,8 +11018,8 @@
                 "common": "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544"
             },
             "per": {
-              "official": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0641\u062f\u0631\u0627\u0644 \u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc",
-              "common": "\u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc"
+                "official": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0641\u062f\u0631\u0627\u0644 \u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc",
+                "common": "\u0645\u06cc\u06a9\u0631\u0648\u0646\u0632\u06cc"
             }
         },
         "latlng": [
@@ -10952,7 +11030,8 @@
         "landlocked": false,
         "borders": [],
         "area": 702,
-        "flag": "\ud83c\uddeb\ud83c\uddf2"
+        "flag": "\ud83c\uddeb\ud83c\uddf2",
+        "ucid": 79
     },
     {
         "name": {
@@ -11069,8 +11148,8 @@
                 "common": "\uac00\ubd09"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0627\u0628\u064f\u0646",
-              "common": "\u06af\u0627\u0628\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0627\u0628\u064f\u0646",
+                "common": "\u06af\u0627\u0628\u0646"
             }
         },
         "latlng": [
@@ -11085,7 +11164,8 @@
             "GNQ"
         ],
         "area": 267668,
-        "flag": "\ud83c\uddec\ud83c\udde6"
+        "flag": "\ud83c\uddec\ud83c\udde6",
+        "ucid": 80
     },
     {
         "name": {
@@ -11202,8 +11282,8 @@
                 "common": "\uc601\uad6d"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0645\u062a\u062d\u062f \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627\u06cc \u06a9\u0628\u06cc\u0631 \u0648 \u0627\u06cc\u0631\u0644\u0646\u062f \u0634\u0645\u0627\u0644\u06cc",
-              "common": "\u0627\u0646\u06af\u0644\u06cc\u0633"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0645\u062a\u062d\u062f \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627\u06cc \u06a9\u0628\u06cc\u0631 \u0648 \u0627\u06cc\u0631\u0644\u0646\u062f \u0634\u0645\u0627\u0644\u06cc",
+                "common": "\u0627\u0646\u06af\u0644\u06cc\u0633"
             }
         },
         "latlng": [
@@ -11216,7 +11296,8 @@
             "IRL"
         ],
         "area": 242900,
-        "flag": "\ud83c\uddec\ud83c\udde7"
+        "flag": "\ud83c\uddec\ud83c\udde7",
+        "ucid": 81
     },
     {
         "name": {
@@ -11332,8 +11413,8 @@
                 "common": "\uc870\uc9c0\uc544"
             },
             "per": {
-              "official": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646",
-              "common": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+                "official": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646",
+                "common": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -11349,7 +11430,8 @@
             "TUR"
         ],
         "area": 69700,
-        "flag": "\ud83c\uddec\ud83c\uddea"
+        "flag": "\ud83c\uddec\ud83c\uddea",
+        "ucid": 82
     },
     {
         "name": {
@@ -11480,8 +11562,8 @@
                 "common": "\uac74\uc9c0 \uc12c"
             },
             "per": {
-              "official": "\u06af\u0631\u0646\u0632\u06cc",
-              "common": "\u06af\u0631\u0646\u0632\u06cc"
+                "official": "\u06af\u0631\u0646\u0632\u06cc",
+                "common": "\u06af\u0631\u0646\u0632\u06cc"
             }
         },
         "latlng": [
@@ -11492,7 +11574,8 @@
         "landlocked": false,
         "borders": [],
         "area": 78,
-        "flag": "\ud83c\uddec\ud83c\uddec"
+        "flag": "\ud83c\uddec\ud83c\uddec",
+        "ucid": 83
     },
     {
         "name": {
@@ -11607,8 +11690,8 @@
                 "common": "\uac00\ub098"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u063a\u0646\u0627",
-              "common": "\u063a\u0646\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u063a\u0646\u0627",
+                "common": "\u063a\u0646\u0627"
             }
         },
         "latlng": [
@@ -11623,7 +11706,8 @@
             "TGO"
         ],
         "area": 238533,
-        "flag": "\ud83c\uddec\ud83c\udded"
+        "flag": "\ud83c\uddec\ud83c\udded",
+        "ucid": 84
     },
     {
         "name": {
@@ -11738,8 +11822,8 @@
                 "common": "\uc9c0\ube0c\ub864\ud130"
             },
             "per": {
-              "official": "\u062c\u0628\u0644 \u0637\u0627\u0631\u0642",
-              "common": "\u062c\u0628\u0644 \u0637\u0627\u0631\u0642"
+                "official": "\u062c\u0628\u0644 \u0637\u0627\u0631\u0642",
+                "common": "\u062c\u0628\u0644 \u0637\u0627\u0631\u0642"
             }
         },
         "latlng": [
@@ -11752,7 +11836,8 @@
             "ESP"
         ],
         "area": 6,
-        "flag": "\ud83c\uddec\ud83c\uddee"
+        "flag": "\ud83c\uddec\ud83c\uddee",
+        "ucid": 85
     },
     {
         "name": {
@@ -11869,8 +11954,8 @@
                 "common": "\uae30\ub2c8"
             },
             "per": {
-              "official": "\u0645\u0645\u0644\u06a9\u062a \u0645\u0633\u062a\u0642\u0644 \u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648",
-              "common": "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648"
+                "official": "\u0645\u0645\u0644\u06a9\u062a \u0645\u0633\u062a\u0642\u0644 \u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648",
+                "common": "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648"
             }
         },
         "latlng": [
@@ -11888,7 +11973,8 @@
             "SLE"
         ],
         "area": 245857,
-        "flag": "\ud83c\uddec\ud83c\uddf3"
+        "flag": "\ud83c\uddec\ud83c\uddf3",
+        "ucid": 86
     },
     {
         "name": {
@@ -12004,8 +12090,8 @@
                 "common": "\uacfc\ub4e4\ub8e8\ud504"
             },
             "per": {
-              "official": "\u06af\u0648\u0627\u062f\u0644\u0648\u067e",
-              "common": "\u06af\u0648\u0627\u062f\u0644\u0648\u067e"
+                "official": "\u06af\u0648\u0627\u062f\u0644\u0648\u067e",
+                "common": "\u06af\u0648\u0627\u062f\u0644\u0648\u067e"
             }
         },
         "latlng": [
@@ -12016,7 +12102,8 @@
         "landlocked": false,
         "borders": [],
         "area": 1628,
-        "flag": "\ud83c\uddec\ud83c\uddf5"
+        "flag": "\ud83c\uddec\ud83c\uddf5",
+        "ucid": 87
     },
     {
         "name": {
@@ -12132,8 +12219,8 @@
                 "common": "\uac10\ube44\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0627\u0645\u0628\u06cc\u0627",
-              "common": "\u06af\u0627\u0645\u0628\u06cc\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0627\u0645\u0628\u06cc\u0627",
+                "common": "\u06af\u0627\u0645\u0628\u06cc\u0627"
             }
         },
         "latlng": [
@@ -12146,7 +12233,8 @@
             "SEN"
         ],
         "area": 10689,
-        "flag": "\ud83c\uddec\ud83c\uddf2"
+        "flag": "\ud83c\uddec\ud83c\uddf2",
+        "ucid": 88
     },
     {
         "name": {
@@ -12268,8 +12356,8 @@
                 "common": "\uae30\ub2c8\ube44\uc0ac\uc6b0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648",
-              "common": "\u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648",
+                "common": "\u06af\u06cc\u0646\u0647 \u0628\u06cc\u0633\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -12283,7 +12371,8 @@
             "SEN"
         ],
         "area": 36125,
-        "flag": "\ud83c\uddec\ud83c\uddfc"
+        "flag": "\ud83c\uddec\ud83c\uddfc",
+        "ucid": 89
     },
     {
         "name": {
@@ -12416,8 +12505,8 @@
                 "common": "\uc801\ub3c4 \uae30\ub2c8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc",
-              "common": "\u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc",
+                "common": "\u06af\u06cc\u0646\u0647 \u0627\u0633\u062a\u0648\u0627\u06cc\u06cc"
             }
         },
         "latlng": [
@@ -12431,7 +12520,8 @@
             "GAB"
         ],
         "area": 28051,
-        "flag": "\ud83c\uddec\ud83c\uddf6"
+        "flag": "\ud83c\uddec\ud83c\uddf6",
+        "ucid": 90
     },
     {
         "name": {
@@ -12549,8 +12639,8 @@
                 "common": "\uadf8\ub9ac\uc2a4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06cc\u0648\u0646\u0627\u0646",
-              "common": "\u06cc\u0648\u0646\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06cc\u0648\u0646\u0627\u0646",
+                "common": "\u06cc\u0648\u0646\u0627\u0646"
             }
         },
         "latlng": [
@@ -12566,7 +12656,8 @@
             "MKD"
         ],
         "area": 131990,
-        "flag": "\ud83c\uddec\ud83c\uddf7"
+        "flag": "\ud83c\uddec\ud83c\uddf7",
+        "ucid": 91
     },
     {
         "name": {
@@ -12681,8 +12772,8 @@
                 "common": "\uadf8\ub808\ub098\ub2e4"
             },
             "per": {
-              "official": "\u06af\u0631\u0646\u0627\u062f\u0627",
-              "common": "\u06af\u0631\u0646\u0627\u062f\u0627"
+                "official": "\u06af\u0631\u0646\u0627\u062f\u0627",
+                "common": "\u06af\u0631\u0646\u0627\u062f\u0627"
             }
         },
         "latlng": [
@@ -12693,7 +12784,8 @@
         "landlocked": false,
         "borders": [],
         "area": 344,
-        "flag": "\ud83c\uddec\ud83c\udde9"
+        "flag": "\ud83c\uddec\ud83c\udde9",
+        "ucid": 92
     },
     {
         "name": {
@@ -12809,8 +12901,8 @@
                 "common": "\uadf8\ub9b0\ub780\ub4dc"
             },
             "per": {
-              "official": "\u06af\u0631\u0648\u0626\u0646\u0644\u0646\u062f",
-              "common": "\u06af\u0631\u06cc\u0646\u0644\u0646\u062f"
+                "official": "\u06af\u0631\u0648\u0626\u0646\u0644\u0646\u062f",
+                "common": "\u06af\u0631\u06cc\u0646\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -12821,7 +12913,8 @@
         "landlocked": false,
         "borders": [],
         "area": 2166086,
-        "flag": "\ud83c\uddec\ud83c\uddf1"
+        "flag": "\ud83c\uddec\ud83c\uddf1",
+        "ucid": 93
     },
     {
         "name": {
@@ -12936,8 +13029,8 @@
                 "common": "\uacfc\ud14c\ub9d0\ub77c"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627",
-              "common": "\u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627",
+                "common": "\u06af\u0648\u0627\u062a\u0650\u0645\u0627\u0644\u0627"
             }
         },
         "latlng": [
@@ -12953,7 +13046,8 @@
             "MEX"
         ],
         "area": 108889,
-        "flag": "\ud83c\uddec\ud83c\uddf9"
+        "flag": "\ud83c\uddec\ud83c\uddf9",
+        "ucid": 94
     },
     {
         "name": {
@@ -13070,8 +13164,8 @@
                 "common": "\ud504\ub791\uc2a4\ub839 \uae30\uc544\ub098"
             },
             "per": {
-              "official": "\u06af\u0648\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0647",
-              "common": "\u06af\u0648\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0647"
+                "official": "\u06af\u0648\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0647",
+                "common": "\u06af\u0648\u06cc\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u0647"
             }
         },
         "latlng": [
@@ -13085,7 +13179,8 @@
             "SUR"
         ],
         "area": 83534,
-        "flag": "\ud83c\uddec\ud83c\uddeb"
+        "flag": "\ud83c\uddec\ud83c\uddeb",
+        "ucid": 95
     },
     {
         "name": {
@@ -13211,8 +13306,8 @@
                 "common": "\uad0c"
             },
             "per": {
-              "official": "\u06af\u0648\u0622\u0645",
-              "common": "\u06af\u0648\u0622\u0645"
+                "official": "\u06af\u0648\u0622\u0645",
+                "common": "\u06af\u0648\u0622\u0645"
             }
         },
         "latlng": [
@@ -13223,7 +13318,8 @@
         "landlocked": false,
         "borders": [],
         "area": 549,
-        "flag": "\ud83c\uddec\ud83c\uddfa"
+        "flag": "\ud83c\uddec\ud83c\uddfa",
+        "ucid": 96
     },
     {
         "name": {
@@ -13339,8 +13435,8 @@
                 "common": "\uac00\uc774\uc544\ub098"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0639\u0627\u0648\u0646\u06cc \u06af\u0648\u06cc\u0627\u0646",
-              "common": "\u06af\u0648\u06cc\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0639\u0627\u0648\u0646\u06cc \u06af\u0648\u06cc\u0627\u0646",
+                "common": "\u06af\u0648\u06cc\u0627\u0646"
             }
         },
         "latlng": [
@@ -13355,7 +13451,8 @@
             "VEN"
         ],
         "area": 214969,
-        "flag": "\ud83c\uddec\ud83c\uddfe"
+        "flag": "\ud83c\uddec\ud83c\uddfe",
+        "ucid": 97
     },
     {
         "name": {
@@ -13472,8 +13569,8 @@
                 "common": "\ud64d\ucf69"
             },
             "per": {
-              "official": "\u0647\u064f\u0646\u06af \u06a9\u064f\u0646\u06af",
-              "common": "\u0647\u064f\u0646\u06af \u06a9\u064f\u0646\u06af"
+                "official": "\u0647\u064f\u0646\u06af \u06a9\u064f\u0646\u06af",
+                "common": "\u0647\u064f\u0646\u06af \u06a9\u064f\u0646\u06af"
             }
         },
         "latlng": [
@@ -13486,7 +13583,8 @@
             "CHN"
         ],
         "area": 1104,
-        "flag": "\ud83c\udded\ud83c\uddf0"
+        "flag": "\ud83c\udded\ud83c\uddf0",
+        "ucid": 98
     },
     {
         "name": {
@@ -13598,8 +13696,8 @@
                 "common": "\ud5c8\ub4dc \ub9e5\ub3c4\ub110\ub4dc \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f",
-              "common": "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f"
+                "official": "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f",
+                "common": "\u062c\u0632\u06cc\u0631\u0647 \u0647\u0631\u062f \u0648 \u062c\u0632\u0627\u06cc\u0631 \u0645\u06a9\u200c\u062f\u0648\u0646\u0627\u0644\u062f"
             }
         },
         "latlng": [
@@ -13610,7 +13708,8 @@
         "landlocked": false,
         "borders": [],
         "area": 412,
-        "flag": "\ud83c\udded\ud83c\uddf2"
+        "flag": "\ud83c\udded\ud83c\uddf2",
+        "ucid": 99
     },
     {
         "name": {
@@ -13727,8 +13826,8 @@
                 "common": "\uc628\ub450\ub77c\uc2a4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0646\u062f\u0648\u0631\u0627\u0633",
-              "common": "\u0647\u064f\u0646\u062f\u0648\u0631\u0627\u0633"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0646\u062f\u0648\u0631\u0627\u0633",
+                "common": "\u0647\u064f\u0646\u062f\u0648\u0631\u0627\u0633"
             }
         },
         "latlng": [
@@ -13743,7 +13842,8 @@
             "NIC"
         ],
         "area": 112492,
-        "flag": "\ud83c\udded\ud83c\uddf3"
+        "flag": "\ud83c\udded\ud83c\uddf3",
+        "ucid": 100
     },
     {
         "name": {
@@ -13865,8 +13965,8 @@
                 "common": "\ud06c\ub85c\uc544\ud2f0\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0631\u0648\u0627\u0633\u06cc",
-              "common": "\u06a9\u0631\u064f\u0648\u0627\u0633\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0631\u0648\u0627\u0633\u06cc",
+                "common": "\u06a9\u0631\u064f\u0648\u0627\u0633\u06cc"
             }
         },
         "latlng": [
@@ -13883,7 +13983,8 @@
             "SVN"
         ],
         "area": 56594,
-        "flag": "\ud83c\udded\ud83c\uddf7"
+        "flag": "\ud83c\udded\ud83c\uddf7",
+        "ucid": 101
     },
     {
         "name": {
@@ -14006,8 +14107,8 @@
                 "common": "\uc544\uc774\ud2f0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0627\u0626\u06cc\u062a\u06cc",
-              "common": "\u0647\u0627\u0626\u06cc\u062a\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0627\u0626\u06cc\u062a\u06cc",
+                "common": "\u0647\u0627\u0626\u06cc\u062a\u06cc"
             }
         },
         "latlng": [
@@ -14020,7 +14121,8 @@
             "DOM"
         ],
         "area": 27750,
-        "flag": "\ud83c\udded\ud83c\uddf9"
+        "flag": "\ud83c\udded\ud83c\uddf9",
+        "ucid": 102
     },
     {
         "name": {
@@ -14135,8 +14237,8 @@
                 "common": "\ud5dd\uac00\ub9ac"
             },
             "per": {
-              "official": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
-              "common": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
+                "official": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
+                "common": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -14155,7 +14257,8 @@
             "UKR"
         ],
         "area": 93028,
-        "flag": "\ud83c\udded\ud83c\uddfa"
+        "flag": "\ud83c\udded\ud83c\uddfa",
+        "ucid": 103
     },
     {
         "name": {
@@ -14272,8 +14375,8 @@
                 "common": "\uc778\ub3c4\ub124\uc2dc\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0646\u062f\u0648\u0646\u0632\u06cc",
-              "common": "\u0627\u0646\u062f\u0648\u0646\u0632\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0646\u062f\u0648\u0646\u0632\u06cc",
+                "common": "\u0627\u0646\u062f\u0648\u0646\u0632\u06cc"
             }
         },
         "latlng": [
@@ -14288,7 +14391,8 @@
             "PNG"
         ],
         "area": 1904569,
-        "flag": "\ud83c\uddee\ud83c\udde9"
+        "flag": "\ud83c\uddee\ud83c\udde9",
+        "ucid": 104
     },
     {
         "name": {
@@ -14415,8 +14519,8 @@
                 "common": "\ub9e8\uc12c"
             },
             "per": {
-              "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0645\u064e\u0646",
-              "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0645\u064e\u0646"
+                "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0645\u064e\u0646",
+                "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0645\u064e\u0646"
             }
         },
         "latlng": [
@@ -14427,7 +14531,8 @@
         "landlocked": false,
         "borders": [],
         "area": 572,
-        "flag": "\ud83c\uddee\ud83c\uddf2"
+        "flag": "\ud83c\uddee\ud83c\uddf2",
+        "ucid": 105
     },
     {
         "name": {
@@ -14556,8 +14661,8 @@
                 "common": "\uc778\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0646\u062f\u0648\u0633\u062a\u0627\u0646",
-              "common": "\u0647\u0646\u062f"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0647\u0646\u062f\u0648\u0633\u062a\u0627\u0646",
+                "common": "\u0647\u0646\u062f"
             }
         },
         "latlng": [
@@ -14575,7 +14680,8 @@
             "PAK"
         ],
         "area": 3287590,
-        "flag": "\ud83c\uddee\ud83c\uddf3"
+        "flag": "\ud83c\uddee\ud83c\uddf3",
+        "ucid": 106
     },
     {
         "name": {
@@ -14694,8 +14800,8 @@
                 "common": "\uc778\ub3c4"
             },
             "per": {
-              "official": "\u0642\u0644\u0645\u0631\u0648 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0627\u0642\u06cc\u0627\u0646\u0648\u0633 \u0647\u0646\u062f",
-              "common": "\u0642\u0644\u0645\u0631\u0648 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0627\u0642\u06cc\u0627\u0646\u0648\u0633 \u0647\u0646\u062f"
+                "official": "\u0642\u0644\u0645\u0631\u0648 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0627\u0642\u06cc\u0627\u0646\u0648\u0633 \u0647\u0646\u062f",
+                "common": "\u0642\u0644\u0645\u0631\u0648 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627 \u062f\u0631 \u0627\u0642\u06cc\u0627\u0646\u0648\u0633 \u0647\u0646\u062f"
             }
         },
         "latlng": [
@@ -14706,7 +14812,8 @@
         "landlocked": false,
         "borders": [],
         "area": 60,
-        "flag": "\ud83c\uddee\ud83c\uddf4"
+        "flag": "\ud83c\uddee\ud83c\uddf4",
+        "ucid": 107
     },
     {
         "name": {
@@ -14829,8 +14936,8 @@
                 "common": "\uc544\uc77c\ub79c\ub4dc"
             },
             "per": {
-              "official": "\u0627\u06cc\u0631\u0644\u0646\u062f",
-              "common": "\u0627\u06cc\u0631\u0644\u0646\u062f"
+                "official": "\u0627\u06cc\u0631\u0644\u0646\u062f",
+                "common": "\u0627\u06cc\u0631\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -14843,7 +14950,8 @@
             "GBR"
         ],
         "area": 70273,
-        "flag": "\ud83c\uddee\ud83c\uddea"
+        "flag": "\ud83c\uddee\ud83c\uddea",
+        "ucid": 108
     },
     {
         "name": {
@@ -14978,7 +15086,8 @@
             "TKM"
         ],
         "area": 1648195,
-        "flag": "\ud83c\uddee\ud83c\uddf7"
+        "flag": "\ud83c\uddee\ud83c\uddf7",
+        "ucid": 109
     },
     {
         "name": {
@@ -15105,8 +15214,8 @@
                 "common": "\uc774\ub77c\ud06c"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0639\u0631\u0627\u0642",
-              "common": "\u0639\u0631\u0627\u0642"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0639\u0631\u0627\u0642",
+                "common": "\u0639\u0631\u0627\u0642"
             }
         },
         "latlng": [
@@ -15124,7 +15233,8 @@
             "TUR"
         ],
         "area": 438317,
-        "flag": "\ud83c\uddee\ud83c\uddf6"
+        "flag": "\ud83c\uddee\ud83c\uddf6",
+        "ucid": 110
     },
     {
         "name": {
@@ -15242,8 +15352,8 @@
                 "common": "\uc544\uc774\uc2ac\ub780\ub4dc"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06cc\u0633\u0644\u0646\u062f",
-              "common": "\u0627\u06cc\u0633\u0644\u0646\u062f"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06cc\u0633\u0644\u0646\u062f",
+                "common": "\u0627\u06cc\u0633\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -15254,7 +15364,8 @@
         "landlocked": false,
         "borders": [],
         "area": 103000,
-        "flag": "\ud83c\uddee\ud83c\uddf8"
+        "flag": "\ud83c\uddee\ud83c\uddf8",
+        "ucid": 111
     },
     {
         "name": {
@@ -15376,8 +15487,8 @@
                 "common": "\uc774\uc2a4\ub77c\uc5d8"
             },
             "per": {
-              "official": "\u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0634\u063a\u0627\u0644\u06cc",
-              "common": "\u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0634\u063a\u0627\u0644\u06cc"
+                "official": "\u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0634\u063a\u0627\u0644\u06cc",
+                "common": "\u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0634\u063a\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -15394,7 +15505,8 @@
             "SYR"
         ],
         "area": 20770,
-        "flag": "\ud83c\uddee\ud83c\uddf1"
+        "flag": "\ud83c\uddee\ud83c\uddf1",
+        "ucid": 112
     },
     {
         "name": {
@@ -15511,8 +15623,8 @@
                 "common": "\uc774\ud0c8\ub9ac\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06cc\u062a\u0627\u0644\u06cc\u0627",
-              "common": "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06cc\u062a\u0627\u0644\u06cc\u0627",
+                "common": "\u0627\u06cc\u062a\u0627\u0644\u06cc\u0627"
             }
         },
         "latlng": [
@@ -15530,7 +15642,8 @@
             "VAT"
         ],
         "area": 301336,
-        "flag": "\ud83c\uddee\ud83c\uddf9"
+        "flag": "\ud83c\uddee\ud83c\uddf9",
+        "ucid": 113
     },
     {
         "name": {
@@ -15650,8 +15763,8 @@
                 "common": "\uc790\uba54\uc774\uce74"
             },
             "per": {
-              "official": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627",
-              "common": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627"
+                "official": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627",
+                "common": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -15662,7 +15775,8 @@
         "landlocked": false,
         "borders": [],
         "area": 10991,
-        "flag": "\ud83c\uddef\ud83c\uddf2"
+        "flag": "\ud83c\uddef\ud83c\uddf2",
+        "ucid": 114
     },
     {
         "name": {
@@ -15794,8 +15908,8 @@
                 "common": "\uc800\uc9c0 \uc12c"
             },
             "per": {
-              "official": "\u062c\u0631\u0632\u06cc",
-              "common": "\u062c\u0631\u0632\u06cc"
+                "official": "\u062c\u0631\u0632\u06cc",
+                "common": "\u062c\u0631\u0632\u06cc"
             }
         },
         "latlng": [
@@ -15806,7 +15920,8 @@
         "landlocked": false,
         "borders": [],
         "area": 116,
-        "flag": "\ud83c\uddef\ud83c\uddea"
+        "flag": "\ud83c\uddef\ud83c\uddea",
+        "ucid": 115
     },
     {
         "name": {
@@ -15924,8 +16039,8 @@
                 "common": "\uc694\ub974\ub2e8"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0627\u064f\u0631\u062f\u064f\u0646 \u0647\u0627\u0634\u0645\u06cc",
-              "common": "\u0627\u0631\u062f\u0646"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0627\u064f\u0631\u062f\u064f\u0646 \u0647\u0627\u0634\u0645\u06cc",
+                "common": "\u0627\u0631\u062f\u0646"
             }
         },
         "latlng": [
@@ -15942,7 +16057,8 @@
             "SYR"
         ],
         "area": 89342,
-        "flag": "\ud83c\uddef\ud83c\uddf4"
+        "flag": "\ud83c\uddef\ud83c\uddf4",
+        "ucid": 116
     },
     {
         "name": {
@@ -16060,8 +16176,8 @@
                 "common": "\uc77c\ubcf8"
             },
             "per": {
-              "official": "\u0698\u0627\u067e\u0646",
-              "common": "\u0698\u0627\u067e\u0646"
+                "official": "\u0698\u0627\u067e\u0646",
+                "common": "\u0698\u0627\u067e\u0646"
             }
         },
         "latlng": [
@@ -16072,7 +16188,8 @@
         "landlocked": false,
         "borders": [],
         "area": 377930,
-        "flag": "\ud83c\uddef\ud83c\uddf5"
+        "flag": "\ud83c\uddef\ud83c\uddf5",
+        "ucid": 117
     },
     {
         "name": {
@@ -16201,8 +16318,8 @@
                 "common": "\uce74\uc790\ud750\uc2a4\ud0c4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646",
-              "common": "\u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646",
+                "common": "\u0642\u0632\u0627\u0642\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -16219,7 +16336,8 @@
             "UZB"
         ],
         "area": 2724900,
-        "flag": "\ud83c\uddf0\ud83c\uddff"
+        "flag": "\ud83c\uddf0\ud83c\uddff",
+        "ucid": 118
     },
     {
         "name": {
@@ -16341,8 +16459,8 @@
                 "common": "\ucf00\ub0d0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0646\u06cc\u0627",
-              "common": "\u06a9\u0646\u06cc\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0646\u06cc\u0627",
+                "common": "\u06a9\u0646\u06cc\u0627"
             }
         },
         "latlng": [
@@ -16359,7 +16477,8 @@
             "UGA"
         ],
         "area": 580367,
-        "flag": "\ud83c\uddf0\ud83c\uddea"
+        "flag": "\ud83c\uddf0\ud83c\uddea",
+        "ucid": 119
     },
     {
         "name": {
@@ -16483,8 +16602,8 @@
                 "common": "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0650\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
-              "common": "\u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0650\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
+                "common": "\u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -16500,7 +16619,8 @@
             "UZB"
         ],
         "area": 199951,
-        "flag": "\ud83c\uddf0\ud83c\uddec"
+        "flag": "\ud83c\uddf0\ud83c\uddec",
+        "ucid": 120
     },
     {
         "name": {
@@ -16624,8 +16744,8 @@
                 "common": "\uce84\ubcf4\ub514\uc544"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u06a9\u0627\u0645\u0628\u0648\u062c",
-              "common": "\u06a9\u0627\u0645\u0628\u0648\u062c"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u06a9\u0627\u0645\u0628\u0648\u062c",
+                "common": "\u06a9\u0627\u0645\u0628\u0648\u062c"
             }
         },
         "latlng": [
@@ -16640,7 +16760,8 @@
             "VNM"
         ],
         "area": 181035,
-        "flag": "\ud83c\uddf0\ud83c\udded"
+        "flag": "\ud83c\uddf0\ud83c\udded",
+        "ucid": 121
     },
     {
         "name": {
@@ -16766,8 +16887,8 @@
                 "common": "\ud0a4\ub9ac\ubc14\uc2dc"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc",
-              "common": "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc",
+                "common": "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"
             }
         },
         "latlng": [
@@ -16778,7 +16899,8 @@
         "landlocked": false,
         "borders": [],
         "area": 811,
-        "flag": "\ud83c\uddf0\ud83c\uddee"
+        "flag": "\ud83c\uddf0\ud83c\uddee",
+        "ucid": 122
     },
     {
         "name": {
@@ -16894,8 +17016,8 @@
                 "common": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4"
             },
             "per": {
-              "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633",
-              "common": "\u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633"
+                "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633",
+                "common": "\u0633\u0646\u062a \u06a9\u06cc\u062a\u0633 \u0648 \u0646\u0648\u06cc\u0633"
             }
         },
         "latlng": [
@@ -16906,7 +17028,8 @@
         "landlocked": false,
         "borders": [],
         "area": 261,
-        "flag": "\ud83c\uddf0\ud83c\uddf3"
+        "flag": "\ud83c\uddf0\ud83c\uddf3",
+        "ucid": 123
     },
     {
         "name": {
@@ -17026,8 +17149,8 @@
                 "common": "\ud55c\uad6d"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0631\u0647",
-              "common": "\u06a9\u0631\u0647\u0654 \u062c\u0646\u0648\u0628\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0631\u0647",
+                "common": "\u06a9\u0631\u0647\u0654 \u062c\u0646\u0648\u0628\u06cc"
             }
         },
         "latlng": [
@@ -17040,7 +17163,8 @@
             "PRK"
         ],
         "area": 100210,
-        "flag": "\ud83c\uddf0\ud83c\uddf7"
+        "flag": "\ud83c\uddf0\ud83c\uddf7",
+        "ucid": 124
     },
     {
         "name": {
@@ -17155,8 +17279,8 @@
                 "common": "\ucf54\uc18c\ubcf4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0648\u0632\u0648\u0648",
-              "common": "\u06a9\u0648\u0632\u0648\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0648\u0632\u0648\u0648",
+                "common": "\u06a9\u0648\u0632\u0648\u0648"
             }
         },
         "latlng": [
@@ -17172,7 +17296,8 @@
             "SRB"
         ],
         "area": 10908,
-        "flag": "\ud83c\uddfd\ud83c\uddf0"
+        "flag": "\ud83c\uddfd\ud83c\uddf0",
+        "ucid": 125
     },
     {
         "name": {
@@ -17289,8 +17414,8 @@
                 "common": "\ucfe0\uc6e8\uc774\ud2b8"
             },
             "per": {
-              "official": "\u062f\u0648\u0644\u062a \u06a9\u0648\u06cc\u062a",
-              "common": "\u06a9\u064f\u0648\u06cc\u062a"
+                "official": "\u062f\u0648\u0644\u062a \u06a9\u0648\u06cc\u062a",
+                "common": "\u06a9\u064f\u0648\u06cc\u062a"
             }
         },
         "latlng": [
@@ -17304,7 +17429,8 @@
             "SAU"
         ],
         "area": 17818,
-        "flag": "\ud83c\uddf0\ud83c\uddfc"
+        "flag": "\ud83c\uddf0\ud83c\uddfc",
+        "ucid": 126
     },
     {
         "name": {
@@ -17422,8 +17548,8 @@
                 "common": "\ub77c\uc624\uc2a4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9\u0020\u062e\u0644\u0642\u0020\u0644\u0627\u0626\u0648\u0633",
-              "common": "\u0644\u0627\u0626\u0648\u0633"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062e\u0644\u0642 \u0644\u0627\u0626\u0648\u0633",
+                "common": "\u0644\u0627\u0626\u0648\u0633"
             }
         },
         "latlng": [
@@ -17440,7 +17566,8 @@
             "VNM"
         ],
         "area": 236800,
-        "flag": "\ud83c\uddf1\ud83c\udde6"
+        "flag": "\ud83c\uddf1\ud83c\udde6",
+        "ucid": 127
     },
     {
         "name": {
@@ -17562,8 +17689,8 @@
                 "common": "\ub808\ubc14\ub17c"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0644\u0628\u0646\u0627\u0646",
-              "common": "\u0644\u0628\u0646\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0644\u0628\u0646\u0627\u0646",
+                "common": "\u0644\u0628\u0646\u0627\u0646"
             }
         },
         "latlng": [
@@ -17577,7 +17704,8 @@
             "SYR"
         ],
         "area": 10452,
-        "flag": "\ud83c\uddf1\ud83c\udde7"
+        "flag": "\ud83c\uddf1\ud83c\udde7",
+        "ucid": 128
     },
     {
         "name": {
@@ -17693,8 +17821,8 @@
                 "common": "\ub77c\uc774\ubca0\ub9ac\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0644\u06cc\u0628\u0631\u06cc\u0627",
-              "common": "\u0644\u06cc\u0628\u0640\u0650\u0631\u06cc\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0644\u06cc\u0628\u0631\u06cc\u0627",
+                "common": "\u0644\u06cc\u0628\u0640\u0650\u0631\u06cc\u0627"
             }
         },
         "latlng": [
@@ -17709,7 +17837,8 @@
             "SLE"
         ],
         "area": 111369,
-        "flag": "\ud83c\uddf1\ud83c\uddf7"
+        "flag": "\ud83c\uddf1\ud83c\uddf7",
+        "ucid": 129
     },
     {
         "name": {
@@ -17826,8 +17955,8 @@
                 "common": "\ub9ac\ube44\uc544"
             },
             "per": {
-              "official": "\u062f\u0648\u0644\u062a\u0020\u0644\u06cc\u0628\u06cc",
-              "common": "\u0644\u06cc\u0628\u06cc"
+                "official": "\u062f\u0648\u0644\u062a \u0644\u06cc\u0628\u06cc",
+                "common": "\u0644\u06cc\u0628\u06cc"
             }
         },
         "latlng": [
@@ -17845,7 +17974,8 @@
             "TUN"
         ],
         "area": 1759540,
-        "flag": "\ud83c\uddf1\ud83c\uddfe"
+        "flag": "\ud83c\uddf1\ud83c\uddfe",
+        "ucid": 130
     },
     {
         "name": {
@@ -17960,8 +18090,8 @@
                 "common": "\uc138\uc778\ud2b8\ub8e8\uc2dc\uc544"
             },
             "per": {
-              "official": "\u0633\u0646\u062a\u0020\u0644\u0648\u0633\u06cc\u0627",
-              "common": "\u0633\u0646\u062a\u0020\u0644\u0648\u0633\u06cc\u0627"
+                "official": "\u0633\u0646\u062a \u0644\u0648\u0633\u06cc\u0627",
+                "common": "\u0633\u0646\u062a \u0644\u0648\u0633\u06cc\u0627"
             }
         },
         "latlng": [
@@ -17972,7 +18102,8 @@
         "landlocked": false,
         "borders": [],
         "area": 616,
-        "flag": "\ud83c\uddf1\ud83c\udde8"
+        "flag": "\ud83c\uddf1\ud83c\udde8",
+        "ucid": 131
     },
     {
         "name": {
@@ -18089,8 +18220,8 @@
                 "common": "\ub9ac\ud788\ud150\uc288\ud0c0\uc778"
             },
             "per": {
-              "official": "\u0634\u0627\u0647\u0632\u0627\u062f\u0647\u200c\u0646\u0634\u06cc\u0646\u0020\u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646",
-              "common": "\u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646"
+                "official": "\u0634\u0627\u0647\u0632\u0627\u062f\u0647\u200c\u0646\u0634\u06cc\u0646 \u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646",
+                "common": "\u0644\u06cc\u062e\u062a\u0646\u200c\u0627\u0634\u062a\u0627\u06cc\u0646"
             }
         },
         "latlng": [
@@ -18104,7 +18235,8 @@
             "CHE"
         ],
         "area": 160,
-        "flag": "\ud83c\uddf1\ud83c\uddee"
+        "flag": "\ud83c\uddf1\ud83c\uddee",
+        "ucid": 132
     },
     {
         "name": {
@@ -18228,8 +18360,8 @@
                 "common": "\uc2a4\ub9ac\ub791\uce74"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9\u0020\u0633\u0648\u0633\u06cc\u0627\u0644\u06cc\u0633\u062a\u06cc\u0020\u0633\u0631\u06cc\u200c\u0644\u0627\u0646\u06a9\u0627",
-              "common": "\u0633\u0631\u06cc\u200c\u0644\u0627\u0646\u06a9\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0633\u0648\u0633\u06cc\u0627\u0644\u06cc\u0633\u062a\u06cc \u0633\u0631\u06cc\u200c\u0644\u0627\u0646\u06a9\u0627",
+                "common": "\u0633\u0631\u06cc\u200c\u0644\u0627\u0646\u06a9\u0627"
             }
         },
         "latlng": [
@@ -18242,7 +18374,8 @@
             "IND"
         ],
         "area": 65610,
-        "flag": "\ud83c\uddf1\ud83c\uddf0"
+        "flag": "\ud83c\uddf1\ud83c\uddf0",
+        "ucid": 133
     },
     {
         "name": {
@@ -18368,8 +18501,8 @@
                 "common": "\ub808\uc18c\ud1a0"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc\u0020\u0644\u0633\u0648\u062a\u0648",
-              "common": "\u0644\u0633\u0648\u062a\u0648"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0644\u0633\u0648\u062a\u0648",
+                "common": "\u0644\u0633\u0648\u062a\u0648"
             }
         },
         "latlng": [
@@ -18382,7 +18515,8 @@
             "ZAF"
         ],
         "area": 30355,
-        "flag": "\ud83c\uddf1\ud83c\uddf8"
+        "flag": "\ud83c\uddf1\ud83c\uddf8",
+        "ucid": 134
     },
     {
         "name": {
@@ -18499,8 +18633,8 @@
                 "common": "\ub9ac\ud22c\uc544\ub2c8\uc544"
             },
             "per": {
-              "official": "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc\u0627\u06cc\u06cc\u200c\u0647\u0627",
-              "common": "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc\u0627\u06cc\u06cc\u200c\u0647\u0627"
+                "official": "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc\u0627\u06cc\u06cc\u200c\u0647\u0627",
+                "common": "\u0644\u06cc\u062a\u0648\u0627\u0646\u06cc\u0627\u06cc\u06cc\u200c\u0647\u0627"
             }
         },
         "latlng": [
@@ -18516,7 +18650,8 @@
             "RUS"
         ],
         "area": 65300,
-        "flag": "\ud83c\uddf1\ud83c\uddf9"
+        "flag": "\ud83c\uddf1\ud83c\uddf9",
+        "ucid": 135
     },
     {
         "name": {
@@ -18645,8 +18780,8 @@
                 "common": "\ub8e9\uc148\ubd80\ub974\ud06c"
             },
             "per": {
-              "official": "\u062f\u0648\u06a9\u200c\u0646\u0634\u06cc\u0646\u0020\u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af",
-              "common": "\u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
+                "official": "\u062f\u0648\u06a9\u200c\u0646\u0634\u06cc\u0646 \u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af",
+                "common": "\u0644\u0648\u06a9\u0632\u0627\u0645\u0628\u0648\u0631\u06af"
             }
         },
         "latlng": [
@@ -18661,7 +18796,8 @@
             "DEU"
         ],
         "area": 2586,
-        "flag": "\ud83c\uddf1\ud83c\uddfa"
+        "flag": "\ud83c\uddf1\ud83c\uddfa",
+        "ucid": 136
     },
     {
         "name": {
@@ -18778,8 +18914,8 @@
                 "common": "\ub77c\ud2b8\ube44\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0644\u062a\u0648\u0646\u06cc",
-              "common": "\u0644\u062a\u0648\u0646\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0644\u062a\u0648\u0646\u06cc",
+                "common": "\u0644\u062a\u0648\u0646\u06cc"
             }
         },
         "latlng": [
@@ -18795,7 +18931,8 @@
             "RUS"
         ],
         "area": 64559,
-        "flag": "\ud83c\uddf1\ud83c\uddfb"
+        "flag": "\ud83c\uddf1\ud83c\uddfb",
+        "ucid": 137
     },
     {
         "name": {
@@ -18916,8 +19053,8 @@
                 "common": "\ub9c8\uce74\uc624"
             },
             "per": {
-              "official": "\u0645\u0627\u06a9\u0627\u0626\u0648",
-              "common": "\u0645\u0627\u06a9\u0627\u0626\u0648"
+                "official": "\u0645\u0627\u06a9\u0627\u0626\u0648",
+                "common": "\u0645\u0627\u06a9\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -18930,7 +19067,8 @@
             "CHN"
         ],
         "area": 30,
-        "flag": "\ud83c\uddf2\ud83c\uddf4"
+        "flag": "\ud83c\uddf2\ud83c\uddf4",
+        "ucid": 138
     },
     {
         "name": {
@@ -19049,8 +19187,8 @@
                 "common": "\uc0dd\ub9c8\ub974\ud0f1"
             },
             "per": {
-              "official": "\u0633\u0646\u0020\u0645\u0627\u0631\u062a\u0646",
-              "common": "\u0633\u0646\u0020\u0645\u0627\u0631\u062a\u0646"
+                "official": "\u0633\u0646 \u0645\u0627\u0631\u062a\u0646",
+                "common": "\u0633\u0646 \u0645\u0627\u0631\u062a\u0646"
             }
         },
         "latlng": [
@@ -19063,7 +19201,8 @@
             "SXM"
         ],
         "area": 53,
-        "flag": "\ud83c\uddf2\ud83c\uddeb"
+        "flag": "\ud83c\uddf2\ud83c\uddeb",
+        "ucid": 139
     },
     {
         "name": {
@@ -19186,8 +19325,8 @@
                 "common": "\ubaa8\ub85c\ucf54"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc\u0020\u0645\u0631\u0627\u06a9\u0634",
-              "common": "\u0645\u0631\u0627\u06a9\u0634"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0645\u0631\u0627\u06a9\u0634",
+                "common": "\u0645\u0631\u0627\u06a9\u0634"
             }
         },
         "latlng": [
@@ -19202,7 +19341,8 @@
             "ESP"
         ],
         "area": 446550,
-        "flag": "\ud83c\uddf2\ud83c\udde6"
+        "flag": "\ud83c\uddf2\ud83c\udde6",
+        "ucid": 140
     },
     {
         "name": {
@@ -19319,8 +19459,8 @@
                 "common": "\ubaa8\ub098\ucf54"
             },
             "per": {
-              "official": "\u0634\u0627\u0647\u0632\u0627\u062f\u0647\u200c\u0646\u0634\u06cc\u0646\u0020\u0645\u0648\u0646\u0627\u06a9\u0648",
-              "common": "\u0645\u0648\u0646\u0627\u06a9\u0648"
+                "official": "\u0634\u0627\u0647\u0632\u0627\u062f\u0647\u200c\u0646\u0634\u06cc\u0646 \u0645\u0648\u0646\u0627\u06a9\u0648",
+                "common": "\u0645\u0648\u0646\u0627\u06a9\u0648"
             }
         },
         "latlng": [
@@ -19333,7 +19473,8 @@
             "FRA"
         ],
         "area": 2.02,
-        "flag": "\ud83c\uddf2\ud83c\udde8"
+        "flag": "\ud83c\uddf2\ud83c\udde8",
+        "ucid": 141
     },
     {
         "name": {
@@ -19451,8 +19592,8 @@
                 "common": "\ubab0\ub3c4\ubc14"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0648\u0644\u062f\u0627\u0648\u06cc",
-              "common": "\u0645\u0648\u0644\u062f\u0627\u0648\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0644\u062f\u0627\u0648\u06cc",
+                "common": "\u0645\u0648\u0644\u062f\u0627\u0648\u06cc"
             }
         },
         "latlng": [
@@ -19466,7 +19607,8 @@
             "UKR"
         ],
         "area": 33846,
-        "flag": "\ud83c\uddf2\ud83c\udde9"
+        "flag": "\ud83c\uddf2\ud83c\udde9",
+        "ucid": 142
     },
     {
         "name": {
@@ -19589,8 +19731,8 @@
                 "common": "\ub9c8\ub2e4\uac00\uc2a4\uce74\ub974"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631",
-              "common": "\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631",
+                "common": "\u0645\u0627\u062f\u0627\u06af\u0627\u0633\u06a9\u0627\u0631"
             }
         },
         "latlng": [
@@ -19601,7 +19743,8 @@
         "landlocked": false,
         "borders": [],
         "area": 587041,
-        "flag": "\ud83c\uddf2\ud83c\uddec"
+        "flag": "\ud83c\uddf2\ud83c\uddec",
+        "ucid": 143
     },
     {
         "name": {
@@ -19719,8 +19862,8 @@
                 "common": "\ubab0\ub514\ube0c"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0627\u0644\u062f\u06cc\u0648",
-              "common": "\u0645\u0627\u0644\u062f\u06cc\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0627\u0644\u062f\u06cc\u0648",
+                "common": "\u0645\u0627\u0644\u062f\u06cc\u0648"
             }
         },
         "latlng": [
@@ -19731,7 +19874,8 @@
         "landlocked": false,
         "borders": [],
         "area": 300,
-        "flag": "\ud83c\uddf2\ud83c\uddfb"
+        "flag": "\ud83c\uddf2\ud83c\uddfb",
+        "ucid": 144
     },
     {
         "name": {
@@ -19849,8 +19993,8 @@
                 "common": "\uba55\uc2dc\ucf54"
             },
             "per": {
-              "official": "\u0627\u06cc\u0627\u0644\u0627\u062a\u0020\u0645\u062a\u062d\u062f\u0020\u0645\u06a9\u0632\u06cc\u06a9",
-              "common": "\u0645\u06a9\u0632\u06cc\u06a9"
+                "official": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f \u0645\u06a9\u0632\u06cc\u06a9",
+                "common": "\u0645\u06a9\u0632\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -19865,7 +20009,8 @@
             "USA"
         ],
         "area": 1964375,
-        "flag": "\ud83c\uddf2\ud83c\uddfd"
+        "flag": "\ud83c\uddf2\ud83c\uddfd",
+        "ucid": 145
     },
     {
         "name": {
@@ -19987,8 +20132,8 @@
                 "common": "\ub9c8\uc15c \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u062c\u0632\u0627\u06cc\u0631\u0020\u0645\u0627\u0631\u0634\u0627\u0644",
-              "common": "\u062c\u0632\u0627\u06cc\u0631\u0020\u0645\u0627\u0631\u0634\u0627\u0644"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u0634\u0627\u0644"
             }
         },
         "latlng": [
@@ -19999,7 +20144,8 @@
         "landlocked": false,
         "borders": [],
         "area": 181,
-        "flag": "\ud83c\uddf2\ud83c\udded"
+        "flag": "\ud83c\uddf2\ud83c\udded",
+        "ucid": 146
     },
     {
         "name": {
@@ -20117,8 +20263,8 @@
                 "common": "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0642\u062f\u0648\u0646\u06cc\u0647\u0020\u0634\u0645\u0627\u0644\u06cc",
-              "common": "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647\u0020\u0634\u0645\u0627\u0644\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u0647 \u0634\u0645\u0627\u0644\u06cc",
+                "common": "\u0645\u0642\u062f\u0648\u0646\u06cc\u0647 \u0634\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -20135,7 +20281,8 @@
             "SRB"
         ],
         "area": 25713,
-        "flag": "\ud83c\uddf2\ud83c\uddf0"
+        "flag": "\ud83c\uddf2\ud83c\uddf0",
+        "ucid": 147
     },
     {
         "name": {
@@ -20252,8 +20399,8 @@
                 "common": "\ub9d0\ub9ac"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0627\u0644\u06cc",
-              "common": "\u0645\u0627\u0644\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0627\u0644\u06cc",
+                "common": "\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -20272,7 +20419,8 @@
             "SEN"
         ],
         "area": 1240192,
-        "flag": "\ud83c\uddf2\ud83c\uddf1"
+        "flag": "\ud83c\uddf2\ud83c\uddf1",
+        "ucid": 148
     },
     {
         "name": {
@@ -20394,8 +20542,8 @@
                 "common": "\ubab0\ud0c0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc\u0020\u0645\u0627\u0644\u062a",
-              "common": "\u0645\u0627\u0644\u062a"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0627\u0644\u062a",
+                "common": "\u0645\u0627\u0644\u062a"
             }
         },
         "latlng": [
@@ -20406,7 +20554,8 @@
         "landlocked": false,
         "borders": [],
         "area": 316,
-        "flag": "\ud83c\uddf2\ud83c\uddf9"
+        "flag": "\ud83c\uddf2\ud83c\uddf9",
+        "ucid": 149
     },
     {
         "name": {
@@ -20524,8 +20673,8 @@
                 "common": "\ubbf8\uc580\ub9c8"
             },
             "per": {
-              "official": "\u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u06cc\u0627\u0646\u0645\u0627\u0631",
-              "common": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"
+                "official": "\u0627\u062a\u062d\u0627\u062f\u06cc\u0647 \u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u06cc\u0627\u0646\u0645\u0627\u0631",
+                "common": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"
             }
         },
         "latlng": [
@@ -20542,7 +20691,8 @@
             "THA"
         ],
         "area": 676578,
-        "flag": "\ud83c\uddf2\ud83c\uddf2"
+        "flag": "\ud83c\uddf2\ud83c\uddf2",
+        "ucid": 150
     },
     {
         "name": {
@@ -20658,8 +20808,8 @@
                 "common": "\ubaac\ud14c\ub124\uadf8\ub85c"
             },
             "per": {
-              "official": "\u0645\u0648\u0646\u062a\u0647\u200c\u0646\u06af\u0631\u0648",
-              "common": "\u0645\u0648\u0646\u062a\u0647\u200c\u0646\u06af\u0631\u0648"
+                "official": "\u0645\u0648\u0646\u062a\u0647\u200c\u0646\u06af\u0631\u0648",
+                "common": "\u0645\u0648\u0646\u062a\u0647\u200c\u0646\u06af\u0631\u0648"
             }
         },
         "latlng": [
@@ -20676,7 +20826,8 @@
             "SRB"
         ],
         "area": 13812,
-        "flag": "\ud83c\uddf2\ud83c\uddea"
+        "flag": "\ud83c\uddf2\ud83c\uddea",
+        "ucid": 151
     },
     {
         "name": {
@@ -20791,8 +20942,8 @@
                 "common": "\ubabd\uace8\uad6d"
             },
             "per": {
-              "official": "\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646",
-              "common": "\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646"
+                "official": "\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646",
+                "common": "\u0645\u063a\u0648\u0644\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -20806,7 +20957,8 @@
             "RUS"
         ],
         "area": 1564110,
-        "flag": "\ud83c\uddf2\ud83c\uddf3"
+        "flag": "\ud83c\uddf2\ud83c\uddf3",
+        "ucid": 152
     },
     {
         "name": {
@@ -20933,8 +21085,8 @@
                 "common": "\ubd81\ub9c8\ub9ac\uc544\ub098 \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u0645\u0627\u0631\u06cc\u0627\u0646\u0627\u06cc \u0634\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -20945,7 +21097,8 @@
         "landlocked": false,
         "borders": [],
         "area": 464,
-        "flag": "\ud83c\uddf2\ud83c\uddf5"
+        "flag": "\ud83c\uddf2\ud83c\uddf5",
+        "ucid": 153
     },
     {
         "name": {
@@ -21062,8 +21215,8 @@
                 "common": "\ubaa8\uc7a0\ube44\ud06c"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9",
-              "common": "\u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9",
+                "common": "\u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -21081,7 +21234,8 @@
             "ZWE"
         ],
         "area": 801590,
-        "flag": "\ud83c\uddf2\ud83c\uddff"
+        "flag": "\ud83c\uddf2\ud83c\uddff",
+        "ucid": 154
     },
     {
         "name": {
@@ -21198,8 +21352,8 @@
                 "common": "\ubaa8\ub9ac\ud0c0\ub2c8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc",
-              "common": "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc",
+                "common": "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc"
             }
         },
         "latlng": [
@@ -21215,7 +21369,8 @@
             "ESH"
         ],
         "area": 1030700,
-        "flag": "\ud83c\uddf2\ud83c\uddf7"
+        "flag": "\ud83c\uddf2\ud83c\uddf7",
+        "ucid": 155
     },
     {
         "name": {
@@ -21330,8 +21485,8 @@
                 "common": "\ubaac\ud2b8\uc138\ub7ab"
             },
             "per": {
-              "official": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a",
-              "common": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a"
+                "official": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a",
+                "common": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a"
             }
         },
         "latlng": [
@@ -21342,7 +21497,8 @@
         "landlocked": false,
         "borders": [],
         "area": 102,
-        "flag": "\ud83c\uddf2\ud83c\uddf8"
+        "flag": "\ud83c\uddf2\ud83c\uddf8",
+        "ucid": 156
     },
     {
         "name": {
@@ -21457,8 +21613,8 @@
                 "common": "\ub9c8\ub974\ud2f0\ub2c8\ud06c"
             },
             "per": {
-              "official": "\u0645\u0627\u0631\u062a\u06cc\u0646\u06cc\u06a9",
-              "common": "\u0645\u0627\u0631\u062a\u06cc\u0646\u06cc\u06a9"
+                "official": "\u0645\u0627\u0631\u062a\u06cc\u0646\u06cc\u06a9",
+                "common": "\u0645\u0627\u0631\u062a\u06cc\u0646\u06cc\u06a9"
             }
         },
         "latlng": [
@@ -21469,7 +21625,8 @@
         "landlocked": false,
         "borders": [],
         "area": 1128,
-        "flag": "\ud83c\uddf2\ud83c\uddf6"
+        "flag": "\ud83c\uddf2\ud83c\uddf6",
+        "ucid": 157
     },
     {
         "name": {
@@ -21596,8 +21753,8 @@
                 "common": "\ubaa8\ub9ac\uc154\uc2a4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0631\u06cc\u0633",
-              "common": "\u0645\u0648\u0631\u06cc\u0633"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0631\u06cc\u0633",
+                "common": "\u0645\u0648\u0631\u06cc\u0633"
             }
         },
         "latlng": [
@@ -21608,7 +21765,8 @@
         "landlocked": false,
         "borders": [],
         "area": 2040,
-        "flag": "\ud83c\uddf2\ud83c\uddfa"
+        "flag": "\ud83c\uddf2\ud83c\uddfa",
+        "ucid": 158
     },
     {
         "name": {
@@ -21729,8 +21887,8 @@
                 "common": "\ub9d0\ub77c\uc704"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0627\u0644\u0627\u0648\u06cc",
-              "common": "\u0645\u0627\u0644\u0627\u0648\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0627\u0644\u0627\u0648\u06cc",
+                "common": "\u0645\u0627\u0644\u0627\u0648\u06cc"
             }
         },
         "latlng": [
@@ -21745,7 +21903,8 @@
             "ZMB"
         ],
         "area": 118484,
-        "flag": "\ud83c\uddf2\ud83c\uddfc"
+        "flag": "\ud83c\uddf2\ud83c\uddfc",
+        "ucid": 159
     },
     {
         "name": {
@@ -21865,8 +22024,8 @@
                 "common": "\ub9d0\ub808\uc774\uc2dc\uc544"
             },
             "per": {
-              "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0645\u0627\u0644\u0632\u06cc",
-              "common": "\u0645\u0627\u0644\u0632\u06cc"
+                "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0645\u0627\u0644\u0632\u06cc",
+                "common": "\u0645\u0627\u0644\u0632\u06cc"
             }
         },
         "latlng": [
@@ -21881,7 +22040,8 @@
             "THA"
         ],
         "area": 330803,
-        "flag": "\ud83c\uddf2\ud83c\uddfe"
+        "flag": "\ud83c\uddf2\ud83c\uddfe",
+        "ucid": 160
     },
     {
         "name": {
@@ -21998,8 +22158,8 @@
                 "common": "\ub9c8\uc694\ud2b8"
             },
             "per": {
-              "official": "\u0645\u062c\u0645\u0648\u0639\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646\u06cc \u0645\u0627\u06cc\u0648\u062a",
-              "common": "\u0645\u0627\u06cc\u0648\u062a"
+                "official": "\u0645\u062c\u0645\u0648\u0639\u0647 \u0634\u0647\u0631\u0633\u062a\u0627\u0646\u06cc \u0645\u0627\u06cc\u0648\u062a",
+                "common": "\u0645\u0627\u06cc\u0648\u062a"
             }
         },
         "latlng": [
@@ -22010,7 +22170,8 @@
         "landlocked": false,
         "borders": [],
         "area": 374,
-        "flag": "\ud83c\uddfe\ud83c\uddf9"
+        "flag": "\ud83c\uddfe\ud83c\uddf9",
+        "ucid": 161
     },
     {
         "name": {
@@ -22171,8 +22332,8 @@
                 "common": "\ub098\ubbf8\ube44\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u0627\u0645\u06cc\u0628\u06cc\u0627",
-              "common": "\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u0627\u0645\u06cc\u0628\u06cc\u0627",
+                "common": "\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627"
             }
         },
         "latlng": [
@@ -22188,7 +22349,8 @@
             "ZMB"
         ],
         "area": 825615,
-        "flag": "\ud83c\uddf3\ud83c\udde6"
+        "flag": "\ud83c\uddf3\ud83c\udde6",
+        "ucid": 162
     },
     {
         "name": {
@@ -22303,8 +22465,8 @@
                 "common": "\ub204\ubca8\uce7c\ub808\ub3c4\ub2c8"
             },
             "per": {
-              "official": "\u06a9\u0627\u0644\u062f\u0648\u0646\u06cc\u0627\u06cc \u062c\u062f\u06cc\u062f",
-              "common": "\u06a9\u0627\u0644\u062f\u0648\u0646\u06cc\u0627\u06cc \u062c\u062f\u06cc\u062f"
+                "official": "\u06a9\u0627\u0644\u062f\u0648\u0646\u06cc\u0627\u06cc \u062c\u062f\u06cc\u062f",
+                "common": "\u06a9\u0627\u0644\u062f\u0648\u0646\u06cc\u0627\u06cc \u062c\u062f\u06cc\u062f"
             }
         },
         "latlng": [
@@ -22315,7 +22477,8 @@
         "landlocked": false,
         "borders": [],
         "area": 18575,
-        "flag": "\ud83c\uddf3\ud83c\udde8"
+        "flag": "\ud83c\uddf3\ud83c\udde8",
+        "ucid": 163
     },
     {
         "name": {
@@ -22431,8 +22594,8 @@
                 "common": "\ub2c8\uc81c\ub974"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u06cc\u062c\u0631",
-              "common": "\u0646\u06cc\u062c\u0631"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u06cc\u062c\u0631",
+                "common": "\u0646\u06cc\u062c\u0631"
             }
         },
         "latlng": [
@@ -22451,7 +22614,8 @@
             "NGA"
         ],
         "area": 1267000,
-        "flag": "\ud83c\uddf3\ud83c\uddea"
+        "flag": "\ud83c\uddf3\ud83c\uddea",
+        "ucid": 164
     },
     {
         "name": {
@@ -22573,8 +22737,8 @@
                 "common": "\ub178\ud37d \uc12c"
             },
             "per": {
-              "official": "\u0642\u0644\u0645\u0631\u0648 \u062c\u0632\u0627\u06cc\u0631 \u0646\u0648\u0631\u0641\u06a9",
-              "common": "\u062c\u0632\u06cc\u0631\u0647 \u0646\u0648\u0631\u0641\u06a9"
+                "official": "\u0642\u0644\u0645\u0631\u0648 \u062c\u0632\u0627\u06cc\u0631 \u0646\u0648\u0631\u0641\u06a9",
+                "common": "\u062c\u0632\u06cc\u0631\u0647 \u0646\u0648\u0631\u0641\u06a9"
             }
         },
         "latlng": [
@@ -22585,7 +22749,8 @@
         "landlocked": false,
         "borders": [],
         "area": 36,
-        "flag": "\ud83c\uddf3\ud83c\uddeb"
+        "flag": "\ud83c\uddf3\ud83c\uddeb",
+        "ucid": 165
     },
     {
         "name": {
@@ -22703,8 +22868,8 @@
                 "common": "\ub098\uc774\uc9c0\ub9ac\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0646\u06cc\u062c\u0631\u06cc\u0647",
-              "common": "\u0646\u06cc\u062c\u0631\u06cc\u0647"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0646\u06cc\u062c\u0631\u06cc\u0647",
+                "common": "\u0646\u06cc\u062c\u0631\u06cc\u0647"
             }
         },
         "latlng": [
@@ -22720,7 +22885,8 @@
             "NER"
         ],
         "area": 923768,
-        "flag": "\ud83c\uddf3\ud83c\uddec"
+        "flag": "\ud83c\uddf3\ud83c\uddec",
+        "ucid": 166
     },
     {
         "name": {
@@ -22837,8 +23003,8 @@
                 "common": "\ub2c8\uce74\ub77c\uacfc"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
-              "common": "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
+                "common": "\u0646\u06cc\u06a9\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
             }
         },
         "latlng": [
@@ -22852,7 +23018,8 @@
             "HND"
         ],
         "area": 130373,
-        "flag": "\ud83c\uddf3\ud83c\uddee"
+        "flag": "\ud83c\uddf3\ud83c\uddee",
+        "ucid": 167
     },
     {
         "name": {
@@ -22972,8 +23139,8 @@
                 "common": "\ub2c8\uc6b0\uc5d0"
             },
             "per": {
-              "official": "\u0646\u06cc\u0648\u0648\u06cc",
-              "common": "\u0646\u06cc\u0648\u0648\u06cc"
+                "official": "\u0646\u06cc\u0648\u0648\u06cc",
+                "common": "\u0646\u06cc\u0648\u0648\u06cc"
             }
         },
         "latlng": [
@@ -22984,7 +23151,8 @@
         "landlocked": false,
         "borders": [],
         "area": 260,
-        "flag": "\ud83c\uddf3\ud83c\uddfa"
+        "flag": "\ud83c\uddf3\ud83c\uddfa",
+        "ucid": 168
     },
     {
         "name": {
@@ -23102,8 +23270,8 @@
                 "common": "\ub124\ub35c\ub780\ub4dc"
             },
             "per": {
-              "official": "\u0647\u0644\u0646\u062f",
-              "common": "\u0647\u0644\u0646\u062f"
+                "official": "\u0647\u0644\u0646\u062f",
+                "common": "\u0647\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -23117,7 +23285,8 @@
             "DEU"
         ],
         "area": 41850,
-        "flag": "\ud83c\uddf3\ud83c\uddf1"
+        "flag": "\ud83c\uddf3\ud83c\uddf1",
+        "ucid": 169
     },
     {
         "name": {
@@ -23247,8 +23416,8 @@
                 "common": "\ub178\ub974\uc6e8\uc774"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0646\u0631\u0648\u0698",
-              "common": "\u0646\u0631\u0648\u0698"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0646\u0631\u0648\u0698",
+                "common": "\u0646\u0631\u0648\u0698"
             }
         },
         "latlng": [
@@ -23263,7 +23432,8 @@
             "RUS"
         ],
         "area": 323802,
-        "flag": "\ud83c\uddf3\ud83c\uddf4"
+        "flag": "\ud83c\uddf3\ud83c\uddf4",
+        "ucid": 170
     },
     {
         "name": {
@@ -23380,8 +23550,8 @@
                 "common": "\ub124\ud314"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0646\u067e\u0627\u0644",
-              "common": "\u0646\u067e\u0627\u0644"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0646\u067e\u0627\u0644",
+                "common": "\u0646\u067e\u0627\u0644"
             }
         },
         "latlng": [
@@ -23395,7 +23565,8 @@
             "IND"
         ],
         "area": 147181,
-        "flag": "\ud83c\uddf3\ud83c\uddf5"
+        "flag": "\ud83c\uddf3\ud83c\uddf5",
+        "ucid": 171
     },
     {
         "name": {
@@ -23519,8 +23690,8 @@
                 "common": "\ub098\uc6b0\ub8e8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u0627\u0626\u0648\u0631\u0648",
-              "common": "\u0646\u0627\u0626\u0648\u0631\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0646\u0627\u0626\u0648\u0631\u0648",
+                "common": "\u0646\u0627\u0626\u0648\u0631\u0648"
             }
         },
         "latlng": [
@@ -23531,7 +23702,8 @@
         "landlocked": false,
         "borders": [],
         "area": 21,
-        "flag": "\ud83c\uddf3\ud83c\uddf7"
+        "flag": "\ud83c\uddf3\ud83c\uddf7",
+        "ucid": 172
     },
     {
         "name": {
@@ -23657,8 +23829,8 @@
                 "common": "\ub274\uc9c8\ub79c\ub4dc"
             },
             "per": {
-              "official": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f",
-              "common": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f"
+                "official": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f",
+                "common": "\u0646\u06cc\u0648\u0632\u06cc\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -23669,7 +23841,8 @@
         "landlocked": false,
         "borders": [],
         "area": 270467,
-        "flag": "\ud83c\uddf3\ud83c\uddff"
+        "flag": "\ud83c\uddf3\ud83c\uddff",
+        "ucid": 173
     },
     {
         "name": {
@@ -23786,8 +23959,8 @@
                 "common": "\uc624\ub9cc"
             },
             "per": {
-              "official": "\u0633\u0644\u0637\u0627\u0646\u200c\u0646\u0634\u06cc\u0646 \u0639\u064f\u0645\u0627\u0646",
-              "common": "\u0639\u0645\u0627\u0646"
+                "official": "\u0633\u0644\u0637\u0627\u0646\u200c\u0646\u0634\u06cc\u0646 \u0639\u064f\u0645\u0627\u0646",
+                "common": "\u0639\u0645\u0627\u0646"
             }
         },
         "latlng": [
@@ -23802,7 +23975,8 @@
             "YEM"
         ],
         "area": 309500,
-        "flag": "\ud83c\uddf4\ud83c\uddf2"
+        "flag": "\ud83c\uddf4\ud83c\uddf2",
+        "ucid": 174
     },
     {
         "name": {
@@ -23925,8 +24099,8 @@
                 "common": "\ud30c\ud0a4\uc2a4\ud0c4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
-              "common": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+                "common": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -23942,7 +24116,8 @@
             "IRN"
         ],
         "area": 881912,
-        "flag": "\ud83c\uddf5\ud83c\uddf0"
+        "flag": "\ud83c\uddf5\ud83c\uddf0",
+        "ucid": 175
     },
     {
         "name": {
@@ -24063,8 +24238,8 @@
                 "common": "\ud30c\ub098\ub9c8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0646\u0627\u0645\u0627",
-              "common": "\u067e\u0627\u0646\u0627\u0645\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0646\u0627\u0645\u0627",
+                "common": "\u067e\u0627\u0646\u0627\u0645\u0627"
             }
         },
         "latlng": [
@@ -24078,7 +24253,8 @@
             "CRI"
         ],
         "area": 75417,
-        "flag": "\ud83c\uddf5\ud83c\udde6"
+        "flag": "\ud83c\uddf5\ud83c\udde6",
+        "ucid": 176
     },
     {
         "name": {
@@ -24195,8 +24371,8 @@
                 "common": "\ud54f\ucf00\uc5b8 \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u067e\u06cc\u062a\u200c\u06a9\u0631\u0646",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u067e\u06cc\u062a\u200c\u06a9\u0631\u0646"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u067e\u06cc\u062a\u200c\u06a9\u0631\u0646",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u067e\u06cc\u062a\u200c\u06a9\u0631\u0646"
             }
         },
         "latlng": [
@@ -24207,7 +24383,8 @@
         "landlocked": false,
         "borders": [],
         "area": 47,
-        "flag": "\ud83c\uddf5\ud83c\uddf3"
+        "flag": "\ud83c\uddf5\ud83c\uddf3",
+        "ucid": 177
     },
     {
         "name": {
@@ -24334,8 +24511,8 @@
                 "common": "\ud398\ub8e8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0631\u0648",
-              "common": "\u067e\u0631\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0631\u0648",
+                "common": "\u067e\u0631\u0648"
             }
         },
         "latlng": [
@@ -24352,7 +24529,8 @@
             "ECU"
         ],
         "area": 1285216,
-        "flag": "\ud83c\uddf5\ud83c\uddea"
+        "flag": "\ud83c\uddf5\ud83c\uddea",
+        "ucid": 178
     },
     {
         "name": {
@@ -24474,8 +24652,8 @@
                 "common": "\ud544\ub9ac\ud540"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646",
-              "common": "\u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646",
+                "common": "\u0641\u06cc\u0644\u06cc\u067e\u06cc\u0646"
             }
         },
         "latlng": [
@@ -24486,7 +24664,8 @@
         "landlocked": false,
         "borders": [],
         "area": 342353,
-        "flag": "\ud83c\uddf5\ud83c\udded"
+        "flag": "\ud83c\uddf5\ud83c\udded",
+        "ucid": 179
     },
     {
         "name": {
@@ -24608,8 +24787,8 @@
                 "common": "\ud314\ub77c\uc6b0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0644\u0627\u0626\u0648",
-              "common": "\u067e\u0627\u0644\u0627\u0626\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0644\u0627\u0626\u0648",
+                "common": "\u067e\u0627\u0644\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -24620,7 +24799,8 @@
         "landlocked": false,
         "borders": [],
         "area": 459,
-        "flag": "\ud83c\uddf5\ud83c\uddfc"
+        "flag": "\ud83c\uddf5\ud83c\uddfc",
+        "ucid": 180
     },
     {
         "name": {
@@ -24747,8 +24927,8 @@
                 "common": "\ud30c\ud478\uc544\ub274\uae30\ub2c8"
             },
             "per": {
-              "official": "\u0645\u0645\u0644\u06a9\u062a \u0645\u0633\u062a\u0642\u0644 \u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647\u0654 \u0646\u0648",
-              "common": "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648"
+                "official": "\u0645\u0645\u0644\u06a9\u062a \u0645\u0633\u062a\u0642\u0644 \u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647\u0654 \u0646\u0648",
+                "common": "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648"
             }
         },
         "latlng": [
@@ -24761,7 +24941,8 @@
             "IDN"
         ],
         "area": 462840,
-        "flag": "\ud83c\uddf5\ud83c\uddec"
+        "flag": "\ud83c\uddf5\ud83c\uddec",
+        "ucid": 181
     },
     {
         "name": {
@@ -24878,8 +25059,8 @@
                 "common": "\ud3f4\ub780\ub4dc"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0644\u0647\u0633\u062a\u0627\u0646",
-              "common": "\u0644\u0647\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0644\u0647\u0633\u062a\u0627\u0646",
+                "common": "\u0644\u0647\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -24898,7 +25079,8 @@
             "UKR"
         ],
         "area": 312679,
-        "flag": "\ud83c\uddf5\ud83c\uddf1"
+        "flag": "\ud83c\uddf5\ud83c\uddf1",
+        "ucid": 182
     },
     {
         "name": {
@@ -25021,8 +25203,8 @@
                 "common": "\ud478\uc5d0\ub974\ud1a0\ub9ac\ucf54"
             },
             "per": {
-              "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648",
-              "common": "\u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
+                "official": "\u0642\u0644\u0645\u0631\u0648 \u0647\u0645\u0633\u0648\u062f \u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648",
+                "common": "\u067e\u0648\u0631\u062a\u0648\u0631\u06cc\u06a9\u0648"
             }
         },
         "latlng": [
@@ -25033,7 +25215,8 @@
         "landlocked": false,
         "borders": [],
         "area": 8870,
-        "flag": "\ud83c\uddf5\ud83c\uddf7"
+        "flag": "\ud83c\uddf5\ud83c\uddf7",
+        "ucid": 183
     },
     {
         "name": {
@@ -25154,8 +25337,8 @@
                 "common": "\uc870\uc120"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062e\u0644\u0642 \u06a9\u0631\u0647",
-              "common": "\u06a9\u064f\u0631\u0647 \u0634\u0645\u0627\u0644\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062e\u0644\u0642 \u06a9\u0631\u0647",
+                "common": "\u06a9\u064f\u0631\u0647 \u0634\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -25170,7 +25353,8 @@
             "RUS"
         ],
         "area": 120538,
-        "flag": "\ud83c\uddf0\ud83c\uddf5"
+        "flag": "\ud83c\uddf0\ud83c\uddf5",
+        "ucid": 184
     },
     {
         "name": {
@@ -25288,8 +25472,8 @@
                 "common": "\ud3ec\ub974\ud22c\uac08"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0631\u062a\u063a\u0627\u0644",
-              "common": "\u067e\u0631\u062a\u063a\u0627\u0644"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0631\u062a\u063a\u0627\u0644",
+                "common": "\u067e\u0631\u062a\u063a\u0627\u0644"
             }
         },
         "latlng": [
@@ -25302,7 +25486,8 @@
             "ESP"
         ],
         "area": 92090,
-        "flag": "\ud83c\uddf5\ud83c\uddf9"
+        "flag": "\ud83c\uddf5\ud83c\uddf9",
+        "ucid": 185
     },
     {
         "name": {
@@ -25425,8 +25610,8 @@
                 "common": "\ud30c\ub77c\uacfc\uc774"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
-              "common": "\u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647",
+                "common": "\u067e\u0627\u0631\u0627\u06af\u0648\u0626\u0647"
             }
         },
         "latlng": [
@@ -25441,7 +25626,8 @@
             "BRA"
         ],
         "area": 406752,
-        "flag": "\ud83c\uddf5\ud83c\uddfe"
+        "flag": "\ud83c\uddf5\ud83c\uddfe",
+        "ucid": 186
     },
     {
         "name": {
@@ -25568,8 +25754,8 @@
                 "common": "\ud314\ub808\uc2a4\ud0c0\uc778"
             },
             "per": {
-              "official": "\u062f\u0648\u0644\u062a \u0641\u0644\u0633\u0637\u06cc\u0646",
-              "common": "\u0641\u0644\u0633\u0637\u06cc\u0646"
+                "official": "\u062f\u0648\u0644\u062a \u0641\u0644\u0633\u0637\u06cc\u0646",
+                "common": "\u0641\u0644\u0633\u0637\u06cc\u0646"
             }
         },
         "latlng": [
@@ -25584,7 +25770,8 @@
             "JOR"
         ],
         "area": 6220,
-        "flag": "\ud83c\uddf5\ud83c\uddf8"
+        "flag": "\ud83c\uddf5\ud83c\uddf8",
+        "ucid": 187
     },
     {
         "name": {
@@ -25702,8 +25889,8 @@
                 "common": "\ud504\ub791\uc2a4\ub839 \ud3f4\ub9ac\ub124\uc2dc\uc544"
             },
             "per": {
-              "official": "\u067e\u064f\u0644\u06cc\u200c\u0646\u0650\u0632\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
-              "common": "\u067e\u064f\u0644\u06cc\u200c\u0646\u0650\u0632\u06cc \u0641\u0631\u0627\u0646\u0633\u0647"
+                "official": "\u067e\u064f\u0644\u06cc\u200c\u0646\u0650\u0632\u06cc \u0641\u0631\u0627\u0646\u0633\u0647",
+                "common": "\u067e\u064f\u0644\u06cc\u200c\u0646\u0650\u0632\u06cc \u0641\u0631\u0627\u0646\u0633\u0647"
             }
         },
         "latlng": [
@@ -25714,7 +25901,8 @@
         "landlocked": false,
         "borders": [],
         "area": 4167,
-        "flag": "\ud83c\uddf5\ud83c\uddeb"
+        "flag": "\ud83c\uddf5\ud83c\uddeb",
+        "ucid": 188
     },
     {
         "name": {
@@ -25832,8 +26020,8 @@
                 "common": "\uce74\ud0c0\ub974"
             },
             "per": {
-              "official": "\u062f\u0648\u0644\u062a \u0642\u0637\u0631",
-              "common": "\u0642\u0637\u0631"
+                "official": "\u062f\u0648\u0644\u062a \u0642\u0637\u0631",
+                "common": "\u0642\u0637\u0631"
             }
         },
         "latlng": [
@@ -25846,7 +26034,8 @@
             "SAU"
         ],
         "area": 11586,
-        "flag": "\ud83c\uddf6\ud83c\udde6"
+        "flag": "\ud83c\uddf6\ud83c\udde6",
+        "ucid": 189
     },
     {
         "name": {
@@ -25962,8 +26151,8 @@
                 "common": "\ub808\uc704\ub2c8\uc639"
             },
             "per": {
-              "official": "\u0631\u0626\u0648\u0646\u06cc\u0648\u0646",
-              "common": "\u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
+                "official": "\u0631\u0626\u0648\u0646\u06cc\u0648\u0646",
+                "common": "\u0631\u0626\u0648\u0646\u06cc\u0648\u0646"
             }
         },
         "latlng": [
@@ -25974,7 +26163,8 @@
         "landlocked": false,
         "borders": [],
         "area": 2511,
-        "flag": "\ud83c\uddf7\ud83c\uddea"
+        "flag": "\ud83c\uddf7\ud83c\uddea",
+        "ucid": 190
     },
     {
         "name": {
@@ -26092,8 +26282,8 @@
                 "common": "\ub8e8\ub9c8\ub2c8\uc544"
             },
             "per": {
-              "official": "\u0631\u0648\u0645\u0627\u0646\u06cc",
-              "common": "\u0631\u0648\u0645\u0627\u0646\u06cc"
+                "official": "\u0631\u0648\u0645\u0627\u0646\u06cc",
+                "common": "\u0631\u0648\u0645\u0627\u0646\u06cc"
             }
         },
         "latlng": [
@@ -26110,7 +26300,8 @@
             "UKR"
         ],
         "area": 238391,
-        "flag": "\ud83c\uddf7\ud83c\uddf4"
+        "flag": "\ud83c\uddf7\ud83c\uddf4",
+        "ucid": 191
     },
     {
         "name": {
@@ -26233,8 +26424,8 @@
                 "common": "\ub7ec\uc2dc\uc544"
             },
             "per": {
-              "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0631\u0648\u0633\u06cc\u0647",
-              "common": "\u0631\u0648\u0633\u06cc\u0647"
+                "official": "\u0641\u062f\u0631\u0627\u0633\u06cc\u0648\u0646 \u0631\u0648\u0633\u06cc\u0647",
+                "common": "\u0631\u0648\u0633\u06cc\u0647"
             }
         },
         "latlng": [
@@ -26260,7 +26451,8 @@
             "UKR"
         ],
         "area": 17098242,
-        "flag": "\ud83c\uddf7\ud83c\uddfa"
+        "flag": "\ud83c\uddf7\ud83c\uddfa",
+        "ucid": 192
     },
     {
         "name": {
@@ -26388,8 +26580,8 @@
                 "common": "\ub974\uc644\ub2e4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0631\u0648\u0627\u0646\u062f\u0627",
-              "common": "\u0631\u0648\u0627\u0646\u062f\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0631\u0648\u0627\u0646\u062f\u0627",
+                "common": "\u0631\u0648\u0627\u0646\u062f\u0627"
             }
         },
         "latlng": [
@@ -26405,7 +26597,8 @@
             "UGA"
         ],
         "area": 26338,
-        "flag": "\ud83c\uddf7\ud83c\uddfc"
+        "flag": "\ud83c\uddf7\ud83c\uddfc",
+        "ucid": 193
     },
     {
         "name": {
@@ -26524,8 +26717,8 @@
                 "common": "\uc0ac\uc6b0\ub514\uc544\ub77c\ube44\uc544"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0639\u0631\u0628\u06cc \u0633\u064e\u0639\u0648\u062f\u06cc",
-              "common": "\u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0633\u0639\u0648\u062f\u06cc"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0639\u0631\u0628\u06cc \u0633\u064e\u0639\u0648\u062f\u06cc",
+                "common": "\u0639\u0631\u0628\u0633\u062a\u0627\u0646 \u0633\u0639\u0648\u062f\u06cc"
             }
         },
         "latlng": [
@@ -26544,7 +26737,8 @@
             "YEM"
         ],
         "area": 2149690,
-        "flag": "\ud83c\uddf8\ud83c\udde6"
+        "flag": "\ud83c\uddf8\ud83c\udde6",
+        "ucid": 194
     },
     {
         "name": {
@@ -26666,8 +26860,8 @@
                 "common": "\uc218\ub2e8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u062f\u0627\u0646",
-              "common": "\u0633\u0648\u062f\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u062f\u0627\u0646",
+                "common": "\u0633\u0648\u062f\u0627\u0646"
             }
         },
         "latlng": [
@@ -26686,7 +26880,8 @@
             "SSD"
         ],
         "area": 1886068,
-        "flag": "\ud83c\uddf8\ud83c\udde9"
+        "flag": "\ud83c\uddf8\ud83c\udde9",
+        "ucid": 195
     },
     {
         "name": {
@@ -26803,8 +26998,8 @@
                 "common": "\uc138\ub124\uac08"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0646\u06af\u0627\u0644",
-              "common": "\u0633\u0646\u06af\u0627\u0644"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0646\u06af\u0627\u0644",
+                "common": "\u0633\u0646\u06af\u0627\u0644"
             }
         },
         "latlng": [
@@ -26821,7 +27016,8 @@
             "MRT"
         ],
         "area": 196722,
-        "flag": "\ud83c\uddf8\ud83c\uddf3"
+        "flag": "\ud83c\uddf8\ud83c\uddf3",
+        "ucid": 196
     },
     {
         "name": {
@@ -26952,8 +27148,8 @@
                 "common": "\uc2f1\uac00\ud3ec\ub974"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0646\u06af\u0627\u067e\u0648\u0631",
-              "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0646\u06af\u0627\u067e\u0648\u0631",
+                "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
             }
         },
         "latlng": [
@@ -26964,7 +27160,8 @@
         "landlocked": false,
         "borders": [],
         "area": 710,
-        "flag": "\ud83c\uddf8\ud83c\uddec"
+        "flag": "\ud83c\uddf8\ud83c\uddec",
+        "ucid": 197
     },
     {
         "name": {
@@ -27080,8 +27277,8 @@
                 "common": "\uc870\uc9c0\uc544"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u062c\u0648\u0631\u062c\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u0633\u0627\u0646\u062f\u0648\u06cc\u0686 \u062c\u0646\u0648\u0628\u06cc",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u062c\u0648\u0631\u062c\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u0633\u0627\u0646\u062f\u0648\u06cc\u0686 \u062c\u0646\u0648\u0628\u06cc"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u062c\u0648\u0631\u062c\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u0633\u0627\u0646\u062f\u0648\u06cc\u0686 \u062c\u0646\u0648\u0628\u06cc",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u062c\u0648\u0631\u062c\u06cc\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc \u0648 \u0633\u0627\u0646\u062f\u0648\u06cc\u0686 \u062c\u0646\u0648\u0628\u06cc"
             }
         },
         "latlng": [
@@ -27092,7 +27289,8 @@
         "landlocked": false,
         "borders": [],
         "area": 3903,
-        "flag": "\ud83c\uddec\ud83c\uddf8"
+        "flag": "\ud83c\uddec\ud83c\uddf8",
+        "ucid": 198
     },
     {
         "name": {
@@ -27208,8 +27406,8 @@
                 "common": "\uc2a4\ubc1c\ubc14\ub974 \uc580\ub9c8\uc60c \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646",
-              "common": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646"
+                "official": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646",
+                "common": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u062f \u0648 \u06cc\u0627\u0646 \u0645\u0627\u06cc\u0646"
             }
         },
         "latlng": [
@@ -27220,7 +27418,8 @@
         "landlocked": false,
         "borders": [],
         "area": -1,
-        "flag": "\ud83c\uddf8\ud83c\uddef"
+        "flag": "\ud83c\uddf8\ud83c\uddef",
+        "ucid": 199
     },
     {
         "name": {
@@ -27335,8 +27534,8 @@
                 "common": "\uc194\ub85c\ubaac \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"
             }
         },
         "latlng": [
@@ -27347,7 +27546,8 @@
         "landlocked": false,
         "borders": [],
         "area": 28896,
-        "flag": "\ud83c\uddf8\ud83c\udde7"
+        "flag": "\ud83c\uddf8\ud83c\udde7",
+        "ucid": 200
     },
     {
         "name": {
@@ -27463,8 +27663,8 @@
                 "common": "\uc2dc\uc5d0\ub77c\ub9ac\uc628"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646",
-              "common": "\u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646",
+                "common": "\u0633\u06cc\u0631\u0627\u0644\u0626\u0648\u0646"
             }
         },
         "latlng": [
@@ -27478,7 +27678,8 @@
             "LBR"
         ],
         "area": 71740,
-        "flag": "\ud83c\uddf8\ud83c\uddf1"
+        "flag": "\ud83c\uddf8\ud83c\uddf1",
+        "ucid": 201
     },
     {
         "name": {
@@ -27599,8 +27800,8 @@
                 "common": "\uc5d8\uc0b4\ubc14\ub3c4\ub974"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631",
-              "common": "\u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631",
+                "common": "\u0627\u0644\u0633\u0627\u0644\u0648\u0627\u062f\u0648\u0631"
             }
         },
         "latlng": [
@@ -27614,7 +27815,8 @@
             "HND"
         ],
         "area": 21041,
-        "flag": "\ud83c\uddf8\ud83c\uddfb"
+        "flag": "\ud83c\uddf8\ud83c\uddfb",
+        "ucid": 202
     },
     {
         "name": {
@@ -27731,8 +27933,8 @@
                 "common": "\uc0b0\ub9c8\ub9ac\ub178"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
-              "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
+                "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
             }
         },
         "latlng": [
@@ -27745,7 +27947,8 @@
             "ITA"
         ],
         "area": 61,
-        "flag": "\ud83c\uddf8\ud83c\uddf2"
+        "flag": "\ud83c\uddf8\ud83c\uddf2",
+        "ucid": 203
     },
     {
         "name": {
@@ -27869,8 +28072,8 @@
                 "common": "\uc18c\ub9d0\ub9ac\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0633\u0648\u0645\u0627\u0644\u06cc",
-              "common": "\u0633\u0648\u0645\u0627\u0644\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0641\u062f\u0631\u0627\u0644 \u0633\u0648\u0645\u0627\u0644\u06cc",
+                "common": "\u0633\u0648\u0645\u0627\u0644\u06cc"
             }
         },
         "latlng": [
@@ -27885,7 +28088,8 @@
             "KEN"
         ],
         "area": 637657,
-        "flag": "\ud83c\uddf8\ud83c\uddf4"
+        "flag": "\ud83c\uddf8\ud83c\uddf4",
+        "ucid": 204
     },
     {
         "name": {
@@ -28001,8 +28205,8 @@
                 "common": "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871"
             },
             "per": {
-              "official": "\u0633\u0646\u002d\u067e\u06cc\u0631\u002d\u0627\u002d\u0645\u06cc\u06a9\u0644\u0648\u0646",
-              "common": "\u0633\u0646\u002d\u067e\u06cc\u0650\u0631 \u0648 \u0645\u06cc\u06a9\u0644\u064f\u0646"
+                "official": "\u0633\u0646-\u067e\u06cc\u0631-\u0627-\u0645\u06cc\u06a9\u0644\u0648\u0646",
+                "common": "\u0633\u0646-\u067e\u06cc\u0650\u0631 \u0648 \u0645\u06cc\u06a9\u0644\u064f\u0646"
             }
         },
         "latlng": [
@@ -28013,7 +28217,8 @@
         "landlocked": false,
         "borders": [],
         "area": 242,
-        "flag": "\ud83c\uddf5\ud83c\uddf2"
+        "flag": "\ud83c\uddf5\ud83c\uddf2",
+        "ucid": 205
     },
     {
         "name": {
@@ -28133,8 +28338,8 @@
                 "common": "\uc138\ub974\ube44\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0635\u0631\u0628\u0633\u062a\u0627\u0646",
-              "common": "\u0635\u0631\u0628\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0635\u0631\u0628\u0633\u062a\u0627\u0646",
+                "common": "\u0635\u0631\u0628\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -28154,7 +28359,8 @@
             "ROU"
         ],
         "area": 88361,
-        "flag": "\ud83c\uddf7\ud83c\uddf8"
+        "flag": "\ud83c\uddf7\ud83c\uddf8",
+        "ucid": 206
     },
     {
         "name": {
@@ -28269,8 +28475,8 @@
                 "common": "\ub0a8\uc218\ub2e8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u062f\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc",
-              "common": "\u0633\u0648\u062f\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u062f\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc",
+                "common": "\u0633\u0648\u062f\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc"
             }
         },
         "latlng": [
@@ -28288,7 +28494,8 @@
             "UGA"
         ],
         "area": 619745,
-        "flag": "\ud83c\uddf8\ud83c\uddf8"
+        "flag": "\ud83c\uddf8\ud83c\uddf8",
+        "ucid": 207
     },
     {
         "name": {
@@ -28406,8 +28613,8 @@
                 "common": "\uc0c1\ud22c\uba54 \ud504\ub9b0\uc2dc\ud398"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647 \u0648 \u067e\u0631\u0646\u0633\u06cc\u067e",
-              "common": "\u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647 \u0648 \u067e\u0631\u0646\u0633\u06cc\u067e"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647 \u0648 \u067e\u0631\u0646\u0633\u06cc\u067e",
+                "common": "\u0633\u0627\u0626\u0648\u062a\u0648\u0645\u0647 \u0648 \u067e\u0631\u0646\u0633\u06cc\u067e"
             }
         },
         "latlng": [
@@ -28418,7 +28625,8 @@
         "landlocked": false,
         "borders": [],
         "area": 964,
-        "flag": "\ud83c\uddf8\ud83c\uddf9"
+        "flag": "\ud83c\uddf8\ud83c\uddf9",
+        "ucid": 208
     },
     {
         "name": {
@@ -28537,8 +28745,8 @@
                 "common": "\uc218\ub9ac\ub0a8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u0631\u06cc\u0646\u0627\u0645",
-              "common": "\u0633\u0648\u0631\u06cc\u0646\u0627\u0645"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u0631\u06cc\u0646\u0627\u0645",
+                "common": "\u0633\u0648\u0631\u06cc\u0646\u0627\u0645"
             }
         },
         "latlng": [
@@ -28553,7 +28761,8 @@
             "GUY"
         ],
         "area": 163820,
-        "flag": "\ud83c\uddf8\ud83c\uddf7"
+        "flag": "\ud83c\uddf8\ud83c\uddf7",
+        "ucid": 209
     },
     {
         "name": {
@@ -28670,8 +28879,8 @@
                 "common": "\uc2ac\ub85c\ubc14\ud0a4\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0648\u0627\u06a9\u06cc",
-              "common": "\u0627\u0650\u0633\u0644\u064f\u0648\u0627\u06a9\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0648\u0627\u06a9\u06cc",
+                "common": "\u0627\u0650\u0633\u0644\u064f\u0648\u0627\u06a9\u06cc"
             }
         },
         "latlng": [
@@ -28688,7 +28897,8 @@
             "UKR"
         ],
         "area": 49037,
-        "flag": "\ud83c\uddf8\ud83c\uddf0"
+        "flag": "\ud83c\uddf8\ud83c\uddf0",
+        "ucid": 210
     },
     {
         "name": {
@@ -28805,8 +29015,8 @@
                 "common": "\uc2ac\ub85c\ubca0\ub2c8\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0648\u0648\u0646\u06cc",
-              "common": "\u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0648\u0648\u0646\u06cc",
+                "common": "\u0627\u0633\u0644\u0648\u0648\u0646\u06cc"
             }
         },
         "latlng": [
@@ -28822,7 +29032,8 @@
             "HUN"
         ],
         "area": 20273,
-        "flag": "\ud83c\uddf8\ud83c\uddee"
+        "flag": "\ud83c\uddf8\ud83c\uddee",
+        "ucid": 211
     },
     {
         "name": {
@@ -28939,8 +29150,8 @@
                 "common": "\uc2a4\uc6e8\ub374"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0633\u0648\u0626\u062f",
-              "common": "\u0633\u0648\u0626\u062f"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0633\u0648\u0626\u062f",
+                "common": "\u0633\u0648\u0626\u062f"
             }
         },
         "latlng": [
@@ -28954,7 +29165,8 @@
             "NOR"
         ],
         "area": 450295,
-        "flag": "\ud83c\uddf8\ud83c\uddea"
+        "flag": "\ud83c\uddf8\ud83c\uddea",
+        "ucid": 212
     },
     {
         "name": {
@@ -29080,8 +29292,8 @@
                 "common": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0633\u0648\u0627\u0632\u06cc\u0644\u0646\u062f",
-              "common": "\u0627\u0633\u0648\u0627\u062a\u06cc\u0646\u06cc"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0633\u0648\u0627\u0632\u06cc\u0644\u0646\u062f",
+                "common": "\u0627\u0633\u0648\u0627\u062a\u06cc\u0646\u06cc"
             }
         },
         "latlng": [
@@ -29095,7 +29307,8 @@
             "ZAF"
         ],
         "area": 17364,
-        "flag": "\ud83c\uddf8\ud83c\uddff"
+        "flag": "\ud83c\uddf8\ud83c\uddff",
+        "ucid": 213
     },
     {
         "name": {
@@ -29221,8 +29434,8 @@
                 "common": "\uc2e0\ud2b8\ub9c8\ub974\ud134"
             },
             "per": {
-              "official": "\u0633\u0646 \u0645\u0627\u0631\u062a\u0646",
-              "common": "\u0633\u0646 \u0645\u0627\u0631\u062a\u0646"
+                "official": "\u0633\u0646 \u0645\u0627\u0631\u062a\u0646",
+                "common": "\u0633\u0646 \u0645\u0627\u0631\u062a\u0646"
             }
         },
         "latlng": [
@@ -29235,7 +29448,8 @@
             "MAF"
         ],
         "area": 34,
-        "flag": "\ud83c\uddf8\ud83c\uddfd"
+        "flag": "\ud83c\uddf8\ud83c\uddfd",
+        "ucid": 214
     },
     {
         "name": {
@@ -29363,8 +29577,8 @@
                 "common": "\uc138\uc774\uc178"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u06cc\u0634\u0644",
-              "common": "\u0633\u06cc\u0634\u0644"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u06cc\u0634\u0644",
+                "common": "\u0633\u06cc\u0634\u0644"
             }
         },
         "latlng": [
@@ -29375,7 +29589,8 @@
         "landlocked": false,
         "borders": [],
         "area": 452,
-        "flag": "\ud83c\uddf8\ud83c\udde8"
+        "flag": "\ud83c\uddf8\ud83c\udde8",
+        "ucid": 215
     },
     {
         "name": {
@@ -29493,8 +29708,8 @@
                 "common": "\uc2dc\ub9ac\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0639\u0631\u0628\u06cc \u0633\u0648\u0631\u06cc\u0647",
-              "common": "\u0633\u0648\u0631\u06cc\u0647"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0639\u0631\u0628\u06cc \u0633\u0648\u0631\u06cc\u0647",
+                "common": "\u0633\u0648\u0631\u06cc\u0647"
             }
         },
         "latlng": [
@@ -29511,7 +29726,8 @@
             "TUR"
         ],
         "area": 185180,
-        "flag": "\ud83c\uddf8\ud83c\uddfe"
+        "flag": "\ud83c\uddf8\ud83c\uddfe",
+        "ucid": 216
     },
     {
         "name": {
@@ -29626,8 +29842,8 @@
                 "common": "\ud130\ud06c\uc2a4 \ucf00\uc774\ucee4\uc2a4 \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u062a\u0648\u0631\u06a9\u0633 \u0648 \u06a9\u0627\u06cc\u06a9\u0648\u0633",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u062a\u0648\u0631\u06a9\u0633 \u0648 \u06a9\u0627\u06cc\u06a9\u0648\u0633"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u062a\u0648\u0631\u06a9\u0633 \u0648 \u06a9\u0627\u06cc\u06a9\u0648\u0633",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u062a\u0648\u0631\u06a9\u0633 \u0648 \u06a9\u0627\u06cc\u06a9\u0648\u0633"
             }
         },
         "latlng": [
@@ -29638,7 +29854,8 @@
         "landlocked": false,
         "borders": [],
         "area": 948,
-        "flag": "\ud83c\uddf9\ud83c\udde8"
+        "flag": "\ud83c\uddf9\ud83c\udde8",
+        "ucid": 217
     },
     {
         "name": {
@@ -29765,8 +29982,8 @@
                 "common": "\ucc28\ub4dc"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u0627\u062f",
-              "common": "\u0686\u0627\u062f"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u0627\u062f",
+                "common": "\u0686\u0627\u062f"
             }
         },
         "latlng": [
@@ -29784,7 +30001,8 @@
             "SDN"
         ],
         "area": 1284000,
-        "flag": "\ud83c\uddf9\ud83c\udde9"
+        "flag": "\ud83c\uddf9\ud83c\udde9",
+        "ucid": 218
     },
     {
         "name": {
@@ -29902,8 +30120,8 @@
                 "common": "\ud1a0\uace0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0648\u06af\u0648",
-              "common": "\u062a\u0648\u06af\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0648\u06af\u0648",
+                "common": "\u062a\u0648\u06af\u0648"
             }
         },
         "latlng": [
@@ -29918,7 +30136,8 @@
             "GHA"
         ],
         "area": 56785,
-        "flag": "\ud83c\uddf9\ud83c\uddec"
+        "flag": "\ud83c\uddf9\ud83c\uddec",
+        "ucid": 219
     },
     {
         "name": {
@@ -30039,8 +30258,8 @@
                 "common": "\ud0dc\uad6d"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062a\u0627\u06cc\u0644\u0646\u062f",
-              "common": "\u062a\u0627\u06cc\u0644\u0646\u062f"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062a\u0627\u06cc\u0644\u0646\u062f",
+                "common": "\u062a\u0627\u06cc\u0644\u0646\u062f"
             }
         },
         "latlng": [
@@ -30056,7 +30275,8 @@
             "MYS"
         ],
         "area": 513120,
-        "flag": "\ud83c\uddf9\ud83c\udded"
+        "flag": "\ud83c\uddf9\ud83c\udded",
+        "ucid": 220
     },
     {
         "name": {
@@ -30180,8 +30400,8 @@
                 "common": "\ud0c0\uc9c0\ud0a4\uc2a4\ud0c4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646",
-              "common": "\u062a\u0627\u062c\u06cc\u06a9\u0650\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0627\u062c\u06cc\u06a9\u0633\u062a\u0627\u0646",
+                "common": "\u062a\u0627\u062c\u06cc\u06a9\u0650\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -30197,7 +30417,8 @@
             "UZB"
         ],
         "area": 143100,
-        "flag": "\ud83c\uddf9\ud83c\uddef"
+        "flag": "\ud83c\uddf9\ud83c\uddef",
+        "ucid": 221
     },
     {
         "name": {
@@ -30322,8 +30543,8 @@
                 "common": "\ud1a0\ucf08\ub77c\uc6b0"
             },
             "per": {
-              "official": "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648",
-              "common": "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648"
+                "official": "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648",
+                "common": "\u062a\u0648\u06a9\u0644\u0627\u0626\u0648"
             }
         },
         "latlng": [
@@ -30334,7 +30555,8 @@
         "landlocked": false,
         "borders": [],
         "area": 12,
-        "flag": "\ud83c\uddf9\ud83c\uddf0"
+        "flag": "\ud83c\uddf9\ud83c\uddf0",
+        "ucid": 222
     },
     {
         "name": {
@@ -30454,8 +30676,8 @@
                 "common": "\ud22c\ub974\ud06c\uba54\ub2c8\uc2a4\ud0c4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646",
-              "common": "\u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062e\u0644\u0642 \u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646",
+                "common": "\u062a\u0631\u06a9\u0645\u0646\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -30471,7 +30693,8 @@
             "UZB"
         ],
         "area": 488100,
-        "flag": "\ud83c\uddf9\ud83c\uddf2"
+        "flag": "\ud83c\uddf9\ud83c\uddf2",
+        "ucid": 223
     },
     {
         "name": {
@@ -30597,8 +30820,8 @@
                 "common": "\ub3d9\ud2f0\ubaa8\ub974"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc",
-              "common": "\u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062f\u0645\u0648\u06a9\u0631\u0627\u062a\u06cc\u06a9 \u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc",
+                "common": "\u062a\u06cc\u0645\u0648\u0631 \u0634\u0631\u0642\u06cc"
             }
         },
         "latlng": [
@@ -30611,7 +30834,8 @@
             "IDN"
         ],
         "area": 14874,
-        "flag": "\ud83c\uddf9\ud83c\uddf1"
+        "flag": "\ud83c\uddf9\ud83c\uddf1",
+        "ucid": 224
     },
     {
         "name": {
@@ -30731,8 +30955,8 @@
                 "common": "\ud1b5\uac00"
             },
             "per": {
-              "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062a\u0648\u0646\u06af\u0627",
-              "common": "\u062a\u0648\u0646\u06af\u0627"
+                "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u062a\u0648\u0646\u06af\u0627",
+                "common": "\u062a\u0648\u0646\u06af\u0627"
             }
         },
         "latlng": [
@@ -30743,7 +30967,8 @@
         "landlocked": false,
         "borders": [],
         "area": 747,
-        "flag": "\ud83c\uddf9\ud83c\uddf4"
+        "flag": "\ud83c\uddf9\ud83c\uddf4",
+        "ucid": 225
     },
     {
         "name": {
@@ -30859,8 +31084,8 @@
                 "common": "\ud2b8\ub9ac\ub2c8\ub2e4\ub4dc \ud1a0\ubc14\uace0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648",
-              "common": "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648",
+                "common": "\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0648 \u062a\u0648\u0628\u0627\u06af\u0648"
             }
         },
         "latlng": [
@@ -30871,7 +31096,8 @@
         "landlocked": false,
         "borders": [],
         "area": 5130,
-        "flag": "\ud83c\uddf9\ud83c\uddf9"
+        "flag": "\ud83c\uddf9\ud83c\uddf9",
+        "ucid": 226
     },
     {
         "name": {
@@ -30988,8 +31214,8 @@
                 "common": "\ud280\ub2c8\uc9c0"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0648\u0646\u0633",
-              "common": "\u062a\u0648\u0646\u0633"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0648\u0646\u0633",
+                "common": "\u062a\u0648\u0646\u0633"
             }
         },
         "latlng": [
@@ -31003,7 +31229,8 @@
             "LBY"
         ],
         "area": 163610,
-        "flag": "\ud83c\uddf9\ud83c\uddf3"
+        "flag": "\ud83c\uddf9\ud83c\uddf3",
+        "ucid": 227
     },
     {
         "name": {
@@ -31121,8 +31348,8 @@
                 "common": "\ud130\ud0a4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0631\u06a9\u06cc\u0647",
-              "common": "\u062a\u0631\u06a9\u06cc\u0647"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u062a\u0631\u06a9\u06cc\u0647",
+                "common": "\u062a\u0631\u06a9\u06cc\u0647"
             }
         },
         "latlng": [
@@ -31142,7 +31369,8 @@
             "SYR"
         ],
         "area": 783562,
-        "flag": "\ud83c\uddf9\ud83c\uddf7"
+        "flag": "\ud83c\uddf9\ud83c\uddf7",
+        "ucid": 228
     },
     {
         "name": {
@@ -31266,8 +31494,8 @@
                 "common": "\ud22c\ubc1c\ub8e8"
             },
             "per": {
-              "official": "\u062a\u0648\u0648\u0627\u0644\u0648",
-              "common": "\u062a\u0648\u0648\u0627\u0644\u0648"
+                "official": "\u062a\u0648\u0648\u0627\u0644\u0648",
+                "common": "\u062a\u0648\u0648\u0627\u0644\u0648"
             }
         },
         "latlng": [
@@ -31278,7 +31506,8 @@
         "landlocked": false,
         "borders": [],
         "area": 26,
-        "flag": "\ud83c\uddf9\ud83c\uddfb"
+        "flag": "\ud83c\uddf9\ud83c\uddfb",
+        "ucid": 229
     },
     {
         "name": {
@@ -31396,8 +31625,8 @@
                 "common": "\ub300\ub9cc"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06cc\u0646",
-              "common": "\u062a\u0627\u06cc\u0648\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06cc\u0646",
+                "common": "\u062a\u0627\u06cc\u0648\u0627\u0646"
             }
         },
         "latlng": [
@@ -31408,7 +31637,8 @@
         "landlocked": false,
         "borders": [],
         "area": 36193,
-        "flag": "\ud83c\uddf9\ud83c\uddfc"
+        "flag": "\ud83c\uddf9\ud83c\uddfc",
+        "ucid": 230
     },
     {
         "name": {
@@ -31531,8 +31761,8 @@
                 "common": "\ud0c4\uc790\ub2c8\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u062a\u062d\u062f \u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627",
-              "common": "\u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u062a\u062d\u062f \u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627",
+                "common": "\u062a\u0627\u0646\u0632\u0627\u0646\u06cc\u0627"
             }
         },
         "latlng": [
@@ -31552,7 +31782,8 @@
             "ZMB"
         ],
         "area": 945087,
-        "flag": "\ud83c\uddf9\ud83c\uddff"
+        "flag": "\ud83c\uddf9\ud83c\uddff",
+        "ucid": 231
     },
     {
         "name": {
@@ -31674,8 +31905,8 @@
                 "common": "\uc6b0\uac04\ub2e4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0648\u06af\u0627\u0646\u062f\u0627",
-              "common": "\u0627\u0648\u06af\u0627\u0646\u062f\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0648\u06af\u0627\u0646\u062f\u0627",
+                "common": "\u0627\u0648\u06af\u0627\u0646\u062f\u0627"
             }
         },
         "latlng": [
@@ -31692,7 +31923,8 @@
             "TZA"
         ],
         "area": 241550,
-        "flag": "\ud83c\uddfa\ud83c\uddec"
+        "flag": "\ud83c\uddfa\ud83c\uddec",
+        "ucid": 232
     },
     {
         "name": {
@@ -31809,8 +32041,8 @@
                 "common": "\uc6b0\ud06c\ub77c\uc774\ub098"
             },
             "per": {
-              "official": "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646",
-              "common": "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
+                "official": "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646",
+                "common": "\u0627\u0648\u06a9\u0631\u0627\u06cc\u0646"
             }
         },
         "latlng": [
@@ -31829,7 +32061,8 @@
             "SVK"
         ],
         "area": 603500,
-        "flag": "\ud83c\uddfa\ud83c\udde6"
+        "flag": "\ud83c\uddfa\ud83c\udde6",
+        "ucid": 233
     },
     {
         "name": {
@@ -31944,8 +32177,8 @@
                 "common": "\ubbf8\uad6d\ub839 \uad70\uc18c \uc81c\ub3c4"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u0686\u06a9 \u062d\u0627\u0634\u06cc\u0647\u200c\u0627\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u0686\u06a9 \u062d\u0627\u0634\u06cc\u0647\u200c\u0627\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u0686\u06a9 \u062d\u0627\u0634\u06cc\u0647\u200c\u0627\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u06a9\u0648\u0686\u06a9 \u062d\u0627\u0634\u06cc\u0647\u200c\u0627\u06cc \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -31956,7 +32189,8 @@
         "landlocked": false,
         "borders": [],
         "area": 34.2,
-        "flag": "\ud83c\uddfa\ud83c\uddf2"
+        "flag": "\ud83c\uddfa\ud83c\uddf2",
+        "ucid": 234
     },
     {
         "name": {
@@ -32073,8 +32307,8 @@
                 "common": "\uc6b0\ub8e8\uacfc\uc774"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u0648\u06af\u0648\u0626\u0647",
-              "common": "\u0627\u0631\u0648\u06af\u0648\u0626\u0647"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0631\u0648\u06af\u0648\u0626\u0647",
+                "common": "\u0627\u0631\u0648\u06af\u0648\u0626\u0647"
             }
         },
         "latlng": [
@@ -32088,7 +32322,8 @@
             "BRA"
         ],
         "area": 181034,
-        "flag": "\ud83c\uddfa\ud83c\uddfe"
+        "flag": "\ud83c\uddfa\ud83c\uddfe",
+        "ucid": 235
     },
     {
         "name": {
@@ -32521,8 +32756,8 @@
                 "common": "\ubbf8\uad6d"
             },
             "per": {
-              "official": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
-              "common": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627"
+                "official": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+                "common": "\u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -32536,7 +32771,8 @@
             "MEX"
         ],
         "area": 9372610,
-        "flag": "\ud83c\uddfa\ud83c\uddf8"
+        "flag": "\ud83c\uddfa\ud83c\uddf8",
+        "ucid": 236
     },
     {
         "name": {
@@ -32659,8 +32895,8 @@
                 "common": "\uc6b0\uc988\ubca0\ud0a4\uc2a4\ud0c4"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646",
-              "common": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646",
+                "common": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
             }
         },
         "latlng": [
@@ -32677,7 +32913,8 @@
             "TKM"
         ],
         "area": 447400,
-        "flag": "\ud83c\uddfa\ud83c\uddff"
+        "flag": "\ud83c\uddfa\ud83c\uddff",
+        "ucid": 237
     },
     {
         "name": {
@@ -32801,8 +33038,8 @@
                 "common": "\ubc14\ud2f0\uce78"
             },
             "per": {
-              "official": "\u062f\u0648\u0644\u062a\u200c\u0634\u0647\u0631 \u0648\u0627\u062a\u06cc\u06a9\u0627\u0646",
-              "common": "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646"
+                "official": "\u062f\u0648\u0644\u062a\u200c\u0634\u0647\u0631 \u0648\u0627\u062a\u06cc\u06a9\u0627\u0646",
+                "common": "\u0648\u0627\u062a\u06cc\u06a9\u0627\u0646"
             }
         },
         "latlng": [
@@ -32815,7 +33052,8 @@
             "ITA"
         ],
         "area": 0.44,
-        "flag": "\ud83c\uddfb\ud83c\udde6"
+        "flag": "\ud83c\uddfb\ud83c\udde6",
+        "ucid": 238
     },
     {
         "name": {
@@ -32930,8 +33168,8 @@
                 "common": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518"
             },
             "per": {
-              "official": "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627",
-              "common": "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
+                "official": "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627",
+                "common": "\u0633\u0646\u062a \u0648\u06cc\u0646\u0633\u0646\u062a \u0648 \u06af\u0631\u0646\u0627\u062f\u06cc\u0646\u200c\u0647\u0627"
             }
         },
         "latlng": [
@@ -32942,7 +33180,8 @@
         "landlocked": false,
         "borders": [],
         "area": 389,
-        "flag": "\ud83c\uddfb\ud83c\udde8"
+        "flag": "\ud83c\uddfb\ud83c\udde8",
+        "ucid": 239
     },
     {
         "name": {
@@ -33060,8 +33299,8 @@
                 "common": "\ubca0\ub124\uc218\uc5d8\ub77c"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0644\u06cc\u0648\u0627\u0631\u06cc \u0648\u0646\u0632\u0648\u0626\u0644\u0627",
-              "common": "\u0648\u0646\u0632\u0648\u0626\u0644\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0628\u0648\u0644\u06cc\u0648\u0627\u0631\u06cc \u0648\u0646\u0632\u0648\u0626\u0644\u0627",
+                "common": "\u0648\u0646\u0632\u0648\u0626\u0644\u0627"
             }
         },
         "latlng": [
@@ -33076,7 +33315,8 @@
             "GUY"
         ],
         "area": 916445,
-        "flag": "\ud83c\uddfb\ud83c\uddea"
+        "flag": "\ud83c\uddfb\ud83c\uddea",
+        "ucid": 240
     },
     {
         "name": {
@@ -33192,8 +33432,8 @@
                 "common": "\uc601\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627"
             }
         },
         "latlng": [
@@ -33204,7 +33444,8 @@
         "landlocked": false,
         "borders": [],
         "area": 151,
-        "flag": "\ud83c\uddfb\ud83c\uddec"
+        "flag": "\ud83c\uddfb\ud83c\uddec",
+        "ucid": 241
     },
     {
         "name": {
@@ -33320,8 +33561,8 @@
                 "common": "\ubbf8\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
-              "common": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627",
+                "common": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0627\u06cc\u0627\u0644\u0627\u062a \u0645\u062a\u062d\u062f\u0647 \u0622\u0645\u0631\u06cc\u06a9\u0627"
             }
         },
         "latlng": [
@@ -33332,7 +33573,8 @@
         "landlocked": false,
         "borders": [],
         "area": 347,
-        "flag": "\ud83c\uddfb\ud83c\uddee"
+        "flag": "\ud83c\uddfb\ud83c\uddee",
+        "ucid": 242
     },
     {
         "name": {
@@ -33450,8 +33692,8 @@
                 "common": "\ubca0\ud2b8\ub0a8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u0633\u06cc\u0627\u0644\u06cc\u0633\u062a\u06cc \u0648\u06cc\u062a\u0646\u0627\u0645",
-              "common": "\u0648\u06cc\u062a\u0646\u0627\u0645"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0648\u0633\u06cc\u0627\u0644\u06cc\u0633\u062a\u06cc \u0648\u06cc\u062a\u0646\u0627\u0645",
+                "common": "\u0648\u06cc\u062a\u0646\u0627\u0645"
             }
         },
         "latlng": [
@@ -33466,7 +33708,8 @@
             "LAO"
         ],
         "area": 331212,
-        "flag": "\ud83c\uddfb\ud83c\uddf3"
+        "flag": "\ud83c\uddfb\ud83c\uddf3",
+        "ucid": 243
     },
     {
         "name": {
@@ -33594,8 +33837,8 @@
                 "common": "\ubc14\ub204\uc544\ud22c"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0648\u0627\u0646\u0648\u0627\u062a\u0648",
-              "common": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0648\u0627\u0646\u0648\u0627\u062a\u0648",
+                "common": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648"
             }
         },
         "latlng": [
@@ -33606,7 +33849,8 @@
         "landlocked": false,
         "borders": [],
         "area": 12189,
-        "flag": "\ud83c\uddfb\ud83c\uddfa"
+        "flag": "\ud83c\uddfb\ud83c\uddfa",
+        "ucid": 244
     },
     {
         "name": {
@@ -33723,8 +33967,8 @@
                 "common": "\uc648\ub9ac\uc2a4 \ud4cc\ud280\ub098"
             },
             "per": {
-              "official": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627",
-              "common": "\u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627"
+                "official": "\u062c\u0632\u0627\u06cc\u0631 \u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627",
+                "common": "\u0648\u0627\u0644\u06cc\u0633 \u0648 \u0641\u0648\u062a\u0648\u0646\u0627"
             }
         },
         "latlng": [
@@ -33735,7 +33979,8 @@
         "landlocked": false,
         "borders": [],
         "area": 142,
-        "flag": "\ud83c\uddfc\ud83c\uddeb"
+        "flag": "\ud83c\uddfc\ud83c\uddeb",
+        "ucid": 245
     },
     {
         "name": {
@@ -33857,8 +34102,8 @@
                 "common": "\uc0ac\ubaa8\uc544"
             },
             "per": {
-              "official": "\u0627\u06cc\u0627\u0644\u062a \u0645\u0633\u062a\u0642\u0644 \u0633\u0627\u0645\u0648\u0622",
-              "common": "\u0633\u0627\u0645\u0648\u0622"
+                "official": "\u0627\u06cc\u0627\u0644\u062a \u0645\u0633\u062a\u0642\u0644 \u0633\u0627\u0645\u0648\u0622",
+                "common": "\u0633\u0627\u0645\u0648\u0622"
             }
         },
         "latlng": [
@@ -33869,7 +34114,8 @@
         "landlocked": false,
         "borders": [],
         "area": 2842,
-        "flag": "\ud83c\uddfc\ud83c\uddf8"
+        "flag": "\ud83c\uddfc\ud83c\uddf8",
+        "ucid": 246
     },
     {
         "name": {
@@ -33986,8 +34232,8 @@
                 "common": "\uc608\uba58"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06cc\u0645\u0646",
-              "common": "\u06cc\u0645\u0646"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u06cc\u0645\u0646",
+                "common": "\u06cc\u0645\u0646"
             }
         },
         "latlng": [
@@ -34001,7 +34247,8 @@
             "SAU"
         ],
         "area": 527968,
-        "flag": "\ud83c\uddfe\ud83c\uddea"
+        "flag": "\ud83c\uddfe\ud83c\uddea",
+        "ucid": 247
     },
     {
         "name": {
@@ -34171,8 +34418,8 @@
                 "common": "\ub0a8\uc544\ud504\ub9ac\uce74"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc",
-              "common": "\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc",
+                "common": "\u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u062c\u0646\u0648\u0628\u06cc"
             }
         },
         "latlng": [
@@ -34190,7 +34437,8 @@
             "ZWE"
         ],
         "area": 1221037,
-        "flag": "\ud83c\uddff\ud83c\udde6"
+        "flag": "\ud83c\uddff\ud83c\udde6",
+        "ucid": 248
     },
     {
         "name": {
@@ -34306,8 +34554,8 @@
                 "common": "\uc7a0\ube44\uc544"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0632\u0627\u0645\u0628\u06cc\u0627",
-              "common": "\u0632\u0627\u0645\u0628\u06cc\u0627"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0632\u0627\u0645\u0628\u06cc\u0627",
+                "common": "\u0632\u0627\u0645\u0628\u06cc\u0627"
             }
         },
         "latlng": [
@@ -34327,7 +34575,8 @@
             "ZWE"
         ],
         "area": 752612,
-        "flag": "\ud83c\uddff\ud83c\uddf2"
+        "flag": "\ud83c\uddff\ud83c\uddf2",
+        "ucid": 249
     },
     {
         "name": {
@@ -34545,8 +34794,8 @@
                 "common": "\uc9d0\ubc14\ube0c\uc6e8"
             },
             "per": {
-              "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647",
-              "common": "\u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647"
+                "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647",
+                "common": "\u0632\u06cc\u0645\u0628\u0627\u0628\u0648\u0647"
             }
         },
         "latlng": [
@@ -34562,6 +34811,7 @@
             "ZMB"
         ],
         "area": 390757,
-        "flag": "\ud83c\uddff\ud83c\uddfc"
+        "flag": "\ud83c\uddff\ud83c\uddfc",
+        "ucid": 250
     }
 ]

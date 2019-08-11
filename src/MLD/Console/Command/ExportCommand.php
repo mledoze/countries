@@ -36,7 +36,7 @@ class ExportCommand extends Command
         'yml' => ['class' => '\MLD\Converter\YamlConverter', 'output_file' => 'countries.yml'],
         'sql_insert' => ['class' => '\MLD\Converter\SQL\SQLInsertConverter', 'output_file' => 'countries-inserts.sql'],
         'sql_update' => ['class' => '\MLD\Converter\SQL\SQLUpdateConverter', 'output_file' => 'countries-updates.sql'],
-        # 'sql_countries_by_id' => ['class' => '\MLD\Converter\SQL\SQLIDGenerator', 'output_file' => 'Countries.php']
+        # 'php_universal_country_id' => ['class' => '\MLD\Converter\SQL\UniversalCountryIdGenerator', 'output_file' => 'UniversalCountryId.php']
     ];
 
     /**

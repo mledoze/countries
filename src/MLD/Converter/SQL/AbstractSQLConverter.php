@@ -3,8 +3,10 @@
 namespace MLD\Converter\SQL;
 
 use MLD\Converter\AbstractConverter;
-use MLD\Converter\SQL\Countries;
+use MLD\Converter\SQL\UniversalCountryId;
+use Exception;
 
+const UCID = "ucid";
 const PRIMARYKEY = "id";
 const COUNTRY_PRIMARYKEY = "country_id";
 const NAME = "name";
@@ -50,12 +52,37 @@ abstract class AbstractSQLConverter extends AbstractConverter
         return $this->body;
     }
 
-    private function getIDForOfficialCountryName($official)
+    private function ucidValidation(int $currentUcid, string $common, string $official, string $tld = null)
     {
-        if (in_array($official, Countries::MAP)) { 
-            return Countries::MAP[$official];
-        } 
-        throw new Exception('ID for country not found: "' . $official . '"!');
+
+        if(isset(UniversalCountryId::COMMON_MAP[$common])) {
+            $previousUcid = UniversalCountryId::COMMON_MAP[$common];
+            if ($previousUcid == $currentUcid) {
+                return;
+            } else {
+                throw new Exception('Universal country ID from "' . $common . '", did change from "' . $previousUcid . '" to "' . $currentUcid . '"!');
+            }
+        }
+
+        if (isset(UniversalCountryId::OFFICIAL_MAP[$official])) {
+            $previousUcid = UniversalCountryId::OFFICIAL_MAP[$official];
+            if ($previousUcid == $currentUcid) {
+                return;
+            } else {
+                throw new Exception('Universal country ID from "' . $official . '", did change from "' . $previousUcid . '" to "' . $currentUcid . '"!');
+            }
+        }
+        
+        if (isset(UniversalCountryId::TLD_MAP[$tld])) {
+            $previousUcid = UniversalCountryId::TLD_MAP[$tld];
+            if ($previousUcid == $currentUcid) {
+                return;
+            } else {
+                throw new Exception('Universal country ID from "' . $tld . '", did change from "' . $previousUcid . '" to "' . $currentUcid . '"!');
+            }
+        }
+
+        throw new Exception('Country "' . $common . ', ' . $official . ', ' . $tld . '" does not have an universal country ID!');
     }
 
     /**
@@ -67,16 +94,22 @@ abstract class AbstractSQLConverter extends AbstractConverter
       //  if (isset($data['currencies'])) {
       //      $data['currencies'] = array_keys($data['currencies']);
       //  }
-        $offical = $data['name']['official'];  
+      
+        $primaryKey = $data[UCID]; 
+        if(!isset($primaryKey)) {
+            return;
+        }
 
         $values = array();
-        $primaryKey = $this->getIDForOfficialCountryName($offical);
         $values[PRIMARYKEY] = $primaryKey;
         $values[NAME] = $data['name']['common'];
-        $values[OFFICIAL] = $offical;
-
+        $values[OFFICIAL] = $data['name']['official'];  
+        
         if (isset($data['tld'][0])) {
             $values[TLD] = $data['tld'][0];
+            $this->ucidValidation($values[PRIMARYKEY], $values[NAME], $values[OFFICIAL], $values[TLD]);
+        } else {
+            $this->ucidValidation($values[PRIMARYKEY], $values[NAME], $values[OFFICIAL]);
         }
         if (isset($data['cca2'])) {
             $values[CCA2] = $data['cca2'];
