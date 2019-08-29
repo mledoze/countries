@@ -10,7 +10,7 @@
 [![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 
 ## Countries data
-This repository contains lists of world countries, as defined by [ISO Standard 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1),
+This repository contains lists of world countries, majorly based on [ISO Standard 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1),
 in JSON, CSV and XML. Each line contains the country:
 
  - `name`
