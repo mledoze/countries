@@ -15,7 +15,7 @@ jobs:
         run: composer install
 
   test:
+    needs: build
     steps:
       - name: JSON lint
-        needs: build
         run: composer run-script ci-test
