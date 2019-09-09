@@ -1,0 +1,21 @@
+name: CI
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: npm install
+        run: npm install -g jsonlint
+
+      - name: composer install
+        run: composer install
+
+  test:
+    steps:
+      - name: JSON lint
+        needs: build
+        run: composer run-script ci-test
