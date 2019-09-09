@@ -9,7 +9,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: npm install
-        run: npm install -g jsonlint
+        run: npm install jsonlint
 
       - name: composer install
         run: composer install
