@@ -25,11 +25,5 @@
   "autoload": {
 	"psr-4": {"MLD\\": "src/MLD"}
   },
-  "bin": ["countries.php"],
-  "scripts": {
-    "ci-test": [
-      "bash ./ci/test.sh",
-      "@php countries.php convert"
-    ]
-  }
+  "bin": ["countries.php"]
 }
