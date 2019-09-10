@@ -3,6 +3,7 @@ on: push
 
 jobs:
   test:
+    name: Tests on PHP ${{ matrix.php-versions }}
     runs-on: ubuntu-latest
     strategy:
       matrix:
