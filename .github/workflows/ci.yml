@@ -4,9 +4,17 @@ on: push
 jobs:
   test:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        php-versions: ['7.1', '7.2', '7.3']
     steps:
       - name: Checkout
         uses: actions/checkout@master
+
+      - name: Install PHP
+        uses: shivammathur/setup-php@master
+        with:
+          php-version: ${{ matrix.php-versions }}
 
       - name: npm install
         run: npm install jsonlint
