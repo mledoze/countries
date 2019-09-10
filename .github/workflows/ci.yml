@@ -23,4 +23,7 @@ jobs:
         run: composer install
 
       - name: JSON lint
-        run: composer run-script ci-test
+        run: bash ./ci/test.sh
+
+      - name: Test conversion
+        run: php countries.php convert
