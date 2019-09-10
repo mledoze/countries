@@ -28,7 +28,7 @@
   "bin": ["countries.php"],
   "scripts": {
     "ci-test": [
-      "./ci/test.sh",
+      "bash ./ci/test.sh",
       "@php countries.php convert"
     ]
   }
