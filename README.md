@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/packagist/l/mledoze/countries.svg?style=flat)](https://opendatacommons.org/licenses/odbl/1.0/)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/mledoze/countries.svg)](https://packagist.org/packages/mledoze/countries)
 
-[![Build Status](https://travis-ci.org/mledoze/countries.svg?branch=master)](https://travis-ci.org/mledoze/countries)
+[![Build Status](https://github.com/mledoze/countries/workflows/CI/badge.svg)](https://github.com/mledoze/countries/actions)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mledoze/countries/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mledoze/countries/?branch=master)
 [![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 
