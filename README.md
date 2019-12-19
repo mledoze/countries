@@ -51,7 +51,12 @@ Each line contains the country:
  		- key: official - official name translation
  		- key: common - common name translation
  - latitude and longitude (`latlng`)
- - name of residents (`demonym`)
+ - name of residents in english (`demonym`)
+ - `demonyms` - name of residents, translated & genderized
+    - key: three-letter ISO 639-3 language code
+	- value: genderized demonym object
+		- key: `f` (female) or `m` (male)
+		- value: genderized demonym translation
  - landlocked status (`landlocked`)
  - land borders (`borders`)
  - land area in km² (`area`)
@@ -108,6 +113,16 @@ GeoJSON outlines and flags in SVG format.
 	},
 	"latlng": [47.33333333, 13.33333333],
 	"demonym": "Austrian",
+	"demonyms": {
+		"fra": {
+			"f": "Autrichienne",
+			"m": "Autrichien"
+		},
+		"spa": {
+			"f": "Austriaco",
+			"m": "Austriaca"
+		}
+	},
 	"landlocked": true,
 	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
 	"area": 83871,
@@ -216,7 +231,7 @@ Please refer to [CONTRIBUTING](https://github.com/mledoze/countries/blob/master/
 ## To do
  - add the type of the country (country, sovereign state, public body, territory, etc.)
  - add missing translations
- - pull in data automatically from CLDR at build time (idea from @Munter, see #108) 
+ - pull in data automatically from CLDR at build time (idea from @Munter, see #108)
 
 ## Sources
 https://www.currency-iso.org/ for currency codes.
