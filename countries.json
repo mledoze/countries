@@ -267,7 +267,6 @@
             33,
             65
         ],
-        "demonym": "Afghan",
         "landlocked": true,
         "borders": [
             "IRN",
@@ -280,6 +279,10 @@
         "area": 652230,
         "flag": "\ud83c\udde6\ud83c\uddeb",
         "demonyms": {
+            "eng": {
+                "f": "Afghan",
+                "m": "Afghan"
+            },
             "fra": {
                 "f": "Afghane",
                 "m": "Afghan"
@@ -413,7 +416,6 @@
             -12.5,
             18.5
         ],
-        "demonym": "Angolan",
         "landlocked": false,
         "borders": [
             "COG",
@@ -424,6 +426,10 @@
         "area": 1246700,
         "flag": "\ud83c\udde6\ud83c\uddf4",
         "demonyms": {
+            "eng": {
+                "f": "Angolan",
+                "m": "Angolan"
+            },
             "fra": {
                 "f": "Angolaise",
                 "m": "Angolais"
@@ -815,7 +821,6 @@
             41,
             20
         ],
-        "demonym": "Albanian",
         "landlocked": false,
         "borders": [
             "MNE",
@@ -826,6 +831,10 @@
         "area": 28748,
         "flag": "\ud83c\udde6\ud83c\uddf1",
         "demonyms": {
+            "eng": {
+                "f": "Albanian",
+                "m": "Albanian"
+            },
             "fra": {
                 "f": "Albanaise",
                 "m": "Albanais"
@@ -959,7 +968,6 @@
             42.5,
             1.5
         ],
-        "demonym": "Andorran",
         "landlocked": true,
         "borders": [
             "FRA",
@@ -968,6 +976,10 @@
         "area": 468,
         "flag": "\ud83c\udde6\ud83c\udde9",
         "demonyms": {
+            "eng": {
+                "f": "Andorran",
+                "m": "Andorran"
+            },
             "fra": {
                 "f": "Andorrane",
                 "m": "Andorran"
@@ -1098,7 +1110,6 @@
             24,
             54
         ],
-        "demonym": "Emirati",
         "landlocked": false,
         "borders": [
             "OMN",
@@ -1107,6 +1118,10 @@
         "area": 83600,
         "flag": "\ud83c\udde6\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Emirati",
+                "m": "Emirati"
+            },
             "fra": {
                 "f": "Emirienne",
                 "m": "Emirien"
@@ -1245,7 +1260,6 @@
             -34,
             -64
         ],
-        "demonym": "Argentine",
         "landlocked": false,
         "borders": [
             "BOL",
@@ -1257,6 +1271,10 @@
         "area": 2780400,
         "flag": "\ud83c\udde6\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Argentine",
+                "m": "Argentine"
+            },
             "fra": {
                 "f": "Argentine",
                 "m": "Argentin"
@@ -1391,7 +1409,6 @@
             40,
             45
         ],
-        "demonym": "Armenian",
         "landlocked": true,
         "borders": [
             "AZE",
@@ -1402,6 +1419,10 @@
         "area": 29743,
         "flag": "\ud83c\udde6\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Armenian",
+                "m": "Armenian"
+            },
             "fra": {
                 "f": "Arm\u00e9nienne",
                 "m": "Arm\u00e9nien"
@@ -1913,12 +1934,15 @@
             17.05,
             -61.8
         ],
-        "demonym": "Antiguan, Barbudan",
         "landlocked": false,
         "borders": [],
         "area": 442,
         "flag": "\ud83c\udde6\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Antiguan, Barbudan",
+                "m": "Antiguan, Barbudan"
+            },
             "fra": {
                 "f": "Antiguaise et barbudienne",
                 "m": "Antiguaise et barbudien"
@@ -2050,12 +2074,15 @@
             -27,
             133
         ],
-        "demonym": "Australian",
         "landlocked": false,
         "borders": [],
         "area": 7692024,
         "flag": "\ud83c\udde6\ud83c\uddfa",
         "demonyms": {
+            "eng": {
+                "f": "Australian",
+                "m": "Australian"
+            },
             "fra": {
                 "f": "Australienne",
                 "m": "Australien"
@@ -2189,7 +2216,6 @@
             47.33333333,
             13.33333333
         ],
-        "demonym": "Austrian",
         "landlocked": true,
         "borders": [
             "CZE",
@@ -2204,6 +2230,10 @@
         "area": 83871,
         "flag": "\ud83c\udde6\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Austrian",
+                "m": "Austrian"
+            },
             "fra": {
                 "f": "Autrichienne",
                 "m": "Autrichien"
@@ -2342,7 +2372,6 @@
             40.5,
             47.5
         ],
-        "demonym": "Azerbaijani",
         "landlocked": true,
         "borders": [
             "ARM",
@@ -2354,6 +2383,10 @@
         "area": 86600,
         "flag": "\ud83c\udde6\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "Azerbaijani",
+                "m": "Azerbaijani"
+            },
             "fra": {
                 "f": "Azerba\u00efdjanaise",
                 "m": "Azerba\u00efdjanais"
@@ -2493,7 +2526,6 @@
             -3.5,
             30
         ],
-        "demonym": "Burundian",
         "landlocked": true,
         "borders": [
             "COD",
@@ -2503,6 +2535,10 @@
         "area": 27834,
         "flag": "\ud83c\udde7\ud83c\uddee",
         "demonyms": {
+            "eng": {
+                "f": "Burundian",
+                "m": "Burundian"
+            },
             "fra": {
                 "f": "Burundaise",
                 "m": "Burundais"
@@ -2652,7 +2688,6 @@
             50.83333333,
             4
         ],
-        "demonym": "Belgian",
         "landlocked": false,
         "borders": [
             "FRA",
@@ -2663,6 +2698,10 @@
         "area": 30528,
         "flag": "\ud83c\udde7\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Belgian",
+                "m": "Belgian"
+            },
             "fra": {
                 "f": "Belge",
                 "m": "Belge"
@@ -2796,7 +2835,6 @@
             9.5,
             2.25
         ],
-        "demonym": "Beninese",
         "landlocked": false,
         "borders": [
             "BFA",
@@ -2807,6 +2845,10 @@
         "area": 112622,
         "flag": "\ud83c\udde7\ud83c\uddef",
         "demonyms": {
+            "eng": {
+                "f": "Beninese",
+                "m": "Beninese"
+            },
             "fra": {
                 "f": "B\u00e9ninoise",
                 "m": "B\u00e9ninois"
@@ -2938,7 +2980,6 @@
             13,
             -2
         ],
-        "demonym": "Burkinabe",
         "landlocked": true,
         "borders": [
             "BEN",
@@ -2951,6 +2992,10 @@
         "area": 272967,
         "flag": "\ud83c\udde7\ud83c\uddeb",
         "demonyms": {
+            "eng": {
+                "f": "Burkinabe",
+                "m": "Burkinabe"
+            },
             "fra": {
                 "f": "Burkinab\u00e9e",
                 "m": "Burkinab\u00e9"
@@ -3084,7 +3129,6 @@
             24,
             90
         ],
-        "demonym": "Bangladeshi",
         "landlocked": false,
         "borders": [
             "MMR",
@@ -3093,6 +3137,10 @@
         "area": 147570,
         "flag": "\ud83c\udde7\ud83c\udde9",
         "demonyms": {
+            "eng": {
+                "f": "Bangladeshi",
+                "m": "Bangladeshi"
+            },
             "fra": {
                 "f": "Bangladaise",
                 "m": "Bangladais"
@@ -3226,7 +3274,6 @@
             43,
             25
         ],
-        "demonym": "Bulgarian",
         "landlocked": false,
         "borders": [
             "GRC",
@@ -3238,6 +3285,10 @@
         "area": 110879,
         "flag": "\ud83c\udde7\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Bulgarian",
+                "m": "Bulgarian"
+            },
             "fra": {
                 "f": "Bulgare",
                 "m": "Bulgare"
@@ -3371,12 +3422,15 @@
             26,
             50.55
         ],
-        "demonym": "Bahraini",
         "landlocked": false,
         "borders": [],
         "area": 765,
         "flag": "\ud83c\udde7\ud83c\udded",
         "demonyms": {
+            "eng": {
+                "f": "Bahraini",
+                "m": "Bahraini"
+            },
             "fra": {
                 "f": "Bahre\u00efnienne",
                 "m": "Bahre\u00efnien"
@@ -3513,12 +3567,15 @@
             24.25,
             -76
         ],
-        "demonym": "Bahamian",
         "landlocked": false,
         "borders": [],
         "area": 13943,
         "flag": "\ud83c\udde7\ud83c\uddf8",
         "demonyms": {
+            "eng": {
+                "f": "Bahamian",
+                "m": "Bahamian"
+            },
             "fra": {
                 "f": "Bahamienne",
                 "m": "Bahamien"
@@ -3662,7 +3719,6 @@
             44,
             18
         ],
-        "demonym": "Bosnian, Herzegovinian",
         "landlocked": false,
         "borders": [
             "HRV",
@@ -3672,6 +3728,10 @@
         "area": 51209,
         "flag": "\ud83c\udde7\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Bosnian, Herzegovinian",
+                "m": "Bosnian, Herzegovinian"
+            },
             "fra": {
                 "f": "Bosnienne",
                 "m": "Bosnien"
@@ -4076,7 +4136,6 @@
             53,
             28
         ],
-        "demonym": "Belarusian",
         "landlocked": true,
         "borders": [
             "LVA",
@@ -4088,6 +4147,10 @@
         "area": 207600,
         "flag": "\ud83c\udde7\ud83c\uddfe",
         "demonyms": {
+            "eng": {
+                "f": "Belarusian",
+                "m": "Belarusian"
+            },
             "fra": {
                 "f": "Bi\u00e9lorusse",
                 "m": "Bi\u00e9lorusse"
@@ -4229,7 +4292,6 @@
             17.25,
             -88.75
         ],
-        "demonym": "Belizean",
         "landlocked": false,
         "borders": [
             "GTM",
@@ -4238,6 +4300,10 @@
         "area": 22966,
         "flag": "\ud83c\udde7\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "Belizean",
+                "m": "Belizean"
+            },
             "fra": {
                 "f": "B\u00e9lizienne",
                 "m": "B\u00e9lizien"
@@ -4526,7 +4592,6 @@
             -17,
             -65
         ],
-        "demonym": "Bolivian",
         "landlocked": true,
         "borders": [
             "ARG",
@@ -4538,6 +4603,10 @@
         "area": 1098581,
         "flag": "\ud83c\udde7\ud83c\uddf4",
         "demonyms": {
+            "eng": {
+                "f": "Bolivian",
+                "m": "Bolivian"
+            },
             "fra": {
                 "f": "Bolivienne",
                 "m": "Bolivien"
@@ -4804,7 +4873,6 @@
             -10,
             -55
         ],
-        "demonym": "Brazilian",
         "landlocked": false,
         "borders": [
             "ARG",
@@ -4821,6 +4889,10 @@
         "area": 8515767,
         "flag": "\ud83c\udde7\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Brazilian",
+                "m": "Brazilian"
+            },
             "fra": {
                 "f": "Br\u00e9silienne",
                 "m": "Br\u00e9silien"
@@ -4952,12 +5024,15 @@
             13.16666666,
             -59.53333333
         ],
-        "demonym": "Barbadian",
         "landlocked": false,
         "borders": [],
         "area": 430,
         "flag": "\ud83c\udde7\ud83c\udde7",
         "demonyms": {
+            "eng": {
+                "f": "Barbadian",
+                "m": "Barbadian"
+            },
             "fra": {
                 "f": "Barbadienne",
                 "m": "Barbadien"
@@ -5096,7 +5171,6 @@
             4.5,
             114.66666666
         ],
-        "demonym": "Bruneian",
         "landlocked": false,
         "borders": [
             "MYS"
@@ -5104,6 +5178,10 @@
         "area": 5765,
         "flag": "\ud83c\udde7\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Bruneian",
+                "m": "Bruneian"
+            },
             "fra": {
                 "f": "Brun\u00e9ienne",
                 "m": "Brun\u00e9ien"
@@ -5240,7 +5318,6 @@
             27.5,
             90.5
         ],
-        "demonym": "Bhutanese",
         "landlocked": true,
         "borders": [
             "CHN",
@@ -5249,6 +5326,10 @@
         "area": 38394,
         "flag": "\ud83c\udde7\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Bhutanese",
+                "m": "Bhutanese"
+            },
             "fra": {
                 "f": "Bhoutanaise",
                 "m": "Bhoutanais"
@@ -5507,7 +5588,6 @@
             -22,
             24
         ],
-        "demonym": "Motswana",
         "landlocked": true,
         "borders": [
             "NAM",
@@ -5518,6 +5598,10 @@
         "area": 582000,
         "flag": "\ud83c\udde7\ud83c\uddfc",
         "demonyms": {
+            "eng": {
+                "f": "Motswana",
+                "m": "Motswana"
+            },
             "fra": {
                 "f": "Botswanaise",
                 "m": "Botswanais"
@@ -5656,7 +5740,6 @@
             7,
             21
         ],
-        "demonym": "Central African",
         "landlocked": true,
         "borders": [
             "CMR",
@@ -5669,6 +5752,10 @@
         "area": 622984,
         "flag": "\ud83c\udde8\ud83c\uddeb",
         "demonyms": {
+            "eng": {
+                "f": "Central African",
+                "m": "Central African"
+            },
             "fra": {
                 "f": "Centrafricaine",
                 "m": "Centrafricain"
@@ -5805,7 +5892,6 @@
             60,
             -95
         ],
-        "demonym": "Canadian",
         "landlocked": false,
         "borders": [
             "USA"
@@ -5813,6 +5899,10 @@
         "area": 9984670,
         "flag": "\ud83c\udde8\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Canadian",
+                "m": "Canadian"
+            },
             "fra": {
                 "f": "Canadienne",
                 "m": "Canadien"
@@ -6093,7 +6183,6 @@
             47,
             8
         ],
-        "demonym": "Swiss",
         "landlocked": true,
         "borders": [
             "AUT",
@@ -6105,6 +6194,10 @@
         "area": 41284,
         "flag": "\ud83c\udde8\ud83c\udded",
         "demonyms": {
+            "eng": {
+                "f": "Swiss",
+                "m": "Swiss"
+            },
             "fra": {
                 "f": "Suisse",
                 "m": "Suisse"
@@ -6238,7 +6331,6 @@
             -30,
             -71
         ],
-        "demonym": "Chilean",
         "landlocked": false,
         "borders": [
             "ARG",
@@ -6248,6 +6340,10 @@
         "area": 756102,
         "flag": "\ud83c\udde8\ud83c\uddf1",
         "demonyms": {
+            "eng": {
+                "f": "Chilean",
+                "m": "Chilean"
+            },
             "fra": {
                 "f": "Chilienne",
                 "m": "Chilien"
@@ -6385,7 +6481,6 @@
             35,
             105
         ],
-        "demonym": "Chinese",
         "landlocked": false,
         "borders": [
             "AFG",
@@ -6408,6 +6503,10 @@
         "area": 9706961,
         "flag": "\ud83c\udde8\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Chinese",
+                "m": "Chinese"
+            },
             "fra": {
                 "f": "Chinoise",
                 "m": "Chinois"
@@ -6539,7 +6638,6 @@
             8,
             -5
         ],
-        "demonym": "Ivorian",
         "landlocked": false,
         "borders": [
             "BFA",
@@ -6551,6 +6649,10 @@
         "area": 322463,
         "flag": "\ud83c\udde8\ud83c\uddee",
         "demonyms": {
+            "eng": {
+                "f": "Ivorian",
+                "m": "Ivorian"
+            },
             "fra": {
                 "f": "Ivoirienne",
                 "m": "Ivoirien"
@@ -6689,7 +6791,6 @@
             6,
             12
         ],
-        "demonym": "Cameroonian",
         "landlocked": false,
         "borders": [
             "CAF",
@@ -6702,6 +6803,10 @@
         "area": 475442,
         "flag": "\ud83c\udde8\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Cameroonian",
+                "m": "Cameroonian"
+            },
             "fra": {
                 "f": "Camerounaise",
                 "m": "Camerounais"
@@ -7010,7 +7115,6 @@
             -1,
             15
         ],
-        "demonym": "Congolese",
         "landlocked": false,
         "borders": [
             "AGO",
@@ -7022,6 +7126,10 @@
         "area": 342000,
         "flag": "\ud83c\udde8\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Congolese",
+                "m": "Congolese"
+            },
             "fra": {
                 "f": "Congolaise",
                 "m": "Congolais"
@@ -7296,7 +7404,6 @@
             4,
             -72
         ],
-        "demonym": "Colombian",
         "landlocked": false,
         "borders": [
             "BRA",
@@ -7308,6 +7415,10 @@
         "area": 1141748,
         "flag": "\ud83c\udde8\ud83c\uddf4",
         "demonyms": {
+            "eng": {
+                "f": "Colombian",
+                "m": "Colombian"
+            },
             "fra": {
                 "f": "Colombienne",
                 "m": "Colombien"
@@ -7453,12 +7564,15 @@
             -12.16666666,
             44.25
         ],
-        "demonym": "Comoran",
         "landlocked": false,
         "borders": [],
         "area": 1862,
         "flag": "\ud83c\uddf0\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Comoran",
+                "m": "Comoran"
+            },
             "fra": {
                 "f": "Comorienne",
                 "m": "Comorien"
@@ -7592,12 +7706,15 @@
             16,
             -24
         ],
-        "demonym": "Cape Verdian",
         "landlocked": false,
         "borders": [],
         "area": 4033,
         "flag": "\ud83c\udde8\ud83c\uddfb",
         "demonyms": {
+            "eng": {
+                "f": "Cape Verdian",
+                "m": "Cape Verdian"
+            },
             "fra": {
                 "f": "Cap-verdienne",
                 "m": "Cap-verdien"
@@ -7731,7 +7848,6 @@
             10,
             -84
         ],
-        "demonym": "Costa Rican",
         "landlocked": false,
         "borders": [
             "NIC",
@@ -7740,6 +7856,10 @@
         "area": 51100,
         "flag": "\ud83c\udde8\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Costa Rican",
+                "m": "Costa Rican"
+            },
             "fra": {
                 "f": "Costaricaine",
                 "m": "Costaricain"
@@ -7877,12 +7997,15 @@
             21.5,
             -80
         ],
-        "demonym": "Cuban",
         "landlocked": false,
         "borders": [],
         "area": 109884,
         "flag": "\ud83c\udde8\ud83c\uddfa",
         "demonyms": {
+            "eng": {
+                "f": "Cuban",
+                "m": "Cuban"
+            },
             "fra": {
                 "f": "Cubaine",
                 "m": "Cubain"
@@ -8017,12 +8140,15 @@
             12.116667,
             -68.933333
         ],
-        "demonym": "Cura\u00e7aoan",
         "landlocked": false,
         "borders": [],
         "area": 444,
         "flag": "\ud83c\udde8\ud83c\uddfc",
         "demonyms": {
+            "eng": {
+                "f": "Cura\u00e7aoan",
+                "m": "Cura\u00e7aoan"
+            },
             "fra": {
                 "f": "Curacienne",
                 "m": "Curacien"
@@ -8427,12 +8553,15 @@
             35,
             33
         ],
-        "demonym": "Cypriot",
         "landlocked": false,
         "borders": [],
         "area": 9251,
         "flag": "\ud83c\udde8\ud83c\uddfe",
         "demonyms": {
+            "eng": {
+                "f": "Cypriot",
+                "m": "Cypriot"
+            },
             "fra": {
                 "f": "Chypriote",
                 "m": "Chypriote"
@@ -8571,7 +8700,6 @@
             49.75,
             15.5
         ],
-        "demonym": "Czech",
         "landlocked": true,
         "borders": [
             "AUT",
@@ -8582,6 +8710,10 @@
         "area": 78865,
         "flag": "\ud83c\udde8\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "Czech",
+                "m": "Czech"
+            },
             "fra": {
                 "f": "Tch\u00e8que",
                 "m": "Tch\u00e8que"
@@ -8711,7 +8843,6 @@
             51,
             9
         ],
-        "demonym": "German",
         "landlocked": false,
         "borders": [
             "AUT",
@@ -8727,6 +8858,10 @@
         "area": 357114,
         "flag": "\ud83c\udde9\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "German",
+                "m": "German"
+            },
             "fra": {
                 "f": "Allemande",
                 "m": "Allemand"
@@ -8869,7 +9004,6 @@
             11.5,
             43
         ],
-        "demonym": "Djibouti",
         "landlocked": false,
         "borders": [
             "ERI",
@@ -8879,6 +9013,10 @@
         "area": 23200,
         "flag": "\ud83c\udde9\ud83c\uddef",
         "demonyms": {
+            "eng": {
+                "f": "Djibouti",
+                "m": "Djibouti"
+            },
             "fra": {
                 "f": "Djiboutienne",
                 "m": "Djiboutien"
@@ -9013,12 +9151,15 @@
             15.41666666,
             -61.33333333
         ],
-        "demonym": "Dominican",
         "landlocked": false,
         "borders": [],
         "area": 751,
         "flag": "\ud83c\udde9\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Dominican",
+                "m": "Dominican"
+            },
             "fra": {
                 "f": "Dominiquaise",
                 "m": "Dominiquais"
@@ -9153,7 +9294,6 @@
             56,
             10
         ],
-        "demonym": "Danish",
         "landlocked": false,
         "borders": [
             "DEU"
@@ -9161,6 +9301,10 @@
         "area": 43094,
         "flag": "\ud83c\udde9\ud83c\uddf0",
         "demonyms": {
+            "eng": {
+                "f": "Danish",
+                "m": "Danish"
+            },
             "fra": {
                 "f": "Danoise",
                 "m": "Danois"
@@ -9294,7 +9438,6 @@
             19,
             -70.66666666
         ],
-        "demonym": "Dominican",
         "landlocked": false,
         "borders": [
             "HTI"
@@ -9302,6 +9445,10 @@
         "area": 48671,
         "flag": "\ud83c\udde9\ud83c\uddf4",
         "demonyms": {
+            "eng": {
+                "f": "Dominican",
+                "m": "Dominican"
+            },
             "fra": {
                 "f": "Dominicaine",
                 "m": "Dominicain"
@@ -9436,7 +9583,6 @@
             28,
             3
         ],
-        "demonym": "Algerian",
         "landlocked": false,
         "borders": [
             "TUN",
@@ -9450,6 +9596,10 @@
         "area": 2381741,
         "flag": "\ud83c\udde9\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "Algerian",
+                "m": "Algerian"
+            },
             "fra": {
                 "f": "Alg\u00e9rienne",
                 "m": "Alg\u00e9rien"
@@ -9583,7 +9733,6 @@
             -2,
             -77.5
         ],
-        "demonym": "Ecuadorean",
         "landlocked": false,
         "borders": [
             "COL",
@@ -9592,6 +9741,10 @@
         "area": 276841,
         "flag": "\ud83c\uddea\ud83c\udde8",
         "demonyms": {
+            "eng": {
+                "f": "Ecuadorean",
+                "m": "Ecuadorean"
+            },
             "fra": {
                 "f": "\u00c9quatorienne",
                 "m": "\u00c9quatorien"
@@ -9725,7 +9878,6 @@
             27,
             30
         ],
-        "demonym": "Egyptian",
         "landlocked": false,
         "borders": [
             "ISR",
@@ -9736,6 +9888,10 @@
         "area": 1002450,
         "flag": "\ud83c\uddea\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Egyptian",
+                "m": "Egyptian"
+            },
             "fra": {
                 "f": "\u00c9gyptienne",
                 "m": "\u00c9gyptien"
@@ -9882,7 +10038,6 @@
             15,
             39
         ],
-        "demonym": "Eritrean",
         "landlocked": false,
         "borders": [
             "DJI",
@@ -9892,6 +10047,10 @@
         "area": 117600,
         "flag": "\ud83c\uddea\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Eritrean",
+                "m": "Eritrean"
+            },
             "fra": {
                 "f": "\u00c9rythr\u00e9enne",
                 "m": "\u00c9rythr\u00e9en"
@@ -10172,7 +10331,6 @@
             40,
             -4
         ],
-        "demonym": "Spanish",
         "landlocked": false,
         "borders": [
             "AND",
@@ -10184,6 +10342,10 @@
         "area": 505992,
         "flag": "\ud83c\uddea\ud83c\uddf8",
         "demonyms": {
+            "eng": {
+                "f": "Spanish",
+                "m": "Spanish"
+            },
             "fra": {
                 "f": "Espagnole",
                 "m": "Espagnol"
@@ -10318,7 +10480,6 @@
             59,
             26
         ],
-        "demonym": "Estonian",
         "landlocked": false,
         "borders": [
             "LVA",
@@ -10327,6 +10488,10 @@
         "area": 45227,
         "flag": "\ud83c\uddea\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Estonian",
+                "m": "Estonian"
+            },
             "fra": {
                 "f": "Estonienne",
                 "m": "Estonien"
@@ -10461,7 +10626,6 @@
             8,
             38
         ],
-        "demonym": "Ethiopian",
         "landlocked": true,
         "borders": [
             "DJI",
@@ -10474,6 +10638,10 @@
         "area": 1104300,
         "flag": "\ud83c\uddea\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Ethiopian",
+                "m": "Ethiopian"
+            },
             "fra": {
                 "f": "\u00c9thiopienne",
                 "m": "\u00c9thiopien"
@@ -10610,7 +10778,6 @@
             64,
             26
         ],
-        "demonym": "Finnish",
         "landlocked": false,
         "borders": [
             "NOR",
@@ -10620,6 +10787,10 @@
         "area": 338424,
         "flag": "\ud83c\uddeb\ud83c\uddee",
         "demonyms": {
+            "eng": {
+                "f": "Finnish",
+                "m": "Finnish"
+            },
             "fra": {
                 "f": "Finlandaise",
                 "m": "Finlandais"
@@ -10761,12 +10932,15 @@
             -18,
             175
         ],
-        "demonym": "Fijian",
         "landlocked": false,
         "borders": [],
         "area": 18272,
         "flag": "\ud83c\uddeb\ud83c\uddef",
         "demonyms": {
+            "eng": {
+                "f": "Fijian",
+                "m": "Fijian"
+            },
             "fra": {
                 "f": "Fidjienne",
                 "m": "Fidjien"
@@ -11025,7 +11199,6 @@
             46,
             2
         ],
-        "demonym": "French",
         "landlocked": false,
         "borders": [
             "AND",
@@ -11040,6 +11213,10 @@
         "area": 551695,
         "flag": "\ud83c\uddeb\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "French",
+                "m": "French"
+            },
             "fra": {
                 "f": "Fran\u00e7aise",
                 "m": "Fran\u00e7ais"
@@ -11302,12 +11479,15 @@
             6.91666666,
             158.25
         ],
-        "demonym": "Micronesian",
         "landlocked": false,
         "borders": [],
         "area": 702,
         "flag": "\ud83c\uddeb\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Micronesian",
+                "m": "Micronesian"
+            },
             "fra": {
                 "f": "Micron\u00e9sienne",
                 "m": "Micron\u00e9sien"
@@ -11437,7 +11617,6 @@
             -1,
             11.75
         ],
-        "demonym": "Gabonese",
         "landlocked": false,
         "borders": [
             "CMR",
@@ -11447,6 +11626,10 @@
         "area": 267668,
         "flag": "\ud83c\uddec\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Gabonese",
+                "m": "Gabonese"
+            },
             "fra": {
                 "f": "Gabonaise",
                 "m": "Gabonais"
@@ -11576,7 +11759,6 @@
             54,
             -2
         ],
-        "demonym": "British",
         "landlocked": false,
         "borders": [
             "IRL"
@@ -11584,6 +11766,10 @@
         "area": 242900,
         "flag": "\ud83c\uddec\ud83c\udde7",
         "demonyms": {
+            "eng": {
+                "f": "British",
+                "m": "British"
+            },
             "fra": {
                 "f": "Britannique",
                 "m": "Britannique"
@@ -11712,7 +11898,6 @@
             42,
             43.5
         ],
-        "demonym": "Georgian",
         "landlocked": false,
         "borders": [
             "ARM",
@@ -11723,6 +11908,10 @@
         "area": 69700,
         "flag": "\ud83c\uddec\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Georgian",
+                "m": "Georgian"
+            },
             "fra": {
                 "f": "G\u00e9orgienne",
                 "m": "G\u00e9orgien"
@@ -11993,7 +12182,6 @@
             8,
             -2
         ],
-        "demonym": "Ghanaian",
         "landlocked": false,
         "borders": [
             "BFA",
@@ -12003,6 +12191,10 @@
         "area": 238533,
         "flag": "\ud83c\uddec\ud83c\udded",
         "demonyms": {
+            "eng": {
+                "f": "Ghanaian",
+                "m": "Ghanaian"
+            },
             "fra": {
                 "f": "Ghan\u00e9enne",
                 "m": "Ghan\u00e9en"
@@ -12261,7 +12453,6 @@
             11,
             -10
         ],
-        "demonym": "Guinean",
         "landlocked": false,
         "borders": [
             "CIV",
@@ -12274,6 +12465,10 @@
         "area": 245857,
         "flag": "\ud83c\uddec\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Guinean",
+                "m": "Guinean"
+            },
             "fra": {
                 "f": "Guin\u00e9enne",
                 "m": "Guin\u00e9en"
@@ -12530,7 +12725,6 @@
             13.46666666,
             -16.56666666
         ],
-        "demonym": "Gambian",
         "landlocked": false,
         "borders": [
             "SEN"
@@ -12538,6 +12732,10 @@
         "area": 10689,
         "flag": "\ud83c\uddec\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Gambian",
+                "m": "Gambian"
+            },
             "fra": {
                 "f": "Gambienne",
                 "m": "Gambien"
@@ -12672,7 +12870,6 @@
             12,
             -15
         ],
-        "demonym": "Guinea-Bissauan",
         "landlocked": false,
         "borders": [
             "GIN",
@@ -12681,6 +12878,10 @@
         "area": 36125,
         "flag": "\ud83c\uddec\ud83c\uddfc",
         "demonyms": {
+            "eng": {
+                "f": "Guinea-Bissauan",
+                "m": "Guinea-Bissauan"
+            },
             "fra": {
                 "f": "Bissau-Guin\u00e9enne",
                 "m": "Bissau-Guin\u00e9en"
@@ -12826,7 +13027,6 @@
             2,
             10
         ],
-        "demonym": "Equatorial Guinean",
         "landlocked": false,
         "borders": [
             "CMR",
@@ -12835,6 +13035,10 @@
         "area": 28051,
         "flag": "\ud83c\uddec\ud83c\uddf6",
         "demonyms": {
+            "eng": {
+                "f": "Equatorial Guinean",
+                "m": "Equatorial Guinean"
+            },
             "fra": {
                 "f": "\u00c9quato-guin\u00e9enne",
                 "m": "\u00c9quato-guin\u00e9en"
@@ -12965,7 +13169,6 @@
             39,
             22
         ],
-        "demonym": "Greek",
         "landlocked": false,
         "borders": [
             "ALB",
@@ -12976,6 +13179,10 @@
         "area": 131990,
         "flag": "\ud83c\uddec\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Greek",
+                "m": "Greek"
+            },
             "fra": {
                 "f": "Grecque",
                 "m": "Grec"
@@ -13103,12 +13310,15 @@
             12.11666666,
             -61.66666666
         ],
-        "demonym": "Grenadian",
         "landlocked": false,
         "borders": [],
         "area": 344,
         "flag": "\ud83c\uddec\ud83c\udde9",
         "demonyms": {
+            "eng": {
+                "f": "Grenadian",
+                "m": "Grenadian"
+            },
             "fra": {
                 "f": "Grenadienne",
                 "m": "Grenadien"
@@ -13364,7 +13574,6 @@
             15.5,
             -90.25
         ],
-        "demonym": "Guatemalan",
         "landlocked": false,
         "borders": [
             "BLZ",
@@ -13375,6 +13584,10 @@
         "area": 108889,
         "flag": "\ud83c\uddec\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Guatemalan",
+                "m": "Guatemalan"
+            },
             "fra": {
                 "f": "Guat\u00e9malt\u00e8que",
                 "m": "Guat\u00e9malt\u00e8que"
@@ -13773,7 +13986,6 @@
             5,
             -59
         ],
-        "demonym": "Guyanese",
         "landlocked": false,
         "borders": [
             "BRA",
@@ -13783,6 +13995,10 @@
         "area": 214969,
         "flag": "\ud83c\uddec\ud83c\uddfe",
         "demonyms": {
+            "eng": {
+                "f": "Guyanese",
+                "m": "Guyanese"
+            },
             "fra": {
                 "f": "Guyanienne",
                 "m": "Guyanien"
@@ -14167,7 +14383,6 @@
             15,
             -86.5
         ],
-        "demonym": "Honduran",
         "landlocked": false,
         "borders": [
             "GTM",
@@ -14177,6 +14392,10 @@
         "area": 112492,
         "flag": "\ud83c\udded\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Honduran",
+                "m": "Honduran"
+            },
             "fra": {
                 "f": "Hondurienne",
                 "m": "Hondurien"
@@ -14311,7 +14530,6 @@
             45.16666666,
             15.5
         ],
-        "demonym": "Croatian",
         "landlocked": false,
         "borders": [
             "BIH",
@@ -14323,6 +14541,10 @@
         "area": 56594,
         "flag": "\ud83c\udded\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Croatian",
+                "m": "Croatian"
+            },
             "fra": {
                 "f": "Croate",
                 "m": "Croate"
@@ -14458,7 +14680,6 @@
             19,
             -72.41666666
         ],
-        "demonym": "Haitian",
         "landlocked": false,
         "borders": [
             "DOM"
@@ -14466,6 +14687,10 @@
         "area": 27750,
         "flag": "\ud83c\udded\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Haitian",
+                "m": "Haitian"
+            },
             "fra": {
                 "f": "Ha\u00eftienne",
                 "m": "Ha\u00eftien"
@@ -14593,7 +14818,6 @@
             47,
             20
         ],
-        "demonym": "Hungarian",
         "landlocked": true,
         "borders": [
             "AUT",
@@ -14607,6 +14831,10 @@
         "area": 93028,
         "flag": "\ud83c\udded\ud83c\uddfa",
         "demonyms": {
+            "eng": {
+                "f": "Hungarian",
+                "m": "Hungarian"
+            },
             "fra": {
                 "f": "Hongroise",
                 "m": "Hongrois"
@@ -14736,7 +14964,6 @@
             -5,
             120
         ],
-        "demonym": "Indonesian",
         "landlocked": false,
         "borders": [
             "TLS",
@@ -14746,6 +14973,10 @@
         "area": 1904569,
         "flag": "\ud83c\uddee\ud83c\udde9",
         "demonyms": {
+            "eng": {
+                "f": "Indonesian",
+                "m": "Indonesian"
+            },
             "fra": {
                 "f": "Indon\u00e9sienne",
                 "m": "Indon\u00e9sien"
@@ -15026,7 +15257,6 @@
             20,
             77
         ],
-        "demonym": "Indian",
         "landlocked": false,
         "borders": [
             "BGD",
@@ -15039,6 +15269,10 @@
         "area": 3287590,
         "flag": "\ud83c\uddee\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Indian",
+                "m": "Indian"
+            },
             "fra": {
                 "f": "Indienne",
                 "m": "Indien"
@@ -15305,7 +15539,6 @@
             53,
             -8
         ],
-        "demonym": "Irish",
         "landlocked": false,
         "borders": [
             "GBR"
@@ -15313,6 +15546,10 @@
         "area": 70273,
         "flag": "\ud83c\uddee\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Irish",
+                "m": "Irish"
+            },
             "fra": {
                 "f": "Irlandaise",
                 "m": "Irlandais"
@@ -15440,7 +15677,6 @@
             32,
             53
         ],
-        "demonym": "Iranian",
         "landlocked": false,
         "borders": [
             "AFG",
@@ -15454,6 +15690,10 @@
         "area": 1648195,
         "flag": "\ud83c\uddee\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Iranian",
+                "m": "Iranian"
+            },
             "fra": {
                 "f": "Iranienne",
                 "m": "Iranien"
@@ -15593,7 +15833,6 @@
             33,
             44
         ],
-        "demonym": "Iraqi",
         "landlocked": false,
         "borders": [
             "IRN",
@@ -15606,6 +15845,10 @@
         "area": 438317,
         "flag": "\ud83c\uddee\ud83c\uddf6",
         "demonyms": {
+            "eng": {
+                "f": "Iraqi",
+                "m": "Iraqi"
+            },
             "fra": {
                 "f": "Irakienne",
                 "m": "Irakien"
@@ -15736,12 +15979,15 @@
             65,
             -18
         ],
-        "demonym": "Icelander",
         "landlocked": false,
         "borders": [],
         "area": 103000,
         "flag": "\ud83c\uddee\ud83c\uddf8",
         "demonyms": {
+            "eng": {
+                "f": "Icelander",
+                "m": "Icelander"
+            },
             "fra": {
                 "f": "Islandaise",
                 "m": "Islandais"
@@ -15876,7 +16122,6 @@
             31.47,
             35.13
         ],
-        "demonym": "Israeli",
         "landlocked": false,
         "borders": [
             "EGY",
@@ -15888,6 +16133,10 @@
         "area": 20770,
         "flag": "\ud83c\uddee\ud83c\uddf1",
         "demonyms": {
+            "eng": {
+                "f": "Israeli",
+                "m": "Israeli"
+            },
             "fra": {
                 "f": "Isra\u00e9lienne",
                 "m": "Isra\u00e9lien"
@@ -16017,7 +16266,6 @@
             42.83333333,
             12.83333333
         ],
-        "demonym": "Italian",
         "landlocked": false,
         "borders": [
             "AUT",
@@ -16030,6 +16278,10 @@
         "area": 301336,
         "flag": "\ud83c\uddee\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Italian",
+                "m": "Italian"
+            },
             "fra": {
                 "f": "Italienne",
                 "m": "Italien"
@@ -16162,12 +16414,15 @@
             18.25,
             -77.5
         ],
-        "demonym": "Jamaican",
         "landlocked": false,
         "borders": [],
         "area": 10991,
         "flag": "\ud83c\uddef\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Jamaican",
+                "m": "Jamaican"
+            },
             "fra": {
                 "f": "Jama\u00efcaine",
                 "m": "Jama\u00efcain"
@@ -16442,7 +16697,6 @@
             31,
             36
         ],
-        "demonym": "Jordanian",
         "landlocked": false,
         "borders": [
             "IRQ",
@@ -16454,6 +16708,10 @@
         "area": 89342,
         "flag": "\ud83c\uddef\ud83c\uddf4",
         "demonyms": {
+            "eng": {
+                "f": "Jordanian",
+                "m": "Jordanian"
+            },
             "fra": {
                 "f": "Jordanienne",
                 "m": "Jordanien"
@@ -16584,12 +16842,15 @@
             36,
             138
         ],
-        "demonym": "Japanese",
         "landlocked": false,
         "borders": [],
         "area": 377930,
         "flag": "\ud83c\uddef\ud83c\uddf5",
         "demonyms": {
+            "eng": {
+                "f": "Japanese",
+                "m": "Japanese"
+            },
             "fra": {
                 "f": "Japonaise",
                 "m": "Japonais"
@@ -16731,7 +16992,6 @@
             48,
             68
         ],
-        "demonym": "Kazakhstani",
         "landlocked": true,
         "borders": [
             "CHN",
@@ -16743,6 +17003,10 @@
         "area": 2724900,
         "flag": "\ud83c\uddf0\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "Kazakhstani",
+                "m": "Kazakhstani"
+            },
             "fra": {
                 "f": "Kazakhstanaise",
                 "m": "Kazakhstanais"
@@ -16877,7 +17141,6 @@
             1,
             38
         ],
-        "demonym": "Kenyan",
         "landlocked": false,
         "borders": [
             "ETH",
@@ -16889,6 +17152,10 @@
         "area": 580367,
         "flag": "\ud83c\uddf0\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Kenyan",
+                "m": "Kenyan"
+            },
             "fra": {
                 "f": "K\u00e9nyane",
                 "m": "K\u00e9nyan"
@@ -17025,7 +17292,6 @@
             41,
             75
         ],
-        "demonym": "Kirghiz",
         "landlocked": true,
         "borders": [
             "CHN",
@@ -17036,6 +17302,10 @@
         "area": 199951,
         "flag": "\ud83c\uddf0\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Kirghiz",
+                "m": "Kirghiz"
+            },
             "fra": {
                 "f": "Kirghize",
                 "m": "Kirghize"
@@ -17172,7 +17442,6 @@
             13,
             105
         ],
-        "demonym": "Cambodian",
         "landlocked": false,
         "borders": [
             "LAO",
@@ -17182,6 +17451,10 @@
         "area": 181035,
         "flag": "\ud83c\uddf0\ud83c\udded",
         "demonyms": {
+            "eng": {
+                "f": "Cambodian",
+                "m": "Cambodian"
+            },
             "fra": {
                 "f": "Cambodgienne",
                 "m": "Cambodgien"
@@ -17320,12 +17593,15 @@
             1.41666666,
             173
         ],
-        "demonym": "I-Kiribati",
         "landlocked": false,
         "borders": [],
         "area": 811,
         "flag": "\ud83c\uddf0\ud83c\uddee",
         "demonyms": {
+            "eng": {
+                "f": "I-Kiribati",
+                "m": "I-Kiribati"
+            },
             "fra": {
                 "f": "Kiribatienne",
                 "m": "Kiribatien"
@@ -17410,7 +17686,7 @@
                 "common": "S\u00e3o Crist\u00f3v\u00e3o e Nevis"
             },
             "rus": {
-                "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f \u0421\u0435\u043d\u0442-\u041a\u0440\u0438\u0441\u0442\u043e\u0444\u0435\u0440 \u0438 \u041D \u0435 \u0432 \u0438 \u0441",
+                "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f \u0421\u0435\u043d\u0442-\u041a\u0440\u0438\u0441\u0442\u043e\u0444\u0435\u0440 \u0438 \u041d \u0435 \u0432 \u0438 \u0441",
                 "common": "\u0421\u0435\u043d\u0442-\u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441"
             },
             "slk": {
@@ -17454,12 +17730,15 @@
             17.33333333,
             -62.75
         ],
-        "demonym": "Kittitian or Nevisian",
         "landlocked": false,
         "borders": [],
         "area": 261,
         "flag": "\ud83c\uddf0\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Kittitian or Nevisian",
+                "m": "Kittitian or Nevisian"
+            },
             "fra": {
                 "f": "Kittitienne-et-nevicienne",
                 "m": "Kittitien-et-nevicien"
@@ -17592,7 +17871,6 @@
             37,
             127.5
         ],
-        "demonym": "South Korean",
         "landlocked": false,
         "borders": [
             "PRK"
@@ -17600,6 +17878,10 @@
         "area": 100210,
         "flag": "\ud83c\uddf0\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "South Korean",
+                "m": "South Korean"
+            },
             "fra": {
                 "f": "Sud-cor\u00e9enne",
                 "m": "Sud-cor\u00e9en"
@@ -17727,7 +18009,6 @@
             42.666667,
             21.166667
         ],
-        "demonym": "Kosovar",
         "landlocked": true,
         "borders": [
             "ALB",
@@ -17738,6 +18019,10 @@
         "area": 10908,
         "flag": "\ud83c\uddfd\ud83c\uddf0",
         "demonyms": {
+            "eng": {
+                "f": "Kosovar",
+                "m": "Kosovar"
+            },
             "fra": {
                 "f": "Kosovare",
                 "m": "Kosovar"
@@ -17867,7 +18152,6 @@
             29.5,
             45.75
         ],
-        "demonym": "Kuwaiti",
         "landlocked": false,
         "borders": [
             "IRQ",
@@ -17876,6 +18160,10 @@
         "area": 17818,
         "flag": "\ud83c\uddf0\ud83c\uddfc",
         "demonyms": {
+            "eng": {
+                "f": "Kuwaiti",
+                "m": "Kuwaiti"
+            },
             "fra": {
                 "f": "Kowe\u00eftienne",
                 "m": "Kowe\u00eftien"
@@ -18006,7 +18294,6 @@
             18,
             105
         ],
-        "demonym": "Laotian",
         "landlocked": true,
         "borders": [
             "MMR",
@@ -18018,6 +18305,10 @@
         "area": 236800,
         "flag": "\ud83c\uddf1\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Laotian",
+                "m": "Laotian"
+            },
             "fra": {
                 "f": "Laotienne",
                 "m": "Laotien"
@@ -18152,7 +18443,6 @@
             33.83333333,
             35.83333333
         ],
-        "demonym": "Lebanese",
         "landlocked": false,
         "borders": [
             "ISR",
@@ -18161,6 +18451,10 @@
         "area": 10452,
         "flag": "\ud83c\uddf1\ud83c\udde7",
         "demonyms": {
+            "eng": {
+                "f": "Lebanese",
+                "m": "Lebanese"
+            },
             "fra": {
                 "f": "Libanaise",
                 "m": "Libanais"
@@ -18289,7 +18583,6 @@
             6.5,
             -9.5
         ],
-        "demonym": "Liberian",
         "landlocked": false,
         "borders": [
             "GIN",
@@ -18299,6 +18592,10 @@
         "area": 111369,
         "flag": "\ud83c\uddf1\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Liberian",
+                "m": "Liberian"
+            },
             "fra": {
                 "f": "Lib\u00e9rienne",
                 "m": "Lib\u00e9rien"
@@ -18428,7 +18725,6 @@
             25,
             17
         ],
-        "demonym": "Libyan",
         "landlocked": false,
         "borders": [
             "DZA",
@@ -18441,6 +18737,10 @@
         "area": 1759540,
         "flag": "\ud83c\uddf1\ud83c\uddfe",
         "demonyms": {
+            "eng": {
+                "f": "Libyan",
+                "m": "Libyan"
+            },
             "fra": {
                 "f": "Libyenne",
                 "m": "Libyen"
@@ -18568,12 +18868,15 @@
             13.88333333,
             -60.96666666
         ],
-        "demonym": "Saint Lucian",
         "landlocked": false,
         "borders": [],
         "area": 616,
         "flag": "\ud83c\uddf1\ud83c\udde8",
         "demonyms": {
+            "eng": {
+                "f": "Saint Lucian",
+                "m": "Saint Lucian"
+            },
             "fra": {
                 "f": "Saint-Lucienne",
                 "m": "Saint-Lucien"
@@ -18703,7 +19006,6 @@
             47.26666666,
             9.53333333
         ],
-        "demonym": "Liechtensteiner",
         "landlocked": true,
         "borders": [
             "AUT",
@@ -18712,6 +19014,10 @@
         "area": 160,
         "flag": "\ud83c\uddf1\ud83c\uddee",
         "demonyms": {
+            "eng": {
+                "f": "Liechtensteiner",
+                "m": "Liechtensteiner"
+            },
             "fra": {
                 "f": "Liechtensteinoise",
                 "m": "Liechtensteinois"
@@ -18848,7 +19154,6 @@
             7,
             81
         ],
-        "demonym": "Sri Lankan",
         "landlocked": false,
         "borders": [
             "IND"
@@ -18856,6 +19161,10 @@
         "area": 65610,
         "flag": "\ud83c\uddf1\ud83c\uddf0",
         "demonyms": {
+            "eng": {
+                "f": "Sri Lankan",
+                "m": "Sri Lankan"
+            },
             "fra": {
                 "f": "Sri-lankaise",
                 "m": "Sri-lankais"
@@ -18994,7 +19303,6 @@
             -29.5,
             28.5
         ],
-        "demonym": "Mosotho",
         "landlocked": true,
         "borders": [
             "ZAF"
@@ -19002,6 +19310,10 @@
         "area": 30355,
         "flag": "\ud83c\uddf1\ud83c\uddf8",
         "demonyms": {
+            "eng": {
+                "f": "Mosotho",
+                "m": "Mosotho"
+            },
             "fra": {
                 "f": "L\u00e9sothienne",
                 "m": "L\u00e9sothien"
@@ -19131,7 +19443,6 @@
             56,
             24
         ],
-        "demonym": "Lithuanian",
         "landlocked": false,
         "borders": [
             "BLR",
@@ -19142,6 +19453,10 @@
         "area": 65300,
         "flag": "\ud83c\uddf1\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Lithuanian",
+                "m": "Lithuanian"
+            },
             "fra": {
                 "f": "Lituanienne",
                 "m": "Lituanien"
@@ -19283,7 +19598,6 @@
             49.75,
             6.16666666
         ],
-        "demonym": "Luxembourger",
         "landlocked": true,
         "borders": [
             "BEL",
@@ -19293,6 +19607,10 @@
         "area": 2586,
         "flag": "\ud83c\uddf1\ud83c\uddfa",
         "demonyms": {
+            "eng": {
+                "f": "Luxembourger",
+                "m": "Luxembourger"
+            },
             "fra": {
                 "f": "Luxembourgeoise",
                 "m": "Luxembourgeois"
@@ -19422,7 +19740,6 @@
             57,
             25
         ],
-        "demonym": "Latvian",
         "landlocked": false,
         "borders": [
             "BLR",
@@ -19433,6 +19750,10 @@
         "area": 64559,
         "flag": "\ud83c\uddf1\ud83c\uddfb",
         "demonyms": {
+            "eng": {
+                "f": "Latvian",
+                "m": "Latvian"
+            },
             "fra": {
                 "f": "Lettone",
                 "m": "Letton"
@@ -19836,7 +20157,6 @@
             32,
             -5
         ],
-        "demonym": "Moroccan",
         "landlocked": false,
         "borders": [
             "DZA",
@@ -19846,6 +20166,10 @@
         "area": 446550,
         "flag": "\ud83c\uddf2\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Moroccan",
+                "m": "Moroccan"
+            },
             "fra": {
                 "f": "Marocaine",
                 "m": "Marocain"
@@ -19975,7 +20299,6 @@
             43.73333333,
             7.4
         ],
-        "demonym": "Monegasque",
         "landlocked": false,
         "borders": [
             "FRA"
@@ -19983,6 +20306,10 @@
         "area": 2.02,
         "flag": "\ud83c\uddf2\ud83c\udde8",
         "demonyms": {
+            "eng": {
+                "f": "Monegasque",
+                "m": "Monegasque"
+            },
             "fra": {
                 "f": "Mon\u00e9gasque",
                 "m": "Mon\u00e9gasque"
@@ -20113,7 +20440,6 @@
             47,
             29
         ],
-        "demonym": "Moldovan",
         "landlocked": true,
         "borders": [
             "ROU",
@@ -20122,6 +20448,10 @@
         "area": 33846,
         "flag": "\ud83c\uddf2\ud83c\udde9",
         "demonyms": {
+            "eng": {
+                "f": "Moldovan",
+                "m": "Moldovan"
+            },
             "fra": {
                 "f": "Moldave",
                 "m": "Moldave"
@@ -20257,12 +20587,15 @@
             -20,
             47
         ],
-        "demonym": "Malagasy",
         "landlocked": false,
         "borders": [],
         "area": 587041,
         "flag": "\ud83c\uddf2\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Malagasy",
+                "m": "Malagasy"
+            },
             "fra": {
                 "f": "Malgache",
                 "m": "Malgache"
@@ -20393,12 +20726,15 @@
             3.25,
             73
         ],
-        "demonym": "Maldivan",
         "landlocked": false,
         "borders": [],
         "area": 300,
         "flag": "\ud83c\uddf2\ud83c\uddfb",
         "demonyms": {
+            "eng": {
+                "f": "Maldivan",
+                "m": "Maldivan"
+            },
             "fra": {
                 "f": "Maldivienne",
                 "m": "Maldivien"
@@ -20529,7 +20865,6 @@
             23,
             -102
         ],
-        "demonym": "Mexican",
         "landlocked": false,
         "borders": [
             "BLZ",
@@ -20539,6 +20874,10 @@
         "area": 1964375,
         "flag": "\ud83c\uddf2\ud83c\uddfd",
         "demonyms": {
+            "eng": {
+                "f": "Mexican",
+                "m": "Mexican"
+            },
             "fra": {
                 "f": "Mexicaine",
                 "m": "Mexicain"
@@ -20673,12 +21012,15 @@
             9,
             168
         ],
-        "demonym": "Marshallese",
         "landlocked": false,
         "borders": [],
         "area": 181,
         "flag": "\ud83c\uddf2\ud83c\udded",
         "demonyms": {
+            "eng": {
+                "f": "Marshallese",
+                "m": "Marshallese"
+            },
             "fra": {
                 "f": "Marshallaise",
                 "m": "Marshallais"
@@ -20809,7 +21151,6 @@
             41.83333333,
             22
         ],
-        "demonym": "Macedonian",
         "landlocked": true,
         "borders": [
             "ALB",
@@ -20821,6 +21162,10 @@
         "area": 25713,
         "flag": "\ud83c\uddf2\ud83c\uddf0",
         "demonyms": {
+            "eng": {
+                "f": "Macedonian",
+                "m": "Macedonian"
+            },
             "fra": {
                 "f": "Mac\u00e9donienne",
                 "m": "Mac\u00e9donien"
@@ -20950,7 +21295,6 @@
             17,
             -4
         ],
-        "demonym": "Malian",
         "landlocked": true,
         "borders": [
             "DZA",
@@ -20964,6 +21308,10 @@
         "area": 1240192,
         "flag": "\ud83c\uddf2\ud83c\uddf1",
         "demonyms": {
+            "eng": {
+                "f": "Malian",
+                "m": "Malian"
+            },
             "fra": {
                 "f": "Malienne",
                 "m": "Malien"
@@ -21098,12 +21446,15 @@
             35.83333333,
             14.58333333
         ],
-        "demonym": "Maltese",
         "landlocked": false,
         "borders": [],
         "area": 316,
         "flag": "\ud83c\uddf2\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Maltese",
+                "m": "Maltese"
+            },
             "fra": {
                 "f": "Maltaise",
                 "m": "Maltais"
@@ -21234,7 +21585,6 @@
             22,
             98
         ],
-        "demonym": "Burmese",
         "landlocked": false,
         "borders": [
             "BGD",
@@ -21246,6 +21596,10 @@
         "area": 676578,
         "flag": "\ud83c\uddf2\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Burmese",
+                "m": "Burmese"
+            },
             "fra": {
                 "f": "Birmane",
                 "m": "Birman"
@@ -21374,7 +21728,6 @@
             42.5,
             19.3
         ],
-        "demonym": "Montenegrin",
         "landlocked": false,
         "borders": [
             "ALB",
@@ -21386,6 +21739,10 @@
         "area": 13812,
         "flag": "\ud83c\uddf2\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Montenegrin",
+                "m": "Montenegrin"
+            },
             "fra": {
                 "f": "Mont\u00e9n\u00e9grine",
                 "m": "Mont\u00e9n\u00e9grin"
@@ -21513,7 +21870,6 @@
             46,
             105
         ],
-        "demonym": "Mongolian",
         "landlocked": true,
         "borders": [
             "CHN",
@@ -21522,6 +21878,10 @@
         "area": 1564110,
         "flag": "\ud83c\uddf2\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Mongolian",
+                "m": "Mongolian"
+            },
             "fra": {
                 "f": "Mongole",
                 "m": "Mongol"
@@ -21790,7 +22150,6 @@
             -18.25,
             35
         ],
-        "demonym": "Mozambican",
         "landlocked": false,
         "borders": [
             "MWI",
@@ -21803,6 +22162,10 @@
         "area": 801590,
         "flag": "\ud83c\uddf2\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "Mozambican",
+                "m": "Mozambican"
+            },
             "fra": {
                 "f": "Mozambicaine",
                 "m": "Mozambicain"
@@ -21932,7 +22295,6 @@
             20,
             -12
         ],
-        "demonym": "Mauritanian",
         "landlocked": false,
         "borders": [
             "DZA",
@@ -21943,6 +22305,10 @@
         "area": 1030700,
         "flag": "\ud83c\uddf2\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Mauritanian",
+                "m": "Mauritanian"
+            },
             "fra": {
                 "f": "Mauritanienne",
                 "m": "Mauritanien"
@@ -22336,12 +22702,15 @@
             -20.28333333,
             57.55
         ],
-        "demonym": "Mauritian",
         "landlocked": false,
         "borders": [],
         "area": 2040,
         "flag": "\ud83c\uddf2\ud83c\uddfa",
         "demonyms": {
+            "eng": {
+                "f": "Mauritian",
+                "m": "Mauritian"
+            },
             "fra": {
                 "f": "Mauricienne",
                 "m": "Mauricien"
@@ -22475,7 +22844,6 @@
             -13.5,
             34
         ],
-        "demonym": "Malawian",
         "landlocked": true,
         "borders": [
             "MOZ",
@@ -22485,6 +22853,10 @@
         "area": 118484,
         "flag": "\ud83c\uddf2\ud83c\uddfc",
         "demonyms": {
+            "eng": {
+                "f": "Malawian",
+                "m": "Malawian"
+            },
             "fra": {
                 "f": "Malawienne",
                 "m": "Malawien"
@@ -22617,7 +22989,6 @@
             2.5,
             112.5
         ],
-        "demonym": "Malaysian",
         "landlocked": false,
         "borders": [
             "BRN",
@@ -22627,6 +22998,10 @@
         "area": 330803,
         "flag": "\ud83c\uddf2\ud83c\uddfe",
         "demonyms": {
+            "eng": {
+                "f": "Malaysian",
+                "m": "Malaysian"
+            },
             "fra": {
                 "f": "Malaisienne",
                 "m": "Malaisien"
@@ -22929,7 +23304,6 @@
             -22,
             17
         ],
-        "demonym": "Namibian",
         "landlocked": false,
         "borders": [
             "AGO",
@@ -22940,6 +23314,10 @@
         "area": 825615,
         "flag": "\ud83c\uddf3\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Namibian",
+                "m": "Namibian"
+            },
             "fra": {
                 "f": "Namibienne",
                 "m": "Namibien"
@@ -23195,7 +23573,6 @@
             16,
             8
         ],
-        "demonym": "Nigerien",
         "landlocked": true,
         "borders": [
             "DZA",
@@ -23209,6 +23586,10 @@
         "area": 1267000,
         "flag": "\ud83c\uddf3\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Nigerien",
+                "m": "Nigerien"
+            },
             "fra": {
                 "f": "Nig\u00e9rienne",
                 "m": "Nig\u00e9rien"
@@ -23473,7 +23854,6 @@
             10,
             8
         ],
-        "demonym": "Nigerian",
         "landlocked": false,
         "borders": [
             "BEN",
@@ -23484,6 +23864,10 @@
         "area": 923768,
         "flag": "\ud83c\uddf3\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Nigerian",
+                "m": "Nigerian"
+            },
             "fra": {
                 "f": "Nig\u00e9riane",
                 "m": "Nig\u00e9rian"
@@ -23613,7 +23997,6 @@
             13,
             -85
         ],
-        "demonym": "Nicaraguan",
         "landlocked": false,
         "borders": [
             "CRI",
@@ -23622,6 +24005,10 @@
         "area": 130373,
         "flag": "\ud83c\uddf3\ud83c\uddee",
         "demonyms": {
+            "eng": {
+                "f": "Nicaraguan",
+                "m": "Nicaraguan"
+            },
             "fra": {
                 "f": "Nicaraguayenne",
                 "m": "Nicaraguayen"
@@ -23884,7 +24271,6 @@
             52.5,
             5.75
         ],
-        "demonym": "Dutch",
         "landlocked": false,
         "borders": [
             "BEL",
@@ -23893,6 +24279,10 @@
         "area": 41850,
         "flag": "\ud83c\uddf3\ud83c\uddf1",
         "demonyms": {
+            "eng": {
+                "f": "Dutch",
+                "m": "Dutch"
+            },
             "fra": {
                 "f": "N\u00e9erlandaise",
                 "m": "N\u00e9erlandais"
@@ -24035,7 +24425,6 @@
             62,
             10
         ],
-        "demonym": "Norwegian",
         "landlocked": false,
         "borders": [
             "FIN",
@@ -24045,6 +24434,10 @@
         "area": 323802,
         "flag": "\ud83c\uddf3\ud83c\uddf4",
         "demonyms": {
+            "eng": {
+                "f": "Norwegian",
+                "m": "Norwegian"
+            },
             "fra": {
                 "f": "Norv\u00e9gienne",
                 "m": "Norv\u00e9gien"
@@ -24174,7 +24567,6 @@
             28,
             84
         ],
-        "demonym": "Nepalese",
         "landlocked": true,
         "borders": [
             "CHN",
@@ -24183,6 +24575,10 @@
         "area": 147181,
         "flag": "\ud83c\uddf3\ud83c\uddf5",
         "demonyms": {
+            "eng": {
+                "f": "Nepalese",
+                "m": "Nepalese"
+            },
             "fra": {
                 "f": "N\u00e9palaise",
                 "m": "N\u00e9palais"
@@ -24319,12 +24715,15 @@
             -0.53333333,
             166.91666666
         ],
-        "demonym": "Nauruan",
         "landlocked": false,
         "borders": [],
         "area": 21,
         "flag": "\ud83c\uddf3\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Nauruan",
+                "m": "Nauruan"
+            },
             "fra": {
                 "f": "Nauruane",
                 "m": "Nauruan"
@@ -24463,12 +24862,15 @@
             -41,
             174
         ],
-        "demonym": "New Zealander",
         "landlocked": false,
         "borders": [],
         "area": 270467,
         "flag": "\ud83c\uddf3\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "New Zealander",
+                "m": "New Zealander"
+            },
             "fra": {
                 "f": "Neo-Z\u00e9landaise",
                 "m": "Neo-Z\u00e9landais"
@@ -24598,7 +25000,6 @@
             21,
             57
         ],
-        "demonym": "Omani",
         "landlocked": false,
         "borders": [
             "SAU",
@@ -24608,6 +25009,10 @@
         "area": 309500,
         "flag": "\ud83c\uddf4\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Omani",
+                "m": "Omani"
+            },
             "fra": {
                 "f": "Omanaise",
                 "m": "Omanais"
@@ -24743,7 +25148,6 @@
             30,
             70
         ],
-        "demonym": "Pakistani",
         "landlocked": false,
         "borders": [
             "AFG",
@@ -24754,6 +25158,10 @@
         "area": 881912,
         "flag": "\ud83c\uddf5\ud83c\uddf0",
         "demonyms": {
+            "eng": {
+                "f": "Pakistani",
+                "m": "Pakistani"
+            },
             "fra": {
                 "f": "Pakistanaise",
                 "m": "Pakistanais"
@@ -24887,7 +25295,6 @@
             9,
             -80
         ],
-        "demonym": "Panamanian",
         "landlocked": false,
         "borders": [
             "COL",
@@ -24896,6 +25303,10 @@
         "area": 75417,
         "flag": "\ud83c\uddf5\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Panamanian",
+                "m": "Panamanian"
+            },
             "fra": {
                 "f": "Panam\u00e9enne",
                 "m": "Panam\u00e9en"
@@ -25164,7 +25575,6 @@
             -10,
             -76
         ],
-        "demonym": "Peruvian",
         "landlocked": false,
         "borders": [
             "BOL",
@@ -25176,6 +25586,10 @@
         "area": 1285216,
         "flag": "\ud83c\uddf5\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Peruvian",
+                "m": "Peruvian"
+            },
             "fra": {
                 "f": "P\u00e9ruvienne",
                 "m": "P\u00e9ruvien"
@@ -25310,12 +25724,15 @@
             13,
             122
         ],
-        "demonym": "Filipino",
         "landlocked": false,
         "borders": [],
         "area": 342353,
         "flag": "\ud83c\uddf5\ud83c\udded",
         "demonyms": {
+            "eng": {
+                "f": "Filipino",
+                "m": "Filipino"
+            },
             "fra": {
                 "f": "Philippine",
                 "m": "Philippin"
@@ -25450,12 +25867,15 @@
             7.5,
             134.5
         ],
-        "demonym": "Palauan",
         "landlocked": false,
         "borders": [],
         "area": 459,
         "flag": "\ud83c\uddf5\ud83c\uddfc",
         "demonyms": {
+            "eng": {
+                "f": "Palauan",
+                "m": "Palauan"
+            },
             "fra": {
                 "f": "Paluane",
                 "m": "Paluan"
@@ -25595,7 +26015,6 @@
             -6,
             147
         ],
-        "demonym": "Papua New Guinean",
         "landlocked": false,
         "borders": [
             "IDN"
@@ -25603,6 +26022,10 @@
         "area": 462840,
         "flag": "\ud83c\uddf5\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Papua New Guinean",
+                "m": "Papua New Guinean"
+            },
             "fra": {
                 "f": "Papouasienne",
                 "m": "Papouasien"
@@ -25732,7 +26155,6 @@
             52,
             20
         ],
-        "demonym": "Polish",
         "landlocked": false,
         "borders": [
             "BLR",
@@ -25746,6 +26168,10 @@
         "area": 312679,
         "flag": "\ud83c\uddf5\ud83c\uddf1",
         "demonyms": {
+            "eng": {
+                "f": "Polish",
+                "m": "Polish"
+            },
             "fra": {
                 "f": "Polonaise",
                 "m": "Polonais"
@@ -25881,12 +26307,15 @@
             18.25,
             -66.5
         ],
-        "demonym": "Puerto Rican",
         "landlocked": false,
         "borders": [],
         "area": 8870,
         "flag": "\ud83c\uddf5\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Puerto Rican",
+                "m": "Puerto Rican"
+            },
             "fra": {
                 "f": "Portoricaine",
                 "m": "Portoricain"
@@ -26020,7 +26449,6 @@
             40,
             127
         ],
-        "demonym": "North Korean",
         "landlocked": false,
         "borders": [
             "CHN",
@@ -26030,6 +26458,10 @@
         "area": 120538,
         "flag": "\ud83c\uddf0\ud83c\uddf5",
         "demonyms": {
+            "eng": {
+                "f": "North Korean",
+                "m": "North Korean"
+            },
             "fra": {
                 "f": "Nord-cor\u00e9enne",
                 "m": "Nord-cor\u00e9en"
@@ -26160,7 +26592,6 @@
             39.5,
             -8
         ],
-        "demonym": "Portuguese",
         "landlocked": false,
         "borders": [
             "ESP"
@@ -26168,6 +26599,10 @@
         "area": 92090,
         "flag": "\ud83c\uddf5\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Portuguese",
+                "m": "Portuguese"
+            },
             "fra": {
                 "f": "Portugaise",
                 "m": "Portugais"
@@ -26303,7 +26738,6 @@
             -23,
             -58
         ],
-        "demonym": "Paraguayan",
         "landlocked": true,
         "borders": [
             "ARG",
@@ -26313,6 +26747,10 @@
         "area": 406752,
         "flag": "\ud83c\uddf5\ud83c\uddfe",
         "demonyms": {
+            "eng": {
+                "f": "Paraguayan",
+                "m": "Paraguayan"
+            },
             "fra": {
                 "f": "Paraguayenne",
                 "m": "Paraguayen"
@@ -26452,7 +26890,6 @@
             31.9,
             35.2
         ],
-        "demonym": "Palestinian",
         "landlocked": false,
         "borders": [
             "ISR",
@@ -26462,6 +26899,10 @@
         "area": 6220,
         "flag": "\ud83c\uddf5\ud83c\uddf8",
         "demonyms": {
+            "eng": {
+                "f": "Palestinian",
+                "m": "Palestinian"
+            },
             "fra": {
                 "f": "Palestinienne",
                 "m": "Palestinien"
@@ -26722,7 +27163,6 @@
             25.5,
             51.25
         ],
-        "demonym": "Qatari",
         "landlocked": false,
         "borders": [
             "SAU"
@@ -26730,6 +27170,10 @@
         "area": 11586,
         "flag": "\ud83c\uddf6\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Qatari",
+                "m": "Qatari"
+            },
             "fra": {
                 "f": "Qatarienne",
                 "m": "Qatarien"
@@ -26988,7 +27432,6 @@
             46,
             25
         ],
-        "demonym": "Romanian",
         "landlocked": false,
         "borders": [
             "BGR",
@@ -27000,6 +27443,10 @@
         "area": 238391,
         "flag": "\ud83c\uddf7\ud83c\uddf4",
         "demonyms": {
+            "eng": {
+                "f": "Romanian",
+                "m": "Romanian"
+            },
             "fra": {
                 "f": "Roumaine",
                 "m": "Roumain"
@@ -27135,7 +27582,6 @@
             60,
             100
         ],
-        "demonym": "Russian",
         "landlocked": false,
         "borders": [
             "AZE",
@@ -27156,6 +27602,10 @@
         "area": 17098242,
         "flag": "\ud83c\uddf7\ud83c\uddfa",
         "demonyms": {
+            "eng": {
+                "f": "Russian",
+                "m": "Russian"
+            },
             "fra": {
                 "f": "Russe",
                 "m": "Russe"
@@ -27296,7 +27746,6 @@
             -2,
             30
         ],
-        "demonym": "Rwandan",
         "landlocked": true,
         "borders": [
             "BDI",
@@ -27307,6 +27756,10 @@
         "area": 26338,
         "flag": "\ud83c\uddf7\ud83c\uddfc",
         "demonyms": {
+            "eng": {
+                "f": "Rwandan",
+                "m": "Rwandan"
+            },
             "fra": {
                 "f": "Rwandaise",
                 "m": "Rwandais"
@@ -27438,7 +27891,6 @@
             25,
             45
         ],
-        "demonym": "Saudi Arabian",
         "landlocked": false,
         "borders": [
             "IRQ",
@@ -27452,6 +27904,10 @@
         "area": 2149690,
         "flag": "\ud83c\uddf8\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Saudi Arabian",
+                "m": "Saudi Arabian"
+            },
             "fra": {
                 "f": "Saoudienne",
                 "m": "Saoudien"
@@ -27586,7 +28042,6 @@
             15,
             30
         ],
-        "demonym": "Sudanese",
         "landlocked": false,
         "borders": [
             "CAF",
@@ -27600,6 +28055,10 @@
         "area": 1886068,
         "flag": "\ud83c\uddf8\ud83c\udde9",
         "demonyms": {
+            "eng": {
+                "f": "Sudanese",
+                "m": "Sudanese"
+            },
             "fra": {
                 "f": "Soudanaise",
                 "m": "Soudanais"
@@ -27729,7 +28188,6 @@
             14,
             -14
         ],
-        "demonym": "Senegalese",
         "landlocked": false,
         "borders": [
             "GMB",
@@ -27741,6 +28199,10 @@
         "area": 196722,
         "flag": "\ud83c\uddf8\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Senegalese",
+                "m": "Senegalese"
+            },
             "fra": {
                 "f": "S\u00e9n\u00e9galaise",
                 "m": "S\u00e9n\u00e9galais"
@@ -27884,12 +28346,15 @@
             1.36666666,
             103.8
         ],
-        "demonym": "Singaporean",
         "landlocked": false,
         "borders": [],
         "area": 710,
         "flag": "\ud83c\uddf8\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Singaporean",
+                "m": "Singaporean"
+            },
             "fra": {
                 "f": "Singapourienne",
                 "m": "Singapourien"
@@ -28273,12 +28738,15 @@
             -8,
             159
         ],
-        "demonym": "Solomon Islander",
         "landlocked": false,
         "borders": [],
         "area": 28896,
         "flag": "\ud83c\uddf8\ud83c\udde7",
         "demonyms": {
+            "eng": {
+                "f": "Solomon Islander",
+                "m": "Solomon Islander"
+            },
             "fra": {
                 "f": "Salomonienne",
                 "m": "Salomonien"
@@ -28407,7 +28875,6 @@
             8.5,
             -11.5
         ],
-        "demonym": "Sierra Leonean",
         "landlocked": false,
         "borders": [
             "GIN",
@@ -28416,6 +28883,10 @@
         "area": 71740,
         "flag": "\ud83c\uddf8\ud83c\uddf1",
         "demonyms": {
+            "eng": {
+                "f": "Sierra Leonean",
+                "m": "Sierra Leonean"
+            },
             "fra": {
                 "f": "Sierra-leonaise",
                 "m": "Sierra-leonais"
@@ -28549,7 +29020,6 @@
             13.83333333,
             -88.91666666
         ],
-        "demonym": "Salvadoran",
         "landlocked": false,
         "borders": [
             "GTM",
@@ -28558,6 +29028,10 @@
         "area": 21041,
         "flag": "\ud83c\uddf8\ud83c\uddfb",
         "demonyms": {
+            "eng": {
+                "f": "Salvadoran",
+                "m": "Salvadoran"
+            },
             "fra": {
                 "f": "Salvadorienne",
                 "m": "Salvadorien"
@@ -28687,7 +29161,6 @@
             43.76666666,
             12.41666666
         ],
-        "demonym": "Sammarinese",
         "landlocked": true,
         "borders": [
             "ITA"
@@ -28695,6 +29168,10 @@
         "area": 61,
         "flag": "\ud83c\uddf8\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Sammarinese",
+                "m": "Sammarinese"
+            },
             "fra": {
                 "f": "Saint-Marinaise",
                 "m": "Saint-Marinais"
@@ -28831,7 +29308,6 @@
             10,
             49
         ],
-        "demonym": "Somali",
         "landlocked": false,
         "borders": [
             "DJI",
@@ -28841,6 +29317,10 @@
         "area": 637657,
         "flag": "\ud83c\uddf8\ud83c\uddf4",
         "demonyms": {
+            "eng": {
+                "f": "Somali",
+                "m": "Somali"
+            },
             "fra": {
                 "f": "Somalienne",
                 "m": "Somalien"
@@ -29101,7 +29581,6 @@
             44,
             21
         ],
-        "demonym": "Serbian",
         "landlocked": true,
         "borders": [
             "BIH",
@@ -29116,6 +29595,10 @@
         "area": 88361,
         "flag": "\ud83c\uddf7\ud83c\uddf8",
         "demonyms": {
+            "eng": {
+                "f": "Serbian",
+                "m": "Serbian"
+            },
             "fra": {
                 "f": "Serbe",
                 "m": "Serbe"
@@ -29243,7 +29726,6 @@
             7,
             30
         ],
-        "demonym": "South Sudanese",
         "landlocked": true,
         "borders": [
             "CAF",
@@ -29256,6 +29738,10 @@
         "area": 619745,
         "flag": "\ud83c\uddf8\ud83c\uddf8",
         "demonyms": {
+            "eng": {
+                "f": "South Sudanese",
+                "m": "South Sudanese"
+            },
             "fra": {
                 "f": "Sud-Soudanaise",
                 "m": "Sud-Soudanais"
@@ -29386,12 +29872,15 @@
             1,
             7
         ],
-        "demonym": "Sao Tomean",
         "landlocked": false,
         "borders": [],
         "area": 964,
         "flag": "\ud83c\uddf8\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Sao Tomean",
+                "m": "Sao Tomean"
+            },
             "fra": {
                 "f": "Santom\u00e9enne",
                 "m": "Santom\u00e9en"
@@ -29523,7 +30012,6 @@
             4,
             -56
         ],
-        "demonym": "Surinamer",
         "landlocked": false,
         "borders": [
             "BRA",
@@ -29533,6 +30021,10 @@
         "area": 163820,
         "flag": "\ud83c\uddf8\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Surinamer",
+                "m": "Surinamer"
+            },
             "fra": {
                 "f": "Surinamaise",
                 "m": "Surinamais"
@@ -29662,7 +30154,6 @@
             48.66666666,
             19.5
         ],
-        "demonym": "Slovak",
         "landlocked": true,
         "borders": [
             "AUT",
@@ -29674,6 +30165,10 @@
         "area": 49037,
         "flag": "\ud83c\uddf8\ud83c\uddf0",
         "demonyms": {
+            "eng": {
+                "f": "Slovak",
+                "m": "Slovak"
+            },
             "fra": {
                 "f": "Slovaque",
                 "m": "Slovaque"
@@ -29803,7 +30298,6 @@
             46.11666666,
             14.81666666
         ],
-        "demonym": "Slovene",
         "landlocked": false,
         "borders": [
             "AUT",
@@ -29814,6 +30308,10 @@
         "area": 20273,
         "flag": "\ud83c\uddf8\ud83c\uddee",
         "demonyms": {
+            "eng": {
+                "f": "Slovene",
+                "m": "Slovene"
+            },
             "fra": {
                 "f": "Slov\u00e8ne",
                 "m": "Slov\u00e8ne"
@@ -29943,7 +30441,6 @@
             62,
             15
         ],
-        "demonym": "Swedish",
         "landlocked": false,
         "borders": [
             "FIN",
@@ -29952,6 +30449,10 @@
         "area": 450295,
         "flag": "\ud83c\uddf8\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Swedish",
+                "m": "Swedish"
+            },
             "fra": {
                 "f": "Su\u00e9doise",
                 "m": "Su\u00e9dois"
@@ -30090,7 +30591,6 @@
             -26.5,
             31.5
         ],
-        "demonym": "Swazi",
         "landlocked": true,
         "borders": [
             "MOZ",
@@ -30099,6 +30599,10 @@
         "area": 17364,
         "flag": "\ud83c\uddf8\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "Swazi",
+                "m": "Swazi"
+            },
             "fra": {
                 "f": "Swazie",
                 "m": "Swazie"
@@ -30237,7 +30741,6 @@
             18.033333,
             -63.05
         ],
-        "demonym": "St. Maartener",
         "landlocked": false,
         "borders": [
             "MAF"
@@ -30245,6 +30748,10 @@
         "area": 34,
         "flag": "\ud83c\uddf8\ud83c\uddfd",
         "demonyms": {
+            "eng": {
+                "f": "St. Maartener",
+                "m": "St. Maartener"
+            },
             "fra": {
                 "f": "Saint-Martinoise",
                 "m": "Saint-Martinois"
@@ -30385,12 +30892,15 @@
             -4.58333333,
             55.66666666
         ],
-        "demonym": "Seychellois",
         "landlocked": false,
         "borders": [],
         "area": 452,
         "flag": "\ud83c\uddf8\ud83c\udde8",
         "demonyms": {
+            "eng": {
+                "f": "Seychellois",
+                "m": "Seychellois"
+            },
             "fra": {
                 "f": "Seychelloise",
                 "m": "Seychellois"
@@ -30521,7 +31031,6 @@
             35,
             38
         ],
-        "demonym": "Syrian",
         "landlocked": false,
         "borders": [
             "IRQ",
@@ -30533,6 +31042,10 @@
         "area": 185180,
         "flag": "\ud83c\uddf8\ud83c\uddfe",
         "demonyms": {
+            "eng": {
+                "f": "Syrian",
+                "m": "Syrian"
+            },
             "fra": {
                 "f": "Syrienne",
                 "m": "Syrien"
@@ -30799,7 +31312,6 @@
             15,
             19
         ],
-        "demonym": "Chadian",
         "landlocked": true,
         "borders": [
             "CMR",
@@ -30812,6 +31324,10 @@
         "area": 1284000,
         "flag": "\ud83c\uddf9\ud83c\udde9",
         "demonyms": {
+            "eng": {
+                "f": "Chadian",
+                "m": "Chadian"
+            },
             "fra": {
                 "f": "Tchadienne",
                 "m": "Tchadien"
@@ -30942,7 +31458,6 @@
             8,
             1.16666666
         ],
-        "demonym": "Togolese",
         "landlocked": false,
         "borders": [
             "BEN",
@@ -30952,6 +31467,10 @@
         "area": 56785,
         "flag": "\ud83c\uddf9\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Togolese",
+                "m": "Togolese"
+            },
             "fra": {
                 "f": "Togolaise",
                 "m": "Togolais"
@@ -31085,7 +31604,6 @@
             15,
             100
         ],
-        "demonym": "Thai",
         "landlocked": false,
         "borders": [
             "MMR",
@@ -31096,6 +31614,10 @@
         "area": 513120,
         "flag": "\ud83c\uddf9\ud83c\udded",
         "demonyms": {
+            "eng": {
+                "f": "Thai",
+                "m": "Thai"
+            },
             "fra": {
                 "f": "Tha\u00eflandaise",
                 "m": "Tha\u00eflandais"
@@ -31232,7 +31754,6 @@
             39,
             71
         ],
-        "demonym": "Tadzhik",
         "landlocked": true,
         "borders": [
             "AFG",
@@ -31243,6 +31764,10 @@
         "area": 143100,
         "flag": "\ud83c\uddf9\ud83c\uddef",
         "demonyms": {
+            "eng": {
+                "f": "Tadzhik",
+                "m": "Tadzhik"
+            },
             "fra": {
                 "f": "Tadjike",
                 "m": "Tadjike"
@@ -31512,7 +32037,6 @@
             40,
             60
         ],
-        "demonym": "Turkmen",
         "landlocked": true,
         "borders": [
             "AFG",
@@ -31523,6 +32047,10 @@
         "area": 488100,
         "flag": "\ud83c\uddf9\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Turkmen",
+                "m": "Turkmen"
+            },
             "fra": {
                 "f": "Turkm\u00e8ne",
                 "m": "Turkm\u00e8ne"
@@ -31661,7 +32189,6 @@
             -8.83333333,
             125.91666666
         ],
-        "demonym": "East Timorese",
         "landlocked": false,
         "borders": [
             "IDN"
@@ -31669,6 +32196,10 @@
         "area": 14874,
         "flag": "\ud83c\uddf9\ud83c\uddf1",
         "demonyms": {
+            "eng": {
+                "f": "East Timorese",
+                "m": "East Timorese"
+            },
             "fra": {
                 "f": "Est-timoraise",
                 "m": "Est-timorais"
@@ -31801,12 +32332,15 @@
             -20,
             -175
         ],
-        "demonym": "Tongan",
         "landlocked": false,
         "borders": [],
         "area": 747,
         "flag": "\ud83c\uddf9\ud83c\uddf4",
         "demonyms": {
+            "eng": {
+                "f": "Tongan",
+                "m": "Tongan"
+            },
             "fra": {
                 "f": "Tonguienne",
                 "m": "Tonguien"
@@ -31935,12 +32469,15 @@
             11,
             -61
         ],
-        "demonym": "Trinidadian",
         "landlocked": false,
         "borders": [],
         "area": 5130,
         "flag": "\ud83c\uddf9\ud83c\uddf9",
         "demonyms": {
+            "eng": {
+                "f": "Trinidadian",
+                "m": "Trinidadian"
+            },
             "fra": {
                 "f": "Trinidadienne",
                 "m": "Trinidadien"
@@ -32070,7 +32607,6 @@
             34,
             9
         ],
-        "demonym": "Tunisian",
         "landlocked": false,
         "borders": [
             "DZA",
@@ -32079,6 +32615,10 @@
         "area": 163610,
         "flag": "\ud83c\uddf9\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Tunisian",
+                "m": "Tunisian"
+            },
             "fra": {
                 "f": "Tunisienne",
                 "m": "Tunisien"
@@ -32209,7 +32749,6 @@
             39,
             35
         ],
-        "demonym": "Turkish",
         "landlocked": false,
         "borders": [
             "ARM",
@@ -32224,6 +32763,10 @@
         "area": 783562,
         "flag": "\ud83c\uddf9\ud83c\uddf7",
         "demonyms": {
+            "eng": {
+                "f": "Turkish",
+                "m": "Turkish"
+            },
             "fra": {
                 "f": "Turque",
                 "m": "Turc"
@@ -32360,12 +32903,15 @@
             -8,
             178
         ],
-        "demonym": "Tuvaluan",
         "landlocked": false,
         "borders": [],
         "area": 26,
         "flag": "\ud83c\uddf9\ud83c\uddfb",
         "demonyms": {
+            "eng": {
+                "f": "Tuvaluan",
+                "m": "Tuvaluan"
+            },
             "fra": {
                 "f": "Tuvaluane",
                 "m": "Tuvaluan"
@@ -32496,12 +33042,15 @@
             23.5,
             121
         ],
-        "demonym": "Taiwanese",
         "landlocked": false,
         "borders": [],
         "area": 36193,
         "flag": "\ud83c\uddf9\ud83c\uddfc",
         "demonyms": {
+            "eng": {
+                "f": "Taiwanese",
+                "m": "Taiwanese"
+            },
             "fra": {
                 "f": "Ta\u00efwanaise",
                 "m": "Ta\u00efwanais"
@@ -32637,7 +33186,6 @@
             -6,
             35
         ],
-        "demonym": "Tanzanian",
         "landlocked": false,
         "borders": [
             "BDI",
@@ -32652,6 +33200,10 @@
         "area": 945087,
         "flag": "\ud83c\uddf9\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "Tanzanian",
+                "m": "Tanzanian"
+            },
             "fra": {
                 "f": "Tanzanienne",
                 "m": "Tanzanien"
@@ -32786,7 +33338,6 @@
             1,
             32
         ],
-        "demonym": "Ugandan",
         "landlocked": true,
         "borders": [
             "COD",
@@ -32798,6 +33349,10 @@
         "area": 241550,
         "flag": "\ud83c\uddfa\ud83c\uddec",
         "demonyms": {
+            "eng": {
+                "f": "Ugandan",
+                "m": "Ugandan"
+            },
             "fra": {
                 "f": "Ougandaise",
                 "m": "Ougandais"
@@ -32927,7 +33482,6 @@
             49,
             32
         ],
-        "demonym": "Ukrainian",
         "landlocked": false,
         "borders": [
             "BLR",
@@ -32941,6 +33495,10 @@
         "area": 603500,
         "flag": "\ud83c\uddfa\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Ukrainian",
+                "m": "Ukrainian"
+            },
             "fra": {
                 "f": "Ukrainienne",
                 "m": "Ukrainien"
@@ -33197,7 +33755,6 @@
             -33,
             -56
         ],
-        "demonym": "Uruguayan",
         "landlocked": false,
         "borders": [
             "ARG",
@@ -33206,6 +33763,10 @@
         "area": 181034,
         "flag": "\ud83c\uddfa\ud83c\uddfe",
         "demonyms": {
+            "eng": {
+                "f": "Uruguayan",
+                "m": "Uruguayan"
+            },
             "fra": {
                 "f": "Uruguayenne",
                 "m": "Uruguayen"
@@ -33651,7 +34212,6 @@
             38,
             -97
         ],
-        "demonym": "American",
         "landlocked": false,
         "borders": [
             "CAN",
@@ -33660,6 +34220,10 @@
         "area": 9372610,
         "flag": "\ud83c\uddfa\ud83c\uddf8",
         "demonyms": {
+            "eng": {
+                "f": "American",
+                "m": "American"
+            },
             "fra": {
                 "f": "Am\u00e9ricaine",
                 "m": "Am\u00e9ricain"
@@ -33795,7 +34359,6 @@
             41,
             64
         ],
-        "demonym": "Uzbekistani",
         "landlocked": true,
         "borders": [
             "AFG",
@@ -33807,6 +34370,10 @@
         "area": 447400,
         "flag": "\ud83c\uddfa\ud83c\uddff",
         "demonyms": {
+            "eng": {
+                "f": "Uzbekistani",
+                "m": "Uzbekistani"
+            },
             "fra": {
                 "f": "Ouzb\u00e8ke",
                 "m": "Ouzb\u00e8ke"
@@ -33943,7 +34510,6 @@
             41.9,
             12.45
         ],
-        "demonym": "Vatican",
         "landlocked": true,
         "borders": [
             "ITA"
@@ -33951,6 +34517,10 @@
         "area": 0.44,
         "flag": "\ud83c\uddfb\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "Vatican",
+                "m": "Vatican"
+            },
             "fra": {
                 "f": "Vaticane",
                 "m": "Vatican"
@@ -34078,12 +34648,15 @@
             13.25,
             -61.2
         ],
-        "demonym": "Saint Vincentian",
         "landlocked": false,
         "borders": [],
         "area": 389,
         "flag": "\ud83c\uddfb\ud83c\udde8",
         "demonyms": {
+            "eng": {
+                "f": "Saint Vincentian",
+                "m": "Saint Vincentian"
+            },
             "fra": {
                 "f": "Vincentaise",
                 "m": "Vincentais"
@@ -34214,7 +34787,6 @@
             8,
             -66
         ],
-        "demonym": "Venezuelan",
         "landlocked": false,
         "borders": [
             "BRA",
@@ -34224,6 +34796,10 @@
         "area": 916445,
         "flag": "\ud83c\uddfb\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Venezuelan",
+                "m": "Venezuelan"
+            },
             "fra": {
                 "f": "V\u00e9n\u00e9zu\u00e9lienne",
                 "m": "V\u00e9n\u00e9zu\u00e9lien"
@@ -34610,7 +35186,6 @@
             16.16666666,
             107.83333333
         ],
-        "demonym": "Vietnamese",
         "landlocked": false,
         "borders": [
             "KHM",
@@ -34620,6 +35195,10 @@
         "area": 331212,
         "flag": "\ud83c\uddfb\ud83c\uddf3",
         "demonyms": {
+            "eng": {
+                "f": "Vietnamese",
+                "m": "Vietnamese"
+            },
             "fra": {
                 "f": "Vietnamienne",
                 "m": "Vietnamien"
@@ -34760,12 +35339,15 @@
             -16,
             167
         ],
-        "demonym": "Ni-Vanuatu",
         "landlocked": false,
         "borders": [],
         "area": 12189,
         "flag": "\ud83c\uddfb\ud83c\uddfa",
         "demonyms": {
+            "eng": {
+                "f": "Ni-Vanuatu",
+                "m": "Ni-Vanuatu"
+            },
             "fra": {
                 "f": "Vanuatuane",
                 "m": "Vanuatuan"
@@ -35029,12 +35611,15 @@
             -13.58333333,
             -172.33333333
         ],
-        "demonym": "Samoan",
         "landlocked": false,
         "borders": [],
         "area": 2842,
         "flag": "\ud83c\uddfc\ud83c\uddf8",
         "demonyms": {
+            "eng": {
+                "f": "Samoan",
+                "m": "Samoan"
+            },
             "fra": {
                 "f": "Samoane",
                 "m": "Samoan"
@@ -35164,7 +35749,6 @@
             15,
             48
         ],
-        "demonym": "Yemeni",
         "landlocked": false,
         "borders": [
             "OMN",
@@ -35173,6 +35757,10 @@
         "area": 527968,
         "flag": "\ud83c\uddfe\ud83c\uddea",
         "demonyms": {
+            "eng": {
+                "f": "Yemeni",
+                "m": "Yemeni"
+            },
             "fra": {
                 "f": "Y\u00e9m\u00e9nite",
                 "m": "Y\u00e9m\u00e9nite"
@@ -35355,7 +35943,6 @@
             -29,
             24
         ],
-        "demonym": "South African",
         "landlocked": false,
         "borders": [
             "BWA",
@@ -35368,6 +35955,10 @@
         "area": 1221037,
         "flag": "\ud83c\uddff\ud83c\udde6",
         "demonyms": {
+            "eng": {
+                "f": "South African",
+                "m": "South African"
+            },
             "fra": {
                 "f": "Sud-africaine",
                 "m": "Sud-africain"
@@ -35496,7 +36087,6 @@
             -15,
             30
         ],
-        "demonym": "Zambian",
         "landlocked": true,
         "borders": [
             "AGO",
@@ -35511,6 +36101,10 @@
         "area": 752612,
         "flag": "\ud83c\uddff\ud83c\uddf2",
         "demonyms": {
+            "eng": {
+                "f": "Zambian",
+                "m": "Zambian"
+            },
             "fra": {
                 "f": "Zambienne",
                 "m": "Zambien"
@@ -35741,7 +36335,6 @@
             -20,
             30
         ],
-        "demonym": "Zimbabwean",
         "landlocked": true,
         "borders": [
             "BWA",
@@ -35752,6 +36345,10 @@
         "area": 390757,
         "flag": "\ud83c\uddff\ud83c\uddfc",
         "demonyms": {
+            "eng": {
+                "f": "Zimbabwean",
+                "m": "Zimbabwean"
+            },
             "fra": {
                 "f": "Zimbabw\u00e9enne",
                 "m": "Zimbabw\u00e9en"
