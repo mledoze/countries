@@ -11,7 +11,7 @@
 
 ## Countries data
 This repository contains a list of world countries, as defined by [ISO Standard 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1),
-in JSON, CSV, XML and YAML. **Warning:** not all entities in this project are independent countries; refer to the `independent` property to know if the country is considered a sovereign state. 
+in JSON, CSV, XML and YAML. **Warning:** not all entities in this project are independent countries; refer to the `independent` property to know if the country is considered a sovereign state.
 
 Each line contains the country:
 
@@ -51,7 +51,6 @@ Each line contains the country:
  		- key: official - official name translation
  		- key: common - common name translation
  - latitude and longitude (`latlng`)
- - name of residents in english (`demonym`)
  - `demonyms` - name of residents, translated & genderized
     - key: three-letter ISO 639-3 language code
 	- value: genderized demonym object
