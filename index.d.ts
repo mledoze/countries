@@ -9,6 +9,16 @@ export interface CountryName extends OfficialAndCommon {
   }
 }
 
+export interface Currency {
+  name: string
+  symbol: string
+}
+
+export interface IntlDirectDialingCode {
+  root: string
+  suffixes: string[]
+}
+
 export interface Country {
   name: CountryName
   tld: string[]
@@ -18,8 +28,8 @@ export interface Country {
   cioc: string
   independent: boolean
   status: string
-  currency: string[]
-  callingCode: string[]
+  currencies: { [currencyCode: string]: Currency }
+  idd: IntlDirectDialingCode
   capital: string[]
   altSpellings: string[]
   region: string
