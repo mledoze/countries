@@ -1,0 +1,158 @@
+{
+    "name": {
+        "common": "Afghanistan",
+        "official": "Islamic Republic of Afghanistan",
+        "native": {
+            "prs": {
+                "official": "جمهوری اسلامی افغانستان",
+                "common": "افغانستان"
+            },
+            "pus": {
+                "official": "د افغانستان اسلامي جمهوریت",
+                "common": "افغانستان"
+            },
+            "tuk": {
+                "official": "Owganystan Yslam Respublikasy",
+                "common": "Owganystan"
+            }
+        }
+    },
+    "tld": [
+        ".af"
+    ],
+    "cca2": "AF",
+    "ccn3": "004",
+    "cca3": "AFG",
+    "cioc": "AFG",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "AFN": {
+            "name": "Afghan afghani",
+            "symbol": "؋"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "3"
+        ]
+    },
+    "capital": [
+        "Kabul"
+    ],
+    "altSpellings": [
+        "AF",
+        "Afġānistān"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+        "prs": "Dari",
+        "pus": "Pashto",
+        "tuk": "Turkmen"
+    },
+    "translations": {
+        "ces": {
+            "official": "Afghánská islámská republika",
+            "common": "Afghánistán"
+        },
+        "cym": {
+            "official": "Gweriniaeth Islamaidd Affganistan",
+            "common": "Affganistan"
+        },
+        "deu": {
+            "official": "Islamische Republik Afghanistan",
+            "common": "Afghanistan"
+        },
+        "fra": {
+            "official": "République islamique d'Afghanistan",
+            "common": "Afghanistan"
+        },
+        "hrv": {
+            "official": "Islamska Republika Afganistan",
+            "common": "Afganistan"
+        },
+        "ita": {
+            "official": "Repubblica islamica dell'Afghanistan",
+            "common": "Afghanistan"
+        },
+        "jpn": {
+            "official": "アフガニスタン·イスラム共和国",
+            "common": "アフガニスタン"
+        },
+        "nld": {
+            "official": "Islamitische Republiek Afghanistan",
+            "common": "Afghanistan"
+        },
+        "por": {
+            "official": "República Islâmica do Afeganistão",
+            "common": "Afeganistão"
+        },
+        "rus": {
+            "official": "Исламская Республика Афганистан",
+            "common": "Афганистан"
+        },
+        "slk": {
+            "official": "Afgánsky islamský štát",
+            "common": "Afganistan"
+        },
+        "spa": {
+            "official": "República Islámica de Afganistán",
+            "common": "Afganistán"
+        },
+        "fin": {
+            "official": "Afganistanin islamilainen tasavalta",
+            "common": "Afganistan"
+        },
+        "est": {
+            "official": "Afganistani Islamivabariik",
+            "common": "Afganistan"
+        },
+        "zho": {
+            "official": "阿富汗伊斯兰共和国",
+            "common": "阿富汗"
+        },
+        "pol": {
+            "official": "Islamska Republika Afganistanu",
+            "common": "Afganistan"
+        },
+        "urd": {
+            "official": "اسلامی جمہوریہ افغانستان",
+            "common": "افغانستان"
+        },
+        "kor": {
+            "official": "아프가니스탄 이슬람 공화국",
+            "common": "아프가니스탄"
+        },
+        "per": {
+            "official": "جمهوری اسلامی افغانستان",
+            "common": "افغانستان"
+        }
+    },
+    "latlng": [
+        33,
+        65
+    ],
+    "landlocked": true,
+    "borders": [
+        "IRN",
+        "PAK",
+        "TKM",
+        "UZB",
+        "TJK",
+        "CHN"
+    ],
+    "area": 652230,
+    "flag": "🇦🇫",
+    "demonyms": {
+        "eng": {
+            "f": "Afghan",
+            "m": "Afghan"
+        },
+        "fra": {
+            "f": "Afghane",
+            "m": "Afghan"
+        }
+    }
+}

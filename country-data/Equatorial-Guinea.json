@@ -1,0 +1,157 @@
+{
+    "name": {
+        "common": "Equatorial Guinea",
+        "official": "Republic of Equatorial Guinea",
+        "native": {
+            "fra": {
+                "official": "République de la Guinée Équatoriale",
+                "common": "Guinée équatoriale"
+            },
+            "por": {
+                "official": "República da Guiné Equatorial",
+                "common": "Guiné Equatorial"
+            },
+            "spa": {
+                "official": "República de Guinea Ecuatorial",
+                "common": "Guinea Ecuatorial"
+            }
+        }
+    },
+    "tld": [
+        ".gq"
+    ],
+    "cca2": "GQ",
+    "ccn3": "226",
+    "cca3": "GNQ",
+    "cioc": "GEQ",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "XAF": {
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "40"
+        ]
+    },
+    "capital": [
+        "Malabo"
+    ],
+    "altSpellings": [
+        "GQ",
+        "Republic of Equatorial Guinea",
+        "República de Guinea Ecuatorial",
+        "République de Guinée équatoriale",
+        "República da Guiné Equatorial"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+        "fra": "French",
+        "por": "Portuguese",
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Republika Rovníková Guinea",
+            "common": "Rovníková Guinea"
+        },
+        "cym": {
+            "official": "Gweriniaeth Gini Gyhydeddol",
+            "common": "Gini Gyhydeddol"
+        },
+        "deu": {
+            "official": "Republik Äquatorialguinea",
+            "common": "Äquatorialguinea"
+        },
+        "fra": {
+            "official": "République de Guinée équatoriale",
+            "common": "Guinée équatoriale"
+        },
+        "hrv": {
+            "official": "Republika Ekvatorska Gvineja",
+            "common": "Ekvatorijalna Gvineja"
+        },
+        "ita": {
+            "official": "Repubblica della Guinea Equatoriale",
+            "common": "Guinea Equatoriale"
+        },
+        "jpn": {
+            "official": "赤道ギニア共和国",
+            "common": "赤道ギニア"
+        },
+        "nld": {
+            "official": "Republiek Equatoriaal-Guinea",
+            "common": "Equatoriaal-Guinea"
+        },
+        "por": {
+            "official": "República da Guiné Equatorial",
+            "common": "Guiné Equatorial"
+        },
+        "rus": {
+            "official": "Республика Экваториальная Гвинея",
+            "common": "Экваториальная Гвинея"
+        },
+        "slk": {
+            "official": "Republika rovníkovej Guiney",
+            "common": "Rovníková Guinea"
+        },
+        "spa": {
+            "official": "República de Guinea Ecuatorial",
+            "common": "Guinea Ecuatorial"
+        },
+        "fin": {
+            "official": "Päiväntasaajan Guinean tasavalta",
+            "common": "Päiväntasaajan Guinea"
+        },
+        "est": {
+            "official": "Ekvatoriaal-Guinea Vabariik",
+            "common": "Ekvatoriaal-Guinea"
+        },
+        "zho": {
+            "official": "赤道几内亚共和国",
+            "common": "赤道几内亚"
+        },
+        "pol": {
+            "official": "Republika Gwinei Równikowej",
+            "common": "Gwinea Równikowa"
+        },
+        "urd": {
+            "official": "جمہوریہ استوائی گنی",
+            "common": "استوائی گنی"
+        },
+        "kor": {
+            "official": "적도 기니 공화국",
+            "common": "적도 기니"
+        },
+        "per": {
+            "official": "جمهوری گینه استوایی",
+            "common": "گینه استوایی"
+        }
+    },
+    "latlng": [
+        2,
+        10
+    ],
+    "landlocked": false,
+    "borders": [
+        "CMR",
+        "GAB"
+    ],
+    "area": 28051,
+    "flag": "🇬🇶",
+    "demonyms": {
+        "eng": {
+            "f": "Equatorial Guinean",
+            "m": "Equatorial Guinean"
+        },
+        "fra": {
+            "f": "Équato-guinéenne",
+            "m": "Équato-guinéen"
+        }
+    }
+}

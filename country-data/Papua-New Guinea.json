@@ -1,0 +1,150 @@
+{
+    "name": {
+        "common": "Papua New Guinea",
+        "official": "Independent State of Papua New Guinea",
+        "native": {
+            "eng": {
+                "official": "Independent State of Papua New Guinea",
+                "common": "Papua New Guinea"
+            },
+            "hmo": {
+                "official": "Independen Stet bilong Papua Niugini",
+                "common": "Papua Niu Gini"
+            },
+            "tpi": {
+                "official": "Independen Stet bilong Papua Niugini",
+                "common": "Papua Niugini"
+            }
+        }
+    },
+    "tld": [
+        ".pg"
+    ],
+    "cca2": "PG",
+    "ccn3": "598",
+    "cca3": "PNG",
+    "cioc": "PNG",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "PGK": {
+            "name": "Papua New Guinean kina",
+            "symbol": "K"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "75"
+        ]
+    },
+    "capital": [
+        "Port Moresby"
+    ],
+    "altSpellings": [
+        "PG",
+        "Independent State of Papua New Guinea",
+        "Independen Stet bilong Papua Niugini"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": {
+        "eng": "English",
+        "hmo": "Hiri Motu",
+        "tpi": "Tok Pisin"
+    },
+    "translations": {
+        "ces": {
+            "official": "Nezávislý stát Papua Nová Guinea",
+            "common": "Papua-Nová Guinea"
+        },
+        "deu": {
+            "official": "Unabhängiger Staat Papua-Neuguinea",
+            "common": "Papua-Neuguinea"
+        },
+        "fra": {
+            "official": "État indépendant de Papouasie-Nouvelle-Guinée",
+            "common": "Papouasie-Nouvelle-Guinée"
+        },
+        "hrv": {
+            "official": "Nezavisna Država Papui Novoj Gvineji",
+            "common": "Papua Nova Gvineja"
+        },
+        "ita": {
+            "official": "Stato indipendente di Papua Nuova Guinea",
+            "common": "Papua Nuova Guinea"
+        },
+        "jpn": {
+            "official": "パプアニューギニア独立国",
+            "common": "パプアニューギニア"
+        },
+        "nld": {
+            "official": "Onafhankelijke Staat Papoea -Nieuw-Guinea",
+            "common": "Papoea-Nieuw-Guinea"
+        },
+        "por": {
+            "official": "Estado Independente da Papua Nova Guiné",
+            "common": "Papua Nova Guiné"
+        },
+        "rus": {
+            "official": "Независимое Государство Папуа-Новой Гвинеи",
+            "common": "Папуа — Новая Гвинея"
+        },
+        "slk": {
+            "official": "Nezávislý štát Papua-Nová Guinea",
+            "common": "Papua-Nová Guinea"
+        },
+        "spa": {
+            "official": "Estado Independiente de Papúa Nueva Guinea",
+            "common": "Papúa Nueva Guinea"
+        },
+        "fin": {
+            "official": "Papua-Uuden-Guinean Itsenäinen valtio",
+            "common": "Papua-Uusi-Guinea"
+        },
+        "est": {
+            "official": "Paapua Uus-Guinea Iseseisvusriik",
+            "common": "Paapua Uus-Guinea"
+        },
+        "zho": {
+            "official": "巴布亚新几内亚",
+            "common": "巴布亚新几内亚"
+        },
+        "pol": {
+            "official": "Niezależne Państwo Papui-Nowej Gwinei",
+            "common": "Papua-Nowa Gwinea"
+        },
+        "urd": {
+            "official": "آزاد ریاستِ پاپوا نیو گنی",
+            "common": "پاپوا نیو گنی"
+        },
+        "kor": {
+            "official": "파푸아뉴기니 독립국",
+            "common": "파푸아뉴기니"
+        },
+        "per": {
+            "official": "مملکت مستقل پاپوآ گینهٔ نو",
+            "common": "پاپوآ گینه نو"
+        }
+    },
+    "latlng": [
+        -6,
+        147
+    ],
+    "landlocked": false,
+    "borders": [
+        "IDN"
+    ],
+    "area": 462840,
+    "flag": "🇵🇬",
+    "demonyms": {
+        "eng": {
+            "f": "Papua New Guinean",
+            "m": "Papua New Guinean"
+        },
+        "fra": {
+            "f": "Papouasienne",
+            "m": "Papouasien"
+        }
+    }
+}

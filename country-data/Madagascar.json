@@ -1,0 +1,144 @@
+{
+    "name": {
+        "common": "Madagascar",
+        "official": "Republic of Madagascar",
+        "native": {
+            "fra": {
+                "official": "République de Madagascar",
+                "common": "Madagascar"
+            },
+            "mlg": {
+                "official": "Repoblikan'i Madagasikara",
+                "common": "Madagasikara"
+            }
+        }
+    },
+    "tld": [
+        ".mg"
+    ],
+    "cca2": "MG",
+    "ccn3": "450",
+    "cca3": "MDG",
+    "cioc": "MAD",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "MGA": {
+            "name": "Malagasy ariary",
+            "symbol": "Ar"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "61"
+        ]
+    },
+    "capital": [
+        "Antananarivo"
+    ],
+    "altSpellings": [
+        "MG",
+        "Republic of Madagascar",
+        "Repoblikan'i Madagasikara",
+        "République de Madagascar"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "fra": "French",
+        "mlg": "Malagasy"
+    },
+    "translations": {
+        "ces": {
+            "official": "Madagaskarská republika",
+            "common": "Madagaskar"
+        },
+        "deu": {
+            "official": "Republik Madagaskar",
+            "common": "Madagaskar"
+        },
+        "fra": {
+            "official": "République de Madagascar",
+            "common": "Madagascar"
+        },
+        "hrv": {
+            "official": "Republika Madagaskar",
+            "common": "Madagaskar"
+        },
+        "ita": {
+            "official": "Repubblica del Madagascar",
+            "common": "Madagascar"
+        },
+        "jpn": {
+            "official": "マダガスカル共和国",
+            "common": "マダガスカル"
+        },
+        "nld": {
+            "official": "Republiek Madagaskar",
+            "common": "Madagaskar"
+        },
+        "por": {
+            "official": "República de Madagáscar",
+            "common": "Madagáscar"
+        },
+        "rus": {
+            "official": "Республика Мадагаскар",
+            "common": "Мадагаскар"
+        },
+        "slk": {
+            "official": "Madagaskarská republika",
+            "common": "Madagaskar"
+        },
+        "spa": {
+            "official": "República de Madagascar",
+            "common": "Madagascar"
+        },
+        "fin": {
+            "official": "Madagaskarin tasavalta",
+            "common": "Madagaskar"
+        },
+        "est": {
+            "official": "Madagaskari Vabariik",
+            "common": "Madagaskar"
+        },
+        "zho": {
+            "official": "马达加斯加共和国",
+            "common": "马达加斯加"
+        },
+        "pol": {
+            "official": "Republika Madagaskaru",
+            "common": "Madagaskar"
+        },
+        "urd": {
+            "official": "جمہوریہ مڈغاسکر",
+            "common": "مڈغاسکر"
+        },
+        "kor": {
+            "official": "마다가스카르 공화국",
+            "common": "마다가스카르"
+        },
+        "per": {
+            "official": "جمهوری ماداگاسکار",
+            "common": "ماداگاسکار"
+        }
+    },
+    "latlng": [
+        -20,
+        47
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 587041,
+    "flag": "🇲🇬",
+    "demonyms": {
+        "eng": {
+            "f": "Malagasy",
+            "m": "Malagasy"
+        },
+        "fra": {
+            "f": "Malgache",
+            "m": "Malgache"
+        }
+    }
+}

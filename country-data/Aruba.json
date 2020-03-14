@@ -1,0 +1,132 @@
+{
+    "name": {
+        "common": "Aruba",
+        "official": "Aruba",
+        "native": {
+            "nld": {
+                "official": "Aruba",
+                "common": "Aruba"
+            },
+            "pap": {
+                "official": "Aruba",
+                "common": "Aruba"
+            }
+        }
+    },
+    "tld": [
+        ".aw"
+    ],
+    "cca2": "AW",
+    "ccn3": "533",
+    "cca3": "ABW",
+    "cioc": "ARU",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "AWG": {
+            "name": "Aruban florin",
+            "symbol": "ƒ"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "97"
+        ]
+    },
+    "capital": [
+        "Oranjestad"
+    ],
+    "altSpellings": [
+        "AW"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "nld": "Dutch",
+        "pap": "Papiamento"
+    },
+    "translations": {
+        "ces": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "deu": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "fra": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "hrv": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "ita": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "jpn": {
+            "official": "アルバ",
+            "common": "アルバ"
+        },
+        "nld": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "por": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "rus": {
+            "official": "Аруба",
+            "common": "Аруба"
+        },
+        "slk": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "spa": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "fin": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "est": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "zho": {
+            "official": "阿鲁巴",
+            "common": "阿鲁巴"
+        },
+        "pol": {
+            "official": "Aruba",
+            "common": "Aruba"
+        },
+        "urd": {
+            "official": "اروبا",
+            "common": "اروبا"
+        },
+        "kor": {
+            "official": "아루바",
+            "common": "아루바"
+        },
+        "per": {
+            "official": "آروبا",
+            "common": "آروبا"
+        }
+    },
+    "latlng": [
+        12.5,
+        -69.96666666
+    ],
+    "demonym": "Aruban",
+    "landlocked": false,
+    "borders": [],
+    "area": 180,
+    "flag": "🇦🇼"
+}

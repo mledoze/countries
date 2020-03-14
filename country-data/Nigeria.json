@@ -1,0 +1,144 @@
+{
+    "name": {
+        "common": "Nigeria",
+        "official": "Federal Republic of Nigeria",
+        "native": {
+            "eng": {
+                "official": "Federal Republic of Nigeria",
+                "common": "Nigeria"
+            }
+        }
+    },
+    "tld": [
+        ".ng"
+    ],
+    "cca2": "NG",
+    "ccn3": "566",
+    "cca3": "NGA",
+    "cioc": "NGR",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "NGN": {
+            "name": "Nigerian naira",
+            "symbol": "₦"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "34"
+        ]
+    },
+    "capital": [
+        "Abuja"
+    ],
+    "altSpellings": [
+        "NG",
+        "Nijeriya",
+        "Naíjíríà",
+        "Federal Republic of Nigeria"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Nigerijská federativní republika",
+            "common": "Nigérie"
+        },
+        "deu": {
+            "official": "Bundesrepublik Nigeria",
+            "common": "Nigeria"
+        },
+        "fra": {
+            "official": "République fédérale du Nigeria",
+            "common": "Nigéria"
+        },
+        "hrv": {
+            "official": "Savezna Republika Nigerija",
+            "common": "Nigerija"
+        },
+        "ita": {
+            "official": "Repubblica federale di Nigeria",
+            "common": "Nigeria"
+        },
+        "jpn": {
+            "official": "ナイジェリア連邦共和国",
+            "common": "ナイジェリア"
+        },
+        "nld": {
+            "official": "Federale Republiek Nigeria",
+            "common": "Nigeria"
+        },
+        "por": {
+            "official": "República Federal da Nigéria",
+            "common": "Nigéria"
+        },
+        "rus": {
+            "official": "Федеративная Республика Нигерия",
+            "common": "Нигерия"
+        },
+        "slk": {
+            "official": "Nigérijská federatívna republika",
+            "common": "Nigéria"
+        },
+        "spa": {
+            "official": "República Federal de Nigeria",
+            "common": "Nigeria"
+        },
+        "fin": {
+            "official": "Nigerian liittotasavalta",
+            "common": "Nigeria"
+        },
+        "est": {
+            "official": "Nigeeria Liitvabariik",
+            "common": "Nigeeria"
+        },
+        "zho": {
+            "official": "尼日利亚联邦共和国",
+            "common": "尼日利亚"
+        },
+        "pol": {
+            "official": "Federalna Republika Nigerii",
+            "common": "Nigeria"
+        },
+        "urd": {
+            "official": "وفاقی جمہوریہ نائجیریا",
+            "common": "نائجیریا"
+        },
+        "kor": {
+            "official": "나이지리아 연방 공화국",
+            "common": "나이지리아"
+        },
+        "per": {
+            "official": "جمهوری فدرال نیجریه",
+            "common": "نیجریه"
+        }
+    },
+    "latlng": [
+        10,
+        8
+    ],
+    "landlocked": false,
+    "borders": [
+        "BEN",
+        "CMR",
+        "TCD",
+        "NER"
+    ],
+    "area": 923768,
+    "flag": "🇳🇬",
+    "demonyms": {
+        "eng": {
+            "f": "Nigerian",
+            "m": "Nigerian"
+        },
+        "fra": {
+            "f": "Nigériane",
+            "m": "Nigérian"
+        }
+    }
+}

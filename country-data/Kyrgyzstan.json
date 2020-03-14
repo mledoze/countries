@@ -1,0 +1,150 @@
+{
+    "name": {
+        "common": "Kyrgyzstan",
+        "official": "Kyrgyz Republic",
+        "native": {
+            "kir": {
+                "official": "Кыргыз Республикасы",
+                "common": "Кыргызстан"
+            },
+            "rus": {
+                "official": "Кыргызская Республика",
+                "common": "Киргизия"
+            }
+        }
+    },
+    "tld": [
+        ".kg"
+    ],
+    "cca2": "KG",
+    "ccn3": "417",
+    "cca3": "KGZ",
+    "cioc": "KGZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "KGS": {
+            "name": "Kyrgyzstani som",
+            "symbol": "с"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "96"
+        ]
+    },
+    "capital": [
+        "Bishkek"
+    ],
+    "altSpellings": [
+        "KG",
+        "Киргизия",
+        "Kyrgyz Republic",
+        "Кыргыз Республикасы",
+        "Kyrgyz Respublikasy"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+        "kir": "Kyrgyz",
+        "rus": "Russian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Kyrgyzská republika",
+            "common": "Kyrgyzstán"
+        },
+        "deu": {
+            "official": "Kirgisische Republik",
+            "common": "Kirgisistan"
+        },
+        "fra": {
+            "official": "République kirghize",
+            "common": "Kirghizistan"
+        },
+        "hrv": {
+            "official": "Kirgistanu",
+            "common": "Kirgistan"
+        },
+        "ita": {
+            "official": "Kirghizistan",
+            "common": "Kirghizistan"
+        },
+        "jpn": {
+            "official": "キルギス共和国",
+            "common": "キルギス"
+        },
+        "nld": {
+            "official": "Kirgizische Republiek",
+            "common": "Kirgizië"
+        },
+        "por": {
+            "official": "República do Quirguistão",
+            "common": "Quirguistão"
+        },
+        "rus": {
+            "official": "Кыргызская Республика",
+            "common": "Киргизия"
+        },
+        "slk": {
+            "official": "Kirgizská republika",
+            "common": "Kirgizsko"
+        },
+        "spa": {
+            "official": "República Kirguisa",
+            "common": "Kirguizistán"
+        },
+        "fin": {
+            "official": "Kirgisian tasavalta",
+            "common": "Kirgisia"
+        },
+        "est": {
+            "official": "Kirgiisi Vabariik",
+            "common": "Kõrgõzstan"
+        },
+        "zho": {
+            "official": "吉尔吉斯斯坦共和国",
+            "common": "吉尔吉斯斯坦"
+        },
+        "pol": {
+            "official": "Republika Kirgiska",
+            "common": "Kirgistan"
+        },
+        "urd": {
+            "official": "جمہوریہ کرغیزستان",
+            "common": "کرغیزستان"
+        },
+        "kor": {
+            "official": "키르기스 공화국",
+            "common": "키르기스스탄"
+        },
+        "per": {
+            "official": "جمهوری قِرقیزستان",
+            "common": "قرقیزستان"
+        }
+    },
+    "latlng": [
+        41,
+        75
+    ],
+    "landlocked": true,
+    "borders": [
+        "CHN",
+        "KAZ",
+        "TJK",
+        "UZB"
+    ],
+    "area": 199951,
+    "flag": "🇰🇬",
+    "demonyms": {
+        "eng": {
+            "f": "Kirghiz",
+            "m": "Kirghiz"
+        },
+        "fra": {
+            "f": "Kirghize",
+            "m": "Kirghize"
+        }
+    }
+}

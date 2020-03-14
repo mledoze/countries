@@ -1,0 +1,147 @@
+{
+    "name": {
+        "common": "Egypt",
+        "official": "Arab Republic of Egypt",
+        "native": {
+            "ara": {
+                "official": "جمهورية مصر العربية",
+                "common": "مصر"
+            }
+        }
+    },
+    "tld": [
+        ".eg",
+        ".مصر"
+    ],
+    "cca2": "EG",
+    "ccn3": "818",
+    "cca3": "EGY",
+    "cioc": "EGY",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "EGP": {
+            "name": "Egyptian pound",
+            "symbol": "£"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "0"
+        ]
+    },
+    "capital": [
+        "Cairo"
+    ],
+    "altSpellings": [
+        "EG",
+        "Arab Republic of Egypt"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+        "ara": "Arabic"
+    },
+    "translations": {
+        "ces": {
+            "official": "Egyptská arabská republika",
+            "common": "Egypt"
+        },
+        "cym": {
+            "official": "Gweriniaeth Arabaidd yr Aifft",
+            "common": "Yr Aifft"
+        },
+        "deu": {
+            "official": "Arabische Republik Ägypten",
+            "common": "Ägypten"
+        },
+        "fra": {
+            "official": "République arabe d'Égypte",
+            "common": "Égypte"
+        },
+        "hrv": {
+            "official": "Arapska Republika Egipat",
+            "common": "Egipat"
+        },
+        "ita": {
+            "official": "Repubblica araba d'Egitto",
+            "common": "Egitto"
+        },
+        "jpn": {
+            "official": "エジプト·アラブ共和国",
+            "common": "エジプト"
+        },
+        "nld": {
+            "official": "Arabische Republiek Egypte",
+            "common": "Egypte"
+        },
+        "por": {
+            "official": "República Árabe do Egipto",
+            "common": "Egito"
+        },
+        "rus": {
+            "official": "Арабская Республика Египет",
+            "common": "Египет"
+        },
+        "slk": {
+            "official": "Egyptská arabská republika",
+            "common": "Egypt"
+        },
+        "spa": {
+            "official": "República Árabe de Egipto",
+            "common": "Egipto"
+        },
+        "fin": {
+            "official": "Egyptin arabitasavalta",
+            "common": "Egypti"
+        },
+        "est": {
+            "official": "Egiptuse Araabia Vabariik",
+            "common": "Egiptus"
+        },
+        "zho": {
+            "official": "阿拉伯埃及共和国",
+            "common": "埃及"
+        },
+        "pol": {
+            "official": "Arabska Republika Egiptu",
+            "common": "Egipt"
+        },
+        "urd": {
+            "official": "مصری عرب جمہوریہ",
+            "common": "مصر"
+        },
+        "kor": {
+            "official": "이집트 아랍 공화국",
+            "common": "이집트"
+        },
+        "per": {
+            "official": "جمهوری عربی مصر",
+            "common": "مصر"
+        }
+    },
+    "latlng": [
+        27,
+        30
+    ],
+    "landlocked": false,
+    "borders": [
+        "ISR",
+        "LBY",
+        "PSE",
+        "SDN"
+    ],
+    "area": 1002450,
+    "flag": "🇪🇬",
+    "demonyms": {
+        "eng": {
+            "f": "Egyptian",
+            "m": "Egyptian"
+        },
+        "fra": {
+            "f": "Égyptienne",
+            "m": "Égyptien"
+        }
+    }
+}

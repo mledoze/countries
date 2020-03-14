@@ -1,0 +1,143 @@
+{
+    "name": {
+        "common": "Palau",
+        "official": "Republic of Palau",
+        "native": {
+            "eng": {
+                "official": "Republic of Palau",
+                "common": "Palau"
+            },
+            "pau": {
+                "official": "Beluu er a Belau",
+                "common": "Belau"
+            }
+        }
+    },
+    "tld": [
+        ".pw"
+    ],
+    "cca2": "PW",
+    "ccn3": "585",
+    "cca3": "PLW",
+    "cioc": "PLW",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "80"
+        ]
+    },
+    "capital": [
+        "Ngerulmud"
+    ],
+    "altSpellings": [
+        "PW",
+        "Republic of Palau",
+        "Beluu er a Belau"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": {
+        "eng": "English",
+        "pau": "Palauan"
+    },
+    "translations": {
+        "ces": {
+            "official": "Republika Palau",
+            "common": "Palau"
+        },
+        "deu": {
+            "official": "Republik Palau",
+            "common": "Palau"
+        },
+        "fra": {
+            "official": "République des Palaos (Palau)",
+            "common": "Palaos (Palau)"
+        },
+        "hrv": {
+            "official": "Republika Palau",
+            "common": "Palau"
+        },
+        "ita": {
+            "official": "Repubblica di Palau",
+            "common": "Palau"
+        },
+        "jpn": {
+            "official": "パラオ共和国",
+            "common": "パラオ"
+        },
+        "nld": {
+            "official": "Republiek van Palau",
+            "common": "Palau"
+        },
+        "por": {
+            "official": "República de Palau",
+            "common": "Palau"
+        },
+        "rus": {
+            "official": "Республика Палау",
+            "common": "Палау"
+        },
+        "slk": {
+            "official": "Palauská republika",
+            "common": "Palau"
+        },
+        "spa": {
+            "official": "República de Palau",
+            "common": "Palau"
+        },
+        "fin": {
+            "official": "Palaun tasavalta",
+            "common": "Palau"
+        },
+        "est": {
+            "official": "Belau Vabariik",
+            "common": "Belau"
+        },
+        "zho": {
+            "official": "帕劳共和国",
+            "common": "帕劳"
+        },
+        "pol": {
+            "official": "Republika Palau",
+            "common": "Palau"
+        },
+        "urd": {
+            "official": "جمہوریہ پلاؤ",
+            "common": "پلاؤ"
+        },
+        "kor": {
+            "official": "팔라우 공화국",
+            "common": "팔라우"
+        },
+        "per": {
+            "official": "جمهوری پالائو",
+            "common": "پالائو"
+        }
+    },
+    "latlng": [
+        7.5,
+        134.5
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 459,
+    "flag": "🇵🇼",
+    "demonyms": {
+        "eng": {
+            "f": "Palauan",
+            "m": "Palauan"
+        },
+        "fra": {
+            "f": "Paluane",
+            "m": "Paluan"
+        }
+    }
+}

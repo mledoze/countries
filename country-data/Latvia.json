@@ -1,0 +1,143 @@
+{
+    "name": {
+        "common": "Latvia",
+        "official": "Republic of Latvia",
+        "native": {
+            "lav": {
+                "official": "Latvijas Republikas",
+                "common": "Latvija"
+            }
+        }
+    },
+    "tld": [
+        ".lv"
+    ],
+    "cca2": "LV",
+    "ccn3": "428",
+    "cca3": "LVA",
+    "cioc": "LAT",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "71"
+        ]
+    },
+    "capital": [
+        "Riga"
+    ],
+    "altSpellings": [
+        "LV",
+        "Republic of Latvia",
+        "Latvijas Republika"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "lav": "Latvian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Lotyšská republika",
+            "common": "Lotyšsko"
+        },
+        "deu": {
+            "official": "Republik Lettland",
+            "common": "Lettland"
+        },
+        "fra": {
+            "official": "République de Lettonie",
+            "common": "Lettonie"
+        },
+        "hrv": {
+            "official": "Republika Latvija",
+            "common": "Latvija"
+        },
+        "ita": {
+            "official": "Repubblica di Lettonia",
+            "common": "Lettonia"
+        },
+        "jpn": {
+            "official": "ラトビア共和国",
+            "common": "ラトビア"
+        },
+        "nld": {
+            "official": "Republiek Letland",
+            "common": "Letland"
+        },
+        "por": {
+            "official": "República da Letónia",
+            "common": "Letónia"
+        },
+        "rus": {
+            "official": "Латвийская Республика",
+            "common": "Латвия"
+        },
+        "slk": {
+            "official": "Lotyšská republika",
+            "common": "Lotyšsko"
+        },
+        "spa": {
+            "official": "República de Letonia",
+            "common": "Letonia"
+        },
+        "fin": {
+            "official": "Latvian tasavalta",
+            "common": "Latvia"
+        },
+        "est": {
+            "official": "Läti Vabariik",
+            "common": "Läti"
+        },
+        "zho": {
+            "official": "拉脱维亚共和国",
+            "common": "拉脱维亚"
+        },
+        "pol": {
+            "official": "Republika Łotewska",
+            "common": "Łotwa"
+        },
+        "urd": {
+            "official": "جمہوریہ لٹویا",
+            "common": "لٹویا"
+        },
+        "kor": {
+            "official": "라트비아 공화국",
+            "common": "라트비아"
+        },
+        "per": {
+            "official": "جمهوری لتونی",
+            "common": "لتونی"
+        }
+    },
+    "latlng": [
+        57,
+        25
+    ],
+    "landlocked": false,
+    "borders": [
+        "BLR",
+        "EST",
+        "LTU",
+        "RUS"
+    ],
+    "area": 64559,
+    "flag": "🇱🇻",
+    "demonyms": {
+        "eng": {
+            "f": "Latvian",
+            "m": "Latvian"
+        },
+        "fra": {
+            "f": "Lettone",
+            "m": "Letton"
+        }
+    }
+}

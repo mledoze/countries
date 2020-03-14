@@ -1,0 +1,127 @@
+{
+    "name": {
+        "common": "Martinique",
+        "official": "Martinique",
+        "native": {
+            "fra": {
+                "official": "Martinique",
+                "common": "Martinique"
+            }
+        }
+    },
+    "tld": [
+        ".mq"
+    ],
+    "cca2": "MQ",
+    "ccn3": "474",
+    "cca3": "MTQ",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "96"
+        ]
+    },
+    "capital": [
+        "Fort-de-France"
+    ],
+    "altSpellings": [
+        "MQ"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ces": {
+            "official": "Martinik",
+            "common": "Martinik"
+        },
+        "deu": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "fra": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "hrv": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "ita": {
+            "official": "Martinique",
+            "common": "Martinica"
+        },
+        "jpn": {
+            "official": "マルティニーク島",
+            "common": "マルティニーク"
+        },
+        "nld": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "por": {
+            "official": "Martinique",
+            "common": "Martinica"
+        },
+        "rus": {
+            "official": "Мартиника",
+            "common": "Мартиника"
+        },
+        "spa": {
+            "official": "Martinica",
+            "common": "Martinica"
+        },
+        "slk": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "fin": {
+            "official": "Martinique",
+            "common": "Martinique"
+        },
+        "est": {
+            "official": "Martinique’i departemang",
+            "common": "Martinique"
+        },
+        "zho": {
+            "official": "马提尼克",
+            "common": "马提尼克"
+        },
+        "pol": {
+            "official": "Martynika",
+            "common": "Martynika"
+        },
+        "urd": {
+            "official": "مارٹینیک",
+            "common": "مارٹینیک"
+        },
+        "kor": {
+            "official": "마르티니크",
+            "common": "마르티니크"
+        },
+        "per": {
+            "official": "مارتینیک",
+            "common": "مارتینیک"
+        }
+    },
+    "latlng": [
+        14.666667,
+        -61
+    ],
+    "demonym": "French",
+    "landlocked": false,
+    "borders": [],
+    "area": 1128,
+    "flag": "🇲🇶"
+}

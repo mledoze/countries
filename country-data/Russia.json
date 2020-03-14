@@ -1,0 +1,159 @@
+{
+    "name": {
+        "common": "Russia",
+        "official": "Russian Federation",
+        "native": {
+            "rus": {
+                "official": "Российская Федерация",
+                "common": "Россия"
+            }
+        }
+    },
+    "tld": [
+        ".ru",
+        ".su",
+        ".рф"
+    ],
+    "cca2": "RU",
+    "ccn3": "643",
+    "cca3": "RUS",
+    "cioc": "RUS",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "RUB": {
+            "name": "Russian ruble",
+            "symbol": "₽"
+        }
+    },
+    "idd": {
+        "root": "+7",
+        "suffixes": [
+            "3XX",
+            "4XX",
+            "5XX",
+            "8XX",
+            "9XX"
+        ]
+    },
+    "capital": [
+        "Moscow"
+    ],
+    "altSpellings": [
+        "RU",
+        "Russian Federation",
+        "Российская Федерация"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": {
+        "rus": "Russian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Ruská federace",
+            "common": "Rusko"
+        },
+        "deu": {
+            "official": "Russische Föderation",
+            "common": "Russland"
+        },
+        "fra": {
+            "official": "Fédération de Russie",
+            "common": "Russie"
+        },
+        "hrv": {
+            "official": "Ruska Federacija",
+            "common": "Rusija"
+        },
+        "ita": {
+            "official": "Federazione russa",
+            "common": "Russia"
+        },
+        "jpn": {
+            "official": "ロシア連邦",
+            "common": "ロシア連邦"
+        },
+        "nld": {
+            "official": "Russische Federatie",
+            "common": "Rusland"
+        },
+        "por": {
+            "official": "Federação Russa",
+            "common": "Rússia"
+        },
+        "rus": {
+            "official": "Российская Федерация",
+            "common": "Россия"
+        },
+        "slk": {
+            "official": "Ruská federácia",
+            "common": "Rusko"
+        },
+        "spa": {
+            "official": "Federación de Rusia",
+            "common": "Rusia"
+        },
+        "fin": {
+            "official": "Venäjän federaatio",
+            "common": "Venäjä"
+        },
+        "est": {
+            "official": "Venemaa Föderatsioon",
+            "common": "Venemaa"
+        },
+        "zho": {
+            "official": "俄罗斯联邦",
+            "common": "俄罗斯"
+        },
+        "pol": {
+            "official": "Federacja Rosyjska",
+            "common": "Rosja"
+        },
+        "urd": {
+            "official": "روسی وفاق",
+            "common": "روس"
+        },
+        "kor": {
+            "official": "러시아 연방",
+            "common": "러시아"
+        },
+        "per": {
+            "official": "فدراسیون روسیه",
+            "common": "روسیه"
+        }
+    },
+    "latlng": [
+        60,
+        100
+    ],
+    "landlocked": false,
+    "borders": [
+        "AZE",
+        "BLR",
+        "CHN",
+        "EST",
+        "FIN",
+        "GEO",
+        "KAZ",
+        "PRK",
+        "LVA",
+        "LTU",
+        "MNG",
+        "NOR",
+        "POL",
+        "UKR"
+    ],
+    "area": 17098242,
+    "flag": "🇷🇺",
+    "demonyms": {
+        "eng": {
+            "f": "Russian",
+            "m": "Russian"
+        },
+        "fra": {
+            "f": "Russe",
+            "m": "Russe"
+        }
+    }
+}

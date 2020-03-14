@@ -1,0 +1,131 @@
+{
+    "name": {
+        "common": "Hong Kong",
+        "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "native": {
+            "eng": {
+                "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+                "common": "Hong Kong"
+            },
+            "zho": {
+                "official": "中华人民共和国香港特别行政区",
+                "common": "香港"
+            }
+        }
+    },
+    "tld": [
+        ".hk",
+        ".香港"
+    ],
+    "cca2": "HK",
+    "ccn3": "344",
+    "cca3": "HKG",
+    "cioc": "HKG",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "HKD": {
+            "name": "Hong Kong dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+8",
+        "suffixes": [
+            "52"
+        ]
+    },
+    "capital": [
+        "City of Victoria"
+    ],
+    "altSpellings": [
+        "HK"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+        "eng": "English",
+        "zho": "Chinese"
+    },
+    "translations": {
+        "ces": {
+            "official": "Zvláštní administrativní oblast Čínské lidové republiky Hongkong",
+            "common": "Hongkong"
+        },
+        "deu": {
+            "official": "Sonderverwaltungszone Hongkong der Volksrepublik China",
+            "common": "Hongkong"
+        },
+        "fra": {
+            "official": "Région administrative spéciale de Hong Kong de la République populaire de Chine",
+            "common": "Hong Kong"
+        },
+        "hrv": {
+            "official": "Hong Kong Posebnog upravnog područjaNarodne Republike Kine",
+            "common": "Hong Kong"
+        },
+        "ita": {
+            "official": "Hong Kong Regione amministrativa speciale della Repubblica Popolare Cinese",
+            "common": "Hong Kong"
+        },
+        "jpn": {
+            "official": "中華人民共和国香港特別行政区",
+            "common": "香港"
+        },
+        "nld": {
+            "official": "Hong Kong Speciale Administratieve Regio van de Volksrepubliek China",
+            "common": "Hongkong"
+        },
+        "por": {
+            "official": "Hong Kong Região Administrativa Especial da República Popular da China",
+            "common": "Hong Kong"
+        },
+        "rus": {
+            "official": "Hong Kong Специальный административный район Китайской Народной Республики Китая",
+            "common": "Гонконг"
+        },
+        "slk": {
+            "official": "Špeciálna administratívna oblasťČínskej ľudovej republiky Hongkong",
+            "common": "Hongkong"
+        },
+        "spa": {
+            "official": "Hong Kong Región Administrativa Especial de la República Popular China",
+            "common": "Hong Kong"
+        },
+        "fin": {
+            "official": "Hong Kongin erityishallintoalue",
+            "common": "Hongkong"
+        },
+        "est": {
+            "official": "Hongkongi erihalduspiirkond",
+            "common": "Hongkong"
+        },
+        "pol": {
+            "official": "Specjalny Region Administracyjny Chińskiej Republiki Ludowej Hongkong",
+            "common": "Hongkong"
+        },
+        "urd": {
+            "official": "ہانگ کانگ عوامی جمہوریہ چین کا خصوصی انتظامی علاقہ",
+            "common": "ہانگ کانگ"
+        },
+        "kor": {
+            "official": "중화인민공화국 홍콩 특별행정구",
+            "common": "홍콩"
+        },
+        "per": {
+            "official": "هُنگ کُنگ",
+            "common": "هُنگ کُنگ"
+        }
+    },
+    "latlng": [
+        22.267,
+        114.188
+    ],
+    "demonym": "Hong Konger",
+    "landlocked": false,
+    "borders": [
+        "CHN"
+    ],
+    "area": 1104,
+    "flag": "🇭🇰"
+}

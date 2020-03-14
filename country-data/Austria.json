@@ -1,0 +1,151 @@
+{
+    "name": {
+        "common": "Austria",
+        "official": "Republic of Austria",
+        "native": {
+            "bar": {
+                "official": "Republik Österreich",
+                "common": "Österreich"
+            }
+        }
+    },
+    "tld": [
+        ".at"
+    ],
+    "cca2": "AT",
+    "ccn3": "040",
+    "cca3": "AUT",
+    "cioc": "AUT",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "3"
+        ]
+    },
+    "capital": [
+        "Vienna"
+    ],
+    "altSpellings": [
+        "AT",
+        "Osterreich",
+        "Oesterreich"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": {
+        "bar": "Austro-Bavarian German"
+    },
+    "translations": {
+        "ces": {
+            "official": "Rakouská republika",
+            "common": "Rakousko"
+        },
+        "cym": {
+            "official": "Gweriniaeth Awstria",
+            "common": "Awstria"
+        },
+        "deu": {
+            "official": "Republik Österreich",
+            "common": "Österreich"
+        },
+        "fra": {
+            "official": "République d'Autriche",
+            "common": "Autriche"
+        },
+        "hrv": {
+            "official": "Republika Austrija",
+            "common": "Austrija"
+        },
+        "ita": {
+            "official": "Repubblica d'Austria",
+            "common": "Austria"
+        },
+        "jpn": {
+            "official": "オーストリア共和国",
+            "common": "オーストリア"
+        },
+        "nld": {
+            "official": "Republiek Oostenrijk",
+            "common": "Oostenrijk"
+        },
+        "por": {
+            "official": "República da Áustria",
+            "common": "Áustria"
+        },
+        "rus": {
+            "official": "Австрийская Республика",
+            "common": "Австрия"
+        },
+        "slk": {
+            "official": "Rakúska republika",
+            "common": "Rakúsko"
+        },
+        "spa": {
+            "official": "República de Austria",
+            "common": "Austria"
+        },
+        "fin": {
+            "official": "Itävallan tasavalta",
+            "common": "Itävalta"
+        },
+        "est": {
+            "official": "Austria Vabariik",
+            "common": "Austria"
+        },
+        "zho": {
+            "official": "奥地利共和国",
+            "common": "奥地利"
+        },
+        "pol": {
+            "official": "Republika Austrii",
+            "common": "Austria"
+        },
+        "urd": {
+            "official": "جمہوریہ آسٹریا",
+            "common": "آسٹریا"
+        },
+        "kor": {
+            "official": "오스트리아 공화국",
+            "common": "오스트리아"
+        },
+        "per": {
+            "official": "جمهوری اتریش",
+            "common": "اتریش"
+        }
+    },
+    "latlng": [
+        47.33333333,
+        13.33333333
+    ],
+    "landlocked": true,
+    "borders": [
+        "CZE",
+        "DEU",
+        "HUN",
+        "ITA",
+        "LIE",
+        "SVK",
+        "SVN",
+        "CHE"
+    ],
+    "area": 83871,
+    "flag": "🇦🇹",
+    "demonyms": {
+        "eng": {
+            "f": "Austrian",
+            "m": "Austrian"
+        },
+        "fra": {
+            "f": "Autrichienne",
+            "m": "Autrichien"
+        }
+    }
+}

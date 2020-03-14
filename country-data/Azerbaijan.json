@@ -1,0 +1,153 @@
+{
+    "name": {
+        "common": "Azerbaijan",
+        "official": "Republic of Azerbaijan",
+        "native": {
+            "aze": {
+                "official": "Azərbaycan Respublikası",
+                "common": "Azərbaycan"
+            },
+            "rus": {
+                "official": "Азербайджанская Республика",
+                "common": "Азербайджан"
+            }
+        }
+    },
+    "tld": [
+        ".az"
+    ],
+    "cca2": "AZ",
+    "ccn3": "031",
+    "cca3": "AZE",
+    "cioc": "AZE",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "AZN": {
+            "name": "Azerbaijani manat",
+            "symbol": "₼"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "94"
+        ]
+    },
+    "capital": [
+        "Baku"
+    ],
+    "altSpellings": [
+        "AZ",
+        "Republic of Azerbaijan",
+        "Azərbaycan Respublikası"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+        "aze": "Azerbaijani",
+        "rus": "Russian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Ázerbájdžánská republika",
+            "common": "Ázerbájdžán"
+        },
+        "cym": {
+            "official": "Gweriniaeth Aserbaijan",
+            "common": "Aserbaijan"
+        },
+        "deu": {
+            "official": "Republik Aserbaidschan",
+            "common": "Aserbaidschan"
+        },
+        "fra": {
+            "official": "République d'Azerbaïdjan",
+            "common": "Azerbaïdjan"
+        },
+        "hrv": {
+            "official": "Republika Azerbajdžan",
+            "common": "Azerbajdžan"
+        },
+        "ita": {
+            "official": "Repubblica dell'Azerbaigian",
+            "common": "Azerbaijan"
+        },
+        "jpn": {
+            "official": "アゼルバイジャン共和国",
+            "common": "アゼルバイジャン"
+        },
+        "nld": {
+            "official": "Republiek Azerbeidzjan",
+            "common": "Azerbeidzjan"
+        },
+        "por": {
+            "official": "República do Azerbaijão",
+            "common": "Azerbeijão"
+        },
+        "rus": {
+            "official": "Азербайджанская Республика",
+            "common": "Азербайджан"
+        },
+        "slk": {
+            "official": "Azerbajǆanská republika",
+            "common": "AzerbajǇan"
+        },
+        "spa": {
+            "official": "República de Azerbaiyán",
+            "common": "Azerbaiyán"
+        },
+        "fin": {
+            "official": "Azerbaidzanin tasavalta",
+            "common": "Azerbaidzan"
+        },
+        "est": {
+            "official": "Aserbaidžaani Vabariik",
+            "common": "Aserbaidžaan"
+        },
+        "zho": {
+            "official": "阿塞拜疆共和国",
+            "common": "阿塞拜疆"
+        },
+        "pol": {
+            "official": "Republika Azerbejdżanu",
+            "common": "Azerbejdżan"
+        },
+        "urd": {
+            "official": "جمہوریہ آذربائیجان",
+            "common": "آذربائیجان"
+        },
+        "kor": {
+            "official": "아제르바이잔 공화국",
+            "common": "아제르바이잔"
+        },
+        "per": {
+            "official": "جمهوری آذربایجان",
+            "common": "جمهوری آذربایجان"
+        }
+    },
+    "latlng": [
+        40.5,
+        47.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "ARM",
+        "GEO",
+        "IRN",
+        "RUS",
+        "TUR"
+    ],
+    "area": 86600,
+    "flag": "🇦🇿",
+    "demonyms": {
+        "eng": {
+            "f": "Azerbaijani",
+            "m": "Azerbaijani"
+        },
+        "fra": {
+            "f": "Azerbaïdjanaise",
+            "m": "Azerbaïdjanais"
+        }
+    }
+}

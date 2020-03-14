@@ -1,0 +1,127 @@
+{
+    "name": {
+        "common": "Anguilla",
+        "official": "Anguilla",
+        "native": {
+            "eng": {
+                "official": "Anguilla",
+                "common": "Anguilla"
+            }
+        }
+    },
+    "tld": [
+        ".ai"
+    ],
+    "cca2": "AI",
+    "ccn3": "660",
+    "cca3": "AIA",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "XCD": {
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "264"
+        ]
+    },
+    "capital": [
+        "The Valley"
+    ],
+    "altSpellings": [
+        "AI"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "deu": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "fra": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "hrv": {
+            "official": "Anguilla",
+            "common": "Angvila"
+        },
+        "ita": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "jpn": {
+            "official": "アングィラ",
+            "common": "アンギラ"
+        },
+        "nld": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "por": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "rus": {
+            "official": "Ангилья",
+            "common": "Ангилья"
+        },
+        "slk": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "spa": {
+            "official": "Anguila",
+            "common": "Anguilla"
+        },
+        "fin": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "est": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "zho": {
+            "official": "安圭拉",
+            "common": "安圭拉"
+        },
+        "pol": {
+            "official": "Anguilla",
+            "common": "Anguilla"
+        },
+        "urd": {
+            "official": "اینگویلا",
+            "common": "اینگویلا"
+        },
+        "kor": {
+            "official": "앵귈라",
+            "common": "앵귈라"
+        },
+        "per": {
+            "official": "آنگویلا",
+            "common": "آنگویلا"
+        }
+    },
+    "latlng": [
+        18.25,
+        -63.16666666
+    ],
+    "demonym": "Anguillian",
+    "landlocked": false,
+    "borders": [],
+    "area": 91,
+    "flag": "🇦🇮"
+}

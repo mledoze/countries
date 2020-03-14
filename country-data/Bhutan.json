@@ -1,0 +1,148 @@
+{
+    "name": {
+        "common": "Bhutan",
+        "official": "Kingdom of Bhutan",
+        "native": {
+            "dzo": {
+                "official": "འབྲུག་རྒྱལ་ཁབ་",
+                "common": "འབྲུག་ཡུལ་"
+            }
+        }
+    },
+    "tld": [
+        ".bt"
+    ],
+    "cca2": "BT",
+    "ccn3": "064",
+    "cca3": "BTN",
+    "cioc": "BHU",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "BTN": {
+            "name": "Bhutanese ngultrum",
+            "symbol": "Nu."
+        },
+        "INR": {
+            "name": "Indian rupee",
+            "symbol": "₹"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "75"
+        ]
+    },
+    "capital": [
+        "Thimphu"
+    ],
+    "altSpellings": [
+        "BT",
+        "Kingdom of Bhutan"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+        "dzo": "Dzongkha"
+    },
+    "translations": {
+        "ces": {
+            "official": "Bhútánské království",
+            "common": "Bhútán"
+        },
+        "cym": {
+            "official": "Teyrnas Bhwtan",
+            "common": "Bhwtan"
+        },
+        "deu": {
+            "official": "Königreich Bhutan",
+            "common": "Bhutan"
+        },
+        "fra": {
+            "official": "Royaume du Bhoutan",
+            "common": "Bhoutan"
+        },
+        "hrv": {
+            "official": "Kraljevina Butan",
+            "common": "Butan"
+        },
+        "ita": {
+            "official": "Regno del Bhutan",
+            "common": "Bhutan"
+        },
+        "jpn": {
+            "official": "ブータン王国",
+            "common": "ブータン"
+        },
+        "nld": {
+            "official": "Koninkrijk Bhutan",
+            "common": "Bhutan"
+        },
+        "por": {
+            "official": "Reino do Butão",
+            "common": "Butão"
+        },
+        "rus": {
+            "official": "Королевство Бутан",
+            "common": "Бутан"
+        },
+        "slk": {
+            "official": "Bhutánske krâľovstvo",
+            "common": "Bhután"
+        },
+        "spa": {
+            "official": "Reino de Bután",
+            "common": "Bután"
+        },
+        "fin": {
+            "official": "Bhutanin kuningaskunta",
+            "common": "Bhutan"
+        },
+        "est": {
+            "official": "Bhutani Kuningriik",
+            "common": "Bhutan"
+        },
+        "zho": {
+            "official": "不丹王国",
+            "common": "不丹"
+        },
+        "pol": {
+            "official": "Bhutan",
+            "common": "Bhutan"
+        },
+        "urd": {
+            "official": "سلطنت بھوٹان",
+            "common": "بھوٹان"
+        },
+        "kor": {
+            "official": "부탄 왕국",
+            "common": "부탄"
+        },
+        "per": {
+            "official": "پادشاهی بوتان",
+            "common": "بوتان"
+        }
+    },
+    "latlng": [
+        27.5,
+        90.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "CHN",
+        "IND"
+    ],
+    "area": 38394,
+    "flag": "🇧🇹",
+    "demonyms": {
+        "eng": {
+            "f": "Bhutanese",
+            "m": "Bhutanese"
+        },
+        "fra": {
+            "f": "Bhoutanaise",
+            "m": "Bhoutanais"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "name": {
+        "common": "Luxembourg",
+        "official": "Grand Duchy of Luxembourg",
+        "native": {
+            "deu": {
+                "official": "Großherzogtum Luxemburg",
+                "common": "Luxemburg"
+            },
+            "fra": {
+                "official": "Grand-Duché de Luxembourg",
+                "common": "Luxembourg"
+            },
+            "ltz": {
+                "official": "Groussherzogtum Lëtzebuerg",
+                "common": "Lëtzebuerg"
+            }
+        }
+    },
+    "tld": [
+        ".lu"
+    ],
+    "cca2": "LU",
+    "ccn3": "442",
+    "cca3": "LUX",
+    "cioc": "LUX",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "52"
+        ]
+    },
+    "capital": [
+        "Luxembourg"
+    ],
+    "altSpellings": [
+        "LU",
+        "Grand Duchy of Luxembourg",
+        "Grand-Duché de Luxembourg",
+        "Großherzogtum Luxemburg",
+        "Groussherzogtum Lëtzebuerg"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": {
+        "deu": "German",
+        "fra": "French",
+        "ltz": "Luxembourgish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Lucemburské velkovévodství",
+            "common": "Lucembursko"
+        },
+        "deu": {
+            "official": "Großherzogtum Luxemburg,",
+            "common": "Luxemburg"
+        },
+        "fra": {
+            "official": "Grand-Duché de Luxembourg",
+            "common": "Luxembourg"
+        },
+        "hrv": {
+            "official": "Veliko Vojvodstvo Luksemburg",
+            "common": "Luksemburg"
+        },
+        "ita": {
+            "official": "Granducato di Lussemburgo",
+            "common": "Lussemburgo"
+        },
+        "jpn": {
+            "official": "ルクセンブルク大公国",
+            "common": "ルクセンブルク"
+        },
+        "nld": {
+            "official": "Groothertogdom Luxemburg",
+            "common": "Luxemburg"
+        },
+        "por": {
+            "official": "Grão-Ducado do Luxemburgo",
+            "common": "Luxemburgo"
+        },
+        "rus": {
+            "official": "Великое Герцогство Люксембург",
+            "common": "Люксембург"
+        },
+        "slk": {
+            "official": "Luxemburské veľkovojvodstvo",
+            "common": "Luxembursko"
+        },
+        "spa": {
+            "official": "Gran Ducado de Luxemburgo",
+            "common": "Luxemburgo"
+        },
+        "fin": {
+            "official": "Luxemburgin suurherttuakunta",
+            "common": "Luxemburg"
+        },
+        "est": {
+            "official": "Luksemburgi Suurhertsogiriik",
+            "common": "Luksemburg"
+        },
+        "zho": {
+            "official": "卢森堡大公国",
+            "common": "卢森堡"
+        },
+        "pol": {
+            "official": "Wielkie Księstwo Luksemburga",
+            "common": "Luksemburg"
+        },
+        "urd": {
+            "official": "دوقیہ کبیرلکسمبرگ",
+            "common": "لکسمبرگ"
+        },
+        "kor": {
+            "official": "룩셈부르크 대공국",
+            "common": "룩셈부르크"
+        },
+        "per": {
+            "official": "دوک‌نشین لوکزامبورگ",
+            "common": "لوکزامبورگ"
+        }
+    },
+    "latlng": [
+        49.75,
+        6.16666666
+    ],
+    "landlocked": true,
+    "borders": [
+        "BEL",
+        "FRA",
+        "DEU"
+    ],
+    "area": 2586,
+    "flag": "🇱🇺",
+    "demonyms": {
+        "eng": {
+            "f": "Luxembourger",
+            "m": "Luxembourger"
+        },
+        "fra": {
+            "f": "Luxembourgeoise",
+            "m": "Luxembourgeois"
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "name": {
+        "common": "Tokelau",
+        "official": "Tokelau",
+        "native": {
+            "eng": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
+            "smo": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
+            "tkl": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            }
+        }
+    },
+    "tld": [
+        ".tk"
+    ],
+    "cca2": "TK",
+    "ccn3": "772",
+    "cca3": "TKL",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "NZD": {
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "90"
+        ]
+    },
+    "capital": [
+        "Fakaofo"
+    ],
+    "altSpellings": [
+        "TK"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+        "eng": "English",
+        "smo": "Samoan",
+        "tkl": "Tokelauan"
+    },
+    "translations": {
+        "ces": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+        },
+        "deu": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+        },
+        "fra": {
+            "official": "Îles Tokelau",
+            "common": "Tokelau"
+        },
+        "hrv": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+        },
+        "ita": {
+            "official": "Tokelau",
+            "common": "Isole Tokelau"
+        },
+        "jpn": {
+            "official": "トケラウ諸島",
+            "common": "トケラウ"
+        },
+        "nld": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+        },
+        "por": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+        },
+        "rus": {
+            "official": "Токелау",
+            "common": "Токелау"
+        },
+        "slk": {
+            "official": "Tokelauské ostrovy",
+            "common": "Tokelau"
+        },
+        "spa": {
+            "official": "Tokelau",
+            "common": "Islas Tokelau"
+        },
+        "fin": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+        },
+        "est": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+        },
+        "zho": {
+            "official": "托克劳",
+            "common": "托克劳"
+        },
+        "pol": {
+            "official": "Tokelau",
+            "common": "Tokelau"
+        },
+        "urd": {
+            "official": "ٹوکیلاؤ",
+            "common": "ٹوکیلاؤ"
+        },
+        "kor": {
+            "official": "토켈라우",
+            "common": "토켈라우"
+        },
+        "per": {
+            "official": "توکلائو",
+            "common": "توکلائو"
+        }
+    },
+    "latlng": [
+        -9,
+        -172
+    ],
+    "demonym": "Tokelauan",
+    "landlocked": false,
+    "borders": [],
+    "area": 12,
+    "flag": "🇹🇰"
+}

@@ -1,0 +1,127 @@
+{
+    "name": {
+        "common": "New Caledonia",
+        "official": "New Caledonia",
+        "native": {
+            "fra": {
+                "official": "Nouvelle-Calédonie",
+                "common": "Nouvelle-Calédonie"
+            }
+        }
+    },
+    "tld": [
+        ".nc"
+    ],
+    "cca2": "NC",
+    "ccn3": "540",
+    "cca3": "NCL",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "XPF": {
+            "name": "CFP franc",
+            "symbol": "₣"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "87"
+        ]
+    },
+    "capital": [
+        "Nouméa"
+    ],
+    "altSpellings": [
+        "NC"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ces": {
+            "official": "Nová Kaledonie",
+            "common": "Nová Kaledonie"
+        },
+        "deu": {
+            "official": "Neukaledonien",
+            "common": "Neukaledonien"
+        },
+        "fra": {
+            "official": "Nouvelle-Calédonie",
+            "common": "Nouvelle-Calédonie"
+        },
+        "hrv": {
+            "official": "Nova Kaledonija",
+            "common": "Nova Kaledonija"
+        },
+        "ita": {
+            "official": "Nuova Caledonia",
+            "common": "Nuova Caledonia"
+        },
+        "jpn": {
+            "official": "ニューカレドニア",
+            "common": "ニューカレドニア"
+        },
+        "nld": {
+            "official": "nieuw -Caledonië",
+            "common": "Nieuw-Caledonië"
+        },
+        "por": {
+            "official": "New Caledonia",
+            "common": "Nova Caledónia"
+        },
+        "rus": {
+            "official": "Новая Каледония",
+            "common": "Новая Каледония"
+        },
+        "slk": {
+            "official": "Nová Kaledónia",
+            "common": "Nová Kaledónia"
+        },
+        "spa": {
+            "official": "nueva Caledonia",
+            "common": "Nueva Caledonia"
+        },
+        "fin": {
+            "official": "Uusi-Kaledonia",
+            "common": "Uusi-Kaledonia"
+        },
+        "est": {
+            "official": "Uus-Kaledoonia",
+            "common": "Uus-Kaledoonia"
+        },
+        "zho": {
+            "official": "新喀里多尼亚",
+            "common": "新喀里多尼亚"
+        },
+        "pol": {
+            "official": "Nowa Kaledonia",
+            "common": "Nowa Kaledonia"
+        },
+        "urd": {
+            "official": "نیو کیلیڈونیا",
+            "common": "نیو کیلیڈونیا"
+        },
+        "kor": {
+            "official": "누벨칼레도니",
+            "common": "누벨칼레도니"
+        },
+        "per": {
+            "official": "کالدونیای جدید",
+            "common": "کالدونیای جدید"
+        }
+    },
+    "latlng": [
+        -21.5,
+        165.5
+    ],
+    "demonym": "New Caledonian",
+    "landlocked": false,
+    "borders": [],
+    "area": 18575,
+    "flag": "🇳🇨"
+}

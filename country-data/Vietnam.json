@@ -1,0 +1,143 @@
+{
+    "name": {
+        "common": "Vietnam",
+        "official": "Socialist Republic of Vietnam",
+        "native": {
+            "vie": {
+                "official": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+                "common": "Việt Nam"
+            }
+        }
+    },
+    "tld": [
+        ".vn"
+    ],
+    "cca2": "VN",
+    "ccn3": "704",
+    "cca3": "VNM",
+    "cioc": "VIE",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "VND": {
+            "name": "Vietnamese đồng",
+            "symbol": "₫"
+        }
+    },
+    "idd": {
+        "root": "+8",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "Hanoi"
+    ],
+    "altSpellings": [
+        "VN",
+        "Socialist Republic of Vietnam",
+        "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+        "Viet Nam"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+        "vie": "Vietnamese"
+    },
+    "translations": {
+        "ces": {
+            "official": "Vietnamská socialistická republika",
+            "common": "Vietnam"
+        },
+        "deu": {
+            "official": "Sozialistische Republik Vietnam",
+            "common": "Vietnam"
+        },
+        "fra": {
+            "official": "République socialiste du Viêt Nam",
+            "common": "Viêt Nam"
+        },
+        "hrv": {
+            "official": "Socijalistička Republika Vijetnam",
+            "common": "Vijetnam"
+        },
+        "ita": {
+            "official": "Repubblica socialista del Vietnam",
+            "common": "Vietnam"
+        },
+        "jpn": {
+            "official": "ベトナム社会主義共和国",
+            "common": "ベトナム"
+        },
+        "nld": {
+            "official": "Socialistische Republiek Vietnam",
+            "common": "Vietnam"
+        },
+        "por": {
+            "official": "República Socialista do Vietname",
+            "common": "Vietname"
+        },
+        "rus": {
+            "official": "Социалистическая Республика Вьетнам",
+            "common": "Вьетнам"
+        },
+        "slk": {
+            "official": "Vietnamská socialistická republika",
+            "common": "Vietnam"
+        },
+        "spa": {
+            "official": "República Socialista de Vietnam",
+            "common": "Vietnam"
+        },
+        "fin": {
+            "official": "Vietnamin sosialistinen tasavalta",
+            "common": "Vietnam"
+        },
+        "est": {
+            "official": "Vietnami Sotsialistlik Vabariik",
+            "common": "Vietnam"
+        },
+        "zho": {
+            "official": "越南社会主义共和国",
+            "common": "越南"
+        },
+        "pol": {
+            "official": "Socjalistyczna Republika Wietnamu",
+            "common": "Wietnam"
+        },
+        "urd": {
+            "official": "اشتراکی جمہوریہ ویتنام",
+            "common": "ویتنام"
+        },
+        "kor": {
+            "official": "베트남 사회주의 공화국",
+            "common": "베트남"
+        },
+        "per": {
+            "official": "جمهوری سوسیالیستی ویتنام",
+            "common": "ویتنام"
+        }
+    },
+    "latlng": [
+        16.16666666,
+        107.83333333
+    ],
+    "landlocked": false,
+    "borders": [
+        "KHM",
+        "CHN",
+        "LAO"
+    ],
+    "area": 331212,
+    "flag": "🇻🇳",
+    "demonyms": {
+        "eng": {
+            "f": "Vietnamese",
+            "m": "Vietnamese"
+        },
+        "fra": {
+            "f": "Vietnamienne",
+            "m": "Vietnamien"
+        }
+    }
+}

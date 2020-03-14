@@ -1,0 +1,139 @@
+{
+    "name": {
+        "common": "Mongolia",
+        "official": "Mongolia",
+        "native": {
+            "mon": {
+                "official": "Монгол улс",
+                "common": "Монгол улс"
+            }
+        }
+    },
+    "tld": [
+        ".mn"
+    ],
+    "cca2": "MN",
+    "ccn3": "496",
+    "cca3": "MNG",
+    "cioc": "MGL",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "MNT": {
+            "name": "Mongolian tögrög",
+            "symbol": "₮"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "76"
+        ]
+    },
+    "capital": [
+        "Ulan Bator"
+    ],
+    "altSpellings": [
+        "MN"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+        "mon": "Mongolian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Stát Mongolsko",
+            "common": "Mongolsko"
+        },
+        "deu": {
+            "official": "Mongolei",
+            "common": "Mongolei"
+        },
+        "fra": {
+            "official": "Mongolie",
+            "common": "Mongolie"
+        },
+        "hrv": {
+            "official": "Mongolija",
+            "common": "Mongolija"
+        },
+        "ita": {
+            "official": "Mongolia",
+            "common": "Mongolia"
+        },
+        "jpn": {
+            "official": "モンゴル",
+            "common": "モンゴル"
+        },
+        "nld": {
+            "official": "Mongolië",
+            "common": "Mongolië"
+        },
+        "por": {
+            "official": "Mongólia",
+            "common": "Mongólia"
+        },
+        "rus": {
+            "official": "Монголия",
+            "common": "Монголия"
+        },
+        "slk": {
+            "official": "Mongolsko",
+            "common": "Mongolsko"
+        },
+        "spa": {
+            "official": "Mongolia",
+            "common": "Mongolia"
+        },
+        "fin": {
+            "official": "Mongolian tasavalta",
+            "common": "Mongolia"
+        },
+        "est": {
+            "official": "Mongoolia",
+            "common": "Mongoolia"
+        },
+        "zho": {
+            "official": "蒙古",
+            "common": "蒙古"
+        },
+        "pol": {
+            "official": "Mongolia",
+            "common": "Mongolia"
+        },
+        "urd": {
+            "official": "منگولیا",
+            "common": "منگولیا"
+        },
+        "kor": {
+            "official": "몽골",
+            "common": "몽골국"
+        },
+        "per": {
+            "official": "مغولستان",
+            "common": "مغولستان"
+        }
+    },
+    "latlng": [
+        46,
+        105
+    ],
+    "landlocked": true,
+    "borders": [
+        "CHN",
+        "RUS"
+    ],
+    "area": 1564110,
+    "flag": "🇲🇳",
+    "demonyms": {
+        "eng": {
+            "f": "Mongolian",
+            "m": "Mongolian"
+        },
+        "fra": {
+            "f": "Mongole",
+            "m": "Mongol"
+        }
+    }
+}

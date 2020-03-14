@@ -1,0 +1,141 @@
+{
+    "name": {
+        "common": "Yemen",
+        "official": "Republic of Yemen",
+        "native": {
+            "ara": {
+                "official": "الجمهورية اليمنية",
+                "common": "اليَمَن"
+            }
+        }
+    },
+    "tld": [
+        ".ye"
+    ],
+    "cca2": "YE",
+    "ccn3": "887",
+    "cca3": "YEM",
+    "cioc": "YEM",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "YER": {
+            "name": "Yemeni rial",
+            "symbol": "﷼"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "67"
+        ]
+    },
+    "capital": [
+        "Sana'a"
+    ],
+    "altSpellings": [
+        "YE",
+        "Yemeni Republic",
+        "al-Jumhūriyyah al-Yamaniyyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+        "ara": "Arabic"
+    },
+    "translations": {
+        "ces": {
+            "official": "Jemenská republika",
+            "common": "Jemen"
+        },
+        "deu": {
+            "official": "Republik Jemen",
+            "common": "Jemen"
+        },
+        "fra": {
+            "official": "République du Yémen",
+            "common": "Yémen"
+        },
+        "hrv": {
+            "official": "Republika Jemen",
+            "common": "Jemen"
+        },
+        "ita": {
+            "official": "Repubblica dello Yemen",
+            "common": "Yemen"
+        },
+        "jpn": {
+            "official": "イエメン共和国",
+            "common": "イエメン"
+        },
+        "nld": {
+            "official": "Republiek Jemen",
+            "common": "Jemen"
+        },
+        "por": {
+            "official": "República do Iêmen",
+            "common": "Iémen"
+        },
+        "rus": {
+            "official": "Йеменская Республика",
+            "common": "Йемен"
+        },
+        "slk": {
+            "official": "Jemenská republika",
+            "common": "Jemen"
+        },
+        "spa": {
+            "official": "República de Yemen",
+            "common": "Yemen"
+        },
+        "fin": {
+            "official": "Jemenin tasavalta",
+            "common": "Jemen"
+        },
+        "est": {
+            "official": "Jeemeni Vabariik",
+            "common": "Jeemen"
+        },
+        "zho": {
+            "official": "也门共和国",
+            "common": "也门"
+        },
+        "pol": {
+            "official": "Republika Jemeńska",
+            "common": "Jemen"
+        },
+        "urd": {
+            "official": "جمہوریہ یمن",
+            "common": "یمن"
+        },
+        "kor": {
+            "official": "예멘 공화국",
+            "common": "예멘"
+        },
+        "per": {
+            "official": "جمهوری یمن",
+            "common": "یمن"
+        }
+    },
+    "latlng": [
+        15,
+        48
+    ],
+    "landlocked": false,
+    "borders": [
+        "OMN",
+        "SAU"
+    ],
+    "area": 527968,
+    "flag": "🇾🇪",
+    "demonyms": {
+        "eng": {
+            "f": "Yemeni",
+            "m": "Yemeni"
+        },
+        "fra": {
+            "f": "Yéménite",
+            "m": "Yéménite"
+        }
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "name": {
+        "common": "Netherlands",
+        "official": "Kingdom of the Netherlands",
+        "native": {
+            "nld": {
+                "official": "Koninkrijk der Nederlanden",
+                "common": "Nederland"
+            }
+        }
+    },
+    "tld": [
+        ".nl"
+    ],
+    "cca2": "NL",
+    "ccn3": "528",
+    "cca3": "NLD",
+    "cioc": "NED",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "1"
+        ]
+    },
+    "capital": [
+        "Amsterdam"
+    ],
+    "altSpellings": [
+        "NL",
+        "Holland",
+        "Nederland",
+        "The Netherlands"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": {
+        "nld": "Dutch"
+    },
+    "translations": {
+        "ces": {
+            "official": "Nizozemské království",
+            "common": "Nizozemsko"
+        },
+        "deu": {
+            "official": "Niederlande",
+            "common": "Niederlande"
+        },
+        "fra": {
+            "official": "Pays-Bas",
+            "common": "Pays-Bas"
+        },
+        "hrv": {
+            "official": "Holandija",
+            "common": "Nizozemska"
+        },
+        "ita": {
+            "official": "Paesi Bassi",
+            "common": "Paesi Bassi"
+        },
+        "jpn": {
+            "official": "オランダ",
+            "common": "オランダ"
+        },
+        "nld": {
+            "official": "Nederland",
+            "common": "Nederland"
+        },
+        "por": {
+            "official": "Holanda",
+            "common": "Holanda"
+        },
+        "rus": {
+            "official": "Нидерланды",
+            "common": "Нидерланды"
+        },
+        "slk": {
+            "official": "Holandské kráľovstvo",
+            "common": "Holansko"
+        },
+        "spa": {
+            "official": "Países Bajos",
+            "common": "Países Bajos"
+        },
+        "fin": {
+            "official": "Alankomaat",
+            "common": "Alankomaat"
+        },
+        "est": {
+            "official": "Madalmaade Kuningriik",
+            "common": "Holland"
+        },
+        "zho": {
+            "official": "荷兰",
+            "common": "荷兰"
+        },
+        "pol": {
+            "official": "Królestwo Niderlandów",
+            "common": "Holandia"
+        },
+        "urd": {
+            "official": "مملکتِ نیدرلینڈز",
+            "common": "نیدرلینڈز"
+        },
+        "kor": {
+            "official": "네덜란드 왕국",
+            "common": "네덜란드"
+        },
+        "per": {
+            "official": "هلند",
+            "common": "هلند"
+        }
+    },
+    "latlng": [
+        52.5,
+        5.75
+    ],
+    "landlocked": false,
+    "borders": [
+        "BEL",
+        "DEU"
+    ],
+    "area": 41850,
+    "flag": "🇳🇱",
+    "demonyms": {
+        "eng": {
+            "f": "Dutch",
+            "m": "Dutch"
+        },
+        "fra": {
+            "f": "Néerlandaise",
+            "m": "Néerlandais"
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "name": {
+        "common": "Denmark",
+        "official": "Kingdom of Denmark",
+        "native": {
+            "dan": {
+                "official": "Kongeriget Danmark",
+                "common": "Danmark"
+            }
+        }
+    },
+    "tld": [
+        ".dk"
+    ],
+    "cca2": "DK",
+    "ccn3": "208",
+    "cca3": "DNK",
+    "cioc": "DEN",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "DKK": {
+            "name": "Danish krone",
+            "symbol": "kr"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "5"
+        ]
+    },
+    "capital": [
+        "Copenhagen"
+    ],
+    "altSpellings": [
+        "DK",
+        "Danmark",
+        "Kingdom of Denmark",
+        "Kongeriget Danmark"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "dan": "Danish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Dánské království",
+            "common": "Dánsko"
+        },
+        "cym": {
+            "official": "Teyrnas Denmarc",
+            "common": "Denmarc"
+        },
+        "deu": {
+            "official": "Königreich Dänemark",
+            "common": "Dänemark"
+        },
+        "fra": {
+            "official": "Royaume du Danemark",
+            "common": "Danemark"
+        },
+        "hrv": {
+            "official": "Kraljevina Danska",
+            "common": "Danska"
+        },
+        "ita": {
+            "official": "Regno di Danimarca",
+            "common": "Danimarca"
+        },
+        "jpn": {
+            "official": "デンマーク王国",
+            "common": "デンマーク"
+        },
+        "nld": {
+            "official": "Koninkrijk Denemarken",
+            "common": "Denemarken"
+        },
+        "por": {
+            "official": "Reino da Dinamarca",
+            "common": "Dinamarca"
+        },
+        "rus": {
+            "official": "Королевство Дания",
+            "common": "Дания"
+        },
+        "slk": {
+            "official": "Dánske kráľovstvo",
+            "common": "Dánsko"
+        },
+        "spa": {
+            "official": "Reino de Dinamarca",
+            "common": "Dinamarca"
+        },
+        "fin": {
+            "official": "Tanskan kuningaskunta",
+            "common": "Tanska"
+        },
+        "est": {
+            "official": "Taani Kuningriik",
+            "common": "Taani"
+        },
+        "zho": {
+            "official": "丹麦王国",
+            "common": "丹麦"
+        },
+        "pol": {
+            "official": "Królestwo Danii",
+            "common": "Dania"
+        },
+        "urd": {
+            "official": "مملکتِ ڈنمارک",
+            "common": "ڈنمارک"
+        },
+        "kor": {
+            "official": "덴마크 왕국",
+            "common": "덴마크"
+        },
+        "per": {
+            "official": "پادشاهی دانمارک",
+            "common": "دانمارک"
+        }
+    },
+    "latlng": [
+        56,
+        10
+    ],
+    "landlocked": false,
+    "borders": [
+        "DEU"
+    ],
+    "area": 43094,
+    "flag": "🇩🇰",
+    "demonyms": {
+        "eng": {
+            "f": "Danish",
+            "m": "Danish"
+        },
+        "fra": {
+            "f": "Danoise",
+            "m": "Danois"
+        }
+    }
+}

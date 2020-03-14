@@ -1,0 +1,130 @@
+{
+    "name": {
+        "common": "Åland Islands",
+        "official": "Åland Islands",
+        "native": {
+            "swe": {
+                "official": "Landskapet Åland",
+                "common": "Åland"
+            }
+        }
+    },
+    "tld": [
+        ".ax"
+    ],
+    "cca2": "AX",
+    "ccn3": "248",
+    "cca3": "ALA",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "5818"
+        ]
+    },
+    "capital": [
+        "Mariehamn"
+    ],
+    "altSpellings": [
+        "AX",
+        "Aaland",
+        "Aland",
+        "Ahvenanmaa"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "swe": "Swedish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Ålandské ostrovy",
+            "common": "Ålandy"
+        },
+        "deu": {
+            "official": "Åland-Inseln",
+            "common": "Åland"
+        },
+        "fra": {
+            "official": "Ahvenanmaa",
+            "common": "Ahvenanmaa"
+        },
+        "hrv": {
+            "official": "Aland Islands",
+            "common": "Ålandski otoci"
+        },
+        "ita": {
+            "official": "Isole Åland",
+            "common": "Isole Aland"
+        },
+        "jpn": {
+            "official": "オーランド諸島",
+            "common": "オーランド諸島"
+        },
+        "nld": {
+            "official": "Åland eilanden",
+            "common": "Ålandeilanden"
+        },
+        "por": {
+            "official": "Ilhas Åland",
+            "common": "Alândia"
+        },
+        "rus": {
+            "official": "Аландские острова",
+            "common": "Аландские острова"
+        },
+        "slk": {
+            "official": "Alandské ostrovy",
+            "common": "Alandy"
+        },
+        "spa": {
+            "official": "Islas Åland",
+            "common": "Alandia"
+        },
+        "fin": {
+            "official": "Ahvenanmaan maakunta",
+            "common": "Ahvenanmaa"
+        },
+        "est": {
+            "official": "Ahvenamaa maakond",
+            "common": "Ahvenamaa"
+        },
+        "zho": {
+            "official": "奥兰群岛",
+            "common": "奥兰群岛"
+        },
+        "pol": {
+            "official": "Wyspy Alandzkie",
+            "common": "Wyspy Alandzkie"
+        },
+        "urd": {
+            "official": "جزائر اولند",
+            "common": "جزائر اولند"
+        },
+        "kor": {
+            "official": "올란드 제도",
+            "common": "올란드 제도"
+        },
+        "per": {
+            "official": "جزایر الند",
+            "common": "جزایر الند"
+        }
+    },
+    "latlng": [
+        60.116667,
+        19.9
+    ],
+    "demonym": "Ålandish",
+    "landlocked": false,
+    "borders": [],
+    "area": 1580,
+    "flag": "🇦🇽"
+}

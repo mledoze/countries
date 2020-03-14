@@ -1,0 +1,146 @@
+{
+    "name": {
+        "common": "Turkmenistan",
+        "official": "Turkmenistan",
+        "native": {
+            "rus": {
+                "official": "Туркменистан",
+                "common": "Туркмения"
+            },
+            "tuk": {
+                "official": "Türkmenistan",
+                "common": "Türkmenistan"
+            }
+        }
+    },
+    "tld": [
+        ".tm"
+    ],
+    "cca2": "TM",
+    "ccn3": "795",
+    "cca3": "TKM",
+    "cioc": "TKM",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "TMT": {
+            "name": "Turkmenistan manat",
+            "symbol": "m"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "93"
+        ]
+    },
+    "capital": [
+        "Ashgabat"
+    ],
+    "altSpellings": [
+        "TM"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+        "rus": "Russian",
+        "tuk": "Turkmen"
+    },
+    "translations": {
+        "ces": {
+            "official": "Turkmenistán",
+            "common": "Turkmenistán"
+        },
+        "deu": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "fra": {
+            "official": "Turkménistan",
+            "common": "Turkménistan"
+        },
+        "hrv": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "ita": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "jpn": {
+            "official": "トルクメニスタン",
+            "common": "トルクメニスタン"
+        },
+        "nld": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "por": {
+            "official": "Turcomenistão",
+            "common": "Turquemenistão"
+        },
+        "rus": {
+            "official": "Туркменистан",
+            "common": "Туркмения"
+        },
+        "slk": {
+            "official": "Turkménsko",
+            "common": "Turkménsko"
+        },
+        "spa": {
+            "official": "Turkmenistán",
+            "common": "Turkmenistán"
+        },
+        "fin": {
+            "official": "Turkmenistan",
+            "common": "Turkmenistan"
+        },
+        "est": {
+            "official": "Türkmenistan",
+            "common": "Türkmenistan"
+        },
+        "zho": {
+            "official": "土库曼斯坦",
+            "common": "土库曼斯坦"
+        },
+        "pol": {
+            "official": "Republika Turkmenistanu",
+            "common": "Turkmenistan"
+        },
+        "urd": {
+            "official": "ترکمانستان",
+            "common": "ترکمانستان"
+        },
+        "kor": {
+            "official": "투르크메니스탄",
+            "common": "투르크메니스탄"
+        },
+        "per": {
+            "official": "جمهوری خلق ترکمنستان",
+            "common": "ترکمنستان"
+        }
+    },
+    "latlng": [
+        40,
+        60
+    ],
+    "landlocked": true,
+    "borders": [
+        "AFG",
+        "IRN",
+        "KAZ",
+        "UZB"
+    ],
+    "area": 488100,
+    "flag": "🇹🇲",
+    "demonyms": {
+        "eng": {
+            "f": "Turkmen",
+            "m": "Turkmen"
+        },
+        "fra": {
+            "f": "Turkmène",
+            "m": "Turkmène"
+        }
+    }
+}

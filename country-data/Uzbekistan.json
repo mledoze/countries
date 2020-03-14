@@ -1,0 +1,150 @@
+{
+    "name": {
+        "common": "Uzbekistan",
+        "official": "Republic of Uzbekistan",
+        "native": {
+            "rus": {
+                "official": "Республика Узбекистан",
+                "common": "Узбекистан"
+            },
+            "uzb": {
+                "official": "O'zbekiston Respublikasi",
+                "common": "O‘zbekiston"
+            }
+        }
+    },
+    "tld": [
+        ".uz"
+    ],
+    "cca2": "UZ",
+    "ccn3": "860",
+    "cca3": "UZB",
+    "cioc": "UZB",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "UZS": {
+            "name": "Uzbekistani soʻm",
+            "symbol": "so'm"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "98"
+        ]
+    },
+    "capital": [
+        "Tashkent"
+    ],
+    "altSpellings": [
+        "UZ",
+        "Republic of Uzbekistan",
+        "O‘zbekiston Respublikasi",
+        "Ўзбекистон Республикаси"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+        "rus": "Russian",
+        "uzb": "Uzbek"
+    },
+    "translations": {
+        "ces": {
+            "official": "Republika Uzbekistán",
+            "common": "Uzbekistán"
+        },
+        "deu": {
+            "official": "Republik Usbekistan",
+            "common": "Usbekistan"
+        },
+        "fra": {
+            "official": "République d'Ouzbékistan",
+            "common": "Ouzbékistan"
+        },
+        "hrv": {
+            "official": "Republika Uzbekistan",
+            "common": "Uzbekistan"
+        },
+        "ita": {
+            "official": "Repubblica di Uzbekistan",
+            "common": "Uzbekistan"
+        },
+        "jpn": {
+            "official": "ウズベキスタン共和国",
+            "common": "ウズベキスタン"
+        },
+        "nld": {
+            "official": "Republiek Oezbekistan",
+            "common": "Oezbekistan"
+        },
+        "por": {
+            "official": "República do Usbequistão",
+            "common": "Uzbequistão"
+        },
+        "rus": {
+            "official": "Республика Узбекистан",
+            "common": "Узбекистан"
+        },
+        "slk": {
+            "official": "Uzbecká republika",
+            "common": "Uzbekistan"
+        },
+        "spa": {
+            "official": "República de Uzbekistán",
+            "common": "Uzbekistán"
+        },
+        "fin": {
+            "official": "Uzbekistanin tasavalta",
+            "common": "Uzbekistan"
+        },
+        "est": {
+            "official": "Usbekistani Vabariik",
+            "common": "Usbekistan"
+        },
+        "zho": {
+            "official": "乌兹别克斯坦共和国",
+            "common": "乌兹别克斯坦"
+        },
+        "pol": {
+            "official": "Republika Uzbekistanu",
+            "common": "Uzbekistan"
+        },
+        "urd": {
+            "official": "جمہوریہ ازبکستان",
+            "common": "ازبکستان"
+        },
+        "kor": {
+            "official": "우즈베키스탄 공화국",
+            "common": "우즈베키스탄"
+        },
+        "per": {
+            "official": "جمهوری ازبکستان",
+            "common": "ازبکستان"
+        }
+    },
+    "latlng": [
+        41,
+        64
+    ],
+    "landlocked": true,
+    "borders": [
+        "AFG",
+        "KAZ",
+        "KGZ",
+        "TJK",
+        "TKM"
+    ],
+    "area": 447400,
+    "flag": "🇺🇿",
+    "demonyms": {
+        "eng": {
+            "f": "Uzbekistani",
+            "m": "Uzbekistani"
+        },
+        "fra": {
+            "f": "Ouzbèke",
+            "m": "Ouzbèke"
+        }
+    }
+}

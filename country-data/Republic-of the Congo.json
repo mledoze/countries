@@ -1,0 +1,158 @@
+{
+    "name": {
+        "common": "Republic of the Congo",
+        "official": "Republic of the Congo",
+        "native": {
+            "fra": {
+                "official": "République du Congo",
+                "common": "République du Congo"
+            },
+            "kon": {
+                "official": "Repubilika ya Kongo",
+                "common": "Repubilika ya Kongo"
+            },
+            "lin": {
+                "official": "Republíki ya Kongó",
+                "common": "Republíki ya Kongó"
+            }
+        }
+    },
+    "tld": [
+        ".cg"
+    ],
+    "cca2": "CG",
+    "ccn3": "178",
+    "cca3": "COG",
+    "cioc": "CGO",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "XAF": {
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "42"
+        ]
+    },
+    "capital": [
+        "Brazzaville"
+    ],
+    "altSpellings": [
+        "CG",
+        "Congo",
+        "Congo-Brazzaville"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+        "fra": "French",
+        "kon": "Kikongo",
+        "lin": "Lingala"
+    },
+    "translations": {
+        "ces": {
+            "official": "Konžská republika",
+            "common": "Kongo"
+        },
+        "cym": {
+            "official": "Gweriniaeth y Congo",
+            "common": "Gweriniaeth y Congo"
+        },
+        "deu": {
+            "official": "Republik Kongo",
+            "common": "Kongo"
+        },
+        "fra": {
+            "official": "République du Congo",
+            "common": "Congo"
+        },
+        "hrv": {
+            "official": "Republika Kongo",
+            "common": "Kongo"
+        },
+        "ita": {
+            "official": "Repubblica del Congo",
+            "common": "Congo"
+        },
+        "jpn": {
+            "official": "コンゴ共和国",
+            "common": "コンゴ共和国"
+        },
+        "nld": {
+            "official": "Republiek Congo",
+            "common": "Congo"
+        },
+        "por": {
+            "official": "República do Congo",
+            "common": "Congo"
+        },
+        "rus": {
+            "official": "Республика Конго",
+            "common": "Республика Конго"
+        },
+        "slk": {
+            "official": "Konžská republika",
+            "common": "Kongo"
+        },
+        "spa": {
+            "official": "República del Congo",
+            "common": "Congo"
+        },
+        "fin": {
+            "official": "Kongon tasavalta",
+            "common": "Kongo-Brazzaville"
+        },
+        "est": {
+            "official": "Kongo Vabariik",
+            "common": "Kongo Vabariik"
+        },
+        "zho": {
+            "official": "刚果共和国",
+            "common": "刚果"
+        },
+        "pol": {
+            "official": "Republika Konga",
+            "common": "Kongo"
+        },
+        "urd": {
+            "official": "جمہوریہ کانگو",
+            "common": "جمہوریہ کانگو"
+        },
+        "kor": {
+            "official": "콩고",
+            "common": "콩고"
+        },
+        "per": {
+            "official": "جمهوری برازاویل کُنگو",
+            "common": "جمهوری کُنگو"
+        }
+    },
+    "latlng": [
+        -1,
+        15
+    ],
+    "landlocked": false,
+    "borders": [
+        "AGO",
+        "CMR",
+        "CAF",
+        "COD",
+        "GAB"
+    ],
+    "area": 342000,
+    "flag": "🇨🇬",
+    "demonyms": {
+        "eng": {
+            "f": "Congolese",
+            "m": "Congolese"
+        },
+        "fra": {
+            "f": "Congolaise",
+            "m": "Congolais"
+        }
+    }
+}

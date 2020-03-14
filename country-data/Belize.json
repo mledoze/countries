@@ -1,0 +1,153 @@
+{
+    "name": {
+        "common": "Belize",
+        "official": "Belize",
+        "native": {
+            "bjz": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "eng": {
+                "official": "Belize",
+                "common": "Belize"
+            },
+            "spa": {
+                "official": "Belice",
+                "common": "Belice"
+            }
+        }
+    },
+    "tld": [
+        ".bz"
+    ],
+    "cca2": "BZ",
+    "ccn3": "084",
+    "cca3": "BLZ",
+    "cioc": "BIZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "BZD": {
+            "name": "Belize dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "01"
+        ]
+    },
+    "capital": [
+        "Belmopan"
+    ],
+    "altSpellings": [
+        "BZ"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": {
+        "bjz": "Belizean Creole",
+        "eng": "English",
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "cym": {
+            "official": "Belîs",
+            "common": "Belîs"
+        },
+        "deu": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "fra": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "hrv": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "ita": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "jpn": {
+            "official": "ベリーズ",
+            "common": "ベリーズ"
+        },
+        "nld": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "por": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "rus": {
+            "official": "Белиз",
+            "common": "Белиз"
+        },
+        "slk": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "spa": {
+            "official": "Belice",
+            "common": "Belice"
+        },
+        "fin": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "est": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "zho": {
+            "official": "伯利兹",
+            "common": "伯利兹"
+        },
+        "pol": {
+            "official": "Belize",
+            "common": "Belize"
+        },
+        "urd": {
+            "official": "بیلیز",
+            "common": "بیلیز"
+        },
+        "kor": {
+            "official": "벨리즈",
+            "common": "벨리즈"
+        },
+        "per": {
+            "official": "بلیز",
+            "common": "بلیز"
+        }
+    },
+    "latlng": [
+        17.25,
+        -88.75
+    ],
+    "landlocked": false,
+    "borders": [
+        "GTM",
+        "MEX"
+    ],
+    "area": 22966,
+    "flag": "🇧🇿",
+    "demonyms": {
+        "eng": {
+            "f": "Belizean",
+            "m": "Belizean"
+        },
+        "fra": {
+            "f": "Bélizienne",
+            "m": "Bélizien"
+        }
+    }
+}

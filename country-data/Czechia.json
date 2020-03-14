@@ -1,0 +1,152 @@
+{
+    "name": {
+        "common": "Czechia",
+        "official": "Czech Republic",
+        "native": {
+            "ces": {
+                "official": "česká republika",
+                "common": "Česko"
+            },
+            "slk": {
+                "official": "Česká republika",
+                "common": "Česko"
+            }
+        }
+    },
+    "tld": [
+        ".cz"
+    ],
+    "cca2": "CZ",
+    "ccn3": "203",
+    "cca3": "CZE",
+    "cioc": "CZE",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "CZK": {
+            "name": "Czech koruna",
+            "symbol": "Kč"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "20"
+        ]
+    },
+    "capital": [
+        "Prague"
+    ],
+    "altSpellings": [
+        "CZ",
+        "Česká republika",
+        "Česko"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": {
+        "ces": "Czech",
+        "slk": "Slovak"
+    },
+    "translations": {
+        "ces": {
+            "official": "Česká republika",
+            "common": "Česko"
+        },
+        "cym": {
+            "official": "Y Weriniaeth Tsiec",
+            "common": "Y Weriniaeth Tsiec"
+        },
+        "deu": {
+            "official": "Tschechische Republik",
+            "common": "Tschechien"
+        },
+        "fra": {
+            "official": "République tchèque",
+            "common": "Tchéquie"
+        },
+        "hrv": {
+            "official": "Češka",
+            "common": "Češka"
+        },
+        "ita": {
+            "official": "Repubblica Ceca",
+            "common": "Cechia"
+        },
+        "jpn": {
+            "official": "チェコ共和国",
+            "common": "チェコ"
+        },
+        "nld": {
+            "official": "Tsjechische Republiek",
+            "common": "Tsjechië"
+        },
+        "por": {
+            "official": "República Checa",
+            "common": "Chéquia"
+        },
+        "rus": {
+            "official": "Чешская Республика",
+            "common": "Чехия"
+        },
+        "slk": {
+            "official": "Česká republika",
+            "common": "Česko"
+        },
+        "spa": {
+            "official": "República Checa",
+            "common": "Chequia"
+        },
+        "fin": {
+            "official": "Tšekin tasavalta",
+            "common": "Tšekki"
+        },
+        "est": {
+            "official": "Tšehhi Vabariik",
+            "common": "Tšehhi"
+        },
+        "zho": {
+            "official": "捷克共和国",
+            "common": "捷克"
+        },
+        "pol": {
+            "official": "Republika Czeska",
+            "common": "Czechy"
+        },
+        "urd": {
+            "official": "چيک جمہوريہ",
+            "common": "چيک"
+        },
+        "kor": {
+            "official": "체코",
+            "common": "체코"
+        },
+        "per": {
+            "official": "جمهوری چک",
+            "common": "جمهوری چک"
+        }
+    },
+    "latlng": [
+        49.75,
+        15.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "AUT",
+        "DEU",
+        "POL",
+        "SVK"
+    ],
+    "area": 78865,
+    "flag": "🇨🇿",
+    "demonyms": {
+        "eng": {
+            "f": "Czech",
+            "m": "Czech"
+        },
+        "fra": {
+            "f": "Tchèque",
+            "m": "Tchèque"
+        }
+    }
+}

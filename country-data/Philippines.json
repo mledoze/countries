@@ -1,0 +1,143 @@
+{
+    "name": {
+        "common": "Philippines",
+        "official": "Republic of the Philippines",
+        "native": {
+            "eng": {
+                "official": "Republic of the Philippines",
+                "common": "Philippines"
+            },
+            "fil": {
+                "official": "Republic of the Philippines",
+                "common": "Pilipinas"
+            }
+        }
+    },
+    "tld": [
+        ".ph"
+    ],
+    "cca2": "PH",
+    "ccn3": "608",
+    "cca3": "PHL",
+    "cioc": "PHI",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "PHP": {
+            "name": "Philippine peso",
+            "symbol": "₱"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "3"
+        ]
+    },
+    "capital": [
+        "Manila"
+    ],
+    "altSpellings": [
+        "PH",
+        "Republic of the Philippines",
+        "Repúblika ng Pilipinas"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+        "eng": "English",
+        "fil": "Filipino"
+    },
+    "translations": {
+        "ces": {
+            "official": "Filipínská republika",
+            "common": "Filipíny"
+        },
+        "deu": {
+            "official": "Republik der Philippinen",
+            "common": "Philippinen"
+        },
+        "fra": {
+            "official": "République des Philippines",
+            "common": "Philippines"
+        },
+        "hrv": {
+            "official": "Republika Filipini",
+            "common": "Filipini"
+        },
+        "ita": {
+            "official": "Repubblica delle Filippine",
+            "common": "Filippine"
+        },
+        "jpn": {
+            "official": "フィリピン共和国",
+            "common": "フィリピン"
+        },
+        "nld": {
+            "official": "Republiek der Filipijnen",
+            "common": "Filipijnen"
+        },
+        "por": {
+            "official": "República das Filipinas",
+            "common": "Filipinas"
+        },
+        "rus": {
+            "official": "Республика Филиппины",
+            "common": "Филиппины"
+        },
+        "slk": {
+            "official": "Filipínska republika",
+            "common": "Filipíny"
+        },
+        "spa": {
+            "official": "República de las Filipinas",
+            "common": "Filipinas"
+        },
+        "fin": {
+            "official": "Filippiinien tasavalta",
+            "common": "Filippiinit"
+        },
+        "est": {
+            "official": "Filipiini Vabariik",
+            "common": "Filipiinid"
+        },
+        "zho": {
+            "official": "菲律宾共和国",
+            "common": "菲律宾"
+        },
+        "pol": {
+            "official": "Republika Filipin",
+            "common": "Filipiny"
+        },
+        "urd": {
+            "official": "جمہوریہ فلپائن",
+            "common": "فلپائن"
+        },
+        "kor": {
+            "official": "필리핀 공화국",
+            "common": "필리핀"
+        },
+        "per": {
+            "official": "جمهوری فیلیپین",
+            "common": "فیلیپین"
+        }
+    },
+    "latlng": [
+        13,
+        122
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 342353,
+    "flag": "🇵🇭",
+    "demonyms": {
+        "eng": {
+            "f": "Filipino",
+            "m": "Filipino"
+        },
+        "fra": {
+            "f": "Philippine",
+            "m": "Philippin"
+        }
+    }
+}

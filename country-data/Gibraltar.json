@@ -1,0 +1,129 @@
+{
+    "name": {
+        "common": "Gibraltar",
+        "official": "Gibraltar",
+        "native": {
+            "eng": {
+                "official": "Gibraltar",
+                "common": "Gibraltar"
+            }
+        }
+    },
+    "tld": [
+        ".gi"
+    ],
+    "cca2": "GI",
+    "ccn3": "292",
+    "cca3": "GIB",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "GIP": {
+            "name": "Gibraltar pound",
+            "symbol": "£"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "50"
+        ]
+    },
+    "capital": [
+        "Gibraltar"
+    ],
+    "altSpellings": [
+        "GI"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "deu": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "fra": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "hrv": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "ita": {
+            "official": "Gibilterra",
+            "common": "Gibilterra"
+        },
+        "jpn": {
+            "official": "ジブラルタル",
+            "common": "ジブラルタル"
+        },
+        "nld": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "por": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "rus": {
+            "official": "Гибралтар",
+            "common": "Гибралтар"
+        },
+        "slk": {
+            "official": "Gibraltár",
+            "common": "Gibraltár"
+        },
+        "spa": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "fin": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "est": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "zho": {
+            "official": "直布罗陀",
+            "common": "直布罗陀"
+        },
+        "pol": {
+            "official": "Gibraltar",
+            "common": "Gibraltar"
+        },
+        "urd": {
+            "official": "جبل الطارق",
+            "common": "جبل الطارق"
+        },
+        "kor": {
+            "official": "지브롤터",
+            "common": "지브롤터"
+        },
+        "per": {
+            "official": "جبل طارق",
+            "common": "جبل طارق"
+        }
+    },
+    "latlng": [
+        36.13333333,
+        -5.35
+    ],
+    "demonym": "Gibraltar",
+    "landlocked": false,
+    "borders": [
+        "ESP"
+    ],
+    "area": 6,
+    "flag": "🇬🇮"
+}

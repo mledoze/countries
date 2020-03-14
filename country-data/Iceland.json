@@ -1,0 +1,139 @@
+{
+    "name": {
+        "common": "Iceland",
+        "official": "Iceland",
+        "native": {
+            "isl": {
+                "official": "Ísland",
+                "common": "Ísland"
+            }
+        }
+    },
+    "tld": [
+        ".is"
+    ],
+    "cca2": "IS",
+    "ccn3": "352",
+    "cca3": "ISL",
+    "cioc": "ISL",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "ISK": {
+            "name": "Icelandic króna",
+            "symbol": "kr"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "54"
+        ]
+    },
+    "capital": [
+        "Reykjavik"
+    ],
+    "altSpellings": [
+        "IS",
+        "Island",
+        "Republic of Iceland",
+        "Lýðveldið Ísland"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "isl": "Icelandic"
+    },
+    "translations": {
+        "ces": {
+            "official": "Island",
+            "common": "Island"
+        },
+        "deu": {
+            "official": "Island",
+            "common": "Island"
+        },
+        "fra": {
+            "official": "République d'Islande",
+            "common": "Islande"
+        },
+        "hrv": {
+            "official": "Island",
+            "common": "Island"
+        },
+        "ita": {
+            "official": "Islanda",
+            "common": "Islanda"
+        },
+        "jpn": {
+            "official": "アイスランド",
+            "common": "アイスランド"
+        },
+        "nld": {
+            "official": "IJsland",
+            "common": "IJsland"
+        },
+        "por": {
+            "official": "Islândia",
+            "common": "Islândia"
+        },
+        "rus": {
+            "official": "Исландия",
+            "common": "Исландия"
+        },
+        "slk": {
+            "official": "Islandská republika",
+            "common": "Island"
+        },
+        "spa": {
+            "official": "Islandia",
+            "common": "Islandia"
+        },
+        "fin": {
+            "official": "Islanti",
+            "common": "Islanti"
+        },
+        "est": {
+            "official": "Islandi Vabariik",
+            "common": "Island"
+        },
+        "zho": {
+            "official": "冰岛",
+            "common": "冰岛"
+        },
+        "pol": {
+            "official": "Republika Islandii",
+            "common": "Islandia"
+        },
+        "urd": {
+            "official": "آئس لینڈ",
+            "common": "آئس لینڈ"
+        },
+        "kor": {
+            "official": "아이슬란드 공화국",
+            "common": "아이슬란드"
+        },
+        "per": {
+            "official": "جمهوری ایسلند",
+            "common": "ایسلند"
+        }
+    },
+    "latlng": [
+        65,
+        -18
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 103000,
+    "flag": "🇮🇸",
+    "demonyms": {
+        "eng": {
+            "f": "Icelander",
+            "m": "Icelander"
+        },
+        "fra": {
+            "f": "Islandaise",
+            "m": "Islandais"
+        }
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "name": {
+        "common": "Eritrea",
+        "official": "State of Eritrea",
+        "native": {
+            "ara": {
+                "official": "دولة إرتريا",
+                "common": "إرتريا‎"
+            },
+            "eng": {
+                "official": "State of Eritrea",
+                "common": "Eritrea"
+            },
+            "tir": {
+                "official": "ሃገረ ኤርትራ",
+                "common": "ኤርትራ"
+            }
+        }
+    },
+    "tld": [
+        ".er"
+    ],
+    "cca2": "ER",
+    "ccn3": "232",
+    "cca3": "ERI",
+    "cioc": "ERI",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "ERN": {
+            "name": "Eritrean nakfa",
+            "symbol": "Nfk"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "91"
+        ]
+    },
+    "capital": [
+        "Asmara"
+    ],
+    "altSpellings": [
+        "ER",
+        "State of Eritrea",
+        "ሃገረ ኤርትራ",
+        "Dawlat Iritriyá",
+        "ʾErtrā",
+        "Iritriyā"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "ara": "Arabic",
+        "eng": "English",
+        "tir": "Tigrinya"
+    },
+    "translations": {
+        "ces": {
+            "official": "Stát Eritrea",
+            "common": "Eritrea"
+        },
+        "cym": {
+            "official": "Gwladwriaeth Eritrea",
+            "common": "Eritrea"
+        },
+        "deu": {
+            "official": "Staat Eritrea",
+            "common": "Eritrea"
+        },
+        "fra": {
+            "official": "État d'Érythrée",
+            "common": "Érythrée"
+        },
+        "hrv": {
+            "official": "Država Eritreji",
+            "common": "Eritreja"
+        },
+        "ita": {
+            "official": "Stato di Eritrea",
+            "common": "Eritrea"
+        },
+        "jpn": {
+            "official": "エリトリア国",
+            "common": "エリトリア"
+        },
+        "nld": {
+            "official": "Staat Eritrea",
+            "common": "Eritrea"
+        },
+        "por": {
+            "official": "Estado da Eritreia",
+            "common": "Eritreia"
+        },
+        "rus": {
+            "official": "Государство Эритрея",
+            "common": "Эритрея"
+        },
+        "slk": {
+            "official": "Eritrejský štát",
+            "common": "Eritrea"
+        },
+        "spa": {
+            "official": "Estado de Eritrea",
+            "common": "Eritrea"
+        },
+        "fin": {
+            "official": "Eritrean valtio",
+            "common": "Eritrea"
+        },
+        "est": {
+            "official": "Eritrea Riik",
+            "common": "Eritrea"
+        },
+        "zho": {
+            "official": "厄立特里亚",
+            "common": "厄立特里亚"
+        },
+        "pol": {
+            "official": "Państwo Erytrea",
+            "common": "Erytrea"
+        },
+        "urd": {
+            "official": "ریاستِ ارتریا",
+            "common": "ارتریا"
+        },
+        "kor": {
+            "official": "에리트레아국",
+            "common": "에리트레아"
+        },
+        "per": {
+            "official": "جمهوری اریتره",
+            "common": "اریتره"
+        }
+    },
+    "latlng": [
+        15,
+        39
+    ],
+    "landlocked": false,
+    "borders": [
+        "DJI",
+        "ETH",
+        "SDN"
+    ],
+    "area": 117600,
+    "flag": "🇪🇷",
+    "demonyms": {
+        "eng": {
+            "f": "Eritrean",
+            "m": "Eritrean"
+        },
+        "fra": {
+            "f": "Érythréenne",
+            "m": "Érythréen"
+        }
+    }
+}

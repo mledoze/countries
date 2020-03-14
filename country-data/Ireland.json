@@ -1,0 +1,146 @@
+{
+    "name": {
+        "common": "Ireland",
+        "official": "Republic of Ireland",
+        "native": {
+            "eng": {
+                "official": "Republic of Ireland",
+                "common": "Ireland"
+            },
+            "gle": {
+                "official": "Poblacht na hÉireann",
+                "common": "Éire"
+            }
+        }
+    },
+    "tld": [
+        ".ie"
+    ],
+    "cca2": "IE",
+    "ccn3": "372",
+    "cca3": "IRL",
+    "cioc": "IRL",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "53"
+        ]
+    },
+    "capital": [
+        "Dublin"
+    ],
+    "altSpellings": [
+        "IE",
+        "Éire",
+        "Republic of Ireland",
+        "Poblacht na hÉireann"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "eng": "English",
+        "gle": "Irish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Irsko",
+            "common": "Irsko"
+        },
+        "deu": {
+            "official": "Republik Irland",
+            "common": "Irland"
+        },
+        "fra": {
+            "official": "République d'Irlande",
+            "common": "Irlande"
+        },
+        "hrv": {
+            "official": "Republika Irska",
+            "common": "Irska"
+        },
+        "ita": {
+            "official": "Repubblica d'Irlanda",
+            "common": "Irlanda"
+        },
+        "jpn": {
+            "official": "アイルランド共和国",
+            "common": "アイルランド"
+        },
+        "nld": {
+            "official": "Republic of Ireland",
+            "common": "Ierland"
+        },
+        "por": {
+            "official": "República da Irlanda",
+            "common": "Irlanda"
+        },
+        "rus": {
+            "official": "Ирландия",
+            "common": "Ирландия"
+        },
+        "slk": {
+            "official": "Írska republika",
+            "common": "Írsko"
+        },
+        "spa": {
+            "official": "República de Irlanda",
+            "common": "Irlanda"
+        },
+        "fin": {
+            "official": "Irlannin tasavalta",
+            "common": "Irlanti"
+        },
+        "est": {
+            "official": "Iirimaa",
+            "common": "Iirimaa"
+        },
+        "zho": {
+            "official": "爱尔兰共和国",
+            "common": "爱尔兰"
+        },
+        "pol": {
+            "official": "Republika Irlandii",
+            "common": "Irlandia"
+        },
+        "urd": {
+            "official": "جمہوریہ جزیرہ آئرلینڈ",
+            "common": "جزیرہ آئرلینڈ"
+        },
+        "kor": {
+            "official": "아일랜드 공화국",
+            "common": "아일랜드"
+        },
+        "per": {
+            "official": "ایرلند",
+            "common": "ایرلند"
+        }
+    },
+    "latlng": [
+        53,
+        -8
+    ],
+    "landlocked": false,
+    "borders": [
+        "GBR"
+    ],
+    "area": 70273,
+    "flag": "🇮🇪",
+    "demonyms": {
+        "eng": {
+            "f": "Irish",
+            "m": "Irish"
+        },
+        "fra": {
+            "f": "Irlandaise",
+            "m": "Irlandais"
+        }
+    }
+}

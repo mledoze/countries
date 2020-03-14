@@ -1,0 +1,117 @@
+{
+    "name": {
+        "common": "Antarctica",
+        "official": "Antarctica",
+        "native": {}
+    },
+    "tld": [
+        ".aq"
+    ],
+    "cca2": "AQ",
+    "ccn3": "010",
+    "cca3": "ATA",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": [],
+    "idd": {
+        "root": "",
+        "suffixes": []
+    },
+    "capital": [
+        ""
+    ],
+    "altSpellings": [
+        "AQ"
+    ],
+    "region": "Antarctic",
+    "subregion": "",
+    "languages": {},
+    "translations": {
+        "ces": {
+            "official": "Antarktida",
+            "common": "Antarktida"
+        },
+        "cym": {
+            "official": "Yr Antarctig",
+            "common": "Yr Antarctig"
+        },
+        "deu": {
+            "official": "Antarktika",
+            "common": "Antarktis"
+        },
+        "fra": {
+            "official": "Antarctique",
+            "common": "Antarctique"
+        },
+        "hrv": {
+            "official": "Antarktika",
+            "common": "Antarktika"
+        },
+        "ita": {
+            "official": "Antartide",
+            "common": "Antartide"
+        },
+        "jpn": {
+            "official": "南極大陸",
+            "common": "南極"
+        },
+        "nld": {
+            "official": "Antarctica",
+            "common": "Antarctica"
+        },
+        "por": {
+            "official": "Antártica",
+            "common": "Antártida"
+        },
+        "rus": {
+            "official": "Антарктида",
+            "common": "Антарктида"
+        },
+        "slk": {
+            "official": "Antarktída",
+            "common": "Antarktída"
+        },
+        "spa": {
+            "official": "Antártida",
+            "common": "Antártida"
+        },
+        "fin": {
+            "official": "Etelämanner",
+            "common": "Etelämanner"
+        },
+        "est": {
+            "official": "Antarktika",
+            "common": "Antarktika"
+        },
+        "zho": {
+            "official": "南极洲",
+            "common": "南极洲"
+        },
+        "pol": {
+            "official": "Antarktyka",
+            "common": "Antarktyka"
+        },
+        "urd": {
+            "official": "انٹارکٹکا",
+            "common": "انٹارکٹکا"
+        },
+        "kor": {
+            "official": "남극",
+            "common": "남극"
+        },
+        "per": {
+            "official": "جنوبگان",
+            "common": "جنوبگان"
+        }
+    },
+    "latlng": [
+        -90,
+        0
+    ],
+    "demonym": "Antarctican",
+    "landlocked": false,
+    "borders": [],
+    "area": 14000000,
+    "flag": "🇦🇶"
+}

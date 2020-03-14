@@ -1,0 +1,144 @@
+{
+    "name": {
+        "common": "Slovakia",
+        "official": "Slovak Republic",
+        "native": {
+            "slk": {
+                "official": "Slovenská republika",
+                "common": "Slovensko"
+            }
+        }
+    },
+    "tld": [
+        ".sk"
+    ],
+    "cca2": "SK",
+    "ccn3": "703",
+    "cca3": "SVK",
+    "cioc": "SVK",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "21"
+        ]
+    },
+    "capital": [
+        "Bratislava"
+    ],
+    "altSpellings": [
+        "SK",
+        "Slovak Republic",
+        "Slovenská republika"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": {
+        "slk": "Slovak"
+    },
+    "translations": {
+        "ces": {
+            "official": "Slovenská republika",
+            "common": "Slovensko"
+        },
+        "deu": {
+            "official": "Slowakische Republik",
+            "common": "Slowakei"
+        },
+        "fra": {
+            "official": "République slovaque",
+            "common": "Slovaquie"
+        },
+        "hrv": {
+            "official": "slovačka",
+            "common": "Slovačka"
+        },
+        "ita": {
+            "official": "Repubblica slovacca",
+            "common": "Slovacchia"
+        },
+        "jpn": {
+            "official": "スロバキア共和国",
+            "common": "スロバキア"
+        },
+        "nld": {
+            "official": "Slowaakse Republiek",
+            "common": "Slowakije"
+        },
+        "por": {
+            "official": "República Eslovaca",
+            "common": "Eslováquia"
+        },
+        "rus": {
+            "official": "Словацкая Республика",
+            "common": "Словакия"
+        },
+        "slk": {
+            "official": "Slovenská republika",
+            "common": "Slovensko"
+        },
+        "spa": {
+            "official": "República Eslovaca",
+            "common": "República Eslovaca"
+        },
+        "fin": {
+            "official": "Slovakian tasavalta",
+            "common": "Slovakia"
+        },
+        "est": {
+            "official": "Slovaki Vabariik",
+            "common": "Slovakkia"
+        },
+        "zho": {
+            "official": "斯洛伐克共和国",
+            "common": "斯洛伐克"
+        },
+        "pol": {
+            "official": "Republika Słowacka",
+            "common": "Słowacja"
+        },
+        "urd": {
+            "official": "جمہوریہ سلوواکیہ",
+            "common": "سلوواکیہ"
+        },
+        "kor": {
+            "official": "슬로바키아 공화국",
+            "common": "슬로바키아"
+        },
+        "per": {
+            "official": "جمهوری اسلواکی",
+            "common": "اِسلُواکی"
+        }
+    },
+    "latlng": [
+        48.66666666,
+        19.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "AUT",
+        "CZE",
+        "HUN",
+        "POL",
+        "UKR"
+    ],
+    "area": 49037,
+    "flag": "🇸🇰",
+    "demonyms": {
+        "eng": {
+            "f": "Slovak",
+            "m": "Slovak"
+        },
+        "fra": {
+            "f": "Slovaque",
+            "m": "Slovaque"
+        }
+    }
+}

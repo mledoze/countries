@@ -1,0 +1,145 @@
+{
+    "name": {
+        "common": "Malaysia",
+        "official": "Malaysia",
+        "native": {
+            "eng": {
+                "official": "Malaysia",
+                "common": "Malaysia"
+            },
+            "msa": {
+                "official": "مليسيا",
+                "common": "مليسيا"
+            }
+        }
+    },
+    "tld": [
+        ".my"
+    ],
+    "cca2": "MY",
+    "ccn3": "458",
+    "cca3": "MYS",
+    "cioc": "MAS",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "MYR": {
+            "name": "Malaysian ringgit",
+            "symbol": "RM"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "0"
+        ]
+    },
+    "capital": [
+        "Kuala Lumpur"
+    ],
+    "altSpellings": [
+        "MY"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+        "eng": "English",
+        "msa": "Malay"
+    },
+    "translations": {
+        "ces": {
+            "official": "Malajsie",
+            "common": "Malajsie"
+        },
+        "deu": {
+            "official": "Malaysia",
+            "common": "Malaysia"
+        },
+        "fra": {
+            "official": "Fédération de Malaisie",
+            "common": "Malaisie"
+        },
+        "hrv": {
+            "official": "Malezija",
+            "common": "Malezija"
+        },
+        "ita": {
+            "official": "Malaysia",
+            "common": "Malesia"
+        },
+        "jpn": {
+            "official": "マレーシア",
+            "common": "マレーシア"
+        },
+        "nld": {
+            "official": "Maleisië",
+            "common": "Maleisië"
+        },
+        "por": {
+            "official": "Malásia",
+            "common": "Malásia"
+        },
+        "rus": {
+            "official": "Малайзия",
+            "common": "Малайзия"
+        },
+        "slk": {
+            "official": "Malajzia",
+            "common": "Malajzia"
+        },
+        "spa": {
+            "official": "Malasia",
+            "common": "Malasia"
+        },
+        "fin": {
+            "official": "Malesia",
+            "common": "Malesia"
+        },
+        "est": {
+            "official": "Malaisia",
+            "common": "Malaisia"
+        },
+        "zho": {
+            "official": "马来西亚",
+            "common": "马来西亚"
+        },
+        "pol": {
+            "official": "Malezja",
+            "common": "Malezja"
+        },
+        "urd": {
+            "official": "ملائیشیا",
+            "common": "ملائیشیا"
+        },
+        "kor": {
+            "official": "말레이시아",
+            "common": "말레이시아"
+        },
+        "per": {
+            "official": "فدراسیون مالزی",
+            "common": "مالزی"
+        }
+    },
+    "latlng": [
+        2.5,
+        112.5
+    ],
+    "landlocked": false,
+    "borders": [
+        "BRN",
+        "IDN",
+        "THA"
+    ],
+    "area": 330803,
+    "flag": "🇲🇾",
+    "demonyms": {
+        "eng": {
+            "f": "Malaysian",
+            "m": "Malaysian"
+        },
+        "fra": {
+            "f": "Malaisienne",
+            "m": "Malaisien"
+        }
+    }
+}

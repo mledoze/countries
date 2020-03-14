@@ -1,0 +1,147 @@
+{
+    "name": {
+        "common": "New Zealand",
+        "official": "New Zealand",
+        "native": {
+            "eng": {
+                "official": "New Zealand",
+                "common": "New Zealand"
+            },
+            "mri": {
+                "official": "Aotearoa",
+                "common": "Aotearoa"
+            },
+            "nzs": {
+                "official": "New Zealand",
+                "common": "New Zealand"
+            }
+        }
+    },
+    "tld": [
+        ".nz"
+    ],
+    "cca2": "NZ",
+    "ccn3": "554",
+    "cca3": "NZL",
+    "cioc": "NZL",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "NZD": {
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "Wellington"
+    ],
+    "altSpellings": [
+        "NZ",
+        "Aotearoa"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": {
+        "eng": "English",
+        "mri": "Māori",
+        "nzs": "New Zealand Sign Language"
+    },
+    "translations": {
+        "ces": {
+            "official": "Nový Zéland",
+            "common": "Nový Zéland"
+        },
+        "deu": {
+            "official": "Neuseeland",
+            "common": "Neuseeland"
+        },
+        "fra": {
+            "official": "Nouvelle-Zélande",
+            "common": "Nouvelle-Zélande"
+        },
+        "hrv": {
+            "official": "Novi Zeland",
+            "common": "Novi Zeland"
+        },
+        "ita": {
+            "official": "Nuova Zelanda",
+            "common": "Nuova Zelanda"
+        },
+        "jpn": {
+            "official": "ニュージーランド",
+            "common": "ニュージーランド"
+        },
+        "nld": {
+            "official": "Nieuw Zeeland",
+            "common": "Nieuw-Zeeland"
+        },
+        "por": {
+            "official": "nova Zelândia",
+            "common": "Nova Zelândia"
+        },
+        "rus": {
+            "official": "Новая Зеландия",
+            "common": "Новая Зеландия"
+        },
+        "slk": {
+            "official": "Nový Zéland",
+            "common": "Nový Zéland"
+        },
+        "spa": {
+            "official": "nueva Zelanda",
+            "common": "Nueva Zelanda"
+        },
+        "fin": {
+            "official": "Uusi-Seelanti",
+            "common": "Uusi-Seelanti"
+        },
+        "est": {
+            "official": "Uus-Meremaa",
+            "common": "Uus-Meremaa"
+        },
+        "zho": {
+            "official": "新西兰",
+            "common": "新西兰"
+        },
+        "pol": {
+            "official": "Nowa Zelandia",
+            "common": "Nowa Zelandia"
+        },
+        "urd": {
+            "official": "نیوزی لینڈ",
+            "common": "نیوزی لینڈ"
+        },
+        "kor": {
+            "official": "뉴질랜드",
+            "common": "뉴질랜드"
+        },
+        "per": {
+            "official": "نیوزیلند",
+            "common": "نیوزیلند"
+        }
+    },
+    "latlng": [
+        -41,
+        174
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 270467,
+    "flag": "🇳🇿",
+    "demonyms": {
+        "eng": {
+            "f": "New Zealander",
+            "m": "New Zealander"
+        },
+        "fra": {
+            "f": "Neo-Zélandaise",
+            "m": "Neo-Zélandais"
+        }
+    }
+}

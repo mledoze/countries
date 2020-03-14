@@ -1,0 +1,143 @@
+{
+    "name": {
+        "common": "Curaçao",
+        "official": "Country of Curaçao",
+        "native": {
+            "eng": {
+                "official": "Country of Curaçao",
+                "common": "Curaçao"
+            },
+            "nld": {
+                "official": "Land Curaçao",
+                "common": "Curaçao"
+            },
+            "pap": {
+                "official": "Pais Kòrsou",
+                "common": "Pais Kòrsou"
+            }
+        }
+    },
+    "tld": [
+        ".cw"
+    ],
+    "cca2": "CW",
+    "ccn3": "531",
+    "cca3": "CUW",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "ANG": {
+            "name": "Netherlands Antillean guilder",
+            "symbol": "ƒ"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "99"
+        ]
+    },
+    "capital": [
+        "Willemstad"
+    ],
+    "altSpellings": [
+        "CW",
+        "Curacao",
+        "Kòrsou",
+        "Country of Curaçao",
+        "Land Curaçao",
+        "Pais Kòrsou"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English",
+        "nld": "Dutch",
+        "pap": "Papiamento"
+    },
+    "translations": {
+        "ces": {
+            "official": "Autonomní země Curaçao",
+            "common": "Curaçao"
+        },
+        "deu": {
+            "official": "Land Curaçao",
+            "common": "Curaçao"
+        },
+        "fra": {
+            "official": "Pays de Curaçao",
+            "common": "Curaçao"
+        },
+        "ita": {
+            "official": "Paese di Curaçao",
+            "common": "Curaçao"
+        },
+        "nld": {
+            "official": "Land Curaçao",
+            "common": "Curaçao"
+        },
+        "por": {
+            "official": "País de Curaçao",
+            "common": "ilha da Curação"
+        },
+        "rus": {
+            "official": "Страна Кюрасао",
+            "common": "Кюрасао"
+        },
+        "slk": {
+            "official": "Curacao",
+            "common": "Curacao"
+        },
+        "spa": {
+            "official": "País de Curazao",
+            "common": "Curazao"
+        },
+        "fin": {
+            "official": "Curaçao",
+            "common": "Curaçao"
+        },
+        "est": {
+            "official": "Curaçao",
+            "common": "Curaçao"
+        },
+        "zho": {
+            "official": "库拉索",
+            "common": "库拉索"
+        },
+        "pol": {
+            "official": "Curaçao",
+            "common": "Curaçao"
+        },
+        "urd": {
+            "official": "مملکتِ کیوراساؤ",
+            "common": "کیوراساؤ"
+        },
+        "kor": {
+            "official": "퀴라소",
+            "common": "퀴라소"
+        },
+        "per": {
+            "official": "کوراسائو",
+            "common": "کوراسائو"
+        }
+    },
+    "latlng": [
+        12.116667,
+        -68.933333
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 444,
+    "flag": "🇨🇼",
+    "demonyms": {
+        "eng": {
+            "f": "Curaçaoan",
+            "m": "Curaçaoan"
+        },
+        "fra": {
+            "f": "Curacienne",
+            "m": "Curacien"
+        }
+    }
+}

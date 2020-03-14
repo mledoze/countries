@@ -1,0 +1,143 @@
+{
+    "name": {
+        "common": "Malta",
+        "official": "Republic of Malta",
+        "native": {
+            "eng": {
+                "official": "Republic of Malta",
+                "common": "Malta"
+            },
+            "mlt": {
+                "official": "Repubblika ta ' Malta",
+                "common": "Malta"
+            }
+        }
+    },
+    "tld": [
+        ".mt"
+    ],
+    "cca2": "MT",
+    "ccn3": "470",
+    "cca3": "MLT",
+    "cioc": "MLT",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "56"
+        ]
+    },
+    "capital": [
+        "Valletta"
+    ],
+    "altSpellings": [
+        "MT",
+        "Republic of Malta",
+        "Repubblika ta' Malta"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+        "eng": "English",
+        "mlt": "Maltese"
+    },
+    "translations": {
+        "ces": {
+            "official": "Maltská republika",
+            "common": "Malta"
+        },
+        "deu": {
+            "official": "Republik Malta",
+            "common": "Malta"
+        },
+        "fra": {
+            "official": "République de Malte",
+            "common": "Malte"
+        },
+        "hrv": {
+            "official": "Republika Malta",
+            "common": "Malta"
+        },
+        "ita": {
+            "official": "Repubblica di Malta",
+            "common": "Malta"
+        },
+        "jpn": {
+            "official": "マルタ共和国",
+            "common": "マルタ"
+        },
+        "nld": {
+            "official": "Republiek Malta",
+            "common": "Malta"
+        },
+        "por": {
+            "official": "República de Malta",
+            "common": "Malta"
+        },
+        "rus": {
+            "official": "Республика Мальта",
+            "common": "Мальта"
+        },
+        "slk": {
+            "official": "Maltská republika",
+            "common": "Malta"
+        },
+        "spa": {
+            "official": "República de Malta",
+            "common": "Malta"
+        },
+        "fin": {
+            "official": "Maltan tasavalta",
+            "common": "Malta"
+        },
+        "est": {
+            "official": "Malta Vabariik",
+            "common": "Malta"
+        },
+        "zho": {
+            "official": "马耳他共和国",
+            "common": "马耳他"
+        },
+        "pol": {
+            "official": "Republika Malty",
+            "common": "Malta"
+        },
+        "urd": {
+            "official": "جمہوریہ مالٹا",
+            "common": "مالٹا"
+        },
+        "kor": {
+            "official": "몰타 공화국",
+            "common": "몰타"
+        },
+        "per": {
+            "official": "جمهوری مالت",
+            "common": "مالت"
+        }
+    },
+    "latlng": [
+        35.83333333,
+        14.58333333
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 316,
+    "flag": "🇲🇹",
+    "demonyms": {
+        "eng": {
+            "f": "Maltese",
+            "m": "Maltese"
+        },
+        "fra": {
+            "f": "Maltaise",
+            "m": "Maltais"
+        }
+    }
+}

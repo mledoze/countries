@@ -1,0 +1,151 @@
+{
+    "name": {
+        "common": "Western Sahara",
+        "official": "Sahrawi Arab Democratic Republic",
+        "native": {
+            "ber": {
+                "official": "Sahrawi Arab Democratic Republic",
+                "common": "Western Sahara"
+            },
+            "mey": {
+                "official": "الجمهورية العربية الصحراوية الديمقراطية",
+                "common": "الصحراء الغربية"
+            },
+            "spa": {
+                "official": "República Árabe Saharaui Democrática",
+                "common": "Sahara Occidental"
+            }
+        }
+    },
+    "tld": [
+        ".eh"
+    ],
+    "cca2": "EH",
+    "ccn3": "732",
+    "cca3": "ESH",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "DZD": {
+            "name": "Algerian dinar",
+            "symbol": "دج"
+        },
+        "MAD": {
+            "name": "Moroccan dirham",
+            "symbol": "DH"
+        },
+        "MRU": {
+            "name": "Mauritanian ouguiya",
+            "symbol": "UM"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "125288",
+            "125289"
+        ]
+    },
+    "capital": [
+        "El Aaiún"
+    ],
+    "altSpellings": [
+        "EH",
+        "Taneẓroft Tutrimt"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+        "ber": "Berber",
+        "mey": "Hassaniya",
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Západní Sahara",
+            "common": "Západní Sahara"
+        },
+        "deu": {
+            "official": "Demokratische Arabische Republik Sahara",
+            "common": "Westsahara"
+        },
+        "fra": {
+            "official": "République arabe sahraouie démocratique",
+            "common": "Sahara Occidental"
+        },
+        "hrv": {
+            "official": "Sahrawi Arab Demokratska Republika",
+            "common": "Zapadna Sahara"
+        },
+        "ita": {
+            "official": "Repubblica Araba Saharawi Democratica",
+            "common": "Sahara Occidentale"
+        },
+        "jpn": {
+            "official": "サハラアラブ民主共和国",
+            "common": "西サハラ"
+        },
+        "nld": {
+            "official": "Sahrawi Arabische Democratische Republiek",
+            "common": "Westelijke Sahara"
+        },
+        "por": {
+            "official": "República Árabe Saharaui Democrática",
+            "common": "Saara Ocidental"
+        },
+        "rus": {
+            "official": "Sahrawi Арабская Демократическая Республика",
+            "common": "Западная Сахара"
+        },
+        "slk": {
+            "official": "Západná Sahara",
+            "common": "Západná Sahara"
+        },
+        "spa": {
+            "official": "República Árabe Saharaui Democrática",
+            "common": "Sahara Occidental"
+        },
+        "fin": {
+            "official": "Länsi-Sahara",
+            "common": "Länsi-Sahara"
+        },
+        "est": {
+            "official": "Lääne-Sahara",
+            "common": "Lääne-Sahara"
+        },
+        "zho": {
+            "official": "阿拉伯撒哈拉民主共和国",
+            "common": "西撒哈拉"
+        },
+        "pol": {
+            "official": "Saharyjska Arabska Republika Demokratyczna",
+            "common": "Sahara Zachodnia"
+        },
+        "urd": {
+            "official": "صحراوی عرب عوامی جمہوریہ",
+            "common": "مغربی صحارا"
+        },
+        "kor": {
+            "official": "사하라 아랍 민주 공화국",
+            "common": "서사하라"
+        },
+        "per": {
+            "official": "صحرای غربی",
+            "common": "صحرای غربی"
+        }
+    },
+    "latlng": [
+        24.5,
+        -13
+    ],
+    "demonym": "Sahrawi",
+    "landlocked": false,
+    "borders": [
+        "DZA",
+        "MRT",
+        "MAR"
+    ],
+    "area": 266000,
+    "flag": "🇪🇭"
+}

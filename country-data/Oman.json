@@ -1,0 +1,142 @@
+{
+    "name": {
+        "common": "Oman",
+        "official": "Sultanate of Oman",
+        "native": {
+            "ara": {
+                "official": "سلطنة عمان",
+                "common": "عمان"
+            }
+        }
+    },
+    "tld": [
+        ".om"
+    ],
+    "cca2": "OM",
+    "ccn3": "512",
+    "cca3": "OMN",
+    "cioc": "OMA",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "OMR": {
+            "name": "Omani rial",
+            "symbol": "ر.ع."
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "68"
+        ]
+    },
+    "capital": [
+        "Muscat"
+    ],
+    "altSpellings": [
+        "OM",
+        "Sultanate of Oman",
+        "Salṭanat ʻUmān"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+        "ara": "Arabic"
+    },
+    "translations": {
+        "ces": {
+            "official": "Sultanát Omán",
+            "common": "Omán"
+        },
+        "deu": {
+            "official": "Sultanat Oman",
+            "common": "Oman"
+        },
+        "fra": {
+            "official": "Sultanat d'Oman",
+            "common": "Oman"
+        },
+        "hrv": {
+            "official": "Sultanat Oman",
+            "common": "Oman"
+        },
+        "ita": {
+            "official": "Sultanato dell'Oman",
+            "common": "oman"
+        },
+        "jpn": {
+            "official": "オマーン·スルタン国",
+            "common": "オマーン"
+        },
+        "nld": {
+            "official": "Sultanaat van Oman",
+            "common": "Oman"
+        },
+        "por": {
+            "official": "Sultanato de Omã",
+            "common": "Omã"
+        },
+        "rus": {
+            "official": "Султанат Оман",
+            "common": "Оман"
+        },
+        "slk": {
+            "official": "Ománsky sultanát",
+            "common": "Omán"
+        },
+        "spa": {
+            "official": "Sultanato de Omán",
+            "common": "Omán"
+        },
+        "fin": {
+            "official": "Omanin sulttaanikunta",
+            "common": "Oman"
+        },
+        "est": {
+            "official": "Omaani Sultaniriik",
+            "common": "Omaan"
+        },
+        "zho": {
+            "official": "阿曼苏丹国",
+            "common": "阿曼"
+        },
+        "pol": {
+            "official": "Sułtanat Omanu",
+            "common": "Oman"
+        },
+        "urd": {
+            "official": "سلطنت عمان",
+            "common": "عمان"
+        },
+        "kor": {
+            "official": "오만 술탄국",
+            "common": "오만"
+        },
+        "per": {
+            "official": "سلطان‌نشین عُمان",
+            "common": "عمان"
+        }
+    },
+    "latlng": [
+        21,
+        57
+    ],
+    "landlocked": false,
+    "borders": [
+        "SAU",
+        "ARE",
+        "YEM"
+    ],
+    "area": 309500,
+    "flag": "🇴🇲",
+    "demonyms": {
+        "eng": {
+            "f": "Omani",
+            "m": "Omani"
+        },
+        "fra": {
+            "f": "Omanaise",
+            "m": "Omanais"
+        }
+    }
+}

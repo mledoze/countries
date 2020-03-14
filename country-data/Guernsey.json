@@ -1,0 +1,143 @@
+{
+    "name": {
+        "common": "Guernsey",
+        "official": "Bailiwick of Guernsey",
+        "native": {
+            "eng": {
+                "official": "Bailiwick of Guernsey",
+                "common": "Guernsey"
+            },
+            "fra": {
+                "official": "Bailliage de Guernesey",
+                "common": "Guernesey"
+            },
+            "nfr": {
+                "official": "Dgèrnésiais",
+                "common": "Dgèrnésiais"
+            }
+        }
+    },
+    "tld": [
+        ".gg"
+    ],
+    "cca2": "GG",
+    "ccn3": "831",
+    "cca3": "GGY",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "GBP": {
+            "name": "British pound",
+            "symbol": "£"
+        },
+        "GGP": {
+            "name": "Guernsey pound",
+            "symbol": "£"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "St. Peter Port"
+    ],
+    "altSpellings": [
+        "GG",
+        "Bailiwick of Guernsey",
+        "Bailliage de Guernesey"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "eng": "English",
+        "fra": "French",
+        "nfr": "Guernésiais"
+    },
+    "translations": {
+        "ces": {
+            "official": "Rychtářství Guernsey",
+            "common": "Guernsey"
+        },
+        "deu": {
+            "official": "Vogtei Guernsey",
+            "common": "Guernsey"
+        },
+        "fra": {
+            "official": "Bailliage de Guernesey",
+            "common": "Guernesey"
+        },
+        "hrv": {
+            "official": "Struka Guernsey",
+            "common": "Guernsey"
+        },
+        "ita": {
+            "official": "Baliato di Guernsey",
+            "common": "Guernsey"
+        },
+        "jpn": {
+            "official": "ガーンジーの得意分野",
+            "common": "ガーンジー"
+        },
+        "nld": {
+            "official": "Baljuwschap Guernsey",
+            "common": "Guernsey"
+        },
+        "por": {
+            "official": "Bailiado de Guernsey",
+            "common": "Guernsey"
+        },
+        "rus": {
+            "official": "Коронное владение Гернси",
+            "common": "Гернси"
+        },
+        "slk": {
+            "official": "Guernsey",
+            "common": "Guernsey"
+        },
+        "spa": {
+            "official": "Bailía de Guernsey",
+            "common": "Guernsey"
+        },
+        "fin": {
+            "official": "Guernsey",
+            "common": "Guernsey"
+        },
+        "est": {
+            "official": "Guernsey foogtkond",
+            "common": "Guernsey"
+        },
+        "zho": {
+            "official": "根西岛",
+            "common": "根西岛"
+        },
+        "pol": {
+            "official": "Baliwat Guernsey",
+            "common": "Guernsey"
+        },
+        "urd": {
+            "official": "گرنزی رودبار",
+            "common": "گرنزی"
+        },
+        "kor": {
+            "official": "건지 섬",
+            "common": "건지 섬"
+        },
+        "per": {
+            "official": "گرنزی",
+            "common": "گرنزی"
+        }
+    },
+    "latlng": [
+        49.46666666,
+        -2.58333333
+    ],
+    "demonym": "Channel Islander",
+    "landlocked": false,
+    "borders": [],
+    "area": 78,
+    "flag": "🇬🇬"
+}

@@ -1,0 +1,129 @@
+{
+    "name": {
+        "common": "Pitcairn Islands",
+        "official": "Pitcairn Group of Islands",
+        "native": {
+            "eng": {
+                "official": "Pitcairn Group of Islands",
+                "common": "Pitcairn Islands"
+            }
+        }
+    },
+    "tld": [
+        ".pn"
+    ],
+    "cca2": "PN",
+    "ccn3": "612",
+    "cca3": "PCN",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "NZD": {
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "Adamstown"
+    ],
+    "altSpellings": [
+        "PN",
+        "Pitcairn",
+        "Pitcairn Henderson Ducie and Oeno Islands"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Pitcairnovy ostrovy",
+            "common": "Pitcairnovy ostrovy"
+        },
+        "deu": {
+            "official": "Pitcairninseln",
+            "common": "Pitcairninseln"
+        },
+        "fra": {
+            "official": "Groupe d'îles Pitcairn",
+            "common": "Îles Pitcairn"
+        },
+        "hrv": {
+            "official": "Pitcairn skupine otoka",
+            "common": "Pitcairnovo otočje"
+        },
+        "ita": {
+            "official": "Pitcairn gruppo di isole",
+            "common": "Isole Pitcairn"
+        },
+        "jpn": {
+            "official": "島のピトケアングループ",
+            "common": "ピトケアン"
+        },
+        "nld": {
+            "official": "Pitcairn groep eilanden",
+            "common": "Pitcairneilanden"
+        },
+        "por": {
+            "official": "Pitcairn grupo de ilhas",
+            "common": "Ilhas Pitcairn"
+        },
+        "rus": {
+            "official": "Питкэрн группа островов",
+            "common": "Острова Питкэрн"
+        },
+        "slk": {
+            "official": "Pitcairnove ostrovy",
+            "common": "Pitcairnove ostrovy"
+        },
+        "spa": {
+            "official": "Grupo de Islas Pitcairn",
+            "common": "Islas Pitcairn"
+        },
+        "fin": {
+            "official": "Pitcairn",
+            "common": "Pitcairn"
+        },
+        "est": {
+            "official": "Pitcairni, Hendersoni, Ducie ja Oeno saar",
+            "common": "Pitcairn"
+        },
+        "zho": {
+            "official": "皮特凯恩群岛",
+            "common": "皮特凯恩群岛"
+        },
+        "pol": {
+            "official": "Wyspy Pitcairn, Henderson, Ducie i Oeno",
+            "common": "Pitcairn"
+        },
+        "urd": {
+            "official": "پٹکیرن جزائر",
+            "common": "جزائر پٹکیرن"
+        },
+        "kor": {
+            "official": "핏케언 제도",
+            "common": "핏케언 제도"
+        },
+        "per": {
+            "official": "جزایر پیت‌کرن",
+            "common": "جزایر پیت‌کرن"
+        }
+    },
+    "latlng": [
+        -25.06666666,
+        -130.1
+    ],
+    "demonym": "Pitcairn Islander",
+    "landlocked": false,
+    "borders": [],
+    "area": 47,
+    "flag": "🇵🇳"
+}
