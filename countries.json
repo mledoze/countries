@@ -125,11 +125,20 @@
             12.5,
             -69.96666666
         ],
-        "demonym": "Aruban",
         "landlocked": false,
         "borders": [],
         "area": 180,
-        "flag": "\ud83c\udde6\ud83c\uddfc"
+        "flag": "\ud83c\udde6\ud83c\uddfc",
+        "demonyms": {
+            "eng": {
+                "f": "Aruban",
+                "m": "Aruban"
+            },
+            "fra": {
+                "f": "Arubaise",
+                "m": "Arubais"
+            }
+        }
     },
     {
         "name": {
@@ -557,11 +566,20 @@
             18.25,
             -63.16666666
         ],
-        "demonym": "Anguillian",
         "landlocked": false,
         "borders": [],
         "area": 91,
-        "flag": "\ud83c\udde6\ud83c\uddee"
+        "flag": "\ud83c\udde6\ud83c\uddee",
+        "demonyms": {
+            "eng": {
+                "f": "Anguillian",
+                "m": "Anguillian"
+            },
+            "fra": {
+                "f": "Anguillane",
+                "m": "Anguillan"
+            }
+        }
     },
     {
         "name": {
@@ -687,11 +705,20 @@
             60.116667,
             19.9
         ],
-        "demonym": "\u00c5landish",
         "landlocked": false,
         "borders": [],
         "area": 1580,
-        "flag": "\ud83c\udde6\ud83c\uddfd"
+        "flag": "\ud83c\udde6\ud83c\uddfd",
+        "demonyms": {
+            "eng": {
+                "f": "\u00c5landish",
+                "m": "\u00c5landish"
+            },
+            "fra": {
+                "f": "\u00c5landaise",
+                "m": "\u00c5landais"
+            }
+        }
     },
     {
         "name": {
@@ -1558,11 +1585,20 @@
             -14.33333333,
             -170
         ],
-        "demonym": "American Samoan",
         "landlocked": false,
         "borders": [],
         "area": 199,
-        "flag": "\ud83c\udde6\ud83c\uddf8"
+        "flag": "\ud83c\udde6\ud83c\uddf8",
+        "demonyms": {
+            "eng": {
+                "f": "American Samoan",
+                "m": "American Samoan"
+            },
+            "fra": {
+                "f": "Samoane",
+                "m": "Samoan"
+            }
+        }
     },
     {
         "name": {
@@ -1675,11 +1711,20 @@
             -90,
             0
         ],
-        "demonym": "Antarctican",
         "landlocked": false,
         "borders": [],
         "area": 14000000,
-        "flag": "\ud83c\udde6\ud83c\uddf6"
+        "flag": "\ud83c\udde6\ud83c\uddf6",
+        "demonyms": {
+            "eng": {
+                "f": "Antarctican",
+                "m": "Antarctican"
+            },
+            "fra": {
+                "f": "Antarcticaine",
+                "m": "Antarcticain"
+            }
+        }
     },
     {
         "name": {
@@ -1803,11 +1848,20 @@
             -49.25,
             69.167
         ],
-        "demonym": "French",
         "landlocked": false,
         "borders": [],
         "area": 7747,
-        "flag": "\ud83c\uddf9\ud83c\uddeb"
+        "flag": "\ud83c\uddf9\ud83c\uddeb",
+        "demonyms": {
+            "eng": {
+                "f": "French",
+                "m": "French"
+            },
+            "fra": {
+                "f": "Fran\u00e7aise",
+                "m": "Fran\u00e7ais"
+            }
+        }
     },
     {
         "name": {
@@ -3862,11 +3916,20 @@
             18.5,
             -63.41666666
         ],
-        "demonym": "Saint Barth\u00e9lemy Islander",
         "landlocked": false,
         "borders": [],
         "area": 21,
-        "flag": "\ud83c\udde7\ud83c\uddf1"
+        "flag": "\ud83c\udde7\ud83c\uddf1",
+        "demonyms": {
+            "eng": {
+                "f": "Saint Barth\u00e9lemy Islander",
+                "m": "Saint Barth\u00e9lemy Islander"
+            },
+            "fra": {
+                "f": "Barth\u00e9lom\u00e9enne",
+                "m": "Barth\u00e9lom\u00e9en"
+            }
+        }
     },
     {
         "name": {
@@ -3996,11 +4059,20 @@
             -15.95,
             -5.72
         ],
-        "demonym": "Saint Helenian",
         "landlocked": false,
         "borders": [],
         "area": 394,
-        "flag": "\ud83c\uddf8\ud83c\udded"
+        "flag": "\ud83c\uddf8\ud83c\udded",
+        "demonyms": {
+            "eng": {
+                "f": "Saint Helenian",
+                "m": "Saint Helenian"
+            },
+            "fra": {
+                "f": "Sainte-H\u00e9l\u00e9noise",
+                "m": "Sainte-H\u00e9l\u00e8nois"
+            }
+        }
     },
     {
         "name": {
@@ -4438,11 +4510,20 @@
             32.33333333,
             -64.75
         ],
-        "demonym": "Bermudian",
         "landlocked": false,
         "borders": [],
         "area": 54,
-        "flag": "\ud83c\udde7\ud83c\uddf2"
+        "flag": "\ud83c\udde7\ud83c\uddf2",
+        "demonyms": {
+            "eng": {
+                "f": "Bermudian",
+                "m": "Bermudian"
+            },
+            "fra": {
+                "f": "Bermudienne",
+                "m": "Bermudien"
+            }
+        }
     },
     {
         "name": {
@@ -4739,11 +4820,20 @@
             12.18,
             -68.25
         ],
-        "demonym": "Dutch",
         "landlocked": false,
         "borders": [],
         "area": 328,
-        "flag": ""
+        "flag": "",
+        "demonyms": {
+            "eng": {
+                "f": "Dutch",
+                "m": "Dutch"
+            },
+            "fra": {
+                "f": "N\u00e9erlandaise",
+                "m": "N\u00e9erlandais"
+            }
+        }
     },
     {
         "name": {
@@ -5454,11 +5544,20 @@
             -54.43333333,
             3.4
         ],
-        "demonym": "",
         "landlocked": false,
         "borders": [],
         "area": 49,
-        "flag": "\ud83c\udde7\ud83c\uddfb"
+        "flag": "\ud83c\udde7\ud83c\uddfb",
+        "demonyms": {
+            "eng": {
+                "f": "",
+                "m": ""
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -6036,11 +6135,20 @@
             -12.5,
             96.83333333
         ],
-        "demonym": "Cocos Islander",
         "landlocked": false,
         "borders": [],
         "area": 14,
-        "flag": "\ud83c\udde8\ud83c\udde8"
+        "flag": "\ud83c\udde8\ud83c\udde8",
+        "demonyms": {
+            "eng": {
+                "f": "Cocos Islander",
+                "m": "Cocos Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -6962,7 +7070,6 @@
             0,
             25
         ],
-        "demonym": "Congolese",
         "landlocked": false,
         "borders": [
             "AGO",
@@ -6976,7 +7083,17 @@
             "ZMB"
         ],
         "area": 2344858,
-        "flag": "\ud83c\udde8\ud83c\udde9"
+        "flag": "\ud83c\udde8\ud83c\udde9",
+        "demonyms": {
+            "eng": {
+                "f": "Congolese",
+                "m": "Congolese"
+            },
+            "fra": {
+                "f": "Congolaise",
+                "m": "Congolais"
+            }
+        }
     },
     {
         "name": {
@@ -7271,11 +7388,20 @@
             -21.23333333,
             -159.76666666
         ],
-        "demonym": "Cook Islander",
         "landlocked": false,
         "borders": [],
         "area": 236,
-        "flag": "\ud83c\udde8\ud83c\uddf0"
+        "flag": "\ud83c\udde8\ud83c\uddf0",
+        "demonyms": {
+            "eng": {
+                "f": "Cook Islander",
+                "m": "Cook Islander"
+            },
+            "fra": {
+                "f": "Cookienne",
+                "m": "Cookien"
+            }
+        }
     },
     {
         "name": {
@@ -8281,11 +8407,20 @@
             -10.5,
             105.66666666
         ],
-        "demonym": "Christmas Islander",
         "landlocked": false,
         "borders": [],
         "area": 135,
-        "flag": "\ud83c\udde8\ud83c\uddfd"
+        "flag": "\ud83c\udde8\ud83c\uddfd",
+        "demonyms": {
+            "eng": {
+                "f": "Christmas Islander",
+                "m": "Christmas Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -8412,11 +8547,20 @@
             19.5,
             -80.5
         ],
-        "demonym": "Caymanian",
         "landlocked": false,
         "borders": [],
         "area": 264,
-        "flag": "\ud83c\uddf0\ud83c\uddfe"
+        "flag": "\ud83c\uddf0\ud83c\uddfe",
+        "demonyms": {
+            "eng": {
+                "f": "Caymanian",
+                "m": "Caymanian"
+            },
+            "fra": {
+                "f": "Ca\u00efmanienne",
+                "m": "Ca\u00efmanien"
+            }
+        }
     },
     {
         "name": {
@@ -10198,7 +10342,6 @@
             24.5,
             -13
         ],
-        "demonym": "Sahrawi",
         "landlocked": false,
         "borders": [
             "DZA",
@@ -10206,7 +10349,17 @@
             "MAR"
         ],
         "area": 266000,
-        "flag": "\ud83c\uddea\ud83c\udded"
+        "flag": "\ud83c\uddea\ud83c\udded",
+        "demonyms": {
+            "eng": {
+                "f": "Sahrawi",
+                "m": "Sahrawi"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -11070,11 +11223,20 @@
             -51.75,
             -59
         ],
-        "demonym": "Falkland Islander",
         "landlocked": false,
         "borders": [],
         "area": 12173,
-        "flag": "\ud83c\uddeb\ud83c\uddf0"
+        "flag": "\ud83c\uddeb\ud83c\uddf0",
+        "demonyms": {
+            "eng": {
+                "f": "Falkland Islander",
+                "m": "Falkland Islander"
+            },
+            "fra": {
+                "f": "Malouinne",
+                "m": "Malouin"
+            }
+        }
     },
     {
         "name": {
@@ -11355,11 +11517,20 @@
             62,
             -7
         ],
-        "demonym": "Faroese",
         "landlocked": false,
         "borders": [],
         "area": 1393,
-        "flag": "\ud83c\uddeb\ud83c\uddf4"
+        "flag": "\ud83c\uddeb\ud83c\uddf4",
+        "demonyms": {
+            "eng": {
+                "f": "Faroese",
+                "m": "Faroese"
+            },
+            "fra": {
+                "f": "F\u00e9ro\u00efenne",
+                "m": "F\u00e9ro\u00efen"
+            }
+        }
     },
     {
         "name": {
@@ -12055,11 +12226,20 @@
             49.46666666,
             -2.58333333
         ],
-        "demonym": "Channel Islander",
         "landlocked": false,
         "borders": [],
         "area": 78,
-        "flag": "\ud83c\uddec\ud83c\uddec"
+        "flag": "\ud83c\uddec\ud83c\uddec",
+        "demonyms": {
+            "eng": {
+                "f": "Channel Islander",
+                "m": "Channel Islander"
+            },
+            "fra": {
+                "f": "Guernesiaise",
+                "m": "Guernesiais"
+            }
+        }
     },
     {
         "name": {
@@ -12322,13 +12502,22 @@
             36.13333333,
             -5.35
         ],
-        "demonym": "Gibraltar",
         "landlocked": false,
         "borders": [
             "ESP"
         ],
         "area": 6,
-        "flag": "\ud83c\uddec\ud83c\uddee"
+        "flag": "\ud83c\uddec\ud83c\uddee",
+        "demonyms": {
+            "eng": {
+                "f": "Gibraltar",
+                "m": "Gibraltar"
+            },
+            "fra": {
+                "f": "Gibraltarienne",
+                "m": "Gibraltarien"
+            }
+        }
     },
     {
         "name": {
@@ -12597,11 +12786,20 @@
             16.25,
             -61.583333
         ],
-        "demonym": "Guadeloupian",
         "landlocked": false,
         "borders": [],
         "area": 1628,
-        "flag": "\ud83c\uddec\ud83c\uddf5"
+        "flag": "\ud83c\uddec\ud83c\uddf5",
+        "demonyms": {
+            "eng": {
+                "f": "Guadeloupian",
+                "m": "Guadeloupian"
+            },
+            "fra": {
+                "f": "Guadeloup\u00e9enne",
+                "m": "Guadeloup\u00e9en"
+            }
+        }
     },
     {
         "name": {
@@ -13447,11 +13645,20 @@
             72,
             -40
         ],
-        "demonym": "Greenlandic",
         "landlocked": false,
         "borders": [],
         "area": 2166086,
-        "flag": "\ud83c\uddec\ud83c\uddf1"
+        "flag": "\ud83c\uddec\ud83c\uddf1",
+        "demonyms": {
+            "eng": {
+                "f": "Greenlandic",
+                "m": "Greenlandic"
+            },
+            "fra": {
+                "f": "Groenlandaise",
+                "m": "Groenlandais"
+            }
+        }
     },
     {
         "name": {
@@ -13717,14 +13924,23 @@
             4,
             -53
         ],
-        "demonym": "Guianan",
         "landlocked": false,
         "borders": [
             "BRA",
             "SUR"
         ],
         "area": 83534,
-        "flag": "\ud83c\uddec\ud83c\uddeb"
+        "flag": "\ud83c\uddec\ud83c\uddeb",
+        "demonyms": {
+            "eng": {
+                "f": "Guianan",
+                "m": "Guianan"
+            },
+            "fra": {
+                "f": "Guyanaise",
+                "m": "Guyanais"
+            }
+        }
     },
     {
         "name": {
@@ -13858,11 +14074,20 @@
             13.46666666,
             144.78333333
         ],
-        "demonym": "Guamanian",
         "landlocked": false,
         "borders": [],
         "area": 549,
-        "flag": "\ud83c\uddec\ud83c\uddfa"
+        "flag": "\ud83c\uddec\ud83c\uddfa",
+        "demonyms": {
+            "eng": {
+                "f": "Guamanian",
+                "m": "Guamanian"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -14128,13 +14353,22 @@
             22.267,
             114.188
         ],
-        "demonym": "Hong Konger",
         "landlocked": false,
         "borders": [
             "CHN"
         ],
         "area": 1104,
-        "flag": "\ud83c\udded\ud83c\uddf0"
+        "flag": "\ud83c\udded\ud83c\uddf0",
+        "demonyms": {
+            "eng": {
+                "f": "Hong Konger",
+                "m": "Hong Konger"
+            },
+            "fra": {
+                "f": "Hongkongaise",
+                "m": "Hongkongais"
+            }
+        }
     },
     {
         "name": {
@@ -14254,11 +14488,20 @@
             -53.1,
             72.51666666
         ],
-        "demonym": "Heard and McDonald Islander",
         "landlocked": false,
         "borders": [],
         "area": 412,
-        "flag": "\ud83c\udded\ud83c\uddf2"
+        "flag": "\ud83c\udded\ud83c\uddf2",
+        "demonyms": {
+            "eng": {
+                "f": "Heard and McDonald Islander",
+                "m": "Heard and McDonald Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -15116,11 +15359,20 @@
             54.25,
             -4.5
         ],
-        "demonym": "Manx",
         "landlocked": false,
         "borders": [],
         "area": 572,
-        "flag": "\ud83c\uddee\ud83c\uddf2"
+        "flag": "\ud83c\uddee\ud83c\uddf2",
+        "demonyms": {
+            "eng": {
+                "f": "Manx",
+                "m": "Manx"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -15404,11 +15656,20 @@
             -6,
             71.5
         ],
-        "demonym": "Indian",
         "landlocked": false,
         "borders": [],
         "area": 60,
-        "flag": "\ud83c\uddee\ud83c\uddf4"
+        "flag": "\ud83c\uddee\ud83c\uddf4",
+        "demonyms": {
+            "eng": {
+                "f": "Indian",
+                "m": "Indian"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -16567,11 +16828,20 @@
             49.25,
             -2.16666666
         ],
-        "demonym": "Channel Islander",
         "landlocked": false,
         "borders": [],
         "area": 116,
-        "flag": "\ud83c\uddef\ud83c\uddea"
+        "flag": "\ud83c\uddef\ud83c\uddea",
+        "demonyms": {
+            "eng": {
+                "f": "Channel Islander",
+                "m": "Channel Islander"
+            },
+            "fra": {
+                "f": "Jersiaise",
+                "m": "Jersiais"
+            }
+        }
     },
     {
         "name": {
@@ -19887,13 +20157,22 @@
             22.16666666,
             113.55
         ],
-        "demonym": "Macanese",
         "landlocked": false,
         "borders": [
             "CHN"
         ],
         "area": 30,
-        "flag": "\ud83c\uddf2\ud83c\uddf4"
+        "flag": "\ud83c\uddf2\ud83c\uddf4",
+        "demonyms": {
+            "eng": {
+                "f": "Macanese",
+                "m": "Macanese"
+            },
+            "fra": {
+                "f": "Macanaise",
+                "m": "Macanais"
+            }
+        }
     },
     {
         "name": {
@@ -20020,13 +20299,22 @@
             18.08333333,
             -63.95
         ],
-        "demonym": "Saint Martin Islander",
         "landlocked": false,
         "borders": [
             "SXM"
         ],
         "area": 53,
-        "flag": "\ud83c\uddf2\ud83c\uddeb"
+        "flag": "\ud83c\uddf2\ud83c\uddeb",
+        "demonyms": {
+            "eng": {
+                "f": "Saint Martin Islander",
+                "m": "Saint Martin Islander"
+            },
+            "fra": {
+                "f": "Saint-Martinoise",
+                "m": "Saint-Martinois"
+            }
+        }
     },
     {
         "name": {
@@ -22021,11 +22309,20 @@
             15.2,
             145.75
         ],
-        "demonym": "American",
         "landlocked": false,
         "borders": [],
         "area": 464,
-        "flag": "\ud83c\uddf2\ud83c\uddf5"
+        "flag": "\ud83c\uddf2\ud83c\uddf5",
+        "demonyms": {
+            "eng": {
+                "f": "American",
+                "m": "American"
+            },
+            "fra": {
+                "f": "Am\u00e9ricaine",
+                "m": "Am\u00e9rican"
+            }
+        }
     },
     {
         "name": {
@@ -22436,11 +22733,20 @@
             16.75,
             -62.2
         ],
-        "demonym": "Montserratian",
         "landlocked": false,
         "borders": [],
         "area": 102,
-        "flag": "\ud83c\uddf2\ud83c\uddf8"
+        "flag": "\ud83c\uddf2\ud83c\uddf8",
+        "demonyms": {
+            "eng": {
+                "f": "Montserratian",
+                "m": "Montserratian"
+            },
+            "fra": {
+                "f": "Montserratienne",
+                "m": "Montserratien"
+            }
+        }
     },
     {
         "name": {
@@ -22563,11 +22869,20 @@
             14.666667,
             -61
         ],
-        "demonym": "French",
         "landlocked": false,
         "borders": [],
         "area": 1128,
-        "flag": "\ud83c\uddf2\ud83c\uddf6"
+        "flag": "\ud83c\uddf2\ud83c\uddf6",
+        "demonyms": {
+            "eng": {
+                "f": "Martinican",
+                "m": "Martinican"
+            },
+            "fra": {
+                "f": "Martiniquaise",
+                "m": "Martiniquais"
+            }
+        }
     },
     {
         "name": {
@@ -23131,11 +23446,20 @@
             -12.83333333,
             45.16666666
         ],
-        "demonym": "Mahoran",
         "landlocked": false,
         "borders": [],
         "area": 374,
-        "flag": "\ud83c\uddfe\ud83c\uddf9"
+        "flag": "\ud83c\uddfe\ud83c\uddf9",
+        "demonyms": {
+            "eng": {
+                "f": "Mahoran",
+                "m": "Mahoran"
+            },
+            "fra": {
+                "f": "Mahoraise",
+                "m": "Mahorais"
+            }
+        }
     },
     {
         "name": {
@@ -23445,11 +23769,20 @@
             -21.5,
             165.5
         ],
-        "demonym": "New Caledonian",
         "landlocked": false,
         "borders": [],
         "area": 18575,
-        "flag": "\ud83c\uddf3\ud83c\udde8"
+        "flag": "\ud83c\uddf3\ud83c\udde8",
+        "demonyms": {
+            "eng": {
+                "f": "New Caledonian",
+                "m": "New Caledonian"
+            },
+            "fra": {
+                "f": "N\u00e9o-Cal\u00e9donienne",
+                "m": "N\u00e9o-Cal\u00e9donien"
+            }
+        }
     },
     {
         "name": {
@@ -23724,11 +24057,20 @@
             -29.03333333,
             167.95
         ],
-        "demonym": "Norfolk Islander",
         "landlocked": false,
         "borders": [],
         "area": 36,
-        "flag": "\ud83c\uddf3\ud83c\uddeb"
+        "flag": "\ud83c\uddf3\ud83c\uddeb",
+        "demonyms": {
+            "eng": {
+                "f": "Norfolk Islander",
+                "m": "Norfolk Islander"
+            },
+            "fra": {
+                "f": "Norfolkaise",
+                "m": "Norfolkais"
+            }
+        }
     },
     {
         "name": {
@@ -24141,11 +24483,20 @@
             -19.03333333,
             -169.86666666
         ],
-        "demonym": "Niuean",
         "landlocked": false,
         "borders": [],
         "area": 260,
-        "flag": "\ud83c\uddf3\ud83c\uddfa"
+        "flag": "\ud83c\uddf3\ud83c\uddfa",
+        "demonyms": {
+            "eng": {
+                "f": "Niuean",
+                "m": "Niuean"
+            },
+            "fra": {
+                "f": "Niu\u00e9enne",
+                "m": "Niu\u00e9en"
+            }
+        }
     },
     {
         "name": {
@@ -25436,11 +25787,20 @@
             -25.06666666,
             -130.1
         ],
-        "demonym": "Pitcairn Islander",
         "landlocked": false,
         "borders": [],
         "area": 47,
-        "flag": "\ud83c\uddf5\ud83c\uddf3"
+        "flag": "\ud83c\uddf5\ud83c\uddf3",
+        "demonyms": {
+            "eng": {
+                "f": "Pitcairn Islander",
+                "m": "Pitcairn Islander"
+            },
+            "fra": {
+                "f": "Pitcairnaise",
+                "m": "Pitcairnais"
+            }
+        }
     },
     {
         "name": {
@@ -27034,11 +27394,20 @@
             -15,
             -140
         ],
-        "demonym": "French Polynesian",
         "landlocked": false,
         "borders": [],
         "area": 4167,
-        "flag": "\ud83c\uddf5\ud83c\uddeb"
+        "flag": "\ud83c\uddf5\ud83c\uddeb",
+        "demonyms": {
+            "eng": {
+                "f": "French Polynesian",
+                "m": "French Polynesian"
+            },
+            "fra": {
+                "f": "Polyn\u00e9sienne",
+                "m": "Polyn\u00e9sien"
+            }
+        }
     },
     {
         "name": {
@@ -27303,11 +27672,20 @@
             -21.15,
             55.5
         ],
-        "demonym": "French",
         "landlocked": false,
         "borders": [],
         "area": 2511,
-        "flag": "\ud83c\uddf7\ud83c\uddea"
+        "flag": "\ud83c\uddf7\ud83c\uddea",
+        "demonyms": {
+            "eng": {
+                "f": "R\u00e9unionese",
+                "m": "R\u00e9unionese"
+            },
+            "fra": {
+                "f": "R\u00e9unionnaise",
+                "m": "R\u00e9unionnais"
+            }
+        }
     },
     {
         "name": {
@@ -28484,11 +28862,20 @@
             -54.5,
             -37
         ],
-        "demonym": "South Georgian South Sandwich Islander",
         "landlocked": false,
         "borders": [],
         "area": 3903,
-        "flag": "\ud83c\uddec\ud83c\uddf8"
+        "flag": "\ud83c\uddec\ud83c\uddf8",
+        "demonyms": {
+            "eng": {
+                "f": "South Georgian South Sandwich Islander",
+                "m": "South Georgian South Sandwich Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -28612,11 +28999,20 @@
             78,
             20
         ],
-        "demonym": "Norwegian",
         "landlocked": false,
         "borders": [],
         "area": -1,
-        "flag": "\ud83c\uddf8\ud83c\uddef"
+        "flag": "\ud83c\uddf8\ud83c\uddef",
+        "demonyms": {
+            "eng": {
+                "f": "Norwegian",
+                "m": "Norwegian"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -29450,11 +29846,20 @@
             46.83333333,
             -56.33333333
         ],
-        "demonym": "French",
         "landlocked": false,
         "borders": [],
         "area": 242,
-        "flag": "\ud83c\uddf5\ud83c\uddf2"
+        "flag": "\ud83c\uddf5\ud83c\uddf2",
+        "demonyms": {
+            "eng": {
+                "f": "Saint-Pierrais, Miquelonnais",
+                "m": "Saint-Pierrais, Miquelonnais"
+            },
+            "fra": {
+                "f": "Saint-Pierraise, Miquelonaise",
+                "m": "Saint-Pierrais, Miquelonais"
+            }
+        }
     },
     {
         "name": {
@@ -31174,11 +31579,20 @@
             21.75,
             -71.58333333
         ],
-        "demonym": "Turks and Caicos Islander",
         "landlocked": false,
         "borders": [],
         "area": 948,
-        "flag": "\ud83c\uddf9\ud83c\udde8"
+        "flag": "\ud83c\uddf9\ud83c\udde8",
+        "demonyms": {
+            "eng": {
+                "f": "Turks and Caicos Islander",
+                "m": "Turks and Caicos Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -31906,11 +32320,20 @@
             -9,
             -172
         ],
-        "demonym": "Tokelauan",
         "landlocked": false,
         "borders": [],
         "area": 12,
-        "flag": "\ud83c\uddf9\ud83c\uddf0"
+        "flag": "\ud83c\uddf9\ud83c\uddf0",
+        "demonyms": {
+            "eng": {
+                "f": "Tokelauan",
+                "m": "Tokelauan"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -33627,11 +34050,20 @@
             19.3,
             166.633333
         ],
-        "demonym": "American",
         "landlocked": false,
         "borders": [],
         "area": 34.2,
-        "flag": "\ud83c\uddfa\ud83c\uddf2"
+        "flag": "\ud83c\uddfa\ud83c\uddf2",
+        "demonyms": {
+            "eng": {
+                "f": "American",
+                "m": "American"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -34929,11 +35361,20 @@
             18.431383,
             -64.62305
         ],
-        "demonym": "Virgin Islander",
         "landlocked": false,
         "borders": [],
         "area": 151,
-        "flag": "\ud83c\uddfb\ud83c\uddec"
+        "flag": "\ud83c\uddfb\ud83c\uddec",
+        "demonyms": {
+            "eng": {
+                "f": "Virgin Islander",
+                "m": "Virgin Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -35057,11 +35498,20 @@
             18.35,
             -64.933333
         ],
-        "demonym": "Virgin Islander",
         "landlocked": false,
         "borders": [],
         "area": 347,
-        "flag": "\ud83c\uddfb\ud83c\uddee"
+        "flag": "\ud83c\uddfb\ud83c\uddee",
+        "demonyms": {
+            "eng": {
+                "f": "Virgin Islander",
+                "m": "Virgin Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
@@ -35478,11 +35928,20 @@
             -13.3,
             -176.2
         ],
-        "demonym": "Wallis and Futuna Islander",
         "landlocked": false,
         "borders": [],
         "area": 142,
-        "flag": "\ud83c\uddfc\ud83c\uddeb"
+        "flag": "\ud83c\uddfc\ud83c\uddeb",
+        "demonyms": {
+            "eng": {
+                "f": "Wallis and Futuna Islander",
+                "m": "Wallis and Futuna Islander"
+            },
+            "fra": {
+                "f": "",
+                "m": ""
+            }
+        }
     },
     {
         "name": {
