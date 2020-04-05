@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- add a changelog
+- add a changelog (#383)
+### Changed
+- sort `translations` alphabetically (#384)
 
 ## [v4.0.0] - 2020-04-04
 ### Breaking changes
