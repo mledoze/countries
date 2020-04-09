@@ -51,6 +51,17 @@ abstract class AbstractConverter implements ConverterInterface
                 $country = array_intersect_key($country, array_flip($this->fields));
             });
         }
+
+        // generate calling codes from idd codes
+        if (array_key_exists('idd', array_flip($this->fields))) {
+            $this->countries = array_map(static function ($country) {
+                $country['callingCodes'] = array_map(static function ($suffix) use ($country) {
+                    return $country['idd']['root'] . $suffix;
+                }, $country['idd']['suffixes']);
+                return $country;
+            }, $this->countries);
+        }
+
         return file_put_contents($this->outputDirectory . $outputFile, $this->convert());
     }
 

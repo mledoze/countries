@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - sort `translations` alphabetically (#384)
 ### Build
 - add `files` in `package.json` to reduce package size (#388)
+- generate calling codes (`callingCodes`) from international direct dialing info (`idd`) (#389)
 
 ## [v4.0.0] - 2020-04-04
 ### Breaking changes
