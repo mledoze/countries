@@ -2552,7 +2552,7 @@
             ]
         },
         "capital": [
-            "Bujumbura"
+            "Gitega"
         ],
         "altSpellings": [
             "BI",
@@ -17634,7 +17634,7 @@
             ]
         },
         "capital": [
-            "Astana"
+            "Nur-Sultan"
         ],
         "altSpellings": [
             "KZ",
@@ -31742,6 +31742,10 @@
             "SZL": {
                 "name": "Swazi lilangeni",
                 "symbol": "L"
+            },
+            "ZAR": {
+                "name": "South African rand",
+                "symbol": "R"
             }
         },
         "idd": {
@@ -34993,8 +34997,8 @@
         "flag": "\ud83c\uddfa\ud83c\uddf2",
         "demonyms": {
             "eng": {
-                "f": "American",
-                "m": "American"
+                "f": "American Islander",
+                "m": "American Islander"
             },
             "fra": {
                 "f": "",
