@@ -10,6 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add Hungarian translation (#385)
 ### Changed
 - sort `translations` alphabetically (#384)
+### Fixed
+- rename capital city of Kazakhstan from Astana to Nur-Sultan (#391)
+- change capital city of Burundi from Bujumbura to Gitega (#391)
+- change demonym of United States Minor Outlying Islands to American Islander (#391)
+- add South African rand as a currency to Eswatini (#391)
 ### Build
 - add `files` in `package.json` to reduce package size (#388)
 - generate calling codes (`callingCodes`) from international direct dialing info (`idd`) (#389)
