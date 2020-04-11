@@ -5312,7 +5312,8 @@
             "The Bottom"
         ],
         "altSpellings": [
-            "BES islands"
+            "BES islands",
+            "Bonaire Sint Eustatius and Saba"
         ],
         "region": "Americas",
         "subregion": "Caribbean",
@@ -7538,6 +7539,7 @@
         "altSpellings": [
             "CI",
             "C\u00f4te d'Ivoire",
+            "Cote d'Ivoire",
             "Ivory Coast",
             "Republic of C\u00f4te d'Ivoire",
             "R\u00e9publique de C\u00f4te d'Ivoire"
@@ -7894,6 +7896,7 @@
             "DR Congo",
             "Congo-Kinshasa",
             "Congo, the Democratic Republic of the",
+            "Democratic Republic of Congo",
             "DRC"
         ],
         "region": "Africa",
@@ -12898,7 +12901,8 @@
         "altSpellings": [
             "FO",
             "F\u00f8royar",
-            "F\u00e6r\u00f8erne"
+            "F\u00e6r\u00f8erne",
+            "Faeroe Islands"
         ],
         "region": "Europe",
         "subregion": "Northern Europe",
@@ -24267,7 +24271,8 @@
             "The former Yugoslav Republic of Macedonia",
             "Republic of North Macedonia",
             "Macedonia, The Former Yugoslav Republic of",
-            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+            "Macedonia"
         ],
         "region": "Europe",
         "subregion": "Southeast Europe",
@@ -37054,6 +37059,7 @@
         "altSpellings": [
             "TL",
             "East Timor",
+            "Timor",
             "Democratic Republic of Timor-Leste",
             "Rep\u00fablica Democr\u00e1tica de Timor-Leste",
             "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste",
@@ -39747,6 +39753,7 @@
             "VA",
             "Holy See (Vatican City State)",
             "Vatican City State",
+            "Vatican",
             "Stato della Citt\u00e0 del Vaticano"
         ],
         "region": "Europe",
