@@ -1,134 +1,154 @@
 <?php
+
 namespace MLD\Converter;
 
 /**
  * Class AbstractConverter
  * @package MLD\Converter
  */
-abstract class AbstractConverter implements ConverterInterface {
+abstract class AbstractConverter implements ConverterInterface
+{
 
-	/** @var array */
-	protected $aCountries;
+    /**
+     * @var string path of the output directory
+     */
+    private $outputDirectory;
 
-	/**
-	 * @var string path of the output directory
-	 */
-	private $sOutputDirectory;
+    /** @var array defines the fields to keep */
+    private $fields;
 
-	/** @var array defines the fields to keep */
-	private $aFields;
+    /** @var array */
+    protected $countries;
 
-	/**
-	 * @param array $aCountries
-	 */
-	public function __construct(array $aCountries) {
-		$this->aCountries = $aCountries;
-	}
+    /**
+     * @param array $countries
+     */
+    public function __construct(array $countries)
+    {
+        $this->countries = $countries;
+    }
 
-	/**
-	 * Save the data to disk
-	 * @param string $sOutputFile name of the output file
-	 * @return int|bool
-	 */
-	public function save($sOutputFile = '') {
-		if (empty($this->sOutputDirectory)) {
-			$this->setDefaultOutputDirectory();
-		}
-		if (!is_dir($this->sOutputDirectory)) {
-			mkdir($this->sOutputDirectory);
-		}
-		if (empty($sOutputFile)) {
-			$sOutputFile = date('Ymd-His', time()) . '-countries';
-		}
+    /**
+     * Save the data to disk
+     * @param string $outputFile name of the output file
+     * @return int|bool
+     */
+    public function save($outputFile = '')
+    {
+        if (empty($this->outputDirectory)) {
+            $this->setDefaultOutputDirectory();
+        }
+        if (!is_dir($this->outputDirectory)) {
+            mkdir($this->outputDirectory);
+        }
+        if (empty($outputFile)) {
+            $outputFile = date('Ymd-His', time()) . '-countries';
+        }
 
-		// keep only the specified fields
-		if (!empty($this->aFields)) {
-			$aFields = $this->aFields;
-			array_walk($this->aCountries, function (&$aCountry) use ($aFields) {
-				$aCountry = array_intersect_key($aCountry, array_flip($aFields));
-			});
-		}
-		return file_put_contents($this->sOutputDirectory . $sOutputFile, $this->convert());
-	}
+        // keep only the specified fields
+        if (!empty($this->fields)) {
+            array_walk($this->countries, function (&$country) {
+                $country = array_intersect_key($country, array_flip($this->fields));
+            });
+        }
 
-	/**
-	 * Set the directory to which output will be written.
-	 *
-	 * @param string $sOutputDirectory
-	 * @return $this
-	 */
-	public function setOutputDirectory($sOutputDirectory) {
-		if (substr($sOutputDirectory, strlen($sOutputDirectory) - 1, 1) !== DIRECTORY_SEPARATOR) {
-			$sOutputDirectory .= DIRECTORY_SEPARATOR;
-		}
+        // generate calling codes from idd codes
+        if (array_key_exists('idd', array_flip($this->fields))) {
+            $this->countries = array_map(static function ($country) {
+                $country['callingCodes'] = array_map(static function ($suffix) use ($country) {
+                    return $country['idd']['root'] . $suffix;
+                }, $country['idd']['suffixes']);
+                return $country;
+            }, $this->countries);
+        }
 
-		$this->sOutputDirectory = $sOutputDirectory;
+        return file_put_contents($this->outputDirectory . $outputFile, $this->convert());
+    }
 
-		return $this;
-	}
+    /**
+     * Set the directory to which output will be written.
+     *
+     * @param string $outputDirectory
+     * @return $this
+     */
+    public function setOutputDirectory($outputDirectory)
+    {
+        if (substr($outputDirectory, strlen($outputDirectory) - 1, 1) !== DIRECTORY_SEPARATOR) {
+            $outputDirectory .= DIRECTORY_SEPARATOR;
+        }
 
-	/**
-	 * Defines the fields to keep
-	 * @param array $aFields
-	 * @return $this
-	 */
-	public function setFields(array $aFields) {
-		$this->aFields = $aFields;
+        $this->outputDirectory = $outputDirectory;
 
-		return $this;
-	}
+        return $this;
+    }
 
-	/**
-	 * Gets fields that will currently be output.
-	 * @return array A list of field names.
-	 */
-	public function getFields() {
-		if ($this->aFields !== null) {
-			return $this->aFields;
-		}
+    /**
+     * Defines the fields to keep
+     * @param array $fields
+     * @return $this
+     */
+    public function setFields(array $fields)
+    {
+        $this->fields = $fields;
 
-		if (empty($this->aCountries)) {
-			return array();
-		}
+        return $this;
+    }
 
-		return array_keys($this->aCountries[0]);
-	}
+    /**
+     * Gets fields that will currently be output.
+     * @return array A list of field names.
+     */
+    public function getFields()
+    {
+        if ($this->fields !== null) {
+            return $this->fields;
+        }
 
-	/**
-	 * Converts arrays to comma-separated strings
-	 * @param array $aInput
-	 * @param string $sGlue
-	 * @return array
-	 */
-	protected function convertArrays(array &$aInput, $sGlue = ',') {
-		return array_map(function ($value) use ($sGlue) {
-			return is_array($value) ? $this->recursiveImplode($value, $sGlue) : $value;
-		}, $aInput);
-	}
+        if (empty($this->countries)) {
+            return array();
+        }
 
-	/**
-	 * Set the default output directory
-	 */
-	private function setDefaultOutputDirectory() {
-		$this->sOutputDirectory = __DIR__ . DIRECTORY_SEPARATOR . 'dist' . DIRECTORY_SEPARATOR;
-	}
+        return array_keys($this->countries[0]);
+    }
 
-	/**
-	 * Recursively implode elements
-	 * @param array $aInput
-	 * @param $sGlue
-	 * @return string the array recursively imploded with the glue
-	 */
-	private function recursiveImplode(array $aInput, $sGlue) {
-		// remove empty strings from the array
-		$aInput = array_filter($aInput, function ($entry) {
-			return $entry !== '';
-		});
-		array_walk($aInput, function (&$value) use ($sGlue) {
-			if (is_array($value)) {
-				$value = $this->recursiveImplode($value, $sGlue);
-			}
-		});
-		return implode($sGlue, $aInput);
-	}
+    /**
+     * Converts arrays to comma-separated strings
+     * @param array $input
+     * @param string $glue
+     * @return array
+     */
+    protected function convertArrays(array &$input, $glue = ',')
+    {
+        return array_map(function ($value) use ($glue) {
+            return is_array($value) ? $this->recursiveImplode($value, $glue) : $value;
+        }, $input);
+    }
+
+    /**
+     * Set the default output directory
+     */
+    private function setDefaultOutputDirectory()
+    {
+        $this->outputDirectory = __DIR__ . DIRECTORY_SEPARATOR . 'dist' . DIRECTORY_SEPARATOR;
+    }
+
+    /**
+     * Recursively implode elements
+     * @param array $input
+     * @param string $glue
+     * @return string the array recursively imploded with the glue
+     */
+    private function recursiveImplode(array $input, $glue)
+    {
+        // remove empty strings from the array
+        $input = array_filter($input, function ($entry) {
+            return $entry !== '';
+        });
+        array_walk($input, function (&$value) use ($glue) {
+            if (is_array($value)) {
+                $value = $this->recursiveImplode($value, $glue);
+            }
+        });
+        return implode($glue, $input);
+    }
 }

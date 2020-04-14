@@ -1,20 +1,22 @@
 <?php
+
 namespace MLD\Converter;
 
 /**
  * Interface Converter
  */
-interface ConverterInterface {
+interface ConverterInterface
+{
 
-	/**
-	 * Convert into a new format
-	 * @return string
-	 */
-	public function convert();
+    /**
+     * Convert into a new format
+     * @return string
+     */
+    public function convert();
 
-	/**
-	 * Save the converted data to the disk
-	 * @return mixed
-	 */
-	public function save();
+    /**
+     * Save the converted data to the disk
+     * @return mixed
+     */
+    public function save();
 }

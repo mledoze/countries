@@ -1,49 +1,58 @@
 <?php
+
 namespace MLD\Converter;
 
 /**
  * Class CsvConverter
  */
-class CsvConverter extends AbstractConverter {
+class CsvConverter extends AbstractConverter
+{
 
-	/**
-	 * @var
-	 */
-	private $sGlue = '","';
+    /**
+     * @var string
+     */
+    private $glue = '","';
 
-	/**
-	 * @var string
-	 */
-	private $sBody = '';
+    /**
+     * @var string
+     */
+    private $body = '';
 
-	/**
-	 * @return string data converted into CSV
-	 */
-	public function convert() {
-		array_walk($this->aCountries, [$this, 'processCountry']);
-		$sHeaders = '"' . implode($this->sGlue, array_keys($this->aCountries[0])) . '"';
-		return $sHeaders . "\n" . $this->sBody;
-	}
+    /**
+     * @return string data converted into CSV
+     */
+    public function convert()
+    {
+        array_walk($this->countries, [$this, 'processCountry']);
+        $headers = '"' . implode($this->glue, array_keys($this->countries[0])) . '"';
+        return $headers . "\n" . $this->body;
+    }
 
-	/**
-	 * @return string
-	 */
-	public function getGlue() {
-		return $this->sGlue;
-	}
+    /**
+     * @return string
+     */
+    public function getGlue()
+    {
+        return $this->glue;
+    }
 
-	/**
-	 * @param string $sGlue
-	 */
-	public function setGlue($sGlue) {
-		$this->sGlue = $sGlue;
-	}
+    /**
+     * @param string $glue
+     */
+    public function setGlue($glue)
+    {
+        $this->glue = $glue;
+    }
 
-	/**
-	 * Processes a country.
-	 * @param $array
-	 */
-	private function processCountry(&$array) {
-		$this->sBody .= '"' . implode($this->sGlue, $this->convertArrays($array)) . "\"\n";
-	}
+    /**
+     * Processes a country.
+     * @param $array
+     */
+    private function processCountry(&$array)
+    {
+        if (isset($array['currencies'])) {
+            $array['currencies'] = array_keys($array['currencies']);
+        }
+        $this->body .= '"' . implode($this->glue, $this->convertArrays($array)) . "\"\n";
+    }
 }
