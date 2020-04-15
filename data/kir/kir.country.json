@@ -1,0 +1,147 @@
+{
+    "name": {
+        "common": "Kiribati",
+        "official": "Independent and Sovereign Republic of Kiribati",
+        "native": {
+            "eng": {
+                "official": "Independent and Sovereign Republic of Kiribati",
+                "common": "Kiribati"
+            },
+            "gil": {
+                "official": "Ribaberiki Kiribati",
+                "common": "Kiribati"
+            }
+        }
+    },
+    "tld": [
+        ".ki"
+    ],
+    "cca2": "KI",
+    "ccn3": "296",
+    "cca3": "KIR",
+    "cioc": "KIR",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "AUD": {
+            "name": "Australian dollar",
+            "symbol": "$"
+        },
+        "KID": {
+            "name": "Kiribati dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "86"
+        ]
+    },
+    "capital": [
+        "South Tarawa"
+    ],
+    "altSpellings": [
+        "KI",
+        "Republic of Kiribati",
+        "Ribaberiki Kiribati"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": {
+        "eng": "English",
+        "gil": "Gilbertese"
+    },
+    "translations": {
+        "ces": {
+            "official": "Republika Kiribati",
+            "common": "Kiribati"
+        },
+        "deu": {
+            "official": "Republik Kiribati",
+            "common": "Kiribati"
+        },
+        "fra": {
+            "official": "République de Kiribati",
+            "common": "Kiribati"
+        },
+        "hrv": {
+            "official": "Samostalne i suverene Republike Kiribati",
+            "common": "Kiribati"
+        },
+        "ita": {
+            "official": "Repubblica indipendente e sovrano di Kiribati",
+            "common": "Kiribati"
+        },
+        "jpn": {
+            "official": "キリバスの独立と主権共和国",
+            "common": "キリバス"
+        },
+        "nld": {
+            "official": "Onafhankelijke en soevereine republiek Kiribati",
+            "common": "Kiribati"
+        },
+        "por": {
+            "official": "Independente e soberano República de Kiribati",
+            "common": "Kiribati"
+        },
+        "rus": {
+            "official": "Независимой и суверенной Республики Кирибати",
+            "common": "Кирибати"
+        },
+        "slk": {
+            "official": "Kiribatská republika",
+            "common": "Kiribati"
+        },
+        "spa": {
+            "official": "República Independiente y Soberano de Kiribati",
+            "common": "Kiribati"
+        },
+        "fin": {
+            "official": "Kiribatin tasavalta",
+            "common": "Kiribati"
+        },
+        "est": {
+            "official": "Kiribati Vabariik",
+            "common": "Kiribati"
+        },
+        "zho": {
+            "official": "基里巴斯共和国",
+            "common": "基里巴斯"
+        },
+        "pol": {
+            "official": "Republika Kiribati",
+            "common": "Kiribati"
+        },
+        "urd": {
+            "official": "سلطنت آزاد جمہوریہ کیریباتی",
+            "common": "کیریباتی"
+        },
+        "kor": {
+            "official": "키리바시 공화국",
+            "common": "키리바시"
+        },
+        "per": {
+            "official": "جمهوری کیریباتی",
+            "common": "کیریباتی"
+        }
+    },
+    "latlng": [
+        1.41666666,
+        173
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 811,
+    "flag": "🇰🇮",
+    "demonyms": {
+        "eng": {
+            "f": "I-Kiribati",
+            "m": "I-Kiribati"
+        },
+        "fra": {
+            "f": "Kiribatienne",
+            "m": "Kiribatien"
+        }
+    }
+}

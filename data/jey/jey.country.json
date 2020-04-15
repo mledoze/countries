@@ -1,0 +1,144 @@
+{
+    "name": {
+        "common": "Jersey",
+        "official": "Bailiwick of Jersey",
+        "native": {
+            "eng": {
+                "official": "Bailiwick of Jersey",
+                "common": "Jersey"
+            },
+            "fra": {
+                "official": "Bailliage de Jersey",
+                "common": "Jersey"
+            },
+            "nrf": {
+                "official": "Bailliage dé Jèrri",
+                "common": "Jèrri"
+            }
+        }
+    },
+    "tld": [
+        ".je"
+    ],
+    "cca2": "JE",
+    "ccn3": "832",
+    "cca3": "JEY",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "GBP": {
+            "name": "British pound",
+            "symbol": "£"
+        },
+        "JEP": {
+            "name": "Jersey pound",
+            "symbol": "£"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "Saint Helier"
+    ],
+    "altSpellings": [
+        "JE",
+        "Bailiwick of Jersey",
+        "Bailliage de Jersey",
+        "Bailliage dé Jèrri"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "eng": "English",
+        "fra": "French",
+        "nrf": "Jèrriais"
+    },
+    "translations": {
+        "ces": {
+            "official": "Rychtářství Jersey",
+            "common": "Jersey"
+        },
+        "deu": {
+            "official": "Vogtei Jersey",
+            "common": "Jersey"
+        },
+        "fra": {
+            "official": "Bailliage de Jersey",
+            "common": "Jersey"
+        },
+        "hrv": {
+            "official": "Struka od Jersey",
+            "common": "Jersey"
+        },
+        "ita": {
+            "official": "Baliato di Jersey",
+            "common": "Isola di Jersey"
+        },
+        "jpn": {
+            "official": "ジャージの得意分野",
+            "common": "ジャージー"
+        },
+        "nld": {
+            "official": "Baljuwschap Jersey",
+            "common": "Jersey"
+        },
+        "por": {
+            "official": "Bailiado de Jersey",
+            "common": "Jersey"
+        },
+        "rus": {
+            "official": "Коронное владение Джерси",
+            "common": "Джерси"
+        },
+        "slk": {
+            "official": "Bailiwick Jersey",
+            "common": "Jersey"
+        },
+        "spa": {
+            "official": "Bailía de Jersey",
+            "common": "Jersey"
+        },
+        "fin": {
+            "official": "Jersey",
+            "common": "Jersey"
+        },
+        "est": {
+            "official": "Jersey foogtkond",
+            "common": "Jersey"
+        },
+        "zho": {
+            "official": "泽西岛",
+            "common": "泽西岛"
+        },
+        "pol": {
+            "official": "Jersey",
+            "common": "Jersey"
+        },
+        "urd": {
+            "official": "جرزی",
+            "common": "جرزی"
+        },
+        "kor": {
+            "official": "저지 섬",
+            "common": "저지 섬"
+        },
+        "per": {
+            "official": "جرزی",
+            "common": "جرزی"
+        }
+    },
+    "latlng": [
+        49.25,
+        -2.16666666
+    ],
+    "demonym": "Channel Islander",
+    "landlocked": false,
+    "borders": [],
+    "area": 116,
+    "flag": "🇯🇪"
+}

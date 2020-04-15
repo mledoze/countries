@@ -1,0 +1,137 @@
+{
+    "name": {
+        "common": "Saint Kitts and Nevis",
+        "official": "Federation of Saint Christopher and Nevis",
+        "native": {
+            "eng": {
+                "official": "Federation of Saint Christopher and Nevis",
+                "common": "Saint Kitts and Nevis"
+            }
+        }
+    },
+    "tld": [
+        ".kn"
+    ],
+    "cca2": "KN",
+    "ccn3": "659",
+    "cca3": "KNA",
+    "cioc": "SKN",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "XCD": {
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "869"
+        ]
+    },
+    "capital": [
+        "Basseterre"
+    ],
+    "altSpellings": [
+        "KN",
+        "Federation of Saint Christopher and Nevis"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Federace Sv. Kryštof a Nevis",
+            "common": "Svatý Kryštof a Nevis"
+        },
+        "deu": {
+            "official": "Föderation von St. Kitts und Nevis",
+            "common": "St. Kitts und Nevis"
+        },
+        "fra": {
+            "official": "Fédération de Saint-Christophe-et-Niévès",
+            "common": "Saint-Christophe-et-Niévès"
+        },
+        "hrv": {
+            "official": "Federacija Sv.Kristofora i Nevisa",
+            "common": "Sveti Kristof i Nevis"
+        },
+        "ita": {
+            "official": "Federazione di Saint Christopher e Nevis",
+            "common": "Saint Kitts e Nevis"
+        },
+        "jpn": {
+            "official": "セントクリストファーNevis連盟",
+            "common": "セントクリストファー・ネイビス"
+        },
+        "nld": {
+            "official": "Federatie van Saint Kitts en Nevis",
+            "common": "Saint Kitts en Nevis"
+        },
+        "por": {
+            "official": "Federação de São Cristóvão e Nevis",
+            "common": "São Cristóvão e Nevis"
+        },
+        "rus": {
+            "official": "Федерация Сент-Кристофер и Н е в и с",
+            "common": "Сент-Китс и Невис"
+        },
+        "slk": {
+            "official": "Feder໡cia Svätého Krištofa a Nevisu",
+            "common": "Svätý Krištof a Nevis"
+        },
+        "spa": {
+            "official": "Federación de San Cristóbal y Nevis",
+            "common": "San Cristóbal y Nieves"
+        },
+        "fin": {
+            "official": "Saint Christopherin ja Nevisin federaatio",
+            "common": "Saint Kitts ja Nevis"
+        },
+        "est": {
+            "official": "Saint Kittsi ja Nevise Föderatsioon",
+            "common": "Saint Kitts ja Nevis"
+        },
+        "zho": {
+            "official": "圣克里斯托弗和尼维斯联邦",
+            "common": "圣基茨和尼维斯"
+        },
+        "pol": {
+            "official": "Federacja Saint Kitts i Nevis",
+            "common": "Saint Kitts i Nevis"
+        },
+        "urd": {
+            "official": "وفاقِ سینٹ کیٹز و ناویس",
+            "common": "سینٹ کیٹز و ناویس"
+        },
+        "kor": {
+            "official": "세인트키츠 네비스 연방",
+            "common": "세인트키츠 네비스"
+        },
+        "per": {
+            "official": "فدراسیون سنت کیتس و نویس",
+            "common": "سنت کیتس و نویس"
+        }
+    },
+    "latlng": [
+        17.33333333,
+        -62.75
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 261,
+    "flag": "🇰🇳",
+    "demonyms": {
+        "eng": {
+            "f": "Kittitian or Nevisian",
+            "m": "Kittitian or Nevisian"
+        },
+        "fra": {
+            "f": "Kittitienne-et-nevicienne",
+            "m": "Kittitien-et-nevicien"
+        }
+    }
+}

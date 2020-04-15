@@ -1,0 +1,145 @@
+{
+    "name": {
+        "common": "Romania",
+        "official": "Romania",
+        "native": {
+            "ron": {
+                "official": "România",
+                "common": "România"
+            }
+        }
+    },
+    "tld": [
+        ".ro"
+    ],
+    "cca2": "RO",
+    "ccn3": "642",
+    "cca3": "ROU",
+    "cioc": "ROU",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "RON": {
+            "name": "Romanian leu",
+            "symbol": "lei"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "0"
+        ]
+    },
+    "capital": [
+        "Bucharest"
+    ],
+    "altSpellings": [
+        "RO",
+        "Rumania",
+        "Roumania",
+        "România"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": {
+        "ron": "Romanian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Rumunsko",
+            "common": "Rumunsko"
+        },
+        "deu": {
+            "official": "Rumänien",
+            "common": "Rumänien"
+        },
+        "fra": {
+            "official": "Roumanie",
+            "common": "Roumanie"
+        },
+        "hrv": {
+            "official": "Rumunija",
+            "common": "Rumunjska"
+        },
+        "ita": {
+            "official": "Romania",
+            "common": "Romania"
+        },
+        "jpn": {
+            "official": "ルーマニア",
+            "common": "ルーマニア"
+        },
+        "nld": {
+            "official": "Roemenië",
+            "common": "Roemenië"
+        },
+        "por": {
+            "official": "Romênia",
+            "common": "Roménia"
+        },
+        "rus": {
+            "official": "Румыния",
+            "common": "Румыния"
+        },
+        "slk": {
+            "official": "Rumunsko",
+            "common": "Rumunsko"
+        },
+        "spa": {
+            "official": "Rumania",
+            "common": "Rumania"
+        },
+        "fin": {
+            "official": "Romania",
+            "common": "Romania"
+        },
+        "est": {
+            "official": "Rumeenia",
+            "common": "Rumeenia"
+        },
+        "zho": {
+            "official": "罗马尼亚",
+            "common": "罗马尼亚"
+        },
+        "pol": {
+            "official": "Rumunia",
+            "common": "Rumunia"
+        },
+        "urd": {
+            "official": "رومانیہ",
+            "common": "رومانیہ"
+        },
+        "kor": {
+            "official": "루마니아",
+            "common": "루마니아"
+        },
+        "per": {
+            "official": "رومانی",
+            "common": "رومانی"
+        }
+    },
+    "latlng": [
+        46,
+        25
+    ],
+    "landlocked": false,
+    "borders": [
+        "BGR",
+        "HUN",
+        "MDA",
+        "SRB",
+        "UKR"
+    ],
+    "area": 238391,
+    "flag": "🇷🇴",
+    "demonyms": {
+        "eng": {
+            "f": "Romanian",
+            "m": "Romanian"
+        },
+        "fra": {
+            "f": "Roumaine",
+            "m": "Roumain"
+        }
+    }
+}

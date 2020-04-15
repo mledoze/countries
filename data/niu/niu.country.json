@@ -1,0 +1,132 @@
+{
+    "name": {
+        "common": "Niue",
+        "official": "Niue",
+        "native": {
+            "eng": {
+                "official": "Niue",
+                "common": "Niue"
+            },
+            "niu": {
+                "official": "Niuē",
+                "common": "Niuē"
+            }
+        }
+    },
+    "tld": [
+        ".nu"
+    ],
+    "cca2": "NU",
+    "ccn3": "570",
+    "cca3": "NIU",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "NZD": {
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "83"
+        ]
+    },
+    "capital": [
+        "Alofi"
+    ],
+    "altSpellings": [
+        "NU"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+        "eng": "English",
+        "niu": "Niuean"
+    },
+    "translations": {
+        "ces": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "deu": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "fra": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "hrv": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "ita": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "jpn": {
+            "official": "ニウエ",
+            "common": "ニウエ"
+        },
+        "nld": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "por": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "rus": {
+            "official": "Ниуэ",
+            "common": "Ниуэ"
+        },
+        "slk": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "spa": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "fin": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "est": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "zho": {
+            "official": "纽埃",
+            "common": "纽埃"
+        },
+        "pol": {
+            "official": "Niue",
+            "common": "Niue"
+        },
+        "urd": {
+            "official": "نیووے",
+            "common": "نیووے"
+        },
+        "kor": {
+            "official": "니우에",
+            "common": "니우에"
+        },
+        "per": {
+            "official": "نیووی",
+            "common": "نیووی"
+        }
+    },
+    "latlng": [
+        -19.03333333,
+        -169.86666666
+    ],
+    "demonym": "Niuean",
+    "landlocked": false,
+    "borders": [],
+    "area": 260,
+    "flag": "🇳🇺"
+}

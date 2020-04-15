@@ -1,0 +1,134 @@
+{
+    "name": {
+        "common": "Norfolk Island",
+        "official": "Territory of Norfolk Island",
+        "native": {
+            "eng": {
+                "official": "Territory of Norfolk Island",
+                "common": "Norfolk Island"
+            },
+            "pih": {
+                "official": "Teratri of Norf'k Ailen",
+                "common": "Norf'k Ailen"
+            }
+        }
+    },
+    "tld": [
+        ".nf"
+    ],
+    "cca2": "NF",
+    "ccn3": "574",
+    "cca3": "NFK",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "AUD": {
+            "name": "Australian dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "72"
+        ]
+    },
+    "capital": [
+        "Kingston"
+    ],
+    "altSpellings": [
+        "NF",
+        "Territory of Norfolk Island",
+        "Teratri of Norf'k Ailen"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": {
+        "eng": "English",
+        "pih": "Norfuk"
+    },
+    "translations": {
+        "ces": {
+            "official": "Teritorium ostrova Norfolk",
+            "common": "Norfolk"
+        },
+        "deu": {
+            "official": "Gebiet der Norfolkinsel",
+            "common": "Norfolkinsel"
+        },
+        "fra": {
+            "official": "Territoire de l'île Norfolk",
+            "common": "Île Norfolk"
+        },
+        "hrv": {
+            "official": "Teritorij Norfolk Island",
+            "common": "Otok Norfolk"
+        },
+        "ita": {
+            "official": "Territorio di Norfolk Island",
+            "common": "Isola Norfolk"
+        },
+        "jpn": {
+            "official": "ノーフォーク島の領土",
+            "common": "ノーフォーク島"
+        },
+        "nld": {
+            "official": "Grondgebied van Norfolk Island",
+            "common": "Norfolkeiland"
+        },
+        "por": {
+            "official": "Território da Ilha Norfolk",
+            "common": "Ilha Norfolk"
+        },
+        "rus": {
+            "official": "Территория острова Норфолк",
+            "common": "Норфолк"
+        },
+        "slk": {
+            "official": "Teritórium ostrova Norfolk",
+            "common": "Norfolk"
+        },
+        "spa": {
+            "official": "Territorio de la Isla Norfolk",
+            "common": "Isla de Norfolk"
+        },
+        "fin": {
+            "official": "Norfolkinsaaren territorio",
+            "common": "Norfolkinsaari"
+        },
+        "est": {
+            "official": "Norfolki saare ala",
+            "common": "Norfolk"
+        },
+        "zho": {
+            "official": "诺福克岛",
+            "common": "诺福克岛"
+        },
+        "pol": {
+            "official": "Terytorium Wyspy Norfolk",
+            "common": "Wyspa Norfolk"
+        },
+        "urd": {
+            "official": "جزیرہ نورفک خطہ",
+            "common": "جزیرہ نورفک"
+        },
+        "kor": {
+            "official": "노퍽 섬",
+            "common": "노퍽 섬"
+        },
+        "per": {
+            "official": "قلمرو جزایر نورفک",
+            "common": "جزیره نورفک"
+        }
+    },
+    "latlng": [
+        -29.03333333,
+        167.95
+    ],
+    "demonym": "Norfolk Islander",
+    "landlocked": false,
+    "borders": [],
+    "area": 36,
+    "flag": "🇳🇫"
+}

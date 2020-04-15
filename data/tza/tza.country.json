@@ -1,0 +1,153 @@
+{
+    "name": {
+        "common": "Tanzania",
+        "official": "United Republic of Tanzania",
+        "native": {
+            "eng": {
+                "official": "United Republic of Tanzania",
+                "common": "Tanzania"
+            },
+            "swa": {
+                "official": "Jamhuri ya Muungano wa Tanzania",
+                "common": "Tanzania"
+            }
+        }
+    },
+    "tld": [
+        ".tz"
+    ],
+    "cca2": "TZ",
+    "ccn3": "834",
+    "cca3": "TZA",
+    "cioc": "TAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "TZS": {
+            "name": "Tanzanian shilling",
+            "symbol": "Sh"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "55"
+        ]
+    },
+    "capital": [
+        "Dodoma"
+    ],
+    "altSpellings": [
+        "TZ",
+        "Tanzania, United Republic of",
+        "United Republic of Tanzania",
+        "Jamhuri ya Muungano wa Tanzania"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "eng": "English",
+        "swa": "Swahili"
+    },
+    "translations": {
+        "ces": {
+            "official": "Sjednocená tanzanská republika",
+            "common": "Tanzanie"
+        },
+        "deu": {
+            "official": "Vereinigte Republik Tansania",
+            "common": "Tansania"
+        },
+        "fra": {
+            "official": "République -Unie de Tanzanie",
+            "common": "Tanzanie"
+        },
+        "hrv": {
+            "official": "Ujedinjena Republika Tanzanija",
+            "common": "Tanzanija"
+        },
+        "ita": {
+            "official": "Repubblica Unita di Tanzania",
+            "common": "Tanzania"
+        },
+        "jpn": {
+            "official": "タンザニア連合共和国",
+            "common": "タンザニア"
+        },
+        "nld": {
+            "official": "Verenigde Republiek Tanzania",
+            "common": "Tanzania"
+        },
+        "por": {
+            "official": "República Unida da Tanzânia",
+            "common": "Tanzânia"
+        },
+        "rus": {
+            "official": "Объединенная Республика Танзания",
+            "common": "Танзания"
+        },
+        "slk": {
+            "official": "Tanzánijská zjednotená republika",
+            "common": "Tanzánia"
+        },
+        "spa": {
+            "official": "República Unida de Tanzania",
+            "common": "Tanzania"
+        },
+        "fin": {
+            "official": "Tansanian yhdistynyt tasavalta",
+            "common": "Tansania"
+        },
+        "est": {
+            "official": "Tansaania Ühendvabariik",
+            "common": "Tansaania"
+        },
+        "zho": {
+            "official": "坦桑尼亚联合共和国",
+            "common": "坦桑尼亚"
+        },
+        "pol": {
+            "official": "Zjednoczona Republika Tanzanii",
+            "common": "Tanzania"
+        },
+        "urd": {
+            "official": "متحدہ جمہوریہ تنزانیہ",
+            "common": "تنزانیہ"
+        },
+        "kor": {
+            "official": "탄자니아 연합 공화국",
+            "common": "탄자니아"
+        },
+        "per": {
+            "official": "جمهوری متحد تانزانیا",
+            "common": "تانزانیا"
+        }
+    },
+    "latlng": [
+        -6,
+        35
+    ],
+    "landlocked": false,
+    "borders": [
+        "BDI",
+        "COD",
+        "KEN",
+        "MWI",
+        "MOZ",
+        "RWA",
+        "UGA",
+        "ZMB"
+    ],
+    "area": 945087,
+    "flag": "🇹🇿",
+    "demonyms": {
+        "eng": {
+            "f": "Tanzanian",
+            "m": "Tanzanian"
+        },
+        "fra": {
+            "f": "Tanzanienne",
+            "m": "Tanzanien"
+        }
+    }
+}

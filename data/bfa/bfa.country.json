@@ -1,0 +1,147 @@
+{
+    "name": {
+        "common": "Burkina Faso",
+        "official": "Burkina Faso",
+        "native": {
+            "fra": {
+                "official": "République du Burkina",
+                "common": "Burkina Faso"
+            }
+        }
+    },
+    "tld": [
+        ".bf"
+    ],
+    "cca2": "BF",
+    "ccn3": "854",
+    "cca3": "BFA",
+    "cioc": "BUR",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "XOF": {
+            "name": "West African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "26"
+        ]
+    },
+    "capital": [
+        "Ouagadougou"
+    ],
+    "altSpellings": [
+        "BF"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ces": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "cym": {
+            "official": "Bwrcina Ffaso",
+            "common": "Bwrcina Ffaso"
+        },
+        "deu": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "fra": {
+            "official": "République du Burkina",
+            "common": "Burkina Faso"
+        },
+        "hrv": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "ita": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "jpn": {
+            "official": "ブルキナファソ",
+            "common": "ブルキナファソ"
+        },
+        "nld": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "por": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "rus": {
+            "official": "Буркина -Фасо",
+            "common": "Буркина-Фасо"
+        },
+        "slk": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "spa": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "fin": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "est": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "zho": {
+            "official": "布基纳法索",
+            "common": "布基纳法索"
+        },
+        "pol": {
+            "official": "Burkina Faso",
+            "common": "Burkina Faso"
+        },
+        "urd": {
+            "official": "برکینا فاسو",
+            "common": "برکینا فاسو"
+        },
+        "kor": {
+            "official": "부르키나파소",
+            "common": "부르키나파소"
+        },
+        "per": {
+            "official": "بورکینافاسو",
+            "common": "بورکینافاسو"
+        }
+    },
+    "latlng": [
+        13,
+        -2
+    ],
+    "landlocked": true,
+    "borders": [
+        "BEN",
+        "CIV",
+        "GHA",
+        "MLI",
+        "NER",
+        "TGO"
+    ],
+    "area": 272967,
+    "flag": "🇧🇫",
+    "demonyms": {
+        "eng": {
+            "f": "Burkinabe",
+            "m": "Burkinabe"
+        },
+        "fra": {
+            "f": "Burkinabée",
+            "m": "Burkinabé"
+        }
+    }
+}

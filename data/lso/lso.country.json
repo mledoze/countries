@@ -1,0 +1,149 @@
+{
+    "name": {
+        "common": "Lesotho",
+        "official": "Kingdom of Lesotho",
+        "native": {
+            "eng": {
+                "official": "Kingdom of Lesotho",
+                "common": "Lesotho"
+            },
+            "sot": {
+                "official": "Kingdom of Lesotho",
+                "common": "Lesotho"
+            }
+        }
+    },
+    "tld": [
+        ".ls"
+    ],
+    "cca2": "LS",
+    "ccn3": "426",
+    "cca3": "LSO",
+    "cioc": "LES",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "LSL": {
+            "name": "Lesotho loti",
+            "symbol": "L"
+        },
+        "ZAR": {
+            "name": "South African rand",
+            "symbol": "R"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "66"
+        ]
+    },
+    "capital": [
+        "Maseru"
+    ],
+    "altSpellings": [
+        "LS",
+        "Kingdom of Lesotho",
+        "Muso oa Lesotho"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+        "eng": "English",
+        "sot": "Sotho"
+    },
+    "translations": {
+        "ces": {
+            "official": "Lesothské království",
+            "common": "Lesotho"
+        },
+        "deu": {
+            "official": "Königreich Lesotho",
+            "common": "Lesotho"
+        },
+        "fra": {
+            "official": "Royaume du Lesotho",
+            "common": "Lesotho"
+        },
+        "hrv": {
+            "official": "Kraljevina Lesoto",
+            "common": "Lesoto"
+        },
+        "ita": {
+            "official": "Regno del Lesotho",
+            "common": "Lesotho"
+        },
+        "jpn": {
+            "official": "レソト王国",
+            "common": "レソト"
+        },
+        "nld": {
+            "official": "Koninkrijk Lesotho",
+            "common": "Lesotho"
+        },
+        "por": {
+            "official": "Reino do Lesoto",
+            "common": "Lesoto"
+        },
+        "rus": {
+            "official": "Королевство Лесото",
+            "common": "Лесото"
+        },
+        "slk": {
+            "official": "Lesothské kráľovstvo",
+            "common": "Lesotho"
+        },
+        "spa": {
+            "official": "Reino de Lesotho",
+            "common": "Lesotho"
+        },
+        "fin": {
+            "official": "Lesothon kuningaskunta",
+            "common": "Lesotho"
+        },
+        "est": {
+            "official": "Lesotho Kuningriik",
+            "common": "Lesotho"
+        },
+        "zho": {
+            "official": "莱索托王国",
+            "common": "莱索托"
+        },
+        "pol": {
+            "official": "Królestwo Lesotho",
+            "common": "Lesotho"
+        },
+        "urd": {
+            "official": "مملکتِ لیسوتھو",
+            "common": "لیسوتھو"
+        },
+        "kor": {
+            "official": "레소토 왕국",
+            "common": "레소토"
+        },
+        "per": {
+            "official": "پادشاهی لسوتو",
+            "common": "لسوتو"
+        }
+    },
+    "latlng": [
+        -29.5,
+        28.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "ZAF"
+    ],
+    "area": 30355,
+    "flag": "🇱🇸",
+    "demonyms": {
+        "eng": {
+            "f": "Mosotho",
+            "m": "Mosotho"
+        },
+        "fra": {
+            "f": "Lésothienne",
+            "m": "Lésothien"
+        }
+    }
+}

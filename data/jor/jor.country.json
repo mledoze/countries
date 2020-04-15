@@ -1,0 +1,145 @@
+{
+    "name": {
+        "common": "Jordan",
+        "official": "Hashemite Kingdom of Jordan",
+        "native": {
+            "ara": {
+                "official": "المملكة الأردنية الهاشمية",
+                "common": "الأردن"
+            }
+        }
+    },
+    "tld": [
+        ".jo",
+        "الاردن."
+    ],
+    "cca2": "JO",
+    "ccn3": "400",
+    "cca3": "JOR",
+    "cioc": "JOR",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "JOD": {
+            "name": "Jordanian dinar",
+            "symbol": "د.ا"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "62"
+        ]
+    },
+    "capital": [
+        "Amman"
+    ],
+    "altSpellings": [
+        "JO",
+        "Hashemite Kingdom of Jordan",
+        "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+        "ara": "Arabic"
+    },
+    "translations": {
+        "ces": {
+            "official": "Jordánské hášimovské království",
+            "common": "Jordánsko"
+        },
+        "deu": {
+            "official": "Haschemitisches Königreich Jordanien",
+            "common": "Jordanien"
+        },
+        "fra": {
+            "official": "Royaume hachémite de Jordanie",
+            "common": "Jordanie"
+        },
+        "hrv": {
+            "official": "Hašemitske Kraljevine Jordan",
+            "common": "Jordan"
+        },
+        "ita": {
+            "official": "Regno hascemita di Giordania",
+            "common": "Giordania"
+        },
+        "jpn": {
+            "official": "ヨルダン·ハシミテ王国",
+            "common": "ヨルダン"
+        },
+        "nld": {
+            "official": "Hasjemitisch Koninkrijk Jordanië",
+            "common": "Jordanië"
+        },
+        "por": {
+            "official": "Reino Hachemita da Jordânia",
+            "common": "Jordânia"
+        },
+        "rus": {
+            "official": "Иорданского Хашимитского Королевства",
+            "common": "Иордания"
+        },
+        "slk": {
+            "official": "Jordánske hášimovské kráľovstvo",
+            "common": "Jordánsko"
+        },
+        "spa": {
+            "official": "Reino Hachemita de Jordania",
+            "common": "Jordania"
+        },
+        "fin": {
+            "official": "Jordanian hašemiittinen kunigaskunta",
+            "common": "Jordania"
+        },
+        "est": {
+            "official": "Jordaania Hašimiidi Kuningriik",
+            "common": "Jordaania"
+        },
+        "zho": {
+            "official": "约旦哈希姆王国",
+            "common": "约旦"
+        },
+        "pol": {
+            "official": "Jordańskie Królestwo Haszymidzkie",
+            "common": "Jordania"
+        },
+        "urd": {
+            "official": "ھاشمی مملکتِ اردن",
+            "common": "اردن"
+        },
+        "kor": {
+            "official": "요르단 하심 왕국",
+            "common": "요르단"
+        },
+        "per": {
+            "official": "پادشاهی اُردُن هاشمی",
+            "common": "اردن"
+        }
+    },
+    "latlng": [
+        31,
+        36
+    ],
+    "landlocked": false,
+    "borders": [
+        "IRQ",
+        "ISR",
+        "PSE",
+        "SAU",
+        "SYR"
+    ],
+    "area": 89342,
+    "flag": "🇯🇴",
+    "demonyms": {
+        "eng": {
+            "f": "Jordanian",
+            "m": "Jordanian"
+        },
+        "fra": {
+            "f": "Jordanienne",
+            "m": "Jordanien"
+        }
+    }
+}

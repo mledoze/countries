@@ -1,0 +1,145 @@
+{
+    "name": {
+        "common": "Bahamas",
+        "official": "Commonwealth of the Bahamas",
+        "native": {
+            "eng": {
+                "official": "Commonwealth of the Bahamas",
+                "common": "Bahamas"
+            }
+        }
+    },
+    "tld": [
+        ".bs"
+    ],
+    "cca2": "BS",
+    "ccn3": "044",
+    "cca3": "BHS",
+    "cioc": "BAH",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "BSD": {
+            "name": "Bahamian dollar",
+            "symbol": "$"
+        },
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "242"
+        ]
+    },
+    "capital": [
+        "Nassau"
+    ],
+    "altSpellings": [
+        "BS",
+        "Commonwealth of the Bahamas"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Bahamské společenství",
+            "common": "Bahamy"
+        },
+        "cym": {
+            "official": "Cymanwlad y Bahamas",
+            "common": "Bahamas"
+        },
+        "deu": {
+            "official": "Commonwealth der Bahamas",
+            "common": "Bahamas"
+        },
+        "fra": {
+            "official": "Commonwealth des Bahamas",
+            "common": "Bahamas"
+        },
+        "hrv": {
+            "official": "Zajednica Bahama",
+            "common": "Bahami"
+        },
+        "ita": {
+            "official": "Commonwealth delle Bahamas",
+            "common": "Bahamas"
+        },
+        "jpn": {
+            "official": "バハマ",
+            "common": "バハマ"
+        },
+        "nld": {
+            "official": "Gemenebest van de Bahama's",
+            "common": "Bahama’s"
+        },
+        "por": {
+            "official": "Comunidade das Bahamas",
+            "common": "Bahamas"
+        },
+        "rus": {
+            "official": "Содружество Багамских Островов",
+            "common": "Багамские Острова"
+        },
+        "slk": {
+            "official": "Bahamské spoločenstvo",
+            "common": "Bahamy"
+        },
+        "spa": {
+            "official": "Commonwealth de las Bahamas",
+            "common": "Bahamas"
+        },
+        "fin": {
+            "official": "Bahaman liittovaltio",
+            "common": "Bahamasaaret"
+        },
+        "est": {
+            "official": "Bahama Ühendus",
+            "common": "Bahama"
+        },
+        "zho": {
+            "official": "巴哈马联邦",
+            "common": "巴哈马"
+        },
+        "pol": {
+            "official": "Bahamy",
+            "common": "Bahamy"
+        },
+        "urd": {
+            "official": "دولتِ مشترکہ بہاماس",
+            "common": "بہاماس"
+        },
+        "kor": {
+            "official": "바하마 연방",
+            "common": "바하마"
+        },
+        "per": {
+            "official": "قلمرو همسود باهاما",
+            "common": "باهاما"
+        }
+    },
+    "latlng": [
+        24.25,
+        -76
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 13943,
+    "flag": "🇧🇸",
+    "demonyms": {
+        "eng": {
+            "f": "Bahamian",
+            "m": "Bahamian"
+        },
+        "fra": {
+            "f": "Bahamienne",
+            "m": "Bahamien"
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "name": {
+        "common": "Cocos (Keeling) Islands",
+        "official": "Territory of the Cocos (Keeling) Islands",
+        "native": {
+            "eng": {
+                "official": "Territory of the Cocos (Keeling) Islands",
+                "common": "Cocos (Keeling) Islands"
+            }
+        }
+    },
+    "tld": [
+        ".cc"
+    ],
+    "cca2": "CC",
+    "ccn3": "166",
+    "cca3": "CCK",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "AUD": {
+            "name": "Australian dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "1"
+        ]
+    },
+    "capital": [
+        "West Island"
+    ],
+    "altSpellings": [
+        "CC",
+        "Keeling Islands",
+        "Cocos Islands"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Kokosové ostrovy",
+            "common": "Kokosové ostrovy"
+        },
+        "cym": {
+            "official": "Tiriogaeth yr Ynysoedd Cocos (Keeling)",
+            "common": "Ynysoedd Cocos"
+        },
+        "deu": {
+            "official": "Gebiet der Kokos- (Keeling-) Inseln",
+            "common": "Kokosinseln"
+        },
+        "fra": {
+            "official": "Territoire des îles Cocos (Keeling)",
+            "common": "Îles Cocos"
+        },
+        "hrv": {
+            "official": "Teritoriju Kokosovi (Keeling) Islands",
+            "common": "Kokosovi Otoci"
+        },
+        "ita": {
+            "official": "Territorio della (Keeling) Isole Cocos",
+            "common": "Isole Cocos e Keeling"
+        },
+        "jpn": {
+            "official": "ココス諸島の領土",
+            "common": "ココス（キーリング）諸島"
+        },
+        "nld": {
+            "official": "Grondgebied van de Eilanden Cocos (Keeling )",
+            "common": "Cocoseilanden"
+        },
+        "por": {
+            "official": "Território dos Cocos (Keeling)",
+            "common": "Ilhas Cocos (Keeling)"
+        },
+        "rus": {
+            "official": "Территория Кокосовые (Килинг) острова",
+            "common": "Кокосовые острова"
+        },
+        "slk": {
+            "official": "Kokosové ostrovy",
+            "common": "Kokosové ostrovy"
+        },
+        "spa": {
+            "official": "Territorio de los (Keeling) Islas Cocos",
+            "common": "Islas Cocos o Islas Keeling"
+        },
+        "fin": {
+            "official": "Kookossaaret",
+            "common": "Kookossaaret"
+        },
+        "est": {
+            "official": "Kookossaarte ala",
+            "common": "Kookossaared"
+        },
+        "zho": {
+            "official": "科科斯",
+            "common": "科科斯"
+        },
+        "pol": {
+            "official": "Wyspy Kokosowe",
+            "common": "Wyspy Kokosowe"
+        },
+        "urd": {
+            "official": "جزائر (کیلنگ) کوکوس",
+            "common": "جزائر کوکوس"
+        },
+        "kor": {
+            "official": "코코스 제도",
+            "common": "코코스 제도"
+        },
+        "per": {
+            "official": "جزایر کوکوس",
+            "common": "جزایر کوکوس"
+        }
+    },
+    "latlng": [
+        -12.5,
+        96.83333333
+    ],
+    "demonym": "Cocos Islander",
+    "landlocked": false,
+    "borders": [],
+    "area": 14,
+    "flag": "🇨🇨"
+}

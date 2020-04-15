@@ -1,0 +1,141 @@
+{
+    "name": {
+        "common": "Nepal",
+        "official": "Federal Democratic Republic of Nepal",
+        "native": {
+            "nep": {
+                "official": "नेपाल संघीय लोकतान्त्रिक गणतन्त्र",
+                "common": "नेपाल"
+            }
+        }
+    },
+    "tld": [
+        ".np"
+    ],
+    "cca2": "NP",
+    "ccn3": "524",
+    "cca3": "NPL",
+    "cioc": "NEP",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "NPR": {
+            "name": "Nepalese rupee",
+            "symbol": "₨"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "77"
+        ]
+    },
+    "capital": [
+        "Kathmandu"
+    ],
+    "altSpellings": [
+        "NP",
+        "Federal Democratic Republic of Nepal",
+        "Loktāntrik Ganatantra Nepāl"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+        "nep": "Nepali"
+    },
+    "translations": {
+        "ces": {
+            "official": "Federativní demokratická republika Nepál",
+            "common": "Nepál"
+        },
+        "deu": {
+            "official": "Demokratische Bundesrepublik Nepal",
+            "common": "Nepal"
+        },
+        "fra": {
+            "official": "République du Népal",
+            "common": "Népal"
+        },
+        "hrv": {
+            "official": "Savezna Demokratska Republika Nepal",
+            "common": "Nepal"
+        },
+        "ita": {
+            "official": "Repubblica federale democratica del Nepal",
+            "common": "Nepal"
+        },
+        "jpn": {
+            "official": "ネパール連邦民主共和国",
+            "common": "ネパール"
+        },
+        "nld": {
+            "official": "Federale Democratische Republiek Nepal",
+            "common": "Nepal"
+        },
+        "por": {
+            "official": "República Democrática Federal do Nepal",
+            "common": "Nepal"
+        },
+        "rus": {
+            "official": "Федеративная Демократическая Республика Непал",
+            "common": "Непал"
+        },
+        "slk": {
+            "official": "Nepálska federatívna demokratická republika",
+            "common": "Nepál"
+        },
+        "spa": {
+            "official": "República Democrática Federal de Nepal",
+            "common": "Nepal"
+        },
+        "fin": {
+            "official": "Nepalin demokraattinen liittotasavalta",
+            "common": "Nepal"
+        },
+        "est": {
+            "official": "Nepali Demokraatlik Liitvabariik",
+            "common": "Nepal"
+        },
+        "zho": {
+            "official": "尼泊尔联邦民主共和国",
+            "common": "尼泊尔"
+        },
+        "pol": {
+            "official": "Federalna Demokratyczna Republika Nepalu",
+            "common": "Nepal"
+        },
+        "urd": {
+            "official": "وفاقی جمہوری جمہوریہ نیپال",
+            "common": "نیپال"
+        },
+        "kor": {
+            "official": "네팔 연방 민주 공화국",
+            "common": "네팔"
+        },
+        "per": {
+            "official": "جمهوری فدرال دموکراتیک نپال",
+            "common": "نپال"
+        }
+    },
+    "latlng": [
+        28,
+        84
+    ],
+    "landlocked": true,
+    "borders": [
+        "CHN",
+        "IND"
+    ],
+    "area": 147181,
+    "flag": "🇳🇵",
+    "demonyms": {
+        "eng": {
+            "f": "Nepalese",
+            "m": "Nepalese"
+        },
+        "fra": {
+            "f": "Népalaise",
+            "m": "Népalais"
+        }
+    }
+}

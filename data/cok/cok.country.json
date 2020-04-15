@@ -1,0 +1,141 @@
+{
+    "name": {
+        "common": "Cook Islands",
+        "official": "Cook Islands",
+        "native": {
+            "eng": {
+                "official": "Cook Islands",
+                "common": "Cook Islands"
+            },
+            "rar": {
+                "official": "Kūki 'Āirani",
+                "common": "Kūki 'Āirani"
+            }
+        }
+    },
+    "tld": [
+        ".ck"
+    ],
+    "cca2": "CK",
+    "ccn3": "184",
+    "cca3": "COK",
+    "cioc": "COK",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "CKD": {
+            "name": "Cook Islands dollar",
+            "symbol": "$"
+        },
+        "NZD": {
+            "name": "New Zealand dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "82"
+        ]
+    },
+    "capital": [
+        "Avarua"
+    ],
+    "altSpellings": [
+        "CK",
+        "Kūki 'Āirani"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+        "eng": "English",
+        "rar": "Cook Islands Māori"
+    },
+    "translations": {
+        "ces": {
+            "official": "Cookovy ostrovy",
+            "common": "Cookovy ostrovy"
+        },
+        "cym": {
+            "official": "Ynysoedd Cook",
+            "common": "Ynysoedd Cook"
+        },
+        "deu": {
+            "official": "Cookinseln",
+            "common": "Cookinseln"
+        },
+        "fra": {
+            "official": "Îles Cook",
+            "common": "Îles Cook"
+        },
+        "hrv": {
+            "official": "Cook Islands",
+            "common": "Cookovo Otočje"
+        },
+        "ita": {
+            "official": "Isole Cook",
+            "common": "Isole Cook"
+        },
+        "jpn": {
+            "official": "クック諸島",
+            "common": "クック諸島"
+        },
+        "nld": {
+            "official": "Cook eilanden",
+            "common": "Cookeilanden"
+        },
+        "por": {
+            "official": "Ilhas Cook",
+            "common": "Ilhas Cook"
+        },
+        "rus": {
+            "official": "острова Кука",
+            "common": "Острова Кука"
+        },
+        "slk": {
+            "official": "Cookove ostrovy",
+            "common": "Cookove ostrovy"
+        },
+        "spa": {
+            "official": "Islas Cook",
+            "common": "Islas Cook"
+        },
+        "fin": {
+            "official": "Cookinsaaret",
+            "common": "Cookinsaaret"
+        },
+        "est": {
+            "official": "Cooki saared",
+            "common": "Cooki saared"
+        },
+        "zho": {
+            "official": "库克群岛",
+            "common": "库克群岛"
+        },
+        "pol": {
+            "official": "Wyspy Cooka",
+            "common": "Wyspy Cooka"
+        },
+        "urd": {
+            "official": "جزائر کک",
+            "common": "جزائر کک"
+        },
+        "kor": {
+            "official": "쿡 제도",
+            "common": "쿡 제도"
+        },
+        "per": {
+            "official": "جزایر کوک",
+            "common": "جزایر کوک"
+        }
+    },
+    "latlng": [
+        -21.23333333,
+        -159.76666666
+    ],
+    "demonym": "Cook Islander",
+    "landlocked": false,
+    "borders": [],
+    "area": 236,
+    "flag": "🇨🇰"
+}

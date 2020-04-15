@@ -1,0 +1,141 @@
+{
+    "name": {
+        "common": "Liberia",
+        "official": "Republic of Liberia",
+        "native": {
+            "eng": {
+                "official": "Republic of Liberia",
+                "common": "Liberia"
+            }
+        }
+    },
+    "tld": [
+        ".lr"
+    ],
+    "cca2": "LR",
+    "ccn3": "430",
+    "cca3": "LBR",
+    "cioc": "LBR",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "LRD": {
+            "name": "Liberian dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "31"
+        ]
+    },
+    "capital": [
+        "Monrovia"
+    ],
+    "altSpellings": [
+        "LR",
+        "Republic of Liberia"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Liberijská republika",
+            "common": "Libérie"
+        },
+        "deu": {
+            "official": "Republik Liberia",
+            "common": "Liberia"
+        },
+        "fra": {
+            "official": "République du Libéria",
+            "common": "Liberia"
+        },
+        "hrv": {
+            "official": "Republika Liberija",
+            "common": "Liberija"
+        },
+        "ita": {
+            "official": "Repubblica di Liberia",
+            "common": "Liberia"
+        },
+        "jpn": {
+            "official": "リベリア共和国",
+            "common": "リベリア"
+        },
+        "nld": {
+            "official": "Republiek Liberia",
+            "common": "Liberia"
+        },
+        "por": {
+            "official": "República da Libéria",
+            "common": "Libéria"
+        },
+        "rus": {
+            "official": "Республика Либерия",
+            "common": "Либерия"
+        },
+        "slk": {
+            "official": "Libérijská republika",
+            "common": "Libéria"
+        },
+        "spa": {
+            "official": "República de Liberia",
+            "common": "Liberia"
+        },
+        "fin": {
+            "official": "Liberian tasavalta",
+            "common": "Liberia"
+        },
+        "est": {
+            "official": "Libeeria Vabariik",
+            "common": "Libeeria"
+        },
+        "zho": {
+            "official": "利比里亚共和国",
+            "common": "利比里亚"
+        },
+        "pol": {
+            "official": "Republika Liberii",
+            "common": "Liberia"
+        },
+        "urd": {
+            "official": "جمہوریہ لائبیریا",
+            "common": "لائبیریا"
+        },
+        "kor": {
+            "official": "라이베리아 공화국",
+            "common": "라이베리아"
+        },
+        "per": {
+            "official": "جمهوری لیبریا",
+            "common": "لیبـِریا"
+        }
+    },
+    "latlng": [
+        6.5,
+        -9.5
+    ],
+    "landlocked": false,
+    "borders": [
+        "GIN",
+        "CIV",
+        "SLE"
+    ],
+    "area": 111369,
+    "flag": "🇱🇷",
+    "demonyms": {
+        "eng": {
+            "f": "Liberian",
+            "m": "Liberian"
+        },
+        "fra": {
+            "f": "Libérienne",
+            "m": "Libérien"
+        }
+    }
+}

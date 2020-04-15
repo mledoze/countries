@@ -1,0 +1,144 @@
+{
+    "name": {
+        "common": "Suriname",
+        "official": "Republic of Suriname",
+        "native": {
+            "nld": {
+                "official": "Republiek Suriname",
+                "common": "Suriname"
+            }
+        }
+    },
+    "tld": [
+        ".sr"
+    ],
+    "cca2": "SR",
+    "ccn3": "740",
+    "cca3": "SUR",
+    "cioc": "SUR",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "SRD": {
+            "name": "Surinamese dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "97"
+        ]
+    },
+    "capital": [
+        "Paramaribo"
+    ],
+    "altSpellings": [
+        "SR",
+        "Sarnam",
+        "Sranangron",
+        "Republic of Suriname",
+        "Republiek Suriname"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "nld": "Dutch"
+    },
+    "translations": {
+        "ces": {
+            "official": "Republika Surinam",
+            "common": "Surinam"
+        },
+        "deu": {
+            "official": "Republik Suriname",
+            "common": "Suriname"
+        },
+        "fra": {
+            "official": "République du Suriname",
+            "common": "Surinam"
+        },
+        "hrv": {
+            "official": "Republika Surinam",
+            "common": "Surinam"
+        },
+        "ita": {
+            "official": "Repubblica del Suriname",
+            "common": "Suriname"
+        },
+        "jpn": {
+            "official": "スリナム共和国",
+            "common": "スリナム"
+        },
+        "nld": {
+            "official": "Republiek Suriname",
+            "common": "Suriname"
+        },
+        "por": {
+            "official": "República do Suriname",
+            "common": "Suriname"
+        },
+        "rus": {
+            "official": "Республика Суринам",
+            "common": "Суринам"
+        },
+        "slk": {
+            "official": "Surinamská republika",
+            "common": "Surinam"
+        },
+        "spa": {
+            "official": "República de Suriname",
+            "common": "Surinam"
+        },
+        "fin": {
+            "official": "Surinamen tasavalta",
+            "common": "Suriname"
+        },
+        "est": {
+            "official": "Suriname Vabariik",
+            "common": "Suriname"
+        },
+        "zho": {
+            "official": "苏里南共和国",
+            "common": "苏里南"
+        },
+        "pol": {
+            "official": "Republika Surinamu",
+            "common": "Surinam"
+        },
+        "urd": {
+            "official": "جمہوریہ سرینام",
+            "common": "سرینام"
+        },
+        "kor": {
+            "official": "수리남 공화국",
+            "common": "수리남"
+        },
+        "per": {
+            "official": "جمهوری سورینام",
+            "common": "سورینام"
+        }
+    },
+    "latlng": [
+        4,
+        -56
+    ],
+    "landlocked": false,
+    "borders": [
+        "BRA",
+        "GUF",
+        "GUY"
+    ],
+    "area": 163820,
+    "flag": "🇸🇷",
+    "demonyms": {
+        "eng": {
+            "f": "Surinamer",
+            "m": "Surinamer"
+        },
+        "fra": {
+            "f": "Surinamaise",
+            "m": "Surinamais"
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "name": {
+        "common": "Croatia",
+        "official": "Republic of Croatia",
+        "native": {
+            "hrv": {
+                "official": "Republika Hrvatska",
+                "common": "Hrvatska"
+            }
+        }
+    },
+    "tld": [
+        ".hr"
+    ],
+    "cca2": "HR",
+    "ccn3": "191",
+    "cca3": "HRV",
+    "cioc": "CRO",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "HRK": {
+            "name": "Croatian kuna",
+            "symbol": "kn"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "85"
+        ]
+    },
+    "capital": [
+        "Zagreb"
+    ],
+    "altSpellings": [
+        "HR",
+        "Hrvatska",
+        "Republic of Croatia",
+        "Republika Hrvatska"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+        "hrv": "Croatian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Chorvatská republika",
+            "common": "Chorvatsko"
+        },
+        "cym": {
+            "official": "Gweriniaeth Croatia",
+            "common": "Croatia"
+        },
+        "deu": {
+            "official": "Republik Kroatien",
+            "common": "Kroatien"
+        },
+        "fra": {
+            "official": "République de Croatie",
+            "common": "Croatie"
+        },
+        "hrv": {
+            "official": "Republika Hrvatska",
+            "common": "Hrvatska"
+        },
+        "ita": {
+            "official": "Repubblica di Croazia",
+            "common": "Croazia"
+        },
+        "jpn": {
+            "official": "クロアチア共和国",
+            "common": "クロアチア"
+        },
+        "nld": {
+            "official": "Republiek Kroatië",
+            "common": "Kroatië"
+        },
+        "por": {
+            "official": "República da Croácia",
+            "common": "Croácia"
+        },
+        "rus": {
+            "official": "Республика Хорватия",
+            "common": "Хорватия"
+        },
+        "slk": {
+            "official": "Chorvátska republika",
+            "common": "Chorvátsko"
+        },
+        "spa": {
+            "official": "República de Croacia",
+            "common": "Croacia"
+        },
+        "fin": {
+            "official": "Kroatian tasavalta",
+            "common": "Kroatia"
+        },
+        "est": {
+            "official": "Horvaatia Vabariik",
+            "common": "Horvaatia"
+        },
+        "zho": {
+            "official": "克罗地亚共和国",
+            "common": "克罗地亚"
+        },
+        "pol": {
+            "official": "Republika Chorwacji",
+            "common": "Chorwacja"
+        },
+        "urd": {
+            "official": "جمہوریہ کرویئشا",
+            "common": "کرویئشا"
+        },
+        "kor": {
+            "official": "크로아티아 공화국",
+            "common": "크로아티아"
+        },
+        "per": {
+            "official": "جمهوری کرواسی",
+            "common": "کرُواسی"
+        }
+    },
+    "latlng": [
+        45.16666666,
+        15.5
+    ],
+    "landlocked": false,
+    "borders": [
+        "BIH",
+        "HUN",
+        "MNE",
+        "SRB",
+        "SVN"
+    ],
+    "area": 56594,
+    "flag": "🇭🇷",
+    "demonyms": {
+        "eng": {
+            "f": "Croatian",
+            "m": "Croatian"
+        },
+        "fra": {
+            "f": "Croate",
+            "m": "Croate"
+        }
+    }
+}

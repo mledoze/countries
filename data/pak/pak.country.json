@@ -1,0 +1,149 @@
+{
+    "name": {
+        "common": "Pakistan",
+        "official": "Islamic Republic of Pakistan",
+        "native": {
+            "eng": {
+                "official": "Islamic Republic of Pakistan",
+                "common": "Pakistan"
+            },
+            "urd": {
+                "official": "اسلامی جمہوریۂ پاكستان",
+                "common": "پاكستان"
+            }
+        }
+    },
+    "tld": [
+        ".pk"
+    ],
+    "cca2": "PK",
+    "ccn3": "586",
+    "cca3": "PAK",
+    "cioc": "PAK",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "PKR": {
+            "name": "Pakistani rupee",
+            "symbol": "₨"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "2"
+        ]
+    },
+    "capital": [
+        "Islamabad"
+    ],
+    "altSpellings": [
+        "PK",
+        "Pākistān",
+        "Islamic Republic of Pakistan",
+        "Islāmī Jumhūriya'eh Pākistān"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+        "eng": "English",
+        "urd": "Urdu"
+    },
+    "translations": {
+        "ces": {
+            "official": "Pákistánská islámská republika",
+            "common": "Pákistán"
+        },
+        "deu": {
+            "official": "Islamische Republik Pakistan",
+            "common": "Pakistan"
+        },
+        "fra": {
+            "official": "République islamique du Pakistan",
+            "common": "Pakistan"
+        },
+        "hrv": {
+            "official": "Islamska Republika Pakistan",
+            "common": "Pakistan"
+        },
+        "ita": {
+            "official": "Repubblica islamica del Pakistan",
+            "common": "Pakistan"
+        },
+        "jpn": {
+            "official": "パキスタン",
+            "common": "パキスタン"
+        },
+        "nld": {
+            "official": "Islamitische Republiek Pakistan",
+            "common": "Pakistan"
+        },
+        "por": {
+            "official": "República Islâmica do Paquistão",
+            "common": "Paquistão"
+        },
+        "rus": {
+            "official": "Исламская Республика Пакистан",
+            "common": "Пакистан"
+        },
+        "slk": {
+            "official": "Pakistanská islamská republika",
+            "common": "Pakistan"
+        },
+        "spa": {
+            "official": "República Islámica de Pakistán",
+            "common": "Pakistán"
+        },
+        "fin": {
+            "official": "Pakistanin islamilainen tasavalta",
+            "common": "Pakistan"
+        },
+        "est": {
+            "official": "Pakistani Islamivabariik",
+            "common": "Pakistan"
+        },
+        "zho": {
+            "official": "巴基斯坦伊斯兰共和国",
+            "common": "巴基斯坦"
+        },
+        "pol": {
+            "official": "Islamska Republika Pakistanu",
+            "common": "Pakistan"
+        },
+        "urd": {
+            "official": "اسلامی جمہوریہ پاکستان",
+            "common": "پاکستان"
+        },
+        "kor": {
+            "official": "파키스탄 이슬람 공화국",
+            "common": "파키스탄"
+        },
+        "per": {
+            "official": "جمهوری اسلامی پاکستان",
+            "common": "پاکستان"
+        }
+    },
+    "latlng": [
+        30,
+        70
+    ],
+    "landlocked": false,
+    "borders": [
+        "AFG",
+        "CHN",
+        "IND",
+        "IRN"
+    ],
+    "area": 881912,
+    "flag": "🇵🇰",
+    "demonyms": {
+        "eng": {
+            "f": "Pakistani",
+            "m": "Pakistani"
+        },
+        "fra": {
+            "f": "Pakistanaise",
+            "m": "Pakistanais"
+        }
+    }
+}

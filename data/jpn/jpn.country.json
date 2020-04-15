@@ -1,0 +1,139 @@
+{
+    "name": {
+        "common": "Japan",
+        "official": "Japan",
+        "native": {
+            "jpn": {
+                "official": "日本",
+                "common": "日本"
+            }
+        }
+    },
+    "tld": [
+        ".jp",
+        ".みんな"
+    ],
+    "cca2": "JP",
+    "ccn3": "392",
+    "cca3": "JPN",
+    "cioc": "JPN",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "JPY": {
+            "name": "Japanese yen",
+            "symbol": "¥"
+        }
+    },
+    "idd": {
+        "root": "+8",
+        "suffixes": [
+            "1"
+        ]
+    },
+    "capital": [
+        "Tokyo"
+    ],
+    "altSpellings": [
+        "JP",
+        "Nippon",
+        "Nihon"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+        "jpn": "Japanese"
+    },
+    "translations": {
+        "ces": {
+            "official": "Japonsko",
+            "common": "Japonsko"
+        },
+        "deu": {
+            "official": "Japan",
+            "common": "Japan"
+        },
+        "fra": {
+            "official": "Japon",
+            "common": "Japon"
+        },
+        "hrv": {
+            "official": "Japan",
+            "common": "Japan"
+        },
+        "ita": {
+            "official": "Giappone",
+            "common": "Giappone"
+        },
+        "jpn": {
+            "official": "日本",
+            "common": "日本"
+        },
+        "nld": {
+            "official": "Japan",
+            "common": "Japan"
+        },
+        "por": {
+            "official": "Japão",
+            "common": "Japão"
+        },
+        "rus": {
+            "official": "Япония",
+            "common": "Япония"
+        },
+        "slk": {
+            "official": "Japonsko",
+            "common": "Japonsko"
+        },
+        "spa": {
+            "official": "Japón",
+            "common": "Japón"
+        },
+        "fin": {
+            "official": "Japani",
+            "common": "Japani"
+        },
+        "est": {
+            "official": "Jaapan",
+            "common": "Jaapan"
+        },
+        "zho": {
+            "official": "日本国",
+            "common": "日本"
+        },
+        "pol": {
+            "official": "Japonia",
+            "common": "Japonia"
+        },
+        "urd": {
+            "official": "جاپان",
+            "common": "جاپان"
+        },
+        "kor": {
+            "official": "일본국",
+            "common": "일본"
+        },
+        "per": {
+            "official": "ژاپن",
+            "common": "ژاپن"
+        }
+    },
+    "latlng": [
+        36,
+        138
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 377930,
+    "flag": "🇯🇵",
+    "demonyms": {
+        "eng": {
+            "f": "Japanese",
+            "m": "Japanese"
+        },
+        "fra": {
+            "f": "Japonaise",
+            "m": "Japonais"
+        }
+    }
+}

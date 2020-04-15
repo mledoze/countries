@@ -1,0 +1,169 @@
+{
+    "name": {
+        "common": "Bolivia",
+        "official": "Plurinational State of Bolivia",
+        "native": {
+            "aym": {
+                "official": "Wuliwya Suyu",
+                "common": "Wuliwya"
+            },
+            "grn": {
+                "official": "Tetã Volívia",
+                "common": "Volívia"
+            },
+            "que": {
+                "official": "Buliwya Mamallaqta",
+                "common": "Buliwya"
+            },
+            "spa": {
+                "official": "Estado Plurinacional de Bolivia",
+                "common": "Bolivia"
+            }
+        }
+    },
+    "tld": [
+        ".bo"
+    ],
+    "cca2": "BO",
+    "ccn3": "068",
+    "cca3": "BOL",
+    "cioc": "BOL",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "BOB": {
+            "name": "Bolivian boliviano",
+            "symbol": "Bs."
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "91"
+        ]
+    },
+    "capital": [
+        "Sucre"
+    ],
+    "altSpellings": [
+        "BO",
+        "Buliwya",
+        "Wuliwya",
+        "Bolivia, Plurinational State of",
+        "Plurinational State of Bolivia",
+        "Estado Plurinacional de Bolivia",
+        "Buliwya Mamallaqta",
+        "Wuliwya Suyu",
+        "Tetã Volívia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "aym": "Aymara",
+        "grn": "Guaraní",
+        "que": "Quechua",
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Mnohonárodnostní stát Bolívie",
+            "common": "Bolívie"
+        },
+        "cym": {
+            "official": "Gweriniaeth Bolifia",
+            "common": "Bolifia"
+        },
+        "deu": {
+            "official": "Plurinationaler Staat Bolivien",
+            "common": "Bolivien"
+        },
+        "fra": {
+            "official": "État plurinational de Bolivie",
+            "common": "Bolivie"
+        },
+        "hrv": {
+            "official": "Plurinational State of Bolivia",
+            "common": "Bolivija"
+        },
+        "ita": {
+            "official": "Stato Plurinazionale della Bolivia",
+            "common": "Bolivia"
+        },
+        "jpn": {
+            "official": "ボリビアの多民族国",
+            "common": "ボリビア多民族国"
+        },
+        "nld": {
+            "official": "Plurinationale Staat van Bolivia",
+            "common": "Bolivia"
+        },
+        "por": {
+            "official": "Estado Plurinacional da Bolívia",
+            "common": "Bolívia"
+        },
+        "rus": {
+            "official": "Многонациональное Государство Боливия",
+            "common": "Боливия"
+        },
+        "slk": {
+            "official": "Bolívijská republika",
+            "common": "Bolívia"
+        },
+        "spa": {
+            "official": "Estado Plurinacional de Bolivia",
+            "common": "Bolivia"
+        },
+        "fin": {
+            "official": "Bolivian monikansainen valtio",
+            "common": "Bolivia"
+        },
+        "est": {
+            "official": "Boliivia Paljurahvuseline Riik",
+            "common": "Boliivia"
+        },
+        "zho": {
+            "official": "多民族玻利维亚国",
+            "common": "玻利维亚"
+        },
+        "pol": {
+            "official": "Wielonarodowe Państwo Boliwia",
+            "common": "Boliwia"
+        },
+        "urd": {
+            "official": "جمہوریہ بولیویا",
+            "common": "بولیویا"
+        },
+        "kor": {
+            "official": "볼리비아 다민족국",
+            "common": "볼리비아"
+        },
+        "per": {
+            "official": "جمهوری بولیوی",
+            "common": "بولیوی"
+        }
+    },
+    "latlng": [
+        -17,
+        -65
+    ],
+    "landlocked": true,
+    "borders": [
+        "ARG",
+        "BRA",
+        "CHL",
+        "PRY",
+        "PER"
+    ],
+    "area": 1098581,
+    "flag": "🇧🇴",
+    "demonyms": {
+        "eng": {
+            "f": "Bolivian",
+            "m": "Bolivian"
+        },
+        "fra": {
+            "f": "Bolivienne",
+            "m": "Bolivien"
+        }
+    }
+}

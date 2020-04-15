@@ -1,0 +1,128 @@
+{
+    "name": {
+        "common": "Réunion",
+        "official": "Réunion Island",
+        "native": {
+            "fra": {
+                "official": "Ile de la Réunion",
+                "common": "La Réunion"
+            }
+        }
+    },
+    "tld": [
+        ".re"
+    ],
+    "cca2": "RE",
+    "ccn3": "638",
+    "cca3": "REU",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "62"
+        ]
+    },
+    "capital": [
+        "Saint-Denis"
+    ],
+    "altSpellings": [
+        "RE",
+        "Reunion"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ces": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "deu": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "fra": {
+            "official": "Ile de la Réunion",
+            "common": "Réunion"
+        },
+        "hrv": {
+            "official": "Réunion Island",
+            "common": "Réunion"
+        },
+        "ita": {
+            "official": "Réunion",
+            "common": "Riunione"
+        },
+        "jpn": {
+            "official": "レユニオン島",
+            "common": "レユニオン"
+        },
+        "nld": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "por": {
+            "official": "Ilha da Reunião",
+            "common": "Reunião"
+        },
+        "rus": {
+            "official": "Реюньон",
+            "common": "Реюньон"
+        },
+        "slk": {
+            "official": "Réunionský zámorský departmán",
+            "common": "Réunion"
+        },
+        "spa": {
+            "official": "Isla de la Reunión",
+            "common": "Reunión"
+        },
+        "fin": {
+            "official": "Réunion",
+            "common": "Réunion"
+        },
+        "est": {
+            "official": "Réunioni departemang",
+            "common": "Réunion"
+        },
+        "zho": {
+            "official": "留尼旺岛",
+            "common": "留尼旺岛"
+        },
+        "pol": {
+            "official": "Reunion",
+            "common": "Reunion"
+        },
+        "urd": {
+            "official": "رے یونیوں جزیرہ",
+            "common": "رے یونیوں"
+        },
+        "kor": {
+            "official": "레위니옹",
+            "common": "레위니옹"
+        },
+        "per": {
+            "official": "رئونیون",
+            "common": "رئونیون"
+        }
+    },
+    "latlng": [
+        -21.15,
+        55.5
+    ],
+    "demonym": "French",
+    "landlocked": false,
+    "borders": [],
+    "area": 2511,
+    "flag": "🇷🇪"
+}

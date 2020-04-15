@@ -1,0 +1,136 @@
+{
+    "name": {
+        "common": "Saint Lucia",
+        "official": "Saint Lucia",
+        "native": {
+            "eng": {
+                "official": "Saint Lucia",
+                "common": "Saint Lucia"
+            }
+        }
+    },
+    "tld": [
+        ".lc"
+    ],
+    "cca2": "LC",
+    "ccn3": "662",
+    "cca3": "LCA",
+    "cioc": "LCA",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "XCD": {
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "758"
+        ]
+    },
+    "capital": [
+        "Castries"
+    ],
+    "altSpellings": [
+        "LC"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Svatá Lucie",
+            "common": "Svatá Lucie"
+        },
+        "deu": {
+            "official": "St. Lucia",
+            "common": "St. Lucia"
+        },
+        "fra": {
+            "official": "Sainte-Lucie",
+            "common": "Sainte-Lucie"
+        },
+        "hrv": {
+            "official": "Sveta Lucija",
+            "common": "Sveta Lucija"
+        },
+        "ita": {
+            "official": "Santa Lucia",
+            "common": "Santa Lucia"
+        },
+        "jpn": {
+            "official": "セントルシア",
+            "common": "セントルシア"
+        },
+        "nld": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "por": {
+            "official": "Santa Lúcia",
+            "common": "Santa Lúcia"
+        },
+        "rus": {
+            "official": "Сент-Люсия",
+            "common": "Сент-Люсия"
+        },
+        "slk": {
+            "official": "Svätá Lucia",
+            "common": "Svätá Lucia"
+        },
+        "spa": {
+            "official": "Santa Lucía",
+            "common": "Santa Lucía"
+        },
+        "fin": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "est": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "zho": {
+            "official": "圣卢西亚",
+            "common": "圣卢西亚"
+        },
+        "pol": {
+            "official": "Saint Lucia",
+            "common": "Saint Lucia"
+        },
+        "urd": {
+            "official": "سینٹ لوسیا",
+            "common": "سینٹ لوسیا"
+        },
+        "kor": {
+            "official": "세인트루시아",
+            "common": "세인트루시아"
+        },
+        "per": {
+            "official": "سنت لوسیا",
+            "common": "سنت لوسیا"
+        }
+    },
+    "latlng": [
+        13.88333333,
+        -60.96666666
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 616,
+    "flag": "🇱🇨",
+    "demonyms": {
+        "eng": {
+            "f": "Saint Lucian",
+            "m": "Saint Lucian"
+        },
+        "fra": {
+            "f": "Saint-Lucienne",
+            "m": "Saint-Lucien"
+        }
+    }
+}

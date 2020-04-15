@@ -1,0 +1,129 @@
+{
+    "name": {
+        "common": "Wallis and Futuna",
+        "official": "Territory of the Wallis and Futuna Islands",
+        "native": {
+            "fra": {
+                "official": "Territoire des îles Wallis et Futuna",
+                "common": "Wallis et Futuna"
+            }
+        }
+    },
+    "tld": [
+        ".wf"
+    ],
+    "cca2": "WF",
+    "ccn3": "876",
+    "cca3": "WLF",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "XPF": {
+            "name": "CFP franc",
+            "symbol": "₣"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "81"
+        ]
+    },
+    "capital": [
+        "Mata-Utu"
+    ],
+    "altSpellings": [
+        "WF",
+        "Territory of the Wallis and Futuna Islands",
+        "Territoire des îles Wallis et Futuna"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ces": {
+            "official": "Teritorium ostrovů Wallis a Futuna",
+            "common": "Wallis a Futuna"
+        },
+        "deu": {
+            "official": "Gebiet der Wallis und Futuna",
+            "common": "Wallis und Futuna"
+        },
+        "fra": {
+            "official": "Territoire des îles Wallis et Futuna",
+            "common": "Wallis-et-Futuna"
+        },
+        "hrv": {
+            "official": "Teritoriju Wallis i Futuna",
+            "common": "Wallis i Fortuna"
+        },
+        "ita": {
+            "official": "Territorio delle Isole Wallis e Futuna",
+            "common": "Wallis e Futuna"
+        },
+        "jpn": {
+            "official": "ウォリス·フツナ諸島の領土",
+            "common": "ウォリス・フツナ"
+        },
+        "nld": {
+            "official": "Grondgebied van de Wallis en Futuna",
+            "common": "Wallis en Futuna"
+        },
+        "por": {
+            "official": "Território das Ilhas Wallis e Futuna",
+            "common": "Wallis e Futuna"
+        },
+        "rus": {
+            "official": "Территория Уоллис и Футуна острова",
+            "common": "Уоллис и Футуна"
+        },
+        "slk": {
+            "official": "Teritórium ostrovov Wallis a Futuna",
+            "common": "Wallis a Futuna"
+        },
+        "spa": {
+            "official": "Territorio de las Islas Wallis y Futuna",
+            "common": "Wallis y Futuna"
+        },
+        "fin": {
+            "official": "Wallisin ja Futunan yhteisö",
+            "common": "Wallis ja Futuna"
+        },
+        "est": {
+            "official": "Wallise ja Futuna ala",
+            "common": "Wallis ja Futuna"
+        },
+        "zho": {
+            "official": "瓦利斯和富图纳群岛",
+            "common": "瓦利斯和富图纳群岛"
+        },
+        "pol": {
+            "official": "Terytorium Wysp Wallis i Futuna",
+            "common": "Wallis i Futuna"
+        },
+        "urd": {
+            "official": "سر زمینِ والس و فتونہ جزائر",
+            "common": "والس و فتونہ"
+        },
+        "kor": {
+            "official": "왈리스 퓌튀나",
+            "common": "왈리스 퓌튀나"
+        },
+        "per": {
+            "official": "جزایر والیس و فوتونا",
+            "common": "والیس و فوتونا"
+        }
+    },
+    "latlng": [
+        -13.3,
+        -176.2
+    ],
+    "demonym": "Wallis and Futuna Islander",
+    "landlocked": false,
+    "borders": [],
+    "area": 142,
+    "flag": "🇼🇫"
+}

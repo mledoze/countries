@@ -1,0 +1,147 @@
+{
+    "name": {
+        "common": "Canada",
+        "official": "Canada",
+        "native": {
+            "eng": {
+                "official": "Canada",
+                "common": "Canada"
+            },
+            "fra": {
+                "official": "Canada",
+                "common": "Canada"
+            }
+        }
+    },
+    "tld": [
+        ".ca"
+    ],
+    "cca2": "CA",
+    "ccn3": "124",
+    "cca3": "CAN",
+    "cioc": "CAN",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "CAD": {
+            "name": "Canadian dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            ""
+        ]
+    },
+    "capital": [
+        "Ottawa"
+    ],
+    "altSpellings": [
+        "CA"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+        "eng": "English",
+        "fra": "French"
+    },
+    "translations": {
+        "ces": {
+            "official": "Kanada",
+            "common": "Kanada"
+        },
+        "cym": {
+            "official": "Canada",
+            "common": "Canada"
+        },
+        "deu": {
+            "official": "Kanada",
+            "common": "Kanada"
+        },
+        "fra": {
+            "official": "Canada",
+            "common": "Canada"
+        },
+        "hrv": {
+            "official": "Kanada",
+            "common": "Kanada"
+        },
+        "ita": {
+            "official": "Canada",
+            "common": "Canada"
+        },
+        "jpn": {
+            "official": "カナダ",
+            "common": "カナダ"
+        },
+        "nld": {
+            "official": "Canada",
+            "common": "Canada"
+        },
+        "por": {
+            "official": "Canadá",
+            "common": "Canadá"
+        },
+        "rus": {
+            "official": "Канада",
+            "common": "Канада"
+        },
+        "slk": {
+            "official": "Kanada",
+            "common": "Kanada"
+        },
+        "spa": {
+            "official": "Canadá",
+            "common": "Canadá"
+        },
+        "fin": {
+            "official": "Kanada",
+            "common": "Kanada"
+        },
+        "est": {
+            "official": "Kanada",
+            "common": "Kanada"
+        },
+        "zho": {
+            "official": "加拿大",
+            "common": "加拿大"
+        },
+        "pol": {
+            "official": "Kanada",
+            "common": "Kanada"
+        },
+        "urd": {
+            "official": "کینیڈا",
+            "common": "کینیڈا"
+        },
+        "kor": {
+            "official": "캐나다",
+            "common": "캐나다"
+        },
+        "per": {
+            "official": "کانادا",
+            "common": "کانادا"
+        }
+    },
+    "latlng": [
+        60,
+        -95
+    ],
+    "landlocked": false,
+    "borders": [
+        "USA"
+    ],
+    "area": 9984670,
+    "flag": "🇨🇦",
+    "demonyms": {
+        "eng": {
+            "f": "Canadian",
+            "m": "Canadian"
+        },
+        "fra": {
+            "f": "Canadienne",
+            "m": "Canadien"
+        }
+    }
+}

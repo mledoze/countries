@@ -1,0 +1,141 @@
+{
+    "name": {
+        "common": "Portugal",
+        "official": "Portuguese Republic",
+        "native": {
+            "por": {
+                "official": "República português",
+                "common": "Portugal"
+            }
+        }
+    },
+    "tld": [
+        ".pt"
+    ],
+    "cca2": "PT",
+    "ccn3": "620",
+    "cca3": "PRT",
+    "cioc": "POR",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "51"
+        ]
+    },
+    "capital": [
+        "Lisbon"
+    ],
+    "altSpellings": [
+        "PT",
+        "Portuguesa",
+        "Portuguese Republic",
+        "República Portuguesa"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+        "por": "Portuguese"
+    },
+    "translations": {
+        "ces": {
+            "official": "Portugalská republika",
+            "common": "Portugalsko"
+        },
+        "deu": {
+            "official": "Portugiesische Republik",
+            "common": "Portugal"
+        },
+        "fra": {
+            "official": "République portugaise",
+            "common": "Portugal"
+        },
+        "hrv": {
+            "official": "Portugalska Republika",
+            "common": "Portugal"
+        },
+        "ita": {
+            "official": "Repubblica portoghese",
+            "common": "Portogallo"
+        },
+        "jpn": {
+            "official": "ポルトガル共和国",
+            "common": "ポルトガル"
+        },
+        "nld": {
+            "official": "Portugese Republiek",
+            "common": "Portugal"
+        },
+        "por": {
+            "official": "República português",
+            "common": "Portugal"
+        },
+        "rus": {
+            "official": "Португальская Республика",
+            "common": "Португалия"
+        },
+        "slk": {
+            "official": "Portugalská republika",
+            "common": "Portugalsko"
+        },
+        "spa": {
+            "official": "República Portuguesa",
+            "common": "Portugal"
+        },
+        "fin": {
+            "official": "Portugalin tasavalta",
+            "common": "Portugali"
+        },
+        "est": {
+            "official": "Portugali Vabariik",
+            "common": "Portugal"
+        },
+        "zho": {
+            "official": "葡萄牙共和国",
+            "common": "葡萄牙"
+        },
+        "pol": {
+            "official": "Republika Portugalska",
+            "common": "Portugalia"
+        },
+        "urd": {
+            "official": "جمہوریہ پرتگال",
+            "common": "پرتگال"
+        },
+        "kor": {
+            "official": "포르투갈 공화국",
+            "common": "포르투갈"
+        },
+        "per": {
+            "official": "جمهوری پرتغال",
+            "common": "پرتغال"
+        }
+    },
+    "latlng": [
+        39.5,
+        -8
+    ],
+    "landlocked": false,
+    "borders": [
+        "ESP"
+    ],
+    "area": 92090,
+    "flag": "🇵🇹",
+    "demonyms": {
+        "eng": {
+            "f": "Portuguese",
+            "m": "Portuguese"
+        },
+        "fra": {
+            "f": "Portugaise",
+            "m": "Portugais"
+        }
+    }
+}

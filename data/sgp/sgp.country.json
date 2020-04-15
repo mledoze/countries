@@ -1,0 +1,152 @@
+{
+    "name": {
+        "common": "Singapore",
+        "official": "Republic of Singapore",
+        "native": {
+            "zho": {
+                "official": "新加坡共和国",
+                "common": "新加坡"
+            },
+            "eng": {
+                "official": "Republic of Singapore",
+                "common": "Singapore"
+            },
+            "msa": {
+                "official": "Republik Singapura",
+                "common": "Singapura"
+            },
+            "tam": {
+                "official": "சிங்கப்பூர் குடியரசு",
+                "common": "சிங்கப்பூர்"
+            }
+        }
+    },
+    "tld": [
+        ".sg",
+        ".新加坡",
+        ".சிங்கப்பூர்"
+    ],
+    "cca2": "SG",
+    "ccn3": "702",
+    "cca3": "SGP",
+    "cioc": "SIN",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "SGD": {
+            "name": "Singapore dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "5"
+        ]
+    },
+    "capital": [
+        "Singapore"
+    ],
+    "altSpellings": [
+        "SG",
+        "Singapura",
+        "Republik Singapura",
+        "新加坡共和国"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": {
+        "zho": "Chinese",
+        "eng": "English",
+        "msa": "Malay",
+        "tam": "Tamil"
+    },
+    "translations": {
+        "ces": {
+            "official": "Singapurská republika",
+            "common": "Singapur"
+        },
+        "deu": {
+            "official": "Republik Singapur",
+            "common": "Singapur"
+        },
+        "fra": {
+            "official": "République de Singapour",
+            "common": "Singapour"
+        },
+        "hrv": {
+            "official": "Republika Singapur",
+            "common": "Singapur"
+        },
+        "ita": {
+            "official": "Repubblica di Singapore",
+            "common": "Singapore"
+        },
+        "jpn": {
+            "official": "シンガポール共和国",
+            "common": "シンガポール"
+        },
+        "nld": {
+            "official": "Republiek Singapore",
+            "common": "Singapore"
+        },
+        "por": {
+            "official": "República de Singapura",
+            "common": "Singapura"
+        },
+        "rus": {
+            "official": "Республика Сингапур",
+            "common": "Сингапур"
+        },
+        "slk": {
+            "official": "Singapurská republika",
+            "common": "Singapur"
+        },
+        "spa": {
+            "official": "República de Singapur",
+            "common": "Singapur"
+        },
+        "fin": {
+            "official": "Singaporen tasavalta",
+            "common": "Singapore"
+        },
+        "est": {
+            "official": "Singapuri Vabariik",
+            "common": "Singapur"
+        },
+        "pol": {
+            "official": "Republika Singapuru",
+            "common": "Singapur"
+        },
+        "urd": {
+            "official": "جمہوریہ سنگاپور",
+            "common": "سنگاپور"
+        },
+        "kor": {
+            "official": "싱가포르 공화국",
+            "common": "싱가포르"
+        },
+        "per": {
+            "official": "جمهوری سنگاپور",
+            "common": "سنگاپور"
+        }
+    },
+    "latlng": [
+        1.36666666,
+        103.8
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 710,
+    "flag": "🇸🇬",
+    "demonyms": {
+        "eng": {
+            "f": "Singaporean",
+            "m": "Singaporean"
+        },
+        "fra": {
+            "f": "Singapourienne",
+            "m": "Singapourien"
+        }
+    }
+}

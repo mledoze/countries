@@ -1,0 +1,145 @@
+{
+    "name": {
+        "common": "North Macedonia",
+        "official": "Republic of North Macedonia",
+        "native": {
+            "mkd": {
+                "official": "Република Северна Македонија",
+                "common": "Македонија"
+            }
+        }
+    },
+    "tld": [
+        ".mk"
+    ],
+    "cca2": "MK",
+    "ccn3": "807",
+    "cca3": "MKD",
+    "cioc": "MKD",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "MKD": {
+            "name": "denar",
+            "symbol": "den"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "89"
+        ]
+    },
+    "capital": [
+        "Skopje"
+    ],
+    "altSpellings": [
+        "MK",
+        "The former Yugoslav Republic of Macedonia",
+        "Republic of North Macedonia",
+        "Република Северна Македонија"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": {
+        "mkd": "Macedonian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Republika Severní Makedonie",
+            "common": "Severní Makedonie"
+        },
+        "deu": {
+            "official": "Republik Nordmazedonien",
+            "common": "Nordmazedonien"
+        },
+        "fra": {
+            "official": "République de Macédoine du Nord",
+            "common": "Macédoine du Nord"
+        },
+        "hrv": {
+            "official": "Republika Sjeverna Makedonija",
+            "common": "Sjeverna Makedonija"
+        },
+        "ita": {
+            "official": "Repubblica di Macedonia del Nord",
+            "common": "Macedonia del Nord"
+        },
+        "jpn": {
+            "official": "北マケドニア共和国",
+            "common": "北マケドニア "
+        },
+        "nld": {
+            "official": "Republiek Noord-Macedonië",
+            "common": "Noord-Macedonië"
+        },
+        "por": {
+            "official": "República da Macedônia do Norte",
+            "common": "Macedónia do Norte"
+        },
+        "rus": {
+            "official": "Республика Северная Македония",
+            "common": "Северная Македония"
+        },
+        "slk": {
+            "official": "Severomacedónska republika",
+            "common": "Severné Macedónsko"
+        },
+        "spa": {
+            "official": "República de Macedonia del Norte",
+            "common": "Macedonia del Norte"
+        },
+        "fin": {
+            "official": "Pohjois-Makedonian tasavalta",
+            "common": "Pohjois-Makedonia"
+        },
+        "est": {
+            "official": "Põhja-Makedoonia Vabariik",
+            "common": "Põhja-Makedoonia"
+        },
+        "zho": {
+            "official": "北馬其頓共和國",
+            "common": "北馬其頓"
+        },
+        "pol": {
+            "official": "Republika Macedonii Północnej",
+            "common": "Macedonia Północna"
+        },
+        "urd": {
+            "official": "جمہوریہ مقدونیہ",
+            "common": "شمالی مقدونیہ"
+        },
+        "kor": {
+            "official": "북마케도니아 공화국",
+            "common": "북마케도니아"
+        },
+        "per": {
+            "official": "جمهوری مقدونیه شمالی",
+            "common": "مقدونیه شمالی"
+        }
+    },
+    "latlng": [
+        41.83333333,
+        22
+    ],
+    "landlocked": true,
+    "borders": [
+        "ALB",
+        "BGR",
+        "GRC",
+        "UNK",
+        "SRB"
+    ],
+    "area": 25713,
+    "flag": "🇲🇰",
+    "demonyms": {
+        "eng": {
+            "f": "Macedonian",
+            "m": "Macedonian"
+        },
+        "fra": {
+            "f": "Macédonienne",
+            "m": "Macédonien"
+        }
+    }
+}

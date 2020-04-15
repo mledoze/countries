@@ -1,0 +1,135 @@
+{
+    "name": {
+        "common": "American Samoa",
+        "official": "American Samoa",
+        "native": {
+            "eng": {
+                "official": "American Samoa",
+                "common": "American Samoa"
+            },
+            "smo": {
+                "official": "Sāmoa Amelika",
+                "common": "Sāmoa Amelika"
+            }
+        }
+    },
+    "tld": [
+        ".as"
+    ],
+    "cca2": "AS",
+    "ccn3": "016",
+    "cca3": "ASM",
+    "cioc": "ASA",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "684"
+        ]
+    },
+    "capital": [
+        "Pago Pago"
+    ],
+    "altSpellings": [
+        "AS",
+        "Amerika Sāmoa",
+        "Amelika Sāmoa",
+        "Sāmoa Amelika"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+        "eng": "English",
+        "smo": "Samoan"
+    },
+    "translations": {
+        "ces": {
+            "official": "Americká Samoa",
+            "common": "Americká Samoa"
+        },
+        "deu": {
+            "official": "Amerikanisch-Samoa",
+            "common": "Amerikanisch-Samoa"
+        },
+        "fra": {
+            "official": "Samoa américaines",
+            "common": "Samoa américaines"
+        },
+        "hrv": {
+            "official": "američka Samoa",
+            "common": "Američka Samoa"
+        },
+        "ita": {
+            "official": "Samoa americane",
+            "common": "Samoa Americane"
+        },
+        "jpn": {
+            "official": "米サモア",
+            "common": "アメリカ領サモア"
+        },
+        "nld": {
+            "official": "Amerikaans Samoa",
+            "common": "Amerikaans Samoa"
+        },
+        "por": {
+            "official": "Samoa americana",
+            "common": "Samoa Americana"
+        },
+        "rus": {
+            "official": "американское Самоа",
+            "common": "Американское Самоа"
+        },
+        "slk": {
+            "official": "Americká Samoa",
+            "common": "Americká Samoa"
+        },
+        "spa": {
+            "official": "Samoa Americana",
+            "common": "Samoa Americana"
+        },
+        "fin": {
+            "official": "Amerikan Samoa",
+            "common": "Amerikan Samoa"
+        },
+        "est": {
+            "official": "Ameerika Samoa",
+            "common": "Ameerika Samoa"
+        },
+        "zho": {
+            "official": "美属萨摩亚",
+            "common": "美属萨摩亚"
+        },
+        "pol": {
+            "official": "Samoa Amerykańskie",
+            "common": "Samoa Amerykańskie"
+        },
+        "urd": {
+            "official": "امریکی سمووا",
+            "common": "امریکی سمووا"
+        },
+        "kor": {
+            "official": "아메리칸사모아",
+            "common": "아메리칸사모아"
+        },
+        "per": {
+            "official": "ساموآی آمریکا",
+            "common": "ساموآی آمریکا"
+        }
+    },
+    "latlng": [
+        -14.33333333,
+        -170
+    ],
+    "demonym": "American Samoan",
+    "landlocked": false,
+    "borders": [],
+    "area": 199,
+    "flag": "🇦🇸"
+}

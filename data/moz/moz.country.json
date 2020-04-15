@@ -1,0 +1,145 @@
+{
+    "name": {
+        "common": "Mozambique",
+        "official": "Republic of Mozambique",
+        "native": {
+            "por": {
+                "official": "República de Moçambique",
+                "common": "Moçambique"
+            }
+        }
+    },
+    "tld": [
+        ".mz"
+    ],
+    "cca2": "MZ",
+    "ccn3": "508",
+    "cca3": "MOZ",
+    "cioc": "MOZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "MZN": {
+            "name": "Mozambican metical",
+            "symbol": "MT"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "58"
+        ]
+    },
+    "capital": [
+        "Maputo"
+    ],
+    "altSpellings": [
+        "MZ",
+        "Republic of Mozambique",
+        "República de Moçambique"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "por": "Portuguese"
+    },
+    "translations": {
+        "ces": {
+            "official": "Mosambická republika",
+            "common": "Mosambik"
+        },
+        "deu": {
+            "official": "Republik Mosambik",
+            "common": "Mosambik"
+        },
+        "fra": {
+            "official": "République du Mozambique",
+            "common": "Mozambique"
+        },
+        "hrv": {
+            "official": "Republika Mozambiku",
+            "common": "Mozambik"
+        },
+        "ita": {
+            "official": "Repubblica del Mozambico",
+            "common": "Mozambico"
+        },
+        "jpn": {
+            "official": "モザンビーク共和国",
+            "common": "モザンビーク"
+        },
+        "nld": {
+            "official": "Republiek Mozambique",
+            "common": "Mozambique"
+        },
+        "por": {
+            "official": "República de Moçambique",
+            "common": "Moçambique"
+        },
+        "rus": {
+            "official": "Республика Мозамбик",
+            "common": "Мозамбик"
+        },
+        "slk": {
+            "official": "Mozambická republika",
+            "common": "Mozambik"
+        },
+        "spa": {
+            "official": "República de Mozambique",
+            "common": "Mozambique"
+        },
+        "fin": {
+            "official": "Mosambikin tasavalta",
+            "common": "Mosambik"
+        },
+        "est": {
+            "official": "Mosambiigi Vabariik",
+            "common": "Mosambiik"
+        },
+        "zho": {
+            "official": "莫桑比克共和国",
+            "common": "莫桑比克"
+        },
+        "pol": {
+            "official": "Republika Mozambiku",
+            "common": "Mozambik"
+        },
+        "urd": {
+            "official": "جمہوریہ موزمبیق",
+            "common": "موزمبیق"
+        },
+        "kor": {
+            "official": "모잠비크 공화국",
+            "common": "모잠비크"
+        },
+        "per": {
+            "official": "جمهوری موزامبیک",
+            "common": "موزامبیک"
+        }
+    },
+    "latlng": [
+        -18.25,
+        35
+    ],
+    "landlocked": false,
+    "borders": [
+        "MWI",
+        "ZAF",
+        "SWZ",
+        "TZA",
+        "ZMB",
+        "ZWE"
+    ],
+    "area": 801590,
+    "flag": "🇲🇿",
+    "demonyms": {
+        "eng": {
+            "f": "Mozambican",
+            "m": "Mozambican"
+        },
+        "fra": {
+            "f": "Mozambicaine",
+            "m": "Mozambicain"
+        }
+    }
+}

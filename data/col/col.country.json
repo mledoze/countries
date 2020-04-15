@@ -1,0 +1,148 @@
+{
+    "name": {
+        "common": "Colombia",
+        "official": "Republic of Colombia",
+        "native": {
+            "spa": {
+                "official": "República de Colombia",
+                "common": "Colombia"
+            }
+        }
+    },
+    "tld": [
+        ".co"
+    ],
+    "cca2": "CO",
+    "ccn3": "170",
+    "cca3": "COL",
+    "cioc": "COL",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "COP": {
+            "name": "Colombian peso",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "7"
+        ]
+    },
+    "capital": [
+        "Bogotá"
+    ],
+    "altSpellings": [
+        "CO",
+        "Republic of Colombia",
+        "República de Colombia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Kolumbijská republika",
+            "common": "Kolumbie"
+        },
+        "cym": {
+            "official": "Gweriniaeth Colombia",
+            "common": "Colombia"
+        },
+        "deu": {
+            "official": "Republik Kolumbien",
+            "common": "Kolumbien"
+        },
+        "fra": {
+            "official": "République de Colombie",
+            "common": "Colombie"
+        },
+        "hrv": {
+            "official": "Republika Kolumbija",
+            "common": "Kolumbija"
+        },
+        "ita": {
+            "official": "Repubblica di Colombia",
+            "common": "Colombia"
+        },
+        "jpn": {
+            "official": "コロンビア共和国",
+            "common": "コロンビア"
+        },
+        "nld": {
+            "official": "Republiek Colombia",
+            "common": "Colombia"
+        },
+        "por": {
+            "official": "República da Colômbia",
+            "common": "Colômbia"
+        },
+        "rus": {
+            "official": "Республика Колумбия",
+            "common": "Колумбия"
+        },
+        "slk": {
+            "official": "Kolumbijská republika",
+            "common": "Kolumbia"
+        },
+        "spa": {
+            "official": "República de Colombia",
+            "common": "Colombia"
+        },
+        "fin": {
+            "official": "Kolumbian tasavalta",
+            "common": "Kolumbia"
+        },
+        "est": {
+            "official": "Colombia Vabariik",
+            "common": "Colombia"
+        },
+        "zho": {
+            "official": "哥伦比亚共和国",
+            "common": "哥伦比亚"
+        },
+        "pol": {
+            "official": "Republika Kolumbii",
+            "common": "Kolumbia"
+        },
+        "urd": {
+            "official": "جمہوریہ کولمبیا",
+            "common": "کولمبیا"
+        },
+        "kor": {
+            "official": "콜롬비아 공화국",
+            "common": "콜롬비아"
+        },
+        "per": {
+            "official": "جمهوری کلمبیا",
+            "common": "کلمبیا"
+        }
+    },
+    "latlng": [
+        4,
+        -72
+    ],
+    "landlocked": false,
+    "borders": [
+        "BRA",
+        "ECU",
+        "PAN",
+        "PER",
+        "VEN"
+    ],
+    "area": 1141748,
+    "flag": "🇨🇴",
+    "demonyms": {
+        "eng": {
+            "f": "Colombian",
+            "m": "Colombian"
+        },
+        "fra": {
+            "f": "Colombienne",
+            "m": "Colombien"
+        }
+    }
+}

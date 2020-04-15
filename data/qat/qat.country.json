@@ -1,0 +1,141 @@
+{
+    "name": {
+        "common": "Qatar",
+        "official": "State of Qatar",
+        "native": {
+            "ara": {
+                "official": "دولة قطر",
+                "common": "قطر"
+            }
+        }
+    },
+    "tld": [
+        ".qa",
+        "قطر."
+    ],
+    "cca2": "QA",
+    "ccn3": "634",
+    "cca3": "QAT",
+    "cioc": "QAT",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "QAR": {
+            "name": "Qatari riyal",
+            "symbol": "ر.ق"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "74"
+        ]
+    },
+    "capital": [
+        "Doha"
+    ],
+    "altSpellings": [
+        "QA",
+        "State of Qatar",
+        "Dawlat Qaṭar"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+        "ara": "Arabic"
+    },
+    "translations": {
+        "ces": {
+            "official": "Stát Katar",
+            "common": "Katar"
+        },
+        "deu": {
+            "official": "Staat Katar",
+            "common": "Katar"
+        },
+        "fra": {
+            "official": "État du Qatar",
+            "common": "Qatar"
+        },
+        "hrv": {
+            "official": "Država Katar",
+            "common": "Katar"
+        },
+        "ita": {
+            "official": "Stato del Qatar",
+            "common": "Qatar"
+        },
+        "jpn": {
+            "official": "カタール国",
+            "common": "カタール"
+        },
+        "nld": {
+            "official": "Staat Qatar",
+            "common": "Qatar"
+        },
+        "por": {
+            "official": "Estado do Qatar",
+            "common": "Catar"
+        },
+        "rus": {
+            "official": "Государство Катар",
+            "common": "Катар"
+        },
+        "slk": {
+            "official": "Katarský štát",
+            "common": "Katar"
+        },
+        "spa": {
+            "official": "Estado de Qatar",
+            "common": "Catar"
+        },
+        "fin": {
+            "official": "Qatarin valtio",
+            "common": "Qatar"
+        },
+        "est": {
+            "official": "Katari Riik",
+            "common": "Katar"
+        },
+        "zho": {
+            "official": "卡塔尔国",
+            "common": "卡塔尔"
+        },
+        "pol": {
+            "official": "Państwo Katar",
+            "common": "Katar"
+        },
+        "urd": {
+            "official": "ریاستِ قطر",
+            "common": "قطر"
+        },
+        "kor": {
+            "official": "카타르국",
+            "common": "카타르"
+        },
+        "per": {
+            "official": "دولت قطر",
+            "common": "قطر"
+        }
+    },
+    "latlng": [
+        25.5,
+        51.25
+    ],
+    "landlocked": false,
+    "borders": [
+        "SAU"
+    ],
+    "area": 11586,
+    "flag": "🇶🇦",
+    "demonyms": {
+        "eng": {
+            "f": "Qatari",
+            "m": "Qatari"
+        },
+        "fra": {
+            "f": "Qatarienne",
+            "m": "Qatarien"
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "name": {
+        "common": "Cameroon",
+        "official": "Republic of Cameroon",
+        "native": {
+            "eng": {
+                "official": "Republic of Cameroon",
+                "common": "Cameroon"
+            },
+            "fra": {
+                "official": "République du Cameroun",
+                "common": "Cameroun"
+            }
+        }
+    },
+    "tld": [
+        ".cm"
+    ],
+    "cca2": "CM",
+    "ccn3": "120",
+    "cca3": "CMR",
+    "cioc": "CMR",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "XAF": {
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "37"
+        ]
+    },
+    "capital": [
+        "Yaoundé"
+    ],
+    "altSpellings": [
+        "CM",
+        "Republic of Cameroon",
+        "République du Cameroun"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+        "eng": "English",
+        "fra": "French"
+    },
+    "translations": {
+        "ces": {
+            "official": "Kamerunská republika",
+            "common": "Kamerun"
+        },
+        "cym": {
+            "official": "Gweriniaeth Camerŵn",
+            "common": "Camerŵn"
+        },
+        "deu": {
+            "official": "Republik Kamerun",
+            "common": "Kamerun"
+        },
+        "fra": {
+            "official": "République du Cameroun",
+            "common": "Cameroun"
+        },
+        "hrv": {
+            "official": "Republika Kamerun",
+            "common": "Kamerun"
+        },
+        "ita": {
+            "official": "Repubblica del Camerun",
+            "common": "Camerun"
+        },
+        "jpn": {
+            "official": "カメルーン共和国",
+            "common": "カメルーン"
+        },
+        "nld": {
+            "official": "Republiek Kameroen",
+            "common": "Kameroen"
+        },
+        "por": {
+            "official": "República dos Camarões",
+            "common": "Camarões"
+        },
+        "rus": {
+            "official": "Республика Камерун",
+            "common": "Камерун"
+        },
+        "slk": {
+            "official": "Kamerunská republika",
+            "common": "Kamerun"
+        },
+        "spa": {
+            "official": "República de Camerún",
+            "common": "Camerún"
+        },
+        "fin": {
+            "official": "Kamerunin tasavalta",
+            "common": "Kamerun"
+        },
+        "est": {
+            "official": "Kameruni Vabariik",
+            "common": "Kamerun"
+        },
+        "zho": {
+            "official": "喀麦隆共和国",
+            "common": "喀麦隆"
+        },
+        "pol": {
+            "official": "Republika WybrzeŻa Kości Słoniowej",
+            "common": "WybrzeŻe Kości Słoniowej"
+        },
+        "urd": {
+            "official": "جمہوریہ کیمرون",
+            "common": "کیمرون"
+        },
+        "kor": {
+            "official": "카메룬 공화국",
+            "common": "카메룬"
+        },
+        "per": {
+            "official": "جمهوری کامِرون",
+            "common": "کامِرون"
+        }
+    },
+    "latlng": [
+        6,
+        12
+    ],
+    "landlocked": false,
+    "borders": [
+        "CAF",
+        "TCD",
+        "COG",
+        "GNQ",
+        "GAB",
+        "NGA"
+    ],
+    "area": 475442,
+    "flag": "🇨🇲",
+    "demonyms": {
+        "eng": {
+            "f": "Cameroonian",
+            "m": "Cameroonian"
+        },
+        "fra": {
+            "f": "Camerounaise",
+            "m": "Camerounais"
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "name": {
+        "common": "Ecuador",
+        "official": "Republic of Ecuador",
+        "native": {
+            "spa": {
+                "official": "República del Ecuador",
+                "common": "Ecuador"
+            }
+        }
+    },
+    "tld": [
+        ".ec"
+    ],
+    "cca2": "EC",
+    "ccn3": "218",
+    "cca3": "ECU",
+    "cioc": "ECU",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "93"
+        ]
+    },
+    "capital": [
+        "Quito"
+    ],
+    "altSpellings": [
+        "EC",
+        "Republic of Ecuador",
+        "República del Ecuador"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Ekvádorská republika",
+            "common": "Ekvádor"
+        },
+        "cym": {
+            "official": "Gweriniaeth Ecwador",
+            "common": "Ecwador"
+        },
+        "deu": {
+            "official": "Republik Ecuador",
+            "common": "Ecuador"
+        },
+        "fra": {
+            "official": "République de l'Équateur",
+            "common": "Équateur"
+        },
+        "hrv": {
+            "official": "Republika Ekvador",
+            "common": "Ekvador"
+        },
+        "ita": {
+            "official": "Repubblica dell'Ecuador",
+            "common": "Ecuador"
+        },
+        "jpn": {
+            "official": "エクアドル共和国",
+            "common": "エクアドル"
+        },
+        "nld": {
+            "official": "Republiek Ecuador",
+            "common": "Ecuador"
+        },
+        "por": {
+            "official": "República do Equador",
+            "common": "Equador"
+        },
+        "rus": {
+            "official": "Республика Эквадор",
+            "common": "Эквадор"
+        },
+        "slk": {
+            "official": "Ekvádorská republika",
+            "common": "Ekvádor"
+        },
+        "spa": {
+            "official": "República del Ecuador",
+            "common": "Ecuador"
+        },
+        "fin": {
+            "official": "Ecuadorin tasavalta",
+            "common": "Ecuador"
+        },
+        "est": {
+            "official": "Ecuadori Vabariik",
+            "common": "Ecuador"
+        },
+        "zho": {
+            "official": "厄瓜多尔共和国",
+            "common": "厄瓜多尔"
+        },
+        "pol": {
+            "official": "Ekwador",
+            "common": "Ekwador"
+        },
+        "urd": {
+            "official": "جمہوریہ ایکوڈور",
+            "common": "ایکواڈور"
+        },
+        "kor": {
+            "official": "에콰도르 공화국",
+            "common": "에콰도르"
+        },
+        "per": {
+            "official": "جمهوری اکوادور",
+            "common": "اکوادور"
+        }
+    },
+    "latlng": [
+        -2,
+        -77.5
+    ],
+    "landlocked": false,
+    "borders": [
+        "COL",
+        "PER"
+    ],
+    "area": 276841,
+    "flag": "🇪🇨",
+    "demonyms": {
+        "eng": {
+            "f": "Ecuadorean",
+            "m": "Ecuadorean"
+        },
+        "fra": {
+            "f": "Équatorienne",
+            "m": "Équatorien"
+        }
+    }
+}

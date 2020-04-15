@@ -1,0 +1,134 @@
+{
+    "name": {
+        "common": "Bermuda",
+        "official": "Bermuda",
+        "native": {
+            "eng": {
+                "official": "Bermuda",
+                "common": "Bermuda"
+            }
+        }
+    },
+    "tld": [
+        ".bm"
+    ],
+    "cca2": "BM",
+    "ccn3": "060",
+    "cca3": "BMU",
+    "cioc": "BER",
+    "independent": false,
+    "status": "officially-assigned",
+    "currencies": {
+        "BMD": {
+            "name": "Bermudian dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "441"
+        ]
+    },
+    "capital": [
+        "Hamilton"
+    ],
+    "altSpellings": [
+        "BM",
+        "The Islands of Bermuda",
+        "The Bermudas",
+        "Somers Isles"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Bermudské ostrovy",
+            "common": "Bermudy"
+        },
+        "cym": {
+            "official": "Bermiwda",
+            "common": "Bermiwda"
+        },
+        "deu": {
+            "official": "Bermuda",
+            "common": "Bermuda"
+        },
+        "fra": {
+            "official": "Bermudes",
+            "common": "Bermudes"
+        },
+        "hrv": {
+            "official": "Bermuda",
+            "common": "Bermudi"
+        },
+        "ita": {
+            "official": "Bermuda",
+            "common": "Bermuda"
+        },
+        "jpn": {
+            "official": "バミューダ",
+            "common": "バミューダ"
+        },
+        "nld": {
+            "official": "Bermuda",
+            "common": "Bermuda"
+        },
+        "por": {
+            "official": "Bermudas",
+            "common": "Bermudas"
+        },
+        "rus": {
+            "official": "Бермудские острова",
+            "common": "Бермудские Острова"
+        },
+        "slk": {
+            "official": "Bermudy",
+            "common": "Bermudy"
+        },
+        "spa": {
+            "official": "Bermuda",
+            "common": "Bermudas"
+        },
+        "fin": {
+            "official": "Bermuda",
+            "common": "Bermuda"
+        },
+        "est": {
+            "official": "Bermuda",
+            "common": "Bermuda"
+        },
+        "zho": {
+            "official": "百慕大",
+            "common": "百慕大"
+        },
+        "pol": {
+            "official": "Bermudy",
+            "common": "Bermudy"
+        },
+        "urd": {
+            "official": "برمودا",
+            "common": "برمودا"
+        },
+        "kor": {
+            "official": "버뮤다",
+            "common": "버뮤다"
+        },
+        "per": {
+            "official": "جزایر برمودا",
+            "common": "برمودا"
+        }
+    },
+    "latlng": [
+        32.33333333,
+        -64.75
+    ],
+    "demonym": "Bermudian",
+    "landlocked": false,
+    "borders": [],
+    "area": 54,
+    "flag": "🇧🇲"
+}

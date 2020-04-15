@@ -1,0 +1,146 @@
+{
+    "name": {
+        "common": "Chile",
+        "official": "Republic of Chile",
+        "native": {
+            "spa": {
+                "official": "República de Chile",
+                "common": "Chile"
+            }
+        }
+    },
+    "tld": [
+        ".cl"
+    ],
+    "cca2": "CL",
+    "ccn3": "152",
+    "cca3": "CHL",
+    "cioc": "CHI",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "CLP": {
+            "name": "Chilean peso",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "6"
+        ]
+    },
+    "capital": [
+        "Santiago"
+    ],
+    "altSpellings": [
+        "CL",
+        "Republic of Chile",
+        "República de Chile"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Chilská republika",
+            "common": "Chile"
+        },
+        "cym": {
+            "official": "Gweriniaeth Chile",
+            "common": "Chile"
+        },
+        "deu": {
+            "official": "Republik Chile",
+            "common": "Chile"
+        },
+        "fra": {
+            "official": "République du Chili",
+            "common": "Chili"
+        },
+        "hrv": {
+            "official": "Republika Čile",
+            "common": "Čile"
+        },
+        "ita": {
+            "official": "Repubblica del Cile",
+            "common": "Cile"
+        },
+        "jpn": {
+            "official": "チリ共和国",
+            "common": "チリ"
+        },
+        "nld": {
+            "official": "Republiek Chili",
+            "common": "Chili"
+        },
+        "por": {
+            "official": "República do Chile",
+            "common": "Chile"
+        },
+        "rus": {
+            "official": "Республика Чили",
+            "common": "Чили"
+        },
+        "slk": {
+            "official": "Čílska republika",
+            "common": "Čile"
+        },
+        "spa": {
+            "official": "República de Chile",
+            "common": "Chile"
+        },
+        "fin": {
+            "official": "Chilen tasavalta",
+            "common": "Chile"
+        },
+        "est": {
+            "official": "Tšiili Vabariik",
+            "common": "Tšiili"
+        },
+        "zho": {
+            "official": "智利共和国",
+            "common": "智利"
+        },
+        "pol": {
+            "official": "Republika Chile",
+            "common": "Chile"
+        },
+        "urd": {
+            "official": "جمہوریہ چلی",
+            "common": "چلی"
+        },
+        "kor": {
+            "official": "칠레 공화국",
+            "common": "칠레"
+        },
+        "per": {
+            "official": "جمهوری شیلی",
+            "common": "شیلی"
+        }
+    },
+    "latlng": [
+        -30,
+        -71
+    ],
+    "landlocked": false,
+    "borders": [
+        "ARG",
+        "BOL",
+        "PER"
+    ],
+    "area": 756102,
+    "flag": "🇨🇱",
+    "demonyms": {
+        "eng": {
+            "f": "Chilean",
+            "m": "Chilean"
+        },
+        "fra": {
+            "f": "Chilienne",
+            "m": "Chilien"
+        }
+    }
+}

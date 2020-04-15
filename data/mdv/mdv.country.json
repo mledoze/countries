@@ -1,0 +1,139 @@
+{
+    "name": {
+        "common": "Maldives",
+        "official": "Republic of the Maldives",
+        "native": {
+            "div": {
+                "official": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
+                "common": "ދިވެހިރާއްޖޭގެ"
+            }
+        }
+    },
+    "tld": [
+        ".mv"
+    ],
+    "cca2": "MV",
+    "ccn3": "462",
+    "cca3": "MDV",
+    "cioc": "MDV",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "MVR": {
+            "name": "Maldivian rufiyaa",
+            "symbol": ".ރ"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "60"
+        ]
+    },
+    "capital": [
+        "Malé"
+    ],
+    "altSpellings": [
+        "MV",
+        "Maldive Islands",
+        "Republic of the Maldives",
+        "Dhivehi Raajjeyge Jumhooriyya"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": {
+        "div": "Maldivian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Maledivská republika",
+            "common": "Maledivy"
+        },
+        "deu": {
+            "official": "Republik Malediven",
+            "common": "Malediven"
+        },
+        "fra": {
+            "official": "République des Maldives",
+            "common": "Maldives"
+        },
+        "hrv": {
+            "official": "Republika Maldivi",
+            "common": "Maldivi"
+        },
+        "ita": {
+            "official": "Repubblica delle Maldive",
+            "common": "Maldive"
+        },
+        "jpn": {
+            "official": "モルディブ共和国",
+            "common": "モルディブ"
+        },
+        "nld": {
+            "official": "Republiek van de Malediven",
+            "common": "Maldiven"
+        },
+        "por": {
+            "official": "República das Maldivas",
+            "common": "Maldivas"
+        },
+        "spa": {
+            "official": "República de las Maldivas",
+            "common": "Maldivas"
+        },
+        "rus": {
+            "official": "Республика Мальдивы",
+            "common": "Мальдивы"
+        },
+        "slk": {
+            "official": "Maldivská republika",
+            "common": "Maldivy"
+        },
+        "fin": {
+            "official": "Malediivien tasavalta",
+            "common": "Malediivit"
+        },
+        "est": {
+            "official": "Maldiivi Vabariik",
+            "common": "Maldiivid"
+        },
+        "zho": {
+            "official": "马尔代夫共和国",
+            "common": "马尔代夫"
+        },
+        "pol": {
+            "official": "Republika Malediwów",
+            "common": "Malediwy"
+        },
+        "urd": {
+            "official": "جمہوریہ مالدیپ",
+            "common": "مالدیپ"
+        },
+        "kor": {
+            "official": "몰디브 공화국",
+            "common": "몰디브"
+        },
+        "per": {
+            "official": "جمهوری مالدیو",
+            "common": "مالدیو"
+        }
+    },
+    "latlng": [
+        3.25,
+        73
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 300,
+    "flag": "🇲🇻",
+    "demonyms": {
+        "eng": {
+            "f": "Maldivan",
+            "m": "Maldivan"
+        },
+        "fra": {
+            "f": "Maldivienne",
+            "m": "Maldivien"
+        }
+    }
+}

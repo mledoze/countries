@@ -1,0 +1,149 @@
+{
+    "name": {
+        "common": "Uganda",
+        "official": "Republic of Uganda",
+        "native": {
+            "eng": {
+                "official": "Republic of Uganda",
+                "common": "Uganda"
+            },
+            "swa": {
+                "official": "Republic of Uganda",
+                "common": "Uganda"
+            }
+        }
+    },
+    "tld": [
+        ".ug"
+    ],
+    "cca2": "UG",
+    "ccn3": "800",
+    "cca3": "UGA",
+    "cioc": "UGA",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "UGX": {
+            "name": "Ugandan shilling",
+            "symbol": "Sh"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "56"
+        ]
+    },
+    "capital": [
+        "Kampala"
+    ],
+    "altSpellings": [
+        "UG",
+        "Republic of Uganda",
+        "Jamhuri ya Uganda"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "eng": "English",
+        "swa": "Swahili"
+    },
+    "translations": {
+        "ces": {
+            "official": "Ugandská republika",
+            "common": "Uganda"
+        },
+        "deu": {
+            "official": "Republik Uganda",
+            "common": "Uganda"
+        },
+        "fra": {
+            "official": "République de l'Ouganda",
+            "common": "Ouganda"
+        },
+        "hrv": {
+            "official": "Republika Uganda",
+            "common": "Uganda"
+        },
+        "ita": {
+            "official": "Repubblica di Uganda",
+            "common": "Uganda"
+        },
+        "jpn": {
+            "official": "ウガンダ共和国",
+            "common": "ウガンダ"
+        },
+        "nld": {
+            "official": "Republiek Uganda",
+            "common": "Oeganda"
+        },
+        "por": {
+            "official": "República do Uganda",
+            "common": "Uganda"
+        },
+        "rus": {
+            "official": "Республика Уганда",
+            "common": "Уганда"
+        },
+        "slk": {
+            "official": "Ugandská republika",
+            "common": "Uganda"
+        },
+        "spa": {
+            "official": "República de Uganda",
+            "common": "Uganda"
+        },
+        "fin": {
+            "official": "Ugandan tasavalta",
+            "common": "Uganda"
+        },
+        "est": {
+            "official": "Uganda Vabariik",
+            "common": "Uganda"
+        },
+        "zho": {
+            "official": "乌干达共和国",
+            "common": "乌干达"
+        },
+        "pol": {
+            "official": "Republika Ugandy",
+            "common": "Uganda"
+        },
+        "urd": {
+            "official": "جمہوریہ یوگنڈا",
+            "common": "یوگنڈا"
+        },
+        "kor": {
+            "official": "우간다 공화국",
+            "common": "우간다"
+        },
+        "per": {
+            "official": "جمهوری اوگاندا",
+            "common": "اوگاندا"
+        }
+    },
+    "latlng": [
+        1,
+        32
+    ],
+    "landlocked": true,
+    "borders": [
+        "COD",
+        "KEN",
+        "RWA",
+        "SSD",
+        "TZA"
+    ],
+    "area": 241550,
+    "flag": "🇺🇬",
+    "demonyms": {
+        "eng": {
+            "f": "Ugandan",
+            "m": "Ugandan"
+        },
+        "fra": {
+            "f": "Ougandaise",
+            "m": "Ougandais"
+        }
+    }
+}

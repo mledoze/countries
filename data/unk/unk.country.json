@@ -1,0 +1,141 @@
+{
+    "name": {
+        "common": "Kosovo",
+        "official": "Republic of Kosovo",
+        "native": {
+            "sqi": {
+                "official": "Republika e Kosovës",
+                "common": "Kosova"
+            },
+            "srp": {
+                "official": "Република Косово",
+                "common": "Косово"
+            }
+        }
+    },
+    "tld": [],
+    "cca2": "XK",
+    "ccn3": "",
+    "cca3": "UNK",
+    "cioc": "KOS",
+    "independent": null,
+    "status": "user-assigned",
+    "currencies": {
+        "EUR": {
+            "name": "Euro",
+            "symbol": "€"
+        }
+    },
+    "idd": {
+        "root": "+3",
+        "suffixes": [
+            "83"
+        ]
+    },
+    "capital": [
+        "Pristina"
+    ],
+    "altSpellings": [
+        "XK",
+        "Република Косово"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": {
+        "sqi": "Albanian",
+        "srp": "Serbian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Kosovská republika",
+            "common": "Kosovo"
+        },
+        "deu": {
+            "official": "Republik Kosovo",
+            "common": "Kosovo"
+        },
+        "fra": {
+            "official": "République du Kosovo",
+            "common": "Kosovo"
+        },
+        "hrv": {
+            "official": "Republika Kosovo",
+            "common": "Kosovo"
+        },
+        "ita": {
+            "official": "Repubblica del Kosovo",
+            "common": "Kosovo"
+        },
+        "nld": {
+            "official": "Republiek Kosovo",
+            "common": "Kosovo"
+        },
+        "por": {
+            "official": "República do Kosovo",
+            "common": "Kosovo"
+        },
+        "rus": {
+            "official": "Республика Косово",
+            "common": "Республика Косово"
+        },
+        "slk": {
+            "official": "Republika Kosovo",
+            "common": "Kosovo"
+        },
+        "spa": {
+            "official": "República de Kosovo",
+            "common": "Kosovo"
+        },
+        "fin": {
+            "official": "Kosovon tasavalta",
+            "common": "Kosovo"
+        },
+        "est": {
+            "official": "Kosovo Vabariik",
+            "common": "Kosovo"
+        },
+        "zho": {
+            "official": "科索沃共和国",
+            "common": "科索沃"
+        },
+        "pol": {
+            "official": "Republika Kosowa",
+            "common": "Kosowo"
+        },
+        "urd": {
+            "official": "جمہوریہ کوسووہ",
+            "common": "کوسووہ"
+        },
+        "kor": {
+            "official": "코소보 공화국",
+            "common": "코소보"
+        },
+        "per": {
+            "official": "جمهوری کوزوو",
+            "common": "کوزوو"
+        }
+    },
+    "latlng": [
+        42.666667,
+        21.166667
+    ],
+    "landlocked": true,
+    "borders": [
+        "ALB",
+        "MKD",
+        "MNE",
+        "SRB"
+    ],
+    "area": 10908,
+    "flag": "🇽🇰",
+    "demonyms": {
+        "eng": {
+            "f": "Kosovar",
+            "m": "Kosovar"
+        },
+        "fra": {
+            "f": "Kosovare",
+            "m": "Kosovar"
+        }
+    }
+}

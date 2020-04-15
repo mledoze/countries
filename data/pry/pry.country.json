@@ -1,0 +1,148 @@
+{
+    "name": {
+        "common": "Paraguay",
+        "official": "Republic of Paraguay",
+        "native": {
+            "grn": {
+                "official": "Tetã Paraguái",
+                "common": "Paraguái"
+            },
+            "spa": {
+                "official": "República de Paraguay",
+                "common": "Paraguay"
+            }
+        }
+    },
+    "tld": [
+        ".py"
+    ],
+    "cca2": "PY",
+    "ccn3": "600",
+    "cca3": "PRY",
+    "cioc": "PAR",
+    "independent": true,
+    "status": "officially-assigned",
+    "currencies": {
+        "PYG": {
+            "name": "Paraguayan guaraní",
+            "symbol": "₲"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "95"
+        ]
+    },
+    "capital": [
+        "Asunción"
+    ],
+    "altSpellings": [
+        "PY",
+        "Republic of Paraguay",
+        "República del Paraguay",
+        "Tetã Paraguái"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "grn": "Guaraní",
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Paraguayská republika",
+            "common": "Paraguay"
+        },
+        "deu": {
+            "official": "Republik Paraguay",
+            "common": "Paraguay"
+        },
+        "fra": {
+            "official": "République du Paraguay",
+            "common": "Paraguay"
+        },
+        "hrv": {
+            "official": "Republika Paragvaj",
+            "common": "Paragvaj"
+        },
+        "ita": {
+            "official": "Repubblica del Paraguay",
+            "common": "Paraguay"
+        },
+        "jpn": {
+            "official": "パラグアイ共和国",
+            "common": "パラグアイ"
+        },
+        "nld": {
+            "official": "Republiek Paraguay",
+            "common": "Paraguay"
+        },
+        "por": {
+            "official": "República do Paraguai",
+            "common": "Paraguai"
+        },
+        "rus": {
+            "official": "Республика Парагвай",
+            "common": "Парагвай"
+        },
+        "slk": {
+            "official": "Paraguajská republika",
+            "common": "Paraguaj"
+        },
+        "spa": {
+            "official": "República de Paraguay",
+            "common": "Paraguay"
+        },
+        "fin": {
+            "official": "Paraguayn tasavalta",
+            "common": "Paraguay"
+        },
+        "est": {
+            "official": "Paraguay Vabariik",
+            "common": "Paraguay"
+        },
+        "zho": {
+            "official": "巴拉圭共和国",
+            "common": "巴拉圭"
+        },
+        "pol": {
+            "official": "Republika Paragwaju",
+            "common": "Paragwaj"
+        },
+        "urd": {
+            "official": "جمہوریہ پیراگوئے",
+            "common": "پیراگوئے"
+        },
+        "kor": {
+            "official": "파라과이 공화국",
+            "common": "파라과이"
+        },
+        "per": {
+            "official": "جمهوری پاراگوئه",
+            "common": "پاراگوئه"
+        }
+    },
+    "latlng": [
+        -23,
+        -58
+    ],
+    "landlocked": true,
+    "borders": [
+        "ARG",
+        "BOL",
+        "BRA"
+    ],
+    "area": 406752,
+    "flag": "🇵🇾",
+    "demonyms": {
+        "eng": {
+            "f": "Paraguayan",
+            "m": "Paraguayan"
+        },
+        "fra": {
+            "f": "Paraguayenne",
+            "m": "Paraguayen"
+        }
+    }
+}
