@@ -10,130 +10,115 @@
 [![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 
 ## Countries data
+
 This repository contains a list of world countries, as defined by [ISO Standard 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1),
 in JSON, CSV, XML and YAML. **Warning:** not all entities in this project are independent countries; refer to the `independent` property to know if the country is considered a sovereign state.
 
 Each line contains the country:
 
- - `name`
- 	 - `common` - common name in english
- 	 - `official` - official name in english
- 	 - `native` - list of all native names
- 	 	- key: three-letter ISO 639-3 language code
-	 	- value: name object
-	 		- key: official - official name translation
-	 		- key: common - common name translation
- - country code top-level domain (`tld`)
- - code ISO 3166-1 alpha-2 (`cca2`)
- - code ISO 3166-1 numeric (`ccn3`)
- - code ISO 3166-1 alpha-3 (`cca3`)
- - code International Olympic Committee (`cioc`)
- - ISO 3166-1 independence status (`independent`) (denotes the country is considered a sovereign state)
- - ISO 3166-1 assignment status (`status`)
- - `currencies` - list of all currencies
- 	- key: ISO 4217 currency code
- 	- value: currency object
- 		- key: `name` name of the currency
- 		- key: `symbol` symbol of the currency
- - International Direct Dialing info (`idd`)
- 	- `root` - the root geographical code prefix. e.g. +6 for New Zealand, +4 for UK.
- 	- `suffixes` - list of all suffixes assigned to this country. 4 for NZ, 809, 829, and 849 for Dominican Republic.
- - capital city(ies) (`capital`)
- - alternative spellings (`altSpellings`)
- - region
- - subregion
- - list of official languages (`languages`)
- 	- key: three-letter ISO 639-3 language code
- 	- value: name of the language in english
- - list of name translations (`translations`)
- 	- key: three-letter ISO 639-3 language code
- 	- value: name object
- 		- key: official - official name translation
- 		- key: common - common name translation
- - latitude and longitude (`latlng`)
- - `demonyms` - name of residents, translated & genderized
-    - key: three-letter ISO 639-3 language code
-	- value: genderized demonym object
-		- key: `f` (female) or `m` (male)
-		- value: genderized demonym translation
- - landlocked status (`landlocked`)
- - land borders (`borders`)
- - land area in km² (`area`)
- - Emoji flag (`flag`)
- - calling codes (`callingCodes`)
+- `name` - `common` - common name in english - `official` - official name in english - `native` - list of all native names - key: three-letter ISO 639-3 language code - value: name object - key: official - official name translation - key: common - common name translation
+- country code top-level domain (`tld`)
+- code ISO 3166-1 alpha-2 (`cca2`)
+- code ISO 3166-1 numeric (`ccn3`)
+- code ISO 3166-1 alpha-3 (`cca3`)
+- code International Olympic Committee (`cioc`)
+- code Fédération Internationale de Football Association (member states only) (`cfifa`)
+- ISO 3166-1 independence status (`independent`) (denotes the country is considered a sovereign state)
+- ISO 3166-1 assignment status (`status`)
+- `currencies` - list of all currencies - key: ISO 4217 currency code - value: currency object - key: `name` name of the currency - key: `symbol` symbol of the currency
+- International Direct Dialing info (`idd`) - `root` - the root geographical code prefix. e.g. +6 for New Zealand, +4 for UK. - `suffixes` - list of all suffixes assigned to this country. 4 for NZ, 809, 829, and 849 for Dominican Republic.
+- capital city(ies) (`capital`)
+- alternative spellings (`altSpellings`)
+- region
+- subregion
+- list of official languages (`languages`) - key: three-letter ISO 639-3 language code - value: name of the language in english
+- list of name translations (`translations`) - key: three-letter ISO 639-3 language code - value: name object - key: official - official name translation - key: common - common name translation
+- latitude and longitude (`latlng`)
+- `demonyms` - name of residents, translated & genderized
+  - key: three-letter ISO 639-3 language code - value: genderized demonym object - key: `f` (female) or `m` (male) - value: genderized demonym translation
+- landlocked status (`landlocked`)
+- land borders (`borders`)
+- land area in km² (`area`)
+- Emoji flag (`flag`)
+- calling codes (`callingCodes`)
 
 #### Additional data
+
 The [data](https://github.com/mledoze/countries/tree/master/data) folder contains additional data such as the countries
 GeoJSON outlines and flags in SVG format.
 
 ## Examples
+
 ##### JSON
+
 ```json
 {
-	"name": {
-		"common": "Austria",
-		"official": "Republic of Austria",
-		"native": {
-			"bar": {
-				"official": "Republik Österreich",
-				"common": "Österreich"
-			}
-		}
-	},
-	"tld": [".at"],
-	"cca2": "AT",
-	"ccn3": "040",
-	"cca3": "AUT",
-	"cioc": "AUT",
-	"independent": true,
-	"status": "officially-assigned",
-	"currency": ["EUR"],
-	"idd": {
-		"root": "+4",
-		"suffixes": ["3"]
-	},
-	"capital": ["Vienna"],
-	"altSpellings": ["AT", "Osterreich", "Oesterreich"],
-	"region": "Europe",
-	"subregion": "Western Europe",
-	"languages": {
-		"bar": "Austro-Bavarian German"
-	},
-	"translations": {
-		"cym": {"official": "Republic of Austria", "common": "Awstria"},
-		"deu": {"official": "Republik Österreich", "common": "Österreich"},
-		"fra": {"official": "République d'Autriche", "common": "Autriche"},
-		"hrv": {"official": "Republika Austrija", "common": "Austrija"},
-		"ita": {"official": "Repubblica d'Austria", "common": "Austria"},
-		"jpn": {"official": "オーストリア共和国", "common": "オーストリア"},
-		"nld": {"official": "Republiek Oostenrijk", "common": "Oostenrijk"},
-		"por": {"official": "República da Áustria", "common": "Áustria"},
-		"rus": {"official": "Австрийская Республика", "common": "Австрия"},
-		"spa": {"official": "República de Austria", "common": "Austria"}
-	},
-	"latlng": [47.33333333, 13.33333333],
-	"demonym": "Austrian",
-	"demonyms": {
-		"fra": {
-			"f": "Autrichienne",
-			"m": "Autrichien"
-		},
-		"spa": {
-			"f": "Austriaco",
-			"m": "Austriaca"
-		}
-	},
-	"landlocked": true,
-	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
-	"area": 83871,
-	"flag": "\ud83c\udde6\ud83c\uddf9"
+  "name": {
+    "common": "Austria",
+    "official": "Republic of Austria",
+    "native": {
+      "bar": {
+        "official": "Republik Österreich",
+        "common": "Österreich"
+      }
+    }
+  },
+  "tld": [".at"],
+  "cca2": "AT",
+  "ccn3": "040",
+  "cca3": "AUT",
+  "cioc": "AUT",
+  "independent": true,
+  "status": "officially-assigned",
+  "currency": ["EUR"],
+  "idd": {
+    "root": "+4",
+    "suffixes": ["3"]
+  },
+  "capital": ["Vienna"],
+  "altSpellings": ["AT", "Osterreich", "Oesterreich"],
+  "region": "Europe",
+  "subregion": "Western Europe",
+  "languages": {
+    "bar": "Austro-Bavarian German"
+  },
+  "translations": {
+    "cym": { "official": "Republic of Austria", "common": "Awstria" },
+    "deu": { "official": "Republik Österreich", "common": "Österreich" },
+    "fra": { "official": "République d'Autriche", "common": "Autriche" },
+    "hrv": { "official": "Republika Austrija", "common": "Austrija" },
+    "ita": { "official": "Repubblica d'Austria", "common": "Austria" },
+    "jpn": { "official": "オーストリア共和国", "common": "オーストリア" },
+    "nld": { "official": "Republiek Oostenrijk", "common": "Oostenrijk" },
+    "por": { "official": "República da Áustria", "common": "Áustria" },
+    "rus": { "official": "Австрийская Республика", "common": "Австрия" },
+    "spa": { "official": "República de Austria", "common": "Austria" }
+  },
+  "latlng": [47.33333333, 13.33333333],
+  "demonym": "Austrian",
+  "demonyms": {
+    "fra": {
+      "f": "Autrichienne",
+      "m": "Autrichien"
+    },
+    "spa": {
+      "f": "Austriaco",
+      "m": "Austriaca"
+    }
+  },
+  "landlocked": true,
+  "borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
+  "area": 83871,
+  "flag": "\ud83c\udde6\ud83c\uddf9"
 }
 ```
 
 ##### GeoJSON and TopoJSON outlines
+
 See an example for Germany: [GeoJSON](https://github.com/mledoze/countries/blob/bb61a1cddfefd09ad5c92ad0a1effbfceba39930/data/deu.geo.json) or [TopoJSON](https://github.com/mledoze/countries/blob/442472de98e80f4a44f1028960dbb0dfb1d942fe/data/deu.topo.json).
 
 ##### CSV
+
 ```csv
 "name";"tld";"cca2";"ccn3";"cca3";"cioc";"currency";"idd";"capital";"altSpellings";"region";"subregion";"languages";"translations";"latlng";"demonym";"landlocked";"borders";"area"
 ⋮
@@ -144,6 +129,7 @@ See an example for Germany: [GeoJSON](https://github.com/mledoze/countries/blob/
 ```
 
 ##### XML
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <countries>
@@ -155,13 +141,163 @@ See an example for Germany: [GeoJSON](https://github.com/mledoze/countries/blob/
 ```
 
 ##### YAML
+
 ```yaml
-- { name: { common: Aruba, official: Aruba, native: { nld: { official: Aruba, common: Aruba }, pap: { official: Aruba, common: Aruba } } }, tld: [.aw], cca2: AW, ccn3: '533', cca3: ABW, cioc: ARU, currency: [AWG], idd: { root: '+2', suffixes: ['97'] }, capital: Oranjestad, altSpellings: [AW], region: Americas, subregion: Caribbean, languages: { nld: Dutch, pap: Papiamento }, translations: { deu: { official: Aruba, common: Aruba }, fin: { official: Aruba, common: Aruba }, fra: { official: Aruba, common: Aruba }, hrv: { official: Aruba, common: Aruba }, ita: { official: Aruba, common: Aruba }, jpn: { official: アルバ, common: アルバ }, nld: { official: Aruba, common: Aruba }, por: { official: Aruba, common: Aruba }, rus: { official: Аруба, common: Аруба }, spa: { official: Aruba, common: Aruba } }, latlng: [12.5, -69.96666666], demonym: Aruban, landlocked: false, borders: {  }, area: 180 }
-- { name: { common: Afghanistan, official: 'Islamic Republic of Afghanistan', native: { prs: { official: 'جمهوری اسلامی افغانستان', common: افغانستان }, pus: { official: 'د افغانستان اسلامي جمهوریت', common: افغانستان }, tuk: { official: 'Owganystan Yslam Respublikasy', common: Owganystan } } }, tld: [.af], cca2: AF, ccn3: '004', cca3: AFG, cioc: AFG, currency: [AFN], idd: { root: '+9', suffixes: ['3'] }, capital: Kabul, altSpellings: [AF, Afġānistān], region: Asia, subregion: 'Southern Asia', languages: { prs: Dari, pus: Pashto, tuk: Turkmen }, translations: { cym: { official: 'Islamic Republic of Afghanistan', common: Affganistan }, deu: { official: 'Islamischen Republik Afghanistan', common: Afghanistan }, fin: { official: 'Afganistanin islamilainen tasavalta', common: Afganistan }, fra: { official: 'République islamique d''Afghanistan', common: Afghanistan }, hrv: { official: 'Islamska Republika Afganistan', common: Afganistan }, ita: { official: 'Repubblica islamica dell''Afghanistan', common: Afghanistan }, jpn: { official: アフガニスタン·イスラム共和国, common: アフガニスタン }, nld: { official: 'Islamitische Republiek Afghanistan', common: Afghanistan }, por: { official: 'República Islâmica do Afeganistão', common: Afeganistão }, rus: { official: 'Исламская Республика Афганистан', common: Афганистан }, spa: { official: 'República Islámica de Afganistán', common: Afganistán } }, latlng: [33, 65], demonym: Afghan, landlocked: true, borders: [IRN, PAK, TKM, UZB, TJK, CHN], area: 652230 }
-- { name: { common: Angola, official: 'Republic of Angola', native: { por: { official: 'República de Angola', common: Angola } } }, tld: [.ao], cca2: AO, ccn3: '024', cca3: AGO, cioc: ANG, currency: [AOA], idd: { root: '+2', suffixes: ['44'] }, capital: Luanda, altSpellings: [AO, 'República de Angola', 'ʁɛpublika de an''ɡɔla'], region: Africa, subregion: 'Middle Africa', languages: { por: Portuguese }, translations: { cym: { official: 'Republic of Angola', common: Angola }, deu: { official: 'Republik Angola', common: Angola }, fin: { official: 'Angolan tasavalta', common: Angola }, fra: { official: 'République d''Angola', common: Angola }, hrv: { official: 'Republika Angola', common: Angola }, ita: { official: 'Repubblica dell''Angola', common: Angola }, jpn: { official: アンゴラ共和国, common: アンゴラ }, nld: { official: 'Republiek Angola', common: Angola }, por: { official: 'República de Angola', common: Angola }, rus: { official: 'Республика Ангола', common: Ангола }, spa: { official: 'República de Angola', common: Angola } }, latlng: [-12.5, 18.5], demonym: Angolan, landlocked: false, borders: [COG, COD, ZMB, NAM], area: 1246700 }
+- {
+    name:
+      {
+        common: Aruba,
+        official: Aruba,
+        native:
+          {
+            nld: { official: Aruba, common: Aruba },
+            pap: { official: Aruba, common: Aruba },
+          },
+      },
+    tld: [.aw],
+    cca2: AW,
+    ccn3: "533",
+    cca3: ABW,
+    cioc: ARU,
+    currency: [AWG],
+    idd: { root: "+2", suffixes: ["97"] },
+    capital: Oranjestad,
+    altSpellings: [AW],
+    region: Americas,
+    subregion: Caribbean,
+    languages: { nld: Dutch, pap: Papiamento },
+    translations:
+      {
+        deu: { official: Aruba, common: Aruba },
+        fin: { official: Aruba, common: Aruba },
+        fra: { official: Aruba, common: Aruba },
+        hrv: { official: Aruba, common: Aruba },
+        ita: { official: Aruba, common: Aruba },
+        jpn: { official: アルバ, common: アルバ },
+        nld: { official: Aruba, common: Aruba },
+        por: { official: Aruba, common: Aruba },
+        rus: { official: Аруба, common: Аруба },
+        spa: { official: Aruba, common: Aruba },
+      },
+    latlng: [12.5, -69.96666666],
+    demonym: Aruban,
+    landlocked: false,
+    borders: {},
+    area: 180,
+  }
+- {
+    name:
+      {
+        common: Afghanistan,
+        official: "Islamic Republic of Afghanistan",
+        native:
+          {
+            prs: { official: "جمهوری اسلامی افغانستان", common: افغانستان },
+            pus: { official: "د افغانستان اسلامي جمهوریت", common: افغانستان },
+            tuk:
+              { official: "Owganystan Yslam Respublikasy", common: Owganystan },
+          },
+      },
+    tld: [.af],
+    cca2: AF,
+    ccn3: "004",
+    cca3: AFG,
+    cioc: AFG,
+    currency: [AFN],
+    idd: { root: "+9", suffixes: ["3"] },
+    capital: Kabul,
+    altSpellings: [AF, Afġānistān],
+    region: Asia,
+    subregion: "Southern Asia",
+    languages: { prs: Dari, pus: Pashto, tuk: Turkmen },
+    translations:
+      {
+        cym:
+          { official: "Islamic Republic of Afghanistan", common: Affganistan },
+        deu:
+          { official: "Islamischen Republik Afghanistan", common: Afghanistan },
+        fin:
+          {
+            official: "Afganistanin islamilainen tasavalta",
+            common: Afganistan,
+          },
+        fra:
+          {
+            official: "République islamique d'Afghanistan",
+            common: Afghanistan,
+          },
+        hrv: { official: "Islamska Republika Afganistan", common: Afganistan },
+        ita:
+          {
+            official: "Repubblica islamica dell'Afghanistan",
+            common: Afghanistan,
+          },
+        jpn:
+          { official: アフガニスタン·イスラム共和国, common: アフガニスタン },
+        nld:
+          {
+            official: "Islamitische Republiek Afghanistan",
+            common: Afghanistan,
+          },
+        por:
+          {
+            official: "República Islâmica do Afeganistão",
+            common: Afeganistão,
+          },
+        rus:
+          { official: "Исламская Республика Афганистан", common: Афганистан },
+        spa:
+          { official: "República Islámica de Afganistán", common: Afganistán },
+      },
+    latlng: [33, 65],
+    demonym: Afghan,
+    landlocked: true,
+    borders: [IRN, PAK, TKM, UZB, TJK, CHN],
+    area: 652230,
+  }
+- {
+    name:
+      {
+        common: Angola,
+        official: "Republic of Angola",
+        native: { por: { official: "República de Angola", common: Angola } },
+      },
+    tld: [.ao],
+    cca2: AO,
+    ccn3: "024",
+    cca3: AGO,
+    cioc: ANG,
+    currency: [AOA],
+    idd: { root: "+2", suffixes: ["44"] },
+    capital: Luanda,
+    altSpellings: [AO, "República de Angola", "ʁɛpublika de an'ɡɔla"],
+    region: Africa,
+    subregion: "Middle Africa",
+    languages: { por: Portuguese },
+    translations:
+      {
+        cym: { official: "Republic of Angola", common: Angola },
+        deu: { official: "Republik Angola", common: Angola },
+        fin: { official: "Angolan tasavalta", common: Angola },
+        fra: { official: "République d'Angola", common: Angola },
+        hrv: { official: "Republika Angola", common: Angola },
+        ita: { official: "Repubblica dell'Angola", common: Angola },
+        jpn: { official: アンゴラ共和国, common: アンゴラ },
+        nld: { official: "Republiek Angola", common: Angola },
+        por: { official: "República de Angola", common: Angola },
+        rus: { official: "Республика Ангола", common: Ангола },
+        spa: { official: "República de Angola", common: Angola },
+      },
+    latlng: [-12.5, 18.5],
+    demonym: Angolan,
+    landlocked: false,
+    borders: [COG, COD, ZMB, NAM],
+    area: 1246700,
+  }
 ```
 
 ## Customising the output
+
 The data files provided in the `dist` directory include all available fields, but is also possible to build a custom version of the data with certain fields excluded.
 
 To do this, you will first need a working PHP installation, [composer](https://getcomposer.org) and a local copy of this repository. Once you have these, open a terminal in your local version of this project's root directory and run this command to install the necessary dependencies:
@@ -211,8 +347,8 @@ php countries.php convert --format=json_unescaped --format=csv
 php countries.php convert -f json_unescaped -f csv
 ```
 
-
 ## Showcase
+
 Projects using this dataset:
 
 - [REST Countries](https://restcountries.eu/)
@@ -226,14 +362,17 @@ Projects using this dataset:
 - [Agnostic Virtual Assistant](https://github.com/ava-ia/core)
 
 ## How to contribute?
+
 Please refer to [CONTRIBUTING](https://github.com/mledoze/countries/blob/master/CONTRIBUTING.md).
 
 ## To do
- - add the type of the country (country, sovereign state, public body, territory, etc.)
- - add missing translations
- - pull in data automatically from CLDR at build time (idea from @Munter, see #108)
+
+- add the type of the country (country, sovereign state, public body, territory, etc.)
+- add missing translations
+- pull in data automatically from CLDR at build time (idea from @Munter, see #108)
 
 ## Sources
+
 https://www.currency-iso.org/ for currency codes.
 
 Region and subregion are taken from https://github.com/hexorx/countries.
@@ -243,14 +382,17 @@ GeoJSON outlines come from http://thematicmapping.org/downloads/world_borders.ph
 The rest comes from Wikipedia.
 
 ## Credits
+
 Thanks to:
- - @Glazz for his help with country calling codes
- - @hexorx for his work (https://github.com/hexorx/countries)
- - @frederik-jacques for the capital cities
- - @fayer for the population, geolocation, demonym and area data
- - @ancosen for his help with the borders data
- - @herrjemand for country names and various fixes
- - all the contributors: https://github.com/mledoze/countries/graphs/contributors
+
+- @Glazz for his help with country calling codes
+- @hexorx for his work (https://github.com/hexorx/countries)
+- @frederik-jacques for the capital cities
+- @fayer for the population, geolocation, demonym and area data
+- @ancosen for his help with the borders data
+- @herrjemand for country names and various fixes
+- all the contributors: https://github.com/mledoze/countries/graphs/contributors
 
 ## License
+
 See [LICENSE](https://github.com/mledoze/countries/blob/master/LICENSE).
