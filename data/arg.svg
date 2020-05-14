@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" height="500">
+<svg width="800" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" height="500">
  <rect width="800" fill="#74acdf" height="500"/>
  <rect y="166.67" width="800" fill="#fff" height="166.67"/>
  <g id="rays">

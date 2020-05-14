@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600">
 <title>Flag of Dominica</title>
-<rect height="600" width="1200" fill="#006b3f"/>
-<rect width="75" height="600" x="525" fill="#fcd116"/>
-<rect width="1200" height="75" y="225" fill="#fcd116"/>
-<rect width="75" height="600" x="600" fill="#fff"/>
-<rect width="1200" height="75" y="300" fill="#fff"/>
-<rect width="50" height="600" x="575" fill="#000"/>
+<rect height="600" width="1200" fill="#006b3f"/>
+
+<rect width="75" height="600" x="525" fill="#fcd116"/>
+
+<rect width="1200" height="75" y="225" fill="#fcd116"/>
+
+<rect width="75" height="600" x="600" fill="#fff"/>
+
+<rect width="1200" height="75" y="300" fill="#fff"/>
+
+<rect width="50" height="600" x="575" fill="#000"/>
+
 <rect width="1200" height="50" y="275" fill="#000"/>
-<g fill="#006b3f" transform="translate(600,300)">
+<g fill="#006b3f" transform="translate(600,300)">
+
 <circle r="150" fill="#d41c30"/>
 <g id="star2">
-<path id="star" stroke="#000" d="m-4.81,-118.41 4.81,-13.72 4.37,13.5 14.65,0.22 -11.59,8.85 5.25,15.05 -12.68,-9.29 -12.46,8.85 4.81,-14.61 -11.37,-8.63 14.21,-0.22z"/>
+<path id="star" stroke="#000" d="m-4.81,-118.41 4.81,-13.72 4.37,13.5 14.65,0.22 -11.59,8.85 5.25,15.05 -12.68,-9.29 -12.46,8.85 4.81,-14.61 -11.37,-8.63 14.21,-0.22z"/>
+
 <use xlink:href="#star" transform="rotate(180)"/>
 </g>
 <use xlink:href="#star2" transform="rotate(36)"/>

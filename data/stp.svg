@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2800" height="1400">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2800 1400" xmlns:xlink="http://www.w3.org/1999/xlink" width="2800" height="1400">
 	<rect width="2800" height="1400" fill="#12ad2b"/>
 	<rect y="400" width="2800" height="600" fill="#ffce00"/>
 	<path d="M 0,0 V 1400 L 700,700" fill="#d21034"/>
