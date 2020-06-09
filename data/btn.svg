@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
-<rect width="900" height="600" fill="#ffd520"/>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" width="900" height="600">
+
+<rect width="900" height="600" fill="#ffd520"/>
+
 <path d="M0,600H900V0z" fill="#ff4e12"/>
 <g stroke="#000" stroke-width="0.5208">
 <g fill="#fff">

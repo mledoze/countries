@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="600">
 	<rect width="900" height="600" fill="#009e49"/>
 	<rect width="900" height="300" fill="#ef2b2d"/>
 	<g transform="translate(450,300)" fill="#fcd116">

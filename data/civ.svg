@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="450" height="300" id="Flag_of_Cote_dIvoire">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 300" version="1.1" width="450" height="300" id="Flag_of_Cote_dIvoire">
  <rect width="450" height="300" fill="#ffffff"/>
  <rect width="150" height="300" fill="#f77f00"/>
  <rect width="150" height="300" x="300" fill="#009e60"/>
