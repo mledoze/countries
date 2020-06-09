@@ -116,6 +116,10 @@
                 "official": "Aruba",
                 "common": "Aruba"
             },
+            "swe": {
+                "official": "Aruba",
+                "common": "Aruba"
+            },
             "urd": {
                 "official": "\u0627\u0631\u0648\u0628\u0627",
                 "common": "\u0627\u0631\u0648\u0628\u0627"
@@ -271,6 +275,10 @@
                 "official": "Rep\u00fablica Isl\u00e1mica de Afganist\u00e1n",
                 "common": "Afganist\u00e1n"
             },
+            "swe": {
+                "official": "Islamiska republiken Afghanistan",
+                "common": "Afghanistan"
+            },
             "urd": {
                 "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
                 "common": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
@@ -424,6 +432,10 @@
                 "official": "Rep\u00fablica de Angola",
                 "common": "Angola"
             },
+            "swe": {
+                "official": "Republiken Angola",
+                "common": "Angola"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u06af\u0648\u0644\u06c1",
                 "common": "\u0627\u0646\u06af\u0648\u0644\u06c1"
@@ -569,6 +581,10 @@
                 "official": "Anguila",
                 "common": "Anguilla"
             },
+            "swe": {
+                "official": "Anguilla",
+                "common": "Anguilla"
+            },
             "urd": {
                 "official": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627",
                 "common": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627"
@@ -711,6 +727,10 @@
             "spa": {
                 "official": "Islas \u00c5land",
                 "common": "Alandia"
+            },
+            "swe": {
+                "official": "\u00c5land",
+                "common": "\u00c5land"
             },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0627\u0648\u0644\u0646\u062f",
@@ -858,6 +878,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Albania",
                 "common": "Albania"
+            },
+            "swe": {
+                "official": "Republiken Albanien",
+                "common": "Albanien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u0628\u0627\u0646\u06cc\u0627",
@@ -1010,6 +1034,10 @@
                 "official": "Principado de Andorra",
                 "common": "Andorra"
             },
+            "swe": {
+                "official": "Furstend\u00f6met Andorra",
+                "common": "Andorra"
+            },
             "urd": {
                 "official": "\u0627\u0645\u0627\u0631\u0627\u062a\u0650 \u0627\u0646\u0688\u0648\u0631\u0627",
                 "common": "\u0627\u0646\u0688\u0648\u0631\u0627"
@@ -1155,6 +1183,10 @@
             "spa": {
                 "official": "Emiratos \u00c1rabes Unidos",
                 "common": "Emiratos \u00c1rabes Unidos"
+            },
+            "swe": {
+                "official": "F\u00f6renade Arabemiraten",
+                "common": "F\u00f6renade Arabemiraten"
             },
             "urd": {
                 "official": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a",
@@ -1310,6 +1342,10 @@
                 "official": "Rep\u00fablica Argentina",
                 "common": "Argentina"
             },
+            "swe": {
+                "official": "Republiken Argentina",
+                "common": "Argentina"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646",
                 "common": "\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
@@ -1462,6 +1498,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Armenia",
                 "common": "Armenia"
+            },
+            "swe": {
+                "official": "Republiken Armenien",
+                "common": "Armenien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0631\u0645\u06cc\u0646\u06cc\u0627",
@@ -1616,6 +1656,10 @@
                 "official": "Samoa Americana",
                 "common": "Samoa Americana"
             },
+            "swe": {
+                "official": "Amerikanska Samoa",
+                "common": "Amerikanska Samoa"
+            },
             "urd": {
                 "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627",
                 "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627"
@@ -1745,6 +1789,10 @@
             "spa": {
                 "official": "Ant\u00e1rtida",
                 "common": "Ant\u00e1rtida"
+            },
+            "swe": {
+                "official": "Antarktis",
+                "common": "Antarktis"
             },
             "urd": {
                 "official": "\u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06a9\u0627",
@@ -1886,6 +1934,10 @@
             "spa": {
                 "official": "Territorio del Franc\u00e9s Tierras australes y ant\u00e1rticas",
                 "common": "Tierras Australes y Ant\u00e1rticas Francesas"
+            },
+            "swe": {
+                "official": "Franska syd- och Antarktisterritorierna",
+                "common": "Franska s\u00f6dra territorierna"
             },
             "urd": {
                 "official": "\u0633\u0631\u0632\u0645\u06cc\u0646\u0650 \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc\u06c1 \u0648 \u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06cc\u06a9\u06c1",
@@ -2031,6 +2083,10 @@
                 "official": "Antigua y Barbuda",
                 "common": "Antigua y Barbuda"
             },
+            "swe": {
+                "official": "Antigua och Barbuda",
+                "common": "Antigua och Barbuda"
+            },
             "urd": {
                 "official": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627",
                 "common": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"
@@ -2174,6 +2230,10 @@
             "spa": {
                 "official": "Mancomunidad de Australia",
                 "common": "Australia"
+            },
+            "swe": {
+                "official": "Australiska statsf\u00f6rbundet",
+                "common": "Australien"
             },
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627",
@@ -2320,6 +2380,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Austria",
                 "common": "Austria"
+            },
+            "swe": {
+                "official": "Republiken \u00d6sterrike",
+                "common": "\u00d6sterrike"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0627",
@@ -2481,6 +2545,10 @@
                 "official": "Rep\u00fablica de Azerbaiy\u00e1n",
                 "common": "Azerbaiy\u00e1n"
             },
+            "swe": {
+                "official": "Republiken Azerbajdzjan",
+                "common": "Azerbajdzjan"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646",
                 "common": "\u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646"
@@ -2637,6 +2705,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Burundi",
+                "common": "Burundi"
+            },
+            "swe": {
+                "official": "Republiken Burundi",
                 "common": "Burundi"
             },
             "urd": {
@@ -2805,6 +2877,10 @@
                 "official": "Reino de B\u00e9lgica",
                 "common": "B\u00e9lgica"
             },
+            "swe": {
+                "official": "Konungariket Belgien",
+                "common": "Belgien"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u0644\u062c\u0626\u06cc\u0645",
                 "common": "\u0628\u0644\u062c\u0626\u06cc\u0645"
@@ -2956,6 +3032,10 @@
                 "official": "Rep\u00fablica de Benin",
                 "common": "Ben\u00edn"
             },
+            "swe": {
+                "official": "Republiken Benin",
+                "common": "Benin"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0646\u0646",
                 "common": "\u0628\u06cc\u0646\u0646"
@@ -3102,6 +3182,10 @@
                 "common": "Burkina Faso"
             },
             "spa": {
+                "official": "Burkina Faso",
+                "common": "Burkina Faso"
+            },
+            "swe": {
                 "official": "Burkina Faso",
                 "common": "Burkina Faso"
             },
@@ -3258,6 +3342,10 @@
                 "official": "Rep\u00fablica Popular de Bangladesh",
                 "common": "Bangladesh"
             },
+            "swe": {
+                "official": "Folkrepubliken Bangladesh",
+                "common": "Bangladesh"
+            },
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634",
                 "common": "\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634"
@@ -3406,6 +3494,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Bulgaria",
                 "common": "Bulgaria"
+            },
+            "swe": {
+                "official": "Republiken Bulgarien",
+                "common": "Bulgarien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0644\u063a\u0627\u0631\u06cc\u06c1",
@@ -3559,6 +3651,10 @@
                 "official": "Reino de Bahrein",
                 "common": "Bahrein"
             },
+            "swe": {
+                "official": "Konungariket Bahrain",
+                "common": "Bahrain"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u062d\u0631\u06cc\u0646",
                 "common": "\u0628\u062d\u0631\u06cc\u0646"
@@ -3706,6 +3802,10 @@
             },
             "spa": {
                 "official": "Commonwealth de las Bahamas",
+                "common": "Bahamas"
+            },
+            "swe": {
+                "official": "Samv\u00e4ldet Bahamas",
                 "common": "Bahamas"
             },
             "urd": {
@@ -3864,6 +3964,10 @@
                 "official": "Bosnia y Herzegovina",
                 "common": "Bosnia y Herzegovina"
             },
+            "swe": {
+                "official": "Bosnien och Hercegovina",
+                "common": "Bosnien och Hercegovina"
+            },
             "urd": {
                 "official": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627",
                 "common": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627"
@@ -4011,6 +4115,10 @@
                 "official": "Colectividad de San Barth\u00e9lemy",
                 "common": "San Bartolom\u00e9"
             },
+            "swe": {
+                "official": "Saint-Barth\u00e9lemy",
+                "common": "Saint-Barth\u00e9lemy"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2",
                 "common": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2"
@@ -4157,6 +4265,10 @@
             "spa": {
                 "official": "Santa Elena, Ascensi\u00f3n y Trist\u00e1n de Acu\u00f1a",
                 "common": "Santa Elena, Ascensi\u00f3n y Trist\u00e1n de Acu\u00f1a"
+            },
+            "swe": {
+                "official": "Sankta Helena",
+                "common": "Sankta Helena"
             },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u06c1\u0644\u06cc\u0646\u0627\u060c \u0627\u0633\u06cc\u0646\u0634\u0646 \u0648 \u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627",
@@ -4310,6 +4422,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Belar\u00fas",
                 "common": "Bielorrusia"
+            },
+            "swe": {
+                "official": "Republiken Vitryssland",
+                "common": "Belarus"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0644\u0627\u0631\u0648\u0633",
@@ -4471,6 +4587,10 @@
                 "official": "Belice",
                 "common": "Belice"
             },
+            "swe": {
+                "official": "Belize",
+                "common": "Belize"
+            },
             "urd": {
                 "official": "\u0628\u06cc\u0644\u06cc\u0632",
                 "common": "\u0628\u06cc\u0644\u06cc\u0632"
@@ -4620,6 +4740,10 @@
             "spa": {
                 "official": "Bermuda",
                 "common": "Bermudas"
+            },
+            "swe": {
+                "official": "Bermuda",
+                "common": "Bermuda"
             },
             "urd": {
                 "official": "\u0628\u0631\u0645\u0648\u062f\u0627",
@@ -4788,6 +4912,10 @@
                 "official": "Estado Plurinacional de Bolivia",
                 "common": "Bolivia"
             },
+            "swe": {
+                "official": "M\u00e5ngnationella staten Bolivia",
+                "common": "Bolivia"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0644\u06cc\u0648\u06cc\u0627",
                 "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc\u0627"
@@ -4939,6 +5067,10 @@
                 "official": "Bonaire, San Eustaquio y Saba",
                 "common": "Caribe Neerland\u00e9s"
             },
+            "swe": {
+                "official": "Bonaire, Sint Eustatius and Saba",
+                "common": "Karibiska Nederl\u00e4nderna"
+            },
             "urd": {
                 "official": "\u0628\u0648\u0646\u0627\u06cc\u0631\u060c \u0633\u06cc\u0646\u0679 \u0627\u06cc\u0648\u0633\u0679\u0627\u0626\u06cc\u0633 \u0627\u0648\u0631 \u0633\u0627\u0628\u0627",
                 "common": "\u06a9\u06cc\u0631\u06cc\u0628\u06cc\u0646 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"
@@ -5085,6 +5217,10 @@
             "spa": {
                 "official": "Rep\u00fablica Federativa del Brasil",
                 "common": "Brasil"
+            },
+            "swe": {
+                "official": "F\u00f6rbundsrepubliken Brasilien",
+                "common": "Brasilien"
             },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0631\u0627\u0632\u06cc\u0644",
@@ -5241,6 +5377,10 @@
                 "official": "Barbados",
                 "common": "Barbados"
             },
+            "swe": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
             "urd": {
                 "official": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633",
                 "common": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
@@ -5390,6 +5530,10 @@
             },
             "spa": {
                 "official": "Naci\u00f3n de Brunei, Morada de la Paz",
+                "common": "Brunei"
+            },
+            "swe": {
+                "official": "Brunei Darussalam",
                 "common": "Brunei"
             },
             "urd": {
@@ -5543,6 +5687,10 @@
                 "official": "Reino de But\u00e1n",
                 "common": "But\u00e1n"
             },
+            "swe": {
+                "official": "Konungariket Bhutan",
+                "common": "Bhutan"
+            },
             "urd": {
                 "official": "\u0633\u0644\u0637\u0646\u062a \u0628\u06be\u0648\u0679\u0627\u0646",
                 "common": "\u0628\u06be\u0648\u0679\u0627\u0646"
@@ -5682,6 +5830,10 @@
             "spa": {
                 "official": "Isla Bouvet",
                 "common": "Isla Bouvet"
+            },
+            "swe": {
+                "official": "Bouvet\u00f6n",
+                "common": "Bouvet\u00f6n"
             },
             "urd": {
                 "official": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1",
@@ -5828,6 +5980,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Botswana",
+                "common": "Botswana"
+            },
+            "swe": {
+                "official": "Republiken Botswana",
                 "common": "Botswana"
             },
             "urd": {
@@ -5986,6 +6142,10 @@
                 "official": "Rep\u00fablica Centroafricana",
                 "common": "Rep\u00fablica Centroafricana"
             },
+            "swe": {
+                "official": "Centralafrikanska republiken",
+                "common": "Centralafrikanska republiken"
+            },
             "urd": {
                 "official": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
                 "common": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
@@ -6142,6 +6302,10 @@
                 "official": "Canad\u00e1",
                 "common": "Canad\u00e1"
             },
+            "swe": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
             "urd": {
                 "official": "\u06a9\u06cc\u0646\u06cc\u0688\u0627",
                 "common": "\u06a9\u06cc\u0646\u06cc\u0688\u0627"
@@ -6289,6 +6453,10 @@
             "spa": {
                 "official": "Territorio de los (Keeling) Islas Cocos",
                 "common": "Islas Cocos o Islas Keeling"
+            },
+            "swe": {
+                "official": "Kokos\u00f6arna",
+                "common": "Kokos\u00f6arna"
             },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 (\u06a9\u06cc\u0644\u0646\u06af) \u06a9\u0648\u06a9\u0648\u0633",
@@ -6450,6 +6618,10 @@
                 "official": "Confederaci\u00f3n Suiza",
                 "common": "Suiza"
             },
+            "swe": {
+                "official": "Schweiziska edsf\u00f6rbundet",
+                "common": "Schweiz"
+            },
             "urd": {
                 "official": "\u0633\u0648\u0626\u06cc\u0633  \u0645\u062a\u062d\u062f\u06c1",
                 "common": "\u0633\u0648\u06cc\u0679\u0630\u0631\u0644\u06cc\u0646\u0688"
@@ -6600,6 +6772,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Chile",
+                "common": "Chile"
+            },
+            "swe": {
+                "official": "Republiken Chile",
                 "common": "Chile"
             },
             "urd": {
@@ -6760,6 +6936,10 @@
                 "official": "Rep\u00fablica Popular de China",
                 "common": "China"
             },
+            "swe": {
+                "official": "Folkrepubliken Kina",
+                "common": "Kina"
+            },
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646",
                 "common": "\u0686\u06cc\u0646"
@@ -6917,6 +7097,10 @@
                 "official": "Rep\u00fablica de C\u00f4te d'Ivoire",
                 "common": "Costa de Marfil"
             },
+            "swe": {
+                "official": "Republiken Elfenbenskusten",
+                "common": "Elfenbenskusten"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u062a \u062f\u06cc\u0648\u0627\u063a",
                 "common": "\u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"
@@ -7073,6 +7257,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Camer\u00fan",
                 "common": "Camer\u00fan"
+            },
+            "swe": {
+                "official": "Republiken Kamerun",
+                "common": "Kamerun"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0645\u0631\u0648\u0646",
@@ -7249,6 +7437,10 @@
                 "official": "Rep\u00fablica Democr\u00e1tica del Congo",
                 "common": "Congo (Rep. Dem.)"
             },
+            "swe": {
+                "official": "Demokratiska republiken Kongo",
+                "common": "Kongo-Kinshasa"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648",
                 "common": "\n\u06a9\u0627\u0646\u06af\u0648"
@@ -7415,6 +7607,10 @@
                 "official": "Rep\u00fablica del Congo",
                 "common": "Congo"
             },
+            "swe": {
+                "official": "Republiken Kongo",
+                "common": "Kongo-Brazzaville"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648",
                 "common": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648"
@@ -7575,6 +7771,10 @@
                 "official": "Islas Cook",
                 "common": "Islas Cook"
             },
+            "swe": {
+                "official": "Cook\u00f6arna",
+                "common": "Cook\u00f6arna"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9"
@@ -7719,6 +7919,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Colombia",
+                "common": "Colombia"
+            },
+            "swe": {
+                "official": "Republiken Colombia",
                 "common": "Colombia"
             },
             "urd": {
@@ -7885,6 +8089,10 @@
                 "official": "Uni\u00f3n de las Comoras",
                 "common": "Comoras"
             },
+            "swe": {
+                "official": "Unionen Komorerna",
+                "common": "Komorerna"
+            },
             "urd": {
                 "official": "\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0642\u0645\u0631\u06cc",
                 "common": "\u0627\u0644\u0642\u0645\u0631\u06cc"
@@ -8031,6 +8239,10 @@
                 "official": "Rep\u00fablica de Cabo Verde",
                 "common": "Cabo Verde"
             },
+            "swe": {
+                "official": "Republiken Kap Verde",
+                "common": "Kap Verde"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc",
                 "common": "\u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc"
@@ -8175,6 +8387,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Costa Rica",
+                "common": "Costa Rica"
+            },
+            "swe": {
+                "official": "Republiken Costa Rica",
                 "common": "Costa Rica"
             },
             "urd": {
@@ -8330,6 +8546,10 @@
                 "official": "Rep\u00fablica de Cuba",
                 "common": "Cuba"
             },
+            "swe": {
+                "official": "Republiken Kuba",
+                "common": "Kuba"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0648\u0628\u0627",
                 "common": "\u06a9\u06cc\u0648\u0628\u0627"
@@ -8477,6 +8697,10 @@
                 "official": "Pa\u00eds de Curazao",
                 "common": "Curazao"
             },
+            "swe": {
+                "official": "Cura\u00e7ao",
+                "common": "Cura\u00e7ao"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624",
                 "common": "\u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624"
@@ -8622,6 +8846,10 @@
                 "official": "Territorio de la Isla de Navidad",
                 "common": "Isla de Navidad"
             },
+            "swe": {
+                "official": "Jul\u00f6n",
+                "common": "Jul\u00f6n"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633"
@@ -8765,6 +8993,10 @@
             "spa": {
                 "official": "Islas Caim\u00e1n",
                 "common": "Islas Caim\u00e1n"
+            },
+            "swe": {
+                "official": "Cayman\u00f6arna",
+                "common": "Cayman\u00f6arna"
             },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646",
@@ -8920,6 +9152,10 @@
                 "official": "Rep\u00fablica de Chipre",
                 "common": "Chipre"
             },
+            "swe": {
+                "official": "Republiken Cypern",
+                "common": "Cypern"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0628\u0631\u0635",
                 "common": "\u0642\u0628\u0631\u0635"
@@ -9071,6 +9307,10 @@
                 "official": "Rep\u00fablica Checa",
                 "common": "Chequia"
             },
+            "swe": {
+                "official": "Republiken Tjeckien",
+                "common": "Tjeckien"
+            },
             "urd": {
                 "official": "\u0686\u064a\u06a9 \u062c\u0645\u06c1\u0648\u0631\u064a\u06c1",
                 "common": "\u0686\u064a\u06a9"
@@ -9217,6 +9457,10 @@
             "spa": {
                 "official": "Rep\u00fablica Federal de Alemania",
                 "common": "Alemania"
+            },
+            "swe": {
+                "official": "F\u00f6rbundsrepubliken Tyskland",
+                "common": "Tyskland"
             },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0631\u0645\u0646\u06cc",
@@ -9383,6 +9627,10 @@
                 "official": "Rep\u00fablica de Djibouti",
                 "common": "Djibouti"
             },
+            "swe": {
+                "official": "Republiken Djibouti",
+                "common": "Djibouti"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0628\u0648\u062a\u06cc",
                 "common": "\u062c\u0628\u0648\u062a\u06cc"
@@ -9534,6 +9782,10 @@
                 "official": "Mancomunidad de Dominica",
                 "common": "Dominica"
             },
+            "swe": {
+                "official": "Samv\u00e4ldet Dominica",
+                "common": "Dominica"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
                 "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
@@ -9680,6 +9932,10 @@
             "spa": {
                 "official": "Reino de Dinamarca",
                 "common": "Dinamarca"
+            },
+            "swe": {
+                "official": "Konungariket Danmark",
+                "common": "Danmark"
             },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0688\u0646\u0645\u0627\u0631\u06a9",
@@ -9829,6 +10085,10 @@
                 "official": "Rep\u00fablica Dominicana",
                 "common": "Rep\u00fablica Dominicana"
             },
+            "swe": {
+                "official": "Dominikanska republiken",
+                "common": "Dominikanska republiken"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646",
                 "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
@@ -9977,6 +10237,10 @@
             "spa": {
                 "official": "Rep\u00fablica Argelina Democr\u00e1tica y Popular",
                 "common": "Argelia"
+            },
+            "swe": {
+                "official": "Demokratiska folkrepubliken Algeriet",
+                "common": "Algeriet"
             },
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
@@ -10132,6 +10396,10 @@
                 "official": "Rep\u00fablica del Ecuador",
                 "common": "Ecuador"
             },
+            "swe": {
+                "official": "Republiken Ecuador",
+                "common": "Ecuador"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u06a9\u0648\u0688\u0648\u0631",
                 "common": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"
@@ -10280,6 +10548,10 @@
             "spa": {
                 "official": "Rep\u00fablica \u00c1rabe de Egipto",
                 "common": "Egipto"
+            },
+            "swe": {
+                "official": "Arabrepubliken Egypten",
+                "common": "Egypten"
             },
             "urd": {
                 "official": "\u0645\u0635\u0631\u06cc \u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
@@ -10443,6 +10715,10 @@
             },
             "spa": {
                 "official": "Estado de Eritrea",
+                "common": "Eritrea"
+            },
+            "swe": {
+                "official": "Staten Eritrea",
                 "common": "Eritrea"
             },
             "urd": {
@@ -10609,6 +10885,10 @@
                 "official": "Rep\u00fablica \u00c1rabe Saharaui Democr\u00e1tica",
                 "common": "Sahara Occidental"
             },
+            "swe": {
+                "official": "V\u00e4stsahara",
+                "common": "V\u00e4stsahara"
+            },
             "urd": {
                 "official": "\u0635\u062d\u0631\u0627\u0648\u06cc \u0639\u0631\u0628 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
                 "common": "\u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"
@@ -10754,6 +11034,10 @@
             "spa": {
                 "official": "Reino de Espa\u00f1a",
                 "common": "Espa\u00f1a"
+            },
+            "swe": {
+                "official": "Konungariket Spanien",
+                "common": "Spanien"
             },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1",
@@ -10908,6 +11192,10 @@
                 "official": "Rep\u00fablica de Estonia",
                 "common": "Estonia"
             },
+            "swe": {
+                "official": "Republiken Estland",
+                "common": "Estland"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u0679\u0648\u0646\u06cc\u0627",
                 "common": "\u0627\u0633\u0679\u0648\u0646\u06cc\u0627"
@@ -11057,6 +11345,10 @@
             "spa": {
                 "official": "Rep\u00fablica Democr\u00e1tica Federal de Etiop\u00eda",
                 "common": "Etiop\u00eda"
+            },
+            "swe": {
+                "official": "Demokratiska f\u00f6rbundsrepubliken Etiopien",
+                "common": "Etiopien"
             },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627",
@@ -11213,6 +11505,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Finlandia",
                 "common": "Finlandia"
+            },
+            "swe": {
+                "official": "Republiken Finland",
+                "common": "Finland"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0646 \u0644\u06cc\u0646\u0688",
@@ -11372,6 +11668,10 @@
                 "official": "Rep\u00fablica de Fiji",
                 "common": "Fiyi"
             },
+            "swe": {
+                "official": "Republiken Fiji",
+                "common": "Fiji"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u062c\u06cc",
                 "common": "\u0641\u062c\u06cc"
@@ -11514,6 +11814,10 @@
                 "official": "islas Malvinas",
                 "common": "Islas Malvinas"
             },
+            "swe": {
+                "official": "Falklands\u00f6arna",
+                "common": "Falklands\u00f6arna"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688"
@@ -11655,6 +11959,10 @@
             "spa": {
                 "official": "Rep\u00fablica franc\u00e9s",
                 "common": "Francia"
+            },
+            "swe": {
+                "official": "Republiken Frankrike",
+                "common": "Frankrike"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0631\u0627\u0646\u0633",
@@ -11816,6 +12124,10 @@
                 "official": "Islas Feroe",
                 "common": "Islas Faroe"
             },
+            "swe": {
+                "official": "F\u00e4r\u00f6arna",
+                "common": "F\u00e4r\u00f6arna"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648"
@@ -11952,6 +12264,10 @@
             "spa": {
                 "official": "Estados Federados de Micronesia",
                 "common": "Micronesia"
+            },
+            "swe": {
+                "official": "Mikronesiska federationen",
+                "common": "Mikronesiska federationen"
             },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0648\u0641\u0627\u0642\u06cc\u06c1 \u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627",
@@ -12094,6 +12410,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Gab\u00f3n",
                 "common": "Gab\u00f3n"
+            },
+            "swe": {
+                "official": "Republiken Gabon",
+                "common": "Gabon"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0628\u0648\u0646",
@@ -12241,6 +12561,10 @@
                 "official": "Reino Unido de Gran Breta\u00f1a e Irlanda del Norte",
                 "common": "Reino Unido"
             },
+            "swe": {
+                "official": "F\u00f6renade konungariket Storbritannien och Nordirland",
+                "common": "Storbritannien"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1 \u0628\u0631\u0637\u0627\u0646\u06cc\u06c1 \u0639\u0638\u0645\u06cc \u0648 \u0634\u0645\u0627\u0644\u06cc \u0622\u0626\u0631\u0644\u06cc\u0646\u0688",
                 "common": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1"
@@ -12383,6 +12707,10 @@
             "spa": {
                 "official": "Georgia",
                 "common": "Georgia"
+            },
+            "swe": {
+                "official": "Georgien",
+                "common": "Georgien"
             },
             "urd": {
                 "official": "\u062c\u0627\u0631\u062c\u06cc\u0627",
@@ -12545,6 +12873,10 @@
                 "official": "Bail\u00eda de Guernsey",
                 "common": "Guernsey"
             },
+            "swe": {
+                "official": "Guernsey",
+                "common": "Guernsey"
+            },
             "urd": {
                 "official": "\u06af\u0631\u0646\u0632\u06cc \u0631\u0648\u062f\u0628\u0627\u0631",
                 "common": "\u06af\u0631\u0646\u0632\u06cc"
@@ -12683,6 +13015,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Ghana",
+                "common": "Ghana"
+            },
+            "swe": {
+                "official": "Republiken Ghana",
                 "common": "Ghana"
             },
             "urd": {
@@ -12829,6 +13165,10 @@
                 "official": "Gibraltar",
                 "common": "Gibraltar"
             },
+            "swe": {
+                "official": "Gibraltar",
+                "common": "Gibraltar"
+            },
             "urd": {
                 "official": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642",
                 "common": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642"
@@ -12971,6 +13311,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Guinea",
+                "common": "Guinea"
+            },
+            "swe": {
+                "official": "Republiken Guinea",
                 "common": "Guinea"
             },
             "urd": {
@@ -13121,6 +13465,10 @@
                 "official": "Guadalupe",
                 "common": "Guadalupe"
             },
+            "swe": {
+                "official": "Guadeloupe",
+                "common": "Guadeloupe"
+            },
             "urd": {
                 "official": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e",
                 "common": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e"
@@ -13260,6 +13608,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Gambia",
+                "common": "Gambia"
+            },
+            "swe": {
+                "official": "Republiken Gambia",
                 "common": "Gambia"
             },
             "urd": {
@@ -13410,6 +13762,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Guinea-Bissau",
                 "common": "Guinea-Bis\u00e1u"
+            },
+            "swe": {
+                "official": "Republiken Guinea-Bissau",
+                "common": "Guinea-Bissau"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc \u0628\u0633\u0627\u0624",
@@ -13572,6 +13928,10 @@
                 "official": "Rep\u00fablica de Guinea Ecuatorial",
                 "common": "Guinea Ecuatorial"
             },
+            "swe": {
+                "official": "Republiken Ekvatorialguinea",
+                "common": "Ekvatorialguinea"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc",
                 "common": "\u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc"
@@ -13718,6 +14078,10 @@
                 "official": "Rep\u00fablica Hel\u00e9nica",
                 "common": "Grecia"
             },
+            "swe": {
+                "official": "Republiken Grekland",
+                "common": "Grekland"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0644\u06cc\u0646\u06cc\u06c1",
                 "common": "\u06cc\u0648\u0646\u0627\u0646"
@@ -13863,6 +14227,10 @@
                 "official": "Granada",
                 "common": "Grenada"
             },
+            "swe": {
+                "official": "Grenada",
+                "common": "Grenada"
+            },
             "urd": {
                 "official": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627",
                 "common": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627"
@@ -14004,6 +14372,10 @@
                 "official": "Groenlandia",
                 "common": "Groenlandia"
             },
+            "swe": {
+                "official": "Gr\u00f6nland",
+                "common": "Gr\u00f6nland"
+            },
             "urd": {
                 "official": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688",
                 "common": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688"
@@ -14142,6 +14514,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Guatemala",
+                "common": "Guatemala"
+            },
+            "swe": {
+                "official": "Republiken Guatemala",
                 "common": "Guatemala"
             },
             "urd": {
@@ -14290,6 +14666,10 @@
             "spa": {
                 "official": "Guayana",
                 "common": "Guayana Francesa"
+            },
+            "swe": {
+                "official": "Franska Guyana",
+                "common": "Franska Guyana"
             },
             "urd": {
                 "official": "\u06af\u06cc\u0627\u0646\u0627",
@@ -14445,6 +14825,10 @@
                 "official": "Guam",
                 "common": "Guam"
             },
+            "swe": {
+                "official": "Guam",
+                "common": "Guam"
+            },
             "urd": {
                 "official": "\u06af\u0648\u0627\u0645",
                 "common": "\u06af\u0648\u0627\u0645"
@@ -14584,6 +14968,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Cooperativa de Guyana",
+                "common": "Guyana"
+            },
+            "swe": {
+                "official": "Kooperativa republiken Guyana",
                 "common": "Guyana"
             },
             "urd": {
@@ -14736,6 +15124,10 @@
                 "official": "Hong Kong Regi\u00f3n Administrativa Especial de la Rep\u00fablica Popular China",
                 "common": "Hong Kong"
             },
+            "swe": {
+                "official": "Hongkong",
+                "common": "Hongkong"
+            },
             "urd": {
                 "official": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1",
                 "common": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"
@@ -14870,6 +15262,10 @@
             "spa": {
                 "official": "Islas Heard y McDonald",
                 "common": "Islas Heard y McDonald"
+            },
+            "swe": {
+                "official": "Heard- och McDonald\u00f6arna",
+                "common": "Heard- och McDonald\u00f6arna"
             },
             "urd": {
                 "official": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688",
@@ -15011,6 +15407,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Honduras",
+                "common": "Honduras"
+            },
+            "swe": {
+                "official": "Republiken Honduras",
                 "common": "Honduras"
             },
             "urd": {
@@ -15163,6 +15563,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Croacia",
                 "common": "Croacia"
+            },
+            "swe": {
+                "official": "Republiken Kroatien",
+                "common": "Kroatien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627",
@@ -15318,6 +15722,10 @@
                 "official": "Rep\u00fablica de Hait\u00ed",
                 "common": "Hait\u00ed"
             },
+            "swe": {
+                "official": "Republiken Haiti",
+                "common": "Haiti"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0679\u06cc",
                 "common": "\u06c1\u06cc\u0679\u06cc"
@@ -15459,6 +15867,10 @@
             "spa": {
                 "official": "Hungr\u00eda",
                 "common": "Hungr\u00eda"
+            },
+            "swe": {
+                "official": "Ungern",
+                "common": "Ungern"
             },
             "urd": {
                 "official": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
@@ -15609,6 +16021,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Indonesia",
                 "common": "Indonesia"
+            },
+            "swe": {
+                "official": "Republiken Indonesien",
+                "common": "Indonesien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627",
@@ -15766,6 +16182,10 @@
                 "official": "Isla de Man",
                 "common": "Isla de Man"
             },
+            "swe": {
+                "official": "Isle of Man",
+                "common": "Isle of Man"
+            },
             "urd": {
                 "official": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646",
                 "common": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646"
@@ -15920,6 +16340,10 @@
                 "official": "Rep\u00fablica de la India",
                 "common": "India"
             },
+            "swe": {
+                "official": "Republiken Indien",
+                "common": "Indien"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06be\u0627\u0631\u062a",
                 "common": "\u0628\u06be\u0627\u0631\u062a"
@@ -16071,6 +16495,10 @@
                 "official": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico",
                 "common": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico"
             },
+            "swe": {
+                "official": "Brittiska territoriet i Indiska Oceanen",
+                "common": "Brittiska territoriet i Indiska Oceanen"
+            },
             "urd": {
                 "official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1",
                 "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1"
@@ -16219,6 +16647,10 @@
                 "official": "Rep\u00fablica de Irlanda",
                 "common": "Irlanda"
             },
+            "swe": {
+                "official": "Irland",
+                "common": "Irland"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688"
@@ -16359,6 +16791,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Isl\u00e1mica de Ir\u00e1n",
+                "common": "Iran"
+            },
+            "swe": {
+                "official": "Islamiska republiken Iran",
                 "common": "Iran"
             },
             "urd": {
@@ -16521,6 +16957,10 @@
                 "official": "Rep\u00fablica de Irak",
                 "common": "Irak"
             },
+            "swe": {
+                "official": "Republiken Irak",
+                "common": "Irak"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0639\u0631\u0627\u0642",
                 "common": "\u0639\u0631\u0627\u0642"
@@ -16671,6 +17111,10 @@
                 "official": "Islandia",
                 "common": "Islandia"
             },
+            "swe": {
+                "official": "Island",
+                "common": "Island"
+            },
             "urd": {
                 "official": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688",
                 "common": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688"
@@ -16816,6 +17260,10 @@
             },
             "spa": {
                 "official": "Estado de Israel",
+                "common": "Israel"
+            },
+            "swe": {
+                "official": "Staten Israel",
                 "common": "Israel"
             },
             "urd": {
@@ -16966,6 +17414,10 @@
                 "official": "Rep\u00fablica Italiana",
                 "common": "Italia"
             },
+            "swe": {
+                "official": "Republiken Italien",
+                "common": "Italien"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0637\u0627\u0644\u06cc\u06c1",
                 "common": "\u0627\u0637\u0627\u0644\u06cc\u06c1"
@@ -17115,6 +17567,10 @@
                 "common": "Jamajka"
             },
             "spa": {
+                "official": "Jamaica",
+                "common": "Jamaica"
+            },
+            "swe": {
                 "official": "Jamaica",
                 "common": "Jamaica"
             },
@@ -17275,6 +17731,10 @@
                 "official": "Bail\u00eda de Jersey",
                 "common": "Jersey"
             },
+            "swe": {
+                "official": "Jersey",
+                "common": "Jersey"
+            },
             "urd": {
                 "official": "\u062c\u0631\u0632\u06cc",
                 "common": "\u062c\u0631\u0632\u06cc"
@@ -17417,6 +17877,10 @@
             "spa": {
                 "official": "Reino Hachemita de Jordania",
                 "common": "Jordania"
+            },
+            "swe": {
+                "official": "Hashimitiska kungad\u00f6met Jordanien",
+                "common": "Jordanien"
             },
             "urd": {
                 "official": "\u06be\u0627\u0634\u0645\u06cc \u0645\u0645\u0644\u06a9\u062a\u0650 \u0627\u0631\u062f\u0646",
@@ -17566,6 +18030,10 @@
             "spa": {
                 "official": "Jap\u00f3n",
                 "common": "Jap\u00f3n"
+            },
+            "swe": {
+                "official": "Japan",
+                "common": "Japan"
             },
             "urd": {
                 "official": "\u062c\u0627\u067e\u0627\u0646",
@@ -17721,6 +18189,10 @@
                 "official": "Rep\u00fablica de Kazajst\u00e1n",
                 "common": "Kazajist\u00e1n"
             },
+            "swe": {
+                "official": "Republiken Kazakstan",
+                "common": "Kazakstan"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646",
                 "common": "\u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646"
@@ -17873,6 +18345,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Kenya",
                 "common": "Kenia"
+            },
+            "swe": {
+                "official": "Republiken Kenya",
+                "common": "Kenya"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0646\u06cc\u0627",
@@ -18029,6 +18505,10 @@
                 "official": "Rep\u00fablica Kirguisa",
                 "common": "Kirguizist\u00e1n"
             },
+            "swe": {
+                "official": "Republiken Kirgizistan",
+                "common": "Kirgizistan"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646",
                 "common": "\u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"
@@ -18182,6 +18662,10 @@
             "spa": {
                 "official": "Reino de Camboya",
                 "common": "Camboya"
+            },
+            "swe": {
+                "official": "Konungariket Kambodja",
+                "common": "Kambodja"
             },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u0645\u0628\u0648\u0688\u06cc\u0627",
@@ -18338,6 +18822,10 @@
                 "official": "Rep\u00fablica Independiente y Soberano de Kiribati",
                 "common": "Kiribati"
             },
+            "swe": {
+                "official": "Republiken Kiribati",
+                "common": "Kiribati"
+            },
             "urd": {
                 "official": "\u0633\u0644\u0637\u0646\u062a \u0622\u0632\u0627\u062f \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc",
                 "common": "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"
@@ -18478,6 +18966,10 @@
             "spa": {
                 "official": "Federaci\u00f3n de San Crist\u00f3bal y Nevis",
                 "common": "San Crist\u00f3bal y Nieves"
+            },
+            "swe": {
+                "official": "Federationen Saint Kitts och Nevis",
+                "common": "Saint Kitts och Nevis"
             },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u0650 \u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633",
@@ -18624,6 +19116,10 @@
                 "official": "Rep\u00fablica de Corea",
                 "common": "Corea del Sur"
             },
+            "swe": {
+                "official": "Republiken Korea",
+                "common": "Sydkorea"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627 ",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"
@@ -18764,6 +19260,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Kosovo",
+                "common": "Kosovo"
+            },
+            "swe": {
+                "official": "Republiken Kosovo",
                 "common": "Kosovo"
             },
             "urd": {
@@ -18913,6 +19413,10 @@
                 "official": "Estado de Kuwait",
                 "common": "Kuwait"
             },
+            "swe": {
+                "official": "Staten Kuwait",
+                "common": "Kuwait"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u06a9\u0648\u06cc\u062a",
                 "common": "\u06a9\u0648\u06cc\u062a"
@@ -19057,6 +19561,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Democr\u00e1tica Popular Lao",
+                "common": "Laos"
+            },
+            "swe": {
+                "official": "Demokratiska folkrepubliken Laos",
                 "common": "Laos"
             },
             "urd": {
@@ -19212,6 +19720,10 @@
                 "official": "Rep\u00fablica Libanesa",
                 "common": "L\u00edbano"
             },
+            "swe": {
+                "official": "Republiken Libanon",
+                "common": "Libanon"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0628\u0646\u0627\u0646",
                 "common": "\u0644\u0628\u0646\u0627\u0646"
@@ -19354,6 +19866,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Liberia",
+                "common": "Liberia"
+            },
+            "swe": {
+                "official": "Republiken Liberia",
                 "common": "Liberia"
             },
             "urd": {
@@ -19502,6 +20018,10 @@
                 "official": "Estado de Libia",
                 "common": "Libia"
             },
+            "swe": {
+                "official": "Staten Libyen",
+                "common": "Libyen"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0644\u06cc\u0628\u06cc\u0627",
                 "common": "\u0644\u06cc\u0628\u06cc\u0627"
@@ -19649,6 +20169,10 @@
                 "official": "Santa Luc\u00eda",
                 "common": "Santa Luc\u00eda"
             },
+            "swe": {
+                "official": "Saint Lucia",
+                "common": "Saint Lucia"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627",
                 "common": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627"
@@ -19789,6 +20313,10 @@
             },
             "spa": {
                 "official": "Principado de Liechtenstein",
+                "common": "Liechtenstein"
+            },
+            "swe": {
+                "official": "Furstend\u00f6met Liechtenstein",
                 "common": "Liechtenstein"
             },
             "urd": {
@@ -19941,6 +20469,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Democr\u00e1tica Socialista de Sri Lanka",
+                "common": "Sri Lanka"
+            },
+            "swe": {
+                "official": "Demokratiska socialistiska republiken Sri Lanka",
                 "common": "Sri Lanka"
             },
             "urd": {
@@ -20096,6 +20628,10 @@
                 "official": "Reino de Lesotho",
                 "common": "Lesotho"
             },
+            "swe": {
+                "official": "Konungariket Lesotho",
+                "common": "Lesotho"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0644\u06cc\u0633\u0648\u062a\u06be\u0648",
                 "common": "\u0644\u06cc\u0633\u0648\u062a\u06be\u0648"
@@ -20239,6 +20775,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Lituania",
                 "common": "Lituania"
+            },
+            "swe": {
+                "official": "Republiken Litauen",
+                "common": "Litauen"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627",
@@ -20399,6 +20939,10 @@
                 "official": "Gran Ducado de Luxemburgo",
                 "common": "Luxemburgo"
             },
+            "swe": {
+                "official": "Storhertigd\u00f6met Luxemburg",
+                "common": "Luxemburg"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0642\u06cc\u06c1 \u06a9\u0628\u06cc\u0631\u0644\u06a9\u0633\u0645\u0628\u0631\u06af",
                 "common": "\u0644\u06a9\u0633\u0645\u0628\u0631\u06af"
@@ -20544,6 +21088,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Letonia",
                 "common": "Letonia"
+            },
+            "swe": {
+                "official": "Republiken Lettland",
+                "common": "Lettland"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0679\u0648\u06cc\u0627",
@@ -20700,6 +21248,10 @@
                 "official": "Macao, Regi\u00f3n Administrativa Especial de la Rep\u00fablica Popular China",
                 "common": "Macao"
             },
+            "swe": {
+                "official": "Macao",
+                "common": "Macao"
+            },
             "urd": {
                 "official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1",
                 "common": "\u0645\u06a9\u0627\u0624"
@@ -20841,6 +21393,10 @@
             "spa": {
                 "official": "Saint Martin",
                 "common": "Saint Martin"
+            },
+            "swe": {
+                "official": "F\u00f6rvaltningsomr\u00e5det Saint-Martin",
+                "common": "Saint-Martin"
             },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646",
@@ -20992,6 +21548,10 @@
                 "official": "Reino de Marruecos",
                 "common": "Marruecos"
             },
+            "swe": {
+                "official": "Konungariket Marocko",
+                "common": "Marocko"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u0631\u0627\u06a9\u0634",
                 "common": "\u0645\u0631\u0627\u06a9\u0634"
@@ -21138,6 +21698,10 @@
                 "official": "Principado de M\u00f3naco",
                 "common": "M\u00f3naco"
             },
+            "swe": {
+                "official": "Furstend\u00f6met Monaco",
+                "common": "Monaco"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0646\u0627\u06a9\u0648",
                 "common": "\u0645\u0648\u0646\u0627\u06a9\u0648"
@@ -21282,6 +21846,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Moldova",
                 "common": "Moldavia"
+            },
+            "swe": {
+                "official": "Republiken Moldavien",
+                "common": "Moldavien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u0648\u0648\u0627",
@@ -21434,6 +22002,10 @@
                 "official": "Rep\u00fablica de Madagascar",
                 "common": "Madagascar"
             },
+            "swe": {
+                "official": "Republiken Madagaskar",
+                "common": "Madagaskar"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0688\u063a\u0627\u0633\u06a9\u0631",
                 "common": "\u0645\u0688\u063a\u0627\u0633\u06a9\u0631"
@@ -21577,6 +22149,10 @@
                 "official": "Rep\u00fablica de las Maldivas",
                 "common": "Maldivas"
             },
+            "swe": {
+                "official": "Republiken Maldiverna",
+                "common": "Maldiverna"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u06cc\u067e",
                 "common": "\u0645\u0627\u0644\u062f\u06cc\u067e"
@@ -21719,6 +22295,10 @@
             "spa": {
                 "official": "Estados Unidos Mexicanos",
                 "common": "M\u00e9xico"
+            },
+            "swe": {
+                "official": "Mexikos f\u00f6renta stater",
+                "common": "Mexiko"
             },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648",
@@ -21871,6 +22451,10 @@
                 "official": "Rep\u00fablica de las Islas Marshall",
                 "common": "Islas Marshall"
             },
+            "swe": {
+                "official": "Republiken Marshall\u00f6arna",
+                "common": "Marshall\u00f6arna"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644"
@@ -22014,6 +22598,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Macedonia del Norte",
                 "common": "Macedonia del Norte"
+            },
+            "swe": {
+                "official": "Republiken Nordmakedonien",
+                "common": "Nordmakedonien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1",
@@ -22161,6 +22749,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Mal\u00ed",
+                "common": "Mali"
+            },
+            "swe": {
+                "official": "Republiken Mali",
                 "common": "Mali"
             },
             "urd": {
@@ -22318,6 +22910,10 @@
                 "official": "Rep\u00fablica de Malta",
                 "common": "Malta"
             },
+            "swe": {
+                "official": "Republiken Malta",
+                "common": "Malta"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u0679\u0627",
                 "common": "\u0645\u0627\u0644\u0679\u0627"
@@ -22459,6 +23055,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de la Uni\u00f3n de Myanmar",
+                "common": "Myanmar"
+            },
+            "swe": {
+                "official": "Republiken Unionen Myanmar",
                 "common": "Myanmar"
             },
             "urd": {
@@ -22608,6 +23208,10 @@
                 "official": "Montenegro",
                 "common": "Montenegro"
             },
+            "swe": {
+                "official": "Montenegro",
+                "common": "Montenegro"
+            },
             "urd": {
                 "official": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648",
                 "common": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648"
@@ -22753,6 +23357,10 @@
             "spa": {
                 "official": "Mongolia",
                 "common": "Mongolia"
+            },
+            "swe": {
+                "official": "Mongoliet",
+                "common": "Mongoliet"
             },
             "urd": {
                 "official": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627",
@@ -22909,6 +23517,10 @@
                 "official": "Mancomunidad de las Islas Marianas del Norte",
                 "common": "Islas Marianas del Norte"
             },
+            "swe": {
+                "official": "Nordmarianerna",
+                "common": "Nordmarianerna"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627"
@@ -23050,6 +23662,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Mozambique",
                 "common": "Mozambique"
+            },
+            "swe": {
+                "official": "Republiken Mo\u00e7ambique",
+                "common": "Mo\u00e7ambique"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0632\u0645\u0628\u06cc\u0642",
@@ -23200,6 +23816,10 @@
                 "official": "Rep\u00fablica Isl\u00e1mica de Mauritania",
                 "common": "Mauritania"
             },
+            "swe": {
+                "official": "Islamiska republiken Mauretanien",
+                "common": "Mauretanien"
+            },
             "urd": {
                 "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1",
                 "common": "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1"
@@ -23345,6 +23965,10 @@
                 "official": "Montserrat",
                 "common": "Montserrat"
             },
+            "swe": {
+                "official": "Montserrat",
+                "common": "Montserrat"
+            },
             "urd": {
                 "official": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679",
                 "common": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679"
@@ -23484,6 +24108,10 @@
             "spa": {
                 "official": "Martinica",
                 "common": "Martinica"
+            },
+            "swe": {
+                "official": "Martinique",
+                "common": "Martinique"
             },
             "urd": {
                 "official": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9",
@@ -23637,6 +24265,10 @@
                 "official": "Rep\u00fablica de Mauricio",
                 "common": "Mauricio"
             },
+            "swe": {
+                "official": "Republiken Mauritius",
+                "common": "Mauritius"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u0634\u0633",
                 "common": "\u0645\u0648\u0631\u06cc\u0634\u0633"
@@ -23781,6 +24413,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Malawi",
+                "common": "Malawi"
+            },
+            "swe": {
+                "official": "Republiken Malawi",
                 "common": "Malawi"
             },
             "urd": {
@@ -23932,6 +24568,10 @@
                 "official": "Malasia",
                 "common": "Malasia"
             },
+            "swe": {
+                "official": "Malaysia",
+                "common": "Malaysia"
+            },
             "urd": {
                 "official": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627",
                 "common": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627"
@@ -24076,6 +24716,10 @@
             },
             "spa": {
                 "official": "Departamento de Mayotte",
+                "common": "Mayotte"
+            },
+            "swe": {
+                "official": "Departementsomr\u00e5det Mayotte",
                 "common": "Mayotte"
             },
             "urd": {
@@ -24264,6 +24908,10 @@
                 "official": "Rep\u00fablica de Namibia",
                 "common": "Namibia"
             },
+            "swe": {
+                "official": "Republiken Namibia",
+                "common": "Namibia"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0645\u06cc\u0628\u06cc\u0627",
                 "common": "\u0646\u0645\u06cc\u0628\u06cc\u0627"
@@ -24409,6 +25057,10 @@
                 "official": "nueva Caledonia",
                 "common": "Nueva Caledonia"
             },
+            "swe": {
+                "official": "Nya Kaledonien",
+                "common": "Nya Kaledonien"
+            },
             "urd": {
                 "official": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627",
                 "common": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627"
@@ -24549,6 +25201,10 @@
             "spa": {
                 "official": "Rep\u00fablica de N\u00edger",
                 "common": "N\u00edger"
+            },
+            "swe": {
+                "official": "Republiken Niger",
+                "common": "Niger"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u0631",
@@ -24705,6 +25361,10 @@
                 "official": "Territorio de la Isla Norfolk",
                 "common": "Isla de Norfolk"
             },
+            "swe": {
+                "official": "Norfolk\u00f6n",
+                "common": "Norfolk\u00f6n"
+            },
             "urd": {
                 "official": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9 \u062e\u0637\u06c1",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9"
@@ -24846,6 +25506,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Federal de Nigeria",
+                "common": "Nigeria"
+            },
+            "swe": {
+                "official": "F\u00f6rbundsrepubliken Nigeria",
                 "common": "Nigeria"
             },
             "urd": {
@@ -24993,6 +25657,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Nicaragua",
+                "common": "Nicaragua"
+            },
+            "swe": {
+                "official": "Republiken Nicaragua",
                 "common": "Nicaragua"
             },
             "urd": {
@@ -25143,6 +25811,10 @@
                 "official": "Niue",
                 "common": "Niue"
             },
+            "swe": {
+                "official": "Niue",
+                "common": "Niue"
+            },
             "urd": {
                 "official": "\u0646\u06cc\u0648\u0648\u06d2",
                 "common": "\u0646\u06cc\u0648\u0648\u06d2"
@@ -25285,6 +25957,10 @@
             "spa": {
                 "official": "Pa\u00edses Bajos",
                 "common": "Pa\u00edses Bajos"
+            },
+            "swe": {
+                "official": "Nederl\u00e4nderna",
+                "common": "Nederl\u00e4nderna"
             },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632",
@@ -25444,6 +26120,10 @@
                 "official": "Reino de Noruega",
                 "common": "Noruega"
             },
+            "swe": {
+                "official": "Konungariket Norge",
+                "common": "Norge"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u0627\u0631\u0648\u06d2",
                 "common": "\u0646\u0627\u0631\u0648\u06d2"
@@ -25588,6 +26268,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Democr\u00e1tica Federal de Nepal",
+                "common": "Nepal"
+            },
+            "swe": {
+                "official": "Demokratiska f\u00f6rbundsrepubliken Nepal",
                 "common": "Nepal"
             },
             "urd": {
@@ -25742,6 +26426,10 @@
                 "official": "Rep\u00fablica de Nauru",
                 "common": "Nauru"
             },
+            "swe": {
+                "official": "Republiken Nauru",
+                "common": "Nauru"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0648\u0631\u0648",
                 "common": "\u0646\u0627\u0648\u0631\u0648"
@@ -25893,6 +26581,10 @@
                 "official": "nueva Zelanda",
                 "common": "Nueva Zelanda"
             },
+            "swe": {
+                "official": "Nya Zeeland",
+                "common": "Nya Zeeland"
+            },
             "urd": {
                 "official": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688",
                 "common": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
@@ -26034,6 +26726,10 @@
             "spa": {
                 "official": "Sultanato de Om\u00e1n",
                 "common": "Om\u00e1n"
+            },
+            "swe": {
+                "official": "Sultanatet Oman",
+                "common": "Oman"
             },
             "urd": {
                 "official": "\u0633\u0644\u0637\u0646\u062a \u0639\u0645\u0627\u0646",
@@ -26187,6 +26883,10 @@
                 "official": "Rep\u00fablica Isl\u00e1mica de Pakist\u00e1n",
                 "common": "Pakist\u00e1n"
             },
+            "swe": {
+                "official": "Islamiska republiken Pakistan",
+                "common": "Pakistan"
+            },
             "urd": {
                 "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
                 "common": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
@@ -26338,6 +27038,10 @@
                 "official": "Rep\u00fablica de Panam\u00e1",
                 "common": "Panam\u00e1"
             },
+            "swe": {
+                "official": "Republiken Panama",
+                "common": "Panama"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u0646\u0627\u0645\u0627",
                 "common": "\u067e\u0627\u0646\u0627\u0645\u0627"
@@ -26482,6 +27186,10 @@
             "spa": {
                 "official": "Grupo de Islas Pitcairn",
                 "common": "Islas Pitcairn"
+            },
+            "swe": {
+                "official": "Pitcairn\u00f6arna",
+                "common": "Pitcairn\u00f6arna"
             },
             "urd": {
                 "official": "\u067e\u0679\u06a9\u06cc\u0631\u0646 \u062c\u0632\u0627\u0626\u0631",
@@ -26634,6 +27342,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Per\u00fa",
                 "common": "Per\u00fa"
+            },
+            "swe": {
+                "official": "Republiken Peru",
+                "common": "Peru"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0648",
@@ -26788,6 +27500,10 @@
                 "official": "Rep\u00fablica de las Filipinas",
                 "common": "Filipinas"
             },
+            "swe": {
+                "official": "Republiken Filippinerna",
+                "common": "Filippinerna"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0644\u067e\u0627\u0626\u0646",
                 "common": "\u0641\u0644\u067e\u0627\u0626\u0646"
@@ -26933,6 +27649,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Palau",
+                "common": "Palau"
+            },
+            "swe": {
+                "official": "Republiken Palau",
                 "common": "Palau"
             },
             "urd": {
@@ -27087,6 +27807,10 @@
                 "official": "Estado Independiente de Pap\u00faa Nueva Guinea",
                 "common": "Pap\u00faa Nueva Guinea"
             },
+            "swe": {
+                "official": "Den oberoende staten Papua Nya Guinea",
+                "common": "Papua Nya Guinea"
+            },
             "urd": {
                 "official": "\u0622\u0632\u0627\u062f \u0631\u06cc\u0627\u0633\u062a\u0650 \u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc",
                 "common": "\u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc"
@@ -27230,6 +27954,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Polonia",
                 "common": "Polonia"
+            },
+            "swe": {
+                "official": "Republiken Polen",
+                "common": "Polen"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0648\u0644\u06cc\u0646\u0688",
@@ -27387,6 +28115,10 @@
                 "official": "Asociado de Puerto Rico",
                 "common": "Puerto Rico"
             },
+            "swe": {
+                "official": "Puerto Rico",
+                "common": "Puerto Rico"
+            },
             "urd": {
                 "official": " \u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648",
                 "common": "\u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
@@ -27534,6 +28266,10 @@
                 "official": "Rep\u00fablica Popular Democr\u00e1tica de Corea",
                 "common": "Corea del Norte"
             },
+            "swe": {
+                "official": "Demokratiska Folkrepubliken Korea",
+                "common": "Nordkorea"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627",
                 "common": "\u0634\u0645\u0627\u0644\u06cc \u06a9\u0648\u0631\u06cc\u0627"
@@ -27679,6 +28415,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Portuguesa",
+                "common": "Portugal"
+            },
+            "swe": {
+                "official": "Republiken Portugal",
                 "common": "Portugal"
             },
             "urd": {
@@ -27829,6 +28569,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Paraguay",
+                "common": "Paraguay"
+            },
+            "swe": {
+                "official": "Republiken Paraguay",
                 "common": "Paraguay"
             },
             "urd": {
@@ -27987,6 +28731,10 @@
                 "official": "Estado de Palestina",
                 "common": "Palestina"
             },
+            "swe": {
+                "official": "Palestina",
+                "common": "Palestina"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0641\u0644\u0633\u0637\u06cc\u0646",
                 "common": "\u0641\u0644\u0633\u0637\u06cc\u0646"
@@ -28134,6 +28882,10 @@
                 "official": "Polinesia franc\u00e9s",
                 "common": "Polinesia Francesa"
             },
+            "swe": {
+                "official": "Franska Polynesien",
+                "common": "Franska Polynesien"
+            },
             "urd": {
                 "official": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627",
                 "common": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627"
@@ -28276,6 +29028,10 @@
             "spa": {
                 "official": "Estado de Qatar",
                 "common": "Catar"
+            },
+            "swe": {
+                "official": "Staten Qatar",
+                "common": "Qatar"
             },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0642\u0637\u0631",
@@ -28420,6 +29176,10 @@
                 "official": "Isla de la Reuni\u00f3n",
                 "common": "Reuni\u00f3n"
             },
+            "swe": {
+                "official": "R\u00e9union",
+                "common": "R\u00e9union"
+            },
             "urd": {
                 "official": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba \u062c\u0632\u06cc\u0631\u06c1",
                 "common": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba"
@@ -28562,6 +29322,10 @@
             "spa": {
                 "official": "Rumania",
                 "common": "Rumania"
+            },
+            "swe": {
+                "official": "Rum\u00e4nien",
+                "common": "Rum\u00e4nien"
             },
             "urd": {
                 "official": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1",
@@ -28716,6 +29480,10 @@
             "spa": {
                 "official": "Federaci\u00f3n de Rusia",
                 "common": "Rusia"
+            },
+            "swe": {
+                "official": "Ryska federationen",
+                "common": "Ryssland"
             },
             "urd": {
                 "official": "\u0631\u0648\u0633\u06cc \u0648\u0641\u0627\u0642",
@@ -28885,6 +29653,10 @@
                 "official": "Rep\u00fablica de Rwanda",
                 "common": "Ruanda"
             },
+            "swe": {
+                "official": "Republiken Rwanda",
+                "common": "Rwanda"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0631\u0648\u0627\u0646\u0688\u0627",
                 "common": "\u0631\u0648\u0627\u0646\u0688\u0627"
@@ -29033,6 +29805,10 @@
             "spa": {
                 "official": "Reino de Arabia Saudita",
                 "common": "Arabia Saud\u00ed"
+            },
+            "swe": {
+                "official": "Kungad\u00f6met Saudiarabien",
+                "common": "Saudiarabien"
             },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628",
@@ -29189,6 +29965,10 @@
                 "official": "Rep\u00fablica de Sud\u00e1n",
                 "common": "Sud\u00e1n"
             },
+            "swe": {
+                "official": "Republiken Sudan",
+                "common": "Sudan"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u062f\u0627\u0646",
                 "common": "\u0633\u0648\u062f\u0627\u0646"
@@ -29337,6 +30117,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Senegal",
+                "common": "Senegal"
+            },
+            "swe": {
+                "official": "Republiken Senegal",
                 "common": "Senegal"
             },
             "urd": {
@@ -29505,6 +30289,10 @@
                 "official": "Rep\u00fablica de Singapur",
                 "common": "Singapur"
             },
+            "swe": {
+                "official": "Republiken Singapore",
+                "common": "Singapore"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0646\u06af\u0627\u067e\u0648\u0631",
                 "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
@@ -29641,6 +30429,10 @@
             "spa": {
                 "official": "Georgia del Sur y las Islas Sandwich del Sur",
                 "common": "Islas Georgias del Sur y Sandwich del Sur"
+            },
+            "swe": {
+                "official": "Sydgeorgien",
+                "common": "Sydgeorgien"
             },
             "urd": {
                 "official": "\u062c\u0646\u0648\u0628\u06cc \u062c\u0627\u0631\u062c\u06cc\u0627 \u0648 \u062c\u0632\u0627\u0626\u0631 \u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0688\u0648\u0686",
@@ -29783,6 +30575,10 @@
                 "official": "Svalbard og Jan Mayen",
                 "common": "Islas Svalbard y Jan Mayen"
             },
+            "swe": {
+                "official": "Svalbard och Jan Mayen",
+                "common": "Svalbard och Jan Mayen"
+            },
             "urd": {
                 "official": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646",
                 "common": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646"
@@ -29923,6 +30719,10 @@
                 "official": "islas Salom\u00f3n",
                 "common": "Islas Salom\u00f3n"
             },
+            "swe": {
+                "official": "Salomon\u00f6arna",
+                "common": "Salomon\u00f6arna"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"
@@ -30062,6 +30862,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Sierra Leona",
+                "common": "Sierra Leone"
+            },
+            "swe": {
+                "official": "Republiken Sierra Leone",
                 "common": "Sierra Leone"
             },
             "urd": {
@@ -30213,6 +31017,10 @@
                 "official": "Rep\u00fablica de El Salvador",
                 "common": "El Salvador"
             },
+            "swe": {
+                "official": "Republiken El Salvador",
+                "common": "El Salvador"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631",
                 "common": "\u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
@@ -30356,6 +31164,10 @@
             },
             "spa": {
                 "official": "Seren\u00edsima Rep\u00fablica de San Marino",
+                "common": "San Marino"
+            },
+            "swe": {
+                "official": "Republiken San Marino",
                 "common": "San Marino"
             },
             "urd": {
@@ -30509,6 +31321,10 @@
                 "official": "Rep\u00fablica Federal de Somalia",
                 "common": "Somalia"
             },
+            "swe": {
+                "official": "F\u00f6rbundsrepubliken Somalia",
+                "common": "Somalia"
+            },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0635\u0648\u0645\u0627\u0644\u06cc\u06c1",
                 "common": "\u0635\u0648\u0645\u0627\u0644\u06cc\u06c1"
@@ -30654,6 +31470,10 @@
                 "official": "San Pedro y Miquel\u00f3n",
                 "common": "San Pedro y Miquel\u00f3n"
             },
+            "swe": {
+                "official": "Saint-Pierre och Miquelon",
+                "common": "Saint-Pierre och Miquelon"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646",
                 "common": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646"
@@ -30798,6 +31618,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Serbia",
                 "common": "Serbia"
+            },
+            "swe": {
+                "official": "Republiken Serbien",
+                "common": "Serbien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u0628\u06cc\u0627",
@@ -30947,6 +31771,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Sud\u00e1n del Sur",
                 "common": "Sud\u00e1n del Sur"
+            },
+            "swe": {
+                "official": "Republiken Sydsudan",
+                "common": "Sydsudan"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646",
@@ -31098,6 +31926,10 @@
                 "official": "Rep\u00fablica Democr\u00e1tica de Santo Tom\u00e9 y Pr\u00edncipe",
                 "common": "Santo Tom\u00e9 y Pr\u00edncipe"
             },
+            "swe": {
+                "official": "Demokratiska republiken S\u00e3o Tom\u00e9 och Pr\u00edncipe",
+                "common": "S\u00e3o Tom\u00e9 och Pr\u00edncipe"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2",
                 "common": "\u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2"
@@ -31240,6 +32072,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Suriname",
+                "common": "Surinam"
+            },
+            "swe": {
+                "official": "Republiken Surinam",
                 "common": "Surinam"
             },
             "urd": {
@@ -31387,6 +32223,10 @@
             "spa": {
                 "official": "Rep\u00fablica Eslovaca",
                 "common": "Rep\u00fablica Eslovaca"
+            },
+            "swe": {
+                "official": "Republiken Slovakien",
+                "common": "Slovakien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1",
@@ -31536,6 +32376,10 @@
                 "official": "Rep\u00fablica de Eslovenia",
                 "common": "Eslovenia"
             },
+            "swe": {
+                "official": "Republiken Slovenien",
+                "common": "Slovenien"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627",
                 "common": "\u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627"
@@ -31682,6 +32526,10 @@
             "spa": {
                 "official": "Reino de Suecia",
                 "common": "Suecia"
+            },
+            "swe": {
+                "official": "Konungariket Sverige",
+                "common": "Sverige"
             },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u06cc\u0688\u0646",
@@ -31841,6 +32689,10 @@
                 "official": "Reino de eSwatini",
                 "common": "Suazilandia"
             },
+            "swe": {
+                "official": "Konungariket Eswatini",
+                "common": "Swaziland"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688",
                 "common": "\u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688"
@@ -31992,6 +32844,10 @@
                 "common": "Sint Maarten"
             },
             "spa": {
+                "official": "Sint Maarten",
+                "common": "Sint Maarten"
+            },
+            "swe": {
                 "official": "Sint Maarten",
                 "common": "Sint Maarten"
             },
@@ -32150,6 +33006,10 @@
                 "official": "Rep\u00fablica de las Seychelles",
                 "common": "Seychelles"
             },
+            "swe": {
+                "official": "Republiken Seychellerna",
+                "common": "Seychellerna"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633",
                 "common": "\u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633"
@@ -32292,6 +33152,10 @@
             "spa": {
                 "official": "Rep\u00fablica \u00c1rabe Siria",
                 "common": "Siria"
+            },
+            "swe": {
+                "official": "Syriska arabiska republiken",
+                "common": "Syrien"
             },
             "urd": {
                 "official": "\u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u0631\u06cc\u06c1",
@@ -32438,6 +33302,10 @@
             "spa": {
                 "official": "Islas Turcas y Caicos",
                 "common": "Islas Turks y Caicos"
+            },
+            "swe": {
+                "official": "Turks- och Caicos\u00f6arna",
+                "common": "Turks- och Caicos\u00f6arna"
             },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1",
@@ -32591,6 +33459,10 @@
                 "official": "Rep\u00fablica de Chad",
                 "common": "Chad"
             },
+            "swe": {
+                "official": "Republiken Tchad",
+                "common": "Tchad"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0627\u0688",
                 "common": "\u0686\u0627\u0688"
@@ -32739,6 +33611,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Togo",
+                "common": "Togo"
+            },
+            "swe": {
+                "official": "Republiken Togo",
                 "common": "Togo"
             },
             "urd": {
@@ -32890,6 +33766,10 @@
             "spa": {
                 "official": "Reino de Tailandia",
                 "common": "Tailandia"
+            },
+            "swe": {
+                "official": "Konungariket Thailand",
+                "common": "Thailand"
             },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688",
@@ -33044,6 +33924,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Tayikist\u00e1n",
                 "common": "Tayikist\u00e1n"
+            },
+            "swe": {
+                "official": "Republiken Tadzjikistan",
+                "common": "Tadzjikistan"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646",
@@ -33200,6 +34084,10 @@
                 "official": "Tokelau",
                 "common": "Islas Tokelau"
             },
+            "swe": {
+                "official": "Tokelau\u00f6arna",
+                "common": "Tokelau\u00f6arna"
+            },
             "urd": {
                 "official": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624",
                 "common": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624"
@@ -33344,6 +34232,10 @@
             "spa": {
                 "official": "Turkmenist\u00e1n",
                 "common": "Turkmenist\u00e1n"
+            },
+            "swe": {
+                "official": "Turkmenistan",
+                "common": "Turkmenistan"
             },
             "urd": {
                 "official": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646",
@@ -33501,6 +34393,10 @@
                 "official": "Rep\u00fablica Democr\u00e1tica de Timor-Leste",
                 "common": "Timor Oriental"
             },
+            "swe": {
+                "official": "Demokratiska republiken \u00d6sttimor",
+                "common": "\u00d6sttimor a.k.a. Timor-Leste"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631",
                 "common": "\u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631"
@@ -33648,6 +34544,10 @@
                 "official": "Reino de Tonga",
                 "common": "Tonga"
             },
+            "swe": {
+                "official": "Konungariket Tonga",
+                "common": "Tonga"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0679\u0648\u0646\u06af\u0627",
                 "common": "\u0679\u0648\u0646\u06af\u0627"
@@ -33788,6 +34688,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Trinidad y Tobago",
                 "common": "Trinidad y Tobago"
+            },
+            "swe": {
+                "official": "Republiken Trinidad och Tobago",
+                "common": "Trinidad och Tobago"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648",
@@ -33930,6 +34834,10 @@
             "spa": {
                 "official": "Rep\u00fablica de T\u00fanez",
                 "common": "T\u00fanez"
+            },
+            "swe": {
+                "official": "Republiken Tunisien",
+                "common": "Tunisien"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0648\u0646\u0633",
@@ -34076,6 +34984,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Turqu\u00eda",
                 "common": "Turqu\u00eda"
+            },
+            "swe": {
+                "official": "Republiken Turkiet",
+                "common": "Turkiet"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0631\u06a9\u06cc",
@@ -34235,6 +35147,10 @@
                 "official": "Tuvalu",
                 "common": "Tuvalu"
             },
+            "swe": {
+                "official": "Tuvalu",
+                "common": "Tuvalu"
+            },
             "urd": {
                 "official": "\u062a\u0648\u0648\u0627\u0644\u0648",
                 "common": "\u062a\u0648\u0648\u0627\u0644\u0648"
@@ -34382,6 +35298,10 @@
                 "official": "Rep\u00fablica de China en Taiw\u00e1n",
                 "common": "Taiw\u00e1n"
             },
+            "swe": {
+                "official": "Republiken Kina",
+                "common": "Taiwan"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 (\u062a\u0627\u0626\u06cc\u0648\u0627\u0646)",
                 "common": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646"
@@ -34524,6 +35444,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Unida de Tanzania",
+                "common": "Tanzania"
+            },
+            "swe": {
+                "official": "F\u00f6renade republiken Tanzania",
                 "common": "Tanzania"
             },
             "urd": {
@@ -34682,6 +35606,10 @@
                 "official": "Rep\u00fablica de Uganda",
                 "common": "Uganda"
             },
+            "swe": {
+                "official": "Republiken Uganda",
+                "common": "Uganda"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0648\u06af\u0646\u0688\u0627",
                 "common": "\u06cc\u0648\u06af\u0646\u0688\u0627"
@@ -34829,6 +35757,10 @@
             "spa": {
                 "official": "Ucrania",
                 "common": "Ucrania"
+            },
+            "swe": {
+                "official": "Ukraina",
+                "common": "Ukraina"
             },
             "urd": {
                 "official": "\u06cc\u0648\u06a9\u0631\u06cc\u0646",
@@ -34978,6 +35910,10 @@
                 "official": "Estados Unidos Islas menores alejadas de",
                 "common": "Islas Ultramarinas Menores de Estados Unidos"
             },
+            "swe": {
+                "official": "F\u00f6renta staternas mindre \u00f6ar i Oceanien och V\u00e4stindien",
+                "common": "F\u00f6renta staternas mindre \u00f6ar i Oceanien och V\u00e4stindien"
+            },
             "urd": {
                 "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631",
                 "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631"
@@ -35118,6 +36054,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Oriental del Uruguay",
+                "common": "Uruguay"
+            },
+            "swe": {
+                "official": "Republiken Uruguay",
                 "common": "Uruguay"
             },
             "urd": {
@@ -35581,6 +36521,10 @@
                 "official": "Estados Unidos de Am\u00e9rica",
                 "common": "Estados Unidos"
             },
+            "swe": {
+                "official": "Amerikas f\u00f6renta stater",
+                "common": "USA"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u0627",
                 "common": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1"
@@ -35731,6 +36675,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Uzbekist\u00e1n",
                 "common": "Uzbekist\u00e1n"
+            },
+            "swe": {
+                "official": "Republiken Uzbekistan",
+                "common": "Uzbekistan"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646",
@@ -35887,6 +36835,10 @@
                 "official": "Ciudad del Vaticano",
                 "common": "Ciudad del Vaticano"
             },
+            "swe": {
+                "official": "Vatikanstaten",
+                "common": "Vatikanstaten"
+            },
             "urd": {
                 "official": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc",
                 "common": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc"
@@ -36029,6 +36981,10 @@
                 "official": "San Vicente y las Granadinas",
                 "common": "San Vicente y Granadinas"
             },
+            "swe": {
+                "official": "Saint Vincent och Grenadinerna",
+                "common": "Saint Vincent och Grenadinerna"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632",
                 "common": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632"
@@ -36170,6 +37126,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Bolivariana de Venezuela",
+                "common": "Venezuela"
+            },
+            "swe": {
+                "official": "Bolivarianska republiken Venezuela",
                 "common": "Venezuela"
             },
             "urd": {
@@ -36317,6 +37277,10 @@
                 "official": "Islas V\u00edrgenes",
                 "common": "Islas V\u00edrgenes del Reino Unido"
             },
+            "swe": {
+                "official": "Brittiska Jungfru\u00f6arna",
+                "common": "Brittiska Jungfru\u00f6arna"
+            },
             "urd": {
                 "official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646",
                 "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"
@@ -36457,6 +37421,10 @@
             "spa": {
                 "official": "Islas V\u00edrgenes de los Estados Unidos",
                 "common": "Islas V\u00edrgenes de los Estados Unidos"
+            },
+            "swe": {
+                "official": "Amerikanska Jungfru\u00f6arna",
+                "common": "Amerikanska Jungfru\u00f6arna"
             },
             "urd": {
                 "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646",
@@ -36599,6 +37567,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica Socialista de Vietnam",
+                "common": "Vietnam"
+            },
+            "swe": {
+                "official": "Socialistiska republiken Vietnam",
                 "common": "Vietnam"
             },
             "urd": {
@@ -36758,6 +37730,10 @@
                 "official": "Rep\u00fablica de Vanuatu",
                 "common": "Vanuatu"
             },
+            "swe": {
+                "official": "Republiken Vanuatu",
+                "common": "Vanuatu"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u0627\u0646\u0648\u0627\u062a\u0648",
                 "common": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648"
@@ -36899,6 +37875,10 @@
             "spa": {
                 "official": "Territorio de las Islas Wallis y Futuna",
                 "common": "Wallis y Futuna"
+            },
+            "swe": {
+                "official": "Territoriet Wallis- och Futuna\u00f6arna",
+                "common": "Wallis- och Futuna\u00f6arna"
             },
             "urd": {
                 "official": "\u0633\u0631 \u0632\u0645\u06cc\u0646\u0650 \u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1 \u062c\u0632\u0627\u0626\u0631",
@@ -37047,6 +38027,10 @@
                 "official": "Estado Independiente de Samoa",
                 "common": "Samoa"
             },
+            "swe": {
+                "official": "Sj\u00e4lvst\u00e4ndiga staten Samoa",
+                "common": "Samoa"
+            },
             "urd": {
                 "official": "\u0622\u0632\u0627\u062f \u0633\u0644\u0637\u0646\u062a\u0650 \u0633\u0627\u0645\u0648\u0627",
                 "common": "\u0633\u0627\u0645\u0648\u0648\u0627"
@@ -37188,6 +38172,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Yemen",
                 "common": "Yemen"
+            },
+            "swe": {
+                "official": "Republiken Jemen",
+                "common": "Jemen"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0645\u0646",
@@ -37387,6 +38375,10 @@
                 "official": "Rep\u00fablica de Sud\u00e1frica",
                 "common": "Rep\u00fablica de Sud\u00e1frica"
             },
+            "swe": {
+                "official": "Republiken Sydafrika",
+                "common": "Sydafrika"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627"
@@ -37533,6 +38525,10 @@
             },
             "spa": {
                 "official": "Rep\u00fablica de Zambia",
+                "common": "Zambia"
+            },
+            "swe": {
+                "official": "Republiken Zambia",
                 "common": "Zambia"
             },
             "urd": {
@@ -37786,6 +38782,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Zimbabue",
                 "common": "Zimbabue"
+            },
+            "swe": {
+                "official": "Republiken Zimbabwe",
+                "common": "Zimbabwe"
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u0645\u0628\u0627\u0628\u0648\u06d2",
