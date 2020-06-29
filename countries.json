@@ -23,6 +23,7 @@
         "cioc": "ARU",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "AWG": {
                 "name": "Aruban florin",
@@ -176,6 +177,7 @@
         "cioc": "AFG",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "AFN": {
                 "name": "Afghan afghani",
@@ -334,6 +336,7 @@
         "cioc": "ANG",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "AOA": {
                 "name": "Angolan kwanza",
@@ -489,6 +492,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -633,6 +637,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -780,6 +785,7 @@
         "cioc": "ALB",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "ALL": {
                 "name": "Albanian lek",
@@ -936,6 +942,7 @@
         "cioc": "AND",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -1090,6 +1097,7 @@
         "cioc": "UAE",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "AED": {
                 "name": "United Arab Emirates dirham",
@@ -1243,6 +1251,7 @@
         "cioc": "ARG",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "ARS": {
                 "name": "Argentine peso",
@@ -1400,6 +1409,7 @@
         "cioc": "ARM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "AMD": {
                 "name": "Armenian dram",
@@ -1560,6 +1570,7 @@
         "cioc": "ASA",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -1703,6 +1714,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": [],
         "idd": {
             "root": "",
@@ -1842,6 +1854,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -1987,6 +2000,7 @@
         "cioc": "ANT",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -2135,6 +2149,7 @@
         "cioc": "AUS",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -2283,6 +2298,7 @@
         "cioc": "AUT",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -2446,6 +2462,7 @@
         "cioc": "AZE",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "AZN": {
                 "name": "Azerbaijani manat",
@@ -2607,6 +2624,7 @@
         "cioc": "BDI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BIF": {
                 "name": "Burundian franc",
@@ -2771,6 +2789,7 @@
         "cioc": "BEL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -2934,6 +2953,7 @@
         "cioc": "BEN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -3089,6 +3109,7 @@
         "cioc": "BUR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -3244,6 +3265,7 @@
         "cioc": "BAN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BDT": {
                 "name": "Bangladeshi taka",
@@ -3397,6 +3419,7 @@
         "cioc": "BUL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BGN": {
                 "name": "Bulgarian lev",
@@ -3553,6 +3576,7 @@
         "cioc": "BRN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BHD": {
                 "name": "Bahraini dinar",
@@ -3703,6 +3727,7 @@
         "cioc": "BAH",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BSD": {
                 "name": "Bahamian dollar",
@@ -3864,6 +3889,7 @@
         "cioc": "BIH",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BAM": {
                 "name": "Bosnia and Herzegovina convertible mark",
@@ -4020,6 +4046,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -4168,6 +4195,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "GBP": {
                 "name": "Pound sterling",
@@ -4322,6 +4350,7 @@
         "cioc": "BLR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BYN": {
                 "name": "Belarusian ruble",
@@ -4489,6 +4518,7 @@
         "cioc": "BIZ",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BZD": {
                 "name": "Belize dollar",
@@ -4642,6 +4672,7 @@
         "cioc": "BER",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "BMD": {
                 "name": "Bermudian dollar",
@@ -4805,6 +4836,7 @@
         "cioc": "BOL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BOB": {
                 "name": "Bolivian boliviano",
@@ -4975,6 +5007,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -5119,6 +5152,7 @@
         "cioc": "BRA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BRL": {
                 "name": "Brazilian real",
@@ -5281,6 +5315,7 @@
         "cioc": "BAR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BBD": {
                 "name": "Barbadian dollar",
@@ -5429,6 +5464,7 @@
         "cioc": "BRU",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BND": {
                 "name": "Brunei dollar",
@@ -5586,6 +5622,7 @@
         "cioc": "BHU",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BTN": {
                 "name": "Bhutanese ngultrum",
@@ -5742,6 +5779,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": [],
         "idd": {
             "root": "+4",
@@ -5887,6 +5925,7 @@
         "cioc": "BOT",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BWP": {
                 "name": "Botswana pula",
@@ -6043,6 +6082,7 @@
         "cioc": "CAF",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -6205,6 +6245,7 @@
         "cioc": "CAN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CAD": {
                 "name": "Canadian dollar",
@@ -6356,6 +6397,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -6518,6 +6560,7 @@
         "cioc": "SUI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CHF": {
                 "name": "Swiss franc",
@@ -6676,6 +6719,7 @@
         "cioc": "CHI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CLP": {
                 "name": "Chilean peso",
@@ -6834,6 +6878,7 @@
         "cioc": "CHN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CNY": {
                 "name": "Chinese yuan",
@@ -7001,6 +7046,7 @@
         "cioc": "CIV",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -7159,6 +7205,7 @@
         "cioc": "CMR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -7333,6 +7380,7 @@
         "cioc": "COD",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CDF": {
                 "name": "Congolese franc",
@@ -7507,6 +7555,7 @@
         "cioc": "CGO",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -7669,6 +7718,7 @@
         "cioc": "COK",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "CKD": {
                 "name": "Cook Islands dollar",
@@ -7823,6 +7873,7 @@
         "cioc": "COL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "COP": {
                 "name": "Colombian peso",
@@ -7987,6 +8038,7 @@
         "cioc": "COM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "KMF": {
                 "name": "Comorian franc",
@@ -8141,6 +8193,7 @@
         "cioc": "CPV",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CVE": {
                 "name": "Cape Verdean escudo",
@@ -8291,6 +8344,7 @@
         "cioc": "CRC",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CRC": {
                 "name": "Costa Rican col\u00f3n",
@@ -8444,6 +8498,7 @@
         "cioc": "CUB",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CUC": {
                 "name": "Cuban convertible peso",
@@ -8606,6 +8661,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "ANG": {
                 "name": "Netherlands Antillean guilder",
@@ -8749,6 +8805,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -8898,6 +8955,7 @@
         "cioc": "CAY",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "KYD": {
                 "name": "Cayman Islands dollar",
@@ -9050,6 +9108,7 @@
         "cioc": "CYP",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -9208,6 +9267,7 @@
         "cioc": "CZE",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CZK": {
                 "name": "Czech koruna",
@@ -9364,6 +9424,7 @@
         "cioc": "GER",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -9524,6 +9585,7 @@
         "cioc": "DJI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "DJF": {
                 "name": "Djiboutian franc",
@@ -9683,6 +9745,7 @@
         "cioc": "DMA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -9834,6 +9897,7 @@
         "cioc": "DEN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "DKK": {
                 "name": "Danish krone",
@@ -9987,6 +10051,7 @@
         "cioc": "DOM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "DOP": {
                 "name": "Dominican peso",
@@ -10140,6 +10205,7 @@
         "cioc": "ALG",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "DZD": {
                 "name": "Algerian dinar",
@@ -10298,6 +10364,7 @@
         "cioc": "ECU",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -10452,6 +10519,7 @@
         "cioc": "EGY",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EGP": {
                 "name": "Egyptian pound",
@@ -10614,6 +10682,7 @@
         "cioc": "ERI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "ERN": {
                 "name": "Eritrean nakfa",
@@ -10781,6 +10850,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "DZD": {
                 "name": "Algerian dinar",
@@ -10941,6 +11011,7 @@
         "cioc": "ESP",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -11093,6 +11164,7 @@
         "cioc": "EST",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -11247,6 +11319,7 @@
         "cioc": "ETH",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "ETB": {
                 "name": "Ethiopian birr",
@@ -11409,6 +11482,7 @@
         "cioc": "FIN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -11570,6 +11644,7 @@
         "cioc": "FIJ",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "FJD": {
                 "name": "Fijian dollar",
@@ -11720,6 +11795,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "FKP": {
                 "name": "Falkland Islands pound",
@@ -11866,6 +11942,7 @@
         "cioc": "FRA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -12025,6 +12102,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "DKK": {
                 "name": "Danish krone",
@@ -12176,6 +12254,7 @@
         "cioc": "FSM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": [],
         "idd": {
             "root": "+6",
@@ -12317,6 +12396,7 @@
         "cioc": "GAB",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -12467,6 +12547,7 @@
         "cioc": "GBR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "GBP": {
                 "name": "British pound",
@@ -12615,6 +12696,7 @@
         "cioc": "GEO",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "GEL": {
                 "name": "lari",
@@ -12773,6 +12855,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "GBP": {
                 "name": "British pound",
@@ -12925,6 +13008,7 @@
         "cioc": "GHA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "GHS": {
                 "name": "Ghanaian cedi",
@@ -13073,6 +13157,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "GIP": {
                 "name": "Gibraltar pound",
@@ -13219,6 +13304,7 @@
         "cioc": "GUI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "GNF": {
                 "name": "Guinean franc",
@@ -13372,6 +13458,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -13517,6 +13604,7 @@
         "cioc": "GAM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "GMD": {
                 "name": "dalasi",
@@ -13668,6 +13756,7 @@
         "cioc": "GBS",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -13826,6 +13915,7 @@
         "cioc": "GEQ",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -13983,6 +14073,7 @@
         "cioc": "GRE",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -14135,6 +14226,7 @@
         "cioc": "GRN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -14279,6 +14371,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "DKK": {
                 "name": "krone",
@@ -14424,6 +14517,7 @@
         "cioc": "GUA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "GTQ": {
                 "name": "Guatemalan quetzal",
@@ -14573,6 +14667,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -14730,6 +14825,7 @@
         "cioc": "GUM",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -14877,6 +14973,7 @@
         "cioc": "GUY",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "GYD": {
                 "name": "Guyanese dollar",
@@ -15031,6 +15128,7 @@
         "cioc": "HKG",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "HKD": {
                 "name": "Hong Kong dollar",
@@ -15175,6 +15273,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": [],
         "idd": {
             "root": "",
@@ -15315,6 +15414,7 @@
         "cioc": "HON",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "HNL": {
                 "name": "Honduran lempira",
@@ -15465,6 +15565,7 @@
         "cioc": "CRO",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "HRK": {
                 "name": "Croatian kuna",
@@ -15626,6 +15727,7 @@
         "cioc": "HAI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "HTG": {
                 "name": "Haitian gourde",
@@ -15776,6 +15878,7 @@
         "cioc": "HUN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "HUF": {
                 "name": "Hungarian forint",
@@ -15928,6 +16031,7 @@
         "cioc": "INA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "IDR": {
                 "name": "Indonesian rupiah",
@@ -16082,6 +16186,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "GBP": {
                 "name": "British pound",
@@ -16242,6 +16347,7 @@
         "cioc": "IND",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "INR": {
                 "name": "Indian rupee",
@@ -16399,6 +16505,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -16551,6 +16658,7 @@
         "cioc": "IRL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -16702,6 +16810,7 @@
         "cioc": "IRI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "IRR": {
                 "name": "Iranian rial",
@@ -16861,6 +16970,7 @@
         "cioc": "IRQ",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "IQD": {
                 "name": "Iraqi dinar",
@@ -17016,6 +17126,7 @@
         "cioc": "ISL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "ISK": {
                 "name": "Icelandic kr\u00f3na",
@@ -17167,6 +17278,7 @@
         "cioc": "ISR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "ILS": {
                 "name": "Israeli new shekel",
@@ -17320,6 +17432,7 @@
         "cioc": "ITA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -17477,6 +17590,7 @@
         "cioc": "JAM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "JMD": {
                 "name": "Jamaican dollar",
@@ -17630,6 +17744,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "GBP": {
                 "name": "British pound",
@@ -17784,6 +17899,7 @@
         "cioc": "JOR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "JOD": {
                 "name": "Jordanian dinar",
@@ -17937,6 +18053,7 @@
         "cioc": "JPN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "JPY": {
                 "name": "Japanese yen",
@@ -18088,6 +18205,7 @@
         "cioc": "KAZ",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "KZT": {
                 "name": "Kazakhstani tenge",
@@ -18251,6 +18369,7 @@
         "cioc": "KEN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "KES": {
                 "name": "Kenyan shilling",
@@ -18408,6 +18527,7 @@
         "cioc": "KGZ",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "KGS": {
                 "name": "Kyrgyzstani som",
@@ -18562,6 +18682,7 @@
         "cioc": "CAM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "KHR": {
                 "name": "Cambodian riel",
@@ -18723,6 +18844,7 @@
         "cioc": "KIR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -18874,6 +18996,7 @@
         "cioc": "SKN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -19020,6 +19143,7 @@
         "cioc": "KOR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "KRW": {
                 "name": "South Korean won",
@@ -19172,6 +19296,7 @@
         "cioc": "KOS",
         "independent": null,
         "status": "user-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -19319,6 +19444,7 @@
         "cioc": "KUW",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "KWD": {
                 "name": "Kuwaiti dinar",
@@ -19468,6 +19594,7 @@
         "cioc": "LAO",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "LAK": {
                 "name": "Lao kip",
@@ -19625,6 +19752,7 @@
         "cioc": "LIB",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "LBP": {
                 "name": "Lebanese pound",
@@ -19775,6 +19903,7 @@
         "cioc": "LBR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "LRD": {
                 "name": "Liberian dollar",
@@ -19924,6 +20053,7 @@
         "cioc": "LBA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "LYD": {
                 "name": "Libyan dinar",
@@ -20077,6 +20207,7 @@
         "cioc": "LCA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -20221,6 +20352,7 @@
         "cioc": "LIE",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "CHF": {
                 "name": "Swiss franc",
@@ -20376,6 +20508,7 @@
         "cioc": "SRI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "LKR": {
                 "name": "Sri Lankan rupee",
@@ -20529,6 +20662,7 @@
         "cioc": "LES",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "LSL": {
                 "name": "Lesotho loti",
@@ -20682,6 +20816,7 @@
         "cioc": "LTU",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -20841,6 +20976,7 @@
         "cioc": "LUX",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -20995,6 +21131,7 @@
         "cioc": "LAT",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -21150,6 +21287,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "MOP": {
                 "name": "Macanese pataca",
@@ -21299,6 +21437,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -21453,6 +21592,7 @@
         "cioc": "MAR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MAD": {
                 "name": "Moroccan dirham",
@@ -21604,6 +21744,7 @@
         "cioc": "MON",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -21752,6 +21893,7 @@
         "cioc": "MDA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MDL": {
                 "name": "Moldovan leu",
@@ -21906,6 +22048,7 @@
         "cioc": "MAD",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MGA": {
                 "name": "Malagasy ariary",
@@ -22054,6 +22197,7 @@
         "cioc": "MDV",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MVR": {
                 "name": "Maldivian rufiyaa",
@@ -22201,6 +22345,7 @@
         "cioc": "MEX",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MXN": {
                 "name": "Mexican peso",
@@ -22356,6 +22501,7 @@
         "cioc": "MHL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -22503,6 +22649,7 @@
         "cioc": "MKD",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MKD": {
                 "name": "denar",
@@ -22657,6 +22804,7 @@
         "cioc": "MLI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -22815,6 +22963,7 @@
         "cioc": "MLT",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -22962,6 +23111,7 @@
         "cioc": "MYA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MMK": {
                 "name": "Burmese kyat",
@@ -23115,6 +23265,7 @@
         "cioc": "MNE",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -23266,6 +23417,7 @@
         "cioc": "MGL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MNT": {
                 "name": "Mongolian t\u00f6gr\u00f6g",
@@ -23421,6 +23573,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -23569,6 +23722,7 @@
         "cioc": "MOZ",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MZN": {
                 "name": "Mozambican metical",
@@ -23722,6 +23876,7 @@
         "cioc": "MTN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MRU": {
                 "name": "Mauritanian ouguiya",
@@ -23873,6 +24028,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -24017,6 +24173,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -24169,6 +24326,7 @@
         "cioc": "MRI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MUR": {
                 "name": "Mauritian rupee",
@@ -24321,6 +24479,7 @@
         "cioc": "MAW",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MWK": {
                 "name": "Malawian kwacha",
@@ -24475,6 +24634,7 @@
         "cioc": "MAS",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "MYR": {
                 "name": "Malaysian ringgit",
@@ -24624,6 +24784,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -24802,6 +24963,7 @@
         "cioc": "NAM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "NAD": {
                 "name": "Namibian dollar",
@@ -24965,6 +25127,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "XPF": {
                 "name": "CFP franc",
@@ -25109,6 +25272,7 @@
         "cioc": "NIG",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -25266,6 +25430,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -25413,6 +25578,7 @@
         "cioc": "NGR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "NGN": {
                 "name": "Nigerian naira",
@@ -25565,6 +25731,7 @@
         "cioc": "NCA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "NIO": {
                 "name": "Nicaraguan c\u00f3rdoba",
@@ -25718,6 +25885,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "NZD": {
                 "name": "New Zealand dollar",
@@ -25863,6 +26031,7 @@
         "cioc": "NED",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -26021,6 +26190,7 @@
         "cioc": "NOR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "NOK": {
                 "name": "Norwegian krone",
@@ -26176,6 +26346,7 @@
         "cioc": "NEP",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "NPR": {
                 "name": "Nepalese rupee",
@@ -26329,6 +26500,7 @@
         "cioc": "NRU",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -26486,6 +26658,7 @@
         "cioc": "NZL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "NZD": {
                 "name": "New Zealand dollar",
@@ -26633,6 +26806,7 @@
         "cioc": "OMA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "OMR": {
                 "name": "Omani rial",
@@ -26787,6 +26961,7 @@
         "cioc": "PAK",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "PKR": {
                 "name": "Pakistani rupee",
@@ -26940,6 +27115,7 @@
         "cioc": "PAN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "PAB": {
                 "name": "Panamanian balboa",
@@ -27093,6 +27269,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "NZD": {
                 "name": "New Zealand dollar",
@@ -27247,6 +27424,7 @@
         "cioc": "PER",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "PEN": {
                 "name": "Peruvian sol",
@@ -27405,6 +27583,7 @@
         "cioc": "PHI",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "PHP": {
                 "name": "Philippine peso",
@@ -27556,6 +27735,7 @@
         "cioc": "PLW",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -27711,6 +27891,7 @@
         "cioc": "PNG",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "PGK": {
                 "name": "Papua New Guinean kina",
@@ -27861,6 +28042,7 @@
         "cioc": "POL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "PLN": {
                 "name": "Polish z\u0142oty",
@@ -28019,6 +28201,7 @@
         "cioc": "PUR",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -28167,6 +28350,7 @@
         "cioc": "PRK",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "KPW": {
                 "name": "North Korean won",
@@ -28322,6 +28506,7 @@
         "cioc": "POR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -28475,6 +28660,7 @@
         "cioc": "PAR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "PYG": {
                 "name": "Paraguayan guaran\u00ed",
@@ -28628,6 +28814,7 @@
         "cioc": "PLE",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EGP": {
                 "name": "Egyptian pound",
@@ -28787,6 +28974,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "XPF": {
                 "name": "CFP franc",
@@ -28935,6 +29123,7 @@
         "cioc": "QAT",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "QAR": {
                 "name": "Qatari riyal",
@@ -29083,6 +29272,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -29228,6 +29418,7 @@
         "cioc": "ROU",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "RON": {
                 "name": "Romanian leu",
@@ -29383,6 +29574,7 @@
         "cioc": "RUS",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "RUB": {
                 "name": "Russian ruble",
@@ -29556,6 +29748,7 @@
         "cioc": "RWA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "RWF": {
                 "name": "Rwandan franc",
@@ -29711,6 +29904,7 @@
         "cioc": "KSA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SAR": {
                 "name": "Saudi riyal",
@@ -29870,6 +30064,7 @@
         "cioc": "SUD",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SDG": {
                 "name": "Sudanese pound",
@@ -30025,6 +30220,7 @@
         "cioc": "SEN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -30191,6 +30387,7 @@
         "cioc": "SIN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SGD": {
                 "name": "Singapore dollar",
@@ -30337,6 +30534,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "SHP": {
                 "name": "Saint Helena pound",
@@ -30482,6 +30680,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "NOK": {
                 "name": "krone",
@@ -30627,6 +30826,7 @@
         "cioc": "SOL",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SBD": {
                 "name": "Solomon Islands dollar",
@@ -30771,6 +30971,7 @@
         "cioc": "SLE",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SLL": {
                 "name": "Sierra Leonean leone",
@@ -30919,6 +31120,7 @@
         "cioc": "ESA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -31072,6 +31274,7 @@
         "cioc": "SMR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -31224,6 +31427,7 @@
         "cioc": "SOM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SOS": {
                 "name": "Somali shilling",
@@ -31377,6 +31581,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -31523,6 +31728,7 @@
         "cioc": "SRB",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "RSD": {
                 "name": "Serbian dinar",
@@ -31680,6 +31886,7 @@
         "cioc": "",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SSP": {
                 "name": "South Sudanese pound",
@@ -31831,6 +32038,7 @@
         "cioc": "STP",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "STN": {
                 "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
@@ -31978,6 +32186,7 @@
         "cioc": "SUR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SRD": {
                 "name": "Surinamese dollar",
@@ -32130,6 +32339,7 @@
         "cioc": "SVK",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -32282,6 +32492,7 @@
         "cioc": "SLO",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -32433,6 +32644,7 @@
         "cioc": "SWE",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SEK": {
                 "name": "Swedish krona",
@@ -32586,6 +32798,7 @@
         "cioc": "SWZ",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SZL": {
                 "name": "Swazi lilangeni",
@@ -32752,6 +32965,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "ANG": {
                 "name": "Netherlands Antillean guilder",
@@ -32909,6 +33123,7 @@
         "cioc": "SEY",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SCR": {
                 "name": "Seychellois rupee",
@@ -33059,6 +33274,7 @@
         "cioc": "SYR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "SYP": {
                 "name": "Syrian pound",
@@ -33211,6 +33427,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -33359,6 +33576,7 @@
         "cioc": "CHA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -33518,6 +33736,7 @@
         "cioc": "TOG",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -33670,6 +33889,7 @@
         "cioc": "THA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "THB": {
                 "name": "Thai baht",
@@ -33828,6 +34048,7 @@
         "cioc": "TJK",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "TJS": {
                 "name": "Tajikistani somoni",
@@ -33990,6 +34211,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "NZD": {
                 "name": "New Zealand dollar",
@@ -34140,6 +34362,7 @@
         "cioc": "TKM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "TMT": {
                 "name": "Turkmenistan manat",
@@ -34294,6 +34517,7 @@
         "cioc": "TLS",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -34451,6 +34675,7 @@
         "cioc": "TGA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "TOP": {
                 "name": "Tongan pa\u02bbanga",
@@ -34596,6 +34821,7 @@
         "cioc": "TTO",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "TTD": {
                 "name": "Trinidad and Tobago dollar",
@@ -34741,6 +34967,7 @@
         "cioc": "TUN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "TND": {
                 "name": "Tunisian dinar",
@@ -34890,6 +35117,7 @@
         "cioc": "TUR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "TRY": {
                 "name": "Turkish lira",
@@ -35050,6 +35278,7 @@
         "cioc": "TUV",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -35201,6 +35430,7 @@
         "cioc": "TPE",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "TWD": {
                 "name": "New Taiwan dollar",
@@ -35350,6 +35580,7 @@
         "cioc": "TAN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "TZS": {
                 "name": "Tanzanian shilling",
@@ -35511,6 +35742,7 @@
         "cioc": "UGA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "UGX": {
                 "name": "Ugandan shilling",
@@ -35665,6 +35897,7 @@
         "cioc": "UKR",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "UAH": {
                 "name": "Ukrainian hryvnia",
@@ -35818,6 +36051,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -35962,6 +36196,7 @@
         "cioc": "URU",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "UYU": {
                 "name": "Uruguayan peso",
@@ -36111,6 +36346,7 @@
         "cioc": "USA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -36580,6 +36816,7 @@
         "cioc": "UZB",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "UZS": {
                 "name": "Uzbekistani so\u02bbm",
@@ -36738,6 +36975,7 @@
         "cioc": "",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -36889,6 +37127,7 @@
         "cioc": "VIN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -37033,6 +37272,7 @@
         "cioc": "VEN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "VES": {
                 "name": "Venezuelan bol\u00edvar soberano",
@@ -37184,6 +37424,7 @@
         "cioc": "IVB",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -37329,6 +37570,7 @@
         "cioc": "ISV",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -37474,6 +37716,7 @@
         "cioc": "VIE",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "VND": {
                 "name": "Vietnamese \u0111\u1ed3ng",
@@ -37633,6 +37876,7 @@
         "cioc": "VAN",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "VUV": {
                 "name": "Vanuatu vatu",
@@ -37782,6 +38026,7 @@
         "cioc": "",
         "independent": false,
         "status": "officially-assigned",
+        "unMember": false,
         "currencies": {
             "XPF": {
                 "name": "CFP franc",
@@ -37932,6 +38177,7 @@
         "cioc": "SAM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "WST": {
                 "name": "Samoan t\u0101l\u0101",
@@ -38079,6 +38325,7 @@
         "cioc": "YEM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "YER": {
                 "name": "Yemeni rial",
@@ -38268,6 +38515,7 @@
         "cioc": "RSA",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "ZAR": {
                 "name": "South African rand",
@@ -38434,6 +38682,7 @@
         "cioc": "ZAM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "ZMW": {
                 "name": "Zambian kwacha",
@@ -38644,6 +38893,7 @@
         "cioc": "ZIM",
         "independent": true,
         "status": "officially-assigned",
+        "unMember": true,
         "currencies": {
             "BWP": {
                 "name": "Botswana pula",
