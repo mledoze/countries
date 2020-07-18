@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add Swedish translation (#398)
 - add a changelog (#383)
 - add Hungarian translation (#385)
+- add UN membership boolean flag to each country (#401)
 ### Changed
 - sort `translations` alphabetically (#384)
 ### Fixed
