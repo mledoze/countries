@@ -48,6 +48,10 @@
             "pap": "Papiamento"
         },
         "translations": {
+            "ara": {
+                "official": "\u0623\u0631\u0648\u0628\u0627",
+                "common": "\u0623\u0631\u0648\u0628\u0627"
+            },
             "ces": {
                 "official": "Aruba",
                 "common": "Aruba"
@@ -203,6 +207,10 @@
             "tuk": "Turkmen"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0623\u0641\u0641\u0627\u0646\u0633\u062A\u0627\u0646 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064A\u0629",
+                "common": "\u0623\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646"
+            },
             "ces": {
                 "official": "Afgh\u00e1nsk\u00e1 isl\u00e1msk\u00e1 republika",
                 "common": "Afgh\u00e1nist\u00e1n"
@@ -360,6 +368,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "ara": {
+                "official": "\u0623\u0646\u063A\u0648\u0644\u0627",
+                "common": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0623\u0646\u063A\u0648\u0644\u0627"
+            },
             "ces": {
                 "official": "Angolsk\u00e1 republika",
                 "common": "Angola"
@@ -513,6 +525,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0623\u0646\u063A\u0648\u064A\u0644\u0627",
+                "common": "\u0623\u0646\u063A\u0648\u064A\u0644\u0627"
+            },
             "ces": {
                 "official": "Anguilla",
                 "common": "Anguilla"
@@ -660,6 +676,10 @@
             "swe": "Swedish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0623\u0648\u0644\u0627\u0646\u062F",
+                "common": "\u062C\u0632\u0631 \u0623\u0648\u0644\u0627\u0646\u062F"
+            },
             "ces": {
                 "official": "\u00c5landsk\u00e9 ostrovy",
                 "common": "\u00c5landy"
@@ -807,6 +827,10 @@
             "sqi": "Albanian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0623\u0644\u0628\u0627\u0646\u064A\u0627",
+                "common": "\u0623\u0644\u0628\u0627\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Alb\u00e1nsk\u00e1 republika",
                 "common": "Alb\u00e1nie"
@@ -962,6 +986,10 @@
             "cat": "Catalan"
         },
         "translations": {
+            "ara": {
+                "official": "\u0625\u0645\u0627\u0631\u0629 \u0623\u0646\u062F\u0648\u0631\u0627",
+                "common": "\u0623\u0646\u062F\u0648\u0631\u0627"
+            },
             "ces": {
                 "official": "Andorrsk\u00e9 kn\u00ed\u017eectv\u00ed",
                 "common": "Andorra"
@@ -1116,6 +1144,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+                "common": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629"
+            },
             "ces": {
                 "official": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty",
                 "common": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty"
@@ -1270,6 +1302,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646",
+                "common": "\u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646"
+            },
             "ces": {
                 "official": "Argentinsk\u00e1 republika",
                 "common": "Argentina"
@@ -1427,6 +1463,10 @@
             "hye": "Armenian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0623\u0631\u0645\u064A\u0646\u064A\u0627",
+                "common": "\u0623\u0631\u0645\u064A\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Arm\u00e9nsk\u00e1 republika",
                 "common": "Arm\u00e9nie"
@@ -1588,6 +1628,10 @@
             "smo": "Samoan"
         },
         "translations": {
+            "ara": {
+                "official": "\u0633\u0627\u0645\u0648\u0627 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629",
+                "common": "\u0633\u0627\u0645\u0648\u0627 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629"
+            },
             "ces": {
                 "official": "Americk\u00e1 Samoa",
                 "common": "Americk\u00e1 Samoa"
@@ -1718,6 +1762,10 @@
         "subregion": "",
         "languages": {},
         "translations": {
+            "ara": {
+                "official": "\u0623\u0646\u062A\u0627\u0631\u062A\u064A\u0643\u0627",
+                "common": "\u0623\u0646\u062A\u0627\u0631\u062A\u064A\u0643\u0627"
+            },
             "ces": {
                 "official": "Antarktida",
                 "common": "Antarktida"
@@ -1867,6 +1915,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0642\u0627\u0637\u0639\u0627\u062A \u0648\u0623\u0642\u0627\u0644\u064A\u0645 \u0645\u0627 \u0648\u0631\u0627\u0621 \u0627\u0644\u0628\u062D\u0627\u0631 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629",
+                "common": "\u0623\u0631\u0627\u0636 \u0641\u0631\u0646\u0633\u064A\u0629 \u062C\u0646\u0648\u0628\u064A\u0629 \u0648\u0623\u0646\u062A\u0627\u0631\u062A\u064A\u0643\u064A\u0629"
+            },
             "ces": {
                 "official": "Teritorium Francouzsk\u00e1 ji\u017en\u00ed a antarktick\u00e1 \u00fazem\u00ed",
                 "common": "Francouzsk\u00e1 ji\u017en\u00ed a antarktick\u00e1 \u00fazem\u00ed"
@@ -2011,6 +2063,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0623\u0646\u062A\u064A\u063A\u0648\u0627 \u0648\u0628\u0627\u0631\u0628\u0648\u062F\u0627",
+                "common": "\u0623\u0646\u062A\u064A\u063A\u0648\u0627 \u0648\u0628\u0627\u0631\u0628\u0648\u062F\u0627"
+            },
             "ces": {
                 "official": "Antigua a Barbuda",
                 "common": "Antigua a Barbuda"
@@ -2159,6 +2215,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0643\u0648\u0645\u0648\u0646\u0648\u0644\u062B \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627",
+                "common": "\u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627"
+            },
             "ces": {
                 "official": "Australsk\u00e9 spole\u010denstv\u00ed",
                 "common": "Austr\u00e1lie"
@@ -2309,6 +2369,10 @@
             "bar": "Austro-Bavarian German"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0646\u0645\u0633\u0627",
+                "common": "\u0627\u0644\u0646\u0645\u0633\u0627"
+            },
             "ces": {
                 "official": "Rakousk\u00e1 republika",
                 "common": "Rakousko"
@@ -2473,6 +2537,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0623\u0630\u0631\u0628\u064A\u062C\u0627\u0646",
+                "common": "\u0623\u0630\u0631\u0628\u064A\u062C\u0627\u0646"
+            },
             "ces": {
                 "official": "\u00c1zerb\u00e1jd\u017e\u00e1nsk\u00e1 republika",
                 "common": "\u00c1zerb\u00e1jd\u017e\u00e1n"
@@ -2635,6 +2703,10 @@
             "run": "Kirundi"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0648\u0631\u0648\u0646\u062F\u064A",
+                "common": "\u0628\u0648\u0631\u0648\u0646\u062F\u064A"
+            },
             "ces": {
                 "official": "Burundsk\u00e1 republika",
                 "common": "Burundi"
@@ -2805,6 +2877,10 @@
             "nld": "Dutch"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0628\u0644\u062C\u064A\u0643\u0627",
+                "common": "\u0628\u0644\u062C\u064A\u0643\u0627"
+            },
             "ces": {
                 "official": "Belgick\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Belgie"
@@ -2960,6 +3036,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0646\u064A\u0646",
+                "common": "\u0628\u0646\u064A\u0646"
+            },
             "ces": {
                 "official": "Beninsk\u00e1 republika",
                 "common": "Benin"
@@ -3113,6 +3193,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0628\u0648\u0631\u0643\u064A\u0646\u0627 \u0641\u0627\u0633\u0648",
+                "common": "\u0628\u0648\u0631\u0643\u064A\u0646\u0627 \u0641\u0627\u0633\u0648"
+            },
             "ces": {
                 "official": "Burkina Faso",
                 "common": "Burkina Faso"
@@ -3270,6 +3354,10 @@
             "ben": "Bengali"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634 \u0627\u0644\u0634\u0639\u0628\u064A\u0629",
+                "common": "\u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634"
+            },
             "ces": {
                 "official": "Banglad\u00e9\u0161sk\u00e1 lidov\u00e1 republika",
                 "common": "Banglad\u00e9\u0161"
@@ -3423,6 +3511,10 @@
             "bul": "Bulgarian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0644\u063A\u0627\u0631\u064A\u0627",
+                "common": "\u0628\u0644\u063A\u0627\u0631\u064A\u0627"
+            },
             "ces": {
                 "official": "Bulharsk\u00e1 republika",
                 "common": "Bulharsko"
@@ -3579,6 +3671,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+                "common": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646"
+            },
             "ces": {
                 "official": "Kr\u00e1lovstv\u00ed Bahrajn",
                 "common": "Bahrajn"
@@ -3732,6 +3828,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0627\u0644\u0628\u0627\u0647\u0627\u0645\u0627\u0633",
+                "common": "\u0628\u0627\u0647\u0627\u0645\u0627\u0633"
+            },
             "ces": {
                 "official": "Bahamsk\u00e9 spole\u010denstv\u00ed",
                 "common": "Bahamy"
@@ -3892,6 +3992,10 @@
             "srp": "Serbian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0628\u0648\u0633\u0646\u0629 \u0648\u0627\u0644\u0647\u0631\u0633\u0643",
+                "common": "\u0627\u0644\u0628\u0648\u0633\u0646\u0629 \u0648\u0627\u0644\u0647\u0631\u0633\u0643"
+            },
             "ces": {
                 "official": "Bosna a Hercegovina",
                 "common": "Bosna a Hercegovina"
@@ -4047,6 +4151,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062A\u062C\u0645\u0639 \u0627\u0644\u0625\u0642\u0644\u064A\u0645\u064A \u0644\u0633\u0627\u0646\u062A \u0628\u0627\u0631\u062A\u064A\u0644\u064A\u0645\u064A",
+                "common": "\u0633\u0627\u0646 \u0628\u0627\u0631\u062A\u0644\u064A\u0645\u064A"
+            },
             "ces": {
                 "official": "Svat\u00fd Bartolom\u011bj",
                 "common": "Svat\u00fd Bartolom\u011bj"
@@ -4198,6 +4306,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0633\u0627\u0646\u062a \u0647\u064a\u0644\u064a\u0646\u0627 \u0648\u0623\u0633\u064a\u0646\u0634\u064a\u0646 \u0648\u062a\u0631\u064a\u0633\u062a\u0627\u0646 \u062f\u0627 \u0643\u0648\u0646\u0627",
+                "common": "\u0633\u0627\u0646\u062a \u0647\u064a\u0644\u064a\u0646\u0627 \u0648\u0623\u0633\u064a\u0646\u0634\u064a\u0646 \u0648\u062a\u0631\u064a\u0633\u062a\u0627\u0646 \u062f\u0627 \u0643\u0648\u0646\u0627"
+            },
             "ces": {
                 "official": "Svat\u00e1 Helena, Ascension a Tristan da Cunha",
                 "common": "Svat\u00e1 Helena, Ascension a Tristan da Cunha"
@@ -4351,6 +4463,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u064A\u0644\u0627\u0631\u0648\u0633\u064A\u0627",
+                "common": "\u0628\u064A\u0644\u0627\u0631\u0648\u0633\u064A\u0627"
+            },
             "ces": {
                 "official": "B\u011blorusk\u00e1 republika",
                 "common": "B\u011blorusko"
@@ -4515,6 +4631,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u0628\u0644\u064A\u0632",
+                "common": "\u0628\u0644\u064A\u0632"
+            },
             "ces": {
                 "official": "Belize",
                 "common": "Belize"
@@ -4669,6 +4789,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0628\u0631\u0645\u0648\u062F\u0627",
+                "common": "\u0628\u0631\u0645\u0648\u062F\u0627"
+            },
             "ces": {
                 "official": "Bermudsk\u00e9 ostrovy",
                 "common": "Bermudy"
@@ -4840,6 +4964,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u0628\u0648\u0644\u064A\u0641\u064A\u0627",
+                "common": "\u0628\u0648\u0644\u064A\u0641\u064A\u0627"
+            },
             "ces": {
                 "official": "Mnohon\u00e1rodnostn\u00ed st\u00e1t Bol\u00edvie",
                 "common": "Bol\u00edvie"
@@ -4999,6 +5127,10 @@
             "pap": "Papiamento"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062c\u0632\u0631 \u0627\u0644\u0643\u0627\u0631\u064a\u0628\u064a\u0629 \u0627\u0644\u0647\u0648\u0644\u0646\u062f\u064a\u0629",
+                "common": "\u0628\u0648\u0646\u064a\u0631 \u0648\u0633\u064a\u0646\u062a \u0623\u0648\u0633\u062a\u0627\u062a\u064a\u0648\u0633 \u0648\u0633\u0627\u0628\u0627"
+            },
             "ces": {
                 "official": "Karibsk\u00e9 Nizozemsko",
                 "common": "Karibsk\u00e9 Nizozemsko"
@@ -5146,6 +5278,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644 \u0627\u0644\u0627\u062A\u062D\u0627\u062F\u064A\u0629",
+                "common": "\u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644"
+            },
             "ces": {
                 "official": "Brazilsk\u00e1 federativn\u00ed republika",
                 "common": "Braz\u00edlie"
@@ -5305,6 +5441,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0628\u0627\u0631\u0628\u0627\u062F\u0648\u0633",
+                "common": "\u0628\u0627\u0631\u0628\u0627\u062F\u0648\u0633"
+            },
             "ces": {
                 "official": "Barbados",
                 "common": "Barbados"
@@ -5460,6 +5600,10 @@
             "msa": "Malay"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u062A\u062D\u0627\u062F \u0628\u0631\u0648\u0646\u0627\u064A",
+                "common": "\u0628\u0631\u0648\u0646\u0627\u064A"
+            },
             "ces": {
                 "official": "Sultan\u00e1t Brunej",
                 "common": "Brunej"
@@ -5615,6 +5759,10 @@
             "dzo": "Dzongkha"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0628\u0648\u062A\u0627\u0646",
+                "common": "\u0628\u0648\u062A\u0627\u0646"
+            },
             "ces": {
                 "official": "Bh\u00fat\u00e1nsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Bh\u00fat\u00e1n"
@@ -5763,6 +5911,10 @@
             "nor": "Norwegian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0628\u0648\u0641\u064A\u0647",
+                "common": "\u062C\u0632\u0631 \u0628\u0648\u0641\u064A\u0647"
+            },
             "ces": {
                 "official": "Bouvet\u016fv ostrov",
                 "common": "Bouvet\u016fv ostrov"
@@ -5914,6 +6066,10 @@
             "tsn": "Tswana"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627",
+                "common": "\u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627"
+            },
             "ces": {
                 "official": "Botswansk\u00e1 republika",
                 "common": "Botswana"
@@ -6070,6 +6226,10 @@
             "sag": "Sango"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0634\u0645\u0627\u0644 \u0623\u0641\u0631\u064A\u0642\u064A\u0627",
+                "common": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0634\u0645\u0627\u0644 \u0623\u0641\u0631\u064A\u0642\u064A\u0627"
+            },
             "ces": {
                 "official": "St\u0159edoafrick\u00e1 republika",
                 "common": "St\u0159edoafrick\u00e1 republika"
@@ -6230,6 +6390,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0643\u0646\u062F\u0627",
+                "common": "\u0643\u0646\u062F\u0627"
+            },
             "ces": {
                 "official": "Kanada",
                 "common": "Kanada"
@@ -6382,6 +6546,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0625\u0642\u0644\u064A\u0645 \u062C\u0632\u0631 \u0643\u0648\u0643\u0648\u0633",
+                "common": "\u062C\u0632\u0631 \u0643\u0648\u0643\u0648\u0633"
+            },
             "ces": {
                 "official": "Kokosov\u00e9 ostrovy",
                 "common": "Kokosov\u00e9 ostrovy"
@@ -6550,6 +6718,10 @@
             "roh": "Romansh"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0633\u0648\u064A\u0633\u0631\u064A",
+                "common": "\u0633\u0648\u064A\u0633\u0631\u0627"
+            },
             "ces": {
                 "official": "\u0160v\u00fdcarsk\u00e1 konfederace",
                 "common": "\u0160v\u00fdcarsko"
@@ -6702,6 +6874,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062A\u0634\u064A\u0644\u064A",
+                "common": "\u062A\u0634\u064A\u0644\u064A"
+            },
             "ces": {
                 "official": "Chilsk\u00e1 republika",
                 "common": "Chile"
@@ -6864,6 +7040,10 @@
             "zho": "Chinese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0635\u064A\u0646 \u0627\u0644\u0634\u0639\u0628\u064A\u0629",
+                "common": "\u0627\u0644\u0635\u064A\u0646"
+            },
             "ces": {
                 "official": "\u010c\u00ednsk\u00e1 lidov\u00e1 republika",
                 "common": "\u010c\u00edna"
@@ -7029,6 +7209,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u0627\u062D\u0644 \u0627\u0644\u0639\u0627\u062C",
+                "common": "\u0633\u0627\u062D\u0644 \u0627\u0644\u0639\u0627\u062C"
+            },
             "ces": {
                 "official": "Republika Pob\u0159e\u017e\u00ed slonoviny",
                 "common": "Pob\u0159e\u017e\u00ed slonoviny"
@@ -7186,6 +7370,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646",
+                "common": "\u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646"
+            },
             "ces": {
                 "official": "Kamerunsk\u00e1 republika",
                 "common": "Kamerun"
@@ -7365,6 +7553,10 @@
             "swa": "Swahili"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0643\u0648\u0646\u063A\u0648 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629",
+                "common": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0643\u0648\u0646\u063A\u0648 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629"
+            },
             "ces": {
                 "official": "Demokratick\u00e1 republika Kongo",
                 "common": "DR Kongo"
@@ -7535,6 +7727,10 @@
             "lin": "Lingala"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0643\u0648\u0646\u063A\u0648",
+                "common": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0643\u0648\u0646\u0641\u0648"
+            },
             "ces": {
                 "official": "Kon\u017esk\u00e1 republika",
                 "common": "Kongo"
@@ -7699,6 +7895,10 @@
             "rar": "Cook Islands M\u0101ori"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0643\u0648\u0643",
+                "common": "\u062C\u0632\u0631 \u0643\u0648\u0643"
+            },
             "ces": {
                 "official": "Cookovy ostrovy",
                 "common": "Cookovy ostrovy"
@@ -7849,6 +8049,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u0648\u0644\u0648\u0645\u0628\u064A\u0627",
+                "common": "\u0643\u0648\u0644\u0648\u0645\u0628\u064A\u0627"
+            },
             "ces": {
                 "official": "Kolumbijsk\u00e1 republika",
                 "common": "Kolumbie"
@@ -8017,6 +8221,10 @@
             "zdj": "Comorian"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0625\u062A\u062D\u0627\u062F \u0627\u0644\u0642\u0645\u0631\u064A",
+                "common": "\u062C\u0632\u0631 \u0627\u0644\u0642\u0645\u0631"
+            },
             "ces": {
                 "official": "Komorsk\u00fd svaz",
                 "common": "Komory"
@@ -8167,6 +8375,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u0627\u0628\u0648 \u0641\u064A\u0631\u062F\u0627",
+                "common": "\u0643\u0627\u0628\u0648 \u0641\u064A\u0631\u062F\u0627"
+            },
             "ces": {
                 "official": "Kapverdsk\u00e1 republika",
                 "common": "Kapverdy"
@@ -8317,6 +8529,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u0648\u0633\u062A\u0627\u0631\u064A\u0643\u0627",
+                "common": "\u0643\u0648\u0633\u062A\u0627\u0631\u064A\u0643\u0627"
+            },
             "ces": {
                 "official": "Kostarick\u00e1 republika",
                 "common": "Kostarika"
@@ -8474,6 +8690,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u0648\u0628\u0627",
+                "common": "\u0643\u0648\u0628\u0627"
+            },
             "ces": {
                 "official": "Kub\u00e1nsk\u00e1 republika",
                 "common": "Kuba"
@@ -8637,6 +8857,10 @@
             "pap": "Papiamento"
         },
         "translations": {
+            "ara": {
+                "official": "\u062F\u0648\u0644\u0629 \u0643\u0648\u0631\u0627\u0633\u0627\u0648",
+                "common": "\u0643\u0648\u0631\u0627\u0633\u0627\u0648"
+            },
             "ces": {
                 "official": "Autonomn\u00ed zem\u011b Cura\u00e7ao",
                 "common": "Cura\u00e7ao"
@@ -8774,6 +8998,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u064A\u0631\u0629 \u0643\u0631\u064A\u0633\u0645\u0627\u0633",
+                "common": "\u062C\u0632\u064A\u0631\u0629 \u0643\u0631\u064A\u0633\u0645\u0627\u0633"
+            },
             "ces": {
                 "official": "Teritorium V\u00e1no\u010dn\u00edho ostrova",
                 "common": "V\u00e1no\u010dn\u00ed ostrov"
@@ -8922,6 +9150,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0643\u0627\u064A\u0645\u0627\u0646",
+                "common": "\u062C\u0632\u0631 \u0643\u0627\u064A\u0645\u0627\u0646"
+            },
             "ces": {
                 "official": "Kajmansk\u00e9 ostrovy",
                 "common": "Kajmansk\u00e9 ostrovy"
@@ -9080,6 +9312,10 @@
             "tur": "Turkish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0642\u0628\u0631\u0635",
+                "common": "\u0642\u0628\u0631\u0635"
+            },
             "ces": {
                 "official": "Kypersk\u00e1 republika",
                 "common": "Kypr"
@@ -9235,6 +9471,10 @@
             "slk": "Slovak"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u062A\u0634\u064A\u0643",
+                "common": "\u0627\u0644\u062A\u0634\u064A\u0643"
+            },
             "ces": {
                 "official": "\u010cesk\u00e1 republika",
                 "common": "\u010cesko"
@@ -9390,6 +9630,10 @@
             "deu": "German"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u0627\u062A\u062D\u0627\u062F\u064A\u0629",
+                "common": "\u0623\u0644\u0645\u0627\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Spolkov\u00e1 republika N\u011bmecko",
                 "common": "N\u011bmecko"
@@ -9555,6 +9799,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062C\u064A\u0628\u0648\u062A\u064A",
+                "common": "\u062C\u064A\u0628\u0648\u062A\u064A"
+            },
             "ces": {
                 "official": "D\u017eibutsk\u00e1 republika",
                 "common": "D\u017eibutsko"
@@ -9710,6 +9958,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627",
+                "common": "\u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627"
+            },
             "ces": {
                 "official": "Dominik\u00e1nsk\u00e9 spole\u010denstv\u00ed",
                 "common": "Dominika"
@@ -9861,6 +10113,10 @@
             "dan": "Danish"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643",
+                "common": "\u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643"
+            },
             "ces": {
                 "official": "D\u00e1nsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "D\u00e1nsko"
@@ -10013,6 +10269,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627\u0646",
+                "common": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627\u0646"
+            },
             "ces": {
                 "official": "Dominik\u00e1nsk\u00e1 republika",
                 "common": "Dominik\u00e1nsk\u00e1 republika"
@@ -10166,6 +10426,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631\u064a\u0629",
+                "common": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"
+            },
             "ces": {
                 "official": "Al\u017e\u00edrsk\u00e1 demokratick\u00e1 a lidov\u00e1 republika",
                 "common": "Al\u017e\u00edrsko"
@@ -10324,6 +10588,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0625\u0643\u0648\u0627\u062F\u0648\u0631",
+                "common": "\u0627\u0644\u0625\u0643\u0648\u0627\u062F\u0648\u0631"
+            },
             "ces": {
                 "official": "Ekv\u00e1dorsk\u00e1 republika",
                 "common": "Ekv\u00e1dor"
@@ -10477,6 +10745,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0645\u0635\u0631 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+                "common": "\u0645\u0635\u0631"
+            },
             "ces": {
                 "official": "Egyptsk\u00e1 arabsk\u00e1 republika",
                 "common": "Egypt"
@@ -10645,6 +10917,10 @@
             "tir": "Tigrinya"
         },
         "translations": {
+            "ara": {
+                "official": "\u062F\u0648\u0644\u0629 \u0625\u0631\u064A\u062A\u0631\u064A\u0627",
+                "common": "\u0625\u0631\u064A\u062A\u0631\u064A\u0627"
+            },
             "ces": {
                 "official": "St\u00e1t Eritrea",
                 "common": "Eritrea"
@@ -10817,6 +11093,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0635\u062D\u0631\u0627\u0621 \u0627\u0644\u0639\u0631\u0628\u064A\u0629 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629",
+                "common": "\u0627\u0644\u0635\u062D\u0631\u0627\u0621 \u0627\u0644\u063A\u0631\u0628\u064A\u0629"
+            },
             "ces": {
                 "official": "Z\u00e1padn\u00ed Sahara",
                 "common": "Z\u00e1padn\u00ed Sahara"
@@ -10967,6 +11247,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0625\u0633\u0628\u0627\u0646\u064A\u0627",
+                "common": "\u0625\u0633\u0628\u0627\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "\u0160pan\u011blsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "\u0160pan\u011blsko"
@@ -11120,6 +11404,10 @@
             "est": "Estonian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0625\u0633\u062A\u0648\u0646\u064A\u0627",
+                "common": "\u0625\u0633\u062A\u0648\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Estonsk\u00e1 republika",
                 "common": "Estonsko"
@@ -11274,6 +11562,10 @@
             "amh": "Amharic"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0625\u062B\u064A\u0648\u0628\u064A\u0627 \u0627\u0644\u0641\u062F\u0631\u0627\u0644\u064A\u0629 \u0627\u0644\u062F\u064A\u0645\u0648\u0642\u0631\u0627\u0637\u064A\u0629",
+                "common": "\u0625\u062B\u064A\u0648\u0628\u064A\u0627"
+            },
             "ces": {
                 "official": "Etiopsk\u00e1 federativn\u00ed demokratick\u00e1 republika",
                 "common": "Etiopie"
@@ -11438,6 +11730,10 @@
             "swe": "Swedish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0641\u0646\u0644\u0646\u062F\u0627",
+                "common": "\u0641\u0646\u0644\u0646\u062F\u0627"
+            },
             "ces": {
                 "official": "Finsk\u00e1 republika",
                 "common": "Finsko"
@@ -11600,6 +11896,10 @@
             "hif": "Fiji Hindi"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062C\u0632\u0631 \u0641\u064A\u062C\u064A",
+                "common": "\u0641\u064A\u062C\u064A"
+            },
             "ces": {
                 "official": "Republika Fid\u017eijsk\u00fdch ostrov\u016f",
                 "common": "Fid\u017ei"
@@ -11746,6 +12046,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0641\u0648\u0643\u0644\u0627\u0646\u062F",
+                "common": "\u062C\u0632\u0631 \u0641\u0648\u0643\u0644\u0627\u0646\u062F"
+            },
             "ces": {
                 "official": "Falklandsk\u00e9 ostrovy",
                 "common": "Falklandy"
@@ -11892,6 +12196,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629",
+                "common": "\u0641\u0631\u0646\u0633\u0627"
+            },
             "ces": {
                 "official": "Francouzsk\u00e1 republika",
                 "common": "Francie"
@@ -12056,6 +12364,10 @@
             "fao": "Faroese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0641\u0627\u0631\u0648",
+                "common": "\u062C\u0632\u0631 \u0641\u0627\u0631\u0648"
+            },
             "ces": {
                 "official": "Faersk\u00e9 ostrovy",
                 "common": "Faersk\u00e9 ostrovy"
@@ -12197,6 +12509,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0648\u0644\u0627\u064A\u0627\u062A \u0645\u064A\u0643\u0631\u0648\u0646\u064A\u0633\u064A\u0627 \u0627\u0644\u0645\u062A\u062D\u062F\u0629",
+                "common": "\u0645\u064A\u0643\u0631\u0648\u0646\u064A\u0633\u064A\u0627"
+            },
             "ces": {
                 "official": "Federativn\u00ed st\u00e1ty Mikron\u00e9sie",
                 "common": "Mikron\u00e9sie"
@@ -12343,6 +12659,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0641\u0627\u0628\u0648\u0646",
+                "common": "\u0627\u0644\u063A\u0627\u0628\u0648\u0646"
+            },
             "ces": {
                 "official": "Gabonsk\u00e1 republika",
                 "common": "Gabon"
@@ -12493,6 +12813,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0627 \u0627\u0644\u0639\u0638\u0645\u0649 \u0648\u0627\u064A\u0631\u0644\u0646\u062F\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629",
+                "common": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u062A\u062D\u062F\u0629"
+            },
             "ces": {
                 "official": "Spojen\u00e9 kr\u00e1lovstv\u00ed Velk\u00e9 Brit\u00e1nie a Severn\u00edho Irska",
                 "common": "Spojen\u00e9 kr\u00e1lovstv\u00ed"
@@ -12640,6 +12964,10 @@
             "kat": "Georgian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0648\u0631\u062C\u064A\u0627",
+                "common": "\u062C\u0648\u0631\u062C\u064A\u0627"
+            },
             "ces": {
                 "official": "Gruzie",
                 "common": "Gruzie"
@@ -12805,6 +13133,10 @@
             "nfr": "Guern\u00e9siais"
         },
         "translations": {
+            "ara": {
+                "official": "\u063A\u064A\u0631\u0646\u0632\u064A",
+                "common": "\u063A\u064A\u0631\u0646\u0632\u064A"
+            },
             "ces": {
                 "official": "Rycht\u00e1\u0159stv\u00ed Guernsey",
                 "common": "Guernsey"
@@ -12949,6 +13281,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u063A\u0627\u0646\u0627",
+                "common": "\u063A\u0627\u0646\u0627"
+            },
             "ces": {
                 "official": "Ghansk\u00e1 republika",
                 "common": "Ghana"
@@ -13097,6 +13433,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u064A\u0628\u0631\u0627\u0644\u062A\u0627\u0631",
+                "common": "\u062C\u064A\u0628\u0631\u0627\u0644\u062A\u0627\u0631"
+            },
             "ces": {
                 "official": "Gibraltar",
                 "common": "Gibraltar"
@@ -13245,6 +13585,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u063A\u064A\u0646\u064A\u0627",
+                "common": "\u063A\u064A\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Guinejsk\u00e1 republika",
                 "common": "Guinea"
@@ -13397,6 +13741,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u063A\u0648\u0627\u062F\u0644\u0648\u0628",
+                "common": "\u063A\u0648\u0627\u062F\u0644\u0648\u0628"
+            },
             "ces": {
                 "official": "Guadeloupe",
                 "common": "Guadeloupe"
@@ -13542,6 +13890,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u063A\u0627\u0645\u0628\u064A\u0627",
+                "common": "\u063A\u0627\u0645\u0628\u064A\u0627"
+            },
             "ces": {
                 "official": "Gambijsk\u00e1 republika",
                 "common": "Gambie"
@@ -13695,6 +14047,10 @@
             "pov": "Upper Guinea Creole"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u063A\u064A\u0646\u064A\u0627 \u0628\u064A\u0633\u0627\u0648",
+                "common": "\u063A\u064A\u0646\u064A\u0627 \u0628\u064A\u0633\u0627\u0648"
+            },
             "ces": {
                 "official": "Republika Guinea-Bissau",
                 "common": "Guinea-Bissau"
@@ -13856,6 +14212,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u063A\u064A\u0646\u064A\u0627 \u0627\u0644\u0627\u0633\u062A\u0648\u0627\u0626\u064A\u0629",
+                "common": "\u063A\u064A\u0646\u064A\u0627 \u0627\u0644\u0627\u0633\u062A\u0648\u0627\u0626\u064A\u0629"
+            },
             "ces": {
                 "official": "Republika Rovn\u00edkov\u00e1 Guinea",
                 "common": "Rovn\u00edkov\u00e1 Guinea"
@@ -14010,6 +14370,10 @@
             "ell": "Greek"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0647\u064A\u0644\u064A\u0646\u064A\u0629",
+                "common": "\u0627\u0644\u064A\u0648\u0646\u0627\u0646"
+            },
             "ces": {
                 "official": "\u0158eck\u00e1 republika",
                 "common": "\u0158ecko"
@@ -14159,6 +14523,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u063A\u0631\u064A\u0646\u0627\u062F\u0627",
+                "common": "\u063A\u0631\u064A\u0646\u0627\u062F\u0627"
+            },
             "ces": {
                 "official": "Grenada",
                 "common": "Grenada"
@@ -14304,6 +14672,10 @@
             "kal": "Greenlandic"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0631\u064A\u0646\u0644\u0627\u0646\u062F",
+                "common": "\u062C\u0631\u064A\u0646\u0644\u0627\u0646\u062F"
+            },
             "ces": {
                 "official": "Gr\u00f3nsko",
                 "common": "Gr\u00f3nsko"
@@ -14448,6 +14820,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u063a\u0648\u0627\u062a\u064a\u0645\u0627\u0644\u0627",
+                "common": "\u063A\u0648\u0627\u062A\u064A\u0645\u0627\u0644\u0627"
+            },
             "ces": {
                 "official": "Republika Guatemala",
                 "common": "Guatemala"
@@ -14599,6 +14975,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u063A\u0648\u064A\u0627\u0646\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629",
+                "common": "\u063A\u0648\u064A\u0627\u0646\u0627"
+            },
             "ces": {
                 "official": "Francouzsk\u00e1 Guyana",
                 "common": "Francouzsk\u00e1 Guyana"
@@ -14757,6 +15137,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u063A\u0648\u0627\u0645",
+                "common": "\u063A\u0648\u0627\u0645"
+            },
             "ces": {
                 "official": "Guam",
                 "common": "Guam"
@@ -14902,6 +15286,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u063A\u064A\u0627\u0646\u0627 \u0627\u0644\u062A\u0639\u0627\u0648\u0646\u064A\u0629",
+                "common": "\u063A\u064A\u0627\u0646\u0627"
+            },
             "ces": {
                 "official": "Kooperativn\u00ed republika Guyana",
                 "common": "Guyana"
@@ -15056,6 +15444,10 @@
             "zho": "Chinese"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0646\u0637\u0642\u0629 \u0647\u0648\u0646\u063A \u0643\u0648\u0646\u063A \u0627\u0644\u0627\u062F\u0627\u0631\u064A\u0629 \u0627\u0644\u062A\u0627\u0628\u0639\u0629 \u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0635\u064A\u0646 \u0627\u0644\u0634\u0639\u0628\u064A\u0629",
+                "common": "\u0647\u0648\u0646\u063A \u0643\u0648\u0646\u063A"
+            },
             "ces": {
                 "official": "Zvl\u00e1\u0161tn\u00ed administrativn\u00ed oblast \u010c\u00ednsk\u00e9 lidov\u00e9 republiky Hongkong",
                 "common": "Hongkong"
@@ -15195,6 +15587,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u064A\u0631\u0629 \u0639\u064A\u0631\u062F \u0648\u062C\u0632\u0631 \u0645\u0627\u0643\u062F\u0648\u0646\u0627\u0644\u062F",
+                "common": "\u062C\u0632\u064A\u0631\u0629 \u0639\u064A\u0631\u062F \u0648\u062C\u0632\u0631 \u0645\u0627\u0643\u062F\u0648\u0646\u0627\u0644\u062F"
+            },
             "ces": {
                 "official": "Heard\u016fv ostrov a McDonaldovy ostrovy",
                 "common": "Heard\u016fv ostrov a McDonaldovy ostrovy"
@@ -15341,6 +15737,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0647\u0646\u062F\u0648\u0631\u0627\u0633",
+                "common": "\u0647\u0646\u062F\u0648\u0631\u0627\u0633"
+            },
             "ces": {
                 "official": "Hondurask\u00e1 republika",
                 "common": "Honduras"
@@ -15492,6 +15892,10 @@
             "hrv": "Croatian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u0631\u0648\u0627\u062A\u064A\u0627",
+                "common": "\u0643\u0631\u0648\u0627\u062A\u064A\u0627"
+            },
             "ces": {
                 "official": "Chorvatsk\u00e1 republika",
                 "common": "Chorvatsko"
@@ -15654,6 +16058,10 @@
             "hat": "Haitian Creole"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0647\u0627\u064A\u062A\u064A",
+                "common": "\u0647\u0627\u064A\u062A\u064A"
+            },
             "ces": {
                 "official": "Republika Haiti",
                 "common": "Haiti"
@@ -15800,6 +16208,10 @@
             "hun": "Hungarian"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0645\u062C\u0631",
+                "common": "\u0627\u0644\u0645\u062C\u0631"
+            },
             "ces": {
                 "official": "Ma\u010farsko",
                 "common": "Ma\u010farsko"
@@ -15954,6 +16366,10 @@
             "ind": "Indonesian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0625\u0646\u062F\u0648\u0646\u064A\u0633\u064A\u0627",
+                "common": "\u0625\u0646\u062F\u0648\u0646\u064A\u0633\u064A\u0627"
+            },
             "ces": {
                 "official": "Indon\u00e9sk\u00e1 republika",
                 "common": "Indon\u00e9sie"
@@ -16114,6 +16530,10 @@
             "glv": "Manx"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u064A\u0631\u0629 \u0645\u0627\u0646",
+                "common": "\u062C\u0632\u064A\u0631\u0629 \u0645\u0627\u0646"
+            },
             "ces": {
                 "official": "Ostrov Man",
                 "common": "Ostrov Man"
@@ -16272,6 +16692,10 @@
             "tam": "Tamil"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0647\u0646\u062F",
+                "common": "\u0627\u0644\u0647\u0646\u062F"
+            },
             "ces": {
                 "official": "Indick\u00e1 republika",
                 "common": "Indie"
@@ -16423,6 +16847,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0625\u0642\u0644\u064A\u0645 \u0627\u0644\u0645\u062D\u064A\u0637 \u0627\u0644\u0647\u0646\u062F\u064A \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A",
+                "common": "\u0625\u0642\u0644\u064A\u0645 \u0627\u0644\u0645\u062D\u064A\u0637 \u0627\u0644\u0647\u0646\u062F\u064A \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A"
+            },
             "ces": {
                 "official": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed",
                 "common": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed"
@@ -16579,6 +17007,10 @@
             "gle": "Irish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0623\u064A\u0631\u0644\u0646\u062F\u0627",
+                "common": "\u0623\u064A\u0631\u0644\u0646\u062F\u0627"
+            },
             "ces": {
                 "official": "Irsko",
                 "common": "Irsko"
@@ -16729,6 +17161,10 @@
             "fas": "Persian (Farsi)"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0625\u064A\u0631\u0627\u0646 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064A\u0629",
+                "common": "\u0625\u064A\u0631\u0627\u0646"
+            },
             "ces": {
                 "official": "Isl\u00e1msk\u00e1 republika \u00cdr\u00e1n",
                 "common": "\u00cdr\u00e1n"
@@ -16889,6 +17325,10 @@
             "ckb": "Sorani"
         },
         "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642",
+                "common": "\u0627\u0644\u0639\u0631\u0627\u0642"
+            },
             "ces": {
                 "official": "Ir\u00e1ck\u00e1 republika",
                 "common": "Ir\u00e1k"
@@ -17043,6 +17483,10 @@
             "isl": "Icelandic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0622\u064A\u0633\u0644\u0646\u062F\u0627",
+                "common": "\u0622\u064A\u0633\u0644\u0646\u062F\u0627"
+            },
             "ces": {
                 "official": "Island",
                 "common": "Island"
@@ -17194,6 +17638,10 @@
             "heb": "Hebrew"
         },
         "translations": {
+            "ara": {
+                "official": "\u062F\u0648\u0644\u0629 \u0625\u0633\u0631\u0627\u0626\u064A\u0644",
+                "common": "\u0625\u0633\u0631\u0627\u0626\u064A\u0644"
+            },
             "ces": {
                 "official": "St\u00e1t Izrael",
                 "common": "Izrael"
@@ -17346,6 +17794,10 @@
             "ita": "Italian"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629",
+                "common": "\u0625\u064A\u0637\u0627\u0644\u064A\u0627"
+            },
             "ces": {
                 "official": "Italsk\u00e1 republika",
                 "common": "It\u00e1lie"
@@ -17502,6 +17954,10 @@
             "jam": "Jamaican Patois"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0627\u0645\u0627\u064A\u0643\u0627",
+                "common": "\u062C\u0627\u0645\u0627\u064A\u0643\u0627"
+            },
             "ces": {
                 "official": "Jamajka",
                 "common": "Jamajka"
@@ -17663,6 +18119,10 @@
             "nrf": "J\u00e8rriais"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u064A\u0631\u0632\u064A",
+                "common": "\u062C\u064A\u0631\u0632\u064A"
+            },
             "ces": {
                 "official": "Rycht\u00e1\u0159stv\u00ed Jersey",
                 "common": "Jersey"
@@ -17810,6 +18270,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629",
+                "common": "\u0627\u0644\u0623\u0631\u062f\u0646"
+            },
             "ces": {
                 "official": "Jord\u00e1nsk\u00e9 h\u00e1\u0161imovsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Jord\u00e1nsko"
@@ -17963,6 +18427,10 @@
             "jpn": "Japanese"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u064A\u0627\u0628\u0627\u0646",
+                "common": "\u0627\u0644\u064A\u0627\u0628\u0627\u0646"
+            },
             "ces": {
                 "official": "Japonsko",
                 "common": "Japonsko"
@@ -18121,6 +18589,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u0627\u0632\u0627\u062E\u0633\u062A\u0627\u0646",
+                "common": "\u0643\u0627\u0632\u0627\u062E\u0633\u062A\u0627\u0646"
+            },
             "ces": {
                 "official": "Republika Kazachst\u00e1n",
                 "common": "Kazachst\u00e1n"
@@ -18278,6 +18750,10 @@
             "swa": "Swahili"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u064A\u0646\u064A\u0627",
+                "common": "\u0643\u064A\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Ke\u0148sk\u00e1 republika",
                 "common": "Ke\u0148a"
@@ -18437,6 +18913,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0642\u064A\u0631\u063A\u064A\u0632\u064A\u0629",
+                "common": "\u0642\u064A\u0631\u063A\u064A\u0632\u0633\u062A\u0627\u0646"
+            },
             "ces": {
                 "official": "Kyrgyzsk\u00e1 republika",
                 "common": "Kyrgyzst\u00e1n"
@@ -18591,6 +19071,10 @@
             "khm": "Khmer"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0643\u0645\u0628\u0648\u062F\u064A\u0627",
+                "common": "\u0643\u0645\u0628\u0648\u062F\u064A\u0627"
+            },
             "ces": {
                 "official": "Kambod\u017esk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Kambod\u017ea"
@@ -18754,6 +19238,10 @@
             "gil": "Gilbertese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u064A\u0631\u064A\u0628\u0627\u062A\u064A",
+                "common": "\u0643\u064A\u0631\u064A\u0628\u0627\u062A\u064A"
+            },
             "ces": {
                 "official": "Republika Kiribati",
                 "common": "Kiribati"
@@ -18899,6 +19387,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0642\u062F\u064A\u0633 \u0643\u0631\u064A\u0633\u062A\u0648\u0641\u0631 \u0648\u0646\u064A\u0641\u064A\u0633",
+                "common": "\u0633\u0627\u0646\u062A \u0643\u064A\u062A\u0633 \u0648\u0646\u064A\u0641\u064A\u0633"
+            },
             "ces": {
                 "official": "Federace Sv. Kry\u0161tof a Nevis",
                 "common": "Svat\u00fd Kry\u0161tof a Nevis"
@@ -19048,6 +19540,10 @@
             "kor": "Korean"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u0648\u0631\u064A\u0627",
+                "common": "\u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629"
+            },
             "ces": {
                 "official": "Korejsk\u00e1 republika",
                 "common": "Ji\u017en\u00ed Korea"
@@ -19198,6 +19694,10 @@
             "srp": "Serbian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u0648\u0633\u0648\u0641\u0648",
+                "common": "\u0643\u0648\u0633\u0648\u0641\u0648"
+            },
             "ces": {
                 "official": "Kosovsk\u00e1 republika",
                 "common": "Kosovo"
@@ -19345,6 +19845,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+                "common": "\u0627\u0644\u0643\u0648\u064a\u062a"
+            },
             "ces": {
                 "official": "St\u00e1t Kuvajt",
                 "common": "Kuvajt"
@@ -19495,6 +19999,10 @@
             "lao": "Lao"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0644\u0627\u0648 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629 \u0627\u0644\u0634\u0639\u0628\u064A\u0629",
+                "common": "\u0644\u0627\u0648\u0633"
+            },
             "ces": {
                 "official": "Laosk\u00e1 lidov\u011b demokratick\u00e1 republika",
                 "common": "Laos"
@@ -19652,6 +20160,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629",
+                "common": "\u0644\u0628\u0646\u0627\u0646"
+            },
             "ces": {
                 "official": "Libanonsk\u00e1 republika",
                 "common": "Libanon"
@@ -19800,6 +20312,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0644\u064A\u0628\u064A\u0631\u064A\u0627",
+                "common": "\u0644\u064A\u0628\u064A\u0631\u064A\u0627"
+            },
             "ces": {
                 "official": "Liberijsk\u00e1 republika",
                 "common": "Lib\u00e9rie"
@@ -19950,6 +20466,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062f\u0648\u0644\u0629 \u0644\u064a\u0628\u064a\u0627",
+                "common": "\u200f\u0644\u064a\u0628\u064a\u0627"
+            },
             "ces": {
                 "official": "St\u00e1t Libye",
                 "common": "Libye"
@@ -20101,6 +20621,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0633\u0627\u0646\u062A \u0644\u0648\u0633\u064A\u0627",
+                "common": "\u0633\u0627\u0646\u062A \u0644\u0648\u0633\u064A\u0627"
+            },
             "ces": {
                 "official": "Svat\u00e1 Lucie",
                 "common": "Svat\u00e1 Lucie"
@@ -20247,6 +20771,10 @@
             "deu": "German"
         },
         "translations": {
+            "ara": {
+                "official": "\u0625\u0645\u0627\u0631\u0629 \u0644\u064A\u062E\u062A\u0646\u0634\u062A\u0627\u064A\u0646",
+                "common": "\u0644\u064A\u062E\u062A\u0646\u0634\u062A\u0627\u064A\u0646"
+            },
             "ces": {
                 "official": "Kn\u00ed\u017eectv\u00ed Lichten\u0161tejnsk\u00e9",
                 "common": "Lichten\u0161tejnsko"
@@ -20403,6 +20931,10 @@
             "tam": "Tamil"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u0631\u064A\u0644\u0627\u0646\u0643\u0627 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629 \u0627\u0644\u0634\u0639\u0628\u064A\u0629",
+                "common": "\u0633\u0631\u064A\u0644\u0627\u0646\u0643\u0627"
+            },
             "ces": {
                 "official": "Sr\u00edlansk\u00e1 demokratick\u00e1 socialistick\u00e1 republika",
                 "common": "Sr\u00ed Lanka"
@@ -20560,6 +21092,10 @@
             "sot": "Sotho"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0644\u064A\u0633\u0648\u062A\u0648",
+                "common": "\u0644\u064A\u0633\u0648\u062A\u0648"
+            },
             "ces": {
                 "official": "Lesothsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Lesotho"
@@ -20708,6 +21244,10 @@
             "lit": "Lithuanian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0644\u064A\u062A\u0648\u0627\u0646\u064A\u0627",
+                "common": "\u0644\u064A\u062A\u0648\u0627\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Litevsk\u00e1 republika",
                 "common": "Litva"
@@ -20871,6 +21411,10 @@
             "ltz": "Luxembourgish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062F\u0648\u0642\u064A\u0629 \u0644\u0648\u0643\u0633\u0645\u0628\u0648\u0631\u063A",
+                "common": "\u0644\u0648\u0643\u0633\u0645\u0628\u0631\u063A"
+            },
             "ces": {
                 "official": "Lucembursk\u00e9 velkov\u00e9vodstv\u00ed",
                 "common": "Lucembursko"
@@ -21021,6 +21565,10 @@
             "lav": "Latvian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0644\u0627\u062A\u0641\u064A\u0627",
+                "common": "\u0644\u0627\u062A\u0641\u064A\u0627"
+            },
             "ces": {
                 "official": "Loty\u0161sk\u00e1 republika",
                 "common": "Loty\u0161sko"
@@ -21180,6 +21728,10 @@
             "zho": "Chinese"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0646\u0637\u0642\u0629 \u0645\u0627\u0643\u0627\u0648 \u0627\u0644\u0625\u062F\u0627\u0631\u064A\u0629 \u0627\u0644\u062A\u0627\u0628\u0639\u0629 \u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0635\u064A\u0646 \u0627\u0644\u0634\u0639\u0628\u064A\u0629",
+                "common": "\u0645\u0627\u0643\u0627\u0648"
+            },
             "ces": {
                 "official": "Zvl\u00e1\u0161tn\u00ed spr\u00e1vn\u00ed oblast \u010c\u00ednsk\u00e9 lidov\u00e9 republiky Macao",
                 "common": "Macao"
@@ -21326,6 +21878,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0633\u0627\u0646\u062A \u0645\u0627\u0631\u062A\u0646",
+                "common": "\u0633\u0627\u0646\u062A \u0645\u0627\u0631\u062A\u0646"
+            },
             "ces": {
                 "official": "Svat\u00fd Martin",
                 "common": "Svat\u00fd Martin (Francie)"
@@ -21480,6 +22036,10 @@
             "ber": "Berber"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u063a\u0631\u0628\u064a\u0629",
+                "common": "\u0627\u0644\u0645\u063a\u0631\u0628"
+            },
             "ces": {
                 "official": "Marock\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Maroko"
@@ -21630,6 +22190,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0625\u0645\u0627\u0631\u0629 \u0645\u0648\u0646\u0627\u0643\u0648",
+                "common": "\u0645\u0648\u0646\u0627\u0643\u0648"
+            },
             "ces": {
                 "official": "Monack\u00e9 kn\u00ed\u017eectv\u00ed",
                 "common": "Monako"
@@ -21779,6 +22343,10 @@
             "ron": "Moldavian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0645\u0648\u0644\u062F\u0627\u0641\u064A\u0627",
+                "common": "\u0645\u0648\u0644\u062F\u0627\u0641\u064A\u0627"
+            },
             "ces": {
                 "official": "Moldavsk\u00e1 republika",
                 "common": "Moldavsko"
@@ -21934,6 +22502,10 @@
             "mlg": "Malagasy"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0645\u062F\u063A\u0634\u0642\u0631",
+                "common": "\u0645\u062F\u063A\u0634\u0642\u0631"
+            },
             "ces": {
                 "official": "Madagaskarsk\u00e1 republika",
                 "common": "Madagaskar"
@@ -22081,6 +22653,10 @@
             "div": "Maldivian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0645\u0627\u0644\u062F\u064A\u0641",
+                "common": "\u0627\u0644\u0645\u0627\u0644\u062F\u064A\u0641"
+            },
             "ces": {
                 "official": "Maledivsk\u00e1 republika",
                 "common": "Maledivy"
@@ -22228,6 +22804,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0645\u0643\u0633\u064A\u0643\u064A\u0629",
+                "common": "\u0627\u0644\u0645\u0633\u0643\u064A\u0643"
+            },
             "ces": {
                 "official": "Spojen\u00e9 st\u00e1ty mexick\u00e9",
                 "common": "Mexiko"
@@ -22383,6 +22963,10 @@
             "mah": "Marshallese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062C\u0632\u0631 \u0645\u0627\u0631\u0634\u0627\u0644",
+                "common": "\u062C\u0632\u0631 \u0645\u0627\u0631\u0634\u0627\u0644"
+            },
             "ces": {
                 "official": "Republika Marshallovy ostrovy",
                 "common": "Marshallovy ostrovy"
@@ -22531,6 +23115,10 @@
             "mkd": "Macedonian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0634\u0645\u0627\u0644 \u0645\u0642\u062f\u0648\u0646\u064a\u0627",
+                "common": "\u0634\u0645\u0627\u0644 \u0645\u0642\u062f\u0648\u0646\u064a\u0627"
+            },
             "ces": {
                 "official": "Republika Severn\u00ed Makedonie",
                 "common": "Severn\u00ed Makedonie"
@@ -22683,6 +23271,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0645\u0627\u0644\u064A",
+                "common": "\u0645\u0627\u0644\u064A"
+            },
             "ces": {
                 "official": "Republika Mali",
                 "common": "Mali"
@@ -22842,6 +23434,10 @@
             "mlt": "Maltese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0645\u0627\u0644\u0637\u0627",
+                "common": "\u0645\u0627\u0644\u0637\u0627"
+            },
             "ces": {
                 "official": "Maltsk\u00e1 republika",
                 "common": "Malta"
@@ -22989,6 +23585,10 @@
             "mya": "Burmese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u062A\u062D\u0627\u062F \u0645\u064A\u0627\u0646\u0645\u0627\u0631",
+                "common": "\u0645\u064A\u0627\u0646\u0645\u0627\u0631"
+            },
             "ces": {
                 "official": "Republika Myanmarsk\u00fd svaz",
                 "common": "Myanmar"
@@ -23140,6 +23740,10 @@
             "srp": "Montenegrin"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062C\u0628\u0644 \u0627\u0644\u0627\u0633\u0648\u062F",
+                "common": "\u0627\u0644\u062C\u0628\u0644 \u0627\u0644\u0627\u0633\u0648\u062F"
+            },
             "ces": {
                 "official": "\u010cern\u00e1 Hora",
                 "common": "\u010cern\u00e1 Hora"
@@ -23290,6 +23894,10 @@
             "mon": "Mongolian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0645\u0646\u063A\u0648\u0644\u064A\u0627",
+                "common": "\u0645\u0646\u063A\u0648\u0644\u064A\u0627"
+            },
             "ces": {
                 "official": "St\u00e1t Mongolsko",
                 "common": "Mongolsko"
@@ -23449,6 +24057,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0643\u0648\u0645\u0648\u0646\u0648\u0644\u062B \u062C\u0632\u0631 \u0645\u0627\u0631\u064A\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629",
+                "common": "\u062C\u0632\u0631 \u0645\u0627\u0631\u064A\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629"
+            },
             "ces": {
                 "official": "Spole\u010denstv\u00ed Severn\u00edch Marian",
                 "common": "Severn\u00ed Mariany"
@@ -23595,6 +24207,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0645\u0648\u0632\u0645\u0628\u064A\u0642",
+                "common": "\u0645\u0648\u0632\u0645\u0628\u064A\u0642"
+            },
             "ces": {
                 "official": "Mosambick\u00e1 republika",
                 "common": "Mosambik"
@@ -23748,6 +24364,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0629",
+                "common": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627"
+            },
             "ces": {
                 "official": "Maurit\u00e1nsk\u00e1 isl\u00e1msk\u00e1 republika",
                 "common": "Maurit\u00e1nie"
@@ -23897,6 +24517,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0648\u0646\u062A\u0633\u0631\u0627\u062A",
+                "common": "\u0645\u0648\u0646\u062A\u0633\u0631\u0627\u062A"
+            },
             "ces": {
                 "official": "Montserrat",
                 "common": "Montserrat"
@@ -24041,6 +24665,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0627\u0631\u062A\u064A\u0646\u064A\u0643",
+                "common": "\u0645\u0627\u0631\u062A\u064A\u0646\u064A\u0643"
+            },
             "ces": {
                 "official": "Martinik",
                 "common": "Martinik"
@@ -24197,6 +24825,10 @@
             "mfe": "Mauritian Creole"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0645\u0648\u0631\u064A\u0634\u064A\u0648\u0633",
+                "common": "\u0645\u0648\u0631\u064A\u0634\u064A\u0648\u0633"
+            },
             "ces": {
                 "official": "Mauricijsk\u00e1 republika",
                 "common": "Mauricius"
@@ -24347,6 +24979,10 @@
             "nya": "Chewa"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0645\u0627\u0644\u0627\u0648\u064A",
+                "common": "\u0645\u0627\u0644\u0627\u0648\u064A"
+            },
             "ces": {
                 "official": "Malawisk\u00e1 republika",
                 "common": "Malawi"
@@ -24500,6 +25136,10 @@
             "msa": "Malay"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0627\u0644\u064A\u0632\u064A\u0627",
+                "common": "\u0645\u0627\u0644\u064A\u0632\u064A\u0627"
+            },
             "ces": {
                 "official": "Malajsie",
                 "common": "Malajsie"
@@ -24650,6 +25290,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0627\u064A\u0648\u062A",
+                "common": "\u0645\u0627\u064A\u0648\u062A"
+            },
             "ces": {
                 "official": "Mayotte",
                 "common": "Mayotte"
@@ -24840,6 +25484,10 @@
             "tsn": "Tswana"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0646\u0627\u0645\u0628\u064A\u0627",
+                "common": "\u0646\u0627\u0645\u0628\u064A\u0627"
+            },
             "ces": {
                 "official": "Namibijsk\u00e1 republika",
                 "common": "Namibie"
@@ -24989,6 +25637,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0643\u0627\u0644\u064A\u062F\u0648\u0646\u064A\u0627 \u0627\u0644\u062C\u062F\u064A\u062F\u0629",
+                "common": "\u0643\u0627\u0644\u064A\u062F\u0648\u0646\u064A\u0627 \u0627\u0644\u062C\u062F\u064A\u062F\u0629"
+            },
             "ces": {
                 "official": "Nov\u00e1 Kaledonie",
                 "common": "Nov\u00e1 Kaledonie"
@@ -25134,6 +25786,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0646\u064A\u062C\u0631",
+                "common": "\u0627\u0644\u0646\u064A\u062C\u0631"
+            },
             "ces": {
                 "official": "Nigersk\u00e1 republika",
                 "common": "Niger"
@@ -25293,6 +25949,10 @@
             "pih": "Norfuk"
         },
         "translations": {
+            "ara": {
+                "official": "\u0625\u0642\u0644\u064A\u0645 \u062C\u0632\u064A\u0631\u0629 \u0646\u0648\u0631\u0641\u0648\u0644\u0643",
+                "common": "\u062C\u0632\u064A\u0631\u0629 \u0646\u0648\u0631\u0641\u0648\u0644\u0643"
+            },
             "ces": {
                 "official": "Teritorium ostrova Norfolk",
                 "common": "Norfolk"
@@ -25440,6 +26100,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0646\u064A\u062C\u064A\u0631\u064A\u0627 \u0627\u0644\u0627\u062A\u062D\u0627\u062F\u064A\u0629",
+                "common": "\u0646\u064A\u062C\u064A\u0631\u064A\u0627"
+            },
             "ces": {
                 "official": "Nigerijsk\u00e1 federativn\u00ed republika",
                 "common": "Nig\u00e9rie"
@@ -25591,6 +26255,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0646\u064A\u0643\u0627\u0631\u0627\u063A\u0648\u0627",
+                "common": "\u0646\u064A\u0643\u0627\u0631\u0627\u063A\u0648\u0627"
+            },
             "ces": {
                 "official": "Republika Nikaragua",
                 "common": "Nikaragua"
@@ -25743,6 +26411,10 @@
             "niu": "Niuean"
         },
         "translations": {
+            "ara": {
+                "official": "\u062A\u064A\u064A\u0648\u064A",
+                "common": "\u062A\u064A\u064A\u0648\u064A"
+            },
             "ces": {
                 "official": "Niue",
                 "common": "Niue"
@@ -25890,6 +26562,10 @@
             "nld": "Dutch"
         },
         "translations": {
+            "ara": {
+                "official": "\u0647\u0648\u0644\u0646\u062F\u0627",
+                "common": "\u0647\u0648\u0644\u0646\u062F\u0627"
+            },
             "ces": {
                 "official": "Nizozemsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Nizozemsko"
@@ -26052,6 +26728,10 @@
             "smi": "Sami"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0646\u0631\u0648\u064A\u062C",
+                "common": "\u0627\u0644\u0646\u0631\u0648\u064A\u062C"
+            },
             "ces": {
                 "official": "Norsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Norsko"
@@ -26202,6 +26882,10 @@
             "nep": "Nepali"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0646\u064A\u0628\u0627\u0644 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629 \u0627\u0644\u0627\u062A\u062D\u0627\u062F\u064A\u0629",
+                "common": "\u0646\u064A\u0628\u0627\u0644"
+            },
             "ces": {
                 "official": "Federativn\u00ed demokratick\u00e1 republika Nep\u00e1l",
                 "common": "Nep\u00e1l"
@@ -26358,6 +27042,10 @@
             "nau": "Nauru"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0646\u0627\u0648\u0631\u0648",
+                "common": "\u0646\u0627\u0648\u0631\u0648"
+            },
             "ces": {
                 "official": "Republika Nauru",
                 "common": "Nauru"
@@ -26513,6 +27201,10 @@
             "nzs": "New Zealand Sign Language"
         },
         "translations": {
+            "ara": {
+                "official": "\u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627",
+                "common": "\u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627"
+            },
             "ces": {
                 "official": "Nov\u00fd Z\u00e9land",
                 "common": "Nov\u00fd Z\u00e9land"
@@ -26659,6 +27351,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0633\u0644\u0637\u0646\u0629 \u0639\u0645\u0627\u0646",
+                "common": "\u0639\u0645\u0627\u0646"
+            },
             "ces": {
                 "official": "Sultan\u00e1t Om\u00e1n",
                 "common": "Om\u00e1n"
@@ -26815,6 +27511,10 @@
             "urd": "Urdu"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0627\u0643\u0633\u062A\u0627\u0646 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064A\u0629",
+                "common": "\u0628\u0627\u0643\u0633\u062A\u0627\u0646"
+            },
             "ces": {
                 "official": "P\u00e1kist\u00e1nsk\u00e1 isl\u00e1msk\u00e1 republika",
                 "common": "P\u00e1kist\u00e1n"
@@ -26970,6 +27670,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0646\u0645\u0627",
+                "common": "\u0628\u0646\u0645\u0627"
+            },
             "ces": {
                 "official": "Panamsk\u00e1 republika",
                 "common": "Panama"
@@ -27119,6 +27823,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0628\u064A\u062A\u0643\u064A\u0631\u0646",
+                "common": "\u062C\u0632\u0631 \u0628\u064A\u062A\u0643\u064A\u0631\u0646"
+            },
             "ces": {
                 "official": "Pitcairnovy ostrovy",
                 "common": "Pitcairnovy ostrovy"
@@ -27275,6 +27983,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u064A\u0631\u0648",
+                "common": "\u0628\u064A\u0631\u0648"
+            },
             "ces": {
                 "official": "Peru\u00e1nsk\u00e1 republika",
                 "common": "Peru"
@@ -27432,6 +28144,10 @@
             "fil": "Filipino"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0641\u0644\u0628\u064A\u0646",
+                "common": "\u0627\u0644\u0641\u0644\u0628\u064A\u0646"
+            },
             "ces": {
                 "official": "Filip\u00ednsk\u00e1 republika",
                 "common": "Filip\u00edny"
@@ -27583,6 +28299,10 @@
             "pau": "Palauan"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0627\u0644\u0627\u0648",
+                "common": "\u0628\u0627\u0644\u0627\u0648"
+            },
             "ces": {
                 "official": "Republika Palau",
                 "common": "Palau"
@@ -27739,6 +28459,10 @@
             "tpi": "Tok Pisin"
         },
         "translations": {
+            "ara": {
+                "official": "\u062F\u0648\u0644\u0629 \u0628\u0627\u0628\u0648\u0627 \u063A\u064A\u0646\u064A\u0627 \u0627\u0644\u062C\u062F\u064A\u062F\u0629",
+                "common": "\u0628\u0627\u0628\u0648\u0627 \u063A\u064A\u0646\u064A\u0627 \u0627\u0644\u062C\u062F\u064A\u062F\u0629"
+            },
             "ces": {
                 "official": "Nez\u00e1visl\u00fd st\u00e1t Papua Nov\u00e1 Guinea",
                 "common": "Papua-Nov\u00e1 Guinea"
@@ -27887,6 +28611,10 @@
             "pol": "Polish"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0628\u0648\u0644\u0646\u062F\u064A\u0629",
+                "common": "\u0628\u0648\u0644\u0646\u062F\u0627"
+            },
             "ces": {
                 "official": "Polsk\u00e1 republika",
                 "common": "Polsko"
@@ -28047,6 +28775,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u0628\u0648\u064A\u0631\u062A\u0648\u0631\u064A\u0643\u0648",
+                "common": "\u0628\u0648\u064A\u0631\u062A\u0648\u0631\u064A\u0643\u0648"
+            },
             "ces": {
                 "official": "Portoriko",
                 "common": "Portoriko"
@@ -28198,6 +28930,10 @@
             "kor": "Korean"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629 \u0627\u0644\u0634\u0639\u0628\u064A\u0629",
+                "common": "\u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629"
+            },
             "ces": {
                 "official": "Korejsk\u00e1 lidov\u011b demokratick\u00e1 republika",
                 "common": "Severn\u00ed Korea"
@@ -28349,6 +29085,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644\u064A\u0629",
+                "common": "\u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644"
+            },
             "ces": {
                 "official": "Portugalsk\u00e1 republika",
                 "common": "Portugalsko"
@@ -28503,6 +29243,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0627\u0631\u0627\u063A\u0648\u0627\u064A",
+                "common": "\u0628\u0627\u0631\u0627\u063A\u0648\u0627\u064A"
+            },
             "ces": {
                 "official": "Paraguaysk\u00e1 republika",
                 "common": "Paraguay"
@@ -28663,6 +29407,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u062F\u0648\u0644\u0629 \u0641\u0644\u0633\u0637\u064A\u0646",
+                "common": "\u0641\u0644\u0633\u0637\u064A\u0646"
+            },
             "ces": {
                 "official": "St\u00e1t Palestina",
                 "common": "Palestina"
@@ -28814,6 +29562,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0628\u0648\u0644\u064A\u0646\u0632\u064A\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629",
+                "common": "\u0628\u0648\u0644\u064A\u0646\u0632\u064A\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629"
+            },
             "ces": {
                 "official": "Francouzsk\u00e1 Polyn\u00e9sie",
                 "common": "Francouzsk\u00e1 Polyn\u00e9sie"
@@ -28961,6 +29713,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+                "common": "\u0642\u0637\u0631"
+            },
             "ces": {
                 "official": "St\u00e1t Katar",
                 "common": "Katar"
@@ -29108,6 +29864,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u064A\u0631\u0629 \u0631\u064A\u0648\u0646\u064A\u0648\u0646",
+                "common": "\u0644\u0627 \u0631\u064A\u0648\u0646\u064A\u0648\u0646"
+            },
             "ces": {
                 "official": "R\u00e9union",
                 "common": "R\u00e9union"
@@ -29255,6 +30015,10 @@
             "ron": "Romanian"
         },
         "translations": {
+            "ara": {
+                "official": "\u0631\u0648\u0645\u0627\u0646\u064A\u0627",
+                "common": "\u0631\u0648\u0645\u0627\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Rumunsko",
                 "common": "Rumunsko"
@@ -29413,6 +30177,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "ara": {
+                "official": "\u0631\u0648\u0633\u064A\u0627 \u0627\u0644\u0627\u062A\u062D\u0627\u062F\u064A\u0629",
+                "common": "\u0631\u0648\u0633\u064A\u0627"
+            },
             "ces": {
                 "official": "Rusk\u00e1 federace",
                 "common": "Rusko"
@@ -29585,6 +30353,10 @@
             "kin": "Kinyarwanda"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0631\u0648\u0627\u0646\u062F\u0627",
+                "common": "\u0631\u0648\u0627\u0646\u062F\u0627"
+            },
             "ces": {
                 "official": "Rwandsk\u00e1 republika",
                 "common": "Rwanda"
@@ -29697,7 +30469,7 @@
             "native": {
                 "ara": {
                     "official": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
-                    "common": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+                    "common": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
                 }
             }
         },
@@ -29738,6 +30510,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+                "common": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"
+            },
             "ces": {
                 "official": "Sa\u00fadskoarabsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Sa\u00fadsk\u00e1 Ar\u00e1bie"
@@ -29897,6 +30673,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+                "common": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646"
+            },
             "ces": {
                 "official": "S\u00fad\u00e1nsk\u00e1 republika",
                 "common": "S\u00fad\u00e1n"
@@ -30051,6 +30831,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0633\u0646\u063A\u0627\u0644",
+                "common": "\u0627\u0644\u0633\u0646\u063A\u0627\u0644"
+            },
             "ces": {
                 "official": "Senegalsk\u00e1 republika",
                 "common": "Senegal"
@@ -30221,6 +31005,10 @@
             "tam": "Tamil"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629",
+                "common": "\u0633\u0646\u063A\u0627\u0641\u0648\u0631\u0629"
+            },
             "ces": {
                 "official": "Singapursk\u00e1 republika",
                 "common": "Singapur"
@@ -30362,6 +31150,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0648\u0631\u062C\u064A\u0627 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629 \u0648\u062C\u0632\u0631 \u0633\u0627\u0646\u062F\u0648\u062A\u0634 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629",
+                "common": "\u062C\u0648\u0631\u062C\u064A\u0627 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629"
+            },
             "ces": {
                 "official": "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy ostrovy",
                 "common": "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy ostrovy"
@@ -30507,6 +31299,10 @@
             "nor": "Norwegian"
         },
         "translations": {
+            "ara": {
+                "official": "\u0633\u0641\u0627\u0644\u0628\u0627\u0631\u062F \u0648\u064A\u0627\u0646 \u0645\u0627\u064A\u0646",
+                "common": "\u0633\u0641\u0627\u0644\u0628\u0627\u0631\u062F \u0648\u064A\u0627\u0646 \u0645\u0627\u064A\u0646"
+            },
             "ces": {
                 "official": "\u0160picberky a Jan Mayen",
                 "common": "\u0160picberky a Jan Mayen"
@@ -30651,6 +31447,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0633\u0644\u064A\u0645\u0627\u0646",
+                "common": "\u062C\u0632\u0631 \u0633\u0644\u064A\u0645\u0627\u0646"
+            },
             "ces": {
                 "official": "\u0160alamounovy ostrovy",
                 "common": "\u0160alamounovy ostrovy"
@@ -30796,6 +31596,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u064A\u0631\u0627\u0644\u064A\u0648\u0646",
+                "common": "\u0633\u064A\u0631\u0627\u0644\u064A\u0648\u0646"
+            },
             "ces": {
                 "official": "Republika Sierra Leone",
                 "common": "Sierra Leone"
@@ -30945,6 +31749,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0633\u0644\u0641\u0627\u062F\u0648\u0631",
+                "common": "\u0627\u0644\u0633\u0644\u0641\u0627\u062F\u0648\u0631"
+            },
             "ces": {
                 "official": "Salvadorsk\u00e1 republika",
                 "common": "Salvador"
@@ -31098,6 +31906,10 @@
             "ita": "Italian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u0627\u0646 \u0645\u0627\u0631\u064A\u0646\u0648",
+                "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u064A\u0646\u0648"
+            },
             "ces": {
                 "official": "Republika San Marino",
                 "common": "San Marino"
@@ -31253,6 +32065,10 @@
             "som": "Somali"
         },
         "translations": {
+            "ara": {
+                "official": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u0648\u0645\u0627\u0644\u200e\u200e",
+                "common": "\u0627\u0644\u0635\u0648\u0645\u0627\u0644\u200e\u200e"
+            },
             "ces": {
                 "official": "Som\u00e1lsk\u00e1 demokratick\u00e1 republika",
                 "common": "Som\u00e1lsko"
@@ -31402,6 +32218,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0633\u0627\u0646 \u0628\u064A\u064A\u0631 \u0648\u0645\u064A\u0643\u0644\u0648\u0646",
+                "common": "\u0633\u0627\u0646 \u0628\u064A\u064A\u0631 \u0648\u0645\u064A\u0643\u0644\u0648\u0646"
+            },
             "ces": {
                 "official": "Saint-Pierre a Miquelon",
                 "common": "Saint-Pierre a Miquelon"
@@ -31551,6 +32371,10 @@
             "srp": "Serbian"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0635\u064A\u0631\u0628\u064A\u0627",
+                "common": "\u0635\u064A\u0631\u0628\u064A\u0627"
+            },
             "ces": {
                 "official": "Srbsk\u00e1 republika",
                 "common": "Srbsko"
@@ -31704,6 +32528,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062C\u0646\u0648\u0628 \u0627\u0644\u0633\u0648\u062F\u0627\u0646",
+                "common": "\u062C\u0646\u0648\u0628 \u0627\u0644\u0633\u0648\u062F\u0627\u0646"
+            },
             "ces": {
                 "official": "Jihos\u00fad\u00e1nsk\u00e1 republika",
                 "common": "Ji\u017en\u00ed S\u00fad\u00e1n"
@@ -31858,6 +32686,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u0627\u0648 \u062A\u0648\u0645\u064A \u0648\u0628\u0631\u064A\u0646\u0633\u064A\u0628 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629",
+                "common": "\u0633\u0627\u0648 \u062A\u0648\u0645\u064A \u0648\u0628\u0631\u064A\u0646\u0633\u064A\u0628"
+            },
             "ces": {
                 "official": "Demokratick\u00e1 republika Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv ostrov",
                 "common": "Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv ostrov"
@@ -32006,6 +32838,10 @@
             "nld": "Dutch"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u0648\u0631\u064A\u0646\u0627\u0645",
+                "common": "\u0633\u0648\u0631\u064A\u0646\u0627\u0645"
+            },
             "ces": {
                 "official": "Republika Surinam",
                 "common": "Surinam"
@@ -32156,6 +32992,10 @@
             "slk": "Slovak"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u0644\u0648\u0641\u0627\u0643\u064A\u0627",
+                "common": "\u0633\u0644\u0648\u0641\u0627\u0643\u064A\u0627"
+            },
             "ces": {
                 "official": "Slovensk\u00e1 republika",
                 "common": "Slovensko"
@@ -32308,6 +33148,10 @@
             "slv": "Slovene"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u0644\u0648\u0641\u064A\u0646\u064A\u0627",
+                "common": "\u0633\u0644\u0648\u0641\u064A\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Slovinsk\u00e1 republika",
                 "common": "Slovinsko"
@@ -32459,6 +33303,10 @@
             "swe": "Swedish"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0633\u0648\u064A\u062F",
+                "common": "\u0627\u0644\u0633\u0648\u064A\u062F"
+            },
             "ces": {
                 "official": "\u0160v\u00e9dsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "\u0160v\u00e9dsko"
@@ -32621,6 +33469,10 @@
             "ssw": "Swazi"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u0625\u0633\u0648\u0627\u062a\u064a\u0646\u064a",
+                "common": "\u0625\u0633\u0648\u0627\u062a\u064a\u0646\u064a"
+            },
             "ces": {
                 "official": "Svazijsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Svazijsko"
@@ -32779,6 +33631,10 @@
             "nld": "Dutch"
         },
         "translations": {
+            "ara": {
+                "official": "\u0633\u064A\u0646\u062A \u0645\u0627\u0631\u062A\u0646",
+                "common": "\u0633\u064A\u0646\u062A \u0645\u0627\u0631\u062A\u0646"
+            },
             "ces": {
                 "official": "Svat\u00fd Martin",
                 "common": "Svat\u00fd Martin (Nizozemsko)"
@@ -32938,6 +33794,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0633\u064A\u0634\u0644",
+                "common": "\u0633\u064A\u0634\u0644"
+            },
             "ces": {
                 "official": "Seychelsk\u00e1 republika",
                 "common": "Seychely"
@@ -33085,6 +33945,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629",
+                "common": "\u0633\u0648\u0631\u064a\u0627"
+            },
             "ces": {
                 "official": "Syrsk\u00e1 arabsk\u00e1 republika",
                 "common": "S\u00fdrie"
@@ -33235,6 +34099,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u062A\u0648\u0631\u0643\u0633 \u0648\u0643\u0627\u064A\u0643\u0648\u0633",
+                "common": "\u062C\u0632\u0631 \u062A\u0648\u0631\u0643\u0633 \u0648\u0643\u0627\u064A\u0643\u0648\u0633"
+            },
             "ces": {
                 "official": "Turks a Caicos",
                 "common": "Turks a Caicos"
@@ -33387,6 +34255,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062A\u0634\u0627\u062F",
+                "common": "\u062A\u0634\u0627\u062F"
+            },
             "ces": {
                 "official": "\u010cadsk\u00e1 republika",
                 "common": "\u010cad"
@@ -33545,6 +34417,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062A\u0648\u063A\u0648",
+                "common": "\u062A\u0648\u063A\u0648"
+            },
             "ces": {
                 "official": "Republika Togo",
                 "common": "Togo"
@@ -33699,6 +34575,10 @@
             "tha": "Thai"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u062A\u0627\u064A\u0644\u0646\u062F",
+                "common": "\u062A\u0627\u064A\u0644\u0646\u062F"
+            },
             "ces": {
                 "official": "Thajsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Thajsko"
@@ -33857,6 +34737,10 @@
             "tgk": "Tajik"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0637\u0627\u062C\u064A\u0643\u0633\u062A\u0627\u0646",
+                "common": "\u0637\u0627\u062C\u064A\u0643\u0633\u062A\u0627\u0646"
+            },
             "ces": {
                 "official": "Republika T\u00e1d\u017eikist\u00e1n",
                 "common": "T\u00e1d\u017eikist\u00e1n"
@@ -34016,6 +34900,10 @@
             "tkl": "Tokelauan"
         },
         "translations": {
+            "ara": {
+                "official": "\u062A\u0648\u0643\u064A\u0644\u0627\u0648",
+                "common": "\u062A\u0648\u0643\u064A\u0644\u0627\u0648"
+            },
             "ces": {
                 "official": "Tokelau",
                 "common": "Tokelau"
@@ -34165,6 +35053,10 @@
             "tuk": "Turkmen"
         },
         "translations": {
+            "ara": {
+                "official": "\u062A\u0631\u0643\u0645\u0627\u0646\u0633\u062A\u0627\u0646",
+                "common": "\u062A\u0631\u0643\u0645\u0627\u0646\u0633\u062A\u0627\u0646"
+            },
             "ces": {
                 "official": "Turkmenist\u00e1n",
                 "common": "Turkmenist\u00e1n"
@@ -34325,6 +35217,10 @@
             "tet": "Tetum"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062A\u064A\u0645\u0648\u0631 \u0627\u0644\u0634\u0631\u0642\u064A\u0629 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629",
+                "common": "\u062A\u064A\u0645\u0648\u0631 \u0627\u0644\u0634\u0631\u0642\u064A\u0629"
+            },
             "ces": {
                 "official": "Demokratick\u00e1 republika V\u00fdchodn\u00ed Timor",
                 "common": "V\u00fdchodn\u00ed Timor"
@@ -34476,6 +35372,10 @@
             "ton": "Tongan"
         },
         "translations": {
+            "ara": {
+                "official": "\u0645\u0645\u0644\u0643\u0629 \u062A\u0648\u0646\u063A\u0627",
+                "common": "\u062A\u0648\u0646\u063A\u0627"
+            },
             "ces": {
                 "official": "Kr\u00e1lovstv\u00ed Tonga",
                 "common": "Tonga"
@@ -34621,6 +35521,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062A\u0631\u064A\u0646\u064A\u062F\u0627\u062F \u0648\u062A\u0648\u0628\u0627\u063A\u0648",
+                "common": "\u062A\u0631\u064A\u0646\u064A\u062F\u0627\u062F \u0648\u062A\u0648\u0628\u0627\u063A\u0648"
+            },
             "ces": {
                 "official": "Republika Trinidad a Tobago",
                 "common": "Trinidad a Tobago"
@@ -34767,6 +35671,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0648\u0646\u0633\u064a\u0629",
+                "common": "\u062a\u0648\u0646\u0633"
+            },
             "ces": {
                 "official": "Tunisk\u00e1 republika",
                 "common": "Tunisko"
@@ -34917,6 +35825,10 @@
             "tur": "Turkish"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u062A\u0631\u0643\u064A\u0629",
+                "common": "\u062A\u0631\u0643\u064A\u0627 "
+            },
             "ces": {
                 "official": "Tureck\u00e1 republika",
                 "common": "Turecko"
@@ -35079,6 +35991,10 @@
             "tvl": "Tuvaluan"
         },
         "translations": {
+            "ara": {
+                "official": "\u062A\u0648\u0641\u0627\u0644\u0648",
+                "common": "\u062A\u0648\u0641\u0627\u0644\u0648"
+            },
             "ces": {
                 "official": "Tuvalu",
                 "common": "Tuvalu"
@@ -35230,6 +36146,10 @@
             "zho": "Chinese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0635\u064A\u0646",
+                "common": "\u062A\u0627\u064A\u0648\u0627\u0646"
+            },
             "ces": {
                 "official": "\u010c\u00ednsk\u00e1 republika",
                 "common": "Tchaj-wan"
@@ -35378,6 +36298,10 @@
             "swa": "Swahili"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062A\u0646\u0632\u0627\u0646\u064A\u0627 \u0627\u0644\u0627\u062A\u062D\u0627\u062F\u064A\u0629",
+                "common": "\u062A\u0646\u0632\u0627\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Sjednocen\u00e1 tanzansk\u00e1 republika",
                 "common": "Tanzanie"
@@ -35538,6 +36462,10 @@
             "swa": "Swahili"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0623\u0648\u063A\u0646\u062F\u0627",
+                "common": "\u0623\u0648\u063A\u0646\u062F\u0627"
+            },
             "ces": {
                 "official": "Ugandsk\u00e1 republika",
                 "common": "Uganda"
@@ -35690,6 +36618,10 @@
             "ukr": "Ukrainian"
         },
         "translations": {
+            "ara": {
+                "official": "\u0623\u0648\u0643\u0631\u0627\u0646\u064A\u0627",
+                "common": "\u0623\u0648\u0643\u0631\u0627\u0646\u064A\u0627"
+            },
             "ces": {
                 "official": "Ukrajina",
                 "common": "Ukrajina"
@@ -35842,6 +36774,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0635\u063A\u064A\u0631\u0629 \u0627\u0644\u0646\u0627\u0626\u064A\u0629",
+                "common": "\u062C\u0632\u0631 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0635\u063A\u064A\u0631\u0629 \u0627\u0644\u0646\u0627\u0626\u064A\u0629"
+            },
             "ces": {
                 "official": "Men\u0161\u00ed odlehl\u00e9 ostrovy Spojen\u00fdch st\u00e1t\u016f americk\u00fdch",
                 "common": "Men\u0161\u00ed odlehl\u00e9 ostrovy USA"
@@ -35988,6 +36924,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u0623\u0648\u0631\u0648\u063A\u0648\u0627\u064A \u0627\u0644\u0634\u0631\u0642\u064A\u0629",
+                "common": "\u0627\u0644\u0623\u0648\u0631\u0648\u063A\u0648\u0627\u064A"
+            },
             "ces": {
                 "official": "Uruguaysk\u00e1 v\u00fdchodn\u00ed republika",
                 "common": "Uruguay"
@@ -36453,6 +37393,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0627\u0645\u0631\u064A\u0643\u064A\u0629",
+                "common": "\u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629"
+            },
             "ces": {
                 "official": "Spojen\u00e9 st\u00e1ty americk\u00e9",
                 "common": "Spojen\u00e9 st\u00e1ty"
@@ -36608,6 +37552,10 @@
             "uzb": "Uzbek"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0623\u0648\u0632\u0628\u0627\u0643\u0633\u062A\u0627\u0646",
+                "common": "\u0623\u0648\u0632\u0628\u0627\u0643\u0633\u062A\u0627\u0646"
+            },
             "ces": {
                 "official": "Republika Uzbekist\u00e1n",
                 "common": "Uzbekist\u00e1n"
@@ -36767,6 +37715,10 @@
             "lat": "Latin"
         },
         "translations": {
+            "ara": {
+                "official": "\u062F\u0648\u0644\u0629 \u0645\u062F\u064A\u0646\u0629 \u0627\u0644\u0641\u0627\u062A\u064A\u0643\u0627\u0646",
+                "common": "\u0645\u062F\u064A\u0646\u0629 \u0627\u0644\u0641\u0627\u062A\u064A\u0643\u0627\u0646"
+            },
             "ces": {
                 "official": "M\u011bstsk\u00fd st\u00e1t Vatik\u00e1n",
                 "common": "Vatik\u00e1n"
@@ -36913,6 +37865,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u0633\u0627\u0646\u062A \u0641\u064A\u0646\u0633\u0646\u062A \u0648\u0627\u0644\u063A\u0631\u064A\u0646\u0627\u062F\u064A\u0646",
+                "common": "\u0633\u0627\u0646\u062A \u0641\u064A\u0646\u0633\u0646\u062A \u0648\u0627\u0644\u063A\u0631\u064A\u0646\u0627\u062F\u064A\u0646"
+            },
             "ces": {
                 "official": "Svat\u00fd Vincenc a Grenadiny",
                 "common": "Svat\u00fd Vincenc a Grenadiny"
@@ -37060,6 +38016,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0641\u0646\u0632\u0648\u064A\u0644\u0627 \u0627\u0644\u0628\u0648\u0644\u064A\u0641\u0627\u0631\u064A\u0629",
+                "common": "\u0641\u0646\u0632\u0648\u064A\u0644\u0627"
+            },
             "ces": {
                 "official": "Bol\u00edvarsk\u00e1 republika Venezuela",
                 "common": "Venezuela"
@@ -37209,6 +38169,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0628\u0631\u064A\u0637\u0627\u0646\u064A\u0629",
+                "common": "\u062C\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621"
+            },
             "ces": {
                 "official": "Britsk\u00e9 Panensk\u00e9 ostrovy",
                 "common": "Britsk\u00e9 Panensk\u00e9 ostrovy"
@@ -37354,6 +38318,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0627\u0645\u0631\u064A\u0643\u064A\u0629",
+                "common": "\u062C\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0627\u0645\u0631\u064A\u0643\u064A\u0629"
+            },
             "ces": {
                 "official": "Americk\u00e9 Panensk\u00e9 ostrovy",
                 "common": "Americk\u00e9 Panensk\u00e9 ostrovy"
@@ -37501,6 +38469,10 @@
             "vie": "Vietnamese"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0641\u064A\u062A\u0646\u0627\u0645 \u0627\u0644\u0627\u0634\u062A\u0631\u0627\u0643\u064A\u0629",
+                "common": "\u0641\u064A\u062A\u0646\u0627\u0645"
+            },
             "ces": {
                 "official": "Vietnamsk\u00e1 socialistick\u00e1 republika",
                 "common": "Vietnam"
@@ -37662,6 +38634,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0641\u0627\u0646\u0648\u0627\u062A\u0648",
+                "common": "\u0641\u0627\u0646\u0648\u0627\u062A\u0648"
+            },
             "ces": {
                 "official": "Republika Vanuatu",
                 "common": "Vanuatu"
@@ -37808,6 +38784,10 @@
             "fra": "French"
         },
         "translations": {
+            "ara": {
+                "official": "\u0625\u0642\u0644\u064A\u0645 \u062C\u0632\u0631 \u0648\u0627\u0644\u064A\u0633 \u0648\u0641\u0648\u062A\u0648\u0646\u0627",
+                "common": "\u0648\u0627\u0644\u064A\u0633 \u0648\u0641\u0648\u062A\u0648\u0646\u0627"
+            },
             "ces": {
                 "official": "Teritorium ostrov\u016f Wallis a Futuna",
                 "common": "Wallis a Futuna"
@@ -37959,6 +38939,10 @@
             "smo": "Samoan"
         },
         "translations": {
+            "ara": {
+                "official": "\u062F\u0648\u0644\u0629 \u0633\u0627\u0645\u0648\u0627 \u0627\u0644\u0645\u0633\u062A\u0642\u0644\u0629",
+                "common": "\u0633\u0627\u0645\u0648\u0627"
+            },
             "ces": {
                 "official": "Nez\u00e1visl\u00fd st\u00e1t Samoa",
                 "common": "Samoa"
@@ -38066,7 +39050,7 @@
             "native": {
                 "ara": {
                     "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u064a\u0645\u0646\u064a\u0629",
-                    "common": "\u0627\u0644\u064a\u064e\u0645\u064e\u0646"
+                    "common": "\u0627\u0644\u064a\u0645\u0646"
                 }
             }
         },
@@ -38105,6 +39089,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "ara": {
+                "official": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u064a\u0645\u0646\u064a\u0629",
+                "common": "\u0627\u0644\u064a\u0645\u0646"
+            },
             "ces": {
                 "official": "Jemensk\u00e1 republika",
                 "common": "Jemen"
@@ -38307,6 +39295,10 @@
             "zul": "Zulu"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627",
+                "common": "\u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627"
+            },
             "ces": {
                 "official": "Jihoafrick\u00e1 republika",
                 "common": "Jihoafrick\u00e1 republika"
@@ -38459,6 +39451,10 @@
             "eng": "English"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0632\u0627\u0645\u0628\u064A\u0627",
+                "common": "\u0632\u0627\u0645\u0628\u064A\u0627"
+            },
             "ces": {
                 "official": "Zambijsk\u00e1 republika",
                 "common": "Zambie"
@@ -38715,6 +39711,10 @@
             "zib": "Zimbabwean Sign Language"
         },
         "translations": {
+            "ara": {
+                "official": "\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0632\u064A\u0645\u0628\u0627\u0628\u0648\u064A",
+                "common": "\u0632\u064A\u0645\u0628\u0627\u0628\u0648\u064A"
+            },
             "ces": {
                 "official": "Zimbabwsk\u00e1 republika",
                 "common": "Zimbabwe"
