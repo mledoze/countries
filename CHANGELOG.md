@@ -10,8 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add a changelog (#383)
 - add Hungarian translation (#385)
 - add UN membership boolean flag to each country (#401)
+- add geojson and topojson for South Sudan (#406)
 ### Changed
 - sort `translations` alphabetically (#384)
+- remove South Sudan from Sudan's geojson and topojson (#406)
 ### Fixed
 - rename capital city of Kazakhstan from Astana to Nur-Sultan (#391)
 - change capital city of Burundi from Bujumbura to Gitega (#391)
