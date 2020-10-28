@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add Hungarian translation (#385)
 - add UN membership boolean flag to each country (#401)
 - add geojson and topojson for South Sudan (#406)
+- add geojson and topojson for Sint Maarten (SX) (#407)
+- add geojson and topojson for the Caribbean Netherlands (BQ) (#407)
 ### Changed
 - sort `translations` alphabetically (#384)
 - remove South Sudan from Sudan's geojson and topojson (#406)
@@ -19,6 +21,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - change capital city of Burundi from Bujumbura to Gitega (#391)
 - change demonym of United States Minor Outlying Islands to American Islander (#391)
 - add South African rand as a currency to Eswatini (#391)
+- remove St Barthelemy from Guadaloupe geojson and topojson (#407)
+- set St Barthelemy's geojson and topojson to correct region (#407)
 ### Build
 - add `files` in `package.json` to reduce package size (#388)
 - generate calling codes (`callingCodes`) from international direct dialing info (`idd`) (#389)
