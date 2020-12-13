@@ -5,13 +5,15 @@
 [![License](https://img.shields.io/packagist/l/mledoze/countries.svg?style=flat)](https://opendatacommons.org/licenses/odbl/1.0/)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/mledoze/countries.svg)](https://packagist.org/packages/mledoze/countries)
 
-[![Build Status](https://travis-ci.org/mledoze/countries.svg?branch=master)](https://travis-ci.org/mledoze/countries)
+[![Build Status](https://github.com/mledoze/countries/workflows/CI/badge.svg)](https://github.com/mledoze/countries/actions)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/mledoze/countries/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/mledoze/countries/?branch=master)
 [![Downloads](https://img.shields.io/npm/dm/world-countries.svg?style=flat)](https://www.npmjs.com/package/world-countries)
 
 ## Countries data
-This repository contains lists of world countries, as defined by [ISO Standard 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1),
-in JSON, CSV and XML. Each line contains the country:
+This repository contains a list of world countries, as defined by [ISO Standard 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1),
+in JSON, CSV, XML and YAML. **Warning:** not all entities in this project are independent countries; refer to the `independent` property to know if the country is considered a sovereign state.
+
+Each line contains the country:
 
  - `name`
  	 - `common` - common name in english
@@ -28,6 +30,7 @@ in JSON, CSV and XML. Each line contains the country:
  - code International Olympic Committee (`cioc`)
  - ISO 3166-1 independence status (`independent`) (denotes the country is considered a sovereign state)
  - ISO 3166-1 assignment status (`status`)
+ - UN Member status (`unMember`)
  - `currencies` - list of all currencies
  	- key: ISO 4217 currency code
  	- value: currency object
@@ -49,11 +52,16 @@ in JSON, CSV and XML. Each line contains the country:
  		- key: official - official name translation
  		- key: common - common name translation
  - latitude and longitude (`latlng`)
- - name of residents (`demonym`)
+ - `demonyms` - name of residents, translated & genderized
+    - key: three-letter ISO 639-3 language code
+	- value: genderized demonym object
+		- key: `f` (female) or `m` (male)
+		- value: genderized demonym translation
  - landlocked status (`landlocked`)
  - land borders (`borders`)
  - land area in km² (`area`)
  - Emoji flag (`flag`)
+ - calling codes (`callingCodes`)
 
 #### Additional data
 The [data](https://github.com/mledoze/countries/tree/master/data) folder contains additional data such as the countries
@@ -106,6 +114,16 @@ GeoJSON outlines and flags in SVG format.
 	},
 	"latlng": [47.33333333, 13.33333333],
 	"demonym": "Austrian",
+	"demonyms": {
+		"fra": {
+			"f": "Autrichienne",
+			"m": "Autrichien"
+		},
+		"spa": {
+			"f": "Austriaco",
+			"m": "Austriaca"
+		}
+	},
 	"landlocked": true,
 	"borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
 	"area": 83871,
@@ -214,7 +232,7 @@ Please refer to [CONTRIBUTING](https://github.com/mledoze/countries/blob/master/
 ## To do
  - add the type of the country (country, sovereign state, public body, territory, etc.)
  - add missing translations
- - pull in data automatically from CLDR at build time (idea from @Munter, see #108) 
+ - pull in data automatically from CLDR at build time (idea from @Munter, see #108)
 
 ## Sources
 https://www.currency-iso.org/ for currency codes.

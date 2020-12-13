@@ -1,6 +1,6 @@
 {
   "name": "mledoze/countries",
-  "version": "2.1.0",
+  "version": "4.0.0",
   "description": "List of world countries in JSON, CSV, XML and Yaml",
   "keywords": ["world", "countries", "json", "csv", "xml", "yaml"],
   "homepage": "https://mledoze.github.io/countries/",
@@ -16,16 +16,11 @@
   ],
   "require": {
 	"php": ">=5.6.33",
-	"symfony/console": "^2.8|^3.4|~4.0",
-	"symfony/yaml": "^2.8|^3.4|~4.0",
-	"nilportugues/sql-query-builder": "^1.7"
+	"symfony/console": "^2.8|^3.4|~4.0|^5.0",
+	"symfony/yaml": "^2.8|^3.4|~4.0|^5.0"
   },
   "require-dev": {
 	"roave/security-advisories": "dev-master"
-  },
-  "dist": {
-	"url": "https://github.com/mledoze/countries/archive/master.zip",
-	"type": "zip"
   },
   "autoload": {
 	"psr-4": {"MLD\\": "src/MLD"}

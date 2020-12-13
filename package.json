@@ -1,29 +1,37 @@
 {
-  "name": "world-countries",
-  "description": "List of world countries in JSON, CSV, XML and Yaml",
-  "version": "2.1.0",
-  "main": "index.js",
-  "keywords": ["countries", "world", "json", "csv", "xml", "yaml"],
-  "author": {
-	"name": "Mohammed Le Doze",
-	"url": "https://github.com/mledoze",
-	"email": "mohammed.ledoze@gmail.com"
-  },
-  "demos": [
-	"https://mledoze.github.io/countries/#examples"
-  ],
-  "bugs": {
-	"url": "https://github.com/mledoze/countries/issues"
-  },
-  "repository": {
-	"type": "git",
-	"url": "https://github.com/mledoze/countries.git"
-  },
-  "licenses": [
-	{
-	  "type": "ODbL-1.0",
-	  "url": "https://opendatacommons.org/licenses/odbl/1.0/"
-	}
-  ],
-  "homepage": "https://mledoze.github.io/countries/"
+    "name": "world-countries",
+    "description": "List of world countries in JSON, CSV, XML and Yaml",
+    "version": "4.0.0",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "keywords": ["countries", "world", "json", "csv", "xml", "yaml"],
+    "author": {
+        "name": "Mohammed Le Doze",
+        "url": "https://github.com/mledoze",
+        "email": "mohammed.ledoze@gmail.com"
+    },
+    "demos": [
+        "https://mledoze.github.io/countries/#examples"
+    ],
+    "bugs": {
+        "url": "https://github.com/mledoze/countries/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mledoze/countries.git"
+    },
+    "licenses": [
+        {
+            "type": "ODbL-1.0",
+            "url": "https://opendatacommons.org/licenses/odbl/1.0/"
+        }
+    ],
+    "homepage": "https://mledoze.github.io/countries/",
+    "files": [
+        "countries.json",
+        "data/*",
+        "dist/*",
+        "index.d.ts",
+        "index.js"
+    ]
 }

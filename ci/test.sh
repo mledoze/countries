@@ -7,7 +7,7 @@ function lintAllJSON() {
 
 function lintJSON() {
   echo "--> lint json file $f"
-  jsonlint --quiet --compact $1
+  npx jsonlint --quiet --compact $1
 }
 
 lintAllJSON "*.json"

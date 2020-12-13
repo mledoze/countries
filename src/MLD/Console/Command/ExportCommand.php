@@ -97,7 +97,7 @@ class ExportCommand extends Command
     /**
      * @param InputInterface $input
      * @param OutputInterface $output
-     * @return int|null|void
+     * @return int
      */
     protected function execute(InputInterface $input, OutputInterface $output)
     {
@@ -125,6 +125,8 @@ class ExportCommand extends Command
 
         $count = count($formats);
         $output->writeln('Converted data for <info>' . count($countries) . '</info> countries into <info>' . $count . '</info> ' . ($count == 1 ? 'format.' : 'formats.'));
+        
+        return 0;
     }
 
     /**

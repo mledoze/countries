@@ -1,0 +1,30 @@
+name: CI
+on: push
+
+jobs:
+  test:
+    name: Tests on PHP ${{ matrix.php-versions }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        php-versions: ['7.2', '7.3', '7.4']
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+
+      - name: Install PHP
+        uses: shivammathur/setup-php@master
+        with:
+          php-version: ${{ matrix.php-versions }}
+
+      - name: npm install
+        run: npm install jsonlint
+
+      - name: composer install
+        run: composer install
+
+      - name: JSON lint
+        run: bash ./ci/test.sh
+
+      - name: Test conversion
+        run: php countries.php convert
