@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - sort `translations` alphabetically (#384)
 - remove South Sudan from Sudan's geojson and topojson (#406)
+- change subregion to `Eastern Europe` for Slovakia (#413)
 ### Fixed
 - rename capital city of Kazakhstan from Astana to Nur-Sultan (#391)
 - change capital city of Burundi from Bujumbura to Gitega (#391)
