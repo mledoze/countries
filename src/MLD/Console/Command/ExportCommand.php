@@ -34,6 +34,7 @@ class ExportCommand extends Command
         'csv' => ['class' => '\MLD\Converter\CsvConverter', 'output_file' => 'countries.csv'],
         'xml' => ['class' => '\MLD\Converter\XmlConverter', 'output_file' => 'countries.xml'],
         'yml' => ['class' => '\MLD\Converter\YamlConverter', 'output_file' => 'countries.yml'],
+        'php' => ['class' => '\MLD\Converter\PHPConverter', 'output_file' => 'countries.php']
     ];
 
     /**
