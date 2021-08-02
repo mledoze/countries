@@ -19,6 +19,11 @@ export interface IntlDirectDialingCode {
   suffixes: string[]
 }
 
+export interface Demonyms {
+  f: string
+  m: string
+}
+
 export interface Country {
   name: CountryName
   tld: string[]
@@ -37,7 +42,7 @@ export interface Country {
   languages: { [languageCode: string]: string }
   translations: { [languageCode: string]: OfficialAndCommon }
   latlng: [number, number]
-  demonym: string
+  demonyms: { [languageCode: string]?: Demonyms }
   landlocked: boolean
   borders: string[]
   area: number
