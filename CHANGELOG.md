@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove St Barthelemy from Guadaloupe geojson and topojson (#407)
 - set St Barthelemy's geojson and topojson to correct region (#407)
 - remove duplicate viewBox for Cuba's flag (#411)
+- remove new line character in Congo's translations (#430)
 ### Build
 - add `files` in `package.json` to reduce package size (#388)
 - generate calling codes (`callingCodes`) from international direct dialing info (`idd`) (#389)
