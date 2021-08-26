@@ -17,8 +17,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - sort `translations` alphabetically (#384)
 - remove South Sudan from Sudan's geojson and topojson (#406)
 - change subregion to `Eastern Europe` for Slovakia (#413)
+- change first letter of Czechia to uppercase (#431)
 ### Fixed
-- fixed idd of Russia and Kazakhstan by removing XX suffix (#425)
 - rename capital city of Kazakhstan from Astana to Nur-Sultan (#391)
 - change capital city of Burundi from Bujumbura to Gitega (#391)
 - change demonym of United States Minor Outlying Islands to American Islander (#391)
@@ -26,6 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove St Barthelemy from Guadaloupe geojson and topojson (#407)
 - set St Barthelemy's geojson and topojson to correct region (#407)
 - remove duplicate viewBox for Cuba's flag (#411)
+- fixed idd of Russia and Kazakhstan by removing XX suffix (#425)
 - remove new line character in Congo's translations (#430)
 ### Build
 - add `files` in `package.json` to reduce package size (#388)
