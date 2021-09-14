@@ -20,7 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - change first letter of Czechia to uppercase (#431)
 ### Fixed
 - fixed missing idd suffixes of Canada and USA (#426)
-- fixed idd of Russia and Kazakhstan by removing XX suffix (#425)
 - rename capital city of Kazakhstan from Astana to Nur-Sultan (#391)
 - change capital city of Burundi from Bujumbura to Gitega (#391)
 - change demonym of United States Minor Outlying Islands to American Islander (#391)
