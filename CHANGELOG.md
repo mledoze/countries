@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - sort `translations` alphabetically (#384)
 - remove South Sudan from Sudan's geojson and topojson (#406)
 - change subregion to `Eastern Europe` for Slovakia (#413)
+- change first letter of Czechia to uppercase (#431)
 ### Fixed
 - fixed missing idd suffixes of Canada and USA (#426)
 - fixed idd of Russia and Kazakhstan by removing XX suffix (#425)
@@ -27,9 +28,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove St Barthelemy from Guadaloupe geojson and topojson (#407)
 - set St Barthelemy's geojson and topojson to correct region (#407)
 - remove duplicate viewBox for Cuba's flag (#411)
+- fixed idd of Russia and Kazakhstan by removing XX suffix (#425)
+- remove new line character in Congo's translations (#430)
+- fix Montenegrin language code (#434)
 ### Build
 - add `files` in `package.json` to reduce package size (#388)
 - generate calling codes (`callingCodes`) from international direct dialing info (`idd`) (#389)
+- drop support for old versions of PHP and Symfony packages (#435)
 
 ## [v4.0.1] - 2020-12-24
 ### Fixed

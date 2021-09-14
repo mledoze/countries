@@ -1715,7 +1715,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
-        "currencies": [],
+        "currencies": {},
         "idd": {
             "root": "",
             "suffixes": []
@@ -5780,7 +5780,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
-        "currencies": [],
+        "currencies": {},
         "idd": {
             "root": "+4",
             "suffixes": [
@@ -7556,7 +7556,7 @@
             },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648",
-                "common": "\n\u06a9\u0627\u0646\u06af\u0648"
+                "common": "\u06a9\u0627\u0646\u06af\u0648"
             },
             "zho": {
                 "official": "\u521a\u679c\u6c11\u4e3b\u5171\u548c\u56fd",
@@ -9314,7 +9314,7 @@
             "official": "Czech Republic",
             "native": {
                 "ces": {
-                    "official": "\u010desk\u00e1 republika",
+                    "official": "\u010cesk\u00e1 republika",
                     "common": "\u010cesko"
                 },
                 "slk": {
@@ -12320,7 +12320,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
-        "currencies": [],
+        "currencies": {},
         "idd": {
             "root": "+6",
             "suffixes": [
@@ -15339,7 +15339,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
-        "currencies": [],
+        "currencies": {},
         "idd": {
             "root": "",
             "suffixes": [
@@ -23315,7 +23315,7 @@
             "common": "Montenegro",
             "official": "Montenegro",
             "native": {
-                "srp": {
+                "cnr": {
                     "official": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430",
                     "common": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430"
                 }
@@ -23353,7 +23353,7 @@
         "region": "Europe",
         "subregion": "Southeast Europe",
         "languages": {
-            "srp": "Montenegrin"
+            "cnr": "Montenegrin"
         },
         "translations": {
             "ces": {
