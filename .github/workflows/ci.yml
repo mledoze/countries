@@ -10,21 +10,21 @@ jobs:
         php-versions: ['7.3', '7.4', '8.0']
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
 
       - name: Install PHP
-        uses: shivammathur/setup-php@master
+        uses: shivammathur/setup-php@v2
         with:
           php-version: ${{ matrix.php-versions }}
 
-      - name: npm install
-        run: npm install jsonlint
+      - name: Install NPM dependencies
+        run: yarn add jsonlint
 
-      - name: composer install
-        run: composer install
-
-      - name: JSON lint
+      - name: Lint JSON files
         run: bash ./ci/test.sh
 
-      - name: Test conversion
+      - name: Install Composer dependencies
+        run: composer install
+
+      - name: Test conversion of countries data
         run: php countries.php convert
