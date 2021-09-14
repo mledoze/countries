@@ -28,6 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove duplicate viewBox for Cuba's flag (#411)
 - fixed idd of Russia and Kazakhstan by removing XX suffix (#425)
 - remove new line character in Congo's translations (#430)
+- fix Montenegrin language code (#434)
 ### Build
 - add `files` in `package.json` to reduce package size (#388)
 - generate calling codes (`callingCodes`) from international direct dialing info (`idd`) (#389)
