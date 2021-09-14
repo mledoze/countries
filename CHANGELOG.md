@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Build
 - add `files` in `package.json` to reduce package size (#388)
 - generate calling codes (`callingCodes`) from international direct dialing info (`idd`) (#389)
+- drop support for old versions of PHP and Symfony packages
 
 ## [v4.0.1] - 2020-12-24
 ### Fixed
