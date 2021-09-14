@@ -28,6 +28,7 @@ Each line contains the country:
  - code ISO 3166-1 numeric (`ccn3`)
  - code ISO 3166-1 alpha-3 (`cca3`)
  - code International Olympic Committee (`cioc`)
+ - code Fédération Internationale de Football Association (`cfifa`) (members only)
  - ISO 3166-1 independence status (`independent`) (denotes the country is considered a sovereign state)
  - ISO 3166-1 assignment status (`status`)
  - UN Member status (`unMember`)
