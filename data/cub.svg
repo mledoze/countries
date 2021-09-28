@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="400">
+<svg xmlns:svg="http://www.w3.org/2000/svg" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="400">
 <rect width="800" height="400" id="blue_stripes" style="fill:#002a8f"/>
 <rect width="800" height="80" y="80" id="white_stripe_1" style="fill:#fff"/>
 <rect width="800" height="80" y="240" id="white_stripe_2" style="fill:#fff"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="4800" height="2400">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4800 2400" width="4800" height="2400">
 <g fill="#f9cf02"><g transform="scale(5)"><rect width="960" height="480" fill="#c4272f"/>
 <rect x="320" width="320" height="480" fill="#015197"/><circle cx="160" cy="164" r="44"/>
 <circle cx="160" cy="144" r="48" fill="#c4272f"/><circle cx="160" cy="152" r="32"/>

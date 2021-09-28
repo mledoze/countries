@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="450" viewBox="0 0 250 150">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="450" viewBox="0 0 250 150">
+
 <clipPath id="c">
 <circle r="25"/>
 </clipPath>
@@ -7,7 +9,8 @@
 <g transform="translate(125,75)">
 <g id="r20" transform="scale(0.25)">
 <g id="r4">
-<path id="r1" d="m-8.4,108c8.4,22 -9.6,56 8.4,72c-6,-24 14-50 8.4,-72s-25.2,-22 -16.8,0z" fill="#ffef00"/>
+<path id="r1" d="m-8.4,108c8.4,22 -9.6,56 8.4,72c-6,-24 14-50 8.4,-72s-25.2,-22 -16.8,0z" fill="#ffef00"/>
+
 <use xlink:href="#r1" transform="rotate(90)"/>
 <use xlink:href="#r1" transform="rotate(180)"/>
 <use xlink:href="#r1" transform="rotate(270)"/>
