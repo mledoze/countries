@@ -18,6 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove South Sudan from Sudan's geojson and topojson (#406)
 - change subregion to `Eastern Europe` for Slovakia (#413)
 - change first letter of Czechia to uppercase (#431)
+- add capital for Bonaire, Sint Eustatius and Saba
 ### Fixed
 - rename capital city of Kazakhstan from Astana to Nur-Sultan (#391)
 - change capital city of Burundi from Bujumbura to Gitega (#391)
