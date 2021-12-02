@@ -18,7 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove South Sudan from Sudan's geojson and topojson (#406)
 - change subregion to `Eastern Europe` for Slovakia (#413)
 - change first letter of Czechia to uppercase (#431)
-- add capital for Bonaire, Sint Eustatius and Saba
+- add capital for Bonaire, Sint Eustatius and Saba (#441)
+- add TLD for Kosovo (#441)
 ### Fixed
 - rename capital city of Kazakhstan from Astana to Nur-Sultan (#391)
 - change capital city of Burundi from Bujumbura to Gitega (#391)
@@ -30,7 +31,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - fixed idd of Russia and Kazakhstan by removing XX suffix (#425)
 - remove new line character in Congo's translations (#430)
 - fix Montenegrin language code (#434)
-- fix IOC code for Lebanon and Singapore
+- fix IOC code for Lebanon and Singapore (#441)
 ### Build
 - add `files` in `package.json` to reduce package size (#388)
 - generate calling codes (`callingCodes`) from international direct dialing info (`idd`) (#389)
