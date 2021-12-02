@@ -5020,7 +5020,11 @@
                 "99"
             ]
         },
-        "capital": [],
+        "capital": [
+            "Kralendijk",
+            "Oranjestad",
+            "The Bottom"
+        ],
         "altSpellings": [
             "BES islands"
         ],
@@ -19289,7 +19293,9 @@
                 }
             }
         },
-        "tld": [],
+        "tld": [
+            ".xk"
+        ],
         "cca2": "XK",
         "ccn3": "",
         "cca3": "UNK",
@@ -19749,7 +19755,7 @@
         "cca2": "LB",
         "ccn3": "422",
         "cca3": "LBN",
-        "cioc": "LIB",
+        "cioc": "LBN",
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
@@ -30384,7 +30390,7 @@
         "cca2": "SG",
         "ccn3": "702",
         "cca3": "SGP",
-        "cioc": "SIN",
+        "cioc": "SGP",
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
