@@ -24821,7 +24821,8 @@
         "borders": [
             "BRN",
             "IDN",
-            "THA"
+            "THA",
+            "SGP"
         ],
         "area": 330803,
         "flag": "\ud83c\uddf2\ud83c\uddfe",
@@ -30572,7 +30573,9 @@
             103.8
         ],
         "landlocked": false,
-        "borders": [],
+        "borders": [
+            "MYS"
+        ],
         "area": 710,
         "flag": "\ud83c\uddf8\ud83c\uddec",
         "demonyms": {
