@@ -907,7 +907,7 @@
             "MNE",
             "GRC",
             "MKD",
-            "UNK"
+            "KOS"
         ],
         "area": 28748,
         "flag": "\ud83c\udde6\ud83c\uddf1",
@@ -19363,7 +19363,7 @@
         ],
         "cca2": "XK",
         "ccn3": "",
-        "cca3": "UNK",
+        "cca3": "KOS",
         "cioc": "KOS",
         "independent": null,
         "status": "user-assigned",
@@ -22839,7 +22839,7 @@
             "ALB",
             "BGR",
             "GRC",
-            "UNK",
+            "KOS",
             "SRB"
         ],
         "area": 25713,
@@ -23452,7 +23452,7 @@
             "ALB",
             "BIH",
             "HRV",
-            "UNK",
+            "KOS",
             "SRB"
         ],
         "area": 13812,
@@ -31919,7 +31919,7 @@
             "BGR",
             "HRV",
             "HUN",
-            "UNK",
+            "KOS",
             "MKD",
             "MNE",
             "ROU"
