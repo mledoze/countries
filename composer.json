@@ -25,7 +25,7 @@
   ],
   "require": {
     "php": ">=7.3",
-    "symfony/console": "4.4.x|~5.3",
+    "symfony/console": "4.4.x|~5.3|^6.0",
     "symfony/yaml": "4.4.x|~5.3"
   },
   "require-dev": {
