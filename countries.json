@@ -49,6 +49,10 @@
             "pap": "Papiamento"
         },
         "translations": {
+            "bre": {
+                "official": "Aruba",
+                "common": "Aruba"
+            },
             "ces": {
                 "official": "Aruba",
                 "common": "Aruba"
@@ -205,6 +209,10 @@
             "tuk": "Turkmen"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Islamek Afghanistan",
+                "common": "Afghanistan"
+            },
             "ces": {
                 "official": "Afgh\u00e1nsk\u00e1 isl\u00e1msk\u00e1 republika",
                 "common": "Afgh\u00e1nist\u00e1n"
@@ -363,6 +371,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Angola",
+                "common": "Angola"
+            },
             "ces": {
                 "official": "Angolsk\u00e1 republika",
                 "common": "Angola"
@@ -517,6 +529,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Anguilla",
+                "common": "Anguilla"
+            },
             "ces": {
                 "official": "Anguilla",
                 "common": "Anguilla"
@@ -665,6 +681,10 @@
             "swe": "Swedish"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi \u00c5land",
+                "common": "\u00c5land"
+            },
             "ces": {
                 "official": "\u00c5landsk\u00e9 ostrovy",
                 "common": "\u00c5landy"
@@ -813,6 +833,10 @@
             "sqi": "Albanian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Albania",
+                "common": "Albania"
+            },
             "ces": {
                 "official": "Alb\u00e1nsk\u00e1 republika",
                 "common": "Alb\u00e1nie"
@@ -969,6 +993,10 @@
             "cat": "Catalan"
         },
         "translations": {
+            "bre": {
+                "official": "Priñselezh Andorra",
+                "common": "Andorra"
+            },
             "ces": {
                 "official": "Andorrsk\u00e9 kn\u00ed\u017eectv\u00ed",
                 "common": "Andorra"
@@ -1124,6 +1152,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Emirelezhio\u00f9 Arab Unanet",
+                "common": "Emirelezhio\u00f9 Arab Unanet"
+            },
             "ces": {
                 "official": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty",
                 "common": "Spojen\u00e9 arabsk\u00e9 emir\u00e1ty"
@@ -1279,6 +1311,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Arc'hantina",
+                "common": "Arc'hantina"
+            },
             "ces": {
                 "official": "Argentinsk\u00e1 republika",
                 "common": "Argentina"
@@ -1437,6 +1473,10 @@
             "hye": "Armenian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Armenia",
+                "common": "Armenia"
+            },
             "ces": {
                 "official": "Arm\u00e9nsk\u00e1 republika",
                 "common": "Arm\u00e9nie"
@@ -1599,6 +1639,10 @@
             "smo": "Samoan"
         },
         "translations": {
+            "bre": {
+                "official": "Samoa Amerikan",
+                "common": "Samoa Amerikan"
+            },
             "ces": {
                 "official": "Americk\u00e1 Samoa",
                 "common": "Americk\u00e1 Samoa"
@@ -1730,6 +1774,10 @@
         "subregion": "",
         "languages": {},
         "translations": {
+            "bre": {
+                "official": "Antarktika",
+                "common": "Antarktika"
+            },
             "ces": {
                 "official": "Antarktida",
                 "common": "Antarktida"
@@ -1880,6 +1928,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Tiriad Douaro\u00f9 Aostral hag Antarktikel Fra\u00f1s",
+                "common": "Douaro\u00f9 Aostral hag Antarktikel Fra\u00f1s"
+            },
             "ces": {
                 "official": "Teritorium Francouzsk\u00e1 ji\u017en\u00ed a antarktick\u00e1 \u00fazem\u00ed",
                 "common": "Francouzsk\u00e1 ji\u017en\u00ed a antarktick\u00e1 \u00fazem\u00ed"
@@ -2025,6 +2077,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Antigua ha Barbuda",
+                "common": "Antigua ha Barbuda"
+            },
             "ces": {
                 "official": "Antigua a Barbuda",
                 "common": "Antigua a Barbuda"
@@ -2174,6 +2230,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Kenglad Aostralia",
+                "common": "Aostralia"
+            },
             "ces": {
                 "official": "Australsk\u00e9 spole\u010denstv\u00ed",
                 "common": "Austr\u00e1lie"
@@ -2325,6 +2385,10 @@
             "bar": "Austro-Bavarian German"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Aostria",
+                "common": "Aostria"
+            },
             "ces": {
                 "official": "Rakousk\u00e1 republika",
                 "common": "Rakousko"
@@ -2490,6 +2554,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Azerbaidjan",
+                "common": "Azerbaidjan"
+            },
             "ces": {
                 "official": "\u00c1zerb\u00e1jd\u017e\u00e1nsk\u00e1 republika",
                 "common": "\u00c1zerb\u00e1jd\u017e\u00e1n"
@@ -2653,6 +2721,10 @@
             "run": "Kirundi"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Burundi",
+                "common": "Burundi"
+            },
             "ces": {
                 "official": "Burundsk\u00e1 republika",
                 "common": "Burundi"
@@ -2824,6 +2896,10 @@
             "nld": "Dutch"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Belgia",
+                "common": "Belgia"
+            },
             "ces": {
                 "official": "Belgick\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Belgie"
@@ -2980,6 +3056,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Benin",
+                "common": "Benin"
+            },
             "ces": {
                 "official": "Beninsk\u00e1 republika",
                 "common": "Benin"
@@ -3134,6 +3214,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Burkina Faso",
+                "common": "Burkina Faso"
+            },
             "ces": {
                 "official": "Burkina Faso",
                 "common": "Burkina Faso"
@@ -3292,6 +3376,10 @@
             "ben": "Bengali"
         },
         "translations": {
+            "bre": {
+                "official": "Republik pobl Bangladesh",
+                "common": "Bangladesh"
+            },
             "ces": {
                 "official": "Banglad\u00e9\u0161sk\u00e1 lidov\u00e1 republika",
                 "common": "Banglad\u00e9\u0161"
@@ -3446,6 +3534,10 @@
             "bul": "Bulgarian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Bulgaria",
+                "common": "Bulgaria"
+            },
             "ces": {
                 "official": "Bulharsk\u00e1 republika",
                 "common": "Bulharsko"
@@ -3603,6 +3695,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Bahrein",
+                "common": "Bahrein"
+            },
             "ces": {
                 "official": "Kr\u00e1lovstv\u00ed Bahrajn",
                 "common": "Bahrajn"
@@ -3757,6 +3853,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Kenglad ar Bahamas",
+                "common": "Bahamas"
+            },
             "ces": {
                 "official": "Bahamsk\u00e9 spole\u010denstv\u00ed",
                 "common": "Bahamy"
@@ -3918,6 +4018,10 @@
             "srp": "Serbian"
         },
         "translations": {
+            "bre": {
+                "official": "Bosnia-ha-Herzegovina",
+                "common": "Bosnia-ha-Herzegovina"
+            },
             "ces": {
                 "official": "Bosna a Hercegovina",
                 "common": "Bosna a Hercegovina"
@@ -4074,6 +4178,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Saint-Barth\u00e9lemy",
+                "common": "Saint-Barth\u00e9lemy"
+            },
             "ces": {
                 "official": "Svat\u00fd Bartolom\u011bj",
                 "common": "Svat\u00fd Bartolom\u011bj"
@@ -4226,6 +4334,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Saint Helena, Ascension ha Tristan da Cunha",
+                "common": "Saint Helena, Ascension ha Tristan da Cunha"
+            },
             "ces": {
                 "official": "Svat\u00e1 Helena, Ascension a Tristan da Cunha",
                 "common": "Svat\u00e1 Helena, Ascension a Tristan da Cunha"
@@ -4380,6 +4492,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Belarus",
+                "common": "Belarus"
+            },
             "ces": {
                 "official": "B\u011blorusk\u00e1 republika",
                 "common": "B\u011blorusko"
@@ -4545,6 +4661,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Belize",
+                "common": "Belize"
+            },
             "ces": {
                 "official": "Belize",
                 "common": "Belize"
@@ -4700,6 +4820,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Bermuda",
+                "common": "Bermuda"
+            },
             "ces": {
                 "official": "Bermudsk\u00e9 ostrovy",
                 "common": "Bermudy"
@@ -4872,6 +4996,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Stad Liesvroadel Bolivia",
+                "common": "Bolivia"
+            },
             "ces": {
                 "official": "Mnohon\u00e1rodnostn\u00ed st\u00e1t Bol\u00edvie",
                 "common": "Bol\u00edvie"
@@ -5036,6 +5164,10 @@
             "pap": "Papiamento"
         },
         "translations": {
+            "bre": {
+                "official": "Bonaire, Sint Eustatius ha Saba",
+                "common": "Bonaire, Sint Eustatius ha Saba"
+            },
             "ces": {
                 "official": "Karibsk\u00e9 Nizozemsko",
                 "common": "Karibsk\u00e9 Nizozemsko"
@@ -5184,6 +5316,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kevreel Brazil",
+                "common": "Brazil"
+            },
             "ces": {
                 "official": "Brazilsk\u00e1 federativn\u00ed republika",
                 "common": "Braz\u00edlie"
@@ -5344,6 +5480,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Barbados",
+                "common": "Barbados"
+            },
             "ces": {
                 "official": "Barbados",
                 "common": "Barbados"
@@ -5500,6 +5640,10 @@
             "msa": "Malay"
         },
         "translations": {
+            "bre": {
+                "official": "Stad Brunei Darussalam",
+                "common": "Brunei"
+            },
             "ces": {
                 "official": "Sultan\u00e1t Brunej",
                 "common": "Brunej"
@@ -5656,6 +5800,10 @@
             "dzo": "Dzongkha"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Bhoutan",
+                "common": "Bhoutan"
+            },
             "ces": {
                 "official": "Bh\u00fat\u00e1nsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Bh\u00fat\u00e1n"
@@ -5805,6 +5953,10 @@
             "nor": "Norwegian"
         },
         "translations": {
+            "bre": {
+                "official": "Enez Bouvet",
+                "common": "Enez Bouvet"
+            },
             "ces": {
                 "official": "Bouvet\u016fv ostrov",
                 "common": "Bouvet\u016fv ostrov"
@@ -5957,6 +6109,10 @@
             "tsn": "Tswana"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Botswana",
+                "common": "Botswana"
+            },
             "ces": {
                 "official": "Botswansk\u00e1 republika",
                 "common": "Botswana"
@@ -6114,6 +6270,10 @@
             "sag": "Sango"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kreizafrikan",
+                "common": "Republik Kreizafrikan"
+            },
             "ces": {
                 "official": "St\u0159edoafrick\u00e1 republika",
                 "common": "St\u0159edoafrick\u00e1 republika"
@@ -6340,6 +6500,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Kanada",
+                "common": "Kanada"
+            },
             "ces": {
                 "official": "Kanada",
                 "common": "Kanada"
@@ -6493,6 +6657,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Tiriad Inizi Cocos (Keeling)",
+                "common": "Inizi Cocos (Keeling)"
+            },
             "ces": {
                 "official": "Kokosov\u00e9 ostrovy",
                 "common": "Kokosov\u00e9 ostrovy"
@@ -6662,6 +6830,10 @@
             "roh": "Romansh"
         },
         "translations": {
+            "bre": {
+                "official": "Kengevredad Suis",
+                "common": "Suis"
+            },
             "ces": {
                 "official": "\u0160v\u00fdcarsk\u00e1 konfederace",
                 "common": "\u0160v\u00fdcarsko"
@@ -6815,6 +6987,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Chile",
+                "common": "Chile"
+            },
             "ces": {
                 "official": "Chilsk\u00e1 republika",
                 "common": "Chile"
@@ -6978,6 +7154,10 @@
             "zho": "Chinese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Pobl Sina",
+                "common": "Sina"
+            },
             "ces": {
                 "official": "\u010c\u00ednsk\u00e1 lidov\u00e1 republika",
                 "common": "\u010c\u00edna"
@@ -7144,6 +7324,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Aod an Olifant",
+                "common": "Aod an Olifant"
+            },
             "ces": {
                 "official": "Republika Pob\u0159e\u017e\u00ed slonoviny",
                 "common": "Pob\u0159e\u017e\u00ed slonoviny"
@@ -7302,6 +7486,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kameroun",
+                "common": "Kameroun"
+            },
             "ces": {
                 "official": "Kamerunsk\u00e1 republika",
                 "common": "Kamerun"
@@ -7482,6 +7670,10 @@
             "swa": "Swahili"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Demokratel Kongo",
+                "common": "Kongo-Kinshasa"
+            },
             "ces": {
                 "official": "Demokratick\u00e1 republika Kongo",
                 "common": "DR Kongo"
@@ -7653,6 +7845,10 @@
             "lin": "Lingala"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kongo",
+                "common": "Kongo-Brazzaville"
+            },
             "ces": {
                 "official": "Kon\u017esk\u00e1 republika",
                 "common": "Kongo"
@@ -7818,6 +8014,10 @@
             "rar": "Cook Islands M\u0101ori"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Cook",
+                "common": "Inizi Cook"
+            },
             "ces": {
                 "official": "Cookovy ostrovy",
                 "common": "Cookovy ostrovy"
@@ -7969,6 +8169,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kolombia",
+                "common": "Kolombia"
+            },
             "ces": {
                 "official": "Kolumbijsk\u00e1 republika",
                 "common": "Kolumbie"
@@ -8138,6 +8342,10 @@
             "zdj": "Comorian"
         },
         "translations": {
+            "bre": {
+                "official": "Unaniezh Komorez",
+                "common": "Komorez"
+            },
             "ces": {
                 "official": "Komorsk\u00fd svaz",
                 "common": "Komory"
@@ -8289,6 +8497,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kab Glas",
+                "common": "Kab Glas"
+            },
             "ces": {
                 "official": "Kapverdsk\u00e1 republika",
                 "common": "Kapverdy"
@@ -8440,6 +8652,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Costa Rica",
+                "common": "Costa Rica"
+            },
             "ces": {
                 "official": "Kostarick\u00e1 republika",
                 "common": "Kostarika"
@@ -8598,6 +8814,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kuba",
+                "common": "Kuba"
+            },
             "ces": {
                 "official": "Kub\u00e1nsk\u00e1 republika",
                 "common": "Kuba"
@@ -8762,6 +8982,10 @@
             "pap": "Papiamento"
         },
         "translations": {
+            "bre": {
+                "official": "Bro Curaçao",
+                "common": "Curaçao"
+            },
             "ces": {
                 "official": "Autonomn\u00ed zem\u011b Cura\u00e7ao",
                 "common": "Cura\u00e7ao"
@@ -8900,6 +9124,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Tiriad Enez Christmas",
+                "common": "Enez Christmas"
+            },
             "ces": {
                 "official": "Teritorium V\u00e1no\u010dn\u00edho ostrova",
                 "common": "V\u00e1no\u010dn\u00ed ostrov"
@@ -9049,6 +9277,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Cayman",
+                "common": "Inizi Cayman"
+            },
             "ces": {
                 "official": "Kajmansk\u00e9 ostrovy",
                 "common": "Kajmansk\u00e9 ostrovy"
@@ -9208,6 +9440,10 @@
             "tur": "Turkish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kiprenez",
+                "common": "Kiprenez"
+            },
             "ces": {
                 "official": "Kypersk\u00e1 republika",
                 "common": "Kypr"
@@ -9364,6 +9600,10 @@
             "slk": "Slovak"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Tchek",
+                "common": "Tchekia"
+            },
             "ces": {
                 "official": "\u010cesk\u00e1 republika",
                 "common": "\u010cesko"
@@ -9520,6 +9760,10 @@
             "deu": "German"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kevreadel Alamagn",
+                "common": "Alamagn"
+            },
             "ces": {
                 "official": "Spolkov\u00e1 republika N\u011bmecko",
                 "common": "N\u011bmecko"
@@ -9686,6 +9930,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Djibouti",
+                "common": "Djibouti"
+            },
             "ces": {
                 "official": "D\u017eibutsk\u00e1 republika",
                 "common": "D\u017eibutsko"
@@ -9842,6 +10090,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Kenglad Dominika",
+                "common": "Dominika"
+            },
             "ces": {
                 "official": "Dominik\u00e1nsk\u00e9 spole\u010denstv\u00ed",
                 "common": "Dominika"
@@ -9994,6 +10246,10 @@
             "dan": "Danish"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Danmark",
+                "common": "Danmark"
+            },
             "ces": {
                 "official": "D\u00e1nsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "D\u00e1nsko"
@@ -10147,6 +10403,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Dominikan",
+                "common": "Republik Dominikan"
+            },
             "ces": {
                 "official": "Dominik\u00e1nsk\u00e1 republika",
                 "common": "Dominik\u00e1nsk\u00e1 republika"
@@ -10301,6 +10561,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Aljerian Demokratel ha Poblel",
+                "common": "Aljeria"
+            },
             "ces": {
                 "official": "Al\u017e\u00edrsk\u00e1 demokratick\u00e1 a lidov\u00e1 republika",
                 "common": "Al\u017e\u00edrsko"
@@ -10460,6 +10724,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Ecuador",
+                "common": "Ecuador"
+            },
             "ces": {
                 "official": "Ekv\u00e1dorsk\u00e1 republika",
                 "common": "Ekv\u00e1dor"
@@ -10614,6 +10882,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Republik arab Egipt",
+                "common": "Egipt"
+            },
             "ces": {
                 "official": "Egyptsk\u00e1 arabsk\u00e1 republika",
                 "common": "Egypt"
@@ -10783,6 +11055,10 @@
             "tir": "Tigrinya"
         },
         "translations": {
+            "bre": {
+                "official": "Stad Eritrea",
+                "common": "Eritrea"
+            },
             "ces": {
                 "official": "St\u00e1t Eritrea",
                 "common": "Eritrea"
@@ -10956,6 +11232,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Arab Saharaoui Demokratel",
+                "common": "Sahara ar C'horn\u00f4g"
+            },
             "ces": {
                 "official": "Z\u00e1padn\u00ed Sahara",
                 "common": "Z\u00e1padn\u00ed Sahara"
@@ -11107,6 +11387,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Spagn",
+                "common": "Spagn"
+            },
             "ces": {
                 "official": "\u0160pan\u011blsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "\u0160pan\u011blsko"
@@ -11261,6 +11545,10 @@
             "est": "Estonian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Estonia",
+                "common": "Estonia"
+            },
             "ces": {
                 "official": "Estonsk\u00e1 republika",
                 "common": "Estonsko"
@@ -11416,6 +11704,10 @@
             "amh": "Amharic"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Demokratel Kevredadel Etiopia",
+                "common": "Etiopia"
+            },
             "ces": {
                 "official": "Etiopsk\u00e1 federativn\u00ed demokratick\u00e1 republika",
                 "common": "Etiopie"
@@ -11581,6 +11873,10 @@
             "swe": "Swedish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Finland",
+                "common": "Finland"
+            },
             "ces": {
                 "official": "Finsk\u00e1 republika",
                 "common": "Finsko"
@@ -11744,6 +12040,10 @@
             "hif": "Fiji Hindi"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Fidji",
+                "common": "Fidji"
+            },
             "ces": {
                 "official": "Republika Fid\u017eijsk\u00fdch ostrov\u016f",
                 "common": "Fid\u017ei"
@@ -11891,6 +12191,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Malo\u00f9",
+                "common": "Inizi Malo\u00f9"
+            },
             "ces": {
                 "official": "Falklandsk\u00e9 ostrovy",
                 "common": "Falklandy"
@@ -12038,6 +12342,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Fra\u00f1s",
+                "common": "Fra\u00f1s"
+            },
             "ces": {
                 "official": "Francouzsk\u00e1 republika",
                 "common": "Francie"
@@ -12203,6 +12511,10 @@
             "fao": "Faroese"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Faero",
+                "common": "Inizi Faero"
+            },
             "ces": {
                 "official": "Faersk\u00e9 ostrovy",
                 "common": "Faersk\u00e9 ostrovy"
@@ -12345,6 +12657,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Stadoù Kevreet Mikronezia",
+                "common": "Mikronezia"
+            },
             "ces": {
                 "official": "Federativn\u00ed st\u00e1ty Mikron\u00e9sie",
                 "common": "Mikron\u00e9sie"
@@ -12492,6 +12808,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Gabonat",
+                "common": "Gabon"
+            },
             "ces": {
                 "official": "Gabonsk\u00e1 republika",
                 "common": "Gabon"
@@ -12643,6 +12963,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon",
+                "common": "Rouantelezh-Unanet"
+            },
             "ces": {
                 "official": "Spojen\u00e9 kr\u00e1lovstv\u00ed Velk\u00e9 Brit\u00e1nie a Severn\u00edho Irska",
                 "common": "Spojen\u00e9 kr\u00e1lovstv\u00ed"
@@ -12791,6 +13115,10 @@
             "kat": "Georgian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Jorjia",
+                "common": "Jorjia"
+            },
             "ces": {
                 "official": "Gruzie",
                 "common": "Gruzie"
@@ -12957,6 +13285,10 @@
             "nfr": "Guern\u00e9siais"
         },
         "translations": {
+            "bre": {
+                "official": "Gwernenez",
+                "common": "Gwernenez"
+            },
             "ces": {
                 "official": "Rycht\u00e1\u0159stv\u00ed Guernsey",
                 "common": "Guernsey"
@@ -13102,6 +13434,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Ghana",
+                "common": "Ghana"
+            },
             "ces": {
                 "official": "Ghansk\u00e1 republika",
                 "common": "Ghana"
@@ -13251,6 +13587,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Jibraltar",
+                "common": "Jibraltar"
+            },
             "ces": {
                 "official": "Gibraltar",
                 "common": "Gibraltar"
@@ -13400,6 +13740,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Ginea",
+                "common": "Ginea"
+            },
             "ces": {
                 "official": "Guinejsk\u00e1 republika",
                 "common": "Guinea"
@@ -13553,6 +13897,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Gwadeloup",
+                "common": "Gwadeloup"
+            },
             "ces": {
                 "official": "Guadeloupe",
                 "common": "Guadeloupe"
@@ -13699,6 +14047,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik islamek ar Gambia",
+                "common": "Gambia"
+            },
             "ces": {
                 "official": "Gambijsk\u00e1 republika",
                 "common": "Gambie"
@@ -13853,6 +14205,10 @@
             "pov": "Upper Guinea Creole"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Ginea-Bissau",
+                "common": "Ginea-Bissau"
+            },
             "ces": {
                 "official": "Republika Guinea-Bissau",
                 "common": "Guinea-Bissau"
@@ -14015,6 +14371,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Ginea ar C'heheder",
+                "common": "Ginea ar C'heheder"
+            },
             "ces": {
                 "official": "Republika Rovn\u00edkov\u00e1 Guinea",
                 "common": "Rovn\u00edkov\u00e1 Guinea"
@@ -14170,6 +14530,10 @@
             "ell": "Greek"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Hellenek",
+                "common": "Gres"
+            },
             "ces": {
                 "official": "\u0158eck\u00e1 republika",
                 "common": "\u0158ecko"
@@ -14320,6 +14684,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Grenada",
+                "common": "Grenada"
+            },
             "ces": {
                 "official": "Grenada",
                 "common": "Grenada"
@@ -14466,6 +14834,10 @@
             "kal": "Greenlandic"
         },
         "translations": {
+            "bre": {
+                "official": "Greunland",
+                "common": "Greunland"
+            },
             "ces": {
                 "official": "Gr\u00f3nsko",
                 "common": "Gr\u00f3nsko"
@@ -14611,6 +14983,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Guatemala",
+                "common": "Guatemala"
+            },
             "ces": {
                 "official": "Republika Guatemala",
                 "common": "Guatemala"
@@ -14763,6 +15139,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Gwiana C'hall",
+                "common": "Gwiana C'hall"
+            },
             "ces": {
                 "official": "Francouzsk\u00e1 Guyana",
                 "common": "Francouzsk\u00e1 Guyana"
@@ -14922,6 +15302,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Guam",
+                "common": "Guam"
+            },
             "ces": {
                 "official": "Guam",
                 "common": "Guam"
@@ -15068,6 +15452,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kevelourel Gwiana",
+                "common": "Guyana"
+            },
             "ces": {
                 "official": "Kooperativn\u00ed republika Guyana",
                 "common": "Guyana"
@@ -15223,6 +15611,10 @@
             "zho": "Chinese"
         },
         "translations": {
+            "bre": {
+                "official": "Rannvro velestradurel arbennik Hong Kong eus Republik pobl Sina",
+                "common": "Hong Kong"
+            },
             "ces": {
                 "official": "Zvl\u00e1\u0161tn\u00ed administrativn\u00ed oblast \u010c\u00ednsk\u00e9 lidov\u00e9 republiky Hongkong",
                 "common": "Hongkong"
@@ -15363,6 +15755,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Enez Heard hag Inizi McDonald",
+                "common": "Inizi Heard ha McDonald"
+            },
             "ces": {
                 "official": "Heard\u016fv ostrov a McDonaldovy ostrovy",
                 "common": "Heard\u016fv ostrov a McDonaldovy ostrovy"
@@ -15510,6 +15906,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Honduras",
+                "common": "Honduras"
+            },
             "ces": {
                 "official": "Hondurask\u00e1 republika",
                 "common": "Honduras"
@@ -15662,6 +16062,10 @@
             "hrv": "Croatian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kroatia",
+                "common": "Kroatia"
+            },
             "ces": {
                 "official": "Chorvatsk\u00e1 republika",
                 "common": "Chorvatsko"
@@ -15825,6 +16229,10 @@
             "hat": "Haitian Creole"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Haiti",
+                "common": "Haiti"
+            },
             "ces": {
                 "official": "Republika Haiti",
                 "common": "Haiti"
@@ -15972,6 +16380,10 @@
             "hun": "Hungarian"
         },
         "translations": {
+            "bre": {
+                "official": "Hungaria",
+                "common": "Hungaria"
+            },
             "ces": {
                 "official": "Ma\u010farsko",
                 "common": "Ma\u010farsko"
@@ -16127,6 +16539,10 @@
             "ind": "Indonesian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Indonezia",
+                "common": "Indonezia"
+            },
             "ces": {
                 "official": "Indon\u00e9sk\u00e1 republika",
                 "common": "Indon\u00e9sie"
@@ -16288,6 +16704,10 @@
             "glv": "Manx"
         },
         "translations": {
+            "bre": {
+                "official": "Enez Vanav",
+                "common": "Enez Vanav"
+            },
             "ces": {
                 "official": "Ostrov Man",
                 "common": "Ostrov Man"
@@ -16447,6 +16867,10 @@
             "tam": "Tamil"
         },
         "translations": {
+            "bre": {
+                "official": "Republik India",
+                "common": "India"
+            },
             "ces": {
                 "official": "Indick\u00e1 republika",
                 "common": "Indie"
@@ -16599,6 +17023,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Tiriad breizhveurat Meurvor Indez",
+                "common": "Tiriad breizhveurat Meurvor Indez"
+            },
             "ces": {
                 "official": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed",
                 "common": "Britsk\u00e9 indickooce\u00e1nsk\u00e9 \u00fazem\u00ed"
@@ -16756,6 +17184,10 @@
             "gle": "Irish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Iwerzhon",
+                "common": "Iwerzhon"
+            },
             "ces": {
                 "official": "Irsko",
                 "common": "Irsko"
@@ -16907,6 +17339,10 @@
             "fas": "Persian (Farsi)"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Islamek Iran",
+                "common": "Iran"
+            },
             "ces": {
                 "official": "Isl\u00e1msk\u00e1 republika \u00cdr\u00e1n",
                 "common": "\u00cdr\u00e1n"
@@ -17068,6 +17504,10 @@
             "ckb": "Sorani"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Irak",
+                "common": "Irak"
+            },
             "ces": {
                 "official": "Ir\u00e1ck\u00e1 republika",
                 "common": "Ir\u00e1k"
@@ -17223,6 +17663,10 @@
             "isl": "Icelandic"
         },
         "translations": {
+            "bre": {
+                "official": "Island",
+                "common": "Island"
+            },
             "ces": {
                 "official": "Island",
                 "common": "Island"
@@ -17375,6 +17819,10 @@
             "heb": "Hebrew"
         },
         "translations": {
+            "bre": {
+                "official": "Stad Israel",
+                "common": "Israel"
+            },
             "ces": {
                 "official": "St\u00e1t Izrael",
                 "common": "Izrael"
@@ -17528,6 +17976,10 @@
             "ita": "Italian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Italia",
+                "common": "Italia"
+            },
             "ces": {
                 "official": "Italsk\u00e1 republika",
                 "common": "It\u00e1lie"
@@ -17685,6 +18137,10 @@
             "jam": "Jamaican Patois"
         },
         "translations": {
+            "bre": {
+                "official": "Jamaika",
+                "common": "Jamaika"
+            },
             "ces": {
                 "official": "Jamajka",
                 "common": "Jamajka"
@@ -17847,6 +18303,10 @@
             "nrf": "J\u00e8rriais"
         },
         "translations": {
+            "bre": {
+                "official": "Jerzenez",
+                "common": "Jerzenez"
+            },
             "ces": {
                 "official": "Rycht\u00e1\u0159stv\u00ed Jersey",
                 "common": "Jersey"
@@ -17995,6 +18455,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh hachemit Jordania",
+                "common": "Jordania"
+            },
             "ces": {
                 "official": "Jord\u00e1nsk\u00e9 h\u00e1\u0161imovsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Jord\u00e1nsko"
@@ -18149,6 +18613,10 @@
             "jpn": "Japanese"
         },
         "translations": {
+            "bre": {
+                "official": "Japan",
+                "common": "Japan"
+            },
             "ces": {
                 "official": "Japonsko",
                 "common": "Japonsko"
@@ -18308,6 +18776,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kazakstan",
+                "common": "Kazakstan"
+            },
             "ces": {
                 "official": "Republika Kazachst\u00e1n",
                 "common": "Kazachst\u00e1n"
@@ -18466,6 +18938,10 @@
             "swa": "Swahili"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kenya",
+                "common": "Kenya"
+            },
             "ces": {
                 "official": "Ke\u0148sk\u00e1 republika",
                 "common": "Ke\u0148a"
@@ -18626,6 +19102,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kirgiz",
+                "common": "Kirgizstan"
+            },
             "ces": {
                 "official": "Kyrgyzsk\u00e1 republika",
                 "common": "Kyrgyzst\u00e1n"
@@ -18781,6 +19261,10 @@
             "khm": "Khmer"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Kambodja",
+                "common": "Kambodja"
+            },
             "ces": {
                 "official": "Kambod\u017esk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Kambod\u017ea"
@@ -18945,6 +19429,10 @@
             "gil": "Gilbertese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kiribati",
+                "common": "Kiribati"
+            },
             "ces": {
                 "official": "Republika Kiribati",
                 "common": "Kiribati"
@@ -19091,6 +19579,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Kevread Saint Kitts ha Nevis",
+                "common": "Saint Kitts ha Nevis"
+            },
             "ces": {
                 "official": "Federace Sv. Kry\u0161tof a Nevis",
                 "common": "Svat\u00fd Kry\u0161tof a Nevis"
@@ -19241,6 +19733,10 @@
             "kor": "Korean"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Korea",
+                "common": "Korea ar Su"
+            },
             "ces": {
                 "official": "Korejsk\u00e1 republika",
                 "common": "Ji\u017en\u00ed Korea"
@@ -19394,6 +19890,10 @@
             "srp": "Serbian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kosovo",
+                "common": "Kosovo"
+            },
             "ces": {
                 "official": "Kosovsk\u00e1 republika",
                 "common": "Kosovo"
@@ -19542,6 +20042,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Stad Koweit",
+                "common": "Koweit"
+            },
             "ces": {
                 "official": "St\u00e1t Kuvajt",
                 "common": "Kuvajt"
@@ -19693,6 +20197,10 @@
             "lao": "Lao"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Demokratel ar Bobl Lao",
+                "common": "Laos"
+            },
             "ces": {
                 "official": "Laosk\u00e1 lidov\u011b demokratick\u00e1 republika",
                 "common": "Laos"
@@ -19851,6 +20359,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Liban",
+                "common": "Liban"
+            },
             "ces": {
                 "official": "Libanonsk\u00e1 republika",
                 "common": "Libanon"
@@ -20000,6 +20512,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Liberia",
+                "common": "Liberia"
+            },
             "ces": {
                 "official": "Liberijsk\u00e1 republika",
                 "common": "Lib\u00e9rie"
@@ -20151,6 +20667,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Stad Libia",
+                "common": "Libia"
+            },
             "ces": {
                 "official": "St\u00e1t Libye",
                 "common": "Libye"
@@ -20303,6 +20823,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Santez-Lusia",
+                "common": "Santez-Lusia"
+            },
             "ces": {
                 "official": "Svat\u00e1 Lucie",
                 "common": "Svat\u00e1 Lucie"
@@ -20450,6 +20974,10 @@
             "deu": "German"
         },
         "translations": {
+            "bre": {
+                "official": "Priñselezh Liechtenstein",
+                "common": "Liechtenstein"
+            },
             "ces": {
                 "official": "Kn\u00ed\u017eectv\u00ed Lichten\u0161tejnsk\u00e9",
                 "common": "Lichten\u0161tejnsko"
@@ -20607,6 +21135,10 @@
             "tam": "Tamil"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Demokratel ha Sokialour Sri Lanka",
+                "common": "Sri Lanka"
+            },
             "ces": {
                 "official": "Sr\u00edlansk\u00e1 demokratick\u00e1 socialistick\u00e1 republika",
                 "common": "Sr\u00ed Lanka"
@@ -20765,6 +21297,10 @@
             "sot": "Sotho"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Lesotho",
+                "common": "Lesotho"
+            },
             "ces": {
                 "official": "Lesothsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Lesotho"
@@ -20914,6 +21450,10 @@
             "lit": "Lithuanian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Lituania",
+                "common": "Lituania"
+            },
             "ces": {
                 "official": "Litevsk\u00e1 republika",
                 "common": "Litva"
@@ -21078,6 +21618,10 @@
             "ltz": "Luxembourgish"
         },
         "translations": {
+            "bre": {
+                "official": "Dugelezh Veur Luksembourg",
+                "common": "Luksembourg"
+            },
             "ces": {
                 "official": "Lucembursk\u00e9 velkov\u00e9vodstv\u00ed",
                 "common": "Lucembursko"
@@ -21229,6 +21773,10 @@
             "lav": "Latvian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Latvia",
+                "common": "Latvia"
+            },
             "ces": {
                 "official": "Loty\u0161sk\u00e1 republika",
                 "common": "Loty\u0161sko"
@@ -21389,6 +21937,10 @@
             "zho": "Chinese"
         },
         "translations": {
+            "bre": {
+                "official": "Rannvro velestradurel arbennik Makao eus Republik pobl Sina",
+                "common": "Makao"
+            },
             "ces": {
                 "official": "Zvl\u00e1\u0161tn\u00ed spr\u00e1vn\u00ed oblast \u010c\u00ednsk\u00e9 lidov\u00e9 republiky Macao",
                 "common": "Macao"
@@ -21536,6 +22088,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Saint-Martin",
+                "common": "Saint-Martin"
+            },
             "ces": {
                 "official": "Svat\u00fd Martin",
                 "common": "Svat\u00fd Martin (Francie)"
@@ -21691,6 +22247,10 @@
             "ber": "Berber"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Maroko",
+                "common": "Maroko"
+            },
             "ces": {
                 "official": "Marock\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Maroko"
@@ -21842,6 +22402,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Priñselezh Monako",
+                "common": "Monako"
+            },
             "ces": {
                 "official": "Monack\u00e9 kn\u00ed\u017eectv\u00ed",
                 "common": "Monako"
@@ -21992,6 +22556,10 @@
             "ron": "Moldavian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Moldova",
+                "common": "Moldova"
+            },
             "ces": {
                 "official": "Moldavsk\u00e1 republika",
                 "common": "Moldavsko"
@@ -22148,6 +22716,10 @@
             "mlg": "Malagasy"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Madagaskar",
+                "common": "Madagaskar"
+            },
             "ces": {
                 "official": "Madagaskarsk\u00e1 republika",
                 "common": "Madagaskar"
@@ -22296,6 +22868,10 @@
             "div": "Maldivian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Maldivez",
+                "common": "Maldivez"
+            },
             "ces": {
                 "official": "Maledivsk\u00e1 republika",
                 "common": "Maledivy"
@@ -22444,6 +23020,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Stado\u00f9-Unanet Mec'hiko",
+                "common": "Mec'hiko"
+            },
             "ces": {
                 "official": "Spojen\u00e9 st\u00e1ty mexick\u00e9",
                 "common": "Mexiko"
@@ -22600,6 +23180,10 @@
             "mah": "Marshallese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Inizi Marshall",
+                "common": "Inizi Marshall"
+            },
             "ces": {
                 "official": "Republika Marshallovy ostrovy",
                 "common": "Marshallovy ostrovy"
@@ -22749,6 +23333,10 @@
             "mkd": "Macedonian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Makedonia an Norzh",
+                "common": "Makedonia an Norzh"
+            },
             "ces": {
                 "official": "Republika Severn\u00ed Makedonie",
                 "common": "Severn\u00ed Makedonie"
@@ -22902,6 +23490,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Mali",
+                "common": "Mali"
+            },
             "ces": {
                 "official": "Republika Mali",
                 "common": "Mali"
@@ -23062,6 +23654,10 @@
             "mlt": "Maltese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Malta",
+                "common": "Malta"
+            },
             "ces": {
                 "official": "Maltsk\u00e1 republika",
                 "common": "Malta"
@@ -23210,6 +23806,10 @@
             "mya": "Burmese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Unaniezh Myanmar",
+                "common": "Myanmar"
+            },
             "ces": {
                 "official": "Republika Myanmarsk\u00fd svaz",
                 "common": "Myanmar"
@@ -23362,6 +23962,10 @@
             "cnr": "Montenegrin"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Montenegro",
+                "common": "Montenegro"
+            },
             "ces": {
                 "official": "\u010cern\u00e1 Hora",
                 "common": "\u010cern\u00e1 Hora"
@@ -23513,6 +24117,10 @@
             "mon": "Mongolian"
         },
         "translations": {
+            "bre": {
+                "official": "Mongolia",
+                "common": "Mongolia"
+            },
             "ces": {
                 "official": "St\u00e1t Mongolsko",
                 "common": "Mongolsko"
@@ -23673,6 +24281,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Kenglad Inizi Mariana an Norzh",
+                "common": "Inizi Mariana an Norzh"
+            },
             "ces": {
                 "official": "Spole\u010denstv\u00ed Severn\u00edch Marian",
                 "common": "Severn\u00ed Mariany"
@@ -23820,6 +24432,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Mozambik",
+                "common": "Mozambik"
+            },
             "ces": {
                 "official": "Mosambick\u00e1 republika",
                 "common": "Mosambik"
@@ -23974,6 +24590,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Republik islamek Maouritania",
+                "common": "Maouritania"
+            },
             "ces": {
                 "official": "Maurit\u00e1nsk\u00e1 isl\u00e1msk\u00e1 republika",
                 "common": "Maurit\u00e1nie"
@@ -24124,6 +24744,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Montserrat",
+                "common": "Montserrat"
+            },
             "ces": {
                 "official": "Montserrat",
                 "common": "Montserrat"
@@ -24269,6 +24893,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Martinik",
+                "common": "Martinik"
+            },
             "ces": {
                 "official": "Martinik",
                 "common": "Martinik"
@@ -24426,6 +25054,10 @@
             "mfe": "Mauritian Creole"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Moris",
+                "common": "Moris"
+            },
             "ces": {
                 "official": "Mauricijsk\u00e1 republika",
                 "common": "Mauricius"
@@ -24577,6 +25209,10 @@
             "nya": "Chewa"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Malawi",
+                "common": "Malawi"
+            },
             "ces": {
                 "official": "Malawisk\u00e1 republika",
                 "common": "Malawi"
@@ -24731,6 +25367,10 @@
             "msa": "Malay"
         },
         "translations": {
+            "bre": {
+                "official": "Malaysia",
+                "common": "Malaysia"
+            },
             "ces": {
                 "official": "Malajsie",
                 "common": "Malajsie"
@@ -24882,6 +25522,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Departamant Mayotte",
+                "common": "Mayotte"
+            },
             "ces": {
                 "official": "Mayotte",
                 "common": "Mayotte"
@@ -25073,6 +25717,10 @@
             "tsn": "Tswana"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Namibia",
+                "common": "Namibia"
+            },
             "ces": {
                 "official": "Namibijsk\u00e1 republika",
                 "common": "Namibie"
@@ -25223,6 +25871,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Kaledonia-Nevez",
+                "common": "Kaledonia-Nevez"
+            },
             "ces": {
                 "official": "Nov\u00e1 Kaledonie",
                 "common": "Nov\u00e1 Kaledonie"
@@ -25369,6 +26021,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Niger",
+                "common": "Niger"
+            },
             "ces": {
                 "official": "Nigersk\u00e1 republika",
                 "common": "Niger"
@@ -25529,6 +26185,10 @@
             "pih": "Norfuk"
         },
         "translations": {
+            "bre": {
+                "official": "Tiriad Enez Norfolk",
+                "common": "Enez Norfolk"
+            },
             "ces": {
                 "official": "Teritorium ostrova Norfolk",
                 "common": "Norfolk"
@@ -25677,6 +26337,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kevreadel Nigeria",
+                "common": "Nigeria"
+            },
             "ces": {
                 "official": "Nigerijsk\u00e1 federativn\u00ed republika",
                 "common": "Nig\u00e9rie"
@@ -25829,6 +26493,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Nicaragua",
+                "common": "Nicaragua"
+            },
             "ces": {
                 "official": "Republika Nikaragua",
                 "common": "Nikaragua"
@@ -25982,6 +26650,10 @@
             "niu": "Niuean"
         },
         "translations": {
+            "bre": {
+                "official": "Niue",
+                "common": "Niue"
+            },
             "ces": {
                 "official": "Niue",
                 "common": "Niue"
@@ -26130,6 +26802,10 @@
             "nld": "Dutch"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh an Izelvroio\u00f9",
+                "common": "Izelvroio\u00f9"
+            },
             "ces": {
                 "official": "Nizozemsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Nizozemsko"
@@ -26293,6 +26969,10 @@
             "smi": "Sami"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Norvegia",
+                "common": "Norvegia"
+            },
             "ces": {
                 "official": "Norsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Norsko"
@@ -26444,6 +27124,10 @@
             "nep": "Nepali"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Demokratel Kevreadel Nepal",
+                "common": "Nepal"
+            },
             "ces": {
                 "official": "Federativn\u00ed demokratick\u00e1 republika Nep\u00e1l",
                 "common": "Nep\u00e1l"
@@ -26601,6 +27285,10 @@
             "nau": "Nauru"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Nauru",
+                "common": "Nauru"
+            },
             "ces": {
                 "official": "Republika Nauru",
                 "common": "Nauru"
@@ -26757,6 +27445,10 @@
             "nzs": "New Zealand Sign Language"
         },
         "translations": {
+            "bre": {
+                "official": "Zeland-Nevez",
+                "common": "Zeland-Nevez"
+            },
             "ces": {
                 "official": "Nov\u00fd Z\u00e9land",
                 "common": "Nov\u00fd Z\u00e9land"
@@ -26904,6 +27596,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Sultanelezh Oman",
+                "common": "Oman"
+            },
             "ces": {
                 "official": "Sultan\u00e1t Om\u00e1n",
                 "common": "Om\u00e1n"
@@ -27061,6 +27757,10 @@
             "urd": "Urdu"
         },
         "translations": {
+            "bre": {
+                "official": "Republik islamek Pakistan",
+                "common": "Pakistan"
+            },
             "ces": {
                 "official": "P\u00e1kist\u00e1nsk\u00e1 isl\u00e1msk\u00e1 republika",
                 "common": "P\u00e1kist\u00e1n"
@@ -27217,6 +27917,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Panama",
+                "common": "Panama"
+            },
             "ces": {
                 "official": "Panamsk\u00e1 republika",
                 "common": "Panama"
@@ -27367,6 +28071,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Pitcairn, Henderson, Ducie hag Oeno",
+                "common": "Inizi Pitcairn"
+            },
             "ces": {
                 "official": "Pitcairnovy ostrovy",
                 "common": "Pitcairnovy ostrovy"
@@ -27524,6 +28232,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Perou",
+                "common": "Perou"
+            },
             "ces": {
                 "official": "Peru\u00e1nsk\u00e1 republika",
                 "common": "Peru"
@@ -27682,6 +28394,10 @@
             "fil": "Filipino"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Filipinez",
+                "common": "Filipinez"
+            },
             "ces": {
                 "official": "Filip\u00ednsk\u00e1 republika",
                 "common": "Filip\u00edny"
@@ -27834,6 +28550,10 @@
             "pau": "Palauan"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Palau",
+                "common": "Palau"
+            },
             "ces": {
                 "official": "Republika Palau",
                 "common": "Palau"
@@ -27991,6 +28711,10 @@
             "tpi": "Tok Pisin"
         },
         "translations": {
+            "bre": {
+                "official": "Stad dizalc'h Papoua-Ginea Nevez",
+                "common": "Papoua-Ginea Nevez"
+            },
             "ces": {
                 "official": "Nez\u00e1visl\u00fd st\u00e1t Papua Nov\u00e1 Guinea",
                 "common": "Papua-Nov\u00e1 Guinea"
@@ -28140,6 +28864,10 @@
             "pol": "Polish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Polonia",
+                "common": "Polonia"
+            },
             "ces": {
                 "official": "Polsk\u00e1 republika",
                 "common": "Polsko"
@@ -28301,6 +29029,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Kenglad Puerto Rico",
+                "common": "Puerto Rico"
+            },
             "ces": {
                 "official": "Portoriko",
                 "common": "Portoriko"
@@ -28453,6 +29185,10 @@
             "kor": "Korean"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Poblel ha Demokratel Korea",
+                "common": "Korea an Norzh"
+            },
             "ces": {
                 "official": "Korejsk\u00e1 lidov\u011b demokratick\u00e1 republika",
                 "common": "Severn\u00ed Korea"
@@ -28605,6 +29341,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Portugalat",
+                "common": "Portugal"
+            },
             "ces": {
                 "official": "Portugalsk\u00e1 republika",
                 "common": "Portugalsko"
@@ -28760,6 +29500,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Paraguay",
+                "common": "Paraguay"
+            },
             "ces": {
                 "official": "Paraguaysk\u00e1 republika",
                 "common": "Paraguay"
@@ -28921,6 +29665,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Stad Palestina",
+                "common": "Palestina"
+            },
             "ces": {
                 "official": "St\u00e1t Palestina",
                 "common": "Palestina"
@@ -29073,6 +29821,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Polinezia C'hall",
+                "common": "Polinezia C'hall"
+            },
             "ces": {
                 "official": "Francouzsk\u00e1 Polyn\u00e9sie",
                 "common": "Francouzsk\u00e1 Polyn\u00e9sie"
@@ -29221,6 +29973,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Stad Katar",
+                "common": "Katar"
+            },
             "ces": {
                 "official": "St\u00e1t Katar",
                 "common": "Katar"
@@ -29369,6 +30125,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Enez ar Re\u00fcnion",
+                "common": "Re\u00fcnion"
+            },
             "ces": {
                 "official": "R\u00e9union",
                 "common": "R\u00e9union"
@@ -29517,6 +30277,10 @@
             "ron": "Romanian"
         },
         "translations": {
+            "bre": {
+                "official": "Roumania",
+                "common": "Roumania"
+            },
             "ces": {
                 "official": "Rumunsko",
                 "common": "Rumunsko"
@@ -29676,6 +30440,10 @@
             "rus": "Russian"
         },
         "translations": {
+            "bre": {
+                "official": "Kevread Rusia",
+                "common": "Rusia"
+            },
             "ces": {
                 "official": "Rusk\u00e1 federace",
                 "common": "Rusko"
@@ -29849,6 +30617,10 @@
             "kin": "Kinyarwanda"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Rwanda",
+                "common": "Rwanda"
+            },
             "ces": {
                 "official": "Rwandsk\u00e1 republika",
                 "common": "Rwanda"
@@ -30003,6 +30775,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Arabia Saoudat",
+                "common": "Arabia Saoudat"
+            },
             "ces": {
                 "official": "Sa\u00fadskoarabsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Sa\u00fadsk\u00e1 Ar\u00e1bie"
@@ -30163,6 +30939,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Soudan",
+                "common": "Soudan"
+            },
             "ces": {
                 "official": "S\u00fad\u00e1nsk\u00e1 republika",
                 "common": "S\u00fad\u00e1n"
@@ -30318,6 +31098,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Senegal",
+                "common": "Senegal"
+            },
             "ces": {
                 "official": "Senegalsk\u00e1 republika",
                 "common": "Senegal"
@@ -30489,6 +31273,10 @@
             "tam": "Tamil"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Singapour",
+                "common": "Singapour"
+            },
             "ces": {
                 "official": "Singapursk\u00e1 republika",
                 "common": "Singapur"
@@ -30631,6 +31419,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Georgia ar Su hag Inizi Sandwich ar Su",
+                "common": "Georgia ar Su hag Inizi Sandwich ar Su"
+            },
             "ces": {
                 "official": "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy ostrovy",
                 "common": "Ji\u017en\u00ed Georgie a Ji\u017en\u00ed Sandwichovy ostrovy"
@@ -30777,6 +31569,10 @@
             "nor": "Norwegian"
         },
         "translations": {
+            "bre": {
+                "official": "Svalbard ha Jan Mayen",
+                "common": "Svalbard ha Jan Mayen"
+            },
             "ces": {
                 "official": "\u0160picberky a Jan Mayen",
                 "common": "\u0160picberky a Jan Mayen"
@@ -30922,6 +31718,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Salomon",
+                "common": "Inizi Salomon"
+            },
             "ces": {
                 "official": "\u0160alamounovy ostrovy",
                 "common": "\u0160alamounovy ostrovy"
@@ -31068,6 +31868,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Sierra Leone",
+                "common": "Sierra Leone"
+            },
             "ces": {
                 "official": "Republika Sierra Leone",
                 "common": "Sierra Leone"
@@ -31218,6 +32022,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik El Salvador",
+                "common": "El Salvador"
+            },
             "ces": {
                 "official": "Salvadorsk\u00e1 republika",
                 "common": "Salvador"
@@ -31372,6 +32180,10 @@
             "ita": "Italian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik San Marino",
+                "common": "San Marino"
+            },
             "ces": {
                 "official": "Republika San Marino",
                 "common": "San Marino"
@@ -31528,6 +32340,10 @@
             "som": "Somali"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Kevreadel Somalia",
+                "common": "Somalia"
+            },
             "ces": {
                 "official": "Som\u00e1lsk\u00e1 demokratick\u00e1 republika",
                 "common": "Som\u00e1lsko"
@@ -31678,6 +32494,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Sant-Pêr-ha-Mikelon",
+                "common": "Sant-Pêr-ha-Mikelon"
+            },
             "ces": {
                 "official": "Saint-Pierre a Miquelon",
                 "common": "Saint-Pierre a Miquelon"
@@ -31828,6 +32648,10 @@
             "srp": "Serbian"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Serbia",
+                "common": "Serbia"
+            },
             "ces": {
                 "official": "Srbsk\u00e1 republika",
                 "common": "Srbsko"
@@ -31982,6 +32806,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Soudan ar Su",
+                "common": "Soudan ar Su"
+            },
             "ces": {
                 "official": "Jihos\u00fad\u00e1nsk\u00e1 republika",
                 "common": "Ji\u017en\u00ed S\u00fad\u00e1n"
@@ -32137,6 +32965,10 @@
             "por": "Portuguese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Demokratel S\u00e3o Tom\u00e9 ha Pr\u00edncipe",
+                "common": "S\u00e3o Tom\u00e9 ha Pr\u00edncipe"
+            },
             "ces": {
                 "official": "Demokratick\u00e1 republika Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv ostrov",
                 "common": "Svat\u00fd Tom\u00e1\u0161 a Princ\u016fv ostrov"
@@ -32286,6 +33118,10 @@
             "nld": "Dutch"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Surinam",
+                "common": "Surinam"
+            },
             "ces": {
                 "official": "Republika Surinam",
                 "common": "Surinam"
@@ -32437,6 +33273,10 @@
             "slk": "Slovak"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Slovak",
+                "common": "Slovakia"
+            },
             "ces": {
                 "official": "Slovensk\u00e1 republika",
                 "common": "Slovensko"
@@ -32590,6 +33430,10 @@
             "slv": "Slovene"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Slovenia",
+                "common": "Slovenia"
+            },
             "ces": {
                 "official": "Slovinsk\u00e1 republika",
                 "common": "Slovinsko"
@@ -32742,6 +33586,10 @@
             "swe": "Swedish"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Sveden",
+                "common": "Sveden"
+            },
             "ces": {
                 "official": "\u0160v\u00e9dsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "\u0160v\u00e9dsko"
@@ -32905,6 +33753,10 @@
             "ssw": "Swazi"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Eswatini",
+                "common": "Eswatini"
+            },
             "ces": {
                 "official": "Svazijsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Svazijsko"
@@ -33064,6 +33916,10 @@
             "nld": "Dutch"
         },
         "translations": {
+            "bre": {
+                "official": "Sint Maarten",
+                "common": "Sint Maarten"
+            },
             "ces": {
                 "official": "Svat\u00fd Martin",
                 "common": "Svat\u00fd Martin (Nizozemsko)"
@@ -33224,6 +34080,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Sechelez",
+                "common": "Sechelez"
+            },
             "ces": {
                 "official": "Seychelsk\u00e1 republika",
                 "common": "Seychely"
@@ -33372,6 +34232,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Arab Siriat",
+                "common": "Siria"
+            },
             "ces": {
                 "official": "Syrsk\u00e1 arabsk\u00e1 republika",
                 "common": "S\u00fdrie"
@@ -33523,6 +34387,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Turks ha Caicos",
+                "common": "Inizi Turks ha Caicos"
+            },
             "ces": {
                 "official": "Turks a Caicos",
                 "common": "Turks a Caicos"
@@ -33676,6 +34544,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Tchad",
+                "common": "Tchad"
+            },
             "ces": {
                 "official": "\u010cadsk\u00e1 republika",
                 "common": "\u010cad"
@@ -33835,6 +34707,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Togoat",
+                "common": "Togo"
+            },
             "ces": {
                 "official": "Republika Togo",
                 "common": "Togo"
@@ -33990,6 +34866,10 @@
             "tha": "Thai"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Thailand",
+                "common": "Thailand"
+            },
             "ces": {
                 "official": "Thajsk\u00e9 kr\u00e1lovstv\u00ed",
                 "common": "Thajsko"
@@ -34149,6 +35029,10 @@
             "tgk": "Tajik"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Tadjikistan",
+                "common": "Tadjikistan"
+            },
             "ces": {
                 "official": "Republika T\u00e1d\u017eikist\u00e1n",
                 "common": "T\u00e1d\u017eikist\u00e1n"
@@ -34309,6 +35193,10 @@
             "tkl": "Tokelauan"
         },
         "translations": {
+            "bre": {
+                "official": "Tokelau",
+                "common": "Tokelau"
+            },
             "ces": {
                 "official": "Tokelau",
                 "common": "Tokelau"
@@ -34459,6 +35347,10 @@
             "tuk": "Turkmen"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Turkmenistan",
+                "common": "Turkmenistan"
+            },
             "ces": {
                 "official": "Turkmenist\u00e1n",
                 "common": "Turkmenist\u00e1n"
@@ -34620,6 +35512,10 @@
             "tet": "Tetum"
         },
         "translations": {
+            "bre": {
+                "official": "Republik demakratel Timor ar Reter",
+                "common": "Timor ar Reter"
+            },
             "ces": {
                 "official": "Demokratick\u00e1 republika V\u00fdchodn\u00ed Timor",
                 "common": "V\u00fdchodn\u00ed Timor"
@@ -34772,6 +35668,10 @@
             "ton": "Tongan"
         },
         "translations": {
+            "bre": {
+                "official": "Rouantelezh Tonga",
+                "common": "Tonga"
+            },
             "ces": {
                 "official": "Kr\u00e1lovstv\u00ed Tonga",
                 "common": "Tonga"
@@ -34918,6 +35818,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Trinidad ha Tobago",
+                "common": "Trinidad ha Tobago"
+            },
             "ces": {
                 "official": "Republika Trinidad a Tobago",
                 "common": "Trinidad a Tobago"
@@ -35065,6 +35969,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Tunizian",
+                "common": "Tunizia"
+            },
             "ces": {
                 "official": "Tunisk\u00e1 republika",
                 "common": "Tunisko"
@@ -35216,6 +36124,10 @@
             "tur": "Turkish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Turkia",
+                "common": "Turkia"
+            },
             "ces": {
                 "official": "Tureck\u00e1 republika",
                 "common": "Turecko"
@@ -35379,6 +36291,10 @@
             "tvl": "Tuvaluan"
         },
         "translations": {
+            "bre": {
+                "official": "Tuvalu",
+                "common": "Tuvalu"
+            },
             "ces": {
                 "official": "Tuvalu",
                 "common": "Tuvalu"
@@ -35531,6 +36447,10 @@
             "zho": "Chinese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Sina (Taiwan)",
+                "common": "Taiwan"
+            },
             "ces": {
                 "official": "\u010c\u00ednsk\u00e1 republika",
                 "common": "Tchaj-wan"
@@ -35680,6 +36600,10 @@
             "swa": "Swahili"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Unanet Tanzania",
+                "common": "Tanzania"
+            },
             "ces": {
                 "official": "Sjednocen\u00e1 tanzansk\u00e1 republika",
                 "common": "Tanzanie"
@@ -35841,6 +36765,10 @@
             "swa": "Swahili"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Ouganda",
+                "common": "Ouganda"
+            },
             "ces": {
                 "official": "Ugandsk\u00e1 republika",
                 "common": "Uganda"
@@ -35994,6 +36922,10 @@
             "ukr": "Ukrainian"
         },
         "translations": {
+            "bre": {
+                "official": "Ukraina",
+                "common": "Ukraina"
+            },
             "ces": {
                 "official": "Ukrajina",
                 "common": "Ukrajina"
@@ -36147,6 +37079,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Minor A-bell Stado\u00f9-Unanet",
+                "common": "Inizi Minor A-bell Stado\u00f9-Unanet"
+            },
             "ces": {
                 "official": "Men\u0161\u00ed odlehl\u00e9 ostrovy Spojen\u00fdch st\u00e1t\u016f americk\u00fdch",
                 "common": "Men\u0161\u00ed odlehl\u00e9 ostrovy USA"
@@ -36294,6 +37230,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Reter Uruguay",
+                "common": "Uruguay"
+            },
             "ces": {
                 "official": "Uruguaysk\u00e1 v\u00fdchodn\u00ed republika",
                 "common": "Uruguay"
@@ -36823,6 +37763,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Stado\u00f9-Unanet Amerika",
+                "common": "Stado\u00f9-Unanet"
+            },
             "ces": {
                 "official": "Spojen\u00e9 st\u00e1ty americk\u00e9",
                 "common": "Spojen\u00e9 st\u00e1ty"
@@ -36979,6 +37923,10 @@
             "uzb": "Uzbek"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Ouzbekistan",
+                "common": "Ouzbekistan"
+            },
             "ces": {
                 "official": "Republika Uzbekist\u00e1n",
                 "common": "Uzbekist\u00e1n"
@@ -37139,6 +38087,10 @@
             "lat": "Latin"
         },
         "translations": {
+            "bre": {
+                "official": "Riez Keoded ar Vatikan",
+                "common": "Vatikan"
+            },
             "ces": {
                 "official": "M\u011bstsk\u00fd st\u00e1t Vatik\u00e1n",
                 "common": "Vatik\u00e1n"
@@ -37286,6 +38238,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Sant-Visant hag ar Grenadinez",
+                "common": "Sant-Visant hag ar Grenadinez"
+            },
             "ces": {
                 "official": "Svat\u00fd Vincenc a Grenadiny",
                 "common": "Svat\u00fd Vincenc a Grenadiny"
@@ -37434,6 +38390,10 @@
             "spa": "Spanish"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Volivarian Venezuela",
+                "common": "Venezuela"
+            },
             "ces": {
                 "official": "Bol\u00edvarsk\u00e1 republika Venezuela",
                 "common": "Venezuela"
@@ -37584,6 +38544,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Gwerc'h Breizhveurat",
+                "common": "Inizi Gwerc'h Breizhveurat"
+            },
             "ces": {
                 "official": "Britsk\u00e9 Panensk\u00e9 ostrovy",
                 "common": "Britsk\u00e9 Panensk\u00e9 ostrovy"
@@ -37730,6 +38694,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Inizi Gwerc'h ar Stado\u00f9-Unanet",
+                "common": "Inizi Gwerc'h ar Stado\u00f9-Unanet"
+            },
             "ces": {
                 "official": "Americk\u00e9 Panensk\u00e9 ostrovy",
                 "common": "Americk\u00e9 Panensk\u00e9 ostrovy"
@@ -37878,6 +38846,10 @@
             "vie": "Vietnamese"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Sokialour Vi\u00eat Nam",
+                "common": "Vi\u00eat Nam"
+            },
             "ces": {
                 "official": "Vietnamsk\u00e1 socialistick\u00e1 republika",
                 "common": "Vietnam"
@@ -38040,6 +39012,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Vanuatu",
+                "common": "Vanuatu"
+            },
             "ces": {
                 "official": "Republika Vanuatu",
                 "common": "Vanuatu"
@@ -38187,6 +39163,10 @@
             "fra": "French"
         },
         "translations": {
+            "bre": {
+                "official": "Tiriad Inizi Wallis ha Futuna",
+                "common": "Wallis ha Futuna"
+            },
             "ces": {
                 "official": "Teritorium ostrov\u016f Wallis a Futuna",
                 "common": "Wallis a Futuna"
@@ -38339,6 +39319,10 @@
             "smo": "Samoan"
         },
         "translations": {
+            "bre": {
+                "official": "Stad Dizalc'h Samoa",
+                "common": "Samoa"
+            },
             "ces": {
                 "official": "Nez\u00e1visl\u00fd st\u00e1t Samoa",
                 "common": "Samoa"
@@ -38486,6 +39470,10 @@
             "ara": "Arabic"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Yemen",
+                "common": "Yemen"
+            },
             "ces": {
                 "official": "Jemensk\u00e1 republika",
                 "common": "Jemen"
@@ -38689,6 +39677,10 @@
             "zul": "Zulu"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Suafrika",
+                "common": "Suafrika"
+            },
             "ces": {
                 "official": "Jihoafrick\u00e1 republika",
                 "common": "Jihoafrick\u00e1 republika"
@@ -38842,6 +39834,10 @@
             "eng": "English"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Zambia",
+                "common": "Zambia"
+            },
             "ces": {
                 "official": "Zambijsk\u00e1 republika",
                 "common": "Zambie"
@@ -39099,6 +40095,10 @@
             "zib": "Zimbabwean Sign Language"
         },
         "translations": {
+            "bre": {
+                "official": "Republik Zimbabwe",
+                "common": "Zimbabwe"
+            },
             "ces": {
                 "official": "Zimbabwsk\u00e1 republika",
                 "common": "Zimbabwe"
