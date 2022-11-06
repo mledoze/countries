@@ -129,6 +129,10 @@
                 "official": "Aruba",
                 "common": "Aruba"
             },
+            "tur": {
+				"official": "Aruba",
+				"common": "Aruba"
+			},
             "urd": {
                 "official": "\u0627\u0631\u0648\u0628\u0627",
                 "common": "\u0627\u0631\u0648\u0628\u0627"
@@ -293,6 +297,10 @@
                 "official": "Islamiska republiken Afghanistan",
                 "common": "Afghanistan"
             },
+            "tur": {
+				"official": "Afganistan \u0130slam Cumhuriyeti",
+				"common": "Afganistan"
+			},
             "urd": {
                 "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
                 "common": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
@@ -455,6 +463,10 @@
                 "official": "Republiken Angola",
                 "common": "Angola"
             },
+            "tur": {
+				"official": "Angola Cumhuriyeti",
+				"common": "Angola"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u06af\u0648\u0644\u06c1",
                 "common": "\u0627\u0646\u06af\u0648\u0644\u06c1"
@@ -613,6 +625,10 @@
                 "official": "Anguilla",
                 "common": "Anguilla"
             },
+            "tur": {
+				"official": "Anguilla",
+				"common": "Anguilla"
+			},
             "urd": {
                 "official": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627",
                 "common": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627"
@@ -769,6 +785,10 @@
                 "official": "\u00c5land",
                 "common": "\u00c5land"
             },
+            "tur": {
+				"official": "\u00c5land Adalar\u0131",
+				"common": "\u00c5land"
+			},
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0627\u0648\u0644\u0646\u062f",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0627\u0648\u0644\u0646\u062f"
@@ -925,6 +945,10 @@
                 "official": "Republiken Albanien",
                 "common": "Albanien"
             },
+            "tur": {
+				"official": "Arnavutluk Cumhuriyeti",
+				"common": "Arnavutluk"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u0628\u0627\u0646\u06cc\u0627",
                 "common": "\u0627\u0644\u0628\u0627\u0646\u06cc\u0627"
@@ -1085,6 +1109,10 @@
                 "official": "Furstend\u00f6met Andorra",
                 "common": "Andorra"
             },
+            "tur": {
+				"official": "Andorra Prensli\u011fi",
+				"common": "Andorra"
+			},
             "urd": {
                 "official": "\u0627\u0645\u0627\u0631\u0627\u062a\u0650 \u0627\u0646\u0688\u0648\u0631\u0627",
                 "common": "\u0627\u0646\u0688\u0648\u0631\u0627"
@@ -1244,6 +1272,10 @@
                 "official": "F\u00f6renade Arabemiraten",
                 "common": "F\u00f6renade Arabemiraten"
             },
+            "tur": {
+				"official": "Birle\u015fik Arap Emirlikleri",
+				"common": "Birle\u015fik Arap Emirlikleri"
+			},
             "urd": {
                 "official": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a",
                 "common": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a"
@@ -1407,6 +1439,10 @@
                 "official": "Republiken Argentina",
                 "common": "Argentina"
             },
+            "tur": {
+				"official": "Arjantin Cumhuriyeti",
+				"common": "Arjantin"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646",
                 "common": "\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
@@ -1569,6 +1605,10 @@
                 "official": "Republiken Armenien",
                 "common": "Armenien"
             },
+            "tur": {
+				"official": "Ermenistan Cumhuriyeti",
+				"common": "Ermenistan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0631\u0645\u06cc\u0646\u06cc\u0627",
                 "common": "\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627"
@@ -1735,6 +1775,10 @@
                 "official": "Amerikanska Samoa",
                 "common": "Amerikanska Samoa"
             },
+            "tur": {
+				"official": "Amerikan Samoas\u0131",
+				"common": "Amerikan Samoas\u0131"
+			},
             "urd": {
                 "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627",
                 "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627"
@@ -1872,6 +1916,10 @@
                 "official": "Antarktis",
                 "common": "Antarktis"
             },
+            "tur": {
+				"official": "Antarktika",
+				"common": "Antarktika"
+			},
             "urd": {
                 "official": "\u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06a9\u0627",
                 "common": "\u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06a9\u0627"
@@ -2026,6 +2074,10 @@
                 "official": "Franska syd- och Antarktisterritorierna",
                 "common": "Franska s\u00f6dra territorierna"
             },
+            "tur": {
+				"official": "Frans\u0131z G\u00fcney ve Antarktika Topraklar\u0131",
+				"common": "Frans\u0131z G\u00fcney ve Antarktika Topraklar\u0131"
+			},
             "urd": {
                 "official": "\u0633\u0631\u0632\u0645\u06cc\u0646\u0650 \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc\u06c1 \u0648 \u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06cc\u06a9\u06c1",
                 "common": "\u0633\u0631\u0632\u0645\u06cc\u0646 \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc\u06c1 \u0648 \u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06cc\u06a9\u0627"
@@ -2179,6 +2231,10 @@
                 "official": "Antigua och Barbuda",
                 "common": "Antigua och Barbuda"
             },
+            "tur": {
+				"official": "Antigua ve Barbuda",
+				"common": "Antigua ve Barbuda"
+			},
             "urd": {
                 "official": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627",
                 "common": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"
@@ -2332,6 +2388,10 @@
                 "official": "Australiska statsf\u00f6rbundet",
                 "common": "Australien"
             },
+            "tur": {
+				"official": "Avustralya Federal Devleti",
+				"common": "Avustralya"
+			},
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627",
                 "common": "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"
@@ -2487,6 +2547,10 @@
                 "official": "Republiken \u00d6sterrike",
                 "common": "\u00d6sterrike"
             },
+            "tur": {
+				"official": "Avusturya Cumhuriyeti",
+				"common": "Avusturya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0627",
                 "common": "\u0622\u0633\u0679\u0631\u06cc\u0627"
@@ -2656,6 +2720,10 @@
                 "official": "Republiken Azerbajdzjan",
                 "common": "Azerbajdzjan"
             },
+            "tur": {
+				"official": "Azerbaycan Cumhuriyeti",
+				"common": "Azerbaycan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646",
                 "common": "\u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646"
@@ -2823,6 +2891,10 @@
                 "official": "Republiken Burundi",
                 "common": "Burundi"
             },
+            "tur": {
+				"official": "Burundi Cumhuriyeti",
+				"common": "Burundi"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0631\u0648\u0646\u0688\u06cc",
                 "common": "\u0628\u0631\u0648\u0646\u0688\u06cc"
@@ -2998,6 +3070,10 @@
                 "official": "Konungariket Belgien",
                 "common": "Belgien"
             },
+            "tur": {
+				"official": "Bel\u00e7ika Krall\u0131\u011f\u0131",
+				"common": "Bel\u00e7ika"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u0644\u062c\u0626\u06cc\u0645",
                 "common": "\u0628\u0644\u062c\u0626\u06cc\u0645"
@@ -3158,6 +3234,10 @@
                 "official": "Republiken Benin",
                 "common": "Benin"
             },
+            "tur": {
+				"official": "Benin Cumhuriyeti",
+				"common": "Benin"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0646\u0646",
                 "common": "\u0628\u06cc\u0646\u0646"
@@ -3316,6 +3396,10 @@
                 "official": "Burkina Faso",
                 "common": "Burkina Faso"
             },
+            "tur": {
+				"official": "Burkina Faso",
+				"common": "Burkina Faso"
+			},
             "urd": {
                 "official": "\u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648",
                 "common": "\u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648"
@@ -3478,6 +3562,10 @@
                 "official": "Folkrepubliken Bangladesh",
                 "common": "Bangladesh"
             },
+            "tur": {
+				"official": "Banglade\u015f Halk Cumhuriyeti",
+				"common": "Banglade\u015f"
+			},
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634",
                 "common": "\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634"
@@ -3636,6 +3724,10 @@
                 "official": "Republiken Bulgarien",
                 "common": "Bulgarien"
             },
+            "tur": {
+				"official": "Bulgaristan Cumhuriyeti",
+				"common": "Bulgaristan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0644\u063a\u0627\u0631\u06cc\u06c1",
                 "common": "\u0628\u0644\u063a\u0627\u0631\u06cc\u06c1"
@@ -3797,6 +3889,10 @@
                 "official": "Konungariket Bahrain",
                 "common": "Bahrain"
             },
+            "tur": {
+				"official": "Bahreyn Krall\u0131\u011f\u0131",
+				"common": "Bahreyn"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u062d\u0631\u06cc\u0646",
                 "common": "\u0628\u062d\u0631\u06cc\u0646"
@@ -3955,6 +4051,10 @@
                 "official": "Samv\u00e4ldet Bahamas",
                 "common": "Bahamas"
             },
+            "tur": {
+				"official": "Bahama Milletler Toplulu\u011fu",
+				"common": "Bahamalar"
+			},
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0628\u06c1\u0627\u0645\u0627\u0633",
                 "common": "\u0628\u06c1\u0627\u0645\u0627\u0633"
@@ -4120,6 +4220,10 @@
                 "official": "Bosnien och Hercegovina",
                 "common": "Bosnien och Hercegovina"
             },
+            "tur": {
+				"official": "Bosna ve Hersek",
+				"common": "Bosna-Hersek"
+			},
             "urd": {
                 "official": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627",
                 "common": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627"
@@ -4280,6 +4384,10 @@
                 "official": "Saint-Barth\u00e9lemy",
                 "common": "Saint-Barth\u00e9lemy"
             },
+            "tur": {
+				"official": "Saint Barthélemy",
+				"common": "Saint Barthélemy"
+			},
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2",
                 "common": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2"
@@ -4440,6 +4548,10 @@
                 "official": "Sankta Helena",
                 "common": "Sankta Helena"
             },
+            "tur": {
+				"official": "Saint Helena",
+				"common": "Saint Helena"
+			},
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u06c1\u0644\u06cc\u0646\u0627\u060c \u0627\u0633\u06cc\u0646\u0634\u0646 \u0648 \u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627",
                 "common": "\u0633\u06cc\u0646\u0679 \u06c1\u0644\u06cc\u0646\u0627\u060c \u0627\u0633\u06cc\u0646\u0634\u0646 \u0648 \u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627"
@@ -4602,6 +4714,10 @@
                 "official": "Republiken Vitryssland",
                 "common": "Belarus"
             },
+            "tur": {
+				"official": "Belarus Cumhuriyeti",
+				"common": "Belarus"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0644\u0627\u0631\u0648\u0633",
                 "common": "\u0628\u06cc\u0644\u0627\u0631\u0648\u0633"
@@ -4771,6 +4887,10 @@
                 "official": "Belize",
                 "common": "Belize"
             },
+            "tur": {
+				"official": "Belize",
+				"common": "Belize"
+			},
             "urd": {
                 "official": "\u0628\u06cc\u0644\u06cc\u0632",
                 "common": "\u0628\u06cc\u0644\u06cc\u0632"
@@ -4930,6 +5050,10 @@
                 "official": "Bermuda",
                 "common": "Bermuda"
             },
+            "tur": {
+				"official": "Bermuda",
+				"common": "Bermuda"
+			},
             "urd": {
                 "official": "\u0628\u0631\u0645\u0648\u062f\u0627",
                 "common": "\u0628\u0631\u0645\u0648\u062f\u0627"
@@ -5106,6 +5230,10 @@
                 "official": "M\u00e5ngnationella staten Bolivia",
                 "common": "Bolivia"
             },
+            "tur": {
+				"official": "Bolivya \u00e7okuluslu Devleti",
+				"common": "Bolivya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0644\u06cc\u0648\u06cc\u0627",
                 "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc\u0627"
@@ -5274,6 +5402,10 @@
                 "official": "Bonaire, Sint Eustatius and Saba",
                 "common": "Karibiska Nederl\u00e4nderna"
             },
+            "tur": {
+				"official": "Karayip Hollandas\u0131",
+				"common": "Karayip Hollandas\u0131"
+			},
             "urd": {
                 "official": "\u0628\u0648\u0646\u0627\u06cc\u0631\u060c \u0633\u06cc\u0646\u0679 \u0627\u06cc\u0648\u0633\u0679\u0627\u0626\u06cc\u0633 \u0627\u0648\u0631 \u0633\u0627\u0628\u0627",
                 "common": "\u06a9\u06cc\u0631\u06cc\u0628\u06cc\u0646 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"
@@ -5430,6 +5562,10 @@
                 "official": "F\u00f6rbundsrepubliken Brasilien",
                 "common": "Brasilien"
             },
+            "tur": {
+				"official": "Brezilya Federal Cumhuriyeti",
+				"common": "Brezilya"
+			},
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0631\u0627\u0632\u06cc\u0644",
                 "common": "\u0628\u0631\u0627\u0632\u06cc\u0644"
@@ -5594,6 +5730,10 @@
                 "official": "Barbados",
                 "common": "Barbados"
             },
+            "tur": {
+				"official": "Barbados",
+				"common": "Barbados"
+			},
             "urd": {
                 "official": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633",
                 "common": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
@@ -5754,6 +5894,10 @@
                 "official": "Brunei Darussalam",
                 "common": "Brunei"
             },
+            "tur": {
+				"official": "Brunei Bar\u0131\u015f \u00fclkesi Devleti",
+				"common": "Brunei"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0628\u0631\u0648\u0646\u0627\u0626\u06cc \u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645",
                 "common": "\u0628\u0631\u0648\u0646\u0627\u0626\u06cc"
@@ -5914,6 +6058,10 @@
                 "official": "Konungariket Bhutan",
                 "common": "Bhutan"
             },
+            "tur": {
+				"official": "Butan Krall\u0131\u011f\u0131",
+				"common": "Butan"
+			},
             "urd": {
                 "official": "\u0633\u0644\u0637\u0646\u062a \u0628\u06be\u0648\u0679\u0627\u0646",
                 "common": "\u0628\u06be\u0648\u0679\u0627\u0646"
@@ -6065,6 +6213,10 @@
                 "official": "Bouvet\u00f6n",
                 "common": "Bouvet\u00f6n"
             },
+            "tur": {
+				"official": "Bouvet Adas\u0131",
+				"common": "Bouvet Adas\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1"
@@ -6225,6 +6377,10 @@
                 "official": "Republiken Botswana",
                 "common": "Botswana"
             },
+            "tur": {
+				"official": "Botsvana Cumhuriyeti",
+				"common": "Botsvana"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0679\u0633\u0648\u0627\u0646\u0627",
                 "common": "\u0628\u0648\u0679\u0633\u0648\u0627\u0646\u0627"
@@ -6390,6 +6546,10 @@
                 "official": "Centralafrikanska republiken",
                 "common": "Centralafrikanska republiken"
             },
+            "tur": {
+				"official": "Orta Afrika Cumhuriyeti",
+				"common": "Orta Afrika Cumhuriyeti"
+			},
             "urd": {
                 "official": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
                 "common": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
@@ -6620,6 +6780,10 @@
                 "official": "Kanada",
                 "common": "Kanada"
             },
+            "tur": {
+				"official": "Kanada",
+				"common": "Kanada"
+			},
             "urd": {
                 "official": "\u06a9\u06cc\u0646\u06cc\u0688\u0627",
                 "common": "\u06a9\u06cc\u0646\u06cc\u0688\u0627"
@@ -6777,6 +6941,10 @@
                 "official": "Kokos\u00f6arna",
                 "common": "Kokos\u00f6arna"
             },
+            "tur": {
+				"official": "Cocos (Keeling) Adalar\u0131",
+				"common": "Cocos (Keeling) Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 (\u06a9\u06cc\u0644\u0646\u06af) \u06a9\u0648\u06a9\u0648\u0633",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u0648\u06a9\u0648\u0633"
@@ -6950,6 +7118,10 @@
                 "official": "Schweiziska edsf\u00f6rbundet",
                 "common": "Schweiz"
             },
+            "tur": {
+				"official": "\u0130svi\u00e7re Konfederasyonu",
+				"common": "\u0130svi\u00e7re"
+			},
             "urd": {
                 "official": "\u0633\u0648\u0626\u06cc\u0633  \u0645\u062a\u062d\u062f\u06c1",
                 "common": "\u0633\u0648\u06cc\u0679\u0630\u0631\u0644\u06cc\u0646\u0688"
@@ -7111,6 +7283,10 @@
                 "official": "Republiken Chile",
                 "common": "Chile"
             },
+            "tur": {
+				"official": "\u015fili Cumhuriyeti",
+				"common": "\u015fili"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0644\u06cc",
                 "common": "\u0686\u0644\u06cc"
@@ -7278,6 +7454,10 @@
                 "official": "Folkrepubliken Kina",
                 "common": "Kina"
             },
+            "tur": {
+				"official": "\u00e7in Halk Cumhuriyeti",
+				"common": "\u00e7in"
+			},
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646",
                 "common": "\u0686\u06cc\u0646"
@@ -7452,6 +7632,10 @@
                 "official": "Republiken Elfenbenskusten",
                 "common": "Elfenbenskusten"
             },
+            "tur": {
+				"official": "Fildi\u015fi Sahili",
+				"common": "Fildi\u015fi Sahili"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u062a \u062f\u06cc\u0648\u0627\u063a",
                 "common": "\u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"
@@ -7618,6 +7802,10 @@
                 "official": "Republiken Kamerun",
                 "common": "Kamerun"
             },
+            "tur": {
+				"official": "Kamerun Cumhuriyeti",
+				"common": "Kamerun"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0645\u0631\u0648\u0646",
                 "common": "\u06a9\u06cc\u0645\u0631\u0648\u0646"
@@ -7802,6 +7990,10 @@
                 "official": "Demokratiska republiken Kongo",
                 "common": "Kongo-Kinshasa"
             },
+            "tur": {
+				"official": "Kongo Demokratik Cumhuriyeti",
+				"common": "Kongo Demokratik Cumhuriyeti"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648",
                 "common": "\u06a9\u0627\u0646\u06af\u0648"
@@ -7977,6 +8169,10 @@
                 "official": "Republiken Kongo",
                 "common": "Kongo-Brazzaville"
             },
+            "tur": {
+				"official": "Kongo Cumhuriyeti",
+				"common": "Kongo Cumhuriyeti"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648",
                 "common": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648"
@@ -8146,6 +8342,10 @@
                 "official": "Cook\u00f6arna",
                 "common": "Cook\u00f6arna"
             },
+            "tur": {
+				"official": "Cook Adalar\u0131",
+				"common": "Cook Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9"
@@ -8301,6 +8501,10 @@
                 "official": "Republiken Colombia",
                 "common": "Colombia"
             },
+            "tur": {
+				"official": "Kolombiya Cumhuriyeti",
+				"common": "Kolombiya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627",
                 "common": "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
@@ -8474,6 +8678,10 @@
                 "official": "Unionen Komorerna",
                 "common": "Komorerna"
             },
+            "tur": {
+				"official": "Komorlar Birli\u011fi",
+				"common": "Komorlar"
+			},
             "urd": {
                 "official": "\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0642\u0645\u0631\u06cc",
                 "common": "\u0627\u0644\u0642\u0645\u0631\u06cc"
@@ -8629,6 +8837,10 @@
                 "official": "Republiken Kap Verde",
                 "common": "Kap Verde"
             },
+            "tur": {
+				"official": "Ye\u015fil Burun Cumhuriyeti",
+				"common": "Ye\u015fil Burun"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc",
                 "common": "\u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc"
@@ -8784,6 +8996,10 @@
                 "official": "Republiken Costa Rica",
                 "common": "Costa Rica"
             },
+            "tur": {
+				"official": "Kosta Rika Cumhuriyeti",
+				"common": "Kosta Rika"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627",
                 "common": "\u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627"
@@ -8946,6 +9162,10 @@
                 "official": "Republiken Kuba",
                 "common": "Kuba"
             },
+            "tur": {
+				"official": "K\u00fcba Cumhuriyeti",
+				"common": "K\u00fcba"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0648\u0628\u0627",
                 "common": "\u06a9\u06cc\u0648\u0628\u0627"
@@ -9114,6 +9334,10 @@
                 "official": "Cura\u00e7ao",
                 "common": "Cura\u00e7ao"
             },
+            "tur": {
+				"official": "Cura\u00e7ao",
+				"common": "Cura\u00e7ao"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624",
                 "common": "\u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624"
@@ -9268,6 +9492,10 @@
                 "official": "Jul\u00f6n",
                 "common": "Jul\u00f6n"
             },
+            "tur": {
+				"official": "Christmas Adas\u0131",
+				"common": "Christmas Adas\u0131"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633"
@@ -9421,6 +9649,10 @@
                 "official": "Cayman\u00f6arna",
                 "common": "Cayman\u00f6arna"
             },
+            "tur": {
+				"official": "Cayman Adalar\u0131",
+				"common": "Cayman Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646"
@@ -9584,6 +9816,10 @@
                 "official": "Republiken Cypern",
                 "common": "Cypern"
             },
+            "tur": {
+				"official": "K\u0131br\u0131s Cumhuriyeti",
+				"common": "K\u0131br\u0131s"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0628\u0631\u0635",
                 "common": "\u0642\u0628\u0631\u0635"
@@ -9744,6 +9980,10 @@
                 "official": "Republiken Tjeckien",
                 "common": "Tjeckien"
             },
+            "tur": {
+				"official": "\u00e7ek Cumhuriyeti",
+				"common": "\u00e7ekya"
+			},
             "urd": {
                 "official": "\u0686\u064a\u06a9 \u062c\u0645\u06c1\u0648\u0631\u064a\u06c1",
                 "common": "\u0686\u064a\u06a9"
@@ -9904,6 +10144,10 @@
                 "official": "F\u00f6rbundsrepubliken Tyskland",
                 "common": "Tyskland"
             },
+            "tur": {
+				"official": "Almanya Federal Cumhuriyeti",
+				"common": "Almanya"
+			},
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0631\u0645\u0646\u06cc",
                 "common": "\u062c\u0631\u0645\u0646\u06cc"
@@ -10078,6 +10322,10 @@
                 "official": "Republiken Djibouti",
                 "common": "Djibouti"
             },
+            "tur": {
+				"official": "Cibuti Cumhuriyeti",
+				"common": "Cibuti"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0628\u0648\u062a\u06cc",
                 "common": "\u062c\u0628\u0648\u062a\u06cc"
@@ -10238,6 +10486,10 @@
                 "official": "Samv\u00e4ldet Dominica",
                 "common": "Dominica"
             },
+            "tur": {
+				"official": "Dominika Toplulu\u011fu",
+				"common": "Dominika"
+			},
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
                 "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
@@ -10394,6 +10646,10 @@
                 "official": "Konungariket Danmark",
                 "common": "Danmark"
             },
+            "tur": {
+				"official": "Danimarka Krall\u0131\u011f\u0131",
+				"common": "Danimarka"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0688\u0646\u0645\u0627\u0631\u06a9",
                 "common": "\u0688\u0646\u0645\u0627\u0631\u06a9"
@@ -10551,6 +10807,10 @@
                 "official": "Dominikanska republiken",
                 "common": "Dominikanska republiken"
             },
+            "tur": {
+				"official": "Dominik Cumhuriyeti",
+				"common": "Dominik Cumhuriyeti"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646",
                 "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
@@ -10709,6 +10969,10 @@
                 "official": "Demokratiska folkrepubliken Algeriet",
                 "common": "Algeriet"
             },
+            "tur": {
+				"official": "Cezayir Demokratik Halk Cumhuriyeti",
+				"common": "Cezayir"
+			},
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
                 "common": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"
@@ -10872,6 +11136,10 @@
                 "official": "Republiken Ecuador",
                 "common": "Ecuador"
             },
+            "tur": {
+				"official": "Ekvador Cumhuriyeti",
+				"common": "Ekvador"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u06a9\u0648\u0688\u0648\u0631",
                 "common": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"
@@ -11030,6 +11298,10 @@
                 "official": "Arabrepubliken Egypten",
                 "common": "Egypten"
             },
+            "tur": {
+				"official": "M\u0131s\u0131r Arap Cumhuriyeti",
+				"common": "M\u0131s\u0131r"
+			},
             "urd": {
                 "official": "\u0645\u0635\u0631\u06cc \u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
                 "common": "\u0645\u0635\u0631"
@@ -11203,6 +11475,10 @@
                 "official": "Staten Eritrea",
                 "common": "Eritrea"
             },
+            "tur": {
+				"official": "Eritre Devleti",
+				"common": "Eritre"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0631\u062a\u0631\u06cc\u0627",
                 "common": "\u0627\u0631\u062a\u0631\u06cc\u0627"
@@ -11380,6 +11656,10 @@
                 "official": "V\u00e4stsahara",
                 "common": "V\u00e4stsahara"
             },
+            "tur": {
+				"official": "Sahra Demokratik Arap Cumhuriyeti",
+				"common": "Sahra Demokratik Arap Cumhuriyeti"
+			},
             "urd": {
                 "official": "\u0635\u062d\u0631\u0627\u0648\u06cc \u0639\u0631\u0628 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
                 "common": "\u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"
@@ -11539,6 +11819,10 @@
                 "official": "Konungariket Spanien",
                 "common": "Spanien"
             },
+            "tur": {
+				"official": "\u0130spanya Krall\u0131\u011f\u0131",
+				"common": "\u0130spanya"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1",
                 "common": "\u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1"
@@ -11701,6 +11985,10 @@
                 "official": "Republiken Estland",
                 "common": "Estland"
             },
+            "tur": {
+				"official": "Estonya Cumhuriyeti",
+				"common": "Estonya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u0679\u0648\u0646\u06cc\u0627",
                 "common": "\u0627\u0633\u0679\u0648\u0646\u06cc\u0627"
@@ -11860,6 +12148,10 @@
                 "official": "Demokratiska f\u00f6rbundsrepubliken Etiopien",
                 "common": "Etiopien"
             },
+            "tur": {
+				"official": "Etiyopya Federal Demokratik Cumhuriyeti",
+				"common": "Etiyopya"
+			},
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627",
                 "common": "\u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627"
@@ -12029,6 +12321,10 @@
                 "official": "Republiken Finland",
                 "common": "Finland"
             },
+            "tur": {
+				"official": "Finlandiya Cumhuriyeti",
+				"common": "Finlandiya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0646 \u0644\u06cc\u0646\u0688",
                 "common": "\u0641\u0646 \u0644\u06cc\u0646\u0688"
@@ -12200,6 +12496,10 @@
                 "official": "Republiken Fiji",
                 "common": "Fiji"
             },
+            "tur": {
+				"official": "Fiji Cumhuriyeti",
+				"common": "Fiji"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u062c\u06cc",
                 "common": "\u0641\u062c\u06cc"
@@ -12355,6 +12655,10 @@
                 "official": "Falklands\u00f6arna",
                 "common": "Falklands\u00f6arna"
             },
+            "tur": {
+				"official": "Falkland (Malvina) Adalar\u0131",
+				"common": "Falkland (Malvina) Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688"
@@ -12510,6 +12814,10 @@
                 "official": "Republiken Frankrike",
                 "common": "Frankrike"
             },
+            "tur": {
+				"official": "Fransa Cumhuriyeti",
+				"common": "Fransa"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0631\u0627\u0646\u0633",
                 "common": "\u0641\u0631\u0627\u0646\u0633"
@@ -12683,6 +12991,10 @@
                 "official": "F\u00e4r\u00f6arna",
                 "common": "F\u00e4r\u00f6arna"
             },
+            "tur": {
+				"official": "Faroe Adalar\u0131",
+				"common": "Faroe Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648"
@@ -12833,6 +13145,10 @@
                 "official": "Mikronesiska federationen",
                 "common": "Mikronesiska federationen"
             },
+            "tur": {
+				"official": "Mikronezya Federal Devletleri",
+				"common": "Mikronezya"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0648\u0641\u0627\u0642\u06cc\u06c1 \u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627",
                 "common": "\u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627"
@@ -12988,6 +13304,10 @@
                 "official": "Republiken Gabon",
                 "common": "Gabon"
             },
+            "tur": {
+				"official": "Gabon Cumhuriyeti",
+				"common": "Gabon"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0628\u0648\u0646",
                 "common": "\u06af\u06cc\u0628\u0648\u0646"
@@ -13147,6 +13467,10 @@
                 "official": "F\u00f6renade konungariket Storbritannien och Nordirland",
                 "common": "Storbritannien"
             },
+            "tur": {
+				"official": "B\u00fcy\u00fck Britanya ve Kuzey \u0130rlanda Birle\u015fik Krall\u0131\u011f\u0131",
+				"common": "Birle\u015fik Krall\u0131k"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1 \u0628\u0631\u0637\u0627\u0646\u06cc\u06c1 \u0639\u0638\u0645\u06cc \u0648 \u0634\u0645\u0627\u0644\u06cc \u0622\u0626\u0631\u0644\u06cc\u0646\u0688",
                 "common": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1"
@@ -13303,6 +13627,10 @@
                 "official": "Georgien",
                 "common": "Georgien"
             },
+            "tur": {
+				"official": "G\u00fcrcistan",
+				"common": "G\u00fcrcistan"
+			},
             "urd": {
                 "official": "\u062c\u0627\u0631\u062c\u06cc\u0627",
                 "common": "\u062c\u0627\u0631\u062c\u06cc\u0627"
@@ -13477,6 +13805,10 @@
                 "official": "Guernsey",
                 "common": "Guernsey"
             },
+            "tur": {
+				"official": "Guernsey Muhaf\u0131zl\u0131\u011f\u0131",
+				"common": "Guernsey"
+			},
             "urd": {
                 "official": "\u06af\u0631\u0646\u0632\u06cc \u0631\u0648\u062f\u0628\u0627\u0631",
                 "common": "\u06af\u0631\u0646\u0632\u06cc"
@@ -13630,6 +13962,10 @@
                 "official": "Republiken Ghana",
                 "common": "Ghana"
             },
+            "tur": {
+				"official": "Gana Cumhuriyeti",
+				"common": "Gana"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06be\u0627\u0646\u0627",
                 "common": "\u06af\u06be\u0627\u0646\u0627"
@@ -13787,6 +14123,10 @@
                 "official": "Gibraltar",
                 "common": "Gibraltar"
             },
+            "tur": {
+				"official": "Cebelitar\u0131k",
+				"common": "Cebelitar\u0131k"
+			},
             "urd": {
                 "official": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642",
                 "common": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642"
@@ -13944,6 +14284,10 @@
                 "official": "Republiken Guinea",
                 "common": "Guinea"
             },
+            "tur": {
+				"official": "Gine Cumhuriyeti",
+				"common": "Gine"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc",
                 "common": "\u06af\u0646\u06cc"
@@ -14105,6 +14449,10 @@
                 "official": "Guadeloupe",
                 "common": "Guadeloupe"
             },
+            "tur": {
+				"official": "Guadeloupe",
+				"common": "Guadeloupe"
+			},
             "urd": {
                 "official": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e",
                 "common": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e"
@@ -14259,6 +14607,10 @@
                 "official": "Republiken Gambia",
                 "common": "Gambia"
             },
+            "tur": {
+				"official": "Gambiya Cumhuriyeti",
+				"common": "Gambiya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0645\u0628\u06cc\u0627",
                 "common": "\u06af\u06cc\u0645\u0628\u06cc\u0627"
@@ -14421,6 +14773,10 @@
                 "official": "Republiken Guinea-Bissau",
                 "common": "Guinea-Bissau"
             },
+            "tur": {
+				"official": "Gine-Bissau Cumhuriyeti",
+				"common": "Gine-Bissau"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc \u0628\u0633\u0627\u0624",
                 "common": "\u06af\u0646\u06cc \u0628\u0633\u0627\u0624"
@@ -14591,6 +14947,10 @@
                 "official": "Republiken Ekvatorialguinea",
                 "common": "Ekvatorialguinea"
             },
+            "tur": {
+				"official": "Ekvator Ginesi Cumhuriyeti",
+				"common": "Ekvator Ginesi"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc",
                 "common": "\u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc"
@@ -14750,6 +15110,10 @@
                 "official": "Republiken Grekland",
                 "common": "Grekland"
             },
+            "tur": {
+				"official": "Helen Cumhuriyeti",
+				"common": "Yunanistan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0644\u06cc\u0646\u06cc\u06c1",
                 "common": "\u06cc\u0648\u0646\u0627\u0646"
@@ -14908,6 +15272,10 @@
                 "official": "Grenada",
                 "common": "Grenada"
             },
+            "tur": {
+				"official": "Grenada",
+				"common": "Grenada"
+			},
             "urd": {
                 "official": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627",
                 "common": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627"
@@ -15062,6 +15430,10 @@
                 "official": "Gr\u00f6nland",
                 "common": "Gr\u00f6nland"
             },
+            "tur": {
+				"official": "Gr\u00f6nland",
+				"common": "Gr\u00f6nland"
+			},
             "urd": {
                 "official": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688",
                 "common": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688"
@@ -15215,6 +15587,10 @@
                 "official": "Republiken Guatemala",
                 "common": "Guatemala"
             },
+            "tur": {
+				"official": "Guatemala Cumhuriyeti",
+				"common": "Guatemala"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627",
                 "common": "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
@@ -15375,6 +15751,10 @@
                 "official": "Franska Guyana",
                 "common": "Franska Guyana"
             },
+            "tur": {
+				"official": "Frans\u0131z Guyanas\u0131",
+				"common": "Frans\u0131z Guyanas\u0131"
+			},
             "urd": {
                 "official": "\u06af\u06cc\u0627\u0646\u0627",
                 "common": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u06af\u06cc\u0627\u0646\u0627"
@@ -15542,6 +15922,10 @@
                 "official": "Guam",
                 "common": "Guam"
             },
+            "tur": {
+				"official": "Guam Topra\u011f\u0131",
+				"common": "Guam"
+			},
             "urd": {
                 "official": "\u06af\u0648\u0627\u0645",
                 "common": "\u06af\u0648\u0627\u0645"
@@ -15696,6 +16080,10 @@
                 "official": "Kooperativa republiken Guyana",
                 "common": "Guyana"
             },
+            "tur": {
+				"official": "Guyana Kooperatif Cumhuriyeti",
+				"common": "Guyana"
+			},
             "urd": {
                 "official": "\u062a\u0639\u0627\u0648\u0646\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0627\u0646\u0627",
                 "common": "\u06af\u06cc\u0627\u0646\u0627"
@@ -15859,6 +16247,10 @@
                 "official": "Hongkong",
                 "common": "Hongkong"
             },
+            "tur": {
+				"official": "\u00e7in Halk Cumhuriyeti Hong Kong \u00f6zel \u0130dari B\u00f6lgesi",
+				"common": "Hong Kong"
+			},
             "urd": {
                 "official": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1",
                 "common": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"
@@ -16007,6 +16399,10 @@
                 "official": "Heard- och McDonald\u00f6arna",
                 "common": "Heard- och McDonald\u00f6arna"
             },
+            "tur": {
+				"official": "Heard Adas\u0131 ve McDonald Adalar\u0131",
+				"common": "Heard Adas\u0131 ve McDonald Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688"
@@ -16162,6 +16558,10 @@
                 "official": "Republiken Honduras",
                 "common": "Honduras"
             },
+            "tur": {
+				"official": "Honduras Cumhuriyeti",
+				"common": "Honduras"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633",
                 "common": "\u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633"
@@ -16322,6 +16722,10 @@
                 "official": "Republiken Kroatien",
                 "common": "Kroatien"
             },
+            "tur": {
+				"official": "H\u0131rvatistan Cumhuriyeti",
+				"common": "H\u0131rvatistan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627",
                 "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"
@@ -16489,6 +16893,10 @@
                 "official": "Republiken Haiti",
                 "common": "Haiti"
             },
+            "tur": {
+				"official": "Haiti Cumhuriyeti",
+				"common": "Haiti"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0679\u06cc",
                 "common": "\u06c1\u06cc\u0679\u06cc"
@@ -16644,6 +17052,10 @@
                 "official": "Ungern",
                 "common": "Ungern"
             },
+            "tur": {
+				"official": "Macaristan",
+				"common": "Macaristan"
+			},
             "urd": {
                 "official": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
                 "common": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
@@ -16807,6 +17219,10 @@
                 "official": "Republiken Indonesien",
                 "common": "Indonesien"
             },
+            "tur": {
+				"official": "Endonezya Cumhuriyeti",
+				"common": "Endonezya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627",
                 "common": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627"
@@ -16976,6 +17392,10 @@
                 "official": "Isle of Man",
                 "common": "Isle of Man"
             },
+            "tur": {
+				"official": "Man Adas\u0131",
+				"common": "Man Adas\u0131"
+			},
             "urd": {
                 "official": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646",
                 "common": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646"
@@ -17143,6 +17563,10 @@
                 "official": "Republiken Indien",
                 "common": "Indien"
             },
+            "tur": {
+				"official": "Hindistan Cumhuriyeti",
+				"common": "Hindistan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06be\u0627\u0631\u062a",
                 "common": "\u0628\u06be\u0627\u0631\u062a"
@@ -17303,6 +17727,10 @@
                 "official": "Brittiska territoriet i Indiska Oceanen",
                 "common": "Brittiska territoriet i Indiska Oceanen"
             },
+            "tur": {
+				"official": "Britanya Hint Okyanusu Topraklar\u0131",
+				"common": "Britanya Hint Okyanusu Topraklar\u0131"
+			},
             "urd": {
                 "official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1",
                 "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1"
@@ -17464,6 +17892,10 @@
                 "official": "Irland",
                 "common": "Irland"
             },
+            "tur": {
+				"official": "\u0130rlanda Cumhuriyeti",
+				"common": "\u0130rlanda"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688"
@@ -17623,6 +18055,10 @@
                 "official": "Islamiska republiken Iran",
                 "common": "Iran"
             },
+            "tur": {
+				"official": "\u0130ran \u0130slam Cumhuriyeti",
+				"common": "\u0130ran"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0631\u0627\u0646",
                 "common": "\u0627\u06cc\u0631\u0627\u0646"
@@ -17796,6 +18232,10 @@
                 "official": "Republiken Irak",
                 "common": "Irak"
             },
+            "tur": {
+				"official": "Irak Cumhuriyeti",
+				"common": "Irak"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0639\u0631\u0627\u0642",
                 "common": "\u0639\u0631\u0627\u0642"
@@ -17959,6 +18399,10 @@
                 "official": "Island",
                 "common": "Island"
             },
+            "tur": {
+				"official": "\u0130zlanda",
+				"common": "\u0130zlanda"
+			},
             "urd": {
                 "official": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688",
                 "common": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688"
@@ -18119,6 +18563,10 @@
                 "official": "Staten Israel",
                 "common": "Israel"
             },
+            "tur": {
+				"official": "\u0130srail Devleti",
+				"common": "\u0130srail"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644",
                 "common": "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
@@ -18280,6 +18728,10 @@
                 "official": "Republiken Italien",
                 "common": "Italien"
             },
+            "tur": {
+				"official": "\u0130talyan Cumhuriyeti",
+				"common": "\u0130talya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0637\u0627\u0644\u06cc\u06c1",
                 "common": "\u0627\u0637\u0627\u0644\u06cc\u06c1"
@@ -18445,6 +18897,10 @@
                 "official": "Jamaica",
                 "common": "Jamaica"
             },
+            "tur": {
+				"official": "Jamaika",
+				"common": "Jamaika"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06cc\u06a9\u0627",
                 "common": "\u062c\u0645\u06cc\u06a9\u0627"
@@ -18615,6 +19071,10 @@
                 "official": "Jersey",
                 "common": "Jersey"
             },
+            "tur": {
+				"official": "Jersey",
+				"common": "Jersey"
+			},
             "urd": {
                 "official": "\u062c\u0631\u0632\u06cc",
                 "common": "\u062c\u0631\u0632\u06cc"
@@ -18771,6 +19231,10 @@
                 "official": "Hashimitiska kungad\u00f6met Jordanien",
                 "common": "Jordanien"
             },
+            "tur": {
+				"official": "\u00fcrd\u00fcn Hâ\u015fimi Krall\u0131\u011f\u0131",
+				"common": "\u00fcrd\u00fcn"
+			},
             "urd": {
                 "official": "\u06be\u0627\u0634\u0645\u06cc \u0645\u0645\u0644\u06a9\u062a\u0650 \u0627\u0631\u062f\u0646",
                 "common": "\u0627\u0631\u062f\u0646"
@@ -18933,6 +19397,10 @@
                 "official": "Japan",
                 "common": "Japan"
             },
+            "tur": {
+				"official": "Japonya",
+				"common": "Japonya"
+			},
             "urd": {
                 "official": "\u062c\u0627\u067e\u0627\u0646",
                 "common": "\u062c\u0627\u067e\u0627\u0646"
@@ -19100,6 +19568,10 @@
                 "official": "Republiken Kazakstan",
                 "common": "Kazakstan"
             },
+            "tur": {
+				"official": "Kazakistan Cumhuriyeti",
+				"common": "Kazakistan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646",
                 "common": "\u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646"
@@ -19266,6 +19738,10 @@
                 "official": "Republiken Kenya",
                 "common": "Kenya"
             },
+            "tur": {
+				"official": "Kenya Cumhuriyeti",
+				"common": "Kenya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0646\u06cc\u0627",
                 "common": "\u06a9\u06cc\u0646\u06cc\u0627"
@@ -19434,6 +19910,10 @@
                 "official": "Republiken Kirgizistan",
                 "common": "Kirgizistan"
             },
+            "tur": {
+				"official": "K\u0131rg\u0131zistan Cumhuriyeti",
+				"common": "K\u0131rg\u0131zistan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646",
                 "common": "\u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"
@@ -19597,6 +20077,10 @@
                 "official": "Konungariket Kambodja",
                 "common": "Kambodja"
             },
+            "tur": {
+				"official": "Kambo\u00e7ya Krall\u0131\u011f\u0131",
+				"common": "Kambo\u00e7ya"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u0645\u0628\u0648\u0688\u06cc\u0627",
                 "common": "\u06a9\u0645\u0628\u0648\u0688\u06cc\u0627"
@@ -19765,6 +20249,10 @@
                 "official": "Republiken Kiribati",
                 "common": "Kiribati"
             },
+            "tur": {
+				"official": "Kiribati Cumhuriyeti",
+				"common": "Kiribati"
+			},
             "urd": {
                 "official": "\u0633\u0644\u0637\u0646\u062a \u0622\u0632\u0627\u062f \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc",
                 "common": "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"
@@ -19919,6 +20407,10 @@
                 "official": "Federationen Saint Kitts och Nevis",
                 "common": "Saint Kitts och Nevis"
             },
+            "tur": {
+				"official": "Saint Kitts ve Nevis Federasyonu",
+				"common": "Saint Kitts ve Nevis"
+			},
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u0650 \u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633",
                 "common": "\u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633"
@@ -20077,6 +20569,10 @@
                 "official": "Republiken Korea",
                 "common": "Sydkorea"
             },
+            "tur": {
+				"official": "Kore Cumhuriyeti",
+				"common": "G\u00fcney Kore"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627 ",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"
@@ -20238,6 +20734,10 @@
                 "official": "Republiken Kosovo",
                 "common": "Kosovo"
             },
+            "tur": {
+				"official": "Kosova Cumhuriyeti",
+				"common": "Kosova"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0648\u0648\u06c1",
                 "common": "\u06a9\u0648\u0633\u0648\u0648\u06c1"
@@ -20398,6 +20898,10 @@
                 "official": "Staten Kuwait",
                 "common": "Kuwait"
             },
+            "tur": {
+				"official": "Kuveyt Devleti",
+				"common": "Kuveyt"
+			},
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u06a9\u0648\u06cc\u062a",
                 "common": "\u06a9\u0648\u06cc\u062a"
@@ -20557,6 +21061,10 @@
                 "official": "Demokratiska folkrepubliken Laos",
                 "common": "Laos"
             },
+            "tur": {
+				"official": "Laos Demokratik Halk Cumhuriyeti",
+				"common": "Laos"
+			},
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0627\u0624",
                 "common": "\u0644\u0627\u0624\u0633"
@@ -20723,6 +21231,10 @@
                 "official": "Republiken Libanon",
                 "common": "Libanon"
             },
+            "tur": {
+				"official": "L\u00fcbnan Cumhuriyeti",
+				"common": "L\u00fcbnan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0628\u0646\u0627\u0646",
                 "common": "\u0644\u0628\u0646\u0627\u0646"
@@ -20880,6 +21392,10 @@
                 "official": "Republiken Liberia",
                 "common": "Liberia"
             },
+            "tur": {
+				"official": "Liberya Cumhuriyeti",
+				"common": "Liberya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627",
                 "common": "\u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627"
@@ -21039,6 +21555,10 @@
                 "official": "Staten Libyen",
                 "common": "Libyen"
             },
+            "tur": {
+				"official": "Libya Devleti",
+				"common": "Libya"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0644\u06cc\u0628\u06cc\u0627",
                 "common": "\u0644\u06cc\u0628\u06cc\u0627"
@@ -21199,6 +21719,10 @@
                 "official": "Saint Lucia",
                 "common": "Saint Lucia"
             },
+            "tur": {
+				"official": "Saint Lucia",
+				"common": "Saint Lucia"
+			},
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627",
                 "common": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627"
@@ -21354,6 +21878,10 @@
                 "official": "Furstend\u00f6met Liechtenstein",
                 "common": "Liechtenstein"
             },
+            "tur": {
+				"official": "Lihten\u015ftayn Prensli\u011fi",
+				"common": "Lihten\u015ftayn"
+			},
             "urd": {
                 "official": "\u0627\u0645\u0627\u0631\u0627\u062a \u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646",
                 "common": "\u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646"
@@ -21519,6 +22047,10 @@
                 "official": "Demokratiska socialistiska republiken Sri Lanka",
                 "common": "Sri Lanka"
             },
+            "tur": {
+				"official": "Sri Lanka Demokratik Sosyalist Cumhuriyeti",
+				"common": "Sri Lanka"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u0648 \u0627\u0634\u062a\u0631\u0627\u06a9\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u06cc \u0644\u0646\u06a9\u0627",
                 "common": "\u0633\u0631\u06cc \u0644\u0646\u06a9\u0627"
@@ -21685,6 +22217,10 @@
                 "official": "Konungariket Lesotho",
                 "common": "Lesotho"
             },
+            "tur": {
+				"official": "Lesotho Krall\u0131\u011f\u0131",
+				"common": "Lesotho"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0644\u06cc\u0633\u0648\u062a\u06be\u0648",
                 "common": "\u0644\u06cc\u0633\u0648\u062a\u06be\u0648"
@@ -21842,6 +22378,10 @@
                 "official": "Republiken Litauen",
                 "common": "Litauen"
             },
+            "tur": {
+				"official": "Litvanya Cumhuriyeti",
+				"common": "Litvanya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627",
                 "common": "\u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627"
@@ -22014,6 +22554,10 @@
                 "official": "Storhertigd\u00f6met Luxemburg",
                 "common": "Luxemburg"
             },
+            "tur": {
+				"official": "L\u00fcksemburg B\u00fcy\u00fck D\u00fckal\u0131\u011f\u0131",
+				"common": "L\u00fcksemburg"
+			},
             "urd": {
                 "official": "\u062f\u0648\u0642\u06cc\u06c1 \u06a9\u0628\u06cc\u0631\u0644\u06a9\u0633\u0645\u0628\u0631\u06af",
                 "common": "\u0644\u06a9\u0633\u0645\u0628\u0631\u06af"
@@ -22173,6 +22717,10 @@
                 "official": "Republiken Lettland",
                 "common": "Lettland"
             },
+            "tur": {
+				"official": "Letonya Cumhuriyeti",
+				"common": "Letonya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0679\u0648\u06cc\u0627",
                 "common": "\u0644\u0679\u0648\u06cc\u0627"
@@ -22339,6 +22887,10 @@
                 "official": "Macao",
                 "common": "Macao"
             },
+            "tur": {
+				"official": "\u00e7in Halk Cumhuriyeti Makao \u00f6zel \u0130dari B\u00f6lgesi",
+				"common": "Makao"
+			},
             "urd": {
                 "official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1",
                 "common": "\u0645\u06a9\u0627\u0624"
@@ -22498,6 +23050,10 @@
                 "official": "F\u00f6rvaltningsomr\u00e5det Saint-Martin",
                 "common": "Saint-Martin"
             },
+            "tur": {
+				"official": "Saint Martin",
+				"common": "Saint Martin"
+			},
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646",
                 "common": "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"
@@ -22661,6 +23217,10 @@
                 "official": "Konungariket Marocko",
                 "common": "Marocko"
             },
+            "tur": {
+				"official": "Fas Krall\u0131\u011f\u0131",
+				"common": "Fas"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u0631\u0627\u06a9\u0634",
                 "common": "\u0645\u0631\u0627\u06a9\u0634"
@@ -22820,6 +23380,10 @@
                 "official": "Furstend\u00f6met Monaco",
                 "common": "Monaco"
             },
+            "tur": {
+				"official": "Monako Prensli\u011fi",
+				"common": "Monako"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0646\u0627\u06a9\u0648",
                 "common": "\u0645\u0648\u0646\u0627\u06a9\u0648"
@@ -22978,6 +23542,10 @@
                 "official": "Republiken Moldavien",
                 "common": "Moldavien"
             },
+            "tur": {
+				"official": "Moldova Cumhuriyeti",
+				"common": "Moldova"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u0648\u0648\u0627",
                 "common": "\u0645\u0627\u0644\u062f\u0648\u0648\u0627"
@@ -23142,6 +23710,10 @@
                 "official": "Republiken Madagaskar",
                 "common": "Madagaskar"
             },
+            "tur": {
+				"official": "Madagaskar Cumhuriyeti",
+				"common": "Madagaskar"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0688\u063a\u0627\u0633\u06a9\u0631",
                 "common": "\u0645\u0688\u063a\u0627\u0633\u06a9\u0631"
@@ -23298,6 +23870,10 @@
                 "official": "Republiken Maldiverna",
                 "common": "Maldiverna"
             },
+            "tur": {
+				"official": "Maldivler Cumhuriyeti",
+				"common": "Maldivler"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u06cc\u067e",
                 "common": "\u0645\u0627\u0644\u062f\u06cc\u067e"
@@ -23454,6 +24030,10 @@
                 "official": "Mexikos f\u00f6renta stater",
                 "common": "Mexiko"
             },
+            "tur": {
+				"official": "Birle\u015fik Meksika Devletleri",
+				"common": "Meksika"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648",
                 "common": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"
@@ -23618,6 +24198,10 @@
                 "official": "Republiken Marshall\u00f6arna",
                 "common": "Marshall\u00f6arna"
             },
+            "tur": {
+				"official": "Marshall Adalar\u0131 Cumhuriyeti",
+				"common": "Marshall Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644"
@@ -23775,6 +24359,10 @@
                 "official": "Republiken Nordmakedonien",
                 "common": "Nordmakedonien"
             },
+            "tur": {
+				"official": "Kuzey Makedonya Cumhuriyeti",
+				"common": "Kuzey Makedonya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1",
                 "common": "\u0634\u0645\u0627\u0644\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
@@ -23936,6 +24524,10 @@
                 "official": "Republiken Mali",
                 "common": "Mali"
             },
+            "tur": {
+				"official": "Mali Cumhuriyeti",
+				"common": "Mali"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u06cc",
                 "common": "\u0645\u0627\u0644\u06cc"
@@ -24104,6 +24696,10 @@
                 "official": "Republiken Malta",
                 "common": "Malta"
             },
+            "tur": {
+				"official": "Malta Cumhuriyeti",
+				"common": "Malta"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u0679\u0627",
                 "common": "\u0645\u0627\u0644\u0679\u0627"
@@ -24260,6 +24856,10 @@
                 "official": "Republiken Unionen Myanmar",
                 "common": "Myanmar"
             },
+            "tur": {
+				"official": "Myanmar Birli\u011fi Cumhuriyeti",
+				"common": "Myanmar"
+			},
             "urd": {
                 "official": "\u0645\u062a\u062d\u062f\u06c1 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u06cc\u0627\u0646\u0645\u0627\u0631",
                 "common": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"
@@ -24420,6 +25020,10 @@
                 "official": "Montenegro",
                 "common": "Montenegro"
             },
+            "tur": {
+				"official": "Karada\u011f",
+				"common": "Karada\u011f"
+			},
             "urd": {
                 "official": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648",
                 "common": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648"
@@ -24579,6 +25183,10 @@
                 "official": "Mongoliet",
                 "common": "Mongoliet"
             },
+            "tur": {
+				"official": "Mo\u011folistan",
+				"common": "Mo\u011folistan"
+			},
             "urd": {
                 "official": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627",
                 "common": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627"
@@ -24747,6 +25355,10 @@
                 "official": "Nordmarianerna",
                 "common": "Nordmarianerna"
             },
+            "tur": {
+				"official": "Kuzey Mariana Adalar\u0131 Milletler Toplulu\u011fu",
+				"common": "Kuzey Mariana Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627"
@@ -24902,6 +25514,10 @@
                 "official": "Republiken Mo\u00e7ambique",
                 "common": "Mo\u00e7ambique"
             },
+            "tur": {
+				"official": "Mozambik Cumhuriyeti",
+				"common": "Mozambik"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0632\u0645\u0628\u06cc\u0642",
                 "common": "\u0645\u0648\u0632\u0645\u0628\u06cc\u0642"
@@ -25064,6 +25680,10 @@
                 "official": "Islamiska republiken Mauretanien",
                 "common": "Mauretanien"
             },
+            "tur": {
+				"official": "Moritanya \u0130slam Cumhuriyeti",
+				"common": "Moritanya"
+			},
             "urd": {
                 "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1",
                 "common": "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1"
@@ -25222,6 +25842,10 @@
                 "official": "Montserrat",
                 "common": "Montserrat"
             },
+            "tur": {
+				"official": "Montserrat",
+				"common": "Montserrat"
+			},
             "urd": {
                 "official": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679",
                 "common": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679"
@@ -25375,6 +25999,10 @@
                 "official": "Martinique",
                 "common": "Martinique"
             },
+            "tur": {
+				"official": "Martinik",
+				"common": "Martinik"
+			},
             "urd": {
                 "official": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9",
                 "common": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9"
@@ -25540,6 +26168,10 @@
                 "official": "Republiken Mauritius",
                 "common": "Mauritius"
             },
+            "tur": {
+				"official": "Mauritius Cumhuriyeti",
+				"common": "Mauritius"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u0634\u0633",
                 "common": "\u0645\u0648\u0631\u06cc\u0634\u0633"
@@ -25699,6 +26331,10 @@
                 "official": "Republiken Malawi",
                 "common": "Malawi"
             },
+            "tur": {
+				"official": "Malavi Cumhuriyeti",
+				"common": "Malavi"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0644\u0627\u0648\u06cc",
                 "common": "\u0645\u0644\u0627\u0648\u06cc"
@@ -25861,6 +26497,10 @@
                 "official": "Malaysia",
                 "common": "Malaysia"
             },
+            "tur": {
+				"official": "Malezya",
+				"common": "Malezya"
+			},
             "urd": {
                 "official": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627",
                 "common": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627"
@@ -26020,6 +26660,10 @@
                 "official": "Departementsomr\u00e5det Mayotte",
                 "common": "Mayotte"
             },
+            "tur": {
+				"official": "Mayotte",
+				"common": "Mayotte"
+			},
             "urd": {
                 "official": "\u0645\u0627\u06cc\u0648\u0679",
                 "common": "\u0645\u0627\u06cc\u0648\u0679"
@@ -26219,6 +26863,10 @@
                 "official": "Republiken Namibia",
                 "common": "Namibia"
             },
+            "tur": {
+				"official": "Namibya Cumhuriyeti",
+				"common": "Namibya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0645\u06cc\u0628\u06cc\u0627",
                 "common": "\u0646\u0645\u06cc\u0628\u06cc\u0627"
@@ -26377,6 +27025,10 @@
                 "official": "Nya Kaledonien",
                 "common": "Nya Kaledonien"
             },
+            "tur": {
+				"official": "Yeni Kaledonya",
+				"common": "Yeni Kaledonya"
+			},
             "urd": {
                 "official": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627",
                 "common": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627"
@@ -26531,6 +27183,10 @@
                 "official": "Republiken Niger",
                 "common": "Niger"
             },
+            "tur": {
+				"official": "Nijer Cumhuriyeti",
+				"common": "Nijer"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u0631",
                 "common": "\u0646\u0627\u0626\u062c\u0631"
@@ -26699,6 +27355,10 @@
                 "official": "Norfolk\u00f6n",
                 "common": "Norfolk\u00f6n"
             },
+            "tur": {
+				"official": "Norfolk Adas\u0131",
+				"common": "Norfolk Adas\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9 \u062e\u0637\u06c1",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9"
@@ -26855,6 +27515,10 @@
                 "official": "F\u00f6rbundsrepubliken Nigeria",
                 "common": "Nigeria"
             },
+            "tur": {
+				"official": "Nijerya Federal Cumhuriyeti",
+				"common": "Nijerya"
+			},
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627",
                 "common": "\u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"
@@ -27015,6 +27679,10 @@
                 "official": "Republiken Nicaragua",
                 "common": "Nicaragua"
             },
+            "tur": {
+				"official": "Nikaragua Cumhuriyeti",
+				"common": "Nikaragua"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627",
                 "common": "\u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
@@ -27176,6 +27844,10 @@
                 "official": "Niue",
                 "common": "Niue"
             },
+            "tur": {
+				"official": "Niue",
+				"common": "Niue"
+			},
             "urd": {
                 "official": "\u0646\u06cc\u0648\u0648\u06d2",
                 "common": "\u0646\u06cc\u0648\u0648\u06d2"
@@ -27332,6 +28004,10 @@
                 "official": "Nederl\u00e4nderna",
                 "common": "Nederl\u00e4nderna"
             },
+            "tur": {
+				"official": "Hollanda",
+				"common": "Hollanda"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632",
                 "common": "\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"
@@ -27503,6 +28179,10 @@
                 "official": "Konungariket Norge",
                 "common": "Norge"
             },
+            "tur": {
+				"official": "Norve\u00e7 Krall\u0131\u011f\u0131",
+				"common": "Norve\u00e7"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u0627\u0631\u0648\u06d2",
                 "common": "\u0646\u0627\u0631\u0648\u06d2"
@@ -27662,6 +28342,10 @@
                 "official": "Demokratiska f\u00f6rbundsrepubliken Nepal",
                 "common": "Nepal"
             },
+            "tur": {
+				"official": "Nepal Federal Demokratik Cumhuriyeti",
+				"common": "Nepal"
+			},
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u06cc\u067e\u0627\u0644",
                 "common": "\u0646\u06cc\u067e\u0627\u0644"
@@ -27827,6 +28511,10 @@
                 "official": "Republiken Nauru",
                 "common": "Nauru"
             },
+            "tur": {
+				"official": "Nauru Cumhuriyeti",
+				"common": "Nauru"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0648\u0631\u0648",
                 "common": "\u0646\u0627\u0648\u0631\u0648"
@@ -27991,6 +28679,10 @@
                 "official": "Nya Zeeland",
                 "common": "Nya Zeeland"
             },
+            "tur": {
+				"official": "Yeni Zelanda",
+				"common": "Yeni Zelanda"
+			},
             "urd": {
                 "official": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688",
                 "common": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
@@ -28146,6 +28838,10 @@
                 "official": "Sultanatet Oman",
                 "common": "Oman"
             },
+            "tur": {
+				"official": "Umman Sultanl\u0131\u011f\u0131",
+				"common": "Umman"
+			},
             "urd": {
                 "official": "\u0633\u0644\u0637\u0646\u062a \u0639\u0645\u0627\u0646",
                 "common": "\u0639\u0645\u0627\u0646"
@@ -28311,6 +29007,10 @@
                 "official": "Islamiska republiken Pakistan",
                 "common": "Pakistan"
             },
+            "tur": {
+				"official": "Pakistan \u0130slam Cumhuriyeti",
+				"common": "Pakistan"
+			},
             "urd": {
                 "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
                 "common": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
@@ -28475,6 +29175,10 @@
                 "official": "Republiken Panama",
                 "common": "Panama"
             },
+            "tur": {
+				"official": "Panama Cumhuriyeti",
+				"common": "Panama"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u0646\u0627\u0645\u0627",
                 "common": "\u067e\u0627\u0646\u0627\u0645\u0627"
@@ -28633,6 +29337,10 @@
                 "official": "Pitcairn\u00f6arna",
                 "common": "Pitcairn\u00f6arna"
             },
+            "tur": {
+				"official": "Pitcairn, Henderson, Ducie ve Oeno Adalar\u0131",
+				"common": "Pitcairn Adalar\u0131"
+			},
             "urd": {
                 "official": "\u067e\u0679\u06a9\u06cc\u0631\u0646 \u062c\u0632\u0627\u0626\u0631",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u067e\u0679\u06a9\u06cc\u0631\u0646"
@@ -28798,6 +29506,10 @@
                 "official": "Republiken Peru",
                 "common": "Peru"
             },
+            "tur": {
+				"official": "Peru Cumhuriyeti",
+				"common": "Peru"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0648",
                 "common": "\u067e\u06cc\u0631\u0648"
@@ -28964,6 +29676,10 @@
                 "official": "Republiken Filippinerna",
                 "common": "Filippinerna"
             },
+            "tur": {
+				"official": "Filipinler Cumhuriyeti",
+				"common": "Filipinler"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0644\u067e\u0627\u0626\u0646",
                 "common": "\u0641\u0644\u067e\u0627\u0626\u0646"
@@ -29124,6 +29840,10 @@
                 "official": "Republiken Palau",
                 "common": "Palau"
             },
+            "tur": {
+				"official": "Palau Cumhuriyeti",
+				"common": "Palau"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0644\u0627\u0624",
                 "common": "\u067e\u0644\u0627\u0624"
@@ -29289,6 +30009,10 @@
                 "official": "Den oberoende staten Papua Nya Guinea",
                 "common": "Papua Nya Guinea"
             },
+            "tur": {
+				"official": "Papua Yeni Gine Ba\u011f\u0131ms\u0131z Devleti",
+				"common": "Papua Yeni Gine"
+			},
             "urd": {
                 "official": "\u0622\u0632\u0627\u062f \u0631\u06cc\u0627\u0633\u062a\u0650 \u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc",
                 "common": "\u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc"
@@ -29446,6 +30170,10 @@
                 "official": "Republiken Polen",
                 "common": "Polen"
             },
+            "tur": {
+				"official": "Polonya Cumhuriyeti",
+				"common": "Polonya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0648\u0644\u06cc\u0646\u0688",
                 "common": "\u067e\u0648\u0644\u06cc\u0646\u0688"
@@ -29615,6 +30343,10 @@
                 "official": "Puerto Rico",
                 "common": "Puerto Rico"
             },
+            "tur": {
+				"official": "Porto Riko Toplulu\u011fu",
+				"common": "Porto Riko"
+			},
             "urd": {
                 "official": " \u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648",
                 "common": "\u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
@@ -29775,6 +30507,10 @@
                 "official": "Demokratiska Folkrepubliken Korea",
                 "common": "Nordkorea"
             },
+            "tur": {
+				"official": "Kore Demokratik Halk Cumhuriyeti",
+				"common": "Kuzey Kore"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627",
                 "common": "\u0634\u0645\u0627\u0644\u06cc \u06a9\u0648\u0631\u06cc\u0627"
@@ -29935,6 +30671,10 @@
                 "official": "Republiken Portugal",
                 "common": "Portugal"
             },
+            "tur": {
+				"official": "Portekiz Cumhuriyeti",
+				"common": "Portekiz"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0631\u062a\u06af\u0627\u0644",
                 "common": "\u067e\u0631\u062a\u06af\u0627\u0644"
@@ -30098,6 +30838,10 @@
                 "official": "Republiken Paraguay",
                 "common": "Paraguay"
             },
+            "tur": {
+				"official": "Paraguay Cumhuriyeti",
+				"common": "Paraguay"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2",
                 "common": "\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2"
@@ -30267,6 +31011,10 @@
                 "official": "Palestina",
                 "common": "Palestina"
             },
+            "tur": {
+				"official": "Filistin Devleti",
+				"common": "Filistin"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0641\u0644\u0633\u0637\u06cc\u0646",
                 "common": "\u0641\u0644\u0633\u0637\u06cc\u0646"
@@ -30427,6 +31175,10 @@
                 "official": "Franska Polynesien",
                 "common": "Franska Polynesien"
             },
+            "tur": {
+				"official": "Frans\u0131z Polinezyas\u0131",
+				"common": "Frans\u0131z Polinezyas\u0131"
+			},
             "urd": {
                 "official": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627",
                 "common": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627"
@@ -30583,6 +31335,10 @@
                 "official": "Staten Qatar",
                 "common": "Qatar"
             },
+            "tur": {
+				"official": "Katar Devleti",
+				"common": "Katar"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0642\u0637\u0631",
                 "common": "\u0642\u0637\u0631"
@@ -30739,6 +31495,10 @@
                 "official": "R\u00e9union",
                 "common": "R\u00e9union"
             },
+            "tur": {
+				"official": "Réunion",
+				"common": "Réunion"
+			},
             "urd": {
                 "official": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba \u062c\u0632\u06cc\u0631\u06c1",
                 "common": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba"
@@ -30895,6 +31655,10 @@
                 "official": "Rum\u00e4nien",
                 "common": "Rum\u00e4nien"
             },
+            "tur": {
+				"official": "Romanya",
+				"common": "Romanya"
+			},
             "urd": {
                 "official": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1",
                 "common": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1"
@@ -31062,6 +31826,10 @@
                 "official": "Ryska federationen",
                 "common": "Ryssland"
             },
+            "tur": {
+				"official": "Rusya Federasyonu",
+				"common": "Rusya"
+			},
             "urd": {
                 "official": "\u0631\u0648\u0633\u06cc \u0648\u0641\u0627\u0642",
                 "common": "\u0631\u0648\u0633"
@@ -31243,6 +32011,10 @@
                 "official": "Republiken Rwanda",
                 "common": "Rwanda"
             },
+            "tur": {
+				"official": "Ruanda Cumhuriyeti",
+				"common": "Ruanda"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0631\u0648\u0627\u0646\u0688\u0627",
                 "common": "\u0631\u0648\u0627\u0646\u0688\u0627"
@@ -31405,6 +32177,10 @@
                 "official": "Kungad\u00f6met Saudiarabien",
                 "common": "Saudiarabien"
             },
+            "tur": {
+				"official": "Suudi Arabistan Krall\u0131\u011f\u0131",
+				"common": "Suudi Arabistan"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628",
                 "common": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"
@@ -31573,6 +32349,10 @@
                 "official": "Republiken Sudan",
                 "common": "Sudan"
             },
+            "tur": {
+				"official": "Sudan Cumhuriyeti",
+				"common": "Sudan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u062f\u0627\u0646",
                 "common": "\u0633\u0648\u062f\u0627\u0646"
@@ -31736,6 +32516,10 @@
                 "official": "Republiken Senegal",
                 "common": "Senegal"
             },
+            "tur": {
+				"official": "Senegal Cumhuriyeti",
+				"common": "Senegal"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0646\u06cc\u06af\u0627\u0644",
                 "common": "\u0633\u06cc\u0646\u06cc\u06af\u0627\u0644"
@@ -31915,6 +32699,10 @@
                 "official": "Republiken Singapore",
                 "common": "Singapore"
             },
+            "tur": {
+				"official": "Singapur Cumhuriyeti",
+				"common": "Singapur"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0646\u06af\u0627\u067e\u0648\u0631",
                 "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
@@ -32069,6 +32857,10 @@
                 "official": "Sydgeorgien",
                 "common": "Sydgeorgien"
             },
+            "tur": {
+				"official": "G\u00fcney Georgia ve G\u00fcney Sandwich Adalar\u0131",
+				"common": "G\u00fcney Georgia ve G\u00fcney Sandwich Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0646\u0648\u0628\u06cc \u062c\u0627\u0631\u062c\u06cc\u0627 \u0648 \u062c\u0632\u0627\u0626\u0631 \u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0688\u0648\u0686",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u062c\u0627\u0631\u062c\u06cc\u0627"
@@ -32223,6 +33015,10 @@
                 "official": "Svalbard och Jan Mayen",
                 "common": "Svalbard och Jan Mayen"
             },
+            "tur": {
+				"official": "Svalbard ve Jan Mayen",
+				"common": "Svalbard ve Jan Mayen"
+			},
             "urd": {
                 "official": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646",
                 "common": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646"
@@ -32376,6 +33172,10 @@
                 "official": "Salomon\u00f6arna",
                 "common": "Salomon\u00f6arna"
             },
+            "tur": {
+				"official": "Solomon Adalar\u0131",
+				"common": "Solomon Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"
@@ -32530,6 +33330,10 @@
                 "official": "Republiken Sierra Leone",
                 "common": "Sierra Leone"
             },
+            "tur": {
+				"official": "Sierra Leone Cumhuriyeti",
+				"common": "Sierra Leone"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646",
                 "common": "\u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"
@@ -32688,6 +33492,10 @@
                 "official": "Republiken El Salvador",
                 "common": "El Salvador"
             },
+            "tur": {
+				"official": "El Salvador Cumhuriyeti",
+				"common": "El Salvador"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631",
                 "common": "\u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
@@ -32846,6 +33654,10 @@
                 "official": "Republiken San Marino",
                 "common": "San Marino"
             },
+            "tur": {
+				"official": "San Marino Cumhuriyeti",
+				"common": "San Marino"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
                 "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
@@ -33010,6 +33822,10 @@
                 "official": "F\u00f6rbundsrepubliken Somalia",
                 "common": "Somalia"
             },
+            "tur": {
+				"official": "Somali Federal Cumhuriyeti",
+				"common": "Somali"
+			},
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0635\u0648\u0645\u0627\u0644\u06cc\u06c1",
                 "common": "\u0635\u0648\u0645\u0627\u0644\u06cc\u06c1"
@@ -33168,6 +33984,10 @@
                 "official": "Saint-Pierre och Miquelon",
                 "common": "Saint-Pierre och Miquelon"
             },
+            "tur": {
+				"official": "Saint Pierre ve Miquelon",
+				"common": "Saint Pierre ve Miquelon"
+			},
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646",
                 "common": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646"
@@ -33327,6 +34147,10 @@
                 "official": "Republiken Serbien",
                 "common": "Serbien"
             },
+            "tur": {
+				"official": "S\u0131rbistan Cumhuriyeti",
+				"common": "S\u0131rbistan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u0628\u06cc\u0627",
                 "common": "\u0633\u0631\u0628\u06cc\u0627"
@@ -33489,6 +34313,10 @@
                 "official": "Republiken Sydsudan",
                 "common": "Sydsudan"
             },
+            "tur": {
+				"official": "G\u00fcney Sudan Cumhuriyeti",
+				"common": "G\u00fcney Sudan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646"
@@ -33652,6 +34480,10 @@
                 "official": "Demokratiska republiken S\u00e3o Tom\u00e9 och Pr\u00edncipe",
                 "common": "S\u00e3o Tom\u00e9 och Pr\u00edncipe"
             },
+            "tur": {
+				"official": "São Tomé ve Príncipe Demokratik Cumhuriyeti",
+				"common": "São Tomé ve Príncipe"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2",
                 "common": "\u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2"
@@ -33809,6 +34641,10 @@
                 "official": "Republiken Surinam",
                 "common": "Surinam"
             },
+            "tur": {
+				"official": "Surinam Cumhuriyeti",
+				"common": "Surinam"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u06cc\u0646\u0627\u0645",
                 "common": "\u0633\u0631\u06cc\u0646\u0627\u0645"
@@ -33968,6 +34804,10 @@
                 "official": "Republiken Slovakien",
                 "common": "Slovakien"
             },
+            "tur": {
+				"official": "Slovak Cumhuriyeti",
+				"common": "Slovakya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1",
                 "common": "\u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1"
@@ -34129,6 +34969,10 @@
                 "official": "Republiken Slovenien",
                 "common": "Slovenien"
             },
+            "tur": {
+				"official": "Slovenya Cumhuriyeti",
+				"common": "Slovenya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627",
                 "common": "\u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627"
@@ -34289,6 +35133,10 @@
                 "official": "Konungariket Sverige",
                 "common": "Sverige"
             },
+            "tur": {
+				"official": "\u0130sve\u00e7 Krall\u0131\u011f\u0131",
+				"common": "\u0130sve\u00e7"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u06cc\u0688\u0646",
                 "common": "\u0633\u0648\u06cc\u0688\u0646"
@@ -34460,6 +35308,10 @@
                 "official": "Konungariket Eswatini",
                 "common": "Swaziland"
             },
+            "tur": {
+				"official": "Esvatini Krall\u0131\u011f\u0131",
+				"common": "Esvatini"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688",
                 "common": "\u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688"
@@ -34627,6 +35479,10 @@
                 "official": "Sint Maarten",
                 "common": "Sint Maarten"
             },
+            "tur": {
+				"official": "Sint Maarten",
+				"common": "Sint Maarten"
+			},
             "urd": {
                 "official": "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646",
                 "common": "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"
@@ -34795,6 +35651,10 @@
                 "official": "Republiken Seychellerna",
                 "common": "Seychellerna"
             },
+            "tur": {
+				"official": "Sey\u015feller Cumhuriyeti",
+				"common": "Sey\u015feller"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633",
                 "common": "\u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633"
@@ -34951,6 +35811,10 @@
                 "official": "Syriska arabiska republiken",
                 "common": "Syrien"
             },
+            "tur": {
+				"official": "Suriye Arap Cumhuriyeti",
+				"common": "Suriye"
+			},
             "urd": {
                 "official": "\u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u0631\u06cc\u06c1",
                 "common": "\u0633\u0648\u0631\u06cc\u06c1"
@@ -35110,6 +35974,10 @@
                 "official": "Turks- och Caicos\u00f6arna",
                 "common": "Turks- och Caicos\u00f6arna"
             },
+            "tur": {
+				"official": "Turks ve Caicos Adalar\u0131",
+				"common": "Turks ve Caicos Adalar\u0131"
+			},
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1"
@@ -35271,6 +36139,10 @@
                 "official": "Republiken Tchad",
                 "common": "Tchad"
             },
+            "tur": {
+				"official": "\u00e7ad Cumhuriyeti",
+				"common": "\u00e7ad"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0627\u0688",
                 "common": "\u0686\u0627\u0688"
@@ -35434,6 +36306,10 @@
                 "official": "Republiken Togo",
                 "common": "Togo"
             },
+            "tur": {
+				"official": "Togo Cumhuriyeti",
+				"common": "Togo"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0648\u06af\u0648",
                 "common": "\u0679\u0648\u06af\u0648"
@@ -35597,6 +36473,10 @@
                 "official": "Konungariket Thailand",
                 "common": "Thailand"
             },
+            "tur": {
+				"official": "Tayland Krall\u0131\u011f\u0131",
+				"common": "Tayland"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688",
                 "common": "\u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688"
@@ -35764,6 +36644,10 @@
                 "official": "Republiken Tadzjikistan",
                 "common": "Tadzjikistan"
             },
+            "tur": {
+				"official": "Tacikistan Cumhuriyeti",
+				"common": "Tacikistan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646",
                 "common": "\u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"
@@ -35932,6 +36816,10 @@
                 "official": "Tokelau\u00f6arna",
                 "common": "Tokelau\u00f6arna"
             },
+            "tur": {
+				"official": "Tokelau",
+				"common": "Tokelau"
+			},
             "urd": {
                 "official": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624",
                 "common": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624"
@@ -36090,6 +36978,10 @@
                 "official": "Turkmenistan",
                 "common": "Turkmenistan"
             },
+            "tur": {
+				"official": "T\u00fcrkmenistan",
+				"common": "T\u00fcrkmenistan"
+			},
             "urd": {
                 "official": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646",
                 "common": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"
@@ -36259,6 +37151,10 @@
                 "official": "Demokratiska republiken \u00d6sttimor",
                 "common": "\u00d6sttimor"
             },
+            "tur": {
+				"official": "Do\u011fu Timor Demokratik Cumhuriyeti",
+				"common": "Do\u011fu Timor"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631",
                 "common": "\u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631"
@@ -36419,6 +37315,10 @@
                 "official": "Konungariket Tonga",
                 "common": "Tonga"
             },
+            "tur": {
+				"official": "Tonga Krall\u0131\u011f\u0131",
+				"common": "Tonga"
+			},
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0679\u0648\u0646\u06af\u0627",
                 "common": "\u0679\u0648\u0646\u06af\u0627"
@@ -36573,6 +37473,10 @@
                 "official": "Republiken Trinidad och Tobago",
                 "common": "Trinidad och Tobago"
             },
+            "tur": {
+				"official": "Trinidad ve Tobago",
+				"common": "Trinidad ve Tobago"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648",
                 "common": "\u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648"
@@ -36728,6 +37632,10 @@
                 "official": "Republiken Tunisien",
                 "common": "Tunisien"
             },
+            "tur": {
+				"official": "Tunus Cumhuriyeti",
+				"common": "Tunus"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0648\u0646\u0633",
                 "common": "\u062a\u0648\u0646\u0633"
@@ -36887,6 +37795,10 @@
                 "official": "Republiken Turkiet",
                 "common": "Turkiet"
             },
+            "tur": {
+				"official": "T\u00fcrkiye Cumhuriyeti",
+				"common": "T\u00fcrkiye"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0631\u06a9\u06cc",
                 "common": "\u062a\u0631\u06a9\u06cc"
@@ -37058,6 +37970,10 @@
                 "official": "Tuvalu",
                 "common": "Tuvalu"
             },
+            "tur": {
+				"official": "Tuvalu",
+				"common": "Tuvalu"
+			},
             "urd": {
                 "official": "\u062a\u0648\u0648\u0627\u0644\u0648",
                 "common": "\u062a\u0648\u0648\u0627\u0644\u0648"
@@ -37218,6 +38134,10 @@
                 "official": "Republiken Kina",
                 "common": "Taiwan"
             },
+            "tur": {
+				"official": "\u00e7in Cumhuriyeti (Tayvan)",
+				"common": "Tayvan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 (\u062a\u0627\u0626\u06cc\u0648\u0627\u0646)",
                 "common": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646"
@@ -37379,6 +38299,10 @@
                 "official": "F\u00f6renade republiken Tanzania",
                 "common": "Tanzania"
             },
+            "tur": {
+				"official": "Tanzanya Birle\u015fik Cumhuriyeti",
+				"common": "Tanzanya"
+			},
             "urd": {
                 "official": "\u0645\u062a\u062d\u062f\u06c1 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0646\u0632\u0627\u0646\u06cc\u06c1",
                 "common": "\u062a\u0646\u0632\u0627\u0646\u06cc\u06c1"
@@ -37548,6 +38472,10 @@
                 "official": "Republiken Uganda",
                 "common": "Uganda"
             },
+            "tur": {
+				"official": "Uganda Cumhuriyeti",
+				"common": "Uganda"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0648\u06af\u0646\u0688\u0627",
                 "common": "\u06cc\u0648\u06af\u0646\u0688\u0627"
@@ -37709,6 +38637,10 @@
                 "official": "Ukraina",
                 "common": "Ukraina"
             },
+            "tur": {
+				"official": "Ukrayna",
+				"common": "Ukrayna"
+			},
             "urd": {
                 "official": "\u06cc\u0648\u06a9\u0631\u06cc\u0646",
                 "common": "\u06cc\u0648\u06a9\u0631\u06cc\u0646"
@@ -37868,6 +38800,10 @@
                 "official": "F\u00f6renta staternas mindre \u00f6ar i Oceanien och V\u00e4stindien",
                 "common": "F\u00f6renta staternas mindre \u00f6ar i Oceanien och V\u00e4stindien"
             },
+            "tur": {
+				"official": "Amerika Birle\u015fik Devletleri K\u00fc\u00e7\u00fck D\u0131\u015f Adalar\u0131",
+				"common": "Amerika Birle\u015fik Devletleri K\u00fc\u00e7\u00fck D\u0131\u015f Adalar\u0131"
+			},
             "urd": {
                 "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631",
                 "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631"
@@ -38023,6 +38959,10 @@
                 "official": "Republiken Uruguay",
                 "common": "Uruguay"
             },
+            "tur": {
+				"official": "Uruguay Do\u011fu Cumhuriyeti",
+				"common": "Uruguay"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0634\u0631\u0642\u06cc\u06c1 \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2",
                 "common": "\u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
@@ -38560,6 +39500,10 @@
                 "official": "Amerikas f\u00f6renta stater",
                 "common": "USA"
             },
+            "tur": {
+				"official": "Amerika Birle\u015fik Devletleri",
+				"common": "Amerika Birle\u015fik Devletleri"
+			},
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u0627",
                 "common": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1"
@@ -38724,6 +39668,10 @@
                 "official": "Republiken Uzbekistan",
                 "common": "Uzbekistan"
             },
+            "tur": {
+				"official": "\u00f6zbekistan Cumhuriyeti",
+				"common": "\u00f6zbekistan"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646",
                 "common": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
@@ -38892,6 +39840,10 @@
                 "official": "Vatikanstaten",
                 "common": "Vatikanstaten"
             },
+            "tur": {
+				"official": "Vatikan \u015fehir Devleti",
+				"common": "Vatikan"
+			},
             "urd": {
                 "official": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc",
                 "common": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc"
@@ -39047,6 +39999,10 @@
                 "official": "Saint Vincent och Grenadinerna",
                 "common": "Saint Vincent och Grenadinerna"
             },
+            "tur": {
+				"official": "Saint Vincent ve Grenadinler",
+				"common": "Saint Vincent ve Grenadinler"
+			},
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632",
                 "common": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632"
@@ -39203,6 +40159,10 @@
                 "official": "Bolivarianska republiken Venezuela",
                 "common": "Venezuela"
             },
+            "tur": {
+				"official": "Bolivarc\u0131 Venezuela Cumhuriyeti",
+				"common": "Venezuela"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627",
                 "common": "\u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627"
@@ -39361,6 +40321,10 @@
                 "official": "Brittiska Jungfru\u00f6arna",
                 "common": "Brittiska Jungfru\u00f6arna"
             },
+            "tur": {
+				"official": "Virjin Adalar\u0131",
+				"common": "Virjin Adalar\u0131"
+			},
             "urd": {
                 "official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646",
                 "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"
@@ -39515,6 +40479,10 @@
                 "official": "Amerikanska Jungfru\u00f6arna",
                 "common": "Amerikanska Jungfru\u00f6arna"
             },
+            "tur": {
+				"official": "Amerika Birle\u015fik Devletleri Virjin Adalar\u0131",
+				"common": "ABD Virjin Adalar\u0131"
+			},
             "urd": {
                 "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646",
                 "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"
@@ -39671,6 +40639,10 @@
                 "official": "Socialistiska republiken Vietnam",
                 "common": "Vietnam"
             },
+            "tur": {
+				"official": "Vietnam Sosyalist Cumhuriyeti",
+				"common": "Vietnam"
+			},
             "urd": {
                 "official": "\u0627\u0634\u062a\u0631\u0627\u06a9\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u06cc\u062a\u0646\u0627\u0645",
                 "common": "\u0648\u06cc\u062a\u0646\u0627\u0645"
@@ -39841,6 +40813,10 @@
                 "official": "Republiken Vanuatu",
                 "common": "Vanuatu"
             },
+            "tur": {
+				"official": "Vanuatu Cumhuriyeti",
+				"common": "Vanuatu"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u0627\u0646\u0648\u0627\u062a\u0648",
                 "common": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648"
@@ -39996,6 +40972,10 @@
                 "official": "Territoriet Wallis- och Futuna\u00f6arna",
                 "common": "Wallis- och Futuna\u00f6arna"
             },
+            "tur": {
+				"official": "Wallis ve Futuna Adalar\u0131 B\u00f6lgesi",
+				"common": "Wallis ve Futuna Adalar\u0131 B\u00f6lgesi"
+			},
             "urd": {
                 "official": "\u0633\u0631 \u0632\u0645\u06cc\u0646\u0650 \u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1 \u062c\u0632\u0627\u0626\u0631",
                 "common": "\u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1"
@@ -40156,6 +41136,10 @@
                 "official": "Sj\u00e4lvst\u00e4ndiga staten Samoa",
                 "common": "Samoa"
             },
+            "tur": {
+				"official": "Ba\u011f\u0131ms\u0131z Samoa Devleti",
+				"common": "Ba\u011f\u0131ms\u0131z Samoa Devleti"
+			},
             "urd": {
                 "official": "\u0622\u0632\u0627\u062f \u0633\u0644\u0637\u0646\u062a\u0650 \u0633\u0627\u0645\u0648\u0627",
                 "common": "\u0633\u0627\u0645\u0648\u0648\u0627"
@@ -40311,6 +41295,10 @@
                 "official": "Republiken Jemen",
                 "common": "Jemen"
             },
+            "tur": {
+				"official": "Yemen Cumhuriyeti",
+				"common": "Yemen"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0645\u0646",
                 "common": "\u06cc\u0645\u0646"
@@ -40522,6 +41510,10 @@
                 "official": "Republiken Sydafrika",
                 "common": "Sydafrika"
             },
+            "tur": {
+				"official": "G\u00fcney Afrika Cumhuriyeti",
+				"common": "G\u00fcney Afrika"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627"
@@ -40683,6 +41675,10 @@
                 "official": "Republiken Zambia",
                 "common": "Zambia"
             },
+            "tur": {
+				"official": "Zambiya Cumhuriyeti",
+				"common": "Zambiya"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u06cc\u0645\u0628\u06cc\u0627",
                 "common": "\u0632\u06cc\u0645\u0628\u06cc\u0627"
@@ -40948,6 +41944,10 @@
                 "official": "Republiken Zimbabwe",
                 "common": "Zimbabwe"
             },
+            "tur": {
+				"official": "Zimbabve Cumhuriyeti",
+				"common": "Zimbabve"
+			},
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u0645\u0628\u0627\u0628\u0648\u06d2",
                 "common": "\u0632\u0645\u0628\u0627\u0628\u0648\u06d2"
