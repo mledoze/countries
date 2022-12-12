@@ -2,7 +2,10 @@
     "name": "world-countries",
     "description": "List of world countries in JSON, CSV, XML and Yaml",
     "version": "4.1.0",
-    "main": "index.js",
+    "exports": {
+        "import": "./index.mjs",
+        "require": "./index.cjs"
+    },
     "types": "index.d.ts",
     "keywords": ["countries", "world", "json", "csv", "xml", "yaml"],
     "author": {
