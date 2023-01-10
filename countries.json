@@ -15636,9 +15636,9 @@
         "status": "officially-assigned",
         "unMember": true,
         "currencies": {
-            "HRK": {
-                "name": "Croatian kuna",
-                "symbol": "kn"
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
             }
         },
         "idd": {
