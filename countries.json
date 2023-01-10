@@ -13825,7 +13825,7 @@
         "cioc": "GBS",
         "independent": true,
         "status": "officially-assigned",
-        "unMember": false,
+        "unMember": true,
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
