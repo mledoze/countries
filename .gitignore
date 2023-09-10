@@ -1,3 +1,7 @@
+# Editors
+.idea
+.vscode
+
 # Composer
 composer.phar
 vendor/
