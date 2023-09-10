@@ -11,6 +11,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - the minimum version of PHP is 8.1
   - the supported Symfony versions are 5.4 and 6.3
 
+### Changed
+- update official name of Turkey (#458)
+
 ## [v4.1.1] - 2023-09-17
 ### Fixed
 - adjust package.json for ES6 and CommonJS support (#486)
