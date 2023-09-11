@@ -51,7 +51,7 @@ class XmlConverter extends AbstractConverter
     {
         $countryNode = $this->domDocument->createElement('country');
         $country = $this->flatten($country);
-        array_walk($country, function ($value, $key) use ($countryNode) {
+        array_walk($country, static function ($value, $key) use ($countryNode) {
             $countryNode->setAttribute($key, (string) $value);
         });
         $this->domDocument->documentElement->appendChild($countryNode);
