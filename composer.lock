@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b228e853235ea3e70a3f9b81d0c5c978",
+    "content-hash": "af4e82e5f2897d2cd7b5ef89e2393004",
     "packages": [
         {
             "name": "psr/container",
@@ -794,12 +794,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "00de3fc12503b72bbd1dd43ee273213c811b184c"
+                "reference": "244ae4d2e7c97fd65c23c34990f4e98571fd4729"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/00de3fc12503b72bbd1dd43ee273213c811b184c",
-                "reference": "00de3fc12503b72bbd1dd43ee273213c811b184c",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/244ae4d2e7c97fd65c23c34990f4e98571fd4729",
+                "reference": "244ae4d2e7c97fd65c23c34990f4e98571fd4729",
                 "shasum": ""
             },
             "conflict": {
@@ -1299,6 +1299,7 @@
                 "symfony/serializer": ">=2,<2.0.11|>=4.1,<4.4.35|>=5,<5.3.12",
                 "symfony/symfony": "<4.4.50|>=5,<5.4.20|>=6,<6.0.20|>=6.1,<6.1.12|>=6.2,<6.2.6",
                 "symfony/translation": ">=2,<2.0.17",
+                "symfony/ux-autocomplete": "<2.11.2",
                 "symfony/validator": ">=2,<2.0.24|>=2.1,<2.1.12|>=2.2,<2.2.5|>=2.3,<2.3.3",
                 "symfony/var-exporter": ">=4.2,<4.2.12|>=4.3,<4.3.8",
                 "symfony/web-profiler-bundle": ">=2,<2.3.19|>=2.4,<2.4.9|>=2.5,<2.5.4",
@@ -1451,7 +1452,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-09-08T15:04:10+00:00"
+            "time": "2023-09-11T14:04:42+00:00"
         }
     ],
     "aliases": [],
@@ -1462,6 +1463,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
+        "ext-gettext": "*",
         "php": ">=8.1"
     },
     "platform-dev": [],
