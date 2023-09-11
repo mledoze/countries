@@ -42,7 +42,7 @@ export interface Country {
   languages: { [languageCode: string]: string }
   translations: { [languageCode: string]: OfficialAndCommon }
   latlng: [number, number]
-  demonyms: { [languageCode: string]?: Demonyms }
+  demonyms: { [languageCode: string]: Demonyms }
   landlocked: boolean
   borders: string[]
   area: number
