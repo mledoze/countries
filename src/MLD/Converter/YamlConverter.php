@@ -1,23 +1,25 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Converter;
 
 use Symfony\Component\Yaml\Dumper;
 
 /**
- * Class YamlConverter
+ * Convert countries data into YAML format
  */
 class YamlConverter extends AbstractConverter
 {
+    private const INLINE_LEVEL = 1;
 
     /**
-     * @return string data converted to Yaml
+     * @inheritdoc
      */
-    public function convert()
+    public function convert(array $countries): string
     {
         $dumper = new Dumper();
-        $inlineLevel = 1;
 
-        return $dumper->dump($this->countries, $inlineLevel);
+        return $dumper->dump($countries, self::INLINE_LEVEL);
     }
 }
