@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "af4e82e5f2897d2cd7b5ef89e2393004",
+    "content-hash": "53fc53b1dd925583e5a4cb916927bd52",
     "packages": [
         {
             "name": "psr/container",
@@ -794,12 +794,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "244ae4d2e7c97fd65c23c34990f4e98571fd4729"
+                "reference": "6cbe3472c940a80f587886423020673520d36a29"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/244ae4d2e7c97fd65c23c34990f4e98571fd4729",
-                "reference": "244ae4d2e7c97fd65c23c34990f4e98571fd4729",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/6cbe3472c940a80f587886423020673520d36a29",
+                "reference": "6cbe3472c940a80f587886423020673520d36a29",
                 "shasum": ""
             },
             "conflict": {
@@ -1123,7 +1123,7 @@
                 "open-web-analytics/open-web-analytics": "<1.7.4",
                 "opencart/opencart": "<=3.0.3.7",
                 "openid/php-openid": "<2.3",
-                "openmage/magento-lts": "<19.4.22|>=20,<20.0.19",
+                "openmage/magento-lts": "<=19.5|>=20,<=20.1",
                 "opensource-workshop/connect-cms": "<1.7.2|>=2,<2.3.2",
                 "orchid/platform": ">=9,<9.4.4|>=14.0.0.0-alpha4,<14.5",
                 "oro/commerce": ">=4.1,<5.0.6",
@@ -1452,7 +1452,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-09-11T14:04:42+00:00"
+            "time": "2023-09-11T21:04:03+00:00"
         }
     ],
     "aliases": [],
@@ -1463,6 +1463,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
+        "ext-dom": "*",
         "ext-gettext": "*",
         "php": ">=8.1"
     },

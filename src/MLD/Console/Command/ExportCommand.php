@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace MLD\Console\Command;
 
+use JsonException;
 use MLD\Converter\Factory;
 use MLD\Enum\ExportCommandOptions;
 use MLD\Enum\Formats;
@@ -90,7 +91,12 @@ class ExportCommand extends Command
         $this->setOutputDirectory($input);
         $this->createOutputDirectory($output);
 
-        $countries = $this->decodeInputFile();
+        try {
+            $countries = $this->decodeInputFile();
+        } catch (JsonException $exception) {
+            $output->writeln(sprintf('Failed to decode input countries file: %s', $exception->getMessage()));
+            return 1;
+        }
 
         $outputFields = $this->getOutputFields($input, $countries);
         if ($output->isVerbose()) {
@@ -194,10 +200,11 @@ class ExportCommand extends Command
 
     /**
      * @return array
+     * @throws JsonException
      */
     private function decodeInputFile(): array
     {
-        return json_decode(file_get_contents($this->inputFile), true);
+        return json_decode(file_get_contents($this->inputFile), true, 512, JSON_THROW_ON_ERROR);
     }
 
     /**

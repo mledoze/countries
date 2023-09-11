@@ -18,8 +18,6 @@ class YamlConverter extends AbstractConverter
      */
     public function convert(array $countries): string
     {
-        $dumper = new Dumper();
-
-        return $dumper->dump($countries, self::INLINE_LEVEL);
+        return (new Dumper())->dump($countries, self::INLINE_LEVEL);
     }
 }

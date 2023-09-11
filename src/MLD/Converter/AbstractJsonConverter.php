@@ -37,7 +37,7 @@ abstract class AbstractJsonConverter extends AbstractConverter
     protected function processEmptyArrays(array $countries): array
     {
         return array_map(
-            function ($country) {
+            static function ($country) {
                 if (isset($country[Fields::LANGUAGES]) && empty($country[Fields::LANGUAGES])) {
                     $country[Fields::LANGUAGES] = new stdClass();
                 }
