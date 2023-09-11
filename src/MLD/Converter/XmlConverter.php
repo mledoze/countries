@@ -1,8 +1,11 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Converter;
 
 use DOMDocument;
+use DOMException;
 
 /**
  * Class XmlConverter
@@ -10,59 +13,46 @@ use DOMDocument;
 class XmlConverter extends AbstractConverter
 {
 
-    /**
-     * @var DOMDocument
-     */
-    private $domDocument;
+    private DOMDocument $domDocument;
 
     /**
-     * @param array $countries
+     * @throws DOMException
      */
-    public function __construct(array $countries)
+    public function __construct()
     {
-        $this->domDocument = new \DOMDocument('1.0', 'UTF-8');
-        $this->formatOutput();
-        $this->preserveWhiteSpace();
-        $this->domDocument->appendChild($this->domDocument->createElement('countries'));
-        parent::__construct($countries);
+        $this->initializeDomDocument();
     }
 
     /**
+     * @param array $countries
      * @return string data converted into XML
      */
-    public function convert()
+    public function convert(array $countries): string
     {
-        array_walk($this->countries, array($this, 'processCountry'));
+        array_walk($countries, [$this, 'processCountry']);
         return $this->domDocument->saveXML();
     }
 
     /**
-     * @param bool $formatOutput
-     * @see \DOMDocument::$formatOutput
+     * @throws DOMException
      */
-    public function formatOutput($formatOutput = true)
+    private function initializeDomDocument(): void
     {
-        $this->domDocument->formatOutput = $formatOutput;
+        $this->domDocument = new DOMDocument('1.0', 'UTF-8');
+        $this->domDocument->formatOutput = true;
+        $this->domDocument->preserveWhiteSpace = false;
+        $this->domDocument->appendChild($this->domDocument->createElement('countries'));
     }
 
     /**
-     * @param bool $preserveWhiteSpace
-     * @see \DOMDocument::$preserveWhiteSpace
+     * @throws DOMException
      */
-    public function preserveWhiteSpace($preserveWhiteSpace = false)
-    {
-        $this->domDocument->preserveWhiteSpace = $preserveWhiteSpace;
-    }
-
-    /**
-     * @param $array
-     */
-    private function processCountry(&$array)
+    private function processCountry(array $country): void
     {
         $countryNode = $this->domDocument->createElement('country');
-        $array = $this->convertArrays($array);
-        array_walk($array, function ($value, $key) use ($countryNode) {
-            $countryNode->setAttribute($key, $value);
+        $country = $this->flatten($country);
+        array_walk($country, function ($value, $key) use ($countryNode) {
+            $countryNode->setAttribute($key, (string) $value);
         });
         $this->domDocument->documentElement->appendChild($countryNode);
     }
