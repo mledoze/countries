@@ -1,151 +1,264 @@
 <?php
 
+declare(strict_types=1);
+
 namespace MLD\Console\Command;
 
-use MLD\Converter\AbstractConverter;
+use MLD\Converter\Factory;
+use MLD\Enum\ExportCommandOptions;
+use MLD\Enum\Formats;
 use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Exception\InvalidArgumentException;
+use Symfony\Component\Console\Exception\LogicException;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
+use function count;
 
 /**
- * Class ExportCommand
+ * Command to export countries data to various formats.
  * @package MLD\Console\Command
  */
 class ExportCommand extends Command
 {
+    private const BASE_OUTPUT_FILENAME = 'countries';
 
-    /**
-     * @var string
-     */
-    private $inputFile;
+    private string $inputFile;
 
-    /**
-     * @var string
-     */
-    private $defaultOutputDirectory;
+    private ?string $outputDirectory;
 
-    /**
-     * @var array
-     */
-    private $converters = [
-        'json' => ['class' => '\MLD\Converter\JsonConverter', 'output_file' => 'countries.json'],
-        'json_unescaped' => ['class' => '\MLD\Converter\JsonConverterUnicode', 'output_file' => 'countries-unescaped.json'],
-        'csv' => ['class' => '\MLD\Converter\CsvConverter', 'output_file' => 'countries.csv'],
-        'xml' => ['class' => '\MLD\Converter\XmlConverter', 'output_file' => 'countries.xml'],
-        'yml' => ['class' => '\MLD\Converter\YamlConverter', 'output_file' => 'countries.yml'],
-    ];
-
-    /**
-     * @var
-     */
-    private $outputFieldsCache;
+    private Factory $converterFactory;
 
     /**
      * @param string $inputFile Full path and filename of the input country data JSON file.
      * @param string $defaultOutputDirectory Full path to output directory for converted files.
-     * @param string|null $name
+     * @param string|null $name Name of the export command
+     * @throws LogicException
      */
-    public function __construct($inputFile, $defaultOutputDirectory, $name = 'convert')
+    public function __construct($inputFile, string $defaultOutputDirectory, string|null $name = 'convert')
     {
         $this->inputFile = $inputFile;
-        $this->defaultOutputDirectory = $defaultOutputDirectory;
+        $this->outputDirectory = $defaultOutputDirectory;
+        $this->converterFactory = $this->createConverterFactory();
 
         parent::__construct($name);
     }
 
     /**
      * @inheritdoc
+     * @codeCoverageIgnore
      */
-    protected function configure()
+    protected function configure(): void
     {
         $this
             ->setDescription('Converts source country data to various output formats')
             ->addOption(
-                'exclude-field',
+                ExportCommandOptions::EXCLUDE_FIELD,
                 'x',
                 InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
                 'If set, excludes top-level field with the given name from the output. Cannot be used with --include-field',
                 []
             )
             ->addOption(
-                'include-field',
+                ExportCommandOptions::INCLUDE_FIELD,
                 'i',
                 InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
                 'If set, include only these top-level fields with the given name from the output. Cannot be used with --exclude-field',
                 []
             )
             ->addOption(
-                'format',
+                ExportCommandOptions::FORMAT,
                 'f',
                 InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
                 'Output formats',
-                array_keys($this->converters)
+                Formats::getAll()
             )
             ->addOption(
-                'output-dir',
+                ExportCommandOptions::OUTPUT_DIR,
                 null,
                 InputOption::VALUE_OPTIONAL | InputOption::VALUE_REQUIRED,
                 'Directory where you want to put output files',
-                $this->defaultOutputDirectory
+                $this->outputDirectory
             );
     }
 
     /**
-     * @param InputInterface $input
-     * @param OutputInterface $output
-     * @return int
+     * @inheritDoc
      */
-    protected function execute(InputInterface $input, OutputInterface $output)
+    protected function execute(InputInterface $input, OutputInterface $output): int
     {
-        $countries = json_decode(file_get_contents($this->inputFile), true);
-        $excludeFields = $input->getOption('exclude-field');
-        $includeFields = $input->getOption('include-field');
-        $formats = $input->getOption('format');
-        $outputDirectory = $input->getOption('output-dir');
+        $this->setOutputDirectory($input);
+        $this->createOutputDirectory($output);
 
-        foreach ($formats as $format) {
-            $c = $this->converters[$format];
-            if ($output->isVerbose()) {
-                $output->writeln('Converting to ' . $format);
-            }
+        $countries = $this->decodeInputFile();
 
-            /** @var AbstractConverter $converter */
-            $converter = new $c['class']($countries);
-            $fields = $this->getOutputFields($converter->getFields(), $excludeFields, $includeFields);
-
-            $converter
-                ->setOutputDirectory($outputDirectory)
-                ->setFields($fields)
-                ->save($c['output_file']);
+        $outputFields = $this->getOutputFields($input, $countries);
+        if ($output->isVerbose()) {
+            $output->writeln(sprintf('Output fields: %s', implode(',', $outputFields)));
         }
 
-        $count = count($formats);
-        $output->writeln('Converted data for <info>' . count($countries) . '</info> countries into <info>' . $count . '</info> ' . ($count == 1 ? 'format.' : 'formats.'));
-        
+        $countries = $this->filterFields($countries, $outputFields);
+
+        $formats = $this->getFormats($input);
+
+        foreach ($formats as $format) {
+            if ($output->isVerbose()) {
+                $output->writeln(sprintf('Converting to %s', $format));
+            }
+
+            try {
+                $converter = $this->converterFactory->create($format);
+            } catch (\InvalidArgumentException $exception) {
+                $output->writeln(sprintf('Skipping %s format: %s', $format, $exception->getMessage()));
+                continue;
+            }
+
+            $conversionResult = $converter->convert($countries);
+
+            $filename = $this->generateFilename($format);
+            $this->saveConversion($filename, $conversionResult);
+        }
+
+        $this->printResult($output, $countries, $formats);
         return 0;
     }
 
     /**
-     * @param array $baseFields
-     * @param array $excludeFields
-     * @param array $includeFields
+     * @param InputInterface $input
      * @return array
      */
-    private function getOutputFields($baseFields, $excludeFields, $includeFields)
+    protected function getFormats(InputInterface $input): array
     {
-        if ($this->outputFieldsCache) {
-            return $this->outputFieldsCache;
+        return $input->getOption(ExportCommandOptions::FORMAT);
+    }
+
+    /**
+     * @codeCoverageIgnore cannot be tested through unit tests
+     */
+    protected function saveConversion(string $filename, string $conversionResult): bool
+    {
+        $outputFile = $this->outputDirectory . DIRECTORY_SEPARATOR . $filename;
+        $bytesWritten = file_put_contents($outputFile, $conversionResult);
+        return $bytesWritten !== false;
+    }
+
+    /**
+     * @return Factory
+     */
+    private function createConverterFactory(): Factory
+    {
+        return new Factory();
+    }
+
+    /**
+     * @param array $countries
+     * @param array $outputFields
+     * @return array
+     */
+    private function filterFields(array $countries, array $outputFields): array
+    {
+        if (empty($outputFields)) {
+            return $countries;
         }
 
+        $flippedOutputFields = array_flip($outputFields);
+        return array_map(
+            static function ($country) use ($flippedOutputFields) {
+                return array_intersect_key($country, $flippedOutputFields);
+            },
+            $countries
+        );
+    }
+
+    /**
+     * @param InputInterface $input
+     * @param array $countries
+     * @return array
+     * @throws InvalidArgumentException
+     */
+    private function getOutputFields(InputInterface $input, array $countries): array
+    {
+        $baseFields = array_keys(reset($countries));
+        $excludeFields = $input->getOption(ExportCommandOptions::EXCLUDE_FIELD);
+        $includeFields = $input->getOption(ExportCommandOptions::INCLUDE_FIELD);
+
+        $outputFields = $baseFields;
         if (!empty($excludeFields)) {
-            $this->outputFieldsCache = array_diff($baseFields, $excludeFields);
+            $outputFields = array_diff($baseFields, $excludeFields);
         } elseif (!empty($includeFields)) {
-            $this->outputFieldsCache = array_intersect($baseFields, $includeFields);
-        } else {
-            $this->outputFieldsCache = $baseFields;
+            $outputFields = array_intersect($baseFields, $includeFields);
         }
 
-        return $this->outputFieldsCache;
+        return $outputFields;
+    }
+
+    /**
+     * @return array
+     */
+    private function decodeInputFile(): array
+    {
+        return json_decode(file_get_contents($this->inputFile), true);
+    }
+
+    /**
+     * @param OutputInterface $output
+     * @param array $countries
+     * @param array $formats
+     */
+    private function printResult(OutputInterface $output, array $countries, array $formats): void
+    {
+        $formatsCount = count($formats);
+        $output->writeln(
+            sprintf(
+                ngettext(
+                    'Converted data for <info>%d</info> countries into <info>%d</info> format.',
+                    'Converted data for <info>%d</info> countries into <info>%d</info> formats.',
+                    $formatsCount
+                ),
+                count($countries),
+                $formatsCount
+            )
+        );
+    }
+
+    /**
+     * @param OutputInterface $output
+     */
+    private function createOutputDirectory(OutputInterface $output): void
+    {
+        if (is_dir($this->outputDirectory) === false) {
+            if ($output->isVerbose()) {
+                $output->writeln(sprintf('Creating directory %s', $this->outputDirectory));
+            }
+            mkdir($this->outputDirectory);
+        }
+
+        $this->outputDirectory = realpath($this->outputDirectory);
+    }
+
+    /**
+     * @param string $format
+     * @return string
+     */
+    private function generateFilename(string $format): string
+    {
+        $baseFilename = self::BASE_OUTPUT_FILENAME;
+
+        // special case for JSON unespaced
+        if ($format === Formats::JSON_UNESCAPED) {
+            $baseFilename .= '-unescaped';
+            $format = Formats::JSON;
+        }
+
+        return sprintf('%s.%s', $baseFilename, $format);
+    }
+
+    /**
+     * @param InputInterface $input
+     * @throws InvalidArgumentException
+     */
+    private function setOutputDirectory(InputInterface $input): void
+    {
+        $this->outputDirectory = trim($input->getOption(ExportCommandOptions::OUTPUT_DIR) ?? $this->outputDirectory);
     }
 }
