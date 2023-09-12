@@ -7,6 +7,7 @@ namespace MLD\Console\Command;
 use JsonException;
 use MLD\Converter\Factory;
 use MLD\Enum\ExportCommandOptions;
+use MLD\Enum\Fields;
 use MLD\Enum\Formats;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Exception\InvalidArgumentException;
@@ -14,6 +15,7 @@ use Symfony\Component\Console\Exception\LogicException;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
+
 use function count;
 
 /**
@@ -54,28 +56,28 @@ class ExportCommand extends Command
         $this
             ->setDescription('Converts source country data to various output formats')
             ->addOption(
-                ExportCommandOptions::EXCLUDE_FIELD,
+                ExportCommandOptions::EXCLUDE_FIELD->value,
                 'x',
                 InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
                 'If set, excludes top-level field with the given name from the output. Cannot be used with --include-field',
                 []
             )
             ->addOption(
-                ExportCommandOptions::INCLUDE_FIELD,
+                ExportCommandOptions::INCLUDE_FIELD->value,
                 'i',
                 InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
                 'If set, include only these top-level fields with the given name from the output. Cannot be used with --exclude-field',
-                []
+                Fields::values()
             )
             ->addOption(
-                ExportCommandOptions::FORMAT,
+                ExportCommandOptions::FORMAT->value,
                 'f',
                 InputOption::VALUE_IS_ARRAY | InputOption::VALUE_REQUIRED,
                 'Output formats',
-                Formats::getAll()
+                Formats::values()
             )
             ->addOption(
-                ExportCommandOptions::OUTPUT_DIR,
+                ExportCommandOptions::OUTPUT_DIR->value,
                 null,
                 InputOption::VALUE_OPTIONAL | InputOption::VALUE_REQUIRED,
                 'Directory where you want to put output files',
@@ -98,6 +100,8 @@ class ExportCommand extends Command
             return 1;
         }
 
+        $countries = $this->generateFields($countries);
+
         $outputFields = $this->getOutputFields($input, $countries);
         if ($output->isVerbose()) {
             $output->writeln(sprintf('Output fields: %s', implode(',', $outputFields)));
@@ -106,7 +110,6 @@ class ExportCommand extends Command
         $countries = $this->filterFields($countries, $outputFields);
 
         $formats = $this->getFormats($input);
-
         foreach ($formats as $format) {
             if ($output->isVerbose()) {
                 $output->writeln(sprintf('Converting to %s', $format));
@@ -135,7 +138,7 @@ class ExportCommand extends Command
      */
     protected function getFormats(InputInterface $input): array
     {
-        return $input->getOption(ExportCommandOptions::FORMAT);
+        return $input->getOption(ExportCommandOptions::FORMAT->value);
     }
 
     /**
@@ -169,9 +172,7 @@ class ExportCommand extends Command
 
         $flippedOutputFields = array_flip($outputFields);
         return array_map(
-            static function ($country) use ($flippedOutputFields) {
-                return array_intersect_key($country, $flippedOutputFields);
-            },
+            static fn($country) => array_intersect_key($country, $flippedOutputFields),
             $countries
         );
     }
@@ -185,8 +186,8 @@ class ExportCommand extends Command
     private function getOutputFields(InputInterface $input, array $countries): array
     {
         $baseFields = array_keys(reset($countries));
-        $excludeFields = $input->getOption(ExportCommandOptions::EXCLUDE_FIELD);
-        $includeFields = $input->getOption(ExportCommandOptions::INCLUDE_FIELD);
+        $excludeFields = $input->getOption(ExportCommandOptions::EXCLUDE_FIELD->value);
+        $includeFields = $input->getOption(ExportCommandOptions::INCLUDE_FIELD->value);
 
         $outputFields = $baseFields;
         if (!empty($excludeFields)) {
@@ -252,9 +253,9 @@ class ExportCommand extends Command
         $baseFilename = self::BASE_OUTPUT_FILENAME;
 
         // special case for JSON unespaced
-        if ($format === Formats::JSON_UNESCAPED) {
+        if ($format === Formats::JSON_UNESCAPED->value) {
             $baseFilename .= '-unescaped';
-            $format = Formats::JSON;
+            $format = Formats::JSON->value;
         }
 
         return sprintf('%s.%s', $baseFilename, $format);
@@ -266,6 +267,24 @@ class ExportCommand extends Command
      */
     private function setOutputDirectory(InputInterface $input): void
     {
-        $this->outputDirectory = trim($input->getOption(ExportCommandOptions::OUTPUT_DIR) ?? $this->outputDirectory);
+        $this->outputDirectory = trim(
+            $input->getOption(ExportCommandOptions::OUTPUT_DIR->value) ?? $this->outputDirectory
+        );
+    }
+
+    /**
+     * Generate fields that exist only at build time
+     */
+    private function generateFields(array $countries): array
+    {
+        // generate calling codes from the "idd" property
+        $generateCallingCodes = static function ($country) {
+            $country[Fields::CALLING_CODES->value] = array_map(
+                static fn($suffix): string => $country[Fields::IDD->value][Fields::IDD_ROOT->value] . $suffix,
+                $country[Fields::IDD->value][Fields::IDD_SUFFIXES->value]
+            );
+            return $country;
+        };
+        return array_map($generateCallingCodes, $countries);
     }
 }

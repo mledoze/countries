@@ -19,11 +19,11 @@ class Factory
     public function create(string $format): ConverterInterface
     {
         return match ($format) {
-            Formats::CSV => new CsvConverter(),
-            Formats::JSON => new JsonConverter(),
-            Formats::JSON_UNESCAPED => new JsonConverterUnicode(),
-            Formats::XML => new XmlConverter(),
-            Formats::YAML => new YamlConverter(),
+            Formats::CSV->value => new CsvConverter(),
+            Formats::JSON->value => new JsonConverter(),
+            Formats::JSON_UNESCAPED->value => new JsonConverterUnicode(),
+            Formats::XML->value => new XmlConverter(),
+            Formats::YAML->value => new YamlConverter(),
             default => throw new InvalidArgumentException(sprintf('Unsupported format %s', $format)),
         };
     }
