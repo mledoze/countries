@@ -38,12 +38,12 @@ abstract class AbstractJsonConverter extends AbstractConverter
     {
         return array_map(
             static function ($country) {
-                if (isset($country[Fields::LANGUAGES]) && empty($country[Fields::LANGUAGES])) {
-                    $country[Fields::LANGUAGES] = new stdClass();
+                if (isset($country[Fields::LANGUAGES->value]) && empty($country[Fields::LANGUAGES->value])) {
+                    $country[Fields::LANGUAGES->value] = new stdClass();
                 }
 
-                if (isset($country[Fields::NAME][Fields::NATIVE]) && empty($country[Fields::NAME][Fields::NATIVE])) {
-                    $country[Fields::NAME][Fields::NATIVE] = new stdClass();
+                if (isset($country[Fields::NAME->value][Fields::NAME_NATIVE->value]) && empty($country[Fields::NAME->value][Fields::NAME_NATIVE->value])) {
+                    $country[Fields::NAME->value][Fields::NAME_NATIVE->value] = new stdClass();
                 }
                 return $country;
             },
