@@ -46,8 +46,8 @@ class CsvConverter extends AbstractConverter
 
     private function extractCurrencyCodes(array $country): array
     {
-        if (isset($country[Fields::CURRENCIES])) {
-            $country[Fields::CURRENCIES] = array_keys($country[Fields::CURRENCIES]);
+        if (isset($country[Fields::CURRENCIES->value])) {
+            $country[Fields::CURRENCIES->value] = array_keys($country[Fields::CURRENCIES->value]);
         }
 
         return $country;
