@@ -1720,9 +1720,7 @@
             "root": "",
             "suffixes": []
         },
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "altSpellings": [
             "AQ"
         ],
@@ -5791,9 +5789,7 @@
                 "7"
             ]
         },
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "altSpellings": [
             "BV",
             "Bouvet\u00f8ya",
@@ -15346,13 +15342,9 @@
         "currencies": {},
         "idd": {
             "root": "",
-            "suffixes": [
-                ""
-            ]
+            "suffixes": []
         },
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "altSpellings": [
             "HM",
             "Heard Island and McDonald Islands"
@@ -15380,7 +15372,7 @@
                 "common": "Heard ja McDonaldinsaaret"
             },
             "fra": {
-                "official": "Des \u00eeles Heard et McDonald",
+                "official": "\u00celes Heard-et-MacDonald",
                 "common": "\u00celes Heard-et-MacDonald"
             },
             "hrv": {
@@ -21371,9 +21363,7 @@
                 "53"
             ]
         },
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "altSpellings": [
             "MO",
             "\u6fb3\u95e8",
@@ -30139,7 +30129,7 @@
         "currencies": {
             "SDG": {
                 "name": "Sudanese pound",
-                "symbol": ""
+                "symbol": "PT"
             }
         },
         "idd": {
@@ -36135,9 +36125,7 @@
                 "68"
             ]
         },
-        "capital": [
-            ""
-        ],
+        "capital": [],
         "altSpellings": [
             "UM"
         ],

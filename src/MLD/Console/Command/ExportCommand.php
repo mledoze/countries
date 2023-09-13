@@ -25,6 +25,8 @@ use function count;
 class ExportCommand extends Command
 {
     private const BASE_OUTPUT_FILENAME = 'countries';
+    private const EXIT_FAILURE = 1;
+    private const EXIT_SUCCESS = 0;
 
     private string $inputFile;
 
@@ -97,10 +99,10 @@ class ExportCommand extends Command
             $countries = $this->decodeInputFile();
         } catch (JsonException $exception) {
             $output->writeln(sprintf('Failed to decode input countries file: %s', $exception->getMessage()));
-            return 1;
+            return self::EXIT_FAILURE;
         }
 
-        $countries = $this->generateFields($countries);
+        $countries = $this->generateCallingCodes($countries);
 
         $outputFields = $this->getOutputFields($input, $countries);
         if ($output->isVerbose()) {
@@ -108,7 +110,6 @@ class ExportCommand extends Command
         }
 
         $countries = $this->filterFields($countries, $outputFields);
-
         $formats = $this->getFormats($input);
         foreach ($formats as $format) {
             if ($output->isVerbose()) {
@@ -129,7 +130,7 @@ class ExportCommand extends Command
         }
 
         $this->printResult($output, $countries, $formats);
-        return 0;
+        return self::EXIT_SUCCESS;
     }
 
     /**
@@ -273,11 +274,10 @@ class ExportCommand extends Command
     }
 
     /**
-     * Generate fields that exist only at build time
+     * Generate calling codes from the "idd" property
      */
-    private function generateFields(array $countries): array
+    private function generateCallingCodes(array $countries): array
     {
-        // generate calling codes from the "idd" property
         $generateCallingCodes = static function ($country) {
             $country[Fields::CALLING_CODES->value] = array_map(
                 static fn($suffix): string => $country[Fields::IDD->value][Fields::IDD_ROOT->value] . $suffix,
