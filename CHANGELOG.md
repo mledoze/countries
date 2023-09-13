@@ -14,6 +14,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - update official name of Turkey (#458)
 - update flags for Afghanistan, France, Honduras and Mauritania (#455)
+- remove empty strings (#488)
+- fix polish translation of United Kingdom (#453)
 - refactor build script
 
 ## [v4.1.1] - 2023-09-10
