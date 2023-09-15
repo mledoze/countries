@@ -9,28 +9,36 @@ jobs:
       matrix:
         php-versions:
           - "8.1"
-#          - "8.2"
+          - "8.2"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Install packages
         run: sudo apt-get install -y jsonlint
-      - run: find . -type f -name "*.json" | xargs jsonlint-php
 
-#      - name: Install PHP
-#        uses: shivammathur/setup-php@v2
-#        with:
-#          php-version: ${{ matrix.php-versions }}
-#
-#      - name: Install NPM dependencies
-#        run: yarn add jsonlint
-#
-#      - name: Lint JSON files
-#        run: bash ./ci/test.sh
-#
-#      - name: Install Composer dependencies
-#        run: composer install --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
-#
-#      - name: Test conversion of countries data
-#        run: php countries.php convert
+      - name: Lint JSON files
+        run: find . -type f -name "*.json" | xargs jsonlint-php
+
+      - name: Install PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php-versions }}
+          extensions: dom, gettext
+
+      - name: Get composer cache directory
+        id: composer-cache
+        run: echo "dir=$(composer config cache-files-dir)" >> $GITHUB_OUTPUT
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: ${{ steps.composer-cache.outputs.dir }}
+          key: ${{ runner.os }}-composer-${{ hashFiles('**/composer.lock') }}
+          restore-keys: ${{ runner.os }}-composer-
+
+      - name: Install Composer dependencies
+        run: composer install --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
+
+      - name: Test conversion of countries data
+        run: php countries.php convert
