@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - remove empty strings (#488)
 - fix polish translation of United Kingdom (#453)
 - refactor build script
+- add Dependabot integration
 
 ## [v4.1.1] - 2023-09-10
 ### Fixed
