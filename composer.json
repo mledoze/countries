@@ -1,6 +1,5 @@
 {
   "name": "mledoze/countries",
-  "version": "4.1.1",
   "description": "List of world countries in JSON, CSV, XML and Yaml",
   "keywords": [
     "world",
@@ -31,7 +30,7 @@
     "symfony/yaml": "~5.4|~6.3"
   },
   "require-dev": {
-    "roave/security-advisories": "dev-master"
+    "roave/security-advisories": "dev-latest"
   },
   "autoload": {
     "psr-4": {
