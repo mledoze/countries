@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - drop support for old versions of PHP and Symfony
   - the minimum version of PHP is 8.1
   - the supported Symfony versions are 5.4 and 6.3
+- remove Bower integration
 
 ### Changed
 - update official name of Turkey (#458)
