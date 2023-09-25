@@ -1,8 +1,15 @@
 name: CI
-on: push
+on:
+  push:
+    paths-ignore:
+      - "*.md"
+      - .gitignore
+      - index.cjs
+      - index.d.ts
+      - index.mjs
 
 jobs:
-  test:
+  php-tests:
     name: Tests on PHP ${{ matrix.php-versions }}
     runs-on: ubuntu-latest
     strategy:
@@ -14,11 +21,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install packages
-        run: sudo apt-get install -y jsonlint
-
-      - name: Lint JSON files
-        run: find . -type f -name "*.json" | xargs jsonlint-php
+      - name: Validate composer.json and composer.lock
+        run: composer validate --strict
 
       - name: Install PHP
         uses: shivammathur/setup-php@v2
@@ -42,3 +46,16 @@ jobs:
 
       - name: Test conversion of countries data
         run: php countries.php convert
+
+  json-lint:
+    name: Lint JSON files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install packages
+        run: sudo apt-get install -y jsonlint
+
+      - name: Lint JSON files
+        run: find . -type f -name "*.json" | xargs jsonlint-php
