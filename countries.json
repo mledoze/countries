@@ -8790,6 +8790,10 @@
                 "official": "Paese di Cura\u00e7ao",
                 "common": "Cura\u00e7ao"
             },
+            "jpn": {
+                "official": "\u30ad\u30e5\u30e9\u30bd\u30fc",
+                "common": "\u30ad\u30e5\u30e9\u30bd\u30fc"
+            },
             "kor": {
                 "official": "\ud034\ub77c\uc18c",
                 "common": "\ud034\ub77c\uc18c"
@@ -19425,6 +19429,10 @@
             "ita": {
                 "official": "Repubblica del Kosovo",
                 "common": "Kosovo"
+            },
+            "jpn": {
+                "official": "\u30b3\u30bd\u30dc\u5171\u548c\u56fd",
+                "common": "\u30b3\u30bd\u30dc"
             },
             "kor": {
                 "official": "\ucf54\uc18c\ubcf4 \uacf5\ud654\uad6d",
