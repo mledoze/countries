@@ -30447,10 +30447,6 @@
             "common": "Singapore",
             "official": "Republic of Singapore",
             "native": {
-                "zho": {
-                    "official": "\u65b0\u52a0\u5761\u5171\u548c\u56fd",
-                    "common": "\u65b0\u52a0\u5761"
-                },
                 "eng": {
                     "official": "Republic of Singapore",
                     "common": "Singapore"
@@ -30462,6 +30458,10 @@
                 "tam": {
                     "official": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
                     "common": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+                },
+                "zho": {
+                    "official": "\u65b0\u52a0\u5761\u5171\u548c\u56fd",
+                    "common": "\u65b0\u52a0\u5761"
                 }
             }
         },
@@ -30501,10 +30501,10 @@
         "region": "Asia",
         "subregion": "South-Eastern Asia",
         "languages": {
-            "zho": "Chinese",
             "eng": "English",
             "msa": "Malay",
-            "tam": "Tamil"
+            "tam": "Tamil",
+            "zho": "Chinese"
         },
         "translations": {
             "ces": {
