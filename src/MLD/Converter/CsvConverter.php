@@ -26,8 +26,9 @@ class CsvConverter extends AbstractConverter
 
     private function buildHeadersLine(array $countries): string
     {
-        // special case for currencies, use keys only
         $firstEntry = $this->extractCurrencyCodes($countries[0]);
+        $firstEntry = $this->extractLanguages($firstEntry);
+        $firstEntry = $this->removeNativeNames($firstEntry);
         $flattenedFirstEntry = $this->flatten($firstEntry);
         return sprintf('"%s"', implode($this->glue, array_keys($flattenedFirstEntry)));
     }
@@ -37,6 +38,8 @@ class CsvConverter extends AbstractConverter
         $lines = array_map(
             function ($country) {
                 $country = $this->extractCurrencyCodes($country);
+                $country = $this->extractLanguages($country);
+                $country = $this->removeNativeNames($country);
                 return sprintf('"%s"', implode($this->glue, $this->flatten($country)));
             },
             $countries
@@ -44,12 +47,33 @@ class CsvConverter extends AbstractConverter
         return implode(PHP_EOL, $lines) . PHP_EOL;
     }
 
+    /**
+     * Special case for currencies, use keys only
+     */
     private function extractCurrencyCodes(array $country): array
     {
         if (isset($country[Fields::CURRENCIES->value])) {
             $country[Fields::CURRENCIES->value] = array_keys($country[Fields::CURRENCIES->value]);
         }
+        return $country;
+    }
 
+    private function extractLanguages(array $country): array
+    {
+        if (isset($country[Fields::LANGUAGES->value])) {
+            $country[Fields::LANGUAGES->value] = array_values($country[Fields::LANGUAGES->value]);
+        }
+        return $country;
+    }
+
+    /**
+     * Remove `name.native` field to prevent inconsistent column count between countries
+     */
+    private function removeNativeNames(array $country): array
+    {
+        if (isset($country[Fields::NAME->value][Fields::NAME_NATIVE->value])) {
+            unset($country[Fields::NAME->value][Fields::NAME_NATIVE->value]);
+        }
         return $country;
     }
 }
