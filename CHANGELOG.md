@@ -10,6 +10,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add missing translations for Curaçao (Croatian) and Iran (Persian) (#496)
 - add missing Japanese translations for Curaçao and Kosovo (#498)
 - add missing Chinese translations (#498)
+### Fixed
+- fix column count in CSV export (#497)
+  - remove native names
+  - remove incomplete "cym" translations
+  - use currency names only instead of codes and names
+  - add missing "borders" column in CSV export
+  - handle false values as "0"
 
 ## [5.0.0] - 2023-09-17
 ### Breaking changes
