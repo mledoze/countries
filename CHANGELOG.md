@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - use currency names only instead of codes and names
   - add missing "borders" column in CSV export
   - handle false values as "0"
+- fix error when running index.mjs
 
 ## [5.0.0] - 2023-09-17
 ### Breaking changes
