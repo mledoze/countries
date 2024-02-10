@@ -10,6 +10,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add missing translations for Curaçao (Croatian) and Iran (Persian) (#496)
 - add missing Japanese translations for Curaçao and Kosovo (#498)
 - add missing Chinese translations (#498)
+- allow usage with Symfony 7.x (#516)
+- add PHP 8.3 version in CI checks (#516)
+- update `actions/cache` to v4 (#520)
 ### Fixed
 - fix column count in CSV export (#497)
   - remove native names
