@@ -25,7 +25,7 @@
   "require": {
     "ext-dom": "*",
     "ext-gettext": "*",
-    "php": ">=8.1",
+    "php": ">=8.2",
     "symfony/console": "~5.4|~6.4|~7.0",
     "symfony/yaml": "~5.4|~6.4|~7.0"
   },

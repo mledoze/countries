@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - allow usage with Symfony 7.x (#516)
 - add PHP 8.3 version in CI checks (#516)
 - update `actions/cache` to v4 (#520)
+- drop support for PHP 8.1 (#520)
 ### Fixed
 - fix column count in CSV export (#497)
   - remove native names
