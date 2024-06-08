@@ -117,6 +117,10 @@
                 "official": "Aruba",
                 "common": "Aruba"
             },
+            "srp": {
+              "official": "Aruba",
+              "common": "Aruba"
+            },
             "swe": {
                 "official": "Aruba",
                 "common": "Aruba"
@@ -273,6 +277,10 @@
                 "official": "Rep\u00fablica Isl\u00e1mica de Afganist\u00e1n",
                 "common": "Afganist\u00e1n"
             },
+            "srp": {
+              "official": "Islamska Republika Avganistan",
+              "common": "Avganistan"
+            },
             "swe": {
                 "official": "Islamiska republiken Afghanistan",
                 "common": "Afghanistan"
@@ -427,6 +435,10 @@
                 "official": "Rep\u00fablica de Angola",
                 "common": "Angola"
             },
+            "srp": {
+              "official": "Republika Angola",
+              "common": "Angola"
+            },
             "swe": {
                 "official": "Republiken Angola",
                 "common": "Angola"
@@ -577,6 +589,10 @@
                 "official": "Anguila",
                 "common": "Anguilla"
             },
+            "srp": {
+              "official": "Angvila",
+              "common": "Angvila"
+            },
             "swe": {
                 "official": "Anguilla",
                 "common": "Anguilla"
@@ -725,6 +741,10 @@
                 "official": "Islas \u00c5land",
                 "common": "Alandia"
             },
+            "srp": {
+              "official": "Olandska Ostrva",
+              "common": "Olandska Ostrva"
+            },
             "swe": {
                 "official": "\u00c5land",
                 "common": "\u00c5land"
@@ -872,6 +892,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Albania",
                 "common": "Albania"
+            },
+            "srp": {
+              "official": "Republika Albanija",
+              "common": "Albanija"
             },
             "swe": {
                 "official": "Republiken Albanien",
@@ -1025,6 +1049,10 @@
                 "official": "Principado de Andorra",
                 "common": "Andorra"
             },
+            "srp": {
+              "official": "Kne\u017eevina Andora",
+              "common": "Andora"
+            },
             "swe": {
                 "official": "Furstend\u00f6met Andorra",
                 "common": "Andorra"
@@ -1175,6 +1203,10 @@
             "spa": {
                 "official": "Emiratos \u00c1rabes Unidos",
                 "common": "Emiratos \u00c1rabes Unidos"
+            },
+            "srp": {
+              "official": "Ujedinjeni Arapski Emirati",
+              "common": "Ujedinjeni Arapski Emirati"
             },
             "swe": {
                 "official": "F\u00f6renade Arabemiraten",
@@ -1331,6 +1363,10 @@
                 "official": "Rep\u00fablica Argentina",
                 "common": "Argentina"
             },
+            "srp": {
+              "official": "Republika Argentina",
+              "common": "Argentina"
+            },
             "swe": {
                 "official": "Republiken Argentina",
                 "common": "Argentina"
@@ -1484,6 +1520,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Armenia",
                 "common": "Armenia"
+            },
+            "srp": {
+              "official": "Republika Jermenija",
+              "common": "Jermenija"
             },
             "swe": {
                 "official": "Republiken Armenien",
@@ -1643,6 +1683,10 @@
                 "official": "Samoa Americana",
                 "common": "Samoa Americana"
             },
+            "srp": {
+              "official": "Ameri\u010dka Samoa",
+              "common": "Ameri\u010dka Samoa"
+            },
             "swe": {
                 "official": "Amerikanska Samoa",
                 "common": "Amerikanska Samoa"
@@ -1771,6 +1815,10 @@
             "spa": {
                 "official": "Ant\u00e1rtida",
                 "common": "Ant\u00e1rtida"
+            },
+            "srp": {
+              "official": "Antarktik",
+              "common": "Antarktik"
             },
             "swe": {
                 "official": "Antarktis",
@@ -1918,6 +1966,10 @@
                 "official": "Territorio del Franc\u00e9s Tierras australes y ant\u00e1rticas",
                 "common": "Tierras Australes y Ant\u00e1rticas Francesas"
             },
+            "srp": {
+              "official": "Francuske ju\u017ene i antarkti\u010dke zemlje",
+              "common": "Francuske ju\u017ene i antarkti\u010dke zemlje"
+            },
             "swe": {
                 "official": "Franska syd- och Antarktisterritorierna",
                 "common": "Franska s\u00f6dra territorierna"
@@ -2063,6 +2115,10 @@
                 "official": "Antigua y Barbuda",
                 "common": "Antigua y Barbuda"
             },
+            "srp": {
+              "official": "Antigva i Barbuda",
+              "common": "Antigva i Barbuda"
+            },
             "swe": {
                 "official": "Antigua och Barbuda",
                 "common": "Antigua och Barbuda"
@@ -2207,6 +2263,10 @@
             "spa": {
                 "official": "Mancomunidad de Australia",
                 "common": "Australia"
+            },
+            "srp": {
+              "official": "Komonvelt Australija",
+              "common": "Australija"
             },
             "swe": {
                 "official": "Australiska statsf\u00f6rbundet",
@@ -2354,6 +2414,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Austria",
                 "common": "Austria"
+            },
+            "srp": {
+              "official": "Republika Austrija",
+              "common": "Austrija"
             },
             "swe": {
                 "official": "Republiken \u00d6sterrike",
@@ -2516,6 +2580,10 @@
                 "official": "Rep\u00fablica de Azerbaiy\u00e1n",
                 "common": "Azerbaiy\u00e1n"
             },
+            "srp": {
+              "official": "Republika Azerbejd\u017ean",
+              "common": "Azerbejd\u017ean"
+            },
             "swe": {
                 "official": "Republiken Azerbajdzjan",
                 "common": "Azerbajdzjan"
@@ -2674,6 +2742,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Burundi",
                 "common": "Burundi"
+            },
+            "srp": {
+              "official": "Republika Burundi",
+              "common": "Burundi"
             },
             "swe": {
                 "official": "Republiken Burundi",
@@ -2842,6 +2914,10 @@
                 "official": "Reino de B\u00e9lgica",
                 "common": "B\u00e9lgica"
             },
+            "srp": {
+              "official": "Kraljevina Belgija",
+              "common": "Belgija"
+            },
             "swe": {
                 "official": "Konungariket Belgien",
                 "common": "Belgien"
@@ -2994,6 +3070,10 @@
                 "official": "Rep\u00fablica de Benin",
                 "common": "Ben\u00edn"
             },
+            "srp": {
+              "official": "Republika Benin",
+              "common": "Benin"
+            },
             "swe": {
                 "official": "Republiken Benin",
                 "common": "Benin"
@@ -3143,6 +3223,10 @@
             "spa": {
                 "official": "Burkina Faso",
                 "common": "Burkina Faso"
+            },
+            "srp": {
+              "official": "Burkina Faso",
+              "common": "Burkina Faso"
             },
             "swe": {
                 "official": "Burkina Faso",
@@ -3298,6 +3382,10 @@
                 "official": "Rep\u00fablica Popular de Bangladesh",
                 "common": "Bangladesh"
             },
+            "srp": {
+              "official": "Narodna Republika Banglade\u0161",
+              "common": "Banglade\u0161"
+            },
             "swe": {
                 "official": "Folkrepubliken Bangladesh",
                 "common": "Bangladesh"
@@ -3447,6 +3535,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Bulgaria",
                 "common": "Bulgaria"
+            },
+            "srp": {
+              "official": "Republika Bugarska",
+              "common": "Bugarska"
             },
             "swe": {
                 "official": "Republiken Bulgarien",
@@ -3601,6 +3693,10 @@
                 "official": "Reino de Bahrein",
                 "common": "Bahrein"
             },
+            "srp": {
+              "official": "Kraljevina Bahrein",
+              "common": "Bahrein"
+            },
             "swe": {
                 "official": "Konungariket Bahrain",
                 "common": "Bahrain"
@@ -3750,6 +3846,10 @@
             "spa": {
                 "official": "Commonwealth de las Bahamas",
                 "common": "Bahamas"
+            },
+            "srp": {
+              "official": "Komonvelt Bahama",
+              "common": "Bahami"
             },
             "swe": {
                 "official": "Samv\u00e4ldet Bahamas",
@@ -3908,6 +4008,10 @@
                 "official": "Bosnia y Herzegovina",
                 "common": "Bosnia y Herzegovina"
             },
+            "srp": {
+              "official": "Bosna i Hercegovina",
+              "common": "Bosna i Hercegovina"
+            },
             "swe": {
                 "official": "Bosnien och Hercegovina",
                 "common": "Bosnien och Hercegovina"
@@ -4060,6 +4164,10 @@
                 "official": "Colectividad de San Barth\u00e9lemy",
                 "common": "San Bartolom\u00e9"
             },
+            "srp": {
+              "official": "Sveti Bartolomej",
+              "common": "kolektivitet Sveti Bartolomej"
+            },
             "swe": {
                 "official": "Saint-Barth\u00e9lemy",
                 "common": "Saint-Barth\u00e9lemy"
@@ -4211,6 +4319,10 @@
             "spa": {
                 "official": "Santa Elena, Ascensi\u00f3n y Trist\u00e1n de Acu\u00f1a",
                 "common": "Santa Elena, Ascensi\u00f3n y Trist\u00e1n de Acu\u00f1a"
+            },
+            "srp": {
+              "official": "Sveta Jelena",
+              "common": "Sveta Jelena"
             },
             "swe": {
                 "official": "Sankta Helena",
@@ -4365,6 +4477,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Belar\u00fas",
                 "common": "Bielorrusia"
+            },
+            "srp": {
+              "official": "Republika Belorusija",
+              "common": "Belorusija"
             },
             "swe": {
                 "official": "Republiken Vitryssland",
@@ -4527,6 +4643,10 @@
                 "official": "Belice",
                 "common": "Belice"
             },
+            "srp": {
+              "official": "Belize",
+              "common": "Belize"
+            },
             "swe": {
                 "official": "Belize",
                 "common": "Belize"
@@ -4677,6 +4797,10 @@
             "spa": {
                 "official": "Bermuda",
                 "common": "Bermudas"
+            },
+            "srp": {
+              "official": "Bermuda",
+              "common": "Bermudi"
             },
             "swe": {
                 "official": "Bermuda",
@@ -4846,6 +4970,10 @@
                 "official": "Estado Plurinacional de Bolivia",
                 "common": "Bolivia"
             },
+            "srp": {
+              "official": "Vi\u0161enacionalna Dr\u017eava Bolivija",
+              "common": "Bolivija"
+            },
             "swe": {
                 "official": "M\u00e5ngnationella staten Bolivia",
                 "common": "Bolivia"
@@ -5006,6 +5134,10 @@
                 "official": "Bonaire, San Eustaquio y Saba",
                 "common": "Caribe Neerland\u00e9s"
             },
+            "srp": {
+              "official": "Karipska Holandija",
+              "common": "Karipska Holandija"
+            },
             "swe": {
                 "official": "Bonaire, Sint Eustatius and Saba",
                 "common": "Karibiska Nederl\u00e4nderna"
@@ -5153,6 +5285,10 @@
             "spa": {
                 "official": "Rep\u00fablica Federativa del Brasil",
                 "common": "Brasil"
+            },
+            "srp": {
+              "official": "Federativna Republika Brazil",
+              "common": "Brazil"
             },
             "swe": {
                 "official": "F\u00f6rbundsrepubliken Brasilien",
@@ -5310,6 +5446,10 @@
                 "official": "Barbados",
                 "common": "Barbados"
             },
+            "srp": {
+              "official": "Barbados",
+              "common": "Barbados"
+            },
             "swe": {
                 "official": "Barbados",
                 "common": "Barbados"
@@ -5461,6 +5601,10 @@
             "spa": {
                 "official": "Naci\u00f3n de Brunei, Morada de la Paz",
                 "common": "Brunei"
+            },
+            "srp": {
+              "official": "Brunej Darusalam",
+              "common": "Brunej"
             },
             "swe": {
                 "official": "Brunei Darussalam",
@@ -5614,6 +5758,10 @@
                 "official": "Reino de But\u00e1n",
                 "common": "But\u00e1n"
             },
+            "srp": {
+              "official": "Kraljevina Butan",
+              "common": "Butan"
+            },
             "swe": {
                 "official": "Konungariket Bhutan",
                 "common": "Bhutan"
@@ -5756,6 +5904,10 @@
             "spa": {
                 "official": "Isla Bouvet",
                 "common": "Isla Bouvet"
+            },
+            "srp": {
+              "official": "Ostrvo Buve",
+              "common": "Buve"
             },
             "swe": {
                 "official": "Bouvet\u00f6n",
@@ -5908,6 +6060,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Botswana",
                 "common": "Botswana"
+            },
+            "srp": {
+              "official": "Republika Bocvana",
+              "common": "Bocvana"
             },
             "swe": {
                 "official": "Republiken Botswana",
@@ -6065,6 +6221,10 @@
             "spa": {
                 "official": "Rep\u00fablica Centroafricana",
                 "common": "Rep\u00fablica Centroafricana"
+            },
+            "srp": {
+              "official": "Centralnoafri\u010dka Republika",
+              "common": "Centralnoafri\u010dka Republika"
             },
             "swe": {
                 "official": "Centralafrikanska republiken",
@@ -6288,6 +6448,10 @@
                 "official": "Canad\u00e1",
                 "common": "Canad\u00e1"
             },
+            "srp": {
+              "official": "Kanada",
+              "common": "Kanada"
+            },
             "swe": {
                 "official": "Kanada",
                 "common": "Kanada"
@@ -6436,6 +6600,10 @@
             "spa": {
                 "official": "Territorio de los (Keeling) Islas Cocos",
                 "common": "Islas Cocos o Islas Keeling"
+            },
+            "srp": {
+              "official": "Teritorija Kokosovih (Kiling) Ostrva",
+              "common": "Kokosova Ostrva"
             },
             "swe": {
                 "official": "Kokos\u00f6arna",
@@ -6602,6 +6770,10 @@
                 "official": "Confederaci\u00f3n Suiza",
                 "common": "Suiza"
             },
+            "srp": {
+              "official": "\u0160vajcarska Konfederacija",
+              "common": "\u0160vajcarska"
+            },
             "swe": {
                 "official": "Schweiziska edsf\u00f6rbundet",
                 "common": "Schweiz"
@@ -6754,6 +6926,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Chile",
                 "common": "Chile"
+            },
+            "srp": {
+              "official": "Republika \u010cile",
+              "common": "\u010cile"
             },
             "swe": {
                 "official": "Republiken Chile",
@@ -6913,6 +7089,10 @@
             "spa": {
                 "official": "Rep\u00fablica Popular de China",
                 "common": "China"
+            },
+            "srp": {
+              "official": "Narodna Republika Kina",
+              "common": "Kina"
             },
             "swe": {
                 "official": "Folkrepubliken Kina",
@@ -7080,6 +7260,10 @@
                 "official": "Rep\u00fablica de C\u00f4te d'Ivoire",
                 "common": "Costa de Marfil"
             },
+            "srp": {
+              "official": "Republika Obala Slonova\u010de",
+              "common": "Obala Slonova\u010de"
+            },
             "swe": {
                 "official": "Republiken Elfenbenskusten",
                 "common": "Elfenbenskusten"
@@ -7237,6 +7421,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Camer\u00fan",
                 "common": "Camer\u00fan"
+            },
+            "srp": {
+              "official": "Republika Kamerun",
+              "common": "Kamerun"
             },
             "swe": {
                 "official": "Republiken Kamerun",
@@ -7414,6 +7602,10 @@
                 "official": "Rep\u00fablica Democr\u00e1tica del Congo",
                 "common": "Congo (Rep. Dem.)"
             },
+            "srp": {
+              "official": "Demokratska Republika Kongo",
+              "common": "Kongo, Demokratska Republika"
+            },
             "swe": {
                 "official": "Demokratiska republiken Kongo",
                 "common": "Kongo-Kinshasa"
@@ -7581,6 +7773,10 @@
                 "official": "Rep\u00fablica del Congo",
                 "common": "Congo"
             },
+            "srp": {
+              "official": "Republika Kongo",
+              "common": "Kongo, Republika"
+            },
             "swe": {
                 "official": "Republiken Kongo",
                 "common": "Kongo-Brazzaville"
@@ -7742,6 +7938,10 @@
                 "official": "Islas Cook",
                 "common": "Islas Cook"
             },
+            "srp": {
+              "official": "Kukova Ostrva",
+              "common": "Kukova Ostrva"
+            },
             "swe": {
                 "official": "Cook\u00f6arna",
                 "common": "Cook\u00f6arna"
@@ -7888,6 +8088,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Colombia",
                 "common": "Colombia"
+            },
+            "srp": {
+              "official": "Republika Kolumbija",
+              "common": "Kolumbija"
             },
             "swe": {
                 "official": "Republiken Colombia",
@@ -8054,6 +8258,10 @@
                 "official": "Uni\u00f3n de las Comoras",
                 "common": "Comoras"
             },
+            "srp": {
+              "official": "Unija Komora",
+              "common": "Komori"
+            },
             "swe": {
                 "official": "Unionen Komorerna",
                 "common": "Komorerna"
@@ -8201,6 +8409,10 @@
                 "official": "Rep\u00fablica de Cabo Verde",
                 "common": "Cabo Verde"
             },
+            "srp": {
+              "official": "Republika Zelenortska Ostrva",
+              "common": "Zelenortska Ostrva"
+            },
             "swe": {
                 "official": "Republiken Kap Verde",
                 "common": "Kap Verde"
@@ -8347,6 +8559,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Costa Rica",
                 "common": "Costa Rica"
+            },
+            "srp": {
+              "official": "Republika Kostarika",
+              "common": "Kostarika"
             },
             "swe": {
                 "official": "Republiken Costa Rica",
@@ -8501,6 +8717,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Cuba",
                 "common": "Cuba"
+            },
+            "srp": {
+              "official": "Republika Kuba",
+              "common": "Kuba"
             },
             "swe": {
                 "official": "Republiken Kuba",
@@ -8662,6 +8882,10 @@
                 "official": "Pa\u00eds de Curazao",
                 "common": "Curazao"
             },
+            "srp": {
+              "official": "Dr\u017eava Kurasao",
+              "common": "Kurasao"
+            },
             "swe": {
                 "official": "Cura\u00e7ao",
                 "common": "Cura\u00e7ao"
@@ -8808,6 +9032,10 @@
                 "official": "Territorio de la Isla de Navidad",
                 "common": "Isla de Navidad"
             },
+            "srp": {
+              "official": "Teritorija Bo\u017ei\u0107no ostrvo",
+              "common": "Bo\u017ei\u0107no Ostrvo"
+            },
             "swe": {
                 "official": "Jul\u00f6n",
                 "common": "Jul\u00f6n"
@@ -8952,6 +9180,10 @@
             "spa": {
                 "official": "Islas Caim\u00e1n",
                 "common": "Islas Caim\u00e1n"
+            },
+            "srp": {
+              "official": "Kajmanska Ostrva",
+              "common": "Kajmanska Ostrva"
             },
             "swe": {
                 "official": "Cayman\u00f6arna",
@@ -9108,6 +9340,10 @@
                 "official": "Rep\u00fablica de Chipre",
                 "common": "Chipre"
             },
+            "srp": {
+              "official": "Republika Kipar",
+              "common": "Kipar"
+            },
             "swe": {
                 "official": "Republiken Cypern",
                 "common": "Cypern"
@@ -9260,6 +9496,10 @@
                 "official": "Rep\u00fablica Checa",
                 "common": "Chequia"
             },
+            "srp": {
+              "official": "\u010ce\u0161ka Republika",
+              "common": "\u010ce\u0161ka"
+            },
             "swe": {
                 "official": "Republiken Tjeckien",
                 "common": "Tjeckien"
@@ -9411,6 +9651,10 @@
             "spa": {
                 "official": "Rep\u00fablica Federal de Alemania",
                 "common": "Alemania"
+            },
+            "srp": {
+              "official": "Savezna Republika Nema\u010dka",
+              "common": "Nema\u010dka"
             },
             "swe": {
                 "official": "F\u00f6rbundsrepubliken Tyskland",
@@ -9578,6 +9822,10 @@
                 "official": "Rep\u00fablica de Djibouti",
                 "common": "Djibouti"
             },
+            "srp": {
+              "official": "Republika D\u017eibuti",
+              "common": "D\u017eibuti"
+            },
             "swe": {
                 "official": "Republiken Djibouti",
                 "common": "Djibouti"
@@ -9730,6 +9978,10 @@
                 "official": "Mancomunidad de Dominica",
                 "common": "Dominica"
             },
+            "srp": {
+              "official": "Komonvelt Dominika",
+              "common": "Dominika"
+            },
             "swe": {
                 "official": "Samv\u00e4ldet Dominica",
                 "common": "Dominica"
@@ -9877,6 +10129,10 @@
             "spa": {
                 "official": "Reino de Dinamarca",
                 "common": "Dinamarca"
+            },
+            "srp": {
+              "official": "Kraljevina Danska",
+              "common": "Danska"
             },
             "swe": {
                 "official": "Konungariket Danmark",
@@ -10027,6 +10283,10 @@
                 "official": "Rep\u00fablica Dominicana",
                 "common": "Rep\u00fablica Dominicana"
             },
+            "srp": {
+              "official": "Dominikanska Republika",
+              "common": "Dominikanska Republika"
+            },
             "swe": {
                 "official": "Dominikanska republiken",
                 "common": "Dominikanska republiken"
@@ -10176,6 +10436,10 @@
             "spa": {
                 "official": "Rep\u00fablica Argelina Democr\u00e1tica y Popular",
                 "common": "Argelia"
+            },
+            "srp": {
+              "official": "Narodna Demokratska Republika Al\u017eir",
+              "common": "Al\u017eir"
             },
             "swe": {
                 "official": "Demokratiska folkrepubliken Algeriet",
@@ -10332,6 +10596,10 @@
                 "official": "Rep\u00fablica del Ecuador",
                 "common": "Ecuador"
             },
+            "srp": {
+              "official": "Republika Ekvador",
+              "common": "Ekvador"
+            },
             "swe": {
                 "official": "Republiken Ecuador",
                 "common": "Ecuador"
@@ -10481,6 +10749,10 @@
             "spa": {
                 "official": "Rep\u00fablica \u00c1rabe de Egipto",
                 "common": "Egipto"
+            },
+            "srp": {
+              "official": "Arapska Republika Egipat",
+              "common": "Egipat"
             },
             "swe": {
                 "official": "Arabrepubliken Egypten",
@@ -10646,6 +10918,10 @@
             "spa": {
                 "official": "Estado de Eritrea",
                 "common": "Eritrea"
+            },
+            "srp": {
+              "official": "Dr\u017eava Eritreja",
+              "common": "Eritreja"
             },
             "swe": {
                 "official": "Staten Eritrea",
@@ -10816,6 +11092,10 @@
                 "official": "Rep\u00fablica \u00c1rabe Saharaui Democr\u00e1tica",
                 "common": "Sahara Occidental"
             },
+            "srp": {
+              "official": "Saharska Arapska Demokratska Republika",
+              "common": "Zapadna Sahara"
+            },
             "swe": {
                 "official": "V\u00e4stsahara",
                 "common": "V\u00e4stsahara"
@@ -10966,6 +11246,10 @@
             "spa": {
                 "official": "Reino de Espa\u00f1a",
                 "common": "Espa\u00f1a"
+            },
+            "srp": {
+              "official": "Kraljevina \u0160panija",
+              "common": "\u0160panija"
             },
             "swe": {
                 "official": "Konungariket Spanien",
@@ -11121,6 +11405,10 @@
                 "official": "Rep\u00fablica de Estonia",
                 "common": "Estonia"
             },
+            "srp": {
+              "official": "Republika Estonija",
+              "common": "Estonija"
+            },
             "swe": {
                 "official": "Republiken Estland",
                 "common": "Estland"
@@ -11271,6 +11559,10 @@
             "spa": {
                 "official": "Rep\u00fablica Democr\u00e1tica Federal de Etiop\u00eda",
                 "common": "Etiop\u00eda"
+            },
+            "srp": {
+              "official": "Savezna Demokratska Republika Etiopija",
+              "common": "Etiopija"
             },
             "swe": {
                 "official": "Demokratiska f\u00f6rbundsrepubliken Etiopien",
@@ -11432,6 +11724,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Finlandia",
                 "common": "Finlandia"
+            },
+            "srp": {
+              "official": "Republika Finska",
+              "common": "Finska"
             },
             "swe": {
                 "official": "Republiken Finland",
@@ -11596,6 +11892,10 @@
                 "official": "Rep\u00fablica de Fiji",
                 "common": "Fiyi"
             },
+            "srp": {
+              "official": "Republika Fid\u017ei",
+              "common": "Fid\u017ei"
+            },
             "swe": {
                 "official": "Republiken Fiji",
                 "common": "Fiji"
@@ -11743,6 +12043,10 @@
                 "official": "islas Malvinas",
                 "common": "Islas Malvinas"
             },
+            "srp": {
+              "official": "Folklandska ostrva",
+              "common": "Folklandska ostrva"
+            },
             "swe": {
                 "official": "Falklands\u00f6arna",
                 "common": "Falklands\u00f6arna"
@@ -11889,6 +12193,10 @@
             "spa": {
                 "official": "Rep\u00fablica franc\u00e9s",
                 "common": "Francia"
+            },
+            "srp": {
+              "official": "Republika Francuska",
+              "common": "Francuska"
             },
             "swe": {
                 "official": "Republiken Frankrike",
@@ -12055,6 +12363,10 @@
                 "official": "Islas Feroe",
                 "common": "Islas Faroe"
             },
+            "srp": {
+              "official": "Farska Ostrva",
+              "common": "Farska Ostrva"
+            },
             "swe": {
                 "official": "F\u00e4r\u00f6arna",
                 "common": "F\u00e4r\u00f6arna"
@@ -12196,6 +12508,10 @@
             "spa": {
                 "official": "Estados Federados de Micronesia",
                 "common": "Micronesia"
+            },
+            "srp": {
+              "official": "Savezne Dr\u017eave Mikronezije",
+              "common": "Mikronezija"
             },
             "swe": {
                 "official": "Mikronesiska federationen",
@@ -12343,6 +12659,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Gab\u00f3n",
                 "common": "Gab\u00f3n"
+            },
+            "srp": {
+              "official": "Gabonska Republika",
+              "common": "Gabon"
             },
             "swe": {
                 "official": "Republiken Gabon",
@@ -12495,6 +12815,10 @@
                 "official": "Reino Unido de Gran Breta\u00f1a e Irlanda del Norte",
                 "common": "Reino Unido"
             },
+            "srp": {
+              "official": "Ujedinjeno Kraljevstvo Velike Britanije i Severne Irske",
+              "common": "Ujedinjeno Kraljevstvo"
+            },
             "swe": {
                 "official": "F\u00f6renade konungariket Storbritannien och Nordirland",
                 "common": "Storbritannien"
@@ -12642,6 +12966,10 @@
             "spa": {
                 "official": "Georgia",
                 "common": "Georgia"
+            },
+            "srp": {
+              "official": "Gruzija",
+              "common": "Gruzija"
             },
             "swe": {
                 "official": "Georgien",
@@ -12809,6 +13137,10 @@
                 "official": "Bail\u00eda de Guernsey",
                 "common": "Guernsey"
             },
+            "srp": {
+              "official": "Bejlivik Gernzi",
+              "common": "Gernzi"
+            },
             "swe": {
                 "official": "Guernsey",
                 "common": "Guernsey"
@@ -12953,6 +13285,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Ghana",
                 "common": "Ghana"
+            },
+            "srp": {
+              "official": "Republika Gana",
+              "common": "Gana"
             },
             "swe": {
                 "official": "Republiken Ghana",
@@ -13103,6 +13439,10 @@
                 "official": "Gibraltar",
                 "common": "Gibraltar"
             },
+            "srp": {
+              "official": "Gibraltar",
+              "common": "Gibraltar"
+            },
             "swe": {
                 "official": "Gibraltar",
                 "common": "Gibraltar"
@@ -13251,6 +13591,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Guinea",
                 "common": "Guinea"
+            },
+            "srp": {
+              "official": "Republika Gvineja",
+              "common": "Gvineja"
             },
             "swe": {
                 "official": "Republiken Guinea",
@@ -13405,6 +13749,10 @@
                 "official": "Guadalupe",
                 "common": "Guadalupe"
             },
+            "srp": {
+              "official": "Gvadelup",
+              "common": "Gvadelup"
+            },
             "swe": {
                 "official": "Guadeloupe",
                 "common": "Guadeloupe"
@@ -13550,6 +13898,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Gambia",
                 "common": "Gambia"
+            },
+            "srp": {
+              "official": "Republika Gambija",
+              "common": "Gambija"
             },
             "swe": {
                 "official": "Republiken Gambia",
@@ -13704,6 +14056,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Guinea-Bissau",
                 "common": "Guinea-Bis\u00e1u"
+            },
+            "srp": {
+              "official": "Republika Gvineja Bisao",
+              "common": "Gvineja Bisao"
             },
             "swe": {
                 "official": "Republiken Guinea-Bissau",
@@ -13867,6 +14223,10 @@
                 "official": "Rep\u00fablica de Guinea Ecuatorial",
                 "common": "Guinea Ecuatorial"
             },
+            "srp": {
+              "official": "Republika Ekvatorijalna Gvineja",
+              "common": "Ekvatorijalna Gvineja"
+            },
             "swe": {
                 "official": "Republiken Ekvatorialguinea",
                 "common": "Ekvatorialguinea"
@@ -14018,6 +14378,10 @@
                 "official": "Rep\u00fablica Hel\u00e9nica",
                 "common": "Grecia"
             },
+            "srp": {
+              "official": "Republika Gr\u010dka",
+              "common": "Gr\u010dka"
+            },
             "swe": {
                 "official": "Republiken Grekland",
                 "common": "Grekland"
@@ -14168,6 +14532,10 @@
                 "official": "Granada",
                 "common": "Grenada"
             },
+            "srp": {
+              "official": "Grenada",
+              "common": "Grenada"
+            },
             "swe": {
                 "official": "Grenada",
                 "common": "Grenada"
@@ -14314,6 +14682,10 @@
                 "official": "Groenlandia",
                 "common": "Groenlandia"
             },
+            "srp": {
+              "official": "Grenland",
+              "common": "Grenland"
+            },
             "swe": {
                 "official": "Gr\u00f6nland",
                 "common": "Gr\u00f6nland"
@@ -14458,6 +14830,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Guatemala",
                 "common": "Guatemala"
+            },
+            "srp": {
+              "official": "Republika Gvatemala",
+              "common": "Gvatemala"
             },
             "swe": {
                 "official": "Republiken Guatemala",
@@ -14610,6 +14986,10 @@
             "spa": {
                 "official": "Guayana",
                 "common": "Guayana Francesa"
+            },
+            "srp": {
+              "official": "Gvajana",
+              "common": "Francuska Gvajana"
             },
             "swe": {
                 "official": "Franska Guyana",
@@ -14770,6 +15150,10 @@
                 "official": "Guam",
                 "common": "Guam"
             },
+            "srp": {
+              "official": "Gvam",
+              "common": "Gvam"
+            },
             "swe": {
                 "official": "Guam",
                 "common": "Guam"
@@ -14915,6 +15299,10 @@
             "spa": {
                 "official": "Rep\u00fablica Cooperativa de Guyana",
                 "common": "Guyana"
+            },
+            "srp": {
+              "official": "Kooperativna Republika Gvajana",
+              "common": "Gvajana"
             },
             "swe": {
                 "official": "Kooperativa republiken Guyana",
@@ -15071,6 +15459,10 @@
                 "official": "Hong Kong Regi\u00f3n Administrativa Especial de la Rep\u00fablica Popular China",
                 "common": "Hong Kong"
             },
+            "srp": {
+              "official": "Hongkong specijalna administrativna oblast Narodne Republike Kine",
+              "common": "Hongkong"
+            },
             "swe": {
                 "official": "Hongkong",
                 "common": "Hongkong"
@@ -15210,6 +15602,10 @@
             "spa": {
                 "official": "Islas Heard y McDonald",
                 "common": "Islas Heard y McDonald"
+            },
+            "srp": {
+              "official": "Herdovo ostrvo i Makdonaldova ostrva",
+              "common": "Herdovo ostrvo i Makdonaldova ostrva"
             },
             "swe": {
                 "official": "Heard- och McDonald\u00f6arna",
@@ -15357,6 +15753,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Honduras",
                 "common": "Honduras"
+            },
+            "srp": {
+              "official": "Republika Honduras",
+              "common": "Honduras"
             },
             "swe": {
                 "official": "Republiken Honduras",
@@ -15509,6 +15909,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Croacia",
                 "common": "Croacia"
+            },
+            "srp": {
+              "official": "Republika Hrvatska",
+              "common": "Hrvatska"
             },
             "swe": {
                 "official": "Republiken Kroatien",
@@ -15669,6 +16073,10 @@
                 "official": "Rep\u00fablica de Hait\u00ed",
                 "common": "Hait\u00ed"
             },
+            "srp": {
+              "official": "Republika Haiti",
+              "common": "Haiti"
+            },
             "swe": {
                 "official": "Republiken Haiti",
                 "common": "Haiti"
@@ -15815,6 +16223,10 @@
             "spa": {
                 "official": "Hungr\u00eda",
                 "common": "Hungr\u00eda"
+            },
+            "srp": {
+              "official": "Madjarska",
+              "common": "Madjarska"
             },
             "swe": {
                 "official": "Ungern",
@@ -15970,6 +16382,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Indonesia",
                 "common": "Indonesia"
+            },
+            "srp": {
+              "official": "Republika Indonezija",
+              "common": "Indonezija"
             },
             "swe": {
                 "official": "Republiken Indonesien",
@@ -16132,6 +16548,10 @@
                 "official": "Isla de Man",
                 "common": "Isla de Man"
             },
+            "srp": {
+              "official": "Ostrvo Men",
+              "common": "Men Ostrvo"
+            },
             "swe": {
                 "official": "Isle of Man",
                 "common": "Isle of Man"
@@ -16291,6 +16711,10 @@
                 "official": "Rep\u00fablica de la India",
                 "common": "India"
             },
+            "srp": {
+              "official": "Republika Indija",
+              "common": "Indija"
+            },
             "swe": {
                 "official": "Republiken Indien",
                 "common": "Indien"
@@ -16442,6 +16866,10 @@
             "spa": {
                 "official": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico",
                 "common": "Territorio Brit\u00e1nico del Oc\u00e9ano \u00cdndico"
+            },
+            "srp": {
+              "official": "Britanska Teritorija Indijskog Okeana",
+              "common": "Britanska Teritorija Indijskog Okeana"
             },
             "swe": {
                 "official": "Brittiska territoriet i Indiska Oceanen",
@@ -16596,6 +17024,10 @@
                 "official": "Rep\u00fablica de Irlanda",
                 "common": "Irlanda"
             },
+            "srp": {
+              "official": "Republika Irska",
+              "common": "Irska"
+            },
             "swe": {
                 "official": "Irland",
                 "common": "Irland"
@@ -16746,6 +17178,10 @@
             "spa": {
                 "official": "Rep\u00fablica Isl\u00e1mica de Ir\u00e1n",
                 "common": "Iran"
+            },
+            "srp": {
+              "official": "Islamska Republika Iran",
+              "common": "Iran"
             },
             "swe": {
                 "official": "Islamiska republiken Iran",
@@ -16912,6 +17348,10 @@
                 "official": "Rep\u00fablica de Irak",
                 "common": "Irak"
             },
+            "srp": {
+              "official": "Republika Irak",
+              "common": "Irak"
+            },
             "swe": {
                 "official": "Republiken Irak",
                 "common": "Irak"
@@ -17067,6 +17507,10 @@
                 "official": "Islandia",
                 "common": "Islandia"
             },
+            "srp": {
+              "official": "Republika Island",
+              "common": "Island"
+            },
             "swe": {
                 "official": "Island",
                 "common": "Island"
@@ -17218,6 +17662,10 @@
             "spa": {
                 "official": "Estado de Israel",
                 "common": "Israel"
+            },
+            "srp": {
+              "official": "Dr\u017eava Izrael",
+              "common": "Izrael"
             },
             "swe": {
                 "official": "Staten Israel",
@@ -17371,6 +17819,10 @@
             "spa": {
                 "official": "Rep\u00fablica Italiana",
                 "common": "Italia"
+            },
+            "srp": {
+              "official": "Republika Italija",
+              "common": "Italija"
             },
             "swe": {
                 "official": "Republiken Italien",
@@ -17528,6 +17980,10 @@
             "spa": {
                 "official": "Jamaica",
                 "common": "Jamaica"
+            },
+            "srp": {
+              "official": "Jamajka",
+              "common": "Jamajka"
             },
             "swe": {
                 "official": "Jamaica",
@@ -17691,6 +18147,10 @@
                 "official": "Bail\u00eda de Jersey",
                 "common": "Jersey"
             },
+            "srp": {
+              "official": "Bejlivik D\u017Eerzi",
+              "common": "D\u017Eerzi"
+            },
             "swe": {
                 "official": "Jersey",
                 "common": "Jersey"
@@ -17838,6 +18298,10 @@
             "spa": {
                 "official": "Reino Hachemita de Jordania",
                 "common": "Jordania"
+            },
+            "srp": {
+              "official": "Ha\u0161emitska Kraljevina Jordan",
+              "common": "Jordan"
             },
             "swe": {
                 "official": "Hashimitiska kungad\u00f6met Jordanien",
@@ -17992,6 +18456,10 @@
             "spa": {
                 "official": "Jap\u00f3n",
                 "common": "Jap\u00f3n"
+            },
+            "srp": {
+              "official": "Japan",
+              "common": "Japan"
             },
             "swe": {
                 "official": "Japan",
@@ -18152,6 +18620,10 @@
                 "official": "Rep\u00fablica de Kazajst\u00e1n",
                 "common": "Kazajist\u00e1n"
             },
+            "srp": {
+              "official": "Republika Kazahstan",
+              "common": "Kazahstan"
+            },
             "swe": {
                 "official": "Republiken Kazakstan",
                 "common": "Kazakstan"
@@ -18309,6 +18781,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Kenya",
                 "common": "Kenia"
+            },
+            "srp": {
+              "official": "Republika Kenija",
+              "common": "Kenija"
             },
             "swe": {
                 "official": "Republiken Kenya",
@@ -18470,6 +18946,10 @@
                 "official": "Rep\u00fablica Kirguisa",
                 "common": "Kirguizist\u00e1n"
             },
+            "srp": {
+              "official": "Kirgiska Republika",
+              "common": "Kirgistan"
+            },
             "swe": {
                 "official": "Republiken Kirgizistan",
                 "common": "Kirgizistan"
@@ -18624,6 +19104,10 @@
             "spa": {
                 "official": "Reino de Camboya",
                 "common": "Camboya"
+            },
+            "srp": {
+              "official": "Kraljevina Kambod\u017ea",
+              "common": "Kambod\u017ea"
             },
             "swe": {
                 "official": "Konungariket Kambodja",
@@ -18785,6 +19269,10 @@
                 "official": "Rep\u00fablica Independiente y Soberano de Kiribati",
                 "common": "Kiribati"
             },
+            "srp": {
+              "official": "Republika Kiribati",
+              "common": "Kiribati"
+            },
             "swe": {
                 "official": "Republiken Kiribati",
                 "common": "Kiribati"
@@ -18930,6 +19418,10 @@
             "spa": {
                 "official": "Federaci\u00f3n de San Crist\u00f3bal y Nevis",
                 "common": "San Crist\u00f3bal y Nieves"
+            },
+            "srp": {
+              "official": "Federacija Sent Kits i Nevis",
+              "common": "Sveti Kits i Nevis"
             },
             "swe": {
                 "official": "Federationen Saint Kitts och Nevis",
@@ -19080,6 +19572,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Corea",
                 "common": "Corea del Sur"
+            },
+            "srp": {
+              "official": "Republika Koreja",
+              "common": "Ju\u017ena Koreja"
             },
             "swe": {
                 "official": "Republiken Korea",
@@ -19234,6 +19730,10 @@
                 "official": "Rep\u00fablica de Kosovo",
                 "common": "Kosovo"
             },
+            "srp": {
+              "official": "Republika Kosovo",
+              "common": "Kosovo"
+            },
             "swe": {
                 "official": "Republiken Kosovo",
                 "common": "Kosovo"
@@ -19386,6 +19886,10 @@
                 "official": "Estado de Kuwait",
                 "common": "Kuwait"
             },
+            "srp": {
+              "official": "Dr\u017eava Kuvajt",
+              "common": "Kuvajt"
+            },
             "swe": {
                 "official": "Staten Kuwait",
                 "common": "Kuwait"
@@ -19536,6 +20040,10 @@
             "spa": {
                 "official": "Rep\u00fablica Democr\u00e1tica Popular Lao",
                 "common": "Laos"
+            },
+            "srp": {
+              "official": "Narodna Demokratska Republika Laos",
+              "common": "Laos"
             },
             "swe": {
                 "official": "Demokratiska folkrepubliken Laos",
@@ -19695,6 +20203,10 @@
                 "official": "Rep\u00fablica Libanesa",
                 "common": "L\u00edbano"
             },
+            "srp": {
+              "official": "Libanska Republika",
+              "common": "Liban"
+            },
             "swe": {
                 "official": "Republiken Libanon",
                 "common": "Libanon"
@@ -19843,6 +20355,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Liberia",
                 "common": "Liberia"
+            },
+            "srp": {
+              "official": "Republika Liberija",
+              "common": "Liberija"
             },
             "swe": {
                 "official": "Republiken Liberia",
@@ -19994,6 +20510,10 @@
             "spa": {
                 "official": "Estado de Libia",
                 "common": "Libia"
+            },
+            "srp": {
+              "official": "Dr\u017eava Libija",
+              "common": "Libija"
             },
             "swe": {
                 "official": "Staten Libyen",
@@ -20147,6 +20667,10 @@
                 "official": "Santa Luc\u00eda",
                 "common": "Santa Luc\u00eda"
             },
+            "srp": {
+              "official": "Sveta Lucija",
+              "common": "Sveta Lucija"
+            },
             "swe": {
                 "official": "Saint Lucia",
                 "common": "Saint Lucia"
@@ -20293,6 +20817,10 @@
             "spa": {
                 "official": "Principado de Liechtenstein",
                 "common": "Liechtenstein"
+            },
+            "srp": {
+              "official": "Kne\u017eevina Lihten\u0161tajn",
+              "common": "Lihten\u0161tajn"
             },
             "swe": {
                 "official": "Furstend\u00f6met Liechtenstein",
@@ -20450,6 +20978,10 @@
             "spa": {
                 "official": "Rep\u00fablica Democr\u00e1tica Socialista de Sri Lanka",
                 "common": "Sri Lanka"
+            },
+            "srp": {
+              "official": "Demokratska Socijalisti\u010dka Republika \u0160ri Lanka",
+              "common": "\u0160ri Lanka"
             },
             "swe": {
                 "official": "Demokratiska socialistiska republiken Sri Lanka",
@@ -20609,6 +21141,10 @@
                 "official": "Reino de Lesotho",
                 "common": "Lesotho"
             },
+            "srp": {
+              "official": "Kraljevina Lesoto",
+              "common": "Lesoto"
+            },
             "swe": {
                 "official": "Konungariket Lesotho",
                 "common": "Lesotho"
@@ -20757,6 +21293,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Lituania",
                 "common": "Lituania"
+            },
+            "srp": {
+              "official": "Republika Litvanija",
+              "common": "Litvanija"
             },
             "swe": {
                 "official": "Republiken Litauen",
@@ -20922,6 +21462,10 @@
                 "official": "Gran Ducado de Luxemburgo",
                 "common": "Luxemburgo"
             },
+            "srp": {
+              "official": "Veliko Vojvodstvo Luksemburg",
+              "common": "Luksemburg"
+            },
             "swe": {
                 "official": "Storhertigd\u00f6met Luxemburg",
                 "common": "Luxemburg"
@@ -21072,6 +21616,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Letonia",
                 "common": "Letonia"
+            },
+            "srp": {
+              "official": "Republika Letonija",
+              "common": "Letonija"
             },
             "swe": {
                 "official": "Republiken Lettland",
@@ -21231,6 +21779,10 @@
                 "official": "Macao, Regi\u00f3n Administrativa Especial de la Rep\u00fablica Popular China",
                 "common": "Macao"
             },
+            "srp": {
+              "official": "Makao specijalna administrativna oblast Narodne Republike Kine",
+              "common": "Makao"
+            },
             "swe": {
                 "official": "Macao",
                 "common": "Macao"
@@ -21381,6 +21933,10 @@
             "spa": {
                 "official": "Saint Martin",
                 "common": "Saint Martin"
+            },
+            "srp": {
+              "official": "Sveti Martin",
+              "common": "Sveti Martin"
             },
             "swe": {
                 "official": "F\u00f6rvaltningsomr\u00e5det Saint-Martin",
@@ -21537,6 +22093,10 @@
                 "official": "Reino de Marruecos",
                 "common": "Marruecos"
             },
+            "srp": {
+              "official": "Kraljevina Maroko",
+              "common": "Maroko"
+            },
             "swe": {
                 "official": "Konungariket Marocko",
                 "common": "Marocko"
@@ -21688,6 +22248,10 @@
                 "official": "Principado de M\u00f3naco",
                 "common": "M\u00f3naco"
             },
+            "srp": {
+              "official": "Kne\u017eevina Monako",
+              "common": "Monako"
+            },
             "swe": {
                 "official": "Furstend\u00f6met Monaco",
                 "common": "Monaco"
@@ -21837,6 +22401,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Moldova",
                 "common": "Moldavia"
+            },
+            "srp": {
+              "official": "Republika Moldavija",
+              "common": "Moldavija"
             },
             "swe": {
                 "official": "Republiken Moldavien",
@@ -21994,6 +22562,10 @@
                 "official": "Rep\u00fablica de Madagascar",
                 "common": "Madagascar"
             },
+            "srp": {
+              "official": "Republika Madagaskar",
+              "common": "Madagaskar"
+            },
             "swe": {
                 "official": "Republiken Madagaskar",
                 "common": "Madagaskar"
@@ -22142,6 +22714,10 @@
                 "official": "Rep\u00fablica de las Maldivas",
                 "common": "Maldivas"
             },
+            "srp": {
+              "official": "Republika Maldivi",
+              "common": "Maldivi"
+            },
             "swe": {
                 "official": "Republiken Maldiverna",
                 "common": "Maldiverna"
@@ -22289,6 +22865,10 @@
             "spa": {
                 "official": "Estados Unidos Mexicanos",
                 "common": "M\u00e9xico"
+            },
+            "srp": {
+              "official": "Sjedinjene Meksi\u010dke Dr\u017eave",
+              "common": "Meksiko"
             },
             "swe": {
                 "official": "Mexikos f\u00f6renta stater",
@@ -22446,6 +23026,10 @@
                 "official": "Rep\u00fablica de las Islas Marshall",
                 "common": "Islas Marshall"
             },
+            "srp": {
+              "official": "Republika Mar\u0161alska Ostrva",
+              "common": "Mar\u0161alska Ostrva"
+            },
             "swe": {
                 "official": "Republiken Marshall\u00f6arna",
                 "common": "Marshall\u00f6arna"
@@ -22594,6 +23178,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Macedonia del Norte",
                 "common": "Macedonia del Norte"
+            },
+            "srp": {
+              "official": "Republika Severna Makedonija",
+              "common": "Severna Makedonija"
             },
             "swe": {
                 "official": "Republiken Nordmakedonien",
@@ -22747,6 +23335,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Mal\u00ed",
                 "common": "Mali"
+            },
+            "srp": {
+              "official": "Republika Mali",
+              "common": "Mali"
             },
             "swe": {
                 "official": "Republiken Mali",
@@ -22908,6 +23500,10 @@
                 "official": "Rep\u00fablica de Malta",
                 "common": "Malta"
             },
+            "srp": {
+              "official": "Republika Malta",
+              "common": "Malta"
+            },
             "swe": {
                 "official": "Republiken Malta",
                 "common": "Malta"
@@ -23055,6 +23651,10 @@
             "spa": {
                 "official": "Rep\u00fablica de la Uni\u00f3n de Myanmar",
                 "common": "Myanmar"
+            },
+            "srp": {
+              "official": "Republika Mjanmarska Unija",
+              "common": "Mjanmar"
             },
             "swe": {
                 "official": "Republiken Unionen Myanmar",
@@ -23208,6 +23808,10 @@
                 "official": "Montenegro",
                 "common": "Montenegro"
             },
+            "srp": {
+              "official": "Crna Gora",
+              "common": "Crna Gora"
+            },
             "swe": {
                 "official": "Montenegro",
                 "common": "Montenegro"
@@ -23358,6 +23962,10 @@
             "spa": {
                 "official": "Mongolia",
                 "common": "Mongolia"
+            },
+            "srp": {
+              "official": "Mongolija",
+              "common": "Mongolija"
             },
             "swe": {
                 "official": "Mongoliet",
@@ -23519,6 +24127,10 @@
                 "official": "Mancomunidad de las Islas Marianas del Norte",
                 "common": "Islas Marianas del Norte"
             },
+            "srp": {
+              "official": "Komonvelt Severna Marijanska Ostrva",
+              "common": "Severna Marijanska Ostrva"
+            },
             "swe": {
                 "official": "Nordmarianerna",
                 "common": "Nordmarianerna"
@@ -23665,6 +24277,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Mozambique",
                 "common": "Mozambique"
+            },
+            "srp": {
+              "official": "Republika Mozambik",
+              "common": "Mozambik"
             },
             "swe": {
                 "official": "Republiken Mo\u00e7ambique",
@@ -23820,6 +24436,10 @@
                 "official": "Rep\u00fablica Isl\u00e1mica de Mauritania",
                 "common": "Mauritania"
             },
+            "srp": {
+              "official": "Islamska Republika Mauritanija",
+              "common": "Mauritanija"
+            },
             "swe": {
                 "official": "Islamiska republiken Mauretanien",
                 "common": "Mauretanien"
@@ -23970,6 +24590,10 @@
                 "official": "Montserrat",
                 "common": "Montserrat"
             },
+            "srp": {
+              "official": "Montserat",
+              "common": "Montserat"
+            },
             "swe": {
                 "official": "Montserrat",
                 "common": "Montserrat"
@@ -24114,6 +24738,10 @@
             "spa": {
                 "official": "Martinica",
                 "common": "Martinica"
+            },
+            "srp": {
+              "official": "Martinik",
+              "common": "Martinik"
             },
             "swe": {
                 "official": "Martinique",
@@ -24272,6 +24900,10 @@
                 "official": "Rep\u00fablica de Mauricio",
                 "common": "Mauricio"
             },
+            "srp": {
+              "official": "Republika Mauricijus",
+              "common": "Mauricijus"
+            },
             "swe": {
                 "official": "Republiken Mauritius",
                 "common": "Mauritius"
@@ -24422,6 +25054,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Malawi",
                 "common": "Malawi"
+            },
+            "srp": {
+              "official": "Republika Malavi",
+              "common": "Malavi"
             },
             "swe": {
                 "official": "Republiken Malawi",
@@ -24577,6 +25213,10 @@
                 "official": "Malasia",
                 "common": "Malasia"
             },
+            "srp": {
+              "official": "Malezija",
+              "common": "Malezija"
+            },
             "swe": {
                 "official": "Malaysia",
                 "common": "Malaysia"
@@ -24727,6 +25367,10 @@
             "spa": {
                 "official": "Departamento de Mayotte",
                 "common": "Mayotte"
+            },
+            "srp": {
+              "official": "Kolektivitet Majot",
+              "common": "Majot"
             },
             "swe": {
                 "official": "Departementsomr\u00e5det Mayotte",
@@ -24919,6 +25563,10 @@
                 "official": "Rep\u00fablica de Namibia",
                 "common": "Namibia"
             },
+            "srp": {
+              "official": "Republika Namibija",
+              "common": "Namibija"
+            },
             "swe": {
                 "official": "Republiken Namibia",
                 "common": "Namibia"
@@ -25069,6 +25717,10 @@
                 "official": "nueva Caledonia",
                 "common": "Nueva Caledonia"
             },
+            "srp": {
+              "official": "Nova Kaledonija",
+              "common": "Nova Kaledonija"
+            },
             "swe": {
                 "official": "Nya Kaledonien",
                 "common": "Nya Kaledonien"
@@ -25214,6 +25866,10 @@
             "spa": {
                 "official": "Rep\u00fablica de N\u00edger",
                 "common": "N\u00edger"
+            },
+            "srp": {
+              "official": "Republika Niger",
+              "common": "Niger"
             },
             "swe": {
                 "official": "Republiken Niger",
@@ -25375,6 +26031,10 @@
                 "official": "Territorio de la Isla Norfolk",
                 "common": "Isla de Norfolk"
             },
+            "srp": {
+              "official": "Teritorija Ostrva Norfok",
+              "common": "Ostrvo Norfok"
+            },
             "swe": {
                 "official": "Norfolk\u00f6n",
                 "common": "Norfolk\u00f6n"
@@ -25522,6 +26182,10 @@
             "spa": {
                 "official": "Rep\u00fablica Federal de Nigeria",
                 "common": "Nigeria"
+            },
+            "srp": {
+              "official": "Savezna Republika Nigerija",
+              "common": "Nigerija"
             },
             "swe": {
                 "official": "F\u00f6rbundsrepubliken Nigeria",
@@ -25674,6 +26338,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Nicaragua",
                 "common": "Nicaragua"
+            },
+            "srp": {
+              "official": "Republika Nikaragva",
+              "common": "Nikaragva"
             },
             "swe": {
                 "official": "Republiken Nicaragua",
@@ -25828,6 +26496,10 @@
                 "official": "Niue",
                 "common": "Niue"
             },
+            "srp": {
+              "official": "Nijue",
+              "common": "Nijue"
+            },
             "swe": {
                 "official": "Niue",
                 "common": "Niue"
@@ -25975,6 +26647,10 @@
             "spa": {
                 "official": "Pa\u00edses Bajos",
                 "common": "Pa\u00edses Bajos"
+            },
+            "srp": {
+              "official": "Kraljevina Holandija",
+              "common": "Holandija"
             },
             "swe": {
                 "official": "Nederl\u00e4nderna",
@@ -26139,6 +26815,10 @@
                 "official": "Reino de Noruega",
                 "common": "Noruega"
             },
+            "srp": {
+              "official": "Kraljevina Norve\u0161ka",
+              "common": "Norve\u0161ka"
+            },
             "swe": {
                 "official": "Konungariket Norge",
                 "common": "Norge"
@@ -26289,6 +26969,10 @@
             "spa": {
                 "official": "Rep\u00fablica Democr\u00e1tica Federal de Nepal",
                 "common": "Nepal"
+            },
+            "srp": {
+              "official": "Savezna Demokratska Republika Nepal",
+              "common": "Nepal"
             },
             "swe": {
                 "official": "Demokratiska f\u00f6rbundsrepubliken Nepal",
@@ -26447,6 +27131,10 @@
                 "official": "Rep\u00fablica de Nauru",
                 "common": "Nauru"
             },
+            "srp": {
+              "official": "Republika Nauru",
+              "common": "Nauru"
+            },
             "swe": {
                 "official": "Republiken Nauru",
                 "common": "Nauru"
@@ -26603,6 +27291,10 @@
                 "official": "nueva Zelanda",
                 "common": "Nueva Zelanda"
             },
+            "srp": {
+              "official": "Novi Zeland",
+              "common": "Novi Zeland"
+            },
             "swe": {
                 "official": "Nya Zeeland",
                 "common": "Nya Zeeland"
@@ -26749,6 +27441,10 @@
             "spa": {
                 "official": "Sultanato de Om\u00e1n",
                 "common": "Om\u00e1n"
+            },
+            "srp": {
+              "official": "Sultanat Oman",
+              "common": "Oman"
             },
             "swe": {
                 "official": "Sultanatet Oman",
@@ -26907,6 +27603,10 @@
                 "official": "Rep\u00fablica Isl\u00e1mica de Pakist\u00e1n",
                 "common": "Pakist\u00e1n"
             },
+            "srp": {
+              "official": "Islamska Republika Pakistan",
+              "common": "Pakistan"
+            },
             "swe": {
                 "official": "Islamiska republiken Pakistan",
                 "common": "Pakistan"
@@ -27063,6 +27763,10 @@
                 "official": "Rep\u00fablica de Panam\u00e1",
                 "common": "Panam\u00e1"
             },
+            "srp": {
+              "official": "Republika Panama",
+              "common": "Panama"
+            },
             "swe": {
                 "official": "Republiken Panama",
                 "common": "Panama"
@@ -27212,6 +27916,10 @@
             "spa": {
                 "official": "Grupo de Islas Pitcairn",
                 "common": "Islas Pitcairn"
+            },
+            "srp": {
+              "official": "Grupa Ostrva Pitkern",
+              "common": "Ostrva Pitkern"
             },
             "swe": {
                 "official": "Pitcairn\u00f6arna",
@@ -27369,6 +28077,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Per\u00fa",
                 "common": "Per\u00fa"
+            },
+            "srp": {
+              "official": "Republika Peru",
+              "common": "Peru"
             },
             "swe": {
                 "official": "Republiken Peru",
@@ -27528,6 +28240,10 @@
                 "official": "Rep\u00fablica de las Filipinas",
                 "common": "Filipinas"
             },
+            "srp": {
+              "official": "Republika Filipini",
+              "common": "Filipini"
+            },
             "swe": {
                 "official": "Republiken Filippinerna",
                 "common": "Filippinerna"
@@ -27679,6 +28395,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Palau",
                 "common": "Palau"
+            },
+            "srp": {
+              "official": "Republika Palau",
+              "common": "Palau"
             },
             "swe": {
                 "official": "Republiken Palau",
@@ -27837,6 +28557,10 @@
                 "official": "Estado Independiente de Pap\u00faa Nueva Guinea",
                 "common": "Pap\u00faa Nueva Guinea"
             },
+            "srp": {
+              "official": "Nezavisna Dr\u017eava Papua Nova Gvineja",
+              "common": "Papua Nova Gvineja"
+            },
             "swe": {
                 "official": "Den oberoende staten Papua Nya Guinea",
                 "common": "Papua Nya Guinea"
@@ -27985,6 +28709,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Polonia",
                 "common": "Polonia"
+            },
+            "srp": {
+              "official": "Republika Poljska",
+              "common": "Poljska"
             },
             "swe": {
                 "official": "Republiken Polen",
@@ -28147,6 +28875,10 @@
                 "official": "Asociado de Puerto Rico",
                 "common": "Puerto Rico"
             },
+            "srp": {
+              "official": "Komonvelt Portoriko",
+              "common": "Portoriko"
+            },
             "swe": {
                 "official": "Puerto Rico",
                 "common": "Puerto Rico"
@@ -28299,6 +29031,10 @@
                 "official": "Rep\u00fablica Popular Democr\u00e1tica de Corea",
                 "common": "Corea del Norte"
             },
+            "srp": {
+              "official": "Demokratska Narodna Republika Koreja",
+              "common": "Severna Koreja"
+            },
             "swe": {
                 "official": "Demokratiska Folkrepubliken Korea",
                 "common": "Nordkorea"
@@ -28450,6 +29186,10 @@
             "spa": {
                 "official": "Rep\u00fablica Portuguesa",
                 "common": "Portugal"
+            },
+            "srp": {
+              "official": "Republika Portugal",
+              "common": "Portugal"
             },
             "swe": {
                 "official": "Republiken Portugal",
@@ -28605,6 +29345,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Paraguay",
                 "common": "Paraguay"
+            },
+            "srp": {
+              "official": "Republika Paragvaj",
+              "common": "Paragvaj"
             },
             "swe": {
                 "official": "Republiken Paraguay",
@@ -28767,6 +29511,10 @@
                 "official": "Estado de Palestina",
                 "common": "Palestina"
             },
+            "srp": {
+              "official": "Dr\u017eava Palestina",
+              "common": "Palestina"
+            },
             "swe": {
                 "official": "Palestina",
                 "common": "Palestina"
@@ -28919,6 +29667,10 @@
                 "official": "Polinesia franc\u00e9s",
                 "common": "Polinesia Francesa"
             },
+            "srp": {
+              "official": "Francuska Polinezija",
+              "common": "Francuska Polinezija"
+            },
             "swe": {
                 "official": "Franska Polynesien",
                 "common": "Franska Polynesien"
@@ -29066,6 +29818,10 @@
             "spa": {
                 "official": "Estado de Qatar",
                 "common": "Catar"
+            },
+            "srp": {
+              "official": "Dr\u017eava Katar",
+              "common": "Katar"
             },
             "swe": {
                 "official": "Staten Qatar",
@@ -29215,6 +29971,10 @@
                 "official": "Isla de la Reuni\u00f3n",
                 "common": "Reuni\u00f3n"
             },
+            "srp": {
+              "official": "Departman Reinion",
+              "common": "Reinion"
+            },
             "swe": {
                 "official": "R\u00e9union",
                 "common": "R\u00e9union"
@@ -29362,6 +30122,10 @@
             "spa": {
                 "official": "Rumania",
                 "common": "Rumania"
+            },
+            "srp": {
+              "official": "Rumunija",
+              "common": "Rumunija"
             },
             "swe": {
                 "official": "Rum\u00e4nien",
@@ -29521,6 +30285,10 @@
             "spa": {
                 "official": "Federaci\u00f3n de Rusia",
                 "common": "Rusia"
+            },
+            "srp": {
+              "official": "Ruska Federacija",
+              "common": "Rusija"
             },
             "swe": {
                 "official": "Ryska federationen",
@@ -29695,6 +30463,10 @@
                 "official": "Rep\u00fablica de Rwanda",
                 "common": "Ruanda"
             },
+            "srp": {
+              "official": "Republika Ruanda",
+              "common": "Ruanda"
+            },
             "swe": {
                 "official": "Republiken Rwanda",
                 "common": "Rwanda"
@@ -29848,6 +30620,10 @@
             "spa": {
                 "official": "Reino de Arabia Saudita",
                 "common": "Arabia Saud\u00ed"
+            },
+            "srp": {
+              "official": "Kraljevina Saudijska Arabija",
+              "common": "Saudijska Arabija"
             },
             "swe": {
                 "official": "Kungad\u00f6met Saudiarabien",
@@ -30009,6 +30785,10 @@
                 "official": "Rep\u00fablica de Sud\u00e1n",
                 "common": "Sud\u00e1n"
             },
+            "srp": {
+              "official": "Republika Sudan",
+              "common": "Sudan"
+            },
             "swe": {
                 "official": "Republiken Sudan",
                 "common": "Sudan"
@@ -30163,6 +30943,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Senegal",
                 "common": "Senegal"
+            },
+            "srp": {
+              "official": "Republika Senegal",
+              "common": "Senegal"
             },
             "swe": {
                 "official": "Republiken Senegal",
@@ -30335,6 +31119,10 @@
                 "official": "Rep\u00fablica de Singapur",
                 "common": "Singapur"
             },
+            "srp": {
+              "official": "Republika Singapur",
+              "common": "Singapur"
+            },
             "swe": {
                 "official": "Republiken Singapore",
                 "common": "Singapore"
@@ -30480,6 +31268,10 @@
             "spa": {
                 "official": "Georgia del Sur y las Islas Sandwich del Sur",
                 "common": "Islas Georgias del Sur y Sandwich del Sur"
+            },
+            "srp": {
+              "official": "Ju\u017ena D\u017eord\u017eija i Ju\u017ena Sendvi\u010dka Ostrva",
+              "common": "Ju\u017ena D\u017eord\u017eija"
             },
             "swe": {
                 "official": "Sydgeorgien",
@@ -30627,6 +31419,10 @@
                 "official": "Svalbard og Jan Mayen",
                 "common": "Islas Svalbard y Jan Mayen"
             },
+            "srp": {
+              "official": "Svalbard i Jan Majen",
+              "common": "Svalbard i Jan Majen"
+            },
             "swe": {
                 "official": "Svalbard och Jan Mayen",
                 "common": "Svalbard och Jan Mayen"
@@ -30771,6 +31567,10 @@
             "spa": {
                 "official": "islas Salom\u00f3n",
                 "common": "Islas Salom\u00f3n"
+            },
+            "srp": {
+              "official": "Solomonova Ostrva",
+              "common": "Solomonova Ostrva"
             },
             "swe": {
                 "official": "Salomon\u00f6arna",
@@ -30917,6 +31717,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Sierra Leona",
                 "common": "Sierra Leone"
+            },
+            "srp": {
+              "official": "Republika Sijera Leone",
+              "common": "Sijera Leone"
             },
             "swe": {
                 "official": "Republiken Sierra Leone",
@@ -31068,6 +31872,10 @@
                 "official": "Rep\u00fablica de El Salvador",
                 "common": "El Salvador"
             },
+            "srp": {
+              "official": "Republika El Salvador",
+              "common": "El Salvador"
+            },
             "swe": {
                 "official": "Republiken El Salvador",
                 "common": "El Salvador"
@@ -31217,6 +32025,10 @@
             "spa": {
                 "official": "Seren\u00edsima Rep\u00fablica de San Marino",
                 "common": "San Marino"
+            },
+            "srp": {
+              "official": "Republika San Marino",
+              "common": "San Marino"
             },
             "swe": {
                 "official": "Republiken San Marino",
@@ -31374,6 +32186,10 @@
                 "official": "Rep\u00fablica Federal de Somalia",
                 "common": "Somalia"
             },
+            "srp": {
+              "official": "Savezna Republika Somalija",
+              "common": "Somalija"
+            },
             "swe": {
                 "official": "F\u00f6rbundsrepubliken Somalia",
                 "common": "Somalia"
@@ -31524,6 +32340,10 @@
                 "official": "San Pedro y Miquel\u00f3n",
                 "common": "San Pedro y Miquel\u00f3n"
             },
+            "srp": {
+              "official": "Sent Pjer i Mikelon",
+              "common": "Sent Pjer i Mikelon"
+            },
             "swe": {
                 "official": "Saint-Pierre och Miquelon",
                 "common": "Saint-Pierre och Miquelon"
@@ -31673,6 +32493,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Serbia",
                 "common": "Serbia"
+            },
+            "srp": {
+              "official": "Republika Srbija",
+              "common": "Srbija"
             },
             "swe": {
                 "official": "Republiken Serbien",
@@ -31827,6 +32651,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Sud\u00e1n del Sur",
                 "common": "Sud\u00e1n del Sur"
+            },
+            "srp": {
+              "official": "Republika Ju\u017eni Sudan",
+              "common": "Ju\u017eni Sudan"
             },
             "swe": {
                 "official": "Republiken Sydsudan",
@@ -31983,6 +32811,10 @@
                 "official": "Rep\u00fablica Democr\u00e1tica de Santo Tom\u00e9 y Pr\u00edncipe",
                 "common": "Santo Tom\u00e9 y Pr\u00edncipe"
             },
+            "srp": {
+              "official": "Demokratska Republika Sao Tome i Prinsipe",
+              "common": "Sao Tome i Prinsipe"
+            },
             "swe": {
                 "official": "Demokratiska republiken S\u00e3o Tom\u00e9 och Pr\u00edncipe",
                 "common": "S\u00e3o Tom\u00e9 och Pr\u00edncipe"
@@ -32131,6 +32963,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Suriname",
                 "common": "Surinam"
+            },
+            "srp": {
+              "official": "Republika Surinam",
+              "common": "Surinam"
             },
             "swe": {
                 "official": "Republiken Surinam",
@@ -32282,6 +33118,10 @@
             "spa": {
                 "official": "Rep\u00fablica Eslovaca",
                 "common": "Rep\u00fablica Eslovaca"
+            },
+            "srp": {
+              "official": "Slova\u010dka republika",
+              "common": "Slova\u010dka"
             },
             "swe": {
                 "official": "Republiken Slovakien",
@@ -32436,6 +33276,10 @@
                 "official": "Rep\u00fablica de Eslovenia",
                 "common": "Eslovenia"
             },
+            "srp": {
+              "official": "Republika Slovenija",
+              "common": "Slovenija"
+            },
             "swe": {
                 "official": "Republiken Slovenien",
                 "common": "Slovenien"
@@ -32587,6 +33431,10 @@
             "spa": {
                 "official": "Reino de Suecia",
                 "common": "Suecia"
+            },
+            "srp": {
+              "official": "Kraljevina \u0160vedska",
+              "common": "\u0160vedska"
             },
             "swe": {
                 "official": "Konungariket Sverige",
@@ -32751,6 +33599,10 @@
                 "official": "Reino de eSwatini",
                 "common": "Suazilandia"
             },
+            "srp": {
+              "official": "Kraljevina Esvatini",
+              "common": "Esvatini"
+            },
             "swe": {
                 "official": "Konungariket Eswatini",
                 "common": "Swaziland"
@@ -32909,6 +33761,10 @@
             "spa": {
                 "official": "Sint Maarten",
                 "common": "Sint Maarten"
+            },
+            "srp": {
+              "official": "Sveti Martin",
+              "common": "Sveti Martin"
             },
             "swe": {
                 "official": "Sint Maarten",
@@ -33070,6 +33926,10 @@
                 "official": "Rep\u00fablica de las Seychelles",
                 "common": "Seychelles"
             },
+            "srp": {
+              "official": "Republika Sej\u0161eli",
+              "common": "Sej\u0161eli"
+            },
             "swe": {
                 "official": "Republiken Seychellerna",
                 "common": "Seychellerna"
@@ -33217,6 +34077,10 @@
             "spa": {
                 "official": "Rep\u00fablica \u00c1rabe Siria",
                 "common": "Siria"
+            },
+            "srp": {
+              "official": "Sirijska Arapska Republika",
+              "common": "Sirija"
             },
             "swe": {
                 "official": "Syriska arabiska republiken",
@@ -33368,6 +34232,10 @@
             "spa": {
                 "official": "Islas Turcas y Caicos",
                 "common": "Islas Turks y Caicos"
+            },
+            "srp": {
+              "official": "Ostrva Terks i Kejkos",
+              "common": "Ostrva Terks i Kejkos"
             },
             "swe": {
                 "official": "Turks- och Caicos\u00f6arna",
@@ -33521,6 +34389,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Chad",
                 "common": "Chad"
+            },
+            "srp": {
+              "official": "Republika \u010cad",
+              "common": "\u010cad"
             },
             "swe": {
                 "official": "Republiken Tchad",
@@ -33677,6 +34549,10 @@
                 "official": "Rep\u00fablica de Togo",
                 "common": "Togo"
             },
+            "srp": {
+              "official": "Republika Togo",
+              "common": "Togo"
+            },
             "swe": {
                 "official": "Republiken Togo",
                 "common": "Togo"
@@ -33831,6 +34707,10 @@
             "spa": {
                 "official": "Reino de Tailandia",
                 "common": "Tailandia"
+            },
+            "srp": {
+              "official": "Kraljevina Tajland",
+              "common": "Tajland"
             },
             "swe": {
                 "official": "Konungariket Thailand",
@@ -33990,6 +34870,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Tayikist\u00e1n",
                 "common": "Tayikist\u00e1n"
+            },
+            "srp": {
+              "official": "Republika Tad\u017eikistan",
+              "common": "Tad\u017eikistan"
             },
             "swe": {
                 "official": "Republiken Tadzjikistan",
@@ -34151,6 +35035,10 @@
                 "official": "Tokelau",
                 "common": "Islas Tokelau"
             },
+            "srp": {
+              "official": "Tokelau",
+              "common": "Tokelau"
+            },
             "swe": {
                 "official": "Tokelau\u00f6arna",
                 "common": "Tokelau\u00f6arna"
@@ -34300,6 +35188,10 @@
             "spa": {
                 "official": "Turkmenist\u00e1n",
                 "common": "Turkmenist\u00e1n"
+            },
+            "srp": {
+              "official": "Turkmenistan",
+              "common": "Turkmenistan"
             },
             "swe": {
                 "official": "Turkmenistan",
@@ -34462,6 +35354,10 @@
                 "official": "Rep\u00fablica Democr\u00e1tica de Timor-Leste",
                 "common": "Timor Oriental"
             },
+            "srp": {
+              "official": "Demokratska Republika Isto\u010dni Timor",
+              "common": "Isto\u010dni Timor"
+            },
             "swe": {
                 "official": "Demokratiska republiken \u00d6sttimor",
                 "common": "\u00d6sttimor"
@@ -34614,6 +35510,10 @@
                 "official": "Reino de Tonga",
                 "common": "Tonga"
             },
+            "srp": {
+              "official": "Kraljevina Tonga",
+              "common": "Tonga"
+            },
             "swe": {
                 "official": "Konungariket Tonga",
                 "common": "Tonga"
@@ -34759,6 +35659,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Trinidad y Tobago",
                 "common": "Trinidad y Tobago"
+            },
+            "srp": {
+              "official": "Republika Trinidad i Tobago",
+              "common": "Trinidad i Tobago"
             },
             "swe": {
                 "official": "Republiken Trinidad och Tobago",
@@ -34906,6 +35810,10 @@
             "spa": {
                 "official": "Rep\u00fablica de T\u00fanez",
                 "common": "T\u00fanez"
+            },
+            "srp": {
+              "official": "Republika Tunis",
+              "common": "Tunis"
             },
             "swe": {
                 "official": "Republiken Tunisien",
@@ -35057,6 +35965,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Turqu\u00eda",
                 "common": "Turqu\u00eda"
+            },
+            "srp": {
+              "official": "Republika Turska",
+              "common": "Turska"
             },
             "swe": {
                 "official": "Republiken Turkiet",
@@ -35221,6 +36133,10 @@
                 "official": "Tuvalu",
                 "common": "Tuvalu"
             },
+            "srp": {
+              "official": "Tuvalu",
+              "common": "Tuvalu"
+            },
             "swe": {
                 "official": "Tuvalu",
                 "common": "Tuvalu"
@@ -35372,6 +36288,10 @@
             "spa": {
                 "official": "Rep\u00fablica de China en Taiw\u00e1n",
                 "common": "Taiw\u00e1n"
+            },
+            "srp": {
+              "official": "Republika Kina (Tajvan)",
+              "common": "Tajvan"
             },
             "swe": {
                 "official": "Republiken Kina",
@@ -35525,6 +36445,10 @@
             "spa": {
                 "official": "Rep\u00fablica Unida de Tanzania",
                 "common": "Tanzania"
+            },
+            "srp": {
+              "official": "Ujedinjena Republika Tanzanija",
+              "common": "Tanzanija"
             },
             "swe": {
                 "official": "F\u00f6renade republiken Tanzania",
@@ -35687,6 +36611,10 @@
                 "official": "Rep\u00fablica de Uganda",
                 "common": "Uganda"
             },
+            "srp": {
+              "official": "Republika Uganda",
+              "common": "Uganda"
+            },
             "swe": {
                 "official": "Republiken Uganda",
                 "common": "Uganda"
@@ -35840,6 +36768,10 @@
                 "official": "Ucrania",
                 "common": "Ucrania"
             },
+            "srp": {
+              "official": "Ukrajina",
+              "common": "Ukrajina"
+            },
             "swe": {
                 "official": "Ukraina",
                 "common": "Ukraina"
@@ -35991,6 +36923,10 @@
                 "official": "Estados Unidos Islas menores alejadas de",
                 "common": "Islas Ultramarinas Menores de Estados Unidos"
             },
+            "srp": {
+              "official": "Mala udaljena ostrva Sjedinjenih Ameri\u010dkih Dr\u017eava",
+              "common": "Mala udaljena ostrva SAD-a"
+            },
             "swe": {
                 "official": "F\u00f6renta staternas mindre \u00f6ar i Oceanien och V\u00e4stindien",
                 "common": "F\u00f6renta staternas mindre \u00f6ar i Oceanien och V\u00e4stindien"
@@ -36137,6 +37073,10 @@
             "spa": {
                 "official": "Rep\u00fablica Oriental del Uruguay",
                 "common": "Uruguay"
+            },
+            "srp": {
+              "official": "Isto\u010dna Republika Urugvaj",
+              "common": "Urugvaj"
             },
             "swe": {
                 "official": "Republiken Uruguay",
@@ -36667,6 +37607,10 @@
                 "official": "Estados Unidos de Am\u00e9rica",
                 "common": "Estados Unidos"
             },
+            "srp": {
+              "official": "Sjedinjene Ameri\u010dke Dr\u017eave",
+              "common": "SAD"
+            },
             "swe": {
                 "official": "Amerikas f\u00f6renta stater",
                 "common": "USA"
@@ -36822,6 +37766,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Uzbekist\u00e1n",
                 "common": "Uzbekist\u00e1n"
+            },
+            "srp": {
+              "official": "Republika Uzbekistan",
+              "common": "Uzbekistan"
             },
             "swe": {
                 "official": "Republiken Uzbekistan",
@@ -36983,6 +37931,10 @@
                 "official": "Ciudad del Vaticano",
                 "common": "Ciudad del Vaticano"
             },
+            "srp": {
+              "official": "Sveta Stolica",
+              "common": "Vatikan"
+            },
             "swe": {
                 "official": "Vatikanstaten",
                 "common": "Vatikanstaten"
@@ -37129,6 +38081,10 @@
             "spa": {
                 "official": "San Vicente y las Granadinas",
                 "common": "San Vicente y Granadinas"
+            },
+            "srp": {
+              "official": "Sent Vinsent i Grenadini",
+              "common": "Sveti Vinsent i Grenadini"
             },
             "swe": {
                 "official": "Saint Vincent och Grenadinerna",
@@ -37277,6 +38233,10 @@
             "spa": {
                 "official": "Rep\u00fablica Bolivariana de Venezuela",
                 "common": "Venezuela"
+            },
+            "srp": {
+              "official": "Bolivarska Republika Venecuela",
+              "common": "Venecuela"
             },
             "swe": {
                 "official": "Bolivarianska republiken Venezuela",
@@ -37428,6 +38388,10 @@
                 "official": "Islas V\u00edrgenes",
                 "common": "Islas V\u00edrgenes del Reino Unido"
             },
+            "srp": {
+              "official": "Devi\u010danska Ostrva",
+              "common": "Britanska Devi\u010danska Ostrva"
+            },
             "swe": {
                 "official": "Brittiska Jungfru\u00f6arna",
                 "common": "Brittiska Jungfru\u00f6arna"
@@ -37573,6 +38537,10 @@
             "spa": {
                 "official": "Islas V\u00edrgenes de los Estados Unidos",
                 "common": "Islas V\u00edrgenes de los Estados Unidos"
+            },
+            "srp": {
+              "official": "Devi\u010danska Ostrva Amerike",
+              "common": "Ameri\u010dka Devi\u010danska Ostrva"
             },
             "swe": {
                 "official": "Amerikanska Jungfru\u00f6arna",
@@ -37721,6 +38689,10 @@
             "spa": {
                 "official": "Rep\u00fablica Socialista de Vietnam",
                 "common": "Vietnam"
+            },
+            "srp": {
+              "official": "Socijalisti\u010dka Republika Vijetnam",
+              "common": "Vijetnam"
             },
             "swe": {
                 "official": "Socialistiska republiken Vietnam",
@@ -37884,6 +38856,10 @@
                 "official": "Rep\u00fablica de Vanuatu",
                 "common": "Vanuatu"
             },
+            "srp": {
+              "official": "Republika Vanuatu",
+              "common": "Vanuatu"
+            },
             "swe": {
                 "official": "Republiken Vanuatu",
                 "common": "Vanuatu"
@@ -38030,6 +39006,10 @@
             "spa": {
                 "official": "Territorio de las Islas Wallis y Futuna",
                 "common": "Wallis y Futuna"
+            },
+            "srp": {
+              "official": "Teritorija ostrva Valis i Futuna",
+              "common": "Valis i Futuna ostrva"
             },
             "swe": {
                 "official": "Territoriet Wallis- och Futuna\u00f6arna",
@@ -38183,6 +39163,10 @@
                 "official": "Estado Independiente de Samoa",
                 "common": "Samoa"
             },
+            "srp": {
+              "official": "Nezavisna Dr\u017eava Samoa",
+              "common": "Samoa"
+            },
             "swe": {
                 "official": "Sj\u00e4lvst\u00e4ndiga staten Samoa",
                 "common": "Samoa"
@@ -38329,6 +39313,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Yemen",
                 "common": "Yemen"
+            },
+            "srp": {
+              "official": "Republika Jemen",
+              "common": "Jemen"
             },
             "swe": {
                 "official": "Republiken Jemen",
@@ -38533,6 +39521,10 @@
                 "official": "Rep\u00fablica de Sud\u00e1frica",
                 "common": "Rep\u00fablica de Sud\u00e1frica"
             },
+            "srp": {
+              "official": "Republika Ju\u017ena Afrika",
+              "common": "Ju\u017enoafri\u010dka Republika"
+            },
             "swe": {
                 "official": "Republiken Sydafrika",
                 "common": "Sydafrika"
@@ -38685,6 +39677,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Zambia",
                 "common": "Zambia"
+            },
+            "srp": {
+              "official": "Republika Zambija",
+              "common": "Zambija"
             },
             "swe": {
                 "official": "Republiken Zambia",
@@ -38942,6 +39938,10 @@
             "spa": {
                 "official": "Rep\u00fablica de Zimbabue",
                 "common": "Zimbabue"
+            },
+            "srp": {
+              "official": "Republika Zimbabve",
+              "common": "Zimbabve"
             },
             "swe": {
                 "official": "Republiken Zimbabwe",
