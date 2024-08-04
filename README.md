@@ -194,7 +194,7 @@ If you prefer to include only some fields (this can not be combined with `--excl
 php countries.php convert --include-field=name --include-field=area
 
 # or using the shorter `-i` syntax:
-php countries.php convert -i=name -i=area
+php countries.php convert -i name -i area
 ```
 
 The generated files are put into the `dist` directory, but you can change this to another existing directory:
