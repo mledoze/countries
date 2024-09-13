@@ -24,6 +24,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - add missing "borders" column in CSV export
   - handle false values as "0"
 - fix error when running index.mjs
+- fix duplicate idd suffixes for Canada (#544)
 
 ## [5.0.0] - 2023-09-17
 ### Breaking changes
