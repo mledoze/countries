@@ -238,7 +238,7 @@
                 "common": "Afghanistan"
             },
             "jpn": {
-                "official": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u00b7\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
+                "official": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
                 "common": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3"
             },
             "kor": {
@@ -542,7 +542,7 @@
                 "common": "Anguilla"
             },
             "jpn": {
-                "official": "\u30a2\u30f3\u30b0\u30a3\u30e9",
+                "official": "\u30a2\u30f3\u30ae\u30e9",
                 "common": "\u30a2\u30f3\u30ae\u30e9"
             },
             "kor": {
@@ -691,7 +691,7 @@
             },
             "jpn": {
                 "official": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6",
-                "common": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6"
+                "common": "\u30aa\u30fc\u30e9\u30f3\u30c9"
             },
             "kor": {
                 "official": "\uc62c\ub780\ub4dc \uc81c\ub3c4",
@@ -1142,7 +1142,7 @@
             },
             "jpn": {
                 "official": "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6",
-                "common": "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6"
+                "common": "UAE"
             },
             "kor": {
                 "official": "\uc544\ub78d \ud1a0\ud6c4\uad6d \uc5f0\ubc29",
@@ -1608,7 +1608,7 @@
                 "common": "Samoa Americane"
             },
             "jpn": {
-                "official": "\u7c73\u30b5\u30e2\u30a2",
+                "official": "\u7c73\u9818\u30b5\u30e2\u30a2",
                 "common": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2"
             },
             "kor": {
@@ -1737,8 +1737,8 @@
                 "common": "Antartide"
             },
             "jpn": {
-                "official": "\u5357\u6975\u5927\u9678",
-                "common": "\u5357\u6975"
+                "official": "\u5357\u6975",
+                "common": "\u5357\u6975\u5927\u9678"
             },
             "kor": {
                 "official": "\ub0a8\uadf9",
@@ -1883,7 +1883,7 @@
                 "common": "Territori Francesi del Sud"
             },
             "jpn": {
-                "official": "\u30d5\u30e9\u30f3\u30b9\u9818\u5357\u65b9\u00b7\u5357\u6975\u5730\u57df\u306e\u9818\u571f",
+                "official": "\u30d5\u30e9\u30f3\u30b9\u9818\u6975\u5357\u8af8\u5cf6",
                 "common": "\u30d5\u30e9\u30f3\u30b9\u9818\u5357\u65b9\u30fb\u5357\u6975\u5730\u57df"
             },
             "kor": {
@@ -2028,7 +2028,7 @@
                 "common": "Antigua e Barbuda"
             },
             "jpn": {
-                "official": "\u30a2\u30f3\u30c1\u30b0\u30a2\u30d0\u30fc\u30d6\u30fc\u30c0",
+                "official": "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0",
                 "common": "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0"
             },
             "kor": {
@@ -3716,7 +3716,7 @@
                 "common": "Bahamas"
             },
             "jpn": {
-                "official": "\u30d0\u30cf\u30de",
+                "official": "\u30d0\u30cf\u30de\u56fd",
                 "common": "\u30d0\u30cf\u30de"
             },
             "kor": {
@@ -3873,7 +3873,7 @@
                 "common": "Bosnia ed Erzegovina"
             },
             "jpn": {
-                "official": "\u30dc\u30b9\u30cb\u30a2\u00b7\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
+                "official": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca",
                 "common": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca"
             },
             "kor": {
@@ -4025,8 +4025,8 @@
                 "common": "Antille Francesi"
             },
             "jpn": {
-                "official": "\u30b5\u30f3\u00b7\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u5cf6\u306e\u96c6\u5408\u4f53",
-                "common": "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc"
+                "official": "\u30b5\u30f3\u30d0\u30eb\u30c6\u30eb\u30df\u30fc",
+                "common": "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u5cf6"
             },
             "kor": {
                 "official": "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8",
@@ -4177,8 +4177,8 @@
                 "common": "Sant'Elena, Ascensione e Tristan da Cunha"
             },
             "jpn": {
-                "official": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3",
-                "common": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u304a\u3088\u3073\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3"
+                "official": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca\u30fb\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u30fb\u30c8\u30ea\u30b9\u30bf\u30f3\u30c0\u30af\u30fc\u30cb\u30e3",
+                "common": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca"
             },
             "kor": {
                 "official": "\uc138\uc778\ud2b8\ud5ec\ub808\ub098",
@@ -4643,7 +4643,7 @@
                 "common": "Bermuda"
             },
             "jpn": {
-                "official": "\u30d0\u30df\u30e5\u30fc\u30c0",
+                "official": "\u30d0\u30df\u30e5\u30fc\u30c0\u8af8\u5cf6",
                 "common": "\u30d0\u30df\u30e5\u30fc\u30c0"
             },
             "kor": {
@@ -4811,8 +4811,8 @@
                 "common": "Bolivia"
             },
             "jpn": {
-                "official": "\u30dc\u30ea\u30d3\u30a2\u306e\u591a\u6c11\u65cf\u56fd",
-                "common": "\u30dc\u30ea\u30d3\u30a2\u591a\u6c11\u65cf\u56fd"
+                "official": "\u30dc\u30ea\u30d3\u30a2\u591a\u6c11\u65cf\u56fd",
+                "common": "\u30dc\u30ea\u30d3\u30a2"
             },
             "kor": {
                 "official": "\ubcfc\ub9ac\ube44\uc544 \ub2e4\ubbfc\uc871\uad6d",
@@ -4971,8 +4971,8 @@
                 "common": "Paesi Bassi caraibici"
             },
             "jpn": {
-                "official": "\u30dc\u30cd\u30fc\u30eb\u3001\u30b7\u30f3\u30c8\u30fb\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u304a\u3088\u3073\u30b5\u30d0",
-                "common": "\u30dc\u30cd\u30fc\u30eb\u3001\u30b7\u30f3\u30c8\u30fb\u30e6\u30fc\u30b9\u30bf\u30c6\u30a3\u30a6\u30b9\u304a\u3088\u3073\u30b5\u30d0"
+                "official": "\u30aa\u30e9\u30f3\u30c0\u30ab\u30ea\u30d6\u9818\u57df",
+                "common": "BES\u8af8\u5cf6"
             },
             "kor": {
                 "official": "\ubcf4\ub124\ub974, \uc2e0\ud2b8\uc678\uc2a4\ud0c0\ud2f0\uc704\uc2a4, \uc0ac\ubc14",
@@ -5427,8 +5427,8 @@
                 "common": "Brunei"
             },
             "jpn": {
-                "official": "\u30d6\u30eb\u30cd\u30a4\u3001\u5e73\u548c\u306e\u7cbe\u820e\u306e\u56fd\u5bb6",
-                "common": "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30b5\u30e9\u30fc\u30e0"
+                "official": "\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30b5\u30e9\u30fc\u30e0\u56fd",
+                "common": "\u30d6\u30eb\u30cd\u30a4"
             },
             "kor": {
                 "official": "\ube0c\ub8e8\ub098\uc774 \ub2e4\ub8e8\uc0b4\ub78c\uad6d",
@@ -5722,7 +5722,7 @@
                 "common": "Isola Bouvet"
             },
             "jpn": {
-                "official": "\u30d6\u30fc\u30f4\u30a7\u5cf6",
+                "official": "\u30d6\u30fc\u30d9\u5cf6",
                 "common": "\u30d6\u30fc\u30d9\u5cf6"
             },
             "kor": {
@@ -6032,7 +6032,7 @@
             },
             "jpn": {
                 "official": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
-                "common": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd"
+                "common": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab"
             },
             "kor": {
                 "official": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d",
@@ -6402,8 +6402,8 @@
                 "common": "Isole Cocos e Keeling"
             },
             "jpn": {
-                "official": "\u30b3\u30b3\u30b9\u8af8\u5cf6\u306e\u9818\u571f",
-                "common": "\u30b3\u30b3\u30b9\uff08\u30ad\u30fc\u30ea\u30f3\u30b0\uff09\u8af8\u5cf6"
+                "official": "\u30b3\u30b3\u30b9\u8af8\u5cf6",
+                "common": "\u30b3\u30b3\u30b9\u8af8\u5cf6"
             },
             "kor": {
                 "official": "\ucf54\ucf54\uc2a4 \uc81c\ub3c4",
@@ -8773,7 +8773,7 @@
                 "common": "Isola di Natale"
             },
             "jpn": {
-                "official": "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6\u306e\u9818\u571f",
+                "official": "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6",
                 "common": "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6"
             },
             "kor": {
@@ -10447,7 +10447,7 @@
                 "common": "Egitto"
             },
             "jpn": {
-                "official": "\u30a8\u30b8\u30d7\u30c8\u00b7\u30a2\u30e9\u30d6\u5171\u548c\u56fd",
+                "official": "\u30a8\u30b8\u30d7\u30c8\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd",
                 "common": "\u30a8\u30b8\u30d7\u30c8"
             },
             "kor": {
@@ -10781,7 +10781,7 @@
                 "common": "Sahara Occidentale"
             },
             "jpn": {
-                "official": "\u30b5\u30cf\u30e9\u30a2\u30e9\u30d6\u6c11\u4e3b\u5171\u548c\u56fd",
+                "official": "\u897f\u30b5\u30cf\u30e9",
                 "common": "\u897f\u30b5\u30cf\u30e9"
             },
             "kor": {
@@ -10932,7 +10932,7 @@
                 "common": "Spagna"
             },
             "jpn": {
-                "official": "\u30b9\u30da\u30a4\u30f3\u738b\u56fd",
+                "official": "\u30b9\u30da\u30a4\u30f3",
                 "common": "\u30b9\u30da\u30a4\u30f3"
             },
             "kor": {
@@ -11561,7 +11561,7 @@
                 "common": "Figi"
             },
             "jpn": {
-                "official": "\u30d5\u30a3\u30b8\u30fc\u5171\u548c\u56fd",
+                "official": "\u30d5\u30a3\u30b8\u30fc\u8af8\u5cf6\u5171\u548c\u56fd",
                 "common": "\u30d5\u30a3\u30b8\u30fc"
             },
             "kor": {
@@ -11708,8 +11708,8 @@
                 "common": "Isole Falkland o Isole Malvine"
             },
             "jpn": {
-                "official": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9",
-                "common": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6"
+                "official": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6",
+                "common": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6"
             },
             "kor": {
                 "official": "\ud3ec\ud074\ub79c\ub4dc \uc81c\ub3c4",
@@ -12163,7 +12163,7 @@
             },
             "jpn": {
                 "official": "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6",
-                "common": "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6"
+                "common": "\u30df\u30af\u30ed\u30cd\u30b7\u30a2"
             },
             "kor": {
                 "official": "\ubbf8\ud06c\ub85c\ub124\uc2dc\uc544 \uc5f0\ubc29",
@@ -12460,7 +12460,7 @@
                 "common": "Regno Unito"
             },
             "jpn": {
-                "official": "\u30b0\u30ec\u30fc\u30c8\u00b7\u30d6\u30ea\u30c6\u30f3\u304a\u3088\u3073\u5317\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u9023\u5408\u738b\u56fd",
+                "official": "\u30b0\u30ec\u30fc\u30c8\u30d6\u30ea\u30c6\u30f3\u53ca\u3073\u5317\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u9023\u5408\u738b\u56fd",
                 "common": "\u30a4\u30ae\u30ea\u30b9"
             },
             "kor": {
@@ -12608,8 +12608,8 @@
                 "common": "Georgia"
             },
             "jpn": {
-                "official": "\u30b0\u30eb\u30b8\u30a2",
-                "common": "\u30b0\u30eb\u30b8\u30a2"
+                "official": "\u30b8\u30e7\u30fc\u30b8\u30a2",
+                "common": "\u30b8\u30e7\u30fc\u30b8\u30a2"
             },
             "kor": {
                 "official": "\uc870\uc9c0\uc544",
@@ -12774,7 +12774,7 @@
                 "common": "Guernsey"
             },
             "jpn": {
-                "official": "\u30ac\u30fc\u30f3\u30b8\u30fc\u306e\u5f97\u610f\u5206\u91ce",
+                "official": "\u30ac\u30fc\u30f3\u30b8\u30fc\u5cf6",
                 "common": "\u30ac\u30fc\u30f3\u30b8\u30fc"
             },
             "kor": {
@@ -14576,7 +14576,7 @@
                 "common": "Guyana francese"
             },
             "jpn": {
-                "official": "\u30ae\u30a2\u30ca",
+                "official": "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca",
                 "common": "\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca"
             },
             "kor": {
@@ -14881,7 +14881,7 @@
                 "common": "Guyana"
             },
             "jpn": {
-                "official": "\u30ac\u30a4\u30a2\u30ca\u306e\u5354\u540c\u5171\u548c\u56fd",
+                "official": "\u30ac\u30a4\u30a2\u30ca\u5171\u548c\u56fd",
                 "common": "\u30ac\u30a4\u30a2\u30ca"
             },
             "kor": {
@@ -15036,7 +15036,7 @@
                 "common": "Hong Kong"
             },
             "jpn": {
-                "official": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a",
+                "official": "\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a",
                 "common": "\u9999\u6e2f"
             },
             "kor": {
@@ -15176,7 +15176,7 @@
                 "common": "Isole Heard e McDonald"
             },
             "jpn": {
-                "official": "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6",
+                "official": "\u30cf\u30fc\u30c9\u5cf6\u30fb\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6",
                 "common": "\u30cf\u30fc\u30c9\u5cf6\u3068\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6"
             },
             "kor": {
@@ -16256,7 +16256,7 @@
                 "common": "India"
             },
             "jpn": {
-                "official": "\u30a4\u30f3\u30c9\u5171\u548c\u56fd",
+                "official": "\u30a4\u30f3\u30c9",
                 "common": "\u30a4\u30f3\u30c9"
             },
             "kor": {
@@ -16408,7 +16408,7 @@
                 "common": "Territorio britannico dell'oceano indiano"
             },
             "jpn": {
-                "official": "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df",
+                "official": "\u82f1\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df",
                 "common": "\u30a4\u30ae\u30ea\u30b9\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
             },
             "kor": {
@@ -16561,7 +16561,7 @@
                 "common": "Irlanda"
             },
             "jpn": {
-                "official": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u5171\u548c\u56fd",
+                "official": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
                 "common": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9"
             },
             "kor": {
@@ -16712,8 +16712,8 @@
                 "common": "Iran"
             },
             "jpn": {
-                "official": "\u30a4\u30e9\u30f3\u00b7\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
-                "common": "\u30a4\u30e9\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd"
+                "official": "\u30a4\u30e9\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
+                "common": "\u30a4\u30e9\u30f3"
             },
             "kor": {
                 "official": "\uc774\ub780 \uc774\uc2ac\ub78c \uacf5\ud654\uad6d",
@@ -17656,7 +17656,7 @@
                 "common": "Isola di Jersey"
             },
             "jpn": {
-                "official": "\u30b8\u30e3\u30fc\u30b8\u306e\u5f97\u610f\u5206\u91ce",
+                "official": "\u30b8\u30e3\u30fc\u30b8\u30fc\u5cf6",
                 "common": "\u30b8\u30e3\u30fc\u30b8\u30fc"
             },
             "kor": {
@@ -17804,7 +17804,7 @@
                 "common": "Giordania"
             },
             "jpn": {
-                "official": "\u30e8\u30eb\u30c0\u30f3\u00b7\u30cf\u30b7\u30df\u30c6\u738b\u56fd",
+                "official": "\u30e8\u30eb\u30c0\u30f3\u30fb\u30cf\u30b7\u30df\u30c6\u738b\u56fd",
                 "common": "\u30e8\u30eb\u30c0\u30f3"
             },
             "kor": {
@@ -17958,7 +17958,7 @@
                 "common": "Giappone"
             },
             "jpn": {
-                "official": "\u65e5\u672c",
+                "official": "\u65e5\u672c\u56fd",
                 "common": "\u65e5\u672c"
             },
             "kor": {
@@ -18750,7 +18750,7 @@
                 "common": "Kiribati"
             },
             "jpn": {
-                "official": "\u30ad\u30ea\u30d0\u30b9\u306e\u72ec\u7acb\u3068\u4e3b\u6a29\u5171\u548c\u56fd",
+                "official": "\u30ad\u30ea\u30d0\u30b9\u5171\u548c\u56fd",
                 "common": "\u30ad\u30ea\u30d0\u30b9"
             },
             "kor": {
@@ -18896,8 +18896,8 @@
                 "common": "Saint Kitts e Nevis"
             },
             "jpn": {
-                "official": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fcNevis\u9023\u76df",
-                "common": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30a4\u30d3\u30b9"
+                "official": "\u30bb\u30f3\u30c8\u30ad\u30c3\u30c4\u30fb\u30cd\u30fc\u30d3\u30b9",
+                "common": "\u30bb\u30f3\u30c8\u30ad\u30c3\u30c4\u30fb\u30cd\u30fc\u30f4\u30a3\u30b9\u9023\u90a6"
             },
             "kor": {
                 "official": "\uc138\uc778\ud2b8\ud0a4\uce20 \ub124\ube44\uc2a4 \uc5f0\ubc29",
@@ -19503,7 +19503,7 @@
             },
             "jpn": {
                 "official": "\u30e9\u30aa\u30b9\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd",
-                "common": "\u30e9\u30aa\u30b9\u4eba\u6c11\u6c11\u4e3b\u5171\u548c\u56fd"
+                "common": "\u30e9\u30aa\u30b9"
             },
             "kor": {
                 "official": "\ub77c\uc624 \uc778\ubbfc \ubbfc\uc8fc \uacf5\ud654\uad6d",
@@ -19960,7 +19960,7 @@
                 "common": "Libia"
             },
             "jpn": {
-                "official": "\u30ea\u30d3\u30a2\u306e\u56fd\u5bb6",
+                "official": "\u30ea\u30d3\u30a2",
                 "common": "\u30ea\u30d3\u30a2"
             },
             "kor": {
@@ -21196,7 +21196,7 @@
                 "common": "Macao"
             },
             "jpn": {
-                "official": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u30de\u30ab\u30aa\u7279\u5225\u884c\u653f\u533a",
+                "official": "\u6fb3\u9580\u7279\u5225\u884c\u653f\u533a",
                 "common": "\u30de\u30ab\u30aa"
             },
             "kor": {
@@ -21347,8 +21347,8 @@
                 "common": "Saint Martin"
             },
             "jpn": {
-                "official": "\u30b5\u30f3\u30de\u30eb\u30bf\u30f3\u5cf6",
-                "common": "\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3\uff08\u30d5\u30e9\u30f3\u30b9\u9818\uff09"
+                "official": "\u30b5\u30f3\u30de\u30eb\u30bf\u30f3",
+                "common": "\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3"
             },
             "kor": {
                 "official": "\uc0dd\ub9c8\ub974\ud0f1",
@@ -21804,7 +21804,7 @@
             },
             "jpn": {
                 "official": "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd",
-                "common": "\u30e2\u30eb\u30c9\u30d0\u5171\u548c\u56fd"
+                "common": "\u30e2\u30eb\u30c9\u30d0"
             },
             "kor": {
                 "official": "\ubab0\ub3c4\ubc14 \uacf5\ud654\uad6d",
@@ -22561,7 +22561,7 @@
             },
             "jpn": {
                 "official": "\u5317\u30de\u30b1\u30c9\u30cb\u30a2\u5171\u548c\u56fd",
-                "common": "\u5317\u30de\u30b1\u30c9\u30cb\u30a2 "
+                "common": "\u5317\u30de\u30b1\u30c9\u30cb\u30a2"
             },
             "kor": {
                 "official": "\ubd81\ub9c8\ucf00\ub3c4\ub2c8\uc544 \uacf5\ud654\uad6d",
@@ -23324,7 +23324,7 @@
                 "common": "Mongolia"
             },
             "jpn": {
-                "official": "\u30e2\u30f3\u30b4\u30eb",
+                "official": "\u30e2\u30f3\u30b4\u30eb\u56fd",
                 "common": "\u30e2\u30f3\u30b4\u30eb"
             },
             "kor": {
@@ -23785,7 +23785,7 @@
                 "common": "Mauritania"
             },
             "jpn": {
-                "official": "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2\u00b7\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
+                "official": "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
                 "common": "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2"
             },
             "kor": {
@@ -24080,7 +24080,7 @@
                 "common": "Martinica"
             },
             "jpn": {
-                "official": "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af\u5cf6",
+                "official": "\u30de\u30eb\u30c1\u30cb\u30fc\u30af\u5cf6",
                 "common": "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af"
             },
             "kor": {
@@ -24693,7 +24693,7 @@
                 "common": "Mayotte"
             },
             "jpn": {
-                "official": "\u30de\u30e8\u30c3\u30c8\u79d1",
+                "official": "\u30de\u30a4\u30e8\u30c3\u30c8\u5cf6",
                 "common": "\u30de\u30e8\u30c3\u30c8"
             },
             "kor": {
@@ -25340,7 +25340,7 @@
                 "common": "Isola Norfolk"
             },
             "jpn": {
-                "official": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6\u306e\u9818\u571f",
+                "official": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6",
                 "common": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6"
             },
             "kor": {
@@ -25941,7 +25941,7 @@
                 "common": "Paesi Bassi"
             },
             "jpn": {
-                "official": "\u30aa\u30e9\u30f3\u30c0",
+                "official": "\u30aa\u30e9\u30f3\u30c0\u738b\u56fd",
                 "common": "\u30aa\u30e9\u30f3\u30c0"
             },
             "kor": {
@@ -26715,7 +26715,7 @@
                 "common": "oman"
             },
             "jpn": {
-                "official": "\u30aa\u30de\u30fc\u30f3\u00b7\u30b9\u30eb\u30bf\u30f3\u56fd",
+                "official": "\u30aa\u30de\u30fc\u30f3\u56fd",
                 "common": "\u30aa\u30de\u30fc\u30f3"
             },
             "kor": {
@@ -26872,7 +26872,7 @@
                 "common": "Pakistan"
             },
             "jpn": {
-                "official": "\u30d1\u30ad\u30b9\u30bf\u30f3",
+                "official": "\u30d1\u30ad\u30b9\u30bf\u30f3\u30fb\u30a4\u30b9\u30e9\u30e0\u5171\u548c\u56fd",
                 "common": "\u30d1\u30ad\u30b9\u30bf\u30f3"
             },
             "kor": {
@@ -27178,8 +27178,8 @@
                 "common": "Isole Pitcairn"
             },
             "jpn": {
-                "official": "\u5cf6\u306e\u30d4\u30c8\u30b1\u30a2\u30f3\u30b0\u30eb\u30fc\u30d7",
-                "common": "\u30d4\u30c8\u30b1\u30a2\u30f3"
+                "official": "\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6",
+                "common": "\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6"
             },
             "kor": {
                 "official": "\ud54f\ucf00\uc5b8 \uc81c\ub3c4",
@@ -28112,7 +28112,7 @@
                 "common": "Porto Rico"
             },
             "jpn": {
-                "official": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3\u306e\u30b3\u30e2\u30f3\u30a6\u30a7\u30eb\u30b9",
+                "official": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3",
                 "common": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"
             },
             "kor": {
@@ -28264,8 +28264,8 @@
                 "common": "Corea del Nord"
             },
             "jpn": {
-                "official": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd",
-                "common": "\u671d\u9bae\u6c11\u4e3b\u4e3b\u7fa9\u4eba\u6c11\u5171\u548c\u56fd"
+                "official": "\u5317\u671d\u9bae",
+                "common": "\u5317\u671d\u9bae"
             },
             "kor": {
                 "official": "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
@@ -28732,7 +28732,7 @@
                 "common": "Palestina"
             },
             "jpn": {
-                "official": "\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u653f\u5e9c",
+                "official": "\u30d1\u30ec\u30b9\u30c1\u30ca",
                 "common": "\u30d1\u30ec\u30b9\u30c1\u30ca"
             },
             "kor": {
@@ -29180,7 +29180,7 @@
                 "common": "Riunione"
             },
             "jpn": {
-                "official": "\u30ec\u30e6\u30cb\u30aa\u30f3\u5cf6",
+                "official": "\u30ec\u30e6\u30cb\u30aa\u30f3",
                 "common": "\u30ec\u30e6\u30cb\u30aa\u30f3"
             },
             "kor": {
@@ -29488,7 +29488,7 @@
             },
             "jpn": {
                 "official": "\u30ed\u30b7\u30a2\u9023\u90a6",
-                "common": "\u30ed\u30b7\u30a2\u9023\u90a6"
+                "common": "\u30ed\u30b7\u30a2"
             },
             "kor": {
                 "official": "\ub7ec\uc2dc\uc544 \uc5f0\ubc29",
@@ -30446,7 +30446,7 @@
                 "common": "Georgia del Sud e Isole Sandwich Meridionali"
             },
             "jpn": {
-                "official": "\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u00b7\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u8af8\u5cf6",
+                "official": "\u5357\u30b8\u30e7\u30fc\u30b8\u30a2\u5cf6\u30fb\u5357\u30b5\u30f3\u30c9\u30a4\u30c3\u30c1\u8af8\u5cf6",
                 "common": "\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u30fb\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u8af8\u5cf6"
             },
             "kor": {
@@ -30592,7 +30592,7 @@
                 "common": "Svalbard e Jan Mayen"
             },
             "jpn": {
-                "official": "\u30b9\u30d0\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6OG\u30e4\u30f3\u30de\u30a4\u30a8\u30f3",
+                "official": "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u30fb\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6",
                 "common": "\u30b9\u30f4\u30a1\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u304a\u3088\u3073\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6"
             },
             "kor": {
@@ -31183,7 +31183,7 @@
                 "common": "San Marino"
             },
             "jpn": {
-                "official": "\u30b5\u30f3\u30de\u30ea\u30ce\u306e\u307b\u3068\u3093\u3069\u30bb\u30ea\u30fc\u30cc\u5171\u548c\u56fd",
+                "official": "\u30b5\u30f3\u30de\u30ea\u30ce\u5171\u548c\u56fd",
                 "common": "\u30b5\u30f3\u30de\u30ea\u30ce"
             },
             "kor": {
@@ -31489,8 +31489,8 @@
                 "common": "Saint-Pierre e Miquelon"
             },
             "jpn": {
-                "official": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u00b7\u30df\u30af\u30ed\u30f3\u5cf6",
-                "common": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6"
+                "official": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6",
+                "common": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u53ca\u3073\u30df\u30af\u30ed\u30f3\u5cf6"
             },
             "kor": {
                 "official": "\uc0dd\ud53c\uc5d0\ub974 \ubbf8\ud074\ub871",
@@ -31948,7 +31948,7 @@
                 "common": "S\u00e3o Tom\u00e9 e Pr\u00edncipe"
             },
             "jpn": {
-                "official": "\u30b5\u30f3\u30c8\u30e1\u00b7\u30d7\u30ea\u30f3\u30b7\u30da\u6c11\u4e3b\u5171\u548c\u56fd",
+                "official": "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da\u6c11\u4e3b\u5171\u548c\u56fd",
                 "common": "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da"
             },
             "kor": {
@@ -32716,8 +32716,8 @@
                 "common": "Swaziland"
             },
             "jpn": {
-                "official": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9\u738b\u56fd",
-                "common": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9"
+                "official": "\u30a8\u30b9\u30ef\u30c6\u30a3\u30cb\u738b\u56fd",
+                "common": "\u30a8\u30b9\u30ef\u30c6\u30a3\u30cb"
             },
             "kor": {
                 "official": "\uc5d0\uc2a4\uc640\ud2f0\ub2c8 \uc655\uad6d",
@@ -32875,7 +32875,7 @@
                 "common": "Sint Maarten"
             },
             "jpn": {
-                "official": "\u30b7\u30f3\u30c8\u30de\u30fc\u30eb\u30c6\u30f3\u5cf6",
+                "official": "\u30b7\u30f3\u30c8\u30fb\u30de\u30fc\u30eb\u30c6\u30f3",
                 "common": "\u30b7\u30f3\u30c8\u30fb\u30de\u30fc\u30eb\u30c6\u30f3"
             },
             "kor": {
@@ -33035,7 +33035,7 @@
                 "common": "Seychelles"
             },
             "jpn": {
-                "official": "\u30bb\u30a4\u30b7\u30a7\u30eb\u5171\u548c\u56fd",
+                "official": "\u30bb\u30fc\u30b7\u30a7\u30eb\u5171\u548c\u56fd",
                 "common": "\u30bb\u30fc\u30b7\u30a7\u30eb"
             },
             "kor": {
@@ -33183,8 +33183,8 @@
                 "common": "Siria"
             },
             "jpn": {
-                "official": "\u30b7\u30ea\u30a2\u30a2\u30e9\u30d6\u5171\u548c\u56fd",
-                "common": "\u30b7\u30ea\u30a2\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd"
+                "official": "\u30b7\u30ea\u30a2\u30fb\u30a2\u30e9\u30d6\u5171\u548c\u56fd",
+                "common": "\u30b7\u30ea\u30a2"
             },
             "kor": {
                 "official": "\uc2dc\ub9ac\uc544 \uc544\ub78d \uacf5\ud654\uad6d",
@@ -33334,7 +33334,7 @@
                 "common": "Isole Turks e Caicos"
             },
             "jpn": {
-                "official": "\u30bf\u30fc\u30af\u30b9\u00b7\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6",
+                "official": "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6",
                 "common": "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6"
             },
             "kor": {
@@ -34725,7 +34725,7 @@
                 "common": "Trinidad e Tobago"
             },
             "jpn": {
-                "official": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u00b7\u30c8\u30d0\u30b4\u5171\u548c\u56fd",
+                "official": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4\u5171\u548c\u56fd",
                 "common": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4"
             },
             "kor": {
@@ -35338,8 +35338,8 @@
                 "common": "Taiwan"
             },
             "jpn": {
-                "official": "\u4e2d\u83ef\u6c11\u56fd",
-                "common": "\u53f0\u6e7e"
+                "official": "\u53f0\u6e7e",
+                "common": "\u4e2d\u83ef\u6c11\u56fd"
             },
             "kor": {
                 "official": "\uc911\ud654\ubbfc\uad6d",
@@ -35956,7 +35956,7 @@
                 "common": "Isole minori esterne degli Stati Uniti d'America"
             },
             "jpn": {
-                "official": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u5916\u8af8\u5cf6",
+                "official": "\u7c73\u9818\u5c0f\u96e2\u5cf6",
                 "common": "\u5408\u8846\u56fd\u9818\u6709\u5c0f\u96e2\u5cf6"
             },
             "kor": {
@@ -36633,7 +36633,7 @@
             },
             "jpn": {
                 "official": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
-                "common": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd"
+                "common": "\u30a2\u30e1\u30ea\u30ab"
             },
             "kor": {
                 "official": "\uc544\uba54\ub9ac\uce74 \ud569\uc911\uad6d",
@@ -36948,8 +36948,8 @@
                 "common": "Citt\u00e0 del Vaticano"
             },
             "jpn": {
-                "official": "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd\u306e\u72b6\u614b",
-                "common": "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd"
+                "official": "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd",
+                "common": "\u30d0\u30c1\u30ab\u30f3"
             },
             "kor": {
                 "official": "\ubc14\ud2f0\uce78 \uc2dc\uad6d",
@@ -37095,8 +37095,8 @@
                 "common": "Saint Vincent e Grenadine"
             },
             "jpn": {
-                "official": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6",
-                "common": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u304a\u3088\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6"
+                "official": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u30fb\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6",
+                "common": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u30fb\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3"
             },
             "kor": {
                 "official": "\uc138\uc778\ud2b8\ube48\uc13c\ud2b8 \uadf8\ub808\ub098\ub518",
@@ -37243,8 +37243,8 @@
                 "common": "Venezuela"
             },
             "jpn": {
-                "official": "\u30d9\u30cd\u30ba\u30a8\u30e9\u00b7\u30dc\u30ea\u30d0\u30eb\u5171\u548c\u56fd",
-                "common": "\u30d9\u30cd\u30ba\u30a8\u30e9\u30fb\u30dc\u30ea\u30d0\u30eb\u5171\u548c\u56fd"
+                "official": "\u30d9\u30cd\u30ba\u30a8\u30e9\u30fb\u30dc\u30ea\u30d0\u30eb\u5171\u548c\u56fd",
+                "common": "\u30d9\u30cd\u30ba\u30a8\u30e9"
             },
             "kor": {
                 "official": "\ubca0\ub124\uc218\uc5d8\ub77c \ubcfc\ub9ac\ubc14\ub974 \uacf5\ud654\uad6d",
@@ -37393,7 +37393,7 @@
                 "common": "Isole Vergini Britanniche"
             },
             "jpn": {
-                "official": "\u30d0\u30fc\u30b8\u30f3\u8af8\u5cf6",
+                "official": "\u82f1\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
                 "common": "\u30a4\u30ae\u30ea\u30b9\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
             },
             "kor": {
@@ -37539,7 +37539,7 @@
                 "common": "Isole Vergini americane"
             },
             "jpn": {
-                "official": "\u7c73\u56fd\u306e\u30d0\u30fc\u30b8\u30f3\u8af8\u5cf6",
+                "official": "\u7c73\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
                 "common": "\u30a2\u30e1\u30ea\u30ab\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
             },
             "kor": {
@@ -37996,7 +37996,7 @@
                 "common": "Wallis e Futuna"
             },
             "jpn": {
-                "official": "\u30a6\u30a9\u30ea\u30b9\u00b7\u30d5\u30c4\u30ca\u8af8\u5cf6\u306e\u9818\u571f",
+                "official": "\u30ef\u30ea\u30b9\u30fb\u30d5\u30c6\u30e5\u30ca\u8af8\u5cf6",
                 "common": "\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca"
             },
             "kor": {
