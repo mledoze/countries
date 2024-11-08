@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- add Serbian translation (#534)
 ### Changed
 - add missing translations for Curaçao (Croatian) and Iran (Persian) (#496)
 - add missing Japanese translations for Curaçao and Kosovo (#498)
