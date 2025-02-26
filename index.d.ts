@@ -33,6 +33,8 @@ export interface Country {
   cioc: string
   independent: boolean
   status: string
+  unMember: boolean
+  unRegionalGroup: string
   currencies: { [currencyCode: string]: Currency }
   idd: IntlDirectDialingCode
   capital: string[]

@@ -24,6 +24,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "AWG": {
                 "name": "Aruban florin",
@@ -190,6 +191,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "AFN": {
                 "name": "Afghan afghani",
@@ -357,6 +359,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "AOA": {
                 "name": "Angolan kwanza",
@@ -521,6 +524,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -678,6 +682,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -838,6 +843,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "ALL": {
                 "name": "Albanian lek",
@@ -1003,6 +1009,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -1166,6 +1173,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "AED": {
                 "name": "United Arab Emirates dirham",
@@ -1332,6 +1340,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "ARS": {
                 "name": "Argentine peso",
@@ -1498,6 +1507,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "AMD": {
                 "name": "Armenian dram",
@@ -1667,6 +1677,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -1823,6 +1834,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {},
         "idd": {
             "root": "",
@@ -1969,6 +1981,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -2127,6 +2140,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -2284,6 +2298,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -2441,6 +2456,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -2613,6 +2629,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "AZN": {
                 "name": "Azerbaijani manat",
@@ -2783,6 +2800,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "BIF": {
                 "name": "Burundian franc",
@@ -2956,6 +2974,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -3128,6 +3147,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -3292,6 +3312,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -3456,6 +3477,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "BDT": {
                 "name": "Bangladeshi taka",
@@ -3618,6 +3640,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "BGN": {
                 "name": "Bulgarian lev",
@@ -3783,6 +3806,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "BHD": {
                 "name": "Bahraini dinar",
@@ -3942,6 +3966,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "BSD": {
                 "name": "Bahamian dollar",
@@ -4112,6 +4137,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "BAM": {
                 "name": "Bosnia and Herzegovina convertible mark",
@@ -4277,6 +4303,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -4438,6 +4465,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "GBP": {
                 "name": "Pound sterling",
@@ -4605,6 +4633,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "BYN": {
                 "name": "Belarusian ruble",
@@ -4781,6 +4810,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "BZD": {
                 "name": "Belize dollar",
@@ -4943,6 +4973,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "BMD": {
                 "name": "Bermudian dollar",
@@ -5115,6 +5146,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "BOB": {
                 "name": "Bolivian boliviano",
@@ -5294,6 +5326,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -5456,6 +5489,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "BRL": {
                 "name": "Brazilian real",
@@ -5627,6 +5661,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "BBD": {
                 "name": "Barbadian dollar",
@@ -5784,6 +5819,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "BND": {
                 "name": "Brunei dollar",
@@ -5950,6 +5986,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "BTN": {
                 "name": "Bhutanese ngultrum",
@@ -6115,6 +6152,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {},
         "idd": {
             "root": "+4",
@@ -6271,6 +6309,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "BWP": {
                 "name": "Botswana pula",
@@ -6440,6 +6479,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -6611,6 +6651,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "CAD": {
                 "name": "Canadian dollar",
@@ -6832,6 +6873,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -7003,6 +7045,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "CHF": {
                 "name": "Swiss franc",
@@ -7174,6 +7217,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "CLP": {
                 "name": "Chilean peso",
@@ -7341,6 +7385,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "CNY": {
                 "name": "Chinese yuan",
@@ -7521,6 +7566,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -7693,6 +7739,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -7876,6 +7923,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "CDF": {
                 "name": "Congolese franc",
@@ -8060,6 +8108,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -8231,6 +8280,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "CKD": {
                 "name": "Cook Islands dollar",
@@ -8394,6 +8444,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "COP": {
                 "name": "Colombian peso",
@@ -8567,6 +8618,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "KMF": {
                 "name": "Comorian franc",
@@ -8730,6 +8782,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "CVE": {
                 "name": "Cape Verdean escudo",
@@ -8889,6 +8942,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "CRC": {
                 "name": "Costa Rican col\u00f3n",
@@ -9051,6 +9105,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "CUC": {
                 "name": "Cuban convertible peso",
@@ -9222,6 +9277,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "ANG": {
                 "name": "Netherlands Antillean guilder",
@@ -9386,6 +9442,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -9544,6 +9601,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "KYD": {
                 "name": "Cayman Islands dollar",
@@ -9705,6 +9763,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -9872,6 +9931,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "CZK": {
                 "name": "Czech koruna",
@@ -10037,6 +10097,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -10210,6 +10271,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "DJF": {
                 "name": "Djiboutian franc",
@@ -10378,6 +10440,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -10538,6 +10601,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "DKK": {
                 "name": "Danish krone",
@@ -10700,6 +10764,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "DOP": {
                 "name": "Dominican peso",
@@ -10862,6 +10927,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "DZD": {
                 "name": "Algerian dinar",
@@ -11029,6 +11095,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -11192,6 +11259,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "EGP": {
                 "name": "Egyptian pound",
@@ -11363,6 +11431,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "ERN": {
                 "name": "Eritrean nakfa",
@@ -11539,6 +11608,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "DZD": {
                 "name": "Algerian dinar",
@@ -11712,6 +11782,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -11877,6 +11948,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -12040,6 +12112,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "ETB": {
                 "name": "Ethiopian birr",
@@ -12211,6 +12284,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -12385,6 +12459,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "FJD": {
                 "name": "Fijian dollar",
@@ -12548,6 +12623,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "FKP": {
                 "name": "Falkland Islands pound",
@@ -12707,6 +12783,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -12879,6 +12956,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "DKK": {
                 "name": "Danish krone",
@@ -13044,6 +13122,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {},
         "idd": {
             "root": "+6",
@@ -13198,6 +13277,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -13361,6 +13441,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "GBP": {
                 "name": "British pound",
@@ -13522,6 +13603,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "GEL": {
                 "name": "lari",
@@ -13693,6 +13775,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "GBP": {
                 "name": "British pound",
@@ -13858,6 +13941,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "GHS": {
                 "name": "Ghanaian cedi",
@@ -14019,6 +14103,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "GIP": {
                 "name": "Gibraltar pound",
@@ -14178,6 +14263,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "GNF": {
                 "name": "Guinean franc",
@@ -14344,6 +14430,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -14502,6 +14589,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "GMD": {
                 "name": "dalasi",
@@ -14666,6 +14754,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -14837,6 +14926,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -15003,6 +15093,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -15168,6 +15259,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -15325,6 +15417,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "DKK": {
                 "name": "krone",
@@ -15483,6 +15576,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "GTQ": {
                 "name": "Guatemalan quetzal",
@@ -15645,6 +15739,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -15815,6 +15910,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -15975,6 +16071,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "GYD": {
                 "name": "Guyanese dollar",
@@ -16142,6 +16239,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "HKD": {
                 "name": "Hong Kong dollar",
@@ -16303,6 +16401,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {},
         "idd": {
             "root": "",
@@ -16452,6 +16551,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "HNL": {
                 "name": "Honduran lempira",
@@ -16615,6 +16715,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -16785,6 +16886,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "HTG": {
                 "name": "Haitian gourde",
@@ -16948,6 +17050,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "HUF": {
                 "name": "Hungarian forint",
@@ -17113,6 +17216,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "IDR": {
                 "name": "Indonesian rupiah",
@@ -17280,6 +17384,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "GBP": {
                 "name": "British pound",
@@ -17453,6 +17558,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "INR": {
                 "name": "Indian rupee",
@@ -17623,6 +17729,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -17784,6 +17891,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -17948,6 +18056,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "IRR": {
                 "name": "Iranian rial",
@@ -18124,6 +18233,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "IQD": {
                 "name": "Iraqi dinar",
@@ -18292,6 +18402,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "ISK": {
                 "name": "Icelandic kr\u00f3na",
@@ -18456,6 +18567,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "ILS": {
                 "name": "Israeli new shekel",
@@ -18622,6 +18734,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -18792,6 +18905,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "JMD": {
                 "name": "Jamaican dollar",
@@ -18958,6 +19072,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "GBP": {
                 "name": "British pound",
@@ -19125,6 +19240,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "JOD": {
                 "name": "Jordanian dinar",
@@ -19291,6 +19407,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "JPY": {
                 "name": "Japanese yen",
@@ -19455,6 +19572,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "KZT": {
                 "name": "Kazakhstani tenge",
@@ -19631,6 +19749,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "KES": {
                 "name": "Kenyan shilling",
@@ -19801,6 +19920,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "KGS": {
                 "name": "Kyrgyzstani som",
@@ -19968,6 +20088,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "KHR": {
                 "name": "Cambodian riel",
@@ -20138,6 +20259,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -20302,6 +20424,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -20461,6 +20584,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "KRW": {
                 "name": "South Korean won",
@@ -20628,6 +20752,7 @@
         "independent": null,
         "status": "user-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -20792,6 +20917,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "KWD": {
                 "name": "Kuwaiti dinar",
@@ -20954,6 +21080,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "LAK": {
                 "name": "Lao kip",
@@ -21124,6 +21251,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "LBP": {
                 "name": "Lebanese pound",
@@ -21287,6 +21415,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "LRD": {
                 "name": "Liberian dollar",
@@ -21449,6 +21578,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "LYD": {
                 "name": "Libyan dinar",
@@ -21615,6 +21745,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -21772,6 +21903,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "CHF": {
                 "name": "Swiss franc",
@@ -21940,6 +22072,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "LKR": {
                 "name": "Sri Lankan rupee",
@@ -22106,6 +22239,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "LSL": {
                 "name": "Lesotho loti",
@@ -22272,6 +22406,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -22444,6 +22579,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -22611,6 +22747,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -22779,6 +22916,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "MOP": {
                 "name": "Macanese pataca",
@@ -22943,6 +23081,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -23110,6 +23249,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "MAD": {
                 "name": "Moroccan dirham",
@@ -23274,6 +23414,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -23435,6 +23576,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "MDL": {
                 "name": "Moldovan leu",
@@ -23602,6 +23744,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "MGA": {
                 "name": "Malagasy ariary",
@@ -23763,6 +23906,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "MVR": {
                 "name": "Maldivian rufiyaa",
@@ -23923,6 +24067,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "MXN": {
                 "name": "Mexican peso",
@@ -24091,6 +24236,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -24251,6 +24397,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "MKD": {
                 "name": "denar",
@@ -24419,6 +24566,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -24590,6 +24738,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -24750,6 +24899,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "MMK": {
                 "name": "Burmese kyat",
@@ -24916,6 +25066,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -25080,6 +25231,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "MNT": {
                 "name": "Mongolian t\u00f6gr\u00f6g",
@@ -25248,6 +25400,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -25409,6 +25562,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "MZN": {
                 "name": "Mozambican metical",
@@ -25575,6 +25729,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "MRU": {
                 "name": "Mauritanian ouguiya",
@@ -25739,6 +25894,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -25896,6 +26052,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -26061,6 +26218,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "MUR": {
                 "name": "Mauritian rupee",
@@ -26226,6 +26384,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "MWK": {
                 "name": "Malawian kwacha",
@@ -26393,6 +26552,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "MYR": {
                 "name": "Malaysian ringgit",
@@ -26555,6 +26715,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -26746,6 +26907,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "NAD": {
                 "name": "Namibian dollar",
@@ -26922,6 +27084,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "XPF": {
                 "name": "CFP franc",
@@ -27079,6 +27242,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -27249,6 +27413,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -27409,6 +27574,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "NGN": {
                 "name": "Nigerian naira",
@@ -27574,6 +27740,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "NIO": {
                 "name": "Nicaraguan c\u00f3rdoba",
@@ -27740,6 +27907,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "NZD": {
                 "name": "New Zealand dollar",
@@ -27898,6 +28066,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -28069,6 +28238,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "NOK": {
                 "name": "Norwegian krone",
@@ -28237,6 +28407,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "NPR": {
                 "name": "Nepalese rupee",
@@ -28403,6 +28574,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -28573,6 +28745,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "NZD": {
                 "name": "New Zealand dollar",
@@ -28733,6 +28906,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "OMR": {
                 "name": "Omani rial",
@@ -28900,6 +29074,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "PKR": {
                 "name": "Pakistani rupee",
@@ -29066,6 +29241,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "PAB": {
                 "name": "Panamanian balboa",
@@ -29232,6 +29408,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "NZD": {
                 "name": "New Zealand dollar",
@@ -29399,6 +29576,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "PEN": {
                 "name": "Peruvian sol",
@@ -29570,6 +29748,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "PHP": {
                 "name": "Philippine peso",
@@ -29734,6 +29913,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -29902,6 +30082,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "PGK": {
                 "name": "Papua New Guinean kina",
@@ -30065,6 +30246,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "PLN": {
                 "name": "Polish z\u0142oty",
@@ -30236,6 +30418,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -30397,6 +30580,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "KPW": {
                 "name": "North Korean won",
@@ -30565,6 +30749,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -30731,6 +30916,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "PYG": {
                 "name": "Paraguayan guaran\u00ed",
@@ -30897,6 +31083,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EGP": {
                 "name": "Egyptian pound",
@@ -31069,6 +31256,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "XPF": {
                 "name": "CFP franc",
@@ -31230,6 +31418,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "QAR": {
                 "name": "Qatari riyal",
@@ -31391,6 +31580,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -31549,6 +31739,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "RON": {
                 "name": "Romanian leu",
@@ -31717,6 +31908,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "RUB": {
                 "name": "Russian ruble",
@@ -31903,6 +32095,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "RWF": {
                 "name": "Rwandan franc",
@@ -32071,6 +32264,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "SAR": {
                 "name": "Saudi riyal",
@@ -32243,6 +32437,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "SDG": {
                 "name": "Sudanese pound",
@@ -32411,6 +32606,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -32590,6 +32786,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "SGD": {
                 "name": "Singapore dollar",
@@ -32753,6 +32950,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "SHP": {
                 "name": "Saint Helena pound",
@@ -32911,6 +33109,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "NOK": {
                 "name": "krone",
@@ -33069,6 +33268,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "SBD": {
                 "name": "Solomon Islands dollar",
@@ -33226,6 +33426,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "SLL": {
                 "name": "Sierra Leonean leone",
@@ -33387,6 +33588,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -33549,6 +33751,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -33714,6 +33917,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "SOS": {
                 "name": "Somali shilling",
@@ -33880,6 +34084,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -34039,6 +34244,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "RSD": {
                 "name": "Serbian dinar",
@@ -34210,6 +34416,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "SSP": {
                 "name": "South Sudanese pound",
@@ -34374,6 +34581,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "STN": {
                 "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra",
@@ -34534,6 +34742,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "SRD": {
                 "name": "Surinamese dollar",
@@ -34699,6 +34908,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -34864,6 +35074,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -35028,6 +35239,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "SEK": {
                 "name": "Swedish krona",
@@ -35194,6 +35406,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "SZL": {
                 "name": "Swazi lilangeni",
@@ -35373,6 +35586,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "ANG": {
                 "name": "Netherlands Antillean guilder",
@@ -35543,6 +35757,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "SCR": {
                 "name": "Seychellois rupee",
@@ -35706,6 +35921,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "SYP": {
                 "name": "Syrian pound",
@@ -35871,6 +36087,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -36032,6 +36249,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XAF": {
                 "name": "Central African CFA franc",
@@ -36200,6 +36418,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "XOF": {
                 "name": "West African CFA franc",
@@ -36365,6 +36584,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "THB": {
                 "name": "Thai baht",
@@ -36536,6 +36756,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "TJS": {
                 "name": "Tajikistani somoni",
@@ -36711,6 +36932,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "NZD": {
                 "name": "New Zealand dollar",
@@ -36874,6 +37096,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "TMT": {
                 "name": "Turkmenistan manat",
@@ -37041,6 +37264,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -37212,6 +37436,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "TOP": {
                 "name": "Tongan pa\u02bbanga",
@@ -37370,6 +37595,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "TTD": {
                 "name": "Trinidad and Tobago dollar",
@@ -37528,6 +37754,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "TND": {
                 "name": "Tunisian dinar",
@@ -37690,6 +37917,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "TRY": {
                 "name": "Turkish lira",
@@ -37863,6 +38091,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "AUD": {
                 "name": "Australian dollar",
@@ -38027,6 +38256,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "TWD": {
                 "name": "New Taiwan dollar",
@@ -38193,6 +38423,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "TZS": {
                 "name": "Tanzanian shilling",
@@ -38367,6 +38598,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "UGX": {
                 "name": "Ugandan shilling",
@@ -38534,6 +38766,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Eastern European Group",
         "currencies": {
             "UAH": {
                 "name": "Ukrainian hryvnia",
@@ -38700,6 +38933,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -38855,6 +39089,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "UYU": {
                 "name": "Uruguayan peso",
@@ -39017,6 +39252,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Western European and Others Group",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -39562,6 +39798,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "UZS": {
                 "name": "Uzbekistani so\u02bbm",
@@ -39733,6 +39970,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "",
         "currencies": {
             "EUR": {
                 "name": "Euro",
@@ -39898,6 +40136,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "XCD": {
                 "name": "Eastern Caribbean dollar",
@@ -40055,6 +40294,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
             "VES": {
                 "name": "Venezuelan bol\u00edvar soberano",
@@ -40219,6 +40459,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -40377,6 +40618,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "USD": {
                 "name": "United States dollar",
@@ -40535,6 +40777,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "VND": {
                 "name": "Vietnamese \u0111\u1ed3ng",
@@ -40707,6 +40950,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "VUV": {
                 "name": "Vanuatu vatu",
@@ -40869,6 +41113,7 @@
         "independent": false,
         "status": "officially-assigned",
         "unMember": false,
+        "unRegionalGroup": "",
         "currencies": {
             "XPF": {
                 "name": "CFP franc",
@@ -41032,6 +41277,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "WST": {
                 "name": "Samoan t\u0101l\u0101",
@@ -41192,6 +41438,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "Asia and the Pacific Group",
         "currencies": {
             "YER": {
                 "name": "Yemeni rial",
@@ -41394,6 +41641,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "ZAR": {
                 "name": "South African rand",
@@ -41573,6 +41821,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "ZMW": {
                 "name": "Zambian kwacha",
@@ -41796,6 +42045,7 @@
         "independent": true,
         "status": "officially-assigned",
         "unMember": true,
+        "unRegionalGroup": "African Group",
         "currencies": {
             "BWP": {
                 "name": "Botswana pula",
