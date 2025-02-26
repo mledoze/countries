@@ -6,16 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [5.1.0] - 2024-11-30
 ### Added
-- add Serbian translation (#534)
+- add Serbian translations (#534)
+- add Turkish translations
+- add Arabic translations
+- add alt spellings found in ourworldindata.org Covid-19 data
+- add missing Chinese translations
+- add missing Japanese translations for Curaçao and Kosovo
 ### Changed
 - add missing translations for Curaçao (Croatian) and Iran (Persian) (#496)
 - add missing Japanese translations for Curaçao and Kosovo (#498)
 - add missing Chinese translations (#498)
-- allow usage with Symfony 7.x (#516)
-- add PHP 8.3 version in CI checks (#516)
-- update `actions/cache` to v4 (#520)
-- drop support for PHP 8.1 (#520)
+- renamed Kazakhstan capital from Nur-Sultan to Astana
+- change Turkey country name to Türkiye
+- build: allow usage with Symfony 7.x (#516)
+- build: drop support for PHP 8.1 (#520)
+- ci: add PHP 8.3 version in CI checks (#516)
+- ci: update `actions/cache` to v4 (#520)
+- ci: separate JSON linting from PHP tests
 ### Fixed
 - fix column count in CSV export (#497)
   - remove native names
@@ -25,6 +34,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - handle false values as "0"
 - fix error when running index.mjs
 - fix duplicate idd suffixes for Canada (#544)
+- fix German Name for Côte d'Ivoire
+- move composer's ext-gettext PHP module to require-dev key
+- rename Slovakia and South Africa common spa translations
+- remove duplicate idd suffixes for Canada.
+- improvements for encoding json file
+- fix Japanese translations
+- fix error when running index.mjs
+- remove empty lines from geo.json files
+- fix convert `-i` option in README.md (#505)
+- fix column count in CSV export (#503)
+- Update README.md (#499)
+- keep object keys ordered
 
 ## [5.0.0] - 2023-09-17
 ### Breaking changes
