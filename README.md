@@ -32,7 +32,7 @@ Each line contains the country:
  - ISO 3166-1 independence status (`independent`) (denotes the country is considered a sovereign state)
  - ISO 3166-1 assignment status (`status`)
  - UN Member status (`unMember`)
- - [UN Regional Group](https://en.wikipedia.org/wiki/United_Nations_Regional_Groups) (`unRegion`)
+ - [UN Regional Group](https://en.wikipedia.org/wiki/United_Nations_Regional_Groups) (`unRegionalGroup`)
  - `currencies` - list of all currencies
  	- key: ISO 4217 currency code
  	- value: currency object
