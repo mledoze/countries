@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Fixed
-- Serbian 'common' and 'official' name for Hungarian
+- Serbian 'common' and 'official' name for Hungarian (#570)
 
 ## [5.1.0] - 2024-11-30
 ### Added
