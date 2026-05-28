@@ -3731,9 +3731,9 @@
         "unMember": true,
         "unRegionalGroup": "Eastern European Group",
         "currencies": {
-            "BGN": {
-                "name": "Bulgarian lev",
-                "symbol": "\u043b\u0432"
+            "EUR": {
+                "name": "Euro",
+                "symbol": "\u20ac"
             }
         },
         "idd": {
