@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [5.1.1] - 2026-05-29
+### Changed
+- change Bulgaria's currency from BGN to EUR following euro adoption on 1 Jan 2026 (#597)
 ### Fixed
 - Serbian 'common' and 'official' name for Hungarian (#570)
 
