@@ -9324,10 +9324,6 @@
         "unMember": true,
         "unRegionalGroup": "Latin American and Caribbean Group",
         "currencies": {
-            "CUC": {
-                "name": "Cuban convertible peso",
-                "symbol": "$"
-            },
             "CUP": {
                 "name": "Cuban peso",
                 "symbol": "$"
@@ -9500,9 +9496,9 @@
         "unMember": false,
         "unRegionalGroup": "",
         "currencies": {
-            "ANG": {
-                "name": "Netherlands Antillean guilder",
-                "symbol": "\u0192"
+            "XCG": {
+                "name": "Caribbean guilder",
+                "symbol": "Cg"
             }
         },
         "idd": {
@@ -36441,9 +36437,9 @@
         "unMember": false,
         "unRegionalGroup": "",
         "currencies": {
-            "ANG": {
-                "name": "Netherlands Antillean guilder",
-                "symbol": "\u0192"
+            "XCG": {
+                "name": "Caribbean guilder",
+                "symbol": "Cg"
             }
         },
         "idd": {
@@ -43076,9 +43072,9 @@
                 "name": "South African rand",
                 "symbol": "Rs"
             },
-            "ZWB": {
-                "name": "Zimbabwean bonds",
-                "symbol": "$"
+            "ZWG": {
+                "name": "Zimbabwe Gold",
+                "symbol": "ZiG"
             }
         },
         "idd": {
