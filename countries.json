@@ -138,6 +138,10 @@
 				"official": "Aruba",
 				"common": "Aruba"
 			},
+            "ukr": {
+                "official": "\u0410\u0440\u0443\u0431\u0430",
+                "common": "\u0410\u0440\u0443\u0431\u0430"
+            },
             "urd": {
                 "official": "\u0627\u0631\u0648\u0628\u0627",
                 "common": "\u0627\u0631\u0648\u0628\u0627"
@@ -311,6 +315,10 @@
 				"official": "Afganistan \u0130slam Cumhuriyeti",
 				"common": "Afganistan"
 			},
+            "ukr": {
+                "official": "\u0406\u0441\u043b\u0430\u043c\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0410\u0444\u0433\u0430\u043d\u0456\u0441\u0442\u0430\u043d",
+                "common": "\u0410\u0444\u0433\u0430\u043d\u0456\u0441\u0442\u0430\u043d"
+            },
             "urd": {
                 "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
                 "common": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"
@@ -483,6 +491,10 @@
 				"official": "Angola Cumhuriyeti",
 				"common": "Angola"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0410\u043d\u0433\u043e\u043b\u0430",
+                "common": "\u0410\u043d\u0433\u043e\u043b\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u06af\u0648\u0644\u06c1",
                 "common": "\u0627\u0646\u06af\u0648\u0644\u06c1"
@@ -650,6 +662,10 @@
 				"official": "Anguilla",
 				"common": "Anguilla"
 			},
+            "ukr": {
+                "official": "\u0410\u043d\u0433\u0456\u043b\u044c\u044f",
+                "common": "\u0410\u043d\u0433\u0456\u043b\u044c\u044f"
+            },
             "urd": {
                 "official": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627",
                 "common": "\u0627\u06cc\u0646\u06af\u0648\u06cc\u0644\u0627"
@@ -815,6 +831,10 @@
 				"official": "\u00c5land Adalar\u0131",
 				"common": "\u00c5land"
 			},
+            "ukr": {
+                "official": "\u0410\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u0410\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0627\u0648\u0644\u0646\u062f",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0627\u0648\u0644\u0646\u062f"
@@ -980,6 +1000,10 @@
 				"official": "Arnavutluk Cumhuriyeti",
 				"common": "Arnavutluk"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0410\u043b\u0431\u0430\u043d\u0456\u044f",
+                "common": "\u0410\u043b\u0431\u0430\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u0628\u0627\u0646\u06cc\u0627",
                 "common": "\u0627\u0644\u0628\u0627\u0646\u06cc\u0627"
@@ -1149,6 +1173,10 @@
 				"official": "Andorra Prensli\u011fi",
 				"common": "Andorra"
 			},
+            "ukr": {
+                "official": "\u041a\u043d\u044f\u0437\u0456\u0432\u0441\u0442\u0432\u043e \u0410\u043d\u0434\u043e\u0440\u0440\u0430",
+                "common": "\u0410\u043d\u0434\u043e\u0440\u0440\u0430"
+            },
             "urd": {
                 "official": "\u0627\u0645\u0627\u0631\u0627\u062a\u0650 \u0627\u0646\u0688\u0648\u0631\u0627",
                 "common": "\u0627\u0646\u0688\u0648\u0631\u0627"
@@ -1317,6 +1345,10 @@
 				"official": "Birle\u015fik Arap Emirlikleri",
 				"common": "Birle\u015fik Arap Emirlikleri"
 			},
+            "ukr": {
+                "official": "\u041e\u0431\u2019\u0454\u0434\u043d\u0430\u043d\u0456 \u0410\u0440\u0430\u0431\u0441\u044c\u043a\u0456 \u0415\u043c\u0456\u0440\u0430\u0442\u0438",
+                "common": "\u041e\u0431\u2019\u0454\u0434\u043d\u0430\u043d\u0456 \u0410\u0440\u0430\u0431\u0441\u044c\u043a\u0456 \u0415\u043c\u0456\u0440\u0430\u0442\u0438"
+            },
             "urd": {
                 "official": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a",
                 "common": "\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a"
@@ -1489,6 +1521,10 @@
 				"official": "Arjantin Cumhuriyeti",
 				"common": "Arjantin"
 			},
+            "ukr": {
+                "official": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646",
                 "common": "\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
@@ -1660,6 +1696,10 @@
 				"official": "Ermenistan Cumhuriyeti",
 				"common": "Ermenistan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0412\u0456\u0440\u043c\u0435\u043d\u0456\u044f",
+                "common": "\u0412\u0456\u0440\u043c\u0435\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0631\u0645\u06cc\u0646\u06cc\u0627",
                 "common": "\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627"
@@ -1835,6 +1875,10 @@
 				"official": "Amerikan Samoas\u0131",
 				"common": "Amerikan Samoas\u0131"
 			},
+            "ukr": {
+                "official": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0435 \u0421\u0430\u043c\u043e\u0430",
+                "common": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0435 \u0421\u0430\u043c\u043e\u0430"
+            },
             "urd": {
                 "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627",
                 "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627"
@@ -1981,6 +2025,10 @@
 				"official": "Antarktika",
 				"common": "Antarktika"
 			},
+            "ukr": {
+                "official": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430",
+                "common": "\u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430"
+            },
             "urd": {
                 "official": "\u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06a9\u0627",
                 "common": "\u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06a9\u0627"
@@ -2144,6 +2192,10 @@
 				"official": "Frans\u0131z G\u00fcney ve Antarktika Topraklar\u0131",
 				"common": "Frans\u0131z G\u00fcney ve Antarktika Topraklar\u0131"
 			},
+            "ukr": {
+                "official": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0456 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0456 \u0442\u0430 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u043d\u0456 \u0422\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457",
+                "common": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0456 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0456 \u0442\u0430 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0447\u043d\u0456 \u0422\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u0457"
+            },
             "urd": {
                 "official": "\u0633\u0631\u0632\u0645\u06cc\u0646\u0650 \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc\u06c1 \u0648 \u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06cc\u06a9\u06c1",
                 "common": "\u0633\u0631\u0632\u0645\u06cc\u0646 \u062c\u0646\u0648\u0628\u06cc \u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc\u06c1 \u0648 \u0627\u0646\u0679\u0627\u0631\u06a9\u0679\u06cc\u06a9\u0627"
@@ -2306,6 +2358,10 @@
 				"official": "Antigua ve Barbuda",
 				"common": "Antigua ve Barbuda"
 			},
+            "ukr": {
+                "official": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430",
+                "common": "\u0410\u043d\u0442\u0438\u0433\u0443\u0430 \u0456 \u0411\u0430\u0440\u0431\u0443\u0434\u0430"
+            },
             "urd": {
                 "official": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627",
                 "common": "\u0627\u06cc\u0646\u0679\u06cc\u06af\u0648\u0627 \u0648 \u0628\u0627\u0631\u0628\u0648\u0688\u0627"
@@ -2468,6 +2524,10 @@
 				"official": "Avustralya Federal Devleti",
 				"common": "Avustralya"
 			},
+            "ukr": {
+                "official": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u0421\u043e\u044e\u0437",
+                "common": "\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627",
                 "common": "\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0627"
@@ -2632,6 +2692,10 @@
 				"official": "Avusturya Cumhuriyeti",
 				"common": "Avusturya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0410\u0432\u0441\u0442\u0440\u0456\u044f",
+                "common": "\u0410\u0432\u0441\u0442\u0440\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0633\u0679\u0631\u06cc\u0627",
                 "common": "\u0622\u0633\u0679\u0631\u06cc\u0627"
@@ -2810,6 +2874,10 @@
 				"official": "Azerbaycan Cumhuriyeti",
 				"common": "Azerbaycan"
 			},
+            "ukr": {
+                "official": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646",
                 "common": "\u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646"
@@ -2986,6 +3054,10 @@
 				"official": "Burundi Cumhuriyeti",
 				"common": "Burundi"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u0443\u0440\u0443\u043d\u0434\u0456",
+                "common": "\u0411\u0443\u0440\u0443\u043d\u0434\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0631\u0648\u0646\u0688\u06cc",
                 "common": "\u0628\u0631\u0648\u0646\u0688\u06cc"
@@ -3170,6 +3242,10 @@
 				"official": "Bel\u00e7ika Krall\u0131\u011f\u0131",
 				"common": "Bel\u00e7ika"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0411\u0435\u043b\u044c\u0433\u0456\u044f",
+                "common": "\u0411\u0435\u043b\u044c\u0433\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u0644\u062c\u0626\u06cc\u0645",
                 "common": "\u0628\u0644\u062c\u0626\u06cc\u0645"
@@ -3339,6 +3415,10 @@
 				"official": "Benin Cumhuriyeti",
 				"common": "Benin"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u0435\u043d\u0456\u043d",
+                "common": "\u0411\u0435\u043d\u0456\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0646\u0646",
                 "common": "\u0628\u06cc\u0646\u0646"
@@ -3506,6 +3586,10 @@
 				"official": "Burkina Faso",
 				"common": "Burkina Faso"
 			},
+            "ukr": {
+                "official": "\u0411\u0443\u0440\u043a\u0456\u043d\u0430-\u0424\u0430\u0441\u043e",
+                "common": "\u0411\u0443\u0440\u043a\u0456\u043d\u0430-\u0424\u0430\u0441\u043e"
+            },
             "urd": {
                 "official": "\u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648",
                 "common": "\u0628\u0631\u06a9\u06cc\u0646\u0627 \u0641\u0627\u0633\u0648"
@@ -3677,6 +3761,10 @@
 				"official": "Banglade\u015f Halk Cumhuriyeti",
 				"common": "Banglade\u015f"
 			},
+            "ukr": {
+                "official": "\u041d\u0430\u0440\u043e\u0434\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448",
+                "common": "\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448"
+            },
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634",
                 "common": "\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634"
@@ -3844,6 +3932,10 @@
 				"official": "Bulgaristan Cumhuriyeti",
 				"common": "Bulgaristan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u043e\u043b\u0433\u0430\u0440\u0456\u044f",
+                "common": "\u0411\u043e\u043b\u0433\u0430\u0440\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0644\u063a\u0627\u0631\u06cc\u06c1",
                 "common": "\u0628\u0644\u063a\u0627\u0631\u06cc\u06c1"
@@ -4014,6 +4106,10 @@
 				"official": "Bahreyn Krall\u0131\u011f\u0131",
 				"common": "Bahreyn"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0411\u0430\u0445\u0440\u0435\u0439\u043d",
+                "common": "\u0411\u0430\u0445\u0440\u0435\u0439\u043d"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0628\u062d\u0631\u06cc\u0646",
                 "common": "\u0628\u062d\u0631\u06cc\u0646"
@@ -4181,6 +4277,10 @@
 				"official": "Bahama Milletler Toplulu\u011fu",
 				"common": "Bahamalar"
 			},
+            "ukr": {
+                "official": "\u0421\u043f\u0456\u0432\u0434\u0440\u0443\u0436\u043d\u0456\u0441\u0442\u044c \u0411\u0430\u0433\u0430\u043c\u0441\u044c\u043a\u0438\u0445 \u041e\u0441\u0442\u0440\u043e\u0432\u0456\u0432",
+                "common": "\u0411\u0430\u0433\u0430\u043c\u0441\u044c\u043a\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0628\u06c1\u0627\u0645\u0627\u0633",
                 "common": "\u0628\u06c1\u0627\u0645\u0627\u0633"
@@ -4355,6 +4455,10 @@
 				"official": "Bosna ve Hersek",
 				"common": "Bosna-Hersek"
 			},
+            "ukr": {
+                "official": "\u0411\u043e\u0441\u043d\u0456\u044f \u0456 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430",
+                "common": "\u0411\u043e\u0441\u043d\u0456\u044f \u0456 \u0413\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+            },
             "urd": {
                 "official": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627",
                 "common": "\u0628\u0648\u0633\u0646\u06cc\u0627 \u0648 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627"
@@ -4524,6 +4628,10 @@
 				"official": "Saint Barth\u00e9lemy",
 				"common": "Saint Barth\u00e9lemy"
 			},
+            "ukr": {
+                "official": "\u0421\u0435\u043d-\u0411\u0430\u0440\u0442\u0435\u043b\u044c\u043c\u0456",
+                "common": "\u0421\u0435\u043d-\u0411\u0430\u0440\u0442\u0435\u043b\u044c\u043c\u0456"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2",
                 "common": "\u0633\u06cc\u0646\u0679 \u0628\u0627\u0631\u062a\u06be\u06cc\u0645\u0644\u06d2"
@@ -4693,6 +4801,10 @@
 				"official": "Saint Helena",
 				"common": "Saint Helena"
 			},
+            "ukr": {
+                "official": "\u041e\u0441\u0442\u0440\u0456\u0432 \u0421\u0432\u044f\u0442\u043e\u0457 \u0404\u043b\u0435\u043d\u0438, \u0412\u043e\u0437\u043d\u0435\u0441\u0456\u043d\u043d\u044f \u0456 \u0422\u0440\u0438\u0441\u0442\u0430\u043d-\u0434\u0430-\u041a\u0443\u043d\u044c\u044f",
+                "common": "\u041e\u0441\u0442\u0440\u0456\u0432 \u0421\u0432\u044f\u0442\u043e\u0457 \u0404\u043b\u0435\u043d\u0438"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u06c1\u0644\u06cc\u0646\u0627\u060c \u0627\u0633\u06cc\u0646\u0634\u0646 \u0648 \u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627",
                 "common": "\u0633\u06cc\u0646\u0679 \u06c1\u0644\u06cc\u0646\u0627\u060c \u0627\u0633\u06cc\u0646\u0634\u0646 \u0648 \u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627"
@@ -4864,6 +4976,10 @@
 				"official": "Belarus Cumhuriyeti",
 				"common": "Belarus"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u0456\u043b\u043e\u0440\u0443\u0441\u044c",
+                "common": "\u0411\u0456\u043b\u043e\u0440\u0443\u0441\u044c"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06cc\u0644\u0627\u0631\u0648\u0633",
                 "common": "\u0628\u06cc\u0644\u0627\u0631\u0648\u0633"
@@ -5042,6 +5158,10 @@
 				"official": "Belize",
 				"common": "Belize"
 			},
+            "ukr": {
+                "official": "\u0411\u0435\u043b\u0456\u0437",
+                "common": "\u0411\u0435\u043b\u0456\u0437"
+            },
             "urd": {
                 "official": "\u0628\u06cc\u0644\u06cc\u0632",
                 "common": "\u0628\u06cc\u0644\u06cc\u0632"
@@ -5210,6 +5330,10 @@
 				"official": "Bermuda",
 				"common": "Bermuda"
 			},
+            "ukr": {
+                "official": "\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u044c\u043a\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u0411\u0435\u0440\u043c\u0443\u0434\u0441\u044c\u043a\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u0628\u0631\u0645\u0648\u062f\u0627",
                 "common": "\u0628\u0631\u0645\u0648\u062f\u0627"
@@ -5395,6 +5519,10 @@
 				"official": "Bolivya \u00e7okuluslu Devleti",
 				"common": "Bolivya"
 			},
+            "ukr": {
+                "official": "\u0411\u0430\u0433\u0430\u0442\u043e\u043d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0430 \u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u0411\u043e\u043b\u0456\u0432\u0456\u044f",
+                "common": "\u0411\u043e\u043b\u0456\u0432\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0644\u06cc\u0648\u06cc\u0627",
                 "common": "\u0628\u0648\u0644\u06cc\u0648\u06cc\u0627"
@@ -5573,6 +5701,10 @@
 				"official": "Karayip Hollandas\u0131",
 				"common": "Karayip Hollandas\u0131"
 			},
+            "ukr": {
+                "official": "\u0411\u043e\u043d\u0430\u0439\u0440\u0435, \u0421\u0456\u043d\u0442-\u0415\u0441\u0442\u0430\u0442\u0456\u0443\u0441 \u0456 \u0421\u0430\u0431\u0430",
+                "common": "\u041a\u0430\u0440\u0438\u0431\u0441\u044c\u043a\u0456 \u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438"
+            },
             "urd": {
                 "official": "\u0628\u0648\u0646\u0627\u06cc\u0631\u060c \u0633\u06cc\u0646\u0679 \u0627\u06cc\u0648\u0633\u0679\u0627\u0626\u06cc\u0633 \u0627\u0648\u0631 \u0633\u0627\u0628\u0627",
                 "common": "\u06a9\u06cc\u0631\u06cc\u0628\u06cc\u0646 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"
@@ -5738,6 +5870,10 @@
 				"official": "Brezilya Federal Cumhuriyeti",
 				"common": "Brezilya"
 			},
+            "ukr": {
+                "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f",
+                "common": "\u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0631\u0627\u0632\u06cc\u0644",
                 "common": "\u0628\u0631\u0627\u0632\u06cc\u0644"
@@ -5911,6 +6047,10 @@
 				"official": "Barbados",
 				"common": "Barbados"
 			},
+            "ukr": {
+                "official": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441",
+                "common": "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+            },
             "urd": {
                 "official": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633",
                 "common": "\u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
@@ -6080,6 +6220,10 @@
 				"official": "Brunei Bar\u0131\u015f \u00fclkesi Devleti (Dar\u00fc's-Selam)",
 				"common": "Brunei"
 			},
+            "ukr": {
+                "official": "\u0411\u0440\u0443\u043d\u0435\u0439-\u0414\u0430\u0440\u0443\u0441\u0441\u0430\u043b\u0430\u043c",
+                "common": "\u0411\u0440\u0443\u043d\u0435\u0439"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0628\u0631\u0648\u0646\u0627\u0626\u06cc \u062f\u0627\u0631\u0627\u0644\u0633\u0644\u0627\u0645",
                 "common": "\u0628\u0631\u0648\u0646\u0627\u0626\u06cc"
@@ -6249,6 +6393,10 @@
 				"official": "Butan Krall\u0131\u011f\u0131",
 				"common": "Butan"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0411\u0443\u0442\u0430\u043d",
+                "common": "\u0411\u0443\u0442\u0430\u043d"
+            },
             "urd": {
                 "official": "\u0633\u0644\u0637\u0646\u062a \u0628\u06be\u0648\u0679\u0627\u0646",
                 "common": "\u0628\u06be\u0648\u0679\u0627\u0646"
@@ -6409,6 +6557,10 @@
 				"official": "Bouvet Adas\u0131",
 				"common": "Bouvet Adas\u0131"
 			},
+            "ukr": {
+                "official": "\u041e\u0441\u0442\u0440\u0456\u0432 \u0411\u0443\u0432\u0435",
+                "common": "\u041e\u0441\u0442\u0440\u0456\u0432 \u0411\u0443\u0432\u0435"
+            },
             "urd": {
                 "official": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06c1"
@@ -6578,6 +6730,10 @@
 				"official": "Botsvana Cumhuriyeti",
 				"common": "Botsvana"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430",
+                "common": "\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u0648\u0679\u0633\u0648\u0627\u0646\u0627",
                 "common": "\u0628\u0648\u0679\u0633\u0648\u0627\u0646\u0627"
@@ -6752,6 +6908,10 @@
 				"official": "Orta Afrika Cumhuriyeti",
 				"common": "Orta Afrika Cumhuriyeti"
 			},
+            "ukr": {
+                "official": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
+            },
             "urd": {
                 "official": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
                 "common": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
@@ -6987,6 +7147,10 @@
 				"official": "Kanada",
 				"common": "Kanada"
 			},
+            "ukr": {
+                "official": "\u041a\u0430\u043d\u0430\u0434\u0430",
+                "common": "\u041a\u0430\u043d\u0430\u0434\u0430"
+            },
             "urd": {
                 "official": "\u06a9\u06cc\u0646\u06cc\u0688\u0627",
                 "common": "\u06a9\u06cc\u0646\u06cc\u0688\u0627"
@@ -7153,6 +7317,10 @@
 				"official": "Cocos (Keeling) Adalar\u0131",
 				"common": "Cocos (Keeling) Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u0456 (\u041a\u0456\u043b\u0456\u043d\u0433) \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u041a\u043e\u043a\u043e\u0441\u043e\u0432\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 (\u06a9\u06cc\u0644\u0646\u06af) \u06a9\u0648\u06a9\u0648\u0633",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u0648\u06a9\u0648\u0633"
@@ -7335,6 +7503,10 @@
 				"official": "\u0130svi\u00e7re Konfederasyonu",
 				"common": "\u0130svi\u00e7re"
 			},
+            "ukr": {
+                "official": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u044c\u043a\u0430 \u041a\u043e\u043d\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0456\u044f",
+                "common": "\u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0633\u0648\u0626\u06cc\u0633 \u0645\u062a\u062d\u062f\u06c1",
                 "common": "\u0633\u0648\u06cc\u0679\u0630\u0631\u0644\u06cc\u0646\u0688"
@@ -7505,6 +7677,10 @@
 				"official": "\u015fili Cumhuriyeti",
 				"common": "\u015fili"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0427\u0438\u043b\u0456",
+                "common": "\u0427\u0438\u043b\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0644\u06cc",
                 "common": "\u0686\u0644\u06cc"
@@ -7681,6 +7857,10 @@
 				"official": "\u00e7in Halk Cumhuriyeti",
 				"common": "\u00e7in"
 			},
+            "ukr": {
+                "official": "\u041a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u0430 \u041d\u0430\u0440\u043e\u0434\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041a\u0438\u0442\u0430\u0439"
+            },
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646",
                 "common": "\u0686\u06cc\u0646"
@@ -7865,6 +8045,10 @@
 				"official": "Fildi\u015fi Sahili",
 				"common": "Fildi\u015fi Sahili"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u0442-\u0434\u2019\u0406\u0432\u0443\u0430\u0440",
+                "common": "\u041a\u043e\u0442-\u0434\u2019\u0406\u0432\u0443\u0430\u0440"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u062a \u062f\u06cc\u0648\u0627\u063a",
                 "common": "\u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"
@@ -8040,6 +8224,10 @@
 				"official": "Kamerun Cumhuriyeti",
 				"common": "Kamerun"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u0430\u043c\u0435\u0440\u0443\u043d",
+                "common": "\u041a\u0430\u043c\u0435\u0440\u0443\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0645\u0631\u0648\u0646",
                 "common": "\u06a9\u06cc\u0645\u0631\u0648\u0646"
@@ -8234,6 +8422,10 @@
 				"official": "Kongo Demokratik Cumhuriyeti",
 				"common": "Kongo Demokratik Cumhuriyeti"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043d\u0433\u043e",
+                "common": "\u0414\u0420 \u041a\u043e\u043d\u0433\u043e"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648",
                 "common": "\u06a9\u0627\u0646\u06af\u0648"
@@ -8418,6 +8610,10 @@
 				"official": "Kongo Cumhuriyeti",
 				"common": "Kongo Cumhuriyeti"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043d\u0433\u043e",
+                "common": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648",
                 "common": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0627\u0646\u06af\u0648"
@@ -8596,6 +8792,10 @@
 				"official": "Cook Adalar\u0131",
 				"common": "Cook Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u041a\u0443\u043a\u0430",
+                "common": "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u041a\u0443\u043a\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9"
@@ -8760,6 +8960,10 @@
 				"official": "Kolombiya Cumhuriyeti",
 				"common": "Kolombiya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u043b\u0443\u043c\u0431\u0456\u044f",
+                "common": "\u041a\u043e\u043b\u0443\u043c\u0431\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0644\u0645\u0628\u06cc\u0627",
                 "common": "\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627"
@@ -8942,6 +9146,10 @@
 				"official": "Komorlar Birli\u011fi",
 				"common": "Komorlar"
 			},
+            "ukr": {
+                "official": "\u0421\u043e\u044e\u0437 \u041a\u043e\u043c\u043e\u0440\u0441\u044c\u043a\u0438\u0445 \u041e\u0441\u0442\u0440\u043e\u0432\u0456\u0432",
+                "common": "\u041a\u043e\u043c\u043e\u0440\u0438"
+            },
             "urd": {
                 "official": "\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0642\u0645\u0631\u06cc",
                 "common": "\u0627\u0644\u0642\u0645\u0631\u06cc"
@@ -9106,6 +9314,10 @@
 				"official": "Ye\u015fil Burun Cumhuriyeti",
 				"common": "Ye\u015fil Burun"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435",
+                "common": "\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc",
                 "common": "\u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc"
@@ -9270,6 +9482,10 @@
 				"official": "Kosta Rika Cumhuriyeti",
 				"common": "Kosta Rika"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430",
+                "common": "\u041a\u043e\u0441\u0442\u0430-\u0420\u0438\u043a\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627",
                 "common": "\u06a9\u0648\u0633\u0679\u0627\u0631\u06cc\u06a9\u0627"
@@ -9441,6 +9657,10 @@
 				"official": "K\u00fcba Cumhuriyeti",
 				"common": "K\u00fcba"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u0443\u0431\u0430",
+                "common": "\u041a\u0443\u0431\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0648\u0628\u0627",
                 "common": "\u06a9\u06cc\u0648\u0628\u0627"
@@ -9618,6 +9838,10 @@
 				"official": "Cura\u00e7ao",
 				"common": "Cura\u00e7ao"
 			},
+            "ukr": {
+                "official": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e",
+                "common": "\u041a\u044e\u0440\u0430\u0441\u0430\u043e"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624",
                 "common": "\u06a9\u06cc\u0648\u0631\u0627\u0633\u0627\u0624"
@@ -9781,6 +10005,10 @@
 				"official": "Christmas Adas\u0131",
 				"common": "Christmas Adas\u0131"
 			},
+            "ukr": {
+                "official": "\u041e\u0441\u0442\u0440\u0456\u0432 \u0420\u0456\u0437\u0434\u0432\u0430",
+                "common": "\u041e\u0441\u0442\u0440\u0456\u0432 \u0420\u0456\u0437\u0434\u0432\u0430"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0631\u0633\u0645\u0633"
@@ -9943,6 +10171,10 @@
 				"official": "Cayman Adalar\u0131",
 				"common": "Cayman Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u041a\u0430\u0439\u043c\u0430\u043d\u043e\u0432\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u041a\u0430\u0439\u043c\u0430\u043d\u043e\u0432\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u0645\u06cc\u0646"
@@ -10115,6 +10347,10 @@
 				"official": "K\u0131br\u0131s Cumhuriyeti",
 				"common": "K\u0131br\u0131s"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u0456\u043f\u0440",
+                "common": "\u041a\u0456\u043f\u0440"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0628\u0631\u0635",
                 "common": "\u0642\u0628\u0631\u0635"
@@ -10284,6 +10520,10 @@
 				"official": "\u00e7ek Cumhuriyeti",
 				"common": "\u00e7ekya"
 			},
+            "ukr": {
+                "official": "\u0427\u0435\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0427\u0435\u0445\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0686\u064a\u06a9 \u062c\u0645\u06c1\u0648\u0631\u064a\u06c1",
                 "common": "\u0686\u064a\u06a9"
@@ -10453,6 +10693,10 @@
 				"official": "Almanya Federal Cumhuriyeti",
 				"common": "Almanya"
 			},
+            "ukr": {
+                "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041d\u0456\u043c\u0435\u0447\u0447\u0438\u043d\u0430",
+                "common": "\u041d\u0456\u043c\u0435\u0447\u0447\u0438\u043d\u0430"
+            },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0631\u0645\u0646\u06cc",
                 "common": "\u062c\u0631\u0645\u0646\u06cc"
@@ -10636,6 +10880,10 @@
 				"official": "Cibuti Cumhuriyeti",
 				"common": "Cibuti"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0414\u0436\u0438\u0431\u0443\u0442\u0456",
+                "common": "\u0414\u0436\u0438\u0431\u0443\u0442\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0628\u0648\u062a\u06cc",
                 "common": "\u062c\u0628\u0648\u062a\u06cc"
@@ -10805,6 +11053,10 @@
 				"official": "Dominika Toplulu\u011fu",
 				"common": "Dominika"
 			},
+            "ukr": {
+                "official": "\u0421\u043f\u0456\u0432\u0434\u0440\u0443\u0436\u043d\u0456\u0441\u0442\u044c \u0414\u043e\u043c\u0456\u043d\u0456\u043a\u0438",
+                "common": "\u0414\u043e\u043c\u0456\u043d\u0456\u043a\u0430"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627",
                 "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0627"
@@ -10970,6 +11222,10 @@
 				"official": "Danimarka Krall\u0131\u011f\u0131",
 				"common": "Danimarka"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0414\u0430\u043d\u0456\u044f",
+                "common": "\u0414\u0430\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0688\u0646\u0645\u0627\u0631\u06a9",
                 "common": "\u0688\u0646\u0645\u0627\u0631\u06a9"
@@ -11136,6 +11392,10 @@
 				"official": "Dominik Cumhuriyeti",
 				"common": "Dominik Cumhuriyeti"
 			},
+            "ukr": {
+                "official": "\u0414\u043e\u043c\u0456\u043d\u0456\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0414\u043e\u043c\u0456\u043d\u0456\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646",
                 "common": "\u0688\u0648\u0645\u06cc\u0646\u06cc\u06a9\u0646"
@@ -11303,6 +11563,10 @@
 				"official": "Cezayir Demokratik Halk Cumhuriyeti",
 				"common": "Cezayir"
 			},
+            "ukr": {
+                "official": "\u0410\u043b\u0436\u0438\u0440\u0441\u044c\u043a\u0430 \u041d\u0430\u0440\u043e\u0434\u043d\u0430 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0410\u043b\u0436\u0438\u0440"
+            },
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0644\u062c\u0632\u0627\u0626\u0631",
                 "common": "\u0627\u0644\u062c\u0632\u0627\u0626\u0631"
@@ -11475,6 +11739,10 @@
 				"official": "Ekvador Cumhuriyeti",
 				"common": "Ekvador"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0415\u043a\u0432\u0430\u0434\u043e\u0440",
+                "common": "\u0415\u043a\u0432\u0430\u0434\u043e\u0440"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u06a9\u0648\u0688\u0648\u0631",
                 "common": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"
@@ -11642,6 +11910,10 @@
 				"official": "M\u0131s\u0131r Arap Cumhuriyeti",
 				"common": "M\u0131s\u0131r"
 			},
+            "ukr": {
+                "official": "\u0410\u0440\u0430\u0431\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0404\u0433\u0438\u043f\u0435\u0442",
+                "common": "\u0404\u0433\u0438\u043f\u0435\u0442"
+            },
             "urd": {
                 "official": "\u0645\u0635\u0631\u06cc \u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
                 "common": "\u0645\u0635\u0631"
@@ -11824,6 +12096,10 @@
 				"official": "Eritre Devleti",
 				"common": "Eritre"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u0415\u0440\u0438\u0442\u0440\u0435\u044f",
+                "common": "\u0415\u0440\u0438\u0442\u0440\u0435\u044f"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0631\u062a\u0631\u06cc\u0627",
                 "common": "\u0627\u0631\u062a\u0631\u06cc\u0627"
@@ -12010,6 +12286,10 @@
 				"official": "Sahra Demokratik Arap Cumhuriyeti",
 				"common": "Sahra Demokratik Arap Cumhuriyeti"
 			},
+            "ukr": {
+                "official": "\u0421\u0430\u0445\u0430\u0440\u0441\u044c\u043a\u0430 \u0410\u0440\u0430\u0431\u0441\u044c\u043a\u0430 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u0421\u0430\u0445\u0430\u0440\u0430"
+            },
             "urd": {
                 "official": "\u0635\u062d\u0631\u0627\u0648\u06cc \u0639\u0631\u0628 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
                 "common": "\u0645\u063a\u0631\u0628\u06cc \u0635\u062d\u0627\u0631\u0627"
@@ -12178,6 +12458,10 @@
 				"official": "\u0130spanya Krall\u0131\u011f\u0131",
 				"common": "\u0130spanya"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0406\u0441\u043f\u0430\u043d\u0456\u044f",
+                "common": "\u0406\u0441\u043f\u0430\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1",
                 "common": "\u06c1\u0633\u067e\u0627\u0646\u06cc\u06c1"
@@ -12349,6 +12633,10 @@
 				"official": "Estonya Cumhuriyeti",
 				"common": "Estonya"
 			},
+            "ukr": {
+                "official": "\u0415\u0441\u0442\u043e\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0415\u0441\u0442\u043e\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u0679\u0648\u0646\u06cc\u0627",
                 "common": "\u0627\u0633\u0679\u0648\u0646\u06cc\u0627"
@@ -12517,6 +12805,10 @@
 				"official": "Etiyopya Federal Demokratik Cumhuriyeti",
 				"common": "Etiyopya"
 			},
+            "ukr": {
+                "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0415\u0444\u0456\u043e\u043f\u0456\u044f",
+                "common": "\u0415\u0444\u0456\u043e\u043f\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627",
                 "common": "\u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627"
@@ -12695,6 +12987,10 @@
 				"official": "Finlandiya Cumhuriyeti",
 				"common": "Finlandiya"
 			},
+            "ukr": {
+                "official": "\u0424\u0456\u043d\u043b\u044f\u043d\u0434\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0424\u0456\u043d\u043b\u044f\u043d\u0434\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0646 \u0644\u06cc\u0646\u0688",
                 "common": "\u0641\u0646 \u0644\u06cc\u0646\u0688"
@@ -12875,6 +13171,10 @@
 				"official": "Fiji Cumhuriyeti",
 				"common": "Fiji"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0424\u0456\u0434\u0436\u0456",
+                "common": "\u0424\u0456\u0434\u0436\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u062c\u06cc",
                 "common": "\u0641\u062c\u06cc"
@@ -13039,6 +13339,10 @@
 				"official": "Falkland (Malvina) Adalar\u0131",
 				"common": "Falkland (Malvina) Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u0424\u043e\u043b\u043a\u043b\u0435\u043d\u0434\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688"
@@ -13203,6 +13507,10 @@
 				"official": "Fransa Cumhuriyeti",
 				"common": "Fransa"
 			},
+            "ukr": {
+                "official": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0424\u0440\u0430\u043d\u0446\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0631\u0627\u0646\u0633",
                 "common": "\u0641\u0631\u0627\u0646\u0633"
@@ -13386,6 +13694,10 @@
 				"official": "Faroe Adalar\u0131",
 				"common": "Faroe Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u0424\u0430\u0440\u0435\u0440\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u0424\u0430\u0440\u0435\u0440\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u0631\u0648"
@@ -13545,6 +13857,10 @@
 				"official": "Mikronezya Federal Devletleri",
 				"common": "Mikronezya"
 			},
+            "ukr": {
+                "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0456 \u0428\u0442\u0430\u0442\u0438 \u041c\u0456\u043a\u0440\u043e\u043d\u0435\u0437\u0456\u0457",
+                "common": "\u041c\u0456\u043a\u0440\u043e\u043d\u0435\u0437\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0648\u0641\u0627\u0642\u06cc\u06c1 \u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627",
                 "common": "\u0645\u0627\u0626\u06a9\u0631\u0648\u0646\u06cc\u0634\u06cc\u0627"
@@ -13709,6 +14025,10 @@
 				"official": "Gabon Cumhuriyeti",
 				"common": "Gabon"
 			},
+            "ukr": {
+                "official": "\u0413\u0430\u0431\u043e\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0413\u0430\u0431\u043e\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0628\u0648\u0646",
                 "common": "\u06af\u06cc\u0628\u0648\u0646"
@@ -13877,6 +14197,10 @@
 				"official": "B\u00fcy\u00fck Britanya ve Kuzey \u0130rlanda Birle\u015fik Krall\u0131\u011f\u0131",
 				"common": "Birle\u015fik Krall\u0131k"
 			},
+            "ukr": {
+                "official": "\u0421\u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0435 \u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0412\u0435\u043b\u0438\u043a\u043e\u0457 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u0457 \u0442\u0430 \u041f\u0456\u0432\u043d\u0456\u0447\u043d\u043e\u0457 \u0406\u0440\u043b\u0430\u043d\u0434\u0456\u0457",
+                "common": "\u0412\u0435\u043b\u0438\u043a\u0430 \u0411\u0440\u0438\u0442\u0430\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1 \u0628\u0631\u0637\u0627\u0646\u06cc\u06c1 \u0639\u0638\u0645\u06cc \u0648 \u0634\u0645\u0627\u0644\u06cc \u0622\u0626\u0631\u0644\u06cc\u0646\u0688",
                 "common": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u062a\u062d\u062f\u06c1"
@@ -14042,6 +14366,10 @@
 				"official": "G\u00fcrcistan",
 				"common": "G\u00fcrcistan"
 			},
+            "ukr": {
+                "official": "\u0413\u0440\u0443\u0437\u0456\u044f",
+                "common": "\u0413\u0440\u0443\u0437\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0627\u0631\u062c\u06cc\u0627",
                 "common": "\u062c\u0627\u0631\u062c\u06cc\u0627"
@@ -14225,6 +14553,10 @@
 				"official": "Guernsey Muhaf\u0131zl\u0131\u011f\u0131",
 				"common": "Guernsey"
 			},
+            "ukr": {
+                "official": "\u0413\u0435\u0440\u043d\u0441\u0456",
+                "common": "\u0413\u0435\u0440\u043d\u0441\u0456"
+            },
             "urd": {
                 "official": "\u06af\u0631\u0646\u0632\u06cc \u0631\u0648\u062f\u0628\u0627\u0631",
                 "common": "\u06af\u0631\u0646\u0632\u06cc"
@@ -14387,6 +14719,10 @@
 				"official": "Gana Cumhuriyeti",
 				"common": "Gana"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0413\u0430\u043d\u0430",
+                "common": "\u0413\u0430\u043d\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06be\u0627\u0646\u0627",
                 "common": "\u06af\u06be\u0627\u0646\u0627"
@@ -14553,6 +14889,10 @@
 				"official": "Cebelitar\u0131k",
 				"common": "Cebelitar\u0131k"
 			},
+            "ukr": {
+                "official": "\u0413\u0456\u0431\u0440\u0430\u043b\u0442\u0430\u0440",
+                "common": "\u0413\u0456\u0431\u0440\u0430\u043b\u0442\u0430\u0440"
+            },
             "urd": {
                 "official": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642",
                 "common": "\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642"
@@ -14719,6 +15059,10 @@
 				"official": "Gine Cumhuriyeti",
 				"common": "Gine"
 			},
+            "ukr": {
+                "official": "\u0413\u0432\u0456\u043d\u0435\u0439\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0413\u0432\u0456\u043d\u0435\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc",
                 "common": "\u06af\u0646\u06cc"
@@ -14889,6 +15233,10 @@
 				"official": "Guadeloupe",
 				"common": "Guadeloupe"
 			},
+            "ukr": {
+                "official": "\u0413\u0432\u0430\u0434\u0435\u043b\u0443\u043f\u0430",
+                "common": "\u0413\u0432\u0430\u0434\u0435\u043b\u0443\u043f\u0430"
+            },
             "urd": {
                 "official": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e",
                 "common": "\u06af\u0648\u0627\u0688\u06cc\u0644\u0648\u067e"
@@ -15052,6 +15400,10 @@
 				"official": "Gambiya Cumhuriyeti",
 				"common": "Gambiya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0413\u0430\u043c\u0431\u0456\u044f",
+                "common": "\u0413\u0430\u043c\u0431\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0645\u0628\u06cc\u0627",
                 "common": "\u06af\u06cc\u0645\u0628\u06cc\u0627"
@@ -15223,6 +15575,10 @@
 				"official": "Gine-Bissau Cumhuriyeti",
 				"common": "Gine-Bissau"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0413\u0432\u0456\u043d\u0435\u044f-\u0411\u0456\u0441\u0430\u0443",
+                "common": "\u0413\u0432\u0456\u043d\u0435\u044f-\u0411\u0456\u0441\u0430\u0443"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0646\u06cc \u0628\u0633\u0627\u0624",
                 "common": "\u06af\u0646\u06cc \u0628\u0633\u0627\u0624"
@@ -15402,6 +15758,10 @@
 				"official": "Ekvator Ginesi Cumhuriyeti",
 				"common": "Ekvator Ginesi"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0456\u0430\u043b\u044c\u043d\u0430 \u0413\u0432\u0456\u043d\u0435\u044f",
+                "common": "\u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0456\u0430\u043b\u044c\u043d\u0430 \u0413\u0432\u0456\u043d\u0435\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc",
                 "common": "\u0627\u0633\u062a\u0648\u0627\u0626\u06cc \u06af\u0646\u06cc"
@@ -15570,6 +15930,10 @@
 				"official": "Helen Cumhuriyeti",
 				"common": "Yunanistan"
 			},
+            "ukr": {
+                "official": "\u0413\u0440\u0435\u0446\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0413\u0440\u0435\u0446\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0644\u06cc\u0646\u06cc\u06c1",
                 "common": "\u06cc\u0648\u0646\u0627\u0646"
@@ -15737,6 +16101,10 @@
 				"official": "Grenada",
 				"common": "Grenada"
 			},
+            "ukr": {
+                "official": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430",
+                "common": "\u0413\u0440\u0435\u043d\u0430\u0434\u0430"
+            },
             "urd": {
                 "official": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627",
                 "common": "\u06af\u0631\u06cc\u0646\u0627\u0688\u0627"
@@ -15900,6 +16268,10 @@
 				"official": "Gr\u00f6nland",
 				"common": "Gr\u00f6nland"
 			},
+            "ukr": {
+                "official": "\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0456\u044f",
+                "common": "\u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0456\u044f"
+            },
             "urd": {
                 "official": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688",
                 "common": "\u06af\u0631\u06cc\u0646 \u0644\u06cc\u0646\u0688"
@@ -16062,6 +16434,10 @@
 				"official": "Guatemala Cumhuriyeti",
 				"common": "Guatemala"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430",
+                "common": "\u0413\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627",
                 "common": "\u06af\u0648\u0627\u062a\u06cc\u0645\u0627\u0644\u0627"
@@ -16231,6 +16607,10 @@
 				"official": "Frans\u0131z Guyanas\u0131",
 				"common": "Frans\u0131z Guyanas\u0131"
 			},
+            "ukr": {
+                "official": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0430 \u0413\u0432\u0456\u0430\u043d\u0430",
+                "common": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0430 \u0413\u0432\u0456\u0430\u043d\u0430"
+            },
             "urd": {
                 "official": "\u06af\u06cc\u0627\u0646\u0627",
                 "common": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u06af\u06cc\u0627\u0646\u0627"
@@ -16407,6 +16787,10 @@
 				"official": "Guam Topra\u011f\u0131",
 				"common": "Guam"
 			},
+            "ukr": {
+                "official": "\u0413\u0443\u0430\u043c",
+                "common": "\u0413\u0443\u0430\u043c"
+            },
             "urd": {
                 "official": "\u06af\u0648\u0627\u0645",
                 "common": "\u06af\u0648\u0627\u0645"
@@ -16570,6 +16954,10 @@
 				"official": "Guyana Kooperatif Cumhuriyeti",
 				"common": "Guyana"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0413\u0430\u044f\u043d\u0430",
+                "common": "\u0413\u0430\u044f\u043d\u0430"
+            },
             "urd": {
                 "official": "\u062a\u0639\u0627\u0648\u0646\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06cc\u0627\u0646\u0627",
                 "common": "\u06af\u06cc\u0627\u0646\u0627"
@@ -16742,6 +17130,10 @@
 				"official": "\u00e7in Halk Cumhuriyeti Hong Kong \u00f6zel \u0130dari B\u00f6lgesi",
 				"common": "Hong Kong"
 			},
+            "ukr": {
+                "official": "\u0421\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0438\u0439 \u0430\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u0413\u043e\u043d\u043a\u043e\u043d\u0433",
+                "common": "\u0413\u043e\u043d\u043a\u043e\u043d\u0433"
+            },
             "urd": {
                 "official": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1",
                 "common": "\u06c1\u0627\u0646\u06af \u06a9\u0627\u0646\u06af"
@@ -16899,6 +17291,10 @@
 				"official": "Heard Adas\u0131 ve McDonald Adalar\u0131",
 				"common": "Heard Adas\u0131 ve McDonald Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u041e\u0441\u0442\u0440\u0456\u0432 \u0413\u0435\u0440\u0434 \u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434",
+                "common": "\u041e\u0441\u0442\u0440\u0456\u0432 \u0413\u0435\u0440\u0434 \u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438 \u041c\u0430\u043a\u0434\u043e\u043d\u0430\u043b\u044c\u0434"
+            },
             "urd": {
                 "official": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u06c1\u0631\u0688 \u0648 \u062c\u0632\u0627\u0626\u0631 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688"
@@ -17063,6 +17459,10 @@
 				"official": "Honduras Cumhuriyeti",
 				"common": "Honduras"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441",
+                "common": "\u0413\u043e\u043d\u0434\u0443\u0440\u0430\u0441"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633",
                 "common": "\u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0633"
@@ -17232,6 +17632,10 @@
 				"official": "H\u0131rvatistan Cumhuriyeti",
 				"common": "H\u0131rvatistan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0425\u043e\u0440\u0432\u0430\u0442\u0456\u044f",
+                "common": "\u0425\u043e\u0440\u0432\u0430\u0442\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u0648\u06cc\u0626\u0634\u0627",
                 "common": "\u06a9\u0631\u0648\u06cc\u0626\u0634\u0627"
@@ -17408,6 +17812,10 @@
 				"official": "Haiti Cumhuriyeti",
 				"common": "Haiti"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0413\u0430\u0457\u0442\u0456",
+                "common": "\u0413\u0430\u0457\u0442\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06c1\u06cc\u0679\u06cc",
                 "common": "\u06c1\u06cc\u0679\u06cc"
@@ -17572,6 +17980,10 @@
 				"official": "Macaristan",
 				"common": "Macaristan"
 			},
+            "ukr": {
+                "official": "\u0423\u0433\u043e\u0440\u0449\u0438\u043d\u0430",
+                "common": "\u0423\u0433\u043e\u0440\u0449\u0438\u043d\u0430"
+            },
             "urd": {
                 "official": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646",
                 "common": "\u0645\u062c\u0627\u0631\u0633\u062a\u0627\u0646"
@@ -17744,6 +18156,10 @@
 				"official": "Endonezya Cumhuriyeti",
 				"common": "Endonezya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0406\u043d\u0434\u043e\u043d\u0435\u0437\u0456\u044f",
+                "common": "\u0406\u043d\u0434\u043e\u043d\u0435\u0437\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627",
                 "common": "\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0627"
@@ -17922,6 +18338,10 @@
 				"official": "Man Adas\u0131",
 				"common": "Man Adas\u0131"
 			},
+            "ukr": {
+                "official": "\u041e\u0441\u0442\u0440\u0456\u0432 \u041c\u0435\u043d",
+                "common": "\u041e\u0441\u0442\u0440\u0456\u0432 \u041c\u0435\u043d"
+            },
             "urd": {
                 "official": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646",
                 "common": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646"
@@ -18098,6 +18518,10 @@
 				"official": "Hindistan Cumhuriyeti",
 				"common": "Hindistan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0406\u043d\u0434\u0456\u044f",
+                "common": "\u0406\u043d\u0434\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0628\u06be\u0627\u0631\u062a",
                 "common": "\u0628\u06be\u0627\u0631\u062a"
@@ -18267,6 +18691,10 @@
 				"official": "Britanya Hint Okyanusu Topraklar\u0131",
 				"common": "Britanya Hint Okyanusu Topraklar\u0131"
 			},
+            "ukr": {
+                "official": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u044c\u043a\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u044f \u0432 \u0406\u043d\u0434\u0456\u0439\u0441\u044c\u043a\u043e\u043c\u0443 \u043e\u043a\u0435\u0430\u043d\u0456",
+                "common": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u044c\u043a\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u044f \u0432 \u0406\u043d\u0434\u0456\u0439\u0441\u044c\u043a\u043e\u043c\u0443 \u043e\u043a\u0435\u0430\u043d\u0456"
+            },
             "urd": {
                 "official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1",
                 "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1"
@@ -18437,6 +18865,10 @@
 				"official": "\u0130rlanda Cumhuriyeti",
 				"common": "\u0130rlanda"
 			},
+            "ukr": {
+                "official": "\u0406\u0440\u043b\u0430\u043d\u0434\u0456\u044f",
+                "common": "\u0406\u0440\u043b\u0430\u043d\u0434\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0622\u0626\u0631\u0644\u06cc\u0646\u0688"
@@ -18605,6 +19037,10 @@
 				"official": "\u0130ran \u0130slam Cumhuriyeti",
 				"common": "\u0130ran"
 			},
+            "ukr": {
+                "official": "\u0406\u0441\u043b\u0430\u043c\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0406\u0440\u0430\u043d",
+                "common": "\u0406\u0440\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0631\u0627\u0646",
                 "common": "\u0627\u06cc\u0631\u0627\u0646"
@@ -18787,6 +19223,10 @@
 				"official": "Irak Cumhuriyeti",
 				"common": "Irak"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0406\u0440\u0430\u043a",
+                "common": "\u0406\u0440\u0430\u043a"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0639\u0631\u0627\u0642",
                 "common": "\u0639\u0631\u0627\u0642"
@@ -18959,6 +19399,10 @@
 				"official": "\u0130zlanda",
 				"common": "\u0130zlanda"
 			},
+            "ukr": {
+                "official": "\u0406\u0441\u043b\u0430\u043d\u0434\u0456\u044f",
+                "common": "\u0406\u0441\u043b\u0430\u043d\u0434\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688",
                 "common": "\u0622\u0626\u0633 \u0644\u06cc\u0646\u0688"
@@ -19128,6 +19572,10 @@
 				"official": "\u0130srail Devleti",
 				"common": "\u0130srail"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u0406\u0437\u0440\u0430\u0457\u043b\u044c",
+                "common": "\u0406\u0437\u0440\u0430\u0457\u043b\u044c"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0627\u0633\u0631\u0627\u0626\u06cc\u0644",
                 "common": "\u0627\u0633\u0631\u0627\u0626\u06cc\u0644"
@@ -19298,6 +19746,10 @@
 				"official": "\u0130talya Cumhuriyeti",
 				"common": "\u0130talya"
 			},
+            "ukr": {
+                "official": "\u0406\u0442\u0430\u043b\u0456\u0439\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0406\u0442\u0430\u043b\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0637\u0627\u0644\u06cc\u06c1",
                 "common": "\u0627\u0637\u0627\u0644\u06cc\u06c1"
@@ -19472,6 +19924,10 @@
 				"official": "Jamaika",
 				"common": "Jamaika"
 			},
+            "ukr": {
+                "official": "\u042f\u043c\u0430\u0439\u043a\u0430",
+                "common": "\u042f\u043c\u0430\u0439\u043a\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06cc\u06a9\u0627",
                 "common": "\u062c\u0645\u06cc\u06a9\u0627"
@@ -19651,6 +20107,10 @@
 				"official": "Jersey",
 				"common": "Jersey"
 			},
+            "ukr": {
+                "official": "\u0414\u0436\u0435\u0440\u0441\u0456",
+                "common": "\u0414\u0436\u0435\u0440\u0441\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0631\u0632\u06cc",
                 "common": "\u062c\u0631\u0632\u06cc"
@@ -19816,6 +20276,10 @@
 				"official": "\u00fcrd\u00fcn H\u00e2\u015fimi Krall\u0131\u011f\u0131",
 				"common": "\u00fcrd\u00fcn"
 			},
+            "ukr": {
+                "official": "\u0419\u043e\u0440\u0434\u0430\u043d\u0441\u044c\u043a\u0435 \u0425\u0430\u0448\u0438\u043c\u0456\u0442\u0441\u044c\u043a\u0435 \u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e",
+                "common": "\u0419\u043e\u0440\u0434\u0430\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u06be\u0627\u0634\u0645\u06cc \u0645\u0645\u0644\u06a9\u062a\u0650 \u0627\u0631\u062f\u0646",
                 "common": "\u0627\u0631\u062f\u0646"
@@ -19987,6 +20451,10 @@
 				"official": "Japonya",
 				"common": "Japonya"
 			},
+            "ukr": {
+                "official": "\u042f\u043f\u043e\u043d\u0456\u044f",
+                "common": "\u042f\u043f\u043e\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0627\u067e\u0627\u0646",
                 "common": "\u062c\u0627\u067e\u0627\u0646"
@@ -20163,6 +20631,10 @@
 				"official": "Kazakistan Cumhuriyeti",
 				"common": "Kazakistan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+                "common": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646",
                 "common": "\u0642\u0627\u0632\u0642\u0633\u062a\u0627\u0646"
@@ -20338,6 +20810,10 @@
 				"official": "Kenya Cumhuriyeti",
 				"common": "Kenya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u0435\u043d\u0456\u044f",
+                "common": "\u041a\u0435\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0646\u06cc\u0627",
                 "common": "\u06a9\u06cc\u0646\u06cc\u0627"
@@ -20515,6 +20991,10 @@
 				"official": "K\u0131rg\u0131z Cumhuriyeti",
 				"common": "K\u0131rg\u0131zistan"
 			},
+            "ukr": {
+                "official": "\u041a\u0438\u0440\u0433\u0438\u0437\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041a\u0438\u0440\u0433\u0438\u0437\u0441\u0442\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646",
                 "common": "\u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"
@@ -20687,6 +21167,10 @@
 				"official": "Kambo\u00e7ya Krall\u0131\u011f\u0131",
 				"common": "Kambo\u00e7ya"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430",
+                "common": "\u041a\u0430\u043c\u0431\u043e\u0434\u0436\u0430"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u06a9\u0645\u0628\u0648\u0688\u06cc\u0627",
                 "common": "\u06a9\u0645\u0628\u0648\u0688\u06cc\u0627"
@@ -20864,6 +21348,10 @@
 				"official": "Kiribati Cumhuriyeti",
 				"common": "Kiribati"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u0456\u0440\u0456\u0431\u0430\u0442\u0456",
+                "common": "\u041a\u0456\u0440\u0456\u0431\u0430\u0442\u0456"
+            },
             "urd": {
                 "official": "\u0633\u0644\u0637\u0646\u062a \u0622\u0632\u0627\u062f \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc",
                 "common": "\u06a9\u06cc\u0631\u06cc\u0628\u0627\u062a\u06cc"
@@ -21027,6 +21515,10 @@
 				"official": "Saint Kitts ve Nevis Federasyonu",
 				"common": "Saint Kitts ve Nevis"
 			},
+            "ukr": {
+                "official": "\u0421\u0435\u043d\u0442-\u041a\u0456\u0442\u0442\u0441 \u0456 \u041d\u0435\u0432\u0456\u0441",
+                "common": "\u0421\u0435\u043d\u0442-\u041a\u0456\u0442\u0442\u0441 \u0456 \u041d\u0435\u0432\u0456\u0441"
+            },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u0650 \u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633",
                 "common": "\u0633\u06cc\u0646\u0679 \u06a9\u06cc\u0679\u0632 \u0648 \u0646\u0627\u0648\u06cc\u0633"
@@ -21194,6 +21686,10 @@
 				"official": "Kore Cumhuriyeti",
 				"common": "G\u00fcney Kore"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u0440\u0435\u044f",
+                "common": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u041a\u043e\u0440\u0435\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627 ",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627"
@@ -21364,6 +21860,10 @@
 				"official": "Kosova Cumhuriyeti",
 				"common": "Kosova"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e",
+                "common": "\u041a\u043e\u0441\u043e\u0432\u043e"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0633\u0648\u0648\u06c1",
                 "common": "\u06a9\u0648\u0633\u0648\u0648\u06c1"
@@ -21533,6 +22033,10 @@
 				"official": "Kuveyt Devleti",
 				"common": "Kuveyt"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u041a\u0443\u0432\u0435\u0439\u0442",
+                "common": "\u041a\u0443\u0432\u0435\u0439\u0442"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u06a9\u0648\u06cc\u062a",
                 "common": "\u06a9\u0648\u06cc\u062a"
@@ -21701,6 +22205,10 @@
 				"official": "Laos Demokratik Halk Cumhuriyeti",
 				"common": "Laos"
 			},
+            "ukr": {
+                "official": "\u041b\u0430\u043e\u0441\u044c\u043a\u0430 \u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041b\u0430\u043e\u0441"
+            },
             "urd": {
                 "official": "\u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0627\u0624",
                 "common": "\u0644\u0627\u0624\u0633"
@@ -21876,6 +22384,10 @@
 				"official": "L\u00fcbnan Cumhuriyeti",
 				"common": "L\u00fcbnan"
 			},
+            "ukr": {
+                "official": "\u041b\u0456\u0432\u0430\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041b\u0456\u0432\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0628\u0646\u0627\u0646",
                 "common": "\u0644\u0628\u0646\u0627\u0646"
@@ -22042,6 +22554,10 @@
 				"official": "Liberya Cumhuriyeti",
 				"common": "Liberya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041b\u0456\u0431\u0435\u0440\u0456\u044f",
+                "common": "\u041b\u0456\u0431\u0435\u0440\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627",
                 "common": "\u0644\u0627\u0626\u0628\u06cc\u0631\u06cc\u0627"
@@ -22210,6 +22726,10 @@
 				"official": "Libya Devleti",
 				"common": "Libya"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u041b\u0456\u0432\u0456\u044f",
+                "common": "\u041b\u0456\u0432\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0644\u06cc\u0628\u06cc\u0627",
                 "common": "\u0644\u06cc\u0628\u06cc\u0627"
@@ -22379,6 +22899,10 @@
 				"official": "Saint Lucia",
 				"common": "Saint Lucia"
 			},
+            "ukr": {
+                "official": "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0456\u044f",
+                "common": "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627",
                 "common": "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u0627"
@@ -22543,6 +23067,10 @@
 				"official": "Lihten\u015ftayn Prensli\u011fi",
 				"common": "Lihten\u015ftayn"
 			},
+            "ukr": {
+                "official": "\u041a\u043d\u044f\u0437\u0456\u0432\u0441\u0442\u0432\u043e \u041b\u0456\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d",
+                "common": "\u041b\u0456\u0445\u0442\u0435\u043d\u0448\u0442\u0435\u0439\u043d"
+            },
             "urd": {
                 "official": "\u0627\u0645\u0627\u0631\u0627\u062a \u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646",
                 "common": "\u0644\u06cc\u062e\u062a\u06cc\u0646\u0633\u062a\u0627\u0626\u0646"
@@ -22717,6 +23245,10 @@
 				"official": "Sri Lanka Demokratik Sosyalist Cumhuriyeti",
 				"common": "Sri Lanka"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0421\u043e\u0446\u0456\u0430\u043b\u0456\u0441\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0428\u0440\u0456-\u041b\u0430\u043d\u043a\u0430",
+                "common": "\u0428\u0440\u0456-\u041b\u0430\u043d\u043a\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u0648 \u0627\u0634\u062a\u0631\u0627\u06a9\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u06cc \u0644\u0646\u06a9\u0627",
                 "common": "\u0633\u0631\u06cc \u0644\u0646\u06a9\u0627"
@@ -22892,6 +23424,10 @@
 				"official": "Lesotho Krall\u0131\u011f\u0131",
 				"common": "Lesotho"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u041b\u0435\u0441\u043e\u0442\u043e",
+                "common": "\u041b\u0435\u0441\u043e\u0442\u043e"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0644\u06cc\u0633\u0648\u062a\u06be\u0648",
                 "common": "\u0644\u06cc\u0633\u0648\u062a\u06be\u0648"
@@ -23058,6 +23594,10 @@
 				"official": "Litvanya Cumhuriyeti",
 				"common": "Litvanya"
 			},
+            "ukr": {
+                "official": "\u041b\u0438\u0442\u043e\u0432\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041b\u0438\u0442\u0432\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627",
                 "common": "\u0644\u062a\u06be\u0648\u0648\u06cc\u0646\u06cc\u0627"
@@ -23239,6 +23779,10 @@
 				"official": "L\u00fcksemburg B\u00fcy\u00fck D\u00fckal\u0131\u011f\u0131",
 				"common": "L\u00fcksemburg"
 			},
+            "ukr": {
+                "official": "\u0412\u0435\u043b\u0438\u043a\u0435 \u0413\u0435\u0440\u0446\u043e\u0433\u0441\u0442\u0432\u043e \u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433",
+                "common": "\u041b\u044e\u043a\u0441\u0435\u043c\u0431\u0443\u0440\u0433"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0642\u06cc\u06c1 \u06a9\u0628\u06cc\u0631\u0644\u06a9\u0633\u0645\u0628\u0631\u06af",
                 "common": "\u0644\u06a9\u0633\u0645\u0628\u0631\u06af"
@@ -23407,6 +23951,10 @@
 				"official": "Letonya Cumhuriyeti",
 				"common": "Letonya"
 			},
+            "ukr": {
+                "official": "\u041b\u0430\u0442\u0432\u0456\u0439\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041b\u0430\u0442\u0432\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0644\u0679\u0648\u06cc\u0627",
                 "common": "\u0644\u0679\u0648\u06cc\u0627"
@@ -23582,6 +24130,10 @@
 				"official": "\u00e7in Halk Cumhuriyeti Makao \u00f6zel \u0130dari B\u00f6lgesi",
 				"common": "Makao"
 			},
+            "ukr": {
+                "official": "\u0421\u043f\u0435\u0446\u0456\u0430\u043b\u044c\u043d\u0438\u0439 \u0430\u0434\u043c\u0456\u043d\u0456\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d \u041c\u0430\u043a\u0430\u043e",
+                "common": "\u041c\u0430\u043a\u0430\u043e"
+            },
             "urd": {
                 "official": "\u0645\u06a9\u0627\u0624 \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 \u06a9\u0627 \u062e\u0635\u0648\u0635\u06cc \u0627\u0646\u062a\u0638\u0627\u0645\u06cc \u0639\u0644\u0627\u0642\u06c1",
                 "common": "\u0645\u06a9\u0627\u0624"
@@ -23750,6 +24302,10 @@
 				"official": "Saint Martin",
 				"common": "Saint Martin"
 			},
+            "ukr": {
+                "official": "\u0421\u0435\u043d-\u041c\u0430\u0440\u0442\u0435\u043d",
+                "common": "\u0421\u0435\u043d-\u041c\u0430\u0440\u0442\u0435\u043d"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646",
                 "common": "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"
@@ -23922,6 +24478,10 @@
 				"official": "Fas Krall\u0131\u011f\u0131",
 				"common": "Fas"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u041c\u0430\u0440\u043e\u043a\u043a\u043e",
+                "common": "\u041c\u0430\u0440\u043e\u043a\u043a\u043e"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0645\u0631\u0627\u06a9\u0634",
                 "common": "\u0645\u0631\u0627\u06a9\u0634"
@@ -24090,6 +24650,10 @@
 				"official": "Monako Prensli\u011fi",
 				"common": "Monako"
 			},
+            "ukr": {
+                "official": "\u041a\u043d\u044f\u0437\u0456\u0432\u0441\u0442\u0432\u043e \u041c\u043e\u043d\u0430\u043a\u043e",
+                "common": "\u041c\u043e\u043d\u0430\u043a\u043e"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0646\u0627\u06a9\u0648",
                 "common": "\u0645\u0648\u0646\u0627\u06a9\u0648"
@@ -24257,6 +24821,10 @@
 				"official": "Moldova Cumhuriyeti",
 				"common": "Moldova"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u043e\u043b\u0434\u043e\u0432\u0430",
+                "common": "\u041c\u043e\u043b\u0434\u043e\u0432\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u0648\u0648\u0627",
                 "common": "\u0645\u0627\u0644\u062f\u0648\u0648\u0627"
@@ -24430,6 +24998,10 @@
 				"official": "Madagaskar Cumhuriyeti",
 				"common": "Madagaskar"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440",
+                "common": "\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0688\u063a\u0627\u0633\u06a9\u0631",
                 "common": "\u0645\u0688\u063a\u0627\u0633\u06a9\u0631"
@@ -24595,6 +25167,10 @@
 				"official": "Maldivler Cumhuriyeti",
 				"common": "Maldivler"
 			},
+            "ukr": {
+                "official": "\u041c\u0430\u043b\u044c\u0434\u0456\u0432\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041c\u0430\u043b\u044c\u0434\u0456\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u062f\u06cc\u067e",
                 "common": "\u0645\u0627\u0644\u062f\u06cc\u067e"
@@ -24760,6 +25336,10 @@
 				"official": "Birle\u015fik Meksika Devletleri",
 				"common": "Meksika"
 			},
+            "ukr": {
+                "official": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0456 \u0421\u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0456 \u0428\u0442\u0430\u0442\u0438",
+                "common": "\u041c\u0435\u043a\u0441\u0438\u043a\u0430"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648",
                 "common": "\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u0648"
@@ -24933,6 +25513,10 @@
 				"official": "Marshall Adalar\u0131 Cumhuriyeti",
 				"common": "Marshall Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u041c\u0430\u0440\u0448\u0430\u043b\u043b\u043e\u0432\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644"
@@ -25100,6 +25684,10 @@
 				"official": "Kuzey Makedonya Cumhuriyeti",
 				"common": "Kuzey Makedonya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f",
+                "common": "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1",
                 "common": "\u0634\u0645\u0627\u0644\u06cc \u0645\u0642\u062f\u0648\u0646\u06cc\u06c1"
@@ -25270,6 +25858,10 @@
 				"official": "Mali Cumhuriyeti",
 				"common": "Mali"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u043b\u0456",
+                "common": "\u041c\u0430\u043b\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u06cc",
                 "common": "\u0645\u0627\u0644\u06cc"
@@ -25447,6 +26039,10 @@
 				"official": "Malta Cumhuriyeti",
 				"common": "Malta"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u043b\u044c\u0442\u0430",
+                "common": "\u041c\u0430\u043b\u044c\u0442\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0627\u0644\u0679\u0627",
                 "common": "\u0645\u0627\u0644\u0679\u0627"
@@ -25612,6 +26208,10 @@
 				"official": "Myanmar Birli\u011fi Cumhuriyeti",
 				"common": "Myanmar"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u043e\u044e\u0437 \u041c\u2019\u044f\u043d\u043c\u0430",
+                "common": "\u041c\u2019\u044f\u043d\u043c\u0430"
+            },
             "urd": {
                 "official": "\u0645\u062a\u062d\u062f\u06c1 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u06cc\u0627\u0646\u0645\u0627\u0631",
                 "common": "\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"
@@ -25781,6 +26381,10 @@
 				"official": "Karada\u011f",
 				"common": "Karada\u011f"
 			},
+            "ukr": {
+                "official": "\u0427\u043e\u0440\u043d\u043e\u0433\u043e\u0440\u0456\u044f",
+                "common": "\u0427\u043e\u0440\u043d\u043e\u0433\u043e\u0440\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648",
                 "common": "\u0645\u0648\u0646\u0679\u06cc\u0646\u06cc\u06af\u0631\u0648"
@@ -25949,6 +26553,10 @@
 				"official": "Mo\u011folistan",
 				"common": "Mo\u011folistan"
 			},
+            "ukr": {
+                "official": "\u041c\u043e\u043d\u0433\u043e\u043b\u0456\u044f",
+                "common": "\u041c\u043e\u043d\u0433\u043e\u043b\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627",
                 "common": "\u0645\u0646\u06af\u0648\u0644\u06cc\u0627"
@@ -26126,6 +26734,10 @@
 				"official": "Kuzey Mariana Adalar\u0131 Milletler Toplulu\u011fu",
 				"common": "Kuzey Mariana Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u0421\u043f\u0456\u0432\u0434\u0440\u0443\u0436\u043d\u0456\u0441\u0442\u044c \u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0445 \u041c\u0430\u0440\u0456\u0430\u043d\u0441\u044c\u043a\u0438\u0445 \u041e\u0441\u0442\u0440\u043e\u0432\u0456\u0432",
+                "common": "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0456 \u041c\u0430\u0440\u0456\u0430\u043d\u0441\u044c\u043a\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627"
@@ -26290,6 +26902,10 @@
 				"official": "Mozambik Cumhuriyeti",
 				"common": "Mozambik"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u043e\u0437\u0430\u043c\u0431\u0456\u043a",
+                "common": "\u041c\u043e\u0437\u0430\u043c\u0431\u0456\u043a"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0632\u0645\u0628\u06cc\u0642",
                 "common": "\u0645\u0648\u0632\u0645\u0628\u06cc\u0642"
@@ -26461,6 +27077,10 @@
 				"official": "Moritanya \u0130slam Cumhuriyeti",
 				"common": "Moritanya"
 			},
+            "ukr": {
+                "official": "\u0406\u0441\u043b\u0430\u043c\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0456\u044f",
+                "common": "\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1",
                 "common": "\u0645\u0648\u0631\u06cc\u062a\u0627\u0646\u06cc\u06c1"
@@ -26628,6 +27248,10 @@
 				"official": "Montserrat",
 				"common": "Montserrat"
 			},
+            "ukr": {
+                "official": "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0442",
+                "common": "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0442"
+            },
             "urd": {
                 "official": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679",
                 "common": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679"
@@ -26790,6 +27414,10 @@
 				"official": "Martinik",
 				"common": "Martinik"
 			},
+            "ukr": {
+                "official": "\u041c\u0430\u0440\u0442\u0438\u043d\u0456\u043a\u0430",
+                "common": "\u041c\u0430\u0440\u0442\u0438\u043d\u0456\u043a\u0430"
+            },
             "urd": {
                 "official": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9",
                 "common": "\u0645\u0627\u0631\u0679\u06cc\u0646\u06cc\u06a9"
@@ -26964,6 +27592,10 @@
 				"official": "Mauritius Cumhuriyeti",
 				"common": "Mauritius"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u0432\u0440\u0438\u043a\u0456\u0439",
+                "common": "\u041c\u0430\u0432\u0440\u0438\u043a\u0456\u0439"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u0634\u0633",
                 "common": "\u0645\u0648\u0631\u06cc\u0634\u0633"
@@ -27132,6 +27764,10 @@
 				"official": "Malavi Cumhuriyeti",
 				"common": "Malavi"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041c\u0430\u043b\u0430\u0432\u0456",
+                "common": "\u041c\u0430\u043b\u0430\u0432\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0644\u0627\u0648\u06cc",
                 "common": "\u0645\u0644\u0627\u0648\u06cc"
@@ -27303,6 +27939,10 @@
 				"official": "Malezya",
 				"common": "Malezya"
 			},
+            "ukr": {
+                "official": "\u041c\u0430\u043b\u0430\u0439\u0437\u0456\u044f",
+                "common": "\u041c\u0430\u043b\u0430\u0439\u0437\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627",
                 "common": "\u0645\u0644\u0627\u0626\u06cc\u0634\u06cc\u0627"
@@ -27471,6 +28111,10 @@
 				"official": "Mayotte",
 				"common": "Mayotte"
 			},
+            "ukr": {
+                "official": "\u041c\u0430\u0439\u043e\u0442\u0442",
+                "common": "\u041c\u0430\u0439\u043e\u0442\u0442"
+            },
             "urd": {
                 "official": "\u0645\u0627\u06cc\u0648\u0679",
                 "common": "\u0645\u0627\u06cc\u0648\u0679"
@@ -27679,6 +28323,10 @@
 				"official": "Namibya Cumhuriyeti",
 				"common": "Namibya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041d\u0430\u043c\u0456\u0431\u0456\u044f",
+                "common": "\u041d\u0430\u043c\u0456\u0431\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0645\u06cc\u0628\u06cc\u0627",
                 "common": "\u0646\u0645\u06cc\u0628\u06cc\u0627"
@@ -27846,6 +28494,10 @@
 				"official": "Yeni Kaledonya",
 				"common": "Yeni Kaledonya"
 			},
+            "ukr": {
+                "official": "\u041d\u043e\u0432\u0430 \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0456\u044f",
+                "common": "\u041d\u043e\u0432\u0430 \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627",
                 "common": "\u0646\u06cc\u0648 \u06a9\u06cc\u0644\u06cc\u0688\u0648\u0646\u06cc\u0627"
@@ -28009,6 +28661,10 @@
 				"official": "Nijer Cumhuriyeti",
 				"common": "Nijer"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041d\u0456\u0433\u0435\u0440",
+                "common": "\u041d\u0456\u0433\u0435\u0440"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u0631",
                 "common": "\u0646\u0627\u0626\u062c\u0631"
@@ -28186,6 +28842,10 @@
 				"official": "Norfolk Adas\u0131",
 				"common": "Norfolk Adas\u0131"
 			},
+            "ukr": {
+                "official": "\u041e\u0441\u0442\u0440\u0456\u0432 \u041d\u043e\u0440\u0444\u043e\u043b\u043a",
+                "common": "\u041e\u0441\u0442\u0440\u0456\u0432 \u041d\u043e\u0440\u0444\u043e\u043b\u043a"
+            },
             "urd": {
                 "official": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9 \u062e\u0637\u06c1",
                 "common": "\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0648\u0631\u0641\u06a9"
@@ -28351,6 +29011,10 @@
 				"official": "Nijerya Federal Cumhuriyeti",
 				"common": "Nijerya"
 			},
+            "ukr": {
+                "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041d\u0456\u0433\u0435\u0440\u0456\u044f",
+                "common": "\u041d\u0456\u0433\u0435\u0440\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627",
                 "common": "\u0646\u0627\u0626\u062c\u06cc\u0631\u06cc\u0627"
@@ -28520,6 +29184,10 @@
 				"official": "Nikaragua Cumhuriyeti",
 				"common": "Nikaragua"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041d\u0456\u043a\u0430\u0440\u0430\u0433\u0443\u0430",
+                "common": "\u041d\u0456\u043a\u0430\u0440\u0430\u0433\u0443\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627",
                 "common": "\u0646\u06a9\u0627\u0631\u0627\u06af\u0648\u0627"
@@ -28690,6 +29358,10 @@
 				"official": "Niue",
 				"common": "Niue"
 			},
+            "ukr": {
+                "official": "\u041d\u0456\u0443\u0435",
+                "common": "\u041d\u0456\u0443\u0435"
+            },
             "urd": {
                 "official": "\u0646\u06cc\u0648\u0648\u06d2",
                 "common": "\u0646\u06cc\u0648\u0648\u06d2"
@@ -28855,6 +29527,10 @@
 				"official": "Hollanda Krall\u0131\u011f\u0131",
 				"common": "Hollanda"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0456\u0432",
+                "common": "\u041d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0438"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632",
                 "common": "\u0646\u06cc\u062f\u0631\u0644\u06cc\u0646\u0688\u0632"
@@ -29035,6 +29711,10 @@
 				"official": "Norve\u00e7 Krall\u0131\u011f\u0131",
 				"common": "Norve\u00e7"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u041d\u043e\u0440\u0432\u0435\u0433\u0456\u044f",
+                "common": "\u041d\u043e\u0440\u0432\u0435\u0433\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u0627\u0631\u0648\u06d2",
                 "common": "\u0646\u0627\u0631\u0648\u06d2"
@@ -29203,6 +29883,10 @@
 				"official": "Nepal Federal Demokratik Cumhuriyeti",
 				"common": "Nepal"
 			},
+            "ukr": {
+                "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041d\u0435\u043f\u0430\u043b",
+                "common": "\u041d\u0435\u043f\u0430\u043b"
+            },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u06cc\u067e\u0627\u0644",
                 "common": "\u0646\u06cc\u067e\u0627\u0644"
@@ -29377,6 +30061,10 @@
 				"official": "Nauru Cumhuriyeti",
 				"common": "Nauru"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041d\u0430\u0443\u0440\u0443",
+                "common": "\u041d\u0430\u0443\u0440\u0443"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0646\u0627\u0648\u0631\u0648",
                 "common": "\u0646\u0627\u0648\u0631\u0648"
@@ -29550,6 +30238,10 @@
 				"official": "Yeni Zelanda",
 				"common": "Yeni Zelanda"
 			},
+            "ukr": {
+                "official": "\u041d\u043e\u0432\u0430 \u0417\u0435\u043b\u0430\u043d\u0434\u0456\u044f",
+                "common": "\u041d\u043e\u0432\u0430 \u0417\u0435\u043b\u0430\u043d\u0434\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688",
                 "common": "\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688"
@@ -29714,6 +30406,10 @@
 				"official": "Umman Sultanl\u0131\u011f\u0131",
 				"common": "Umman"
 			},
+            "ukr": {
+                "official": "\u0421\u0443\u043b\u0442\u0430\u043d\u0430\u0442 \u041e\u043c\u0430\u043d",
+                "common": "\u041e\u043c\u0430\u043d"
+            },
             "urd": {
                 "official": "\u0633\u0644\u0637\u0646\u062a \u0639\u0645\u0627\u0646",
                 "common": "\u0639\u0645\u0627\u0646"
@@ -29754,6 +30450,10 @@
                 "eng": {
                     "official": "Islamic Republic of Pakistan",
                     "common": "Pakistan"
+                },
+                "ukr": {
+                    "official": "\u0421\u0443\u043b\u0442\u0430\u043d\u0430\u0442 \u041e\u043c\u0430\u043d",
+                    "common": "\u041e\u043c\u0430\u043d"
                 },
                 "urd": {
                     "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c2 \u067e\u0627\u0643\u0633\u062a\u0627\u0646",
@@ -29888,6 +30588,10 @@
 				"official": "Pakistan \u0130slam Cumhuriyeti",
 				"common": "Pakistan"
 			},
+            "ukr": {
+                "official": "\u0406\u0441\u043b\u0430\u043c\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d",
+                "common": "\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d"
+            },
             "urd": {
                 "official": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
                 "common": "\u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
@@ -30061,6 +30765,10 @@
 				"official": "Panama Cumhuriyeti",
 				"common": "Panama"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u0430\u043d\u0430\u043c\u0430",
+                "common": "\u041f\u0430\u043d\u0430\u043c\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0627\u0646\u0627\u0645\u0627",
                 "common": "\u067e\u0627\u0646\u0627\u0645\u0627"
@@ -30228,6 +30936,10 @@
 				"official": "Pitcairn, Henderson, Ducie ve Oeno Adalar\u0131",
 				"common": "Pitcairn Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u041f\u0456\u0442\u043a\u0435\u0440\u043d",
+                "common": "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u041f\u0456\u0442\u043a\u0435\u0440\u043d"
+            },
             "urd": {
                 "official": "\u067e\u0679\u06a9\u06cc\u0631\u0646 \u062c\u0632\u0627\u0626\u0631",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u067e\u0679\u06a9\u06cc\u0631\u0646"
@@ -30402,6 +31114,10 @@
 				"official": "Peru Cumhuriyeti",
 				"common": "Peru"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u0435\u0440\u0443",
+                "common": "\u041f\u0435\u0440\u0443"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0648",
                 "common": "\u067e\u06cc\u0631\u0648"
@@ -30577,6 +31293,10 @@
 				"official": "Filipinler Cumhuriyeti",
 				"common": "Filipinler"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0424\u0456\u043b\u0456\u043f\u043f\u0456\u043d\u0438",
+                "common": "\u0424\u0456\u043b\u0456\u043f\u043f\u0456\u043d\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0641\u0644\u067e\u0627\u0626\u0646",
                 "common": "\u0641\u0644\u067e\u0627\u0626\u0646"
@@ -30746,6 +31466,10 @@
 				"official": "Palau Cumhuriyeti",
 				"common": "Palau"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u0430\u043b\u0430\u0443",
+                "common": "\u041f\u0430\u043b\u0430\u0443"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0644\u0627\u0624",
                 "common": "\u067e\u0644\u0627\u0624"
@@ -30920,6 +31644,10 @@
 				"official": "Papua Yeni Gine Ba\u011f\u0131ms\u0131z Devleti",
 				"common": "Papua Yeni Gine"
 			},
+            "ukr": {
+                "official": "\u041d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u0430 \u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u041f\u0430\u043f\u0443\u0430 \u041d\u043e\u0432\u0430 \u0413\u0432\u0456\u043d\u0435\u044f",
+                "common": "\u041f\u0430\u043f\u0443\u0430 \u041d\u043e\u0432\u0430 \u0413\u0432\u0456\u043d\u0435\u044f"
+            },
             "urd": {
                 "official": "\u0622\u0632\u0627\u062f \u0631\u06cc\u0627\u0633\u062a\u0650 \u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc",
                 "common": "\u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc"
@@ -31086,6 +31814,10 @@
 				"official": "Polonya Cumhuriyeti",
 				"common": "Polonya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u043e\u043b\u044c\u0449\u0430",
+                "common": "\u041f\u043e\u043b\u044c\u0449\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0648\u0644\u06cc\u0646\u0688",
                 "common": "\u067e\u0648\u0644\u06cc\u0646\u0688"
@@ -31264,6 +31996,10 @@
 				"official": "Porto Riko Toplulu\u011fu",
 				"common": "Porto Riko"
 			},
+            "ukr": {
+                "official": "\u0421\u043f\u0456\u0432\u0434\u0440\u0443\u0436\u043d\u0456\u0441\u0442\u044c \u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0438\u043a\u043e",
+                "common": "\u041f\u0443\u0435\u0440\u0442\u043e-\u0420\u0438\u043a\u043e"
+            },
             "urd": {
                 "official": " \u062f\u0648\u0644\u062a\u0650 \u0645\u0634\u062a\u0631\u06a9\u06c1 \u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648",
                 "common": "\u067e\u0648\u0631\u0679\u0648 \u0631\u06cc\u06a9\u0648"
@@ -31433,6 +32169,10 @@
 				"official": "Kore Demokratik Halk Cumhuriyeti",
 				"common": "Kuzey Kore"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u0435\u0439\u0441\u044c\u043a\u0430 \u041d\u0430\u0440\u043e\u0434\u043d\u043e-\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0430 \u041a\u043e\u0440\u0435\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u0639\u0648\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u0631\u06cc\u0627",
                 "common": "\u0634\u0645\u0627\u0644\u06cc \u06a9\u0648\u0631\u06cc\u0627"
@@ -31602,6 +32342,10 @@
 				"official": "Portekiz Cumhuriyeti",
 				"common": "Portekiz"
 			},
+            "ukr": {
+                "official": "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u044c\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0631\u062a\u06af\u0627\u0644",
                 "common": "\u067e\u0631\u062a\u06af\u0627\u0644"
@@ -31774,6 +32518,10 @@
 				"official": "Paraguay Cumhuriyeti",
 				"common": "Paraguay"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439",
+                "common": "\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2",
                 "common": "\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2"
@@ -31952,6 +32700,10 @@
 				"official": "Filistin Devleti",
 				"common": "Filistin"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430",
+                "common": "\u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0430"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0641\u0644\u0633\u0637\u06cc\u0646",
                 "common": "\u0641\u0644\u0633\u0637\u06cc\u0646"
@@ -32121,6 +32873,10 @@
 				"official": "Frans\u0131z Polinezyas\u0131",
 				"common": "Frans\u0131z Polinezyas\u0131"
 			},
+            "ukr": {
+                "official": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0430 \u041f\u043e\u043b\u0456\u043d\u0435\u0437\u0456\u044f",
+                "common": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u044c\u043a\u0430 \u041f\u043e\u043b\u0456\u043d\u0435\u0437\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627",
                 "common": "\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u067e\u0648\u0644\u06cc\u0646\u06cc\u0634\u06cc\u0627"
@@ -32286,6 +33042,10 @@
 				"official": "Katar Devleti",
 				"common": "Katar"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u041a\u0430\u0442\u0430\u0440",
+                "common": "\u041a\u0430\u0442\u0430\u0440"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u0650 \u0642\u0637\u0631",
                 "common": "\u0642\u0637\u0631"
@@ -32451,6 +33211,10 @@
 				"official": "Réunion",
 				"common": "Réunion"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u044e\u043d\u044c\u0439\u043e\u043d",
+                "common": "\u0420\u0435\u044e\u043d\u044c\u0439\u043e\u043d"
+            },
             "urd": {
                 "official": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba \u062c\u0632\u06cc\u0631\u06c1",
                 "common": "\u0631\u06d2 \u06cc\u0648\u0646\u06cc\u0648\u06ba"
@@ -32616,6 +33380,10 @@
 				"official": "Romanya",
 				"common": "Romanya"
 			},
+            "ukr": {
+                "official": "\u0420\u0443\u043c\u0443\u043d\u0456\u044f",
+                "common": "\u0420\u0443\u043c\u0443\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1",
                 "common": "\u0631\u0648\u0645\u0627\u0646\u06cc\u06c1"
@@ -32792,6 +33560,10 @@
 				"official": "Rusya Federasyonu",
 				"common": "Rusya"
 			},
+            "ukr": {
+                "official": "\u0420\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0430 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0456\u044f",
+                "common": "\u0420\u043e\u0441\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0631\u0648\u0633\u06cc \u0648\u0641\u0627\u0642",
                 "common": "\u0631\u0648\u0633"
@@ -32982,6 +33754,10 @@
 				"official": "Ruanda Cumhuriyeti",
 				"common": "Ruanda"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0420\u0443\u0430\u043d\u0434\u0430",
+                "common": "\u0420\u0443\u0430\u043d\u0434\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0631\u0648\u0627\u0646\u0688\u0627",
                 "common": "\u0631\u0648\u0627\u0646\u0688\u0627"
@@ -33153,6 +33929,10 @@
 				"official": "Suudi Arabistan Krall\u0131\u011f\u0131",
 				"common": "Suudi Arabistan"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0421\u0430\u0443\u0434\u0456\u0432\u0441\u044c\u043a\u0430 \u0410\u0440\u0430\u0432\u0456\u044f",
+                "common": "\u0421\u0430\u0443\u0434\u0456\u0432\u0441\u044c\u043a\u0430 \u0410\u0440\u0430\u0432\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628",
                 "common": "\u0633\u0639\u0648\u062f\u06cc \u0639\u0631\u0628"
@@ -33330,6 +34110,10 @@
 				"official": "Sudan Cumhuriyeti",
 				"common": "Sudan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u0443\u0434\u0430\u043d",
+                "common": "\u0421\u0443\u0434\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u062f\u0627\u0646",
                 "common": "\u0633\u0648\u062f\u0627\u0646"
@@ -33502,6 +34286,10 @@
 				"official": "Senegal Cumhuriyeti",
 				"common": "Senegal"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u0435\u043d\u0435\u0433\u0430\u043b",
+                "common": "\u0421\u0435\u043d\u0435\u0433\u0430\u043b"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0646\u06cc\u06af\u0627\u0644",
                 "common": "\u0633\u06cc\u0646\u06cc\u06af\u0627\u0644"
@@ -33690,6 +34478,10 @@
 				"official": "Singapur Cumhuriyeti",
 				"common": "Singapur"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u0456\u043d\u0433\u0430\u043f\u0443\u0440",
+                "common": "\u0421\u0456\u043d\u0433\u0430\u043f\u0443\u0440"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0646\u06af\u0627\u067e\u0648\u0631",
                 "common": "\u0633\u0646\u06af\u0627\u067e\u0648\u0631"
@@ -33853,6 +34645,10 @@
 				"official": "G\u00fcney Georgia ve G\u00fcney Sandwich Adalar\u0131",
 				"common": "G\u00fcney Georgia ve G\u00fcney Sandwich Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u0414\u0436\u043e\u0440\u0434\u0436\u0456\u044f \u0442\u0430 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0456 \u0421\u0430\u043d\u0434\u0432\u0456\u0447\u0435\u0432\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u0414\u0436\u043e\u0440\u0434\u0436\u0456\u044f \u0442\u0430 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0456 \u0421\u0430\u043d\u0434\u0432\u0456\u0447\u0435\u0432\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0646\u0648\u0628\u06cc \u062c\u0627\u0631\u062c\u06cc\u0627 \u0648 \u062c\u0632\u0627\u0626\u0631 \u062c\u0646\u0648\u0628\u06cc \u0633\u06cc\u0646\u0688\u0648\u0686",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u062c\u0627\u0631\u062c\u06cc\u0627"
@@ -34016,6 +34812,10 @@
 				"official": "Svalbard ve Jan Mayen",
 				"common": "Svalbard ve Jan Mayen"
 			},
+            "ukr": {
+                "official": "\u0428\u043f\u0456\u0446\u0431\u0435\u0440\u0433\u0435\u043d \u0456 \u042f\u043d-\u041c\u0430\u0454\u043d",
+                "common": "\u0428\u043f\u0456\u0446\u0431\u0435\u0440\u0433\u0435\u043d \u0456 \u042f\u043d-\u041c\u0430\u0454\u043d"
+            },
             "urd": {
                 "official": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646",
                 "common": "\u0633\u0648\u0627\u0644\u0628\u0627\u0631\u0688 \u0627\u0648\u0631 \u062c\u0627\u0646 \u0645\u06cc\u0626\u0646"
@@ -34178,6 +34978,10 @@
 				"official": "Solomon Adalar\u0131",
 				"common": "Solomon Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u0421\u043e\u043b\u043e\u043c\u043e\u043d\u043e\u0432\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"
@@ -34341,6 +35145,10 @@
 				"official": "Sierra Leone Cumhuriyeti",
 				"common": "Sierra Leone"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u044c\u0454\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435",
+                "common": "\u0421\u044c\u0454\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646",
                 "common": "\u0633\u06cc\u0631\u0627\u0644\u06cc\u0648\u0646"
@@ -34508,6 +35316,10 @@
 				"official": "El Salvador Cumhuriyeti",
 				"common": "El Salvador"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0415\u043b\u044c-\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440",
+                "common": "\u0421\u0430\u043b\u044c\u0432\u0430\u0434\u043e\u0440"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631",
                 "common": "\u0627\u06cc\u0644 \u0633\u06cc\u0644\u0648\u0627\u0688\u0648\u0631"
@@ -34675,6 +35487,10 @@
 				"official": "San Marino Cumhuriyeti",
 				"common": "San Marino"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e",
+                "common": "\u0421\u0430\u043d-\u041c\u0430\u0440\u0438\u043d\u043e"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648",
                 "common": "\u0633\u0627\u0646 \u0645\u0627\u0631\u06cc\u0646\u0648"
@@ -34848,6 +35664,10 @@
 				"official": "Somali Federal Cumhuriyeti",
 				"common": "Somali"
 			},
+            "ukr": {
+                "official": "\u0424\u0435\u0434\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u043e\u043c\u0430\u043b\u0456",
+                "common": "\u0421\u043e\u043c\u0430\u043b\u0456"
+            },
             "urd": {
                 "official": "\u0648\u0641\u0627\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0635\u0648\u0645\u0627\u0644\u06cc\u06c1",
                 "common": "\u0635\u0648\u0645\u0627\u0644\u06cc\u06c1"
@@ -35015,6 +35835,10 @@
 				"official": "Saint Pierre ve Miquelon",
 				"common": "Saint Pierre ve Miquelon"
 			},
+            "ukr": {
+                "official": "\u0421\u0435\u043d-\u041f\u2019\u0454\u0440 \u0456 \u041c\u0456\u043a\u0435\u043b\u043e\u043d",
+                "common": "\u0421\u0435\u043d-\u041f\u2019\u0454\u0440 \u0456 \u041c\u0456\u043a\u0435\u043b\u043e\u043d"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646",
                 "common": "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0626\u0631 \u0648 \u0645\u06cc\u06a9\u06cc\u0644\u0648\u0646"
@@ -35183,6 +36007,10 @@
 				"official": "S\u0131rbistan Cumhuriyeti",
 				"common": "S\u0131rbistan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u0435\u0440\u0431\u0456\u044f",
+                "common": "\u0421\u0435\u0440\u0431\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u0628\u06cc\u0627",
                 "common": "\u0633\u0631\u0628\u06cc\u0627"
@@ -35354,6 +36182,10 @@
 				"official": "G\u00fcney Sudan Cumhuriyeti",
 				"common": "G\u00fcney Sudan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u0421\u0443\u0434\u0430\u043d",
+                "common": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u0421\u0443\u0434\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646"
@@ -35526,6 +36358,10 @@
 				"official": "S\u00e3o Tom\u00e9 ve Pr\u00edncipe Demokratik Cumhuriyeti",
 				"common": "S\u00e3o Tom\u00e9 ve Pr\u00edncipe"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0456 \u041f\u0440\u0438\u043d\u0441\u0456\u043f\u0456",
+                "common": "\u0421\u0430\u043d-\u0422\u043e\u043c\u0435 \u0456 \u041f\u0440\u0438\u043d\u0441\u0456\u043f\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2",
                 "common": "\u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0648 \u067e\u0631\u0646\u0633\u067e\u06d2"
@@ -35692,6 +36528,10 @@
 				"official": "Surinam Cumhuriyeti",
 				"common": "Surinam"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u0443\u0440\u0438\u043d\u0430\u043c",
+                "common": "\u0421\u0443\u0440\u0438\u043d\u0430\u043c"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0631\u06cc\u0646\u0627\u0645",
                 "common": "\u0633\u0631\u06cc\u0646\u0627\u0645"
@@ -35860,6 +36700,10 @@
 				"official": "Slovak Cumhuriyeti",
 				"common": "Slovakya"
 			},
+            "ukr": {
+                "official": "\u0421\u043b\u043e\u0432\u0430\u0446\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0421\u043b\u043e\u0432\u0430\u0447\u0447\u0438\u043d\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1",
                 "common": "\u0633\u0644\u0648\u0648\u0627\u06a9\u06cc\u06c1"
@@ -36030,6 +36874,10 @@
 				"official": "Slovenya Cumhuriyeti",
 				"common": "Slovenya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u043b\u043e\u0432\u0435\u043d\u0456\u044f",
+                "common": "\u0421\u043b\u043e\u0432\u0435\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627",
                 "common": "\u0633\u0644\u0648\u0648\u06cc\u0646\u06cc\u0627"
@@ -36199,6 +37047,10 @@
 				"official": "\u0130sve\u00e7 Krall\u0131\u011f\u0131",
 				"common": "\u0130sve\u00e7"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0428\u0432\u0435\u0446\u0456\u044f",
+                "common": "\u0428\u0432\u0435\u0446\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u06cc\u0688\u0646",
                 "common": "\u0633\u0648\u06cc\u0688\u0646"
@@ -36379,6 +37231,10 @@
 				"official": "Esvatini Krall\u0131\u011f\u0131",
 				"common": "Esvatini"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0415\u0441\u0432\u0430\u0442\u0456\u043d\u0456",
+                "common": "\u0415\u0441\u0432\u0430\u0442\u0456\u043d\u0456"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688",
                 "common": "\u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0646\u0688"
@@ -36555,6 +37411,10 @@
 				"official": "Sint Maarten",
 				"common": "Sint Maarten"
 			},
+            "ukr": {
+                "official": "\u0421\u0456\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d",
+                "common": "\u0421\u0456\u043d\u0442-\u041c\u0430\u0440\u0442\u0435\u043d"
+            },
             "urd": {
                 "official": "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646",
                 "common": "\u0633\u0646\u0679 \u0645\u0627\u0631\u0679\u0646"
@@ -36732,6 +37592,10 @@
 				"official": "Sey\u015feller Cumhuriyeti",
 				"common": "Sey\u015feller"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u044c\u043a\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u0421\u0435\u0439\u0448\u0435\u043b\u044c\u0441\u044c\u043a\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633",
                 "common": "\u0633\u06cc\u0686\u06cc\u0644\u06cc\u0633"
@@ -36897,6 +37761,10 @@
 				"official": "Suriye Arap Cumhuriyeti",
 				"common": "Suriye"
 			},
+            "ukr": {
+                "official": "\u0421\u0438\u0440\u0456\u0439\u0441\u044c\u043a\u0430 \u0410\u0440\u0430\u0431\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0421\u0438\u0440\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0639\u0631\u0628 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0633\u0648\u0631\u06cc\u06c1",
                 "common": "\u0633\u0648\u0631\u06cc\u06c1"
@@ -37065,6 +37933,10 @@
 				"official": "Turks ve Caicos Adalar\u0131",
 				"common": "Turks ve Caicos Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0422\u0435\u0440\u043a\u0441 \u0456 \u041a\u0430\u0439\u043a\u043e\u0441",
+                "common": "\u041e\u0441\u0442\u0440\u043e\u0432\u0438 \u0422\u0435\u0440\u043a\u0441 \u0456 \u041a\u0430\u0439\u043a\u043e\u0441"
+            },
             "urd": {
                 "official": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1",
                 "common": "\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1"
@@ -37235,6 +38107,10 @@
 				"official": "\u00e7ad Cumhuriyeti",
 				"common": "\u00e7ad"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0427\u0430\u0434",
+                "common": "\u0427\u0430\u0434"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u0627\u0688",
                 "common": "\u0686\u0627\u0688"
@@ -37407,6 +38283,10 @@
 				"official": "Togo Cumhuriyeti",
 				"common": "Togo"
 			},
+            "ukr": {
+                "official": "\u0422\u043e\u0433\u043e\u043b\u0435\u0437\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0422\u043e\u0433\u043e"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0648\u06af\u0648",
                 "common": "\u0679\u0648\u06af\u0648"
@@ -37579,6 +38459,10 @@
 				"official": "Tayland Krall\u0131\u011f\u0131",
 				"common": "Tayland"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0422\u0430\u0457\u043b\u0430\u043d\u0434",
+                "common": "\u0422\u0430\u0457\u043b\u0430\u043d\u0434"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688",
                 "common": "\u062a\u06be\u0627\u0626\u06cc \u0644\u06cc\u0646\u0688"
@@ -37755,6 +38639,10 @@
 				"official": "Tacikistan Cumhuriyeti",
 				"common": "Tacikistan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+                "common": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646",
                 "common": "\u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"
@@ -37932,6 +38820,10 @@
 				"official": "Tokelau",
 				"common": "Tokelau"
 			},
+            "ukr": {
+                "official": "\u0422\u043e\u043a\u0435\u043b\u0430\u0443",
+                "common": "\u0422\u043e\u043a\u0435\u043b\u0430\u0443"
+            },
             "urd": {
                 "official": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624",
                 "common": "\u0679\u0648\u06a9\u06cc\u0644\u0627\u0624"
@@ -38099,6 +38991,10 @@
 				"official": "T\u00fcrkmenistan",
 				"common": "T\u00fcrkmenistan"
 			},
+            "ukr": {
+                "official": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0456\u0441\u0442\u0430\u043d",
+                "common": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0456\u0441\u0442\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646",
                 "common": "\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646"
@@ -38278,6 +39174,10 @@
 				"official": "Do\u011fu Timor Demokratik Cumhuriyeti",
 				"common": "Do\u011fu Timor"
 			},
+            "ukr": {
+                "official": "\u0414\u0435\u043c\u043e\u043a\u0440\u0430\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0448\u0442\u0456",
+                "common": "\u0422\u0438\u043c\u043e\u0440-\u041b\u0435\u0448\u0442\u0456"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631",
                 "common": "\u0645\u0634\u0631\u0642\u06cc \u062a\u06cc\u0645\u0648\u0631"
@@ -38447,6 +39347,10 @@
 				"official": "Tonga Krall\u0131\u011f\u0131",
 				"common": "Tonga"
 			},
+            "ukr": {
+                "official": "\u041a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u0442\u0432\u043e \u0422\u043e\u043d\u0433\u0430",
+                "common": "\u0422\u043e\u043d\u0433\u0430"
+            },
             "urd": {
                 "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0679\u0648\u0646\u06af\u0627",
                 "common": "\u0679\u0648\u0646\u06af\u0627"
@@ -38610,6 +39514,10 @@
 				"official": "Trinidad ve Tobago Cumhuriyeti",
 				"common": "Trinidad ve Tobago"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0422\u0440\u0438\u043d\u0456\u0434\u0430\u0434 \u0456 \u0422\u043e\u0431\u0430\u0433\u043e",
+                "common": "\u0422\u0440\u0438\u043d\u0456\u0434\u0430\u0434 \u0456 \u0422\u043e\u0431\u0430\u0433\u043e"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648",
                 "common": "\u0679\u0631\u06cc\u0646\u06cc\u0688\u0627\u0688 \u0648 \u0679\u0648\u0628\u0627\u06af\u0648"
@@ -38774,6 +39682,10 @@
 				"official": "Tunus Cumhuriyeti",
 				"common": "Tunus"
 			},
+            "ukr": {
+                "official": "\u0422\u0443\u043d\u0456\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0422\u0443\u043d\u0456\u0441"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0648\u0646\u0633",
                 "common": "\u062a\u0648\u0646\u0633"
@@ -38942,6 +39854,10 @@
 				"official": "T\u00fcrkiye Cumhuriyeti",
 				"common": "T\u00fcrkiye"
 			},
+            "ukr": {
+                "official": "\u0422\u0443\u0440\u0435\u0446\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0422\u0443\u0440\u0435\u0447\u0447\u0438\u043d\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0631\u06a9\u06cc",
                 "common": "\u062a\u0631\u06a9\u06cc"
@@ -39122,6 +40038,10 @@
 				"official": "Tuvalu",
 				"common": "Tuvalu"
 			},
+            "ukr": {
+                "official": "\u0422\u0443\u0432\u0430\u043b\u0443",
+                "common": "\u0422\u0443\u0432\u0430\u043b\u0443"
+            },
             "urd": {
                 "official": "\u062a\u0648\u0648\u0627\u0644\u0648",
                 "common": "\u062a\u0648\u0648\u0627\u0644\u0648"
@@ -39291,6 +40211,10 @@
 				"official": "\u00e7in Cumhuriyeti (Tayvan)",
 				"common": "Tayvan"
 			},
+            "ukr": {
+                "official": "\u041a\u0438\u0442\u0430\u0439\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0422\u0430\u0439\u0432\u0430\u043d\u044c"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0686\u06cc\u0646 (\u062a\u0627\u0626\u06cc\u0648\u0627\u0646)",
                 "common": "\u062a\u0627\u0626\u06cc\u0648\u0627\u0646"
@@ -39461,6 +40385,10 @@
 				"official": "Tanzanya Birle\u015fik Cumhuriyeti",
 				"common": "Tanzanya"
 			},
+            "ukr": {
+                "official": "\u041e\u0431\u2019\u0454\u0434\u043d\u0430\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0422\u0430\u043d\u0437\u0430\u043d\u0456\u044f",
+                "common": "\u0422\u0430\u043d\u0437\u0430\u043d\u0456\u044f"
+            },
             "urd": {
                 "official": "\u0645\u062a\u062d\u062f\u06c1 \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062a\u0646\u0632\u0627\u0646\u06cc\u06c1",
                 "common": "\u062a\u0646\u0632\u0627\u0646\u06cc\u06c1"
@@ -39639,6 +40567,10 @@
 				"official": "Uganda Cumhuriyeti",
 				"common": "Uganda"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0423\u0433\u0430\u043d\u0434\u0430",
+                "common": "\u0423\u0433\u0430\u043d\u0434\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0648\u06af\u0646\u0688\u0627",
                 "common": "\u06cc\u0648\u06af\u0646\u0688\u0627"
@@ -39809,6 +40741,10 @@
 				"official": "Ukrayna",
 				"common": "Ukrayna"
 			},
+            "ukr": {
+                "official": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+                "common": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430"
+            },
             "urd": {
                 "official": "\u06cc\u0648\u06a9\u0631\u06cc\u0646",
                 "common": "\u06cc\u0648\u06a9\u0631\u06cc\u0646"
@@ -39977,6 +40913,10 @@
 				"official": "Amerika Birle\u015fik Devletleri K\u00fc\u00e7\u00fck D\u0131\u015f Adalar\u0131",
 				"common": "Amerika Birle\u015fik Devletleri K\u00fc\u00e7\u00fck D\u0131\u015f Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u0417\u043e\u0432\u043d\u0456\u0448\u043d\u0456 \u043c\u0430\u043b\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438 \u0421\u0428\u0410",
+                "common": "\u0417\u043e\u0432\u043d\u0456\u0448\u043d\u0456 \u043c\u0430\u043b\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438 \u0421\u0428\u0410"
+            },
             "urd": {
                 "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631",
                 "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0686\u06be\u0648\u0679\u06d2 \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631"
@@ -40141,6 +41081,10 @@
 				"official": "Uruguay Do\u011fu Cumhuriyeti",
 				"common": "Uruguay"
 			},
+            "ukr": {
+                "official": "\u0421\u0445\u0456\u0434\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0423\u0440\u0443\u0433\u0432\u0430\u0439",
+                "common": "\u0423\u0440\u0443\u0433\u0432\u0430\u0439"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0634\u0631\u0642\u06cc\u06c1 \u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2",
                 "common": "\u06cc\u0648\u0631\u0627\u06af\u0648\u0626\u06d2"
@@ -40687,6 +41631,10 @@
 				"official": "Amerika Birle\u015fik Devletleri",
 				"common": "Amerika Birle\u015fik Devletleri"
 			},
+            "ukr": {
+                "official": "\u0421\u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0456 \u0428\u0442\u0430\u0442\u0438 \u0410\u043c\u0435\u0440\u0438\u043a\u0438",
+                "common": "\u0421\u0428\u0410"
+            },
             "urd": {
                 "official": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1 \u0627\u0645\u0631\u06cc\u06a9\u0627",
                 "common": "\u0631\u06cc\u0627\u0633\u062a\u06c1\u0627\u0626\u06d2 \u0645\u062a\u062d\u062f\u06c1"
@@ -40860,6 +41808,10 @@
 				"official": "\u00f6zbekistan Cumhuriyeti",
 				"common": "\u00f6zbekistan"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+                "common": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646",
                 "common": "\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646"
@@ -41038,6 +41990,10 @@
 				"official": "Vatikan \u015fehir Devleti",
 				"common": "Vatikan"
 			},
+            "ukr": {
+                "official": "\u041c\u0456\u0441\u0442\u043e-\u0434\u0435\u0440\u0436\u0430\u0432\u0430 \u0412\u0430\u0442\u0438\u043a\u0430\u043d",
+                "common": "\u0412\u0430\u0442\u0438\u043a\u0430\u043d"
+            },
             "urd": {
                 "official": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc",
                 "common": "\u0648\u06cc\u0679\u06cc\u06a9\u0646 \u0633\u0679\u06cc"
@@ -41202,6 +42158,10 @@
 				"official": "Saint Vincent ve Grenadinler",
 				"common": "Saint Vincent ve Grenadinler"
 			},
+            "ukr": {
+                "official": "\u0421\u0435\u043d\u0442-\u0412\u0456\u043d\u0441\u0435\u043d\u0442 \u0456 \u0413\u0440\u0435\u043d\u0430\u0434\u0456\u043d\u0438",
+                "common": "\u0421\u0435\u043d\u0442-\u0412\u0456\u043d\u0441\u0435\u043d\u0442 \u0456 \u0413\u0440\u0435\u043d\u0430\u0434\u0456\u043d\u0438"
+            },
             "urd": {
                 "official": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632",
                 "common": "\u0633\u06cc\u0646\u0679 \u0648\u06cc\u0646\u0633\u06cc\u0646\u0679 \u0648 \u06af\u0631\u06cc\u0646\u0627\u0688\u0627\u0626\u0646\u0632"
@@ -41367,6 +42327,10 @@
 				"official": "Bolivarc\u0131 Venezuela Cumhuriyeti",
 				"common": "Venezuela"
 			},
+            "ukr": {
+                "official": "\u0411\u043e\u043b\u0456\u0432\u0430\u0440\u0456\u0430\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0412\u0435\u043d\u0435\u0441\u0443\u0435\u043b\u0430",
+                "common": "\u0412\u0435\u043d\u0435\u0441\u0443\u0435\u043b\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627",
                 "common": "\u0648\u06cc\u0646\u06cc\u0632\u0648\u06cc\u0644\u0627"
@@ -41534,6 +42498,10 @@
 				"official": "Virjin Adalar\u0131",
 				"common": "Virjin Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u044c\u043a\u0456 \u0412\u0456\u0440\u0433\u0456\u043d\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438",
+                "common": "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u044c\u043a\u0456 \u0412\u0456\u0440\u0433\u0456\u043d\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+            },
             "urd": {
                 "official": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646",
                 "common": "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"
@@ -41697,6 +42665,10 @@
 				"official": "Amerika Birle\u015fik Devletleri Virjin Adalar\u0131",
 				"common": "ABD Virjin Adalar\u0131"
 			},
+            "ukr": {
+                "official": "\u0412\u0456\u0440\u0433\u0456\u043d\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438 \u0421\u0428\u0410",
+                "common": "\u0412\u0456\u0440\u0433\u0456\u043d\u0441\u044c\u043a\u0456 \u043e\u0441\u0442\u0440\u043e\u0432\u0438 \u0421\u0428\u0410"
+            },
             "urd": {
                 "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646",
                 "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"
@@ -41862,6 +42834,10 @@
 				"official": "Vietnam Sosyalist Cumhuriyeti",
 				"common": "Vietnam"
 			},
+            "ukr": {
+                "official": "\u0421\u043e\u0446\u0456\u0430\u043b\u0456\u0441\u0442\u0438\u0447\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0412\u2019\u0454\u0442\u043d\u0430\u043c",
+                "common": "\u0412\u2019\u0454\u0442\u043d\u0430\u043c"
+            },
             "urd": {
                 "official": "\u0627\u0634\u062a\u0631\u0627\u06a9\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u06cc\u062a\u0646\u0627\u0645",
                 "common": "\u0648\u06cc\u062a\u0646\u0627\u0645"
@@ -42041,6 +43017,10 @@
 				"official": "Vanuatu Cumhuriyeti",
 				"common": "Vanuatu"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0412\u0430\u043d\u0443\u0430\u0442\u0443",
+                "common": "\u0412\u0430\u043d\u0443\u0430\u0442\u0443"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0648\u0627\u0646\u0648\u0627\u062a\u0648",
                 "common": "\u0648\u0627\u0646\u0648\u0627\u062a\u0648"
@@ -42205,6 +43185,10 @@
 				"official": "Wallis ve Futuna Adalar\u0131 B\u00f6lgesi",
 				"common": "Wallis ve Futuna Adalar\u0131 B\u00f6lgesi"
 			},
+            "ukr": {
+                "official": "\u0412\u043e\u043b\u043b\u0456\u0441 \u0456 \u0424\u0443\u0442\u0443\u043d\u0430",
+                "common": "\u0412\u043e\u043b\u043b\u0456\u0441 \u0456 \u0424\u0443\u0442\u0443\u043d\u0430"
+            },
             "urd": {
                 "official": "\u0633\u0631 \u0632\u0645\u06cc\u0646\u0650 \u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1 \u062c\u0632\u0627\u0626\u0631",
                 "common": "\u0648\u0627\u0644\u0633 \u0648 \u0641\u062a\u0648\u0646\u06c1"
@@ -42374,6 +43358,10 @@
 				"official": "Ba\u011f\u0131ms\u0131z Samoa Devleti",
 				"common": "Ba\u011f\u0131ms\u0131z Samoa Devleti"
 			},
+            "ukr": {
+                "official": "\u041d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u0430 \u0414\u0435\u0440\u0436\u0430\u0432\u0430 \u0421\u0430\u043c\u043e\u0430",
+                "common": "\u0421\u0430\u043c\u043e\u0430"
+            },
             "urd": {
                 "official": "\u0622\u0632\u0627\u062f \u0633\u0644\u0637\u0646\u062a\u0650 \u0633\u0627\u0645\u0648\u0627",
                 "common": "\u0633\u0627\u0645\u0648\u0648\u0627"
@@ -42538,6 +43526,10 @@
 				"official": "Yemen Cumhuriyeti",
 				"common": "Yemen"
 			},
+            "ukr": {
+                "official": "\u0404\u043c\u0435\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u0404\u043c\u0435\u043d"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06cc\u0645\u0646",
                 "common": "\u06cc\u0645\u0646"
@@ -42758,6 +43750,10 @@
 				"official": "G\u00fcney Afrika Cumhuriyeti",
 				"common": "G\u00fcney Afrika"
 			},
+            "ukr": {
+                "official": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u043e-\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430",
+                "common": "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0430 \u0410\u0444\u0440\u0438\u043a\u0430"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627",
                 "common": "\u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u0627"
@@ -42928,6 +43924,10 @@
 				"official": "Zambiya Cumhuriyeti",
 				"common": "Zambiya"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0417\u0430\u043c\u0431\u0456\u044f",
+                "common": "\u0417\u0430\u043c\u0431\u0456\u044f"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u06cc\u0645\u0628\u06cc\u0627",
                 "common": "\u0632\u06cc\u0645\u0628\u06cc\u0627"
@@ -43202,6 +44202,10 @@
 				"official": "Zimbabve Cumhuriyeti",
 				"common": "Zimbabve"
 			},
+            "ukr": {
+                "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0417\u0456\u043c\u0431\u0430\u0431\u0432\u0435",
+                "common": "\u0417\u0456\u043c\u0431\u0430\u0431\u0432\u0435"
+            },
             "urd": {
                 "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u0645\u0628\u0627\u0628\u0648\u06d2",
                 "common": "\u0632\u0645\u0628\u0627\u0628\u0648\u06d2"
